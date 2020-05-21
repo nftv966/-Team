@@ -1490,57 +1490,49 @@ http://ecuaplaytv.com:8000/Nous2019iptv/fwh0NMSWm7/62602
 https://stream.vagalume.fm/hls/1470169276225492/aac.m3u8
 #######################################
 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/artigas-tv.png" group-title="20- URUGUAY",Canal 3 Artigas (3)
+http://flowfhd.xyz:25461/mora/mora/23595
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/artigas-tv.png" group-title="20- URUGUAY",Canal 3 Artigas (6)
+http://flowfhd.xyz:25461/0000/0000/23595
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal-4-salto-uruagua-1.png" group-title="20- URUGUAY",Canal 4 Salto (3)
+http://flowfhd.xyz:25461/mora/mora/23593
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal-4-salto-uruagua-1.png" group-title="20- URUGUAY",Canal 4 Salto (6)
-http://tv5full.xyz:25461/Danielencalada/19790824/1519
+http://flowfhd.xyz:25461/0000/0000/23593
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/charrua-tv.png" group-title="20- URUGUAY",Charrua tv (2)
-http://ecuaplaytv.com:8000/Nous2019iptv/fwh0NMSWm7/104889
+#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/10425/240/default.jpg" group-title="20- URUGUAY",Canal 7 Punta del Este (3)
+http://flowfhd.xyz:25461/mora/mora/15100
+#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/10425/240/default.jpg" group-title="20- URUGUAY",Canal 7 Punta del Este (6)
+http://flowfhd.xyz:25461/0000/0000/15100
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="20- URUGUAY",Montecarlo (2)
-http://ecuaplaytv.com:8000/Nous2019iptv/fwh0NMSWm7/60260
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="20- URUGUAY",Montecarlo (2)
-http://ecuaplaytv.com:8000/Nous2019iptv/fwh0NMSWm7/60272
+#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6077/240/default.jpg" group-title="20- URUGUAY",Canal 8 Durazno (3)
+http://flowfhd.xyz:25461/mora/mora/23591
+#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6077/240/default.jpg" group-title="20- URUGUAY",Canal 8 Durazno (6)
+http://flowfhd.xyz:25461/0000/0000/23591
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="20- URUGUAY",Montecarlo (3)
+http://flowfhd.xyz:25461/mora/mora/15100
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="20- URUGUAY",Montecarlo (6)
+http://flowfhd.xyz:25461/0000/0000/15100
 
 #EXTINF:-1 tvg-logo="http://www.canalm.tv/plantillas/temas/canalm/imagenes/canalm.png" group-title="20- URUGUAY",Montevideo Portal SD
 http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist_w1488231185.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/canal10.png" group-title="20- URUGUAY",Saeta Canal 10 (2)
-http://ecuaplaytv.com:8000/Nous2019iptv/fwh0NMSWm7/60278
-#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/canal10.png" group-title="20- URUGUAY",Saeta Canal 10 (2)
-http://ecuaplaytv.com:8000/Nous2019iptv/fwh0NMSWm7/103767
+#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/canal10.png" group-title="20- URUGUAY",Saeta Canal 10 (3)
+http://flowfhd.xyz:25461/mora/mora/23585
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/canal10.png" group-title="20- URUGUAY",Saeta Canal 10 (6)
-http://tv5full.xyz:25461/Danielencalada/19790824/1174
+http://flowfhd.xyz:25461/0000/0000/23585
 
-#EXTINF:-1 tvg-logo="https://www.teledoce.com/wp-content/uploads/2019/09/logo-teledoce-2019_azul.png" group-title="20- URUGUAY",Teledoce (2)
-http://ecuaplaytv.com:8000/Nous2019iptv/fwh0NMSWm7/60276
-#EXTINF:-1 tvg-logo="https://www.teledoce.com/wp-content/uploads/2019/09/logo-teledoce-2019_azul.png" group-title="20- URUGUAY",Teledoce (2)
-http://ecuaplaytv.com:8000/Nous2019iptv/fwh0NMSWm7/103211
-#EXTINF:-1 tvg-logo="https://www.teledoce.com/wp-content/uploads/2019/09/logo-teledoce-2019_azul.png" group-title="20- URUGUAY",Teledoce (2)
-http://ecuaplaytv.com:8000/Nous2019iptv/fwh0NMSWm7/103766
+#EXTINF:-1 tvg-logo="https://www.teledoce.com/wp-content/uploads/2019/09/logo-teledoce-2019_azul.png" group-title="20- URUGUAY",Teledoce (3)
+http://flowfhd.xyz:25461/mora/mora/15099
+#EXTINF:-1 tvg-logo="https://www.teledoce.com/wp-content/uploads/2019/09/logo-teledoce-2019_azul.png" group-title="20- URUGUAY",Teledoce (6)
+http://flowfhd.xyz:25461/0000/0000/15099
 
-#EXTINF:-1 tvg-logo="http://www.tnu.com.uy/image/1024x1024.png" group-title="20- URUGUAY",TNU (2)
-http://ecuaplaytv.com:8000/Nous2019iptv/fwh0NMSWm7/60255
+#EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_2da07aaf6d.png" group-title="20- URUGUAY",VTV_OFF_
 
-#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/vera.png" group-title="20- URUGUAY",Vera + (2)
-http://ecuaplaytv.com:8000/Nous2019iptv/fwh0NMSWm7/60281
 
-#EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_2da07aaf6d.png" group-title="20- URUGUAY",VTV (2)
-http://ecuaplaytv.com:8000/Nous2019iptv/fwh0NMSWm7/67497
-#EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_2da07aaf6d.png" group-title="20- URUGUAY",VTV (2)
-http://ecuaplaytv.com:8000/Nous2019iptv/fwh0NMSWm7/64484
-#EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_2da07aaf6d.png" group-title="20- URUGUAY",VTV (2)
-http://ecuaplaytv.com:8000/Nous2019iptv/fwh0NMSWm7/103053
-#EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_2da07aaf6d.png" group-title="20- URUGUAY",VTV (6)
-http://tv5full.xyz:25461/Danielencalada/19790824/1175
-#EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_2da07aaf6d.png" group-title="20- URUGUAY",VTV (6)
-http://tv5full.xyz:25461/Danielencalada/19790824/1177
-#EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_2da07aaf6d.png" group-title="20- URUGUAY",VTV (6)
-http://tv5full.xyz:25461/Danielencalada/19790824/3991
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-2A5wJVTgb4Y/UPFifoWY2TI/AAAAAAAAAV8/g_Lasd6u1LI/s1600/VTV+.jpg" group-title="20- URUGUAY",VTV +_OFF_
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-2A5wJVTgb4Y/UPFifoWY2TI/AAAAAAAAAV8/g_Lasd6u1LI/s1600/VTV+.jpg" group-title="20- URUGUAY",VTV + (2)
-http://ecuaplaytv.com:8000/Nous2019iptv/fwh0NMSWm7/67013
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-2A5wJVTgb4Y/UPFifoWY2TI/AAAAAAAAAV8/g_Lasd6u1LI/s1600/VTV+.jpg" group-title="20- URUGUAY",VTV + (6)
-http://tv5full.xyz:25461/Danielencalada/19790824/1176
 
 ######################################################################################################################################
 ####################################### USA
