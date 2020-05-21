@@ -186,7 +186,7 @@ http://lista.serverpower.me:80/live/150887/150887/37096.rtmp
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (4)
 http://lista.serverpower.me:80/147686/147686/37096
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (5)
-http://a.srvbr.me:8880/118692/118692/887
+http://a.srvbr.me:8880/000111/000111/887
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-brasil_m.png" group-title="04- BRASIL",Canal Brasil (1)
 http://a.srvbr.me:8880/040488/040488/883
@@ -197,7 +197,7 @@ http://lista.serverpower.me:80/live/150887/150887/37105.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-brasil_m.png" group-title="04- BRASIL",Canal Brasil (4)
 http://lista.serverpower.me:80/147686/147686/37105
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-brasil_m.png" group-title="04- BRASIL",Canal Brasil (5)
-http://a.srvbr.me:8880/118692/118692/883
+http://a.srvbr.me:8880/000111/000111/883
 
 #EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tvgazeta.png" group-title="04- BRASIL",Gazeta_OFF_
 http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
@@ -211,7 +211,7 @@ http://lista.serverpower.me:80/live/150887/150887/48371.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-bahia-hd_m.png" group-title="04- BRASIL",Globo Bahia (4)
 http://lista.serverpower.me:80/147686/147686/48371
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-bahia-hd_m.png" group-title="04- BRASIL",Globo Bahia (5)
-http://a.srvbr.me:8880/118692/118692/5071
+http://a.srvbr.me:8880/000111/000111/5071
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo Brasilia (1)
 http://a.srvbr.me:8880/040488/040488/831
@@ -222,7 +222,7 @@ http://lista.serverpower.me:80/live/150887/150887/40458.rtmp
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo Brasilia (4)
 http://lista.serverpower.me:80/147686/147686/40458
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo Brasilia (5)
-http://a.srvbr.me:8880/118692/118692/831
+http://a.srvbr.me:8880/000111/000111/831
 
 #EXTINF:-1 tvg-logo="https://apicesistemasdeenergia.com.br/wp-content/uploads/2016/02/Eptv.jpg" group-title="04- BRASIL",Globo EPTV R. Preto (1)
 http://a.srvbr.me:8880/040488/040488/5312
@@ -233,7 +233,7 @@ http://lista.serverpower.me:80/live/150887/150887/40461.rtmp
 #EXTINF:-1 tvg-logo="https://apicesistemasdeenergia.com.br/wp-content/uploads/2016/02/Eptv.jpg" group-title="04- BRASIL",Globo EPTV R. Preto (4)
 http://lista.serverpower.me:80/147686/147686/40461
 #EXTINF:-1 tvg-logo="https://apicesistemasdeenergia.com.br/wp-content/uploads/2016/02/Eptv.jpg" group-title="04- BRASIL",Globo EPTV R. Preto (5)
-http://a.srvbr.me:8880/118692/118692/5312
+http://a.srvbr.me:8880/000111/000111/5312
 
 #EXTINF:-1 tvg-logo="https://apicesistemasdeenergia.com.br/wp-content/uploads/2016/02/Eptv.jpg" group-title="04- BRASIL",Globo EPTV Sao Carlos (1)
 http://a.srvbr.me:8880/040488/040488/5129
@@ -244,7 +244,7 @@ http://lista.serverpower.me:80/live/150887/150887/40462.rtmp
 #EXTINF:-1 tvg-logo="https://apicesistemasdeenergia.com.br/wp-content/uploads/2016/02/Eptv.jpg" group-title="04- BRASIL",Globo EPTV Sao Carlos (4)
 http://lista.serverpower.me:80/147686/147686/40462
 #EXTINF:-1 tvg-logo="https://apicesistemasdeenergia.com.br/wp-content/uploads/2016/02/Eptv.jpg" group-title="04- BRASIL",Globo EPTV Sao Carlos (5)
-http://a.srvbr.me:8880/118692/118692/5129
+http://a.srvbr.me:8880/000111/000111/5129
 
 #EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/globone.png" group-title="04- BRASIL",Globo Nordeste (1)
 http://a.srvbr.me:8880/040488/040488/5067
@@ -255,7 +255,7 @@ http://lista.serverpower.me:80/live/150887/150887/40465.rtmp
 #EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/globone.png" group-title="04- BRASIL",Globo Nordeste (4)
 http://lista.serverpower.me:80/147686/147686/40465
 #EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/globone.png" group-title="04- BRASIL",Globo Nordeste (5)
-http://a.srvbr.me:8880/118692/118692/5067
+http://a.srvbr.me:8880/000111/000111/5067
 
 #EXTINF:-1 tvg-logo="https://image.isu.pub/110114001809-5ee24d7d200c401685a6c7a51e51bf3b/jpg/page_1.jpg" group-title="04- BRASIL",Globo RBS (1)
 http://a.srvbr.me:8880/040488/040488/764
@@ -265,7 +265,7 @@ http://a.srvbr.me:8880/000111/000111/764
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo RJ (1)
 http://a.srvbr.me:8880/040488/040488/829
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo RJ (5)
-http://a.srvbr.me:8880/118692/118692/829
+http://a.srvbr.me:8880/000111/000111/829
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP (1)
 http://a.srvbr.me:8880/040488/040488/827
@@ -276,7 +276,7 @@ http://lista.serverpower.me:80/live/150887/150887/41094.rtmp
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP (4)
 http://lista.serverpower.me:80/147686/147686/41094
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP (5)
-http://a.srvbr.me:8880/118692/118692/827
+http://a.srvbr.me:8880/000111/000111/827
 
 #EXTINF:-1 tvg-logo="https://www.hedex.tv/uploads/images/clip_155_1556042983_thumb.png" group-title="04- BRASIL",Itú TV⁻ˢᵈ⁻
 http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8?GrupoTopIptv
@@ -290,7 +290,7 @@ http://lista.serverpower.me:80/live/150887/150887/40474.rtmp
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record (4)
 http://lista.serverpower.me:80/147686/147686/40474
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record (5)
-http://a.srvbr.me:8880/118692/118692/761
+http://a.srvbr.me:8880/000111/000111/761
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="04- BRASIL",Rede TV⁻ˢᵈ⁻
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8?GrupoTopIptv
@@ -304,7 +304,7 @@ http://lista.serverpower.me:80/live/150887/150887/37638.rtmp
 #EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="04- BRASIL",Rede TV (4)
 http://lista.serverpower.me:80/147686/147686/37638
 #EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="04- BRASIL",Rede TV (5)
-http://a.srvbr.me:8880/118692/118692/759
+http://a.srvbr.me:8880/000111/000111/759
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-cidade-verde-hd_m.png" group-title="04- BRASIL",SBT⁻ˢᵈ⁻ Cidade Verde
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?GrupoTopIptv
@@ -2297,7 +2297,7 @@ http://lista.serverpower.me:80/live/150887/150887/37043.rtmp
 #EXTINF:-1 tvg-logo="https://stagingcms.cignal.tv/Upload/Images/AMC.png" group-title="29- PREMIUM BRASIL",Amc (4)
 http://lista.serverpower.me:80/147686/147686/37043
 #EXTINF:-1 tvg-logo="https://stagingcms.cignal.tv/Upload/Images/AMC.png" group-title="29- PREMIUM BRASIL",Amc (5)
-http://a.srvbr.me:8880/118692/118692/5077
+http://a.srvbr.me:8880/000111/000111/5077
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="29- PREMIUM BRASIL",Axn (1)
 http://a.srvbr.me:8880/040488/040488/893
@@ -2308,7 +2308,7 @@ http://lista.serverpower.me:80/live/150887/150887/37077.rtmp
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="29- PREMIUM BRASIL",Axn (4)
 http://lista.serverpower.me:80/147686/147686/37077
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="29- PREMIUM BRASIL",Axn (5)
-http://a.srvbr.me:8880/118692/118692/893
+http://a.srvbr.me:8880/000111/000111/893
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="29- PREMIUM BRASIL",Cinemax (1)
 http://a.srvbr.me:8880/040488/040488/876
@@ -2319,7 +2319,7 @@ http://lista.serverpower.me:80/live/150887/150887/37575.rtmp
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="29- PREMIUM BRASIL",Cinemax (4)
 http://lista.serverpower.me:80/147686/147686/37575
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="29- PREMIUM BRASIL",Cinemax (5)
-http://a.srvbr.me:8880/118692/118692/876
+http://a.srvbr.me:8880/000111/000111/876
 
 #EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="29- PREMIUM BRASIL",Comedy Central (1)
 http://a.srvbr.me:8880/040488/040488/873
@@ -2330,7 +2330,7 @@ http://lista.serverpower.me:80/live/150887/150887/37049.rtmp
 #EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="29- PREMIUM BRASIL",Comedy Central (4)
 http://lista.serverpower.me:80/147686/147686/37049
 #EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="29- PREMIUM BRASIL",Comedy Central (5)
-http://a.srvbr.me:8880/118692/118692/873
+http://a.srvbr.me:8880/000111/000111/873
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="29- PREMIUM BRASIL",Fox (1)
 http://a.srvbr.me:8880/040488/040488/844
@@ -2341,7 +2341,7 @@ http://lista.serverpower.me:80/live/150887/150887/37069.rtmp
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="29- PREMIUM BRASIL",Fox (4)
 http://lista.serverpower.me:80/147686/147686/37069
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="29- PREMIUM BRASIL",Fox (5)
-http://a.srvbr.me:8880/118692/118692/844
+http://a.srvbr.me:8880/000111/000111/844
 
 #EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="29- PREMIUM BRASIL",Fox Life (1)
 http://a.srvbr.me:8880/040488/040488/840
@@ -2352,7 +2352,7 @@ http://lista.serverpower.me:80/live/150887/150887/37081.rtmp
 #EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="29- PREMIUM BRASIL",Fox Life (4)
 http://lista.serverpower.me:80/147686/147686/37081
 #EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="29- PREMIUM BRASIL",Fox Life (5)
-http://a.srvbr.me:8880/118692/118692/840
+http://a.srvbr.me:8880/000111/000111/840
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/FOXPremium1.png/revision/latest?cb=20170324170019" group-title="29- PREMIUM BRASIL",Fox Premium 1 (1)
 http://a.srvbr.me:8880/040488/040488/5318
@@ -2363,7 +2363,7 @@ http://lista.serverpower.me:80/live/150887/150887/37071.rtmp
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/FOXPremium1.png/revision/latest?cb=20170324170019" group-title="29- PREMIUM BRASIL",Fox Premium 1 (4)
 http://lista.serverpower.me:80/147686/147686/37071
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/FOXPremium1.png/revision/latest?cb=20170324170019" group-title="29- PREMIUM BRASIL",Fox Premium 1 (5)
-http://a.srvbr.me:8880/118692/118692/5318
+http://a.srvbr.me:8880/000111/000111/5318
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/28/FOXPremium2.png/revision/latest?cb=20170324170127" group-title="29- PREMIUM BRASIL",Fox Premium 2 (1)
 http://a.srvbr.me:8880/040488/040488/5317
@@ -2374,7 +2374,7 @@ http://lista.serverpower.me:80/live/150887/150887/37070.rtmp
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/28/FOXPremium2.png/revision/latest?cb=20170324170127" group-title="29- PREMIUM BRASIL",Fox Premium 2 (4)
 http://lista.serverpower.me:80/147686/147686/37070
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/28/FOXPremium2.png/revision/latest?cb=20170324170127" group-title="29- PREMIUM BRASIL",Fox Premium 2 (5)
-http://a.srvbr.me:8880/118692/118692/5317
+http://a.srvbr.me:8880/000111/000111/5317
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="29- PREMIUM BRASIL",Fx (1)
 http://a.srvbr.me:8880/040488/040488/833
@@ -2385,7 +2385,7 @@ http://lista.serverpower.me:80/live/150887/150887/37080.rtmp
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="29- PREMIUM BRASIL",Fx (4)
 http://lista.serverpower.me:80/147686/147686/37080
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="29- PREMIUM BRASIL",Fx (5)
-http://a.srvbr.me:8880/118692/118692/833
+http://a.srvbr.me:8880/000111/000111/833
 
 #EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_es/tag/h/hbo/hbo_8m2v.1200.jpg" group-title="29- PREMIUM BRASIL",Hbo (1)
 http://a.srvbr.me:8880/040488/040488/820
@@ -2396,7 +2396,7 @@ http://lista.serverpower.me:80/live/150887/150887/37119.rtmp
 #EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_es/tag/h/hbo/hbo_8m2v.1200.jpg" group-title="29- PREMIUM BRASIL",Hbo (4)
 http://lista.serverpower.me:80/147686/147686/37119
 #EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_es/tag/h/hbo/hbo_8m2v.1200.jpg" group-title="29- PREMIUM BRASIL",Hbo (5)
-http://a.srvbr.me:8880/118692/118692/820
+http://a.srvbr.me:8880/000111/000111/820
 
 #EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="29- PREMIUM BRASIL",Hbo 2 (1)
 http://a.srvbr.me:8880/040488/040488/810
@@ -2407,7 +2407,7 @@ http://lista.serverpower.me:80/live/150887/150887/37617.rtmp
 #EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="29- PREMIUM BRASIL",Hbo 2 (4)
 http://lista.serverpower.me:80/147686/147686/37617
 #EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="29- PREMIUM BRASIL",Hbo 2 (5)
-http://a.srvbr.me:8880/118692/118692/810
+http://a.srvbr.me:8880/000111/000111/810
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="29- PREMIUM BRASIL",Hbo Family (1)
 http://a.srvbr.me:8880/040488/040488/818
@@ -2418,12 +2418,12 @@ http://lista.serverpower.me:80/live/150887/150887/37118.rtmp
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="29- PREMIUM BRASIL",Hbo Family (4)
 http://lista.serverpower.me:80/147686/147686/37118
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="29- PREMIUM BRASIL",Hbo Family (5)
-http://a.srvbr.me:8880/118692/118692/818
+http://a.srvbr.me:8880/000111/000111/818
 
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/hbomundiGris_Enero20v2.png" group-title="29- PREMIUM BRASIL",Hbo Mundi (1)
 http://a.srvbr.me:8880/040488/040488/803
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/hbomundiGris_Enero20v2.png" group-title="29- PREMIUM BRASIL",Hbo Mundi (5)
-http://a.srvbr.me:8880/118692/118692/803
+http://a.srvbr.me:8880/000111/000111/803
 
 #EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="29- PREMIUM BRASIL",Hbo Plus (1)
 http://a.srvbr.me:8880/040488/040488/815
@@ -2434,7 +2434,7 @@ http://lista.serverpower.me:80/live/150887/150887/37170.rtmp
 #EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="29- PREMIUM BRASIL",Hbo Plus (4)
 http://lista.serverpower.me:80/147686/147686/37170
 #EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="29- PREMIUM BRASIL",Hbo Plus (5)
-http://a.srvbr.me:8880/118692/118692/815
+http://a.srvbr.me:8880/000111/000111/815
 
 #EXTINF:-1 tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012533/0000_all_l_hboall-HBO-POP-Black.png" group-title="29- PREMIUM BRASIL",Hbo Pop_OFF_
 http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
@@ -2448,12 +2448,12 @@ http://lista.serverpower.me:80/live/150887/150887/37121.rtmp
 #EXTINF:-1 tvg-logo="https://operadores.hbo-la.tv/img/layout/logos/hbosignature.png" group-title="29- PREMIUM BRASIL",Hbo Signature (4)
 http://lista.serverpower.me:80/147686/147686/37121
 #EXTINF:-1 tvg-logo="https://operadores.hbo-la.tv/img/layout/logos/hbosignature.png" group-title="29- PREMIUM BRASIL",Hbo Signature (5)
-http://a.srvbr.me:8880/118692/118692/812
+http://a.srvbr.me:8880/000111/000111/812
 
 #EXTINF:-1 tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012553/0000_all_l_hboall-HBO-XTREME-Black.png" group-title="29- PREMIUM BRASIL",Hbo Xtreme (1)
 http://a.srvbr.me:8880/040488/040488/802
 #EXTINF:-1 tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012553/0000_all_l_hboall-HBO-XTREME-Black.png" group-title="29- PREMIUM BRASIL",Hbo Xtreme (5)
-http://a.srvbr.me:8880/118692/118692/802
+http://a.srvbr.me:8880/000111/000111/802
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/megapix-logo-png-7.png" group-title="29- PREMIUM BRASIL",Megapix (1)
 http://a.srvbr.me:8880/040488/040488/799
@@ -2464,7 +2464,7 @@ http://lista.serverpower.me:80/live/150887/150887/37068.rtmp
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/megapix-logo-png-7.png" group-title="29- PREMIUM BRASIL",Megapix (4)
 http://lista.serverpower.me:80/147686/147686/37068
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/megapix-logo-png-7.png" group-title="29- PREMIUM BRASIL",Megapix (5)
-http://a.srvbr.me:8880/118692/118692/799
+http://a.srvbr.me:8880/000111/000111/799
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1153200946740174848/X4RlVPAc_400x400.png" group-title="29- PREMIUM BRASIL",Paramount (1)
 http://a.srvbr.me:8880/040488/040488/783
@@ -2475,12 +2475,12 @@ http://lista.serverpower.me:80/live/150887/150887/37052.rtmp
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1153200946740174848/X4RlVPAc_400x400.png" group-title="29- PREMIUM BRASIL",Paramount (4)
 http://lista.serverpower.me:80/147686/147686/37052
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1153200946740174848/X4RlVPAc_400x400.png" group-title="29- PREMIUM BRASIL",Paramount (5)
-http://a.srvbr.me:8880/118692/118692/783
+http://a.srvbr.me:8880/000111/000111/783
 
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="29- PREMIUM BRASIL",Sony (1)
 http://a.srvbr.me:8880/040488/040488/881
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="29- PREMIUM BRASIL",Sony (5)
-http://a.srvbr.me:8880/118692/118692/881
+http://a.srvbr.me:8880/000111/000111/881
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="29- PREMIUM BRASIL",Space (1)
 http://a.srvbr.me:8880/040488/040488/753
@@ -2491,7 +2491,7 @@ http://lista.serverpower.me:80/live/150887/150887/37037.rtmp
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="29- PREMIUM BRASIL",Space (4)
 http://lista.serverpower.me:80/147686/147686/37037
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="29- PREMIUM BRASIL",Space (5)
-http://a.srvbr.me:8880/118692/118692/753
+http://a.srvbr.me:8880/000111/000111/753
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="29- PREMIUM BRASIL",Studio Universal (1)
 http://a.srvbr.me:8880/040488/040488/743
@@ -2502,7 +2502,7 @@ http://lista.serverpower.me:80/live/150887/150887/37019.rtmp
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="29- PREMIUM BRASIL",Studio Universal (4)
 http://lista.serverpower.me:80/147686/147686/37019
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="29- PREMIUM BRASIL",Studio Universal (5)
-http://a.srvbr.me:8880/118692/118692/743
+http://a.srvbr.me:8880/000111/000111/743
 
 #EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="29- PREMIUM BRASIL",Syfy (1)
 http://a.srvbr.me:8880/040488/040488/742
@@ -2513,7 +2513,7 @@ http://lista.serverpower.me:80/live/150887/150887/37027.rtmp
 #EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="29- PREMIUM BRASIL",Syfy (4)
 http://lista.serverpower.me:80/147686/147686/37027
 #EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="29- PREMIUM BRASIL",Syfy (5)
-http://a.srvbr.me:8880/118692/118692/742
+http://a.srvbr.me:8880/000111/000111/742
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/011/original/pic_tbs.png?1522176341" group-title="29- PREMIUM BRASIL",Tbs (1)
 http://a.srvbr.me:8880/040488/040488/741
@@ -2524,7 +2524,7 @@ http://lista.serverpower.me:80/live/150887/150887/37203.rtmp
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/011/original/pic_tbs.png?1522176341" group-title="29- PREMIUM BRASIL",Tbs (4)
 http://lista.serverpower.me:80/147686/147686/37203
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/011/original/pic_tbs.png?1522176341" group-title="29- PREMIUM BRASIL",Tbs (5)
-http://a.srvbr.me:8880/118692/118692/741
+http://a.srvbr.me:8880/000111/000111/741
 
 #EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="29- PREMIUM BRASIL",Tcm (1)
 http://a.srvbr.me:8880/040488/040488/734
@@ -2535,7 +2535,7 @@ http://lista.serverpower.me:80/live/150887/150887/37569.rtmp
 #EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="29- PREMIUM BRASIL",Tcm (4)
 http://lista.serverpower.me:80/147686/147686/37569
 #EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="29- PREMIUM BRASIL",Tcm (5)
-http://a.srvbr.me:8880/118692/118692/734
+http://a.srvbr.me:8880/000111/000111/734
 
 #EXTINF:-1 tvg-logo="https://www.vendasceara.com.br/wp-content/uploads/2019/02/TC_ACTION.jpg" group-title="29- PREMIUM BRASIL",Telecine Action (1)
 http://a.srvbr.me:8880/040488/040488/733
@@ -2546,7 +2546,7 @@ http://lista.serverpower.me:80/live/150887/150887/37060.rtmp
 #EXTINF:-1 tvg-logo="https://www.vendasceara.com.br/wp-content/uploads/2019/02/TC_ACTION.jpg" group-title="29- PREMIUM BRASIL",Telecine Action (4)
 http://lista.serverpower.me:80/147686/147686/37060
 #EXTINF:-1 tvg-logo="https://www.vendasceara.com.br/wp-content/uploads/2019/02/TC_ACTION.jpg" group-title="29- PREMIUM BRASIL",Telecine Action (5)
-http://a.srvbr.me:8880/118692/118692/733
+http://a.srvbr.me:8880/000111/000111/733
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-cult-1_m.png" group-title="29- PREMIUM BRASIL",Telecine Cult (1)
 http://a.srvbr.me:8880/040488/040488/732
@@ -2557,7 +2557,7 @@ http://lista.serverpower.me:80/live/150887/150887/37067.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-cult-1_m.png" group-title="29- PREMIUM BRASIL",Telecine Cult (4)
 http://lista.serverpower.me:80/147686/147686/37067
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-cult-1_m.png" group-title="29- PREMIUM BRASIL",Telecine Cult (5)
-http://a.srvbr.me:8880/118692/118692/732
+http://a.srvbr.me:8880/000111/000111/732
 
 #EXTINF:-1 tvg-logo="https://www.vendasceara.com.br/wp-content/uploads/2019/02/TC_FUN.jpg" group-title="29- PREMIUM BRASIL",Telecine Fun (1)
 http://a.srvbr.me:8880/040488/040488/731
@@ -2568,7 +2568,7 @@ http://lista.serverpower.me:80/live/150887/150887/37082.rtmp
 #EXTINF:-1 tvg-logo="https://www.vendasceara.com.br/wp-content/uploads/2019/02/TC_FUN.jpg" group-title="29- PREMIUM BRASIL",Telecine Fun (4)
 http://lista.serverpower.me:80/147686/147686/37082
 #EXTINF:-1 tvg-logo="https://www.vendasceara.com.br/wp-content/uploads/2019/02/TC_FUN.jpg" group-title="29- PREMIUM BRASIL",Telecine Fun (5)
-http://a.srvbr.me:8880/118692/118692/731
+http://a.srvbr.me:8880/000111/000111/731
 
 #EXTINF:-1 tvg-logo="https://www.vendasceara.com.br/wp-content/uploads/2019/02/TC_PIPOCA.jpg" group-title="29- PREMIUM BRASIL",Telecine Pipoca (1)
 http://a.srvbr.me:8880/040488/040488/730
@@ -2579,7 +2579,7 @@ http://lista.serverpower.me:80/live/150887/150887/37064.rtmp
 #EXTINF:-1 tvg-logo="https://www.vendasceara.com.br/wp-content/uploads/2019/02/TC_PIPOCA.jpg" group-title="29- PREMIUM BRASIL",Telecine Pipoca (4)
 http://lista.serverpower.me:80/147686/147686/37064
 #EXTINF:-1 tvg-logo="https://www.vendasceara.com.br/wp-content/uploads/2019/02/TC_PIPOCA.jpg" group-title="29- PREMIUM BRASIL",Telecine Pipoca (5)
-http://a.srvbr.me:8880/118692/118692/730
+http://a.srvbr.me:8880/000111/000111/730
 
 #EXTINF:-1 tvg-logo="https://www.vendasceara.com.br/wp-content/uploads/2019/02/TC_PREMIUM.jpg" group-title="29- PREMIUM BRASIL",Telecine Premium (1)
 http://a.srvbr.me:8880/040488/040488/729
@@ -2590,7 +2590,7 @@ http://lista.serverpower.me:80/live/150887/150887/37116.rtmp
 #EXTINF:-1 tvg-logo="https://www.vendasceara.com.br/wp-content/uploads/2019/02/TC_PREMIUM.jpg" group-title="29- PREMIUM BRASIL",Telecine Premium (4)
 http://lista.serverpower.me:80/147686/147686/37116
 #EXTINF:-1 tvg-logo="https://www.vendasceara.com.br/wp-content/uploads/2019/02/TC_PREMIUM.jpg" group-title="29- PREMIUM BRASIL",Telecine Premium (5)
-http://a.srvbr.me:8880/118692/118692/729
+http://a.srvbr.me:8880/000111/000111/729
 
 #EXTINF:-1 tvg-logo="https://www.vendasceara.com.br/wp-content/uploads/2019/02/TC_TOUCH.jpg" group-title="29- PREMIUM BRASIL",Telecine Touch (1)
 http://a.srvbr.me:8880/040488/040488/728
@@ -2601,7 +2601,7 @@ http://lista.serverpower.me:80/live/150887/150887/37063.rtmp
 #EXTINF:-1 tvg-logo="https://www.vendasceara.com.br/wp-content/uploads/2019/02/TC_TOUCH.jpg" group-title="29- PREMIUM BRASIL",Telecine Touch (4)
 http://lista.serverpower.me:80/147686/147686/37063
 #EXTINF:-1 tvg-logo="https://www.vendasceara.com.br/wp-content/uploads/2019/02/TC_TOUCH.jpg" group-title="29- PREMIUM BRASIL",Telecine Touch (5)
-http://a.srvbr.me:8880/118692/118692/728
+http://a.srvbr.me:8880/000111/000111/728
 
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="29- PREMIUM BRASIL",Tnt (1)
 http://a.srvbr.me:8880/040488/040488/724
@@ -2612,7 +2612,7 @@ http://lista.serverpower.me:80/live/150887/150887/37038.rtmp
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="29- PREMIUM BRASIL",Tnt (4)
 http://lista.serverpower.me:80/147686/147686/37038
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="29- PREMIUM BRASIL",Tnt (5)
-http://a.srvbr.me:8880/118692/118692/724
+http://a.srvbr.me:8880/000111/000111/724
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="29- PREMIUM BRASIL",Tnt Series (1)
 http://a.srvbr.me:8880/040488/040488/722
@@ -2623,7 +2623,7 @@ http://lista.serverpower.me:80/live/150887/150887/37039.rtmp
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="29- PREMIUM BRASIL",Tnt Series (4)
 http://lista.serverpower.me:80/147686/147686/37039
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="29- PREMIUM BRASIL",Tnt Series (5)
-http://a.srvbr.me:8880/118692/118692/722
+http://a.srvbr.me:8880/000111/000111/722
 
 #EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="29- PREMIUM BRASIL",Universal Channel (1)
 http://a.srvbr.me:8880/040488/040488/711
@@ -2634,7 +2634,7 @@ http://lista.serverpower.me:80/live/150887/150887/37085.rtmp
 #EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="29- PREMIUM BRASIL",Universal Channel (4)
 http://lista.serverpower.me:80/147686/147686/37085
 #EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="29- PREMIUM BRASIL",Universal Channel (5)
-http://a.srvbr.me:8880/118692/118692/711
+http://a.srvbr.me:8880/000111/000111/711
 
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="29- PREMIUM BRASIL",Warner Channel (1)
 http://a.srvbr.me:8880/040488/040488/706
@@ -2645,7 +2645,7 @@ http://lista.serverpower.me:80/live/150887/150887/37078.rtmp
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="29- PREMIUM BRASIL",Warner Channel (4)
 http://lista.serverpower.me:80/147686/147686/37078
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="29- PREMIUM BRASIL",Warner Channel (5)
-http://a.srvbr.me:8880/118692/118692/706
+http://a.srvbr.me:8880/000111/000111/706
 
 ######################################################################################################################################
 #######################################
@@ -2798,7 +2798,7 @@ http://lista.serverpower.me:80/live/150887/150887/37075.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_arte-1-hd_m.png" group-title="31- VARIEDADES BRASIL",Arte 1 (4)
 http://lista.serverpower.me:80/147686/147686/37075
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_arte-1-hd_m.png" group-title="31- VARIEDADES BRASIL",Arte 1 (5)
-http://a.srvbr.me:8880/118692/118692/894
+http://a.srvbr.me:8880/000111/000111/894
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo.png" group-title="31- VARIEDADES BRASIL",Bis (1)
 http://a.srvbr.me:8880/040488/040488/886
@@ -2809,7 +2809,7 @@ http://lista.serverpower.me:80/live/150887/150887/37101.rtmp
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo.png" group-title="31- VARIEDADES BRASIL",Bis (4)
 http://lista.serverpower.me:80/147686/147686/37101
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo.png" group-title="31- VARIEDADES BRASIL",Bis (5)
-http://a.srvbr.me:8880/118692/118692/886
+http://a.srvbr.me:8880/000111/000111/886
 
 #EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/grande/canalcurta.jpg" group-title="31- VARIEDADES BRASIL",Curta! (1)
 http://a.srvbr.me:8880/040488/040488/872
@@ -2820,7 +2820,7 @@ http://lista.serverpower.me:80/live/150887/150887/37059.rtmp
 #EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/grande/canalcurta.jpg" group-title="31- VARIEDADES BRASIL",Curta! (4)
 http://lista.serverpower.me:80/147686/147686/37059
 #EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/grande/canalcurta.jpg" group-title="31- VARIEDADES BRASIL",Curta! (5)
-http://a.srvbr.me:8880/118692/118692/872
+http://a.srvbr.me:8880/000111/000111/872
 
 #EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_e-490x490.png" group-title="31- VARIEDADES BRASIL",E! (1)
 http://a.srvbr.me:8880/040488/040488/857
@@ -2831,7 +2831,7 @@ http://lista.serverpower.me:80/live/150887/150887/37107.rtmp
 #EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_e-490x490.png" group-title="31- VARIEDADES BRASIL",E! (4)
 http://lista.serverpower.me:80/147686/147686/37107
 #EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_e-490x490.png" group-title="31- VARIEDADES BRASIL",E! (5)
-http://a.srvbr.me:8880/118692/118692/857
+http://a.srvbr.me:8880/000111/000111/857
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/fashion-tv-logo-png-3.png" group-title="31- VARIEDADES BRASIL",Fashion TV (2)
 http://lista.serverpower.me:80/live/005059/005059/37034.rtmp
@@ -2852,7 +2852,7 @@ http://lista.serverpower.me:80/live/150887/150887/37126.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fishtv_m.png" group-title="31- VARIEDADES BRASIL",Fish TV (4)
 http://lista.serverpower.me:80/147686/147686/37126
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fishtv_m.png" group-title="31- VARIEDADES BRASIL",Fish TV (5)
-http://a.srvbr.me:8880/118692/118692/846
+http://a.srvbr.me:8880/000111/000111/846
 
 #EXTINF:-1 tvg-logo="https://bestofsno.com/wp-content/uploads/2019/03/3.18-culinary.png" group-title="31- VARIEDADES BRASIL",Food Network (1)
 http://a.srvbr.me:8880/040488/040488/845
@@ -2863,12 +2863,12 @@ http://lista.serverpower.me:80/live/150887/150887/37115.rtmp
 #EXTINF:-1 tvg-logo="https://bestofsno.com/wp-content/uploads/2019/03/3.18-culinary.png" group-title="31- VARIEDADES BRASIL",Food Network (4)
 http://lista.serverpower.me:80/147686/147686/37115
 #EXTINF:-1 tvg-logo="https://bestofsno.com/wp-content/uploads/2019/03/3.18-culinary.png" group-title="31- VARIEDADES BRASIL",Food Network (5)
-http://a.srvbr.me:8880/118692/118692/845
+http://a.srvbr.me:8880/000111/000111/845
 
 #EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-8-canal-futura.png" group-title="31- VARIEDADES BRASIL",Futura (1)
 http://a.srvbr.me:8880/040488/040488/834
 #EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-8-canal-futura.png" group-title="31- VARIEDADES BRASIL",Futura (5)
-http://a.srvbr.me:8880/118692/118692/834
+http://a.srvbr.me:8880/000111/000111/834
 
 #EXTINF:-1 tvg-logo="http://scabora.com.br/wp-content/blogs.dir/2/files/2014/06/GNT2.png" group-title="31- VARIEDADES BRASIL",Gnt (1)
 http://a.srvbr.me:8880/040488/040488/824
@@ -2879,7 +2879,7 @@ http://lista.serverpower.me:80/live/150887/150887/37093.rtmp
 #EXTINF:-1 tvg-logo="http://scabora.com.br/wp-content/blogs.dir/2/files/2014/06/GNT2.png" group-title="31- VARIEDADES BRASIL",Gnt (4)
 http://lista.serverpower.me:80/147686/147686/37093
 #EXTINF:-1 tvg-logo="http://scabora.com.br/wp-content/blogs.dir/2/files/2014/06/GNT2.png" group-title="31- VARIEDADES BRASIL",Gnt (5)
-http://a.srvbr.me:8880/118692/118692/824
+http://a.srvbr.me:8880/000111/000111/824
 
 #EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2017/06/logo_tv_lifetime_june2017-500x250.png" group-title="31- VARIEDADES BRASIL",Lifetime (1)
 http://a.srvbr.me:8880/040488/040488/805
@@ -2890,7 +2890,7 @@ http://lista.serverpower.me:80/live/150887/150887/37568.rtmp
 #EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2017/06/logo_tv_lifetime_june2017-500x250.png" group-title="31- VARIEDADES BRASIL",Lifetime (4)
 http://lista.serverpower.me:80/147686/147686/37568
 #EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2017/06/logo_tv_lifetime_june2017-500x250.png" group-title="31- VARIEDADES BRASIL",Lifetime (5)
-http://a.srvbr.me:8880/118692/118692/805
+http://a.srvbr.me:8880/000111/000111/805
 
 #EXTINF:-1 tvg-logo="https://s2.glbimg.com/uiEeBZJKeOneVk97k2Oo00zutxI=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/f1/9f/b246cd313d3bbf3d94cfc654a161.png" group-title="31- VARIEDADES BRASIL",Mais Globosat (1)
 http://a.srvbr.me:8880/040488/040488/804
@@ -2901,7 +2901,7 @@ http://lista.serverpower.me:80/live/150887/150887/37677.rtmp
 #EXTINF:-1 tvg-logo="https://s2.glbimg.com/uiEeBZJKeOneVk97k2Oo00zutxI=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/f1/9f/b246cd313d3bbf3d94cfc654a161.png" group-title="31- VARIEDADES BRASIL",Mais Globosat (4)
 http://lista.serverpower.me:80/147686/147686/37677
 #EXTINF:-1 tvg-logo="https://s2.glbimg.com/uiEeBZJKeOneVk97k2Oo00zutxI=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/f1/9f/b246cd313d3bbf3d94cfc654a161.png" group-title="31- VARIEDADES BRASIL",Mais Globosat (5)
-http://a.srvbr.me:8880/118692/118692/804
+http://a.srvbr.me:8880/000111/000111/804
 
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/112-1126076_old-music-mtv-png-logo-mtv-logo-transparent.png" group-title="31- VARIEDADES BRASIL",Mtv (1)
 http://a.srvbr.me:8880/040488/040488/797
@@ -2912,7 +2912,7 @@ http://lista.serverpower.me:80/live/150887/150887/37050.rtmp
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/112-1126076_old-music-mtv-png-logo-mtv-logo-transparent.png" group-title="31- VARIEDADES BRASIL",Mtv (4)
 http://lista.serverpower.me:80/147686/147686/37050
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/112-1126076_old-music-mtv-png-logo-mtv-logo-transparent.png" group-title="31- VARIEDADES BRASIL",Mtv (5)
-http://a.srvbr.me:8880/118692/118692/797
+http://a.srvbr.me:8880/000111/000111/797
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/mtv-live-logo-png-5.png" group-title="31- VARIEDADES BRASIL",Mtv Live (1)
 http://a.srvbr.me:8880/040488/040488/5654
@@ -2921,7 +2921,7 @@ http://lista.serverpower.me:80/live/150887/150887/37032.rtmp
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/mtv-live-logo-png-5.png" group-title="31- VARIEDADES BRASIL",Mtv Live (4)
 http://lista.serverpower.me:80/147686/147686/37032
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/mtv-live-logo-png-5.png" group-title="31- VARIEDADES BRASIL",Mtv Live (5)
-http://a.srvbr.me:8880/118692/118692/5654
+http://a.srvbr.me:8880/000111/000111/5654
 
 #EXTINF:-1 tvg-logo="http://s2.glbimg.com/aYKWYWXJqKq4o3_tByMbh_jRpt8=/0x0:234x146/234x146/s.glbimg.com/pv/an/f/original/2015/02/24/multishow-234x146.png" group-title="31- VARIEDADES BRASIL",Multishow (1)
 http://a.srvbr.me:8880/040488/040488/796
@@ -2932,12 +2932,12 @@ http://lista.serverpower.me:80/live/150887/150887/37092.rtmp
 #EXTINF:-1 tvg-logo="http://s2.glbimg.com/aYKWYWXJqKq4o3_tByMbh_jRpt8=/0x0:234x146/234x146/s.glbimg.com/pv/an/f/original/2015/02/24/multishow-234x146.png" group-title="31- VARIEDADES BRASIL",Multishow (4)
 http://lista.serverpower.me:80/147686/147686/37092
 #EXTINF:-1 tvg-logo="http://s2.glbimg.com/aYKWYWXJqKq4o3_tByMbh_jRpt8=/0x0:234x146/234x146/s.glbimg.com/pv/an/f/original/2015/02/24/multishow-234x146.png" group-title="31- VARIEDADES BRASIL",Multishow (5)
-http://a.srvbr.me:8880/118692/118692/796
+http://a.srvbr.me:8880/000111/000111/796
 
 #EXTINF:-1 tvg-logo="https://www.boxbrazil.tv.br/wp-content/uploads/2018/07/music-e1532525013976.png" group-title="31- VARIEDADES BRASIL",Music Box Brasil (1)
 http://a.srvbr.me:8880/040488/040488/794
 #EXTINF:-1 tvg-logo="https://www.boxbrazil.tv.br/wp-content/uploads/2018/07/music-e1532525013976.png" group-title="31- VARIEDADES BRASIL",Music Box Brasil (5)
-http://a.srvbr.me:8880/118692/118692/794
+http://a.srvbr.me:8880/000111/000111/794
 
 #EXTINF:-1 tvg-logo="https://www.skidun.com/br/images/Logo-Canal-OFF.png" group-title="31- VARIEDADES BRASIL",Off (1)
 http://a.srvbr.me:8880/040488/040488/785
@@ -2948,7 +2948,7 @@ http://lista.serverpower.me:80/live/150887/150887/37098.rtmp
 #EXTINF:-1 tvg-logo="https://www.skidun.com/br/images/Logo-Canal-OFF.png" group-title="31- VARIEDADES BRASIL",Off (4)
 http://lista.serverpower.me:80/147686/147686/37098
 #EXTINF:-1 tvg-logo="https://www.skidun.com/br/images/Logo-Canal-OFF.png" group-title="31- VARIEDADES BRASIL",Off (5)
-http://a.srvbr.me:8880/118692/118692/785
+http://a.srvbr.me:8880/000111/000111/785
 
 #EXTINF:-1 tvg-logo="http://www.boxbrazil.tv.br/wp-content/uploads/2018/07/prime-e1532524998483.png" group-title="31- VARIEDADES BRASIL",Prime Box (1)
 http://a.srvbr.me:8880/040488/040488/5300
@@ -2959,12 +2959,12 @@ http://lista.serverpower.me:80/live/150887/150887/37054.rtmp
 #EXTINF:-1 tvg-logo="http://www.boxbrazil.tv.br/wp-content/uploads/2018/07/prime-e1532524998483.png" group-title="31- VARIEDADES BRASIL",Prime Box (4)
 http://lista.serverpower.me:80/147686/147686/37054
 #EXTINF:-1 tvg-logo="http://www.boxbrazil.tv.br/wp-content/uploads/2018/07/prime-e1532524998483.png" group-title="31- VARIEDADES BRASIL",Prime Box (5)
-http://a.srvbr.me:8880/118692/118692/5300
+http://a.srvbr.me:8880/000111/000111/5300
 
 #EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2012/04/trutv.png" group-title="31- VARIEDADES BRASIL",Trutv (1)
 http://a.srvbr.me:8880/040488/040488/719
 #EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2012/04/trutv.png" group-title="31- VARIEDADES BRASIL",Trutv (5)
-http://a.srvbr.me:8880/118692/118692/719
+http://a.srvbr.me:8880/000111/000111/719
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/canal-viva-png-8.png" group-title="31- VARIEDADES BRASIL",Viva (1)
 http://a.srvbr.me:8880/040488/040488/708
@@ -2975,7 +2975,7 @@ http://lista.serverpower.me:80/live/150887/150887/37084.rtmp
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/canal-viva-png-8.png" group-title="31- VARIEDADES BRASIL",Viva (4)
 http://lista.serverpower.me:80/147686/147686/37084
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/canal-viva-png-8.png" group-title="31- VARIEDADES BRASIL",Viva (5)
-http://a.srvbr.me:8880/118692/118692/708
+http://a.srvbr.me:8880/000111/000111/708
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7FamS9P.png" group-title="31- VARIEDADES BRASIL",Woohoo (1)
 http://a.srvbr.me:8880/040488/040488/704
@@ -2986,7 +2986,7 @@ http://lista.serverpower.me:80/live/150887/150887/37021.rtmp
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7FamS9P.png" group-title="31- VARIEDADES BRASIL",Woohoo (4)
 http://lista.serverpower.me:80/147686/147686/37021
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7FamS9P.png" group-title="31- VARIEDADES BRASIL",Woohoo (5)
-http://a.srvbr.me:8880/118692/118692/704
+http://a.srvbr.me:8880/000111/000111/704
 
 ######################################################################################################################################
 #######################################
@@ -3150,7 +3150,7 @@ http://lista.serverpower.me:80/live/150887/150887/37598.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_baby-tv_m.png" group-title="33- INFANTIL BRASIL",Baby TV (4)
 http://lista.serverpower.me:80/147686/147686/37598
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_baby-tv_m.png" group-title="33- INFANTIL BRASIL",Baby TV (5)
-http://a.srvbr.me:8880/118692/118692/5078
+http://a.srvbr.me:8880/000111/000111/5078
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_boomerang-cartoon_m.png" group-title="33- INFANTIL BRASIL",Boomerang (1)
 http://a.srvbr.me:8880/040488/040488/884
@@ -3161,7 +3161,7 @@ http://lista.serverpower.me:80/live/150887/150887/37056.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_boomerang-cartoon_m.png" group-title="33- INFANTIL BRASIL",Boomerang (4)
 http://lista.serverpower.me:80/147686/147686/37056
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_boomerang-cartoon_m.png" group-title="33- INFANTIL BRASIL",Boomerang (5)
-http://a.srvbr.me:8880/118692/118692/884
+http://a.srvbr.me:8880/000111/000111/884
 
 #EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="33- INFANTIL BRASIL",Cartoon Network (1)
 http://a.srvbr.me:8880/040488/040488/878
@@ -3172,7 +3172,7 @@ http://lista.serverpower.me:80/live/150887/150887/37041.rtmp
 #EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="33- INFANTIL BRASIL",Cartoon Network (4)
 http://lista.serverpower.me:80/147686/147686/37041
 #EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="33- INFANTIL BRASIL",Cartoon Network (5)
-http://a.srvbr.me:8880/118692/118692/878
+http://a.srvbr.me:8880/000111/000111/878
 
 #EXTINF:-1 tvg-logo="https://uploads.tapatalk-cdn.com/20180216/e15145d23f1a35eda5537e61932ea069.jpg" group-title="33- INFANTIL BRASIL",Discovery Kids (1)
 http://a.srvbr.me:8880/040488/040488/866
@@ -3183,7 +3183,7 @@ http://lista.serverpower.me:80/live/150887/150887/37102.rtmp
 #EXTINF:-1 tvg-logo="https://uploads.tapatalk-cdn.com/20180216/e15145d23f1a35eda5537e61932ea069.jpg" group-title="33- INFANTIL BRASIL",Discovery Kids (4)
 http://lista.serverpower.me:80/147686/147686/37102
 #EXTINF:-1 tvg-logo="https://uploads.tapatalk-cdn.com/20180216/e15145d23f1a35eda5537e61932ea069.jpg" group-title="33- INFANTIL BRASIL",Discovery Kids (5)
-http://a.srvbr.me:8880/118692/118692/866
+http://a.srvbr.me:8880/000111/000111/866
 
 #EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="33- INFANTIL BRASIL",Disney Channel (1)
 http://a.srvbr.me:8880/040488/040488/860
@@ -3192,7 +3192,7 @@ http://lista.serverpower.me:80/live/005059/005059/37047.rtmp
 #EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="33- INFANTIL BRASIL",Disney Channel (3)
 http://lista.serverpower.me:80/live/150887/150887/37047.rtmp
 #EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="33- INFANTIL BRASIL",Disney Channel (5)
-http://a.srvbr.me:8880/118692/118692/860
+http://a.srvbr.me:8880/000111/000111/860
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="33- INFANTIL BRASIL",Disney Junior (1)
 http://a.srvbr.me:8880/040488/040488/859
@@ -3203,12 +3203,12 @@ http://lista.serverpower.me:80/live/150887/150887/37044.rtmp
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="33- INFANTIL BRASIL",Disney Junior (4)
 http://lista.serverpower.me:80/147686/147686/37044
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="33- INFANTIL BRASIL",Disney Junior (5)
-http://a.srvbr.me:8880/118692/118692/859
+http://a.srvbr.me:8880/000111/000111/859
 
 #EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/Disney_XD_-_2015.svg_.png" group-title="33- INFANTIL BRASIL",Disney XD (1)
 http://a.srvbr.me:8880/040488/040488/858
 #EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/Disney_XD_-_2015.svg_.png" group-title="33- INFANTIL BRASIL",Disney XD (5)
-http://a.srvbr.me:8880/118692/118692/858
+http://a.srvbr.me:8880/000111/000111/858
 
 #EXTINF:-1 tvg-logo="http://g.glbimg.com/og/gs/gsat3/f/thumbs/padrao/2014/09/22/logo_gloob_fundobranco_500x500.jpg" group-title="33- INFANTIL BRASIL",Gloob (1)
 http://a.srvbr.me:8880/040488/040488/825
@@ -3219,12 +3219,12 @@ http://lista.serverpower.me:80/live/150887/150887/37099.rtmp
 #EXTINF:-1 tvg-logo="http://g.glbimg.com/og/gs/gsat3/f/thumbs/padrao/2014/09/22/logo_gloob_fundobranco_500x500.jpg" group-title="33- INFANTIL BRASIL",Gloob (4)
 http://lista.serverpower.me:80/147686/147686/37099
 #EXTINF:-1 tvg-logo="http://g.glbimg.com/og/gs/gsat3/f/thumbs/padrao/2014/09/22/logo_gloob_fundobranco_500x500.jpg" group-title="33- INFANTIL BRASIL",Gloob (5)
-http://a.srvbr.me:8880/118692/118692/825
+http://a.srvbr.me:8880/000111/000111/825
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_gloobinho-hd_m.png" group-title="33- INFANTIL BRASIL",Gloobinho (1)
 http://a.srvbr.me:8880/040488/040488/5306
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_gloobinho-hd_m.png" group-title="33- INFANTIL BRASIL",Gloobinho (5)
-http://a.srvbr.me:8880/118692/118692/5306
+http://a.srvbr.me:8880/000111/000111/5306
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/natgeo-kids-logo-01.png" group-title="33- INFANTIL BRASIL",Nat Geo Kids (1)
 http://a.srvbr.me:8880/040488/040488/5303
@@ -3235,7 +3235,7 @@ http://lista.serverpower.me:80/live/150887/150887/37091.rtmp
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/natgeo-kids-logo-01.png" group-title="33- INFANTIL BRASIL",Nat Geo Kids (4)
 http://lista.serverpower.me:80/147686/147686/37091
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/natgeo-kids-logo-01.png" group-title="33- INFANTIL BRASIL",Nat Geo Kids (5)
-http://a.srvbr.me:8880/118692/118692/5303
+http://a.srvbr.me:8880/000111/000111/5303
 
 #EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="33- INFANTIL BRASIL",Nick (1)
 http://a.srvbr.me:8880/040488/040488/787
@@ -3246,7 +3246,7 @@ http://lista.serverpower.me:80/live/150887/150887/37058.rtmp
 #EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="33- INFANTIL BRASIL",Nick (4)
 http://lista.serverpower.me:80/147686/147686/37058
 #EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="33- INFANTIL BRASIL",Nick (5)
-http://a.srvbr.me:8880/118692/118692/787
+http://a.srvbr.me:8880/000111/000111/787
 
 #EXTINF:-1 tvg-logo="http://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="33- INFANTIL BRASIL",Nick Junior (1)
 http://a.srvbr.me:8880/040488/040488/788
@@ -3257,12 +3257,12 @@ http://lista.serverpower.me:80/live/150887/150887/37066.rtmp
 #EXTINF:-1 tvg-logo="http://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="33- INFANTIL BRASIL",Nick Junior (4)
 http://lista.serverpower.me:80/147686/147686/37066
 #EXTINF:-1 tvg-logo="http://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="33- INFANTIL BRASIL",Nick Junior (5)
-http://a.srvbr.me:8880/118692/118692/788
+http://a.srvbr.me:8880/000111/000111/788
 
 #EXTINF:-1 tvg-logo="http://www.costadosol.tv.br/site/wp-content/uploads/2018/04/TV_R%C3%A1-Tim-Bum.png" group-title="33- INFANTIL BRASIL",Ra Tim Bum (1)
 http://a.srvbr.me:8880/040488/040488/715
 #EXTINF:-1 tvg-logo="http://www.costadosol.tv.br/site/wp-content/uploads/2018/04/TV_R%C3%A1-Tim-Bum.png" group-title="33- INFANTIL BRASIL",Ra Tim Bum (5)
-http://a.srvbr.me:8880/118692/118692/715
+http://a.srvbr.me:8880/000111/000111/715
 
 #EXTINF:-1 tvg-logo="https://t3.kn3.net/taringa/A/7/E/6/A/C/RevolucionCN/83A.png" group-title="33- INFANTIL BRASIL",Tooncast (1)
 http://a.srvbr.me:8880/040488/040488/720
@@ -3273,7 +3273,7 @@ http://lista.serverpower.me:80/live/150887/150887/37565.rtmp
 #EXTINF:-1 tvg-logo="https://t3.kn3.net/taringa/A/7/E/6/A/C/RevolucionCN/83A.png" group-title="33- INFANTIL BRASIL",Tooncast (4)
 http://lista.serverpower.me:80/147686/147686/37565
 #EXTINF:-1 tvg-logo="https://t3.kn3.net/taringa/A/7/E/6/A/C/RevolucionCN/83A.png" group-title="33- INFANTIL BRASIL",Tooncast (5)
-http://a.srvbr.me:8880/118692/118692/720
+http://a.srvbr.me:8880/000111/000111/720
 
 #EXTINF:0 tvg-logo="http://bravi.tv/wp-content/uploads/2016/12/zoomoo-250x214.png" group-title="33- INFANTIL BRASIL",ZooMoo_OFF_
 http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
@@ -3351,7 +3351,7 @@ http://lista.serverpower.me:80/live/150887/150887/37136.rtmp
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="37- NOTICIAS BRASIL",Band News (4)
 http://lista.serverpower.me:80/147686/147686/37136
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="37- NOTICIAS BRASIL",Band News (5)
-http://a.srvbr.me:8880/118692/118692/890
+http://a.srvbr.me:8880/000111/000111/890
 
 #EXTINF:-1 tvg-logo="https://brazil.mom-rsf.org/uploads/tx_lfrogmom/media/7019-1071_import.png" group-title="37- NOTICIAS BRASIL",Globo News (1)
 http://a.srvbr.me:8880/040488/040488/826
@@ -3362,12 +3362,12 @@ http://lista.serverpower.me:80/live/150887/150887/37062.rtmp
 #EXTINF:-1 tvg-logo="https://brazil.mom-rsf.org/uploads/tx_lfrogmom/media/7019-1071_import.png" group-title="37- NOTICIAS BRASIL",Globo News (4)
 http://lista.serverpower.me:80/147686/147686/37062
 #EXTINF:-1 tvg-logo="https://brazil.mom-rsf.org/uploads/tx_lfrogmom/media/7019-1071_import.png" group-title="37- NOTICIAS BRASIL",Globo News (5)
-http://a.srvbr.me:8880/118692/118692/826
+http://a.srvbr.me:8880/000111/000111/826
 
 #EXTINF:-1 tvg-logo="http://www.costadosol.tv.br/site/wp-content/uploads/2017/12/record-news.png" group-title="37- NOTICIAS BRASIL",Record News (1)
 http://a.srvbr.me:8880/040488/040488/762
 #EXTINF:-1 tvg-logo="http://www.costadosol.tv.br/site/wp-content/uploads/2017/12/record-news.png" group-title="37- NOTICIAS BRASIL",Record News (5)
-http://a.srvbr.me:8880/118692/118692/762
+http://a.srvbr.me:8880/000111/000111/762
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/abJuI1D.jpg" group-title="37- NOTICIAS BRASIL",Tvideo News (2)
 http://lista.serverpower.me:80/live/005059/005059/40803.rtmp
@@ -3527,7 +3527,7 @@ http://lista.serverpower.me:80/live/150887/150887/37029.rtmp
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="39- DOCUMENTAIS BRASIL",A&E (4)
 http://lista.serverpower.me:80/147686/147686/37029
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="39- DOCUMENTAIS BRASIL",A&E (5)
-http://a.srvbr.me:8880/118692/118692/898
+http://a.srvbr.me:8880/000111/000111/898
 
 #EXTINF:-1 tvg-logo="https://www.effectv.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="39- DOCUMENTAIS BRASIL",Animal Planet (1)
 http://a.srvbr.me:8880/040488/040488/897
@@ -3538,7 +3538,7 @@ http://lista.serverpower.me:80/live/150887/150887/37076.rtmp
 #EXTINF:-1 tvg-logo="https://www.effectv.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="39- DOCUMENTAIS BRASIL",Animal Planet (4)
 http://lista.serverpower.me:80/147686/147686/37076
 #EXTINF:-1 tvg-logo="https://www.effectv.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="39- DOCUMENTAIS BRASIL",Animal Planet (5)
-http://a.srvbr.me:8880/118692/118692/897
+http://a.srvbr.me:8880/000111/000111/897
 
 #EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Channel (1)
 http://a.srvbr.me:8880/040488/040488/871
@@ -3549,12 +3549,12 @@ http://lista.serverpower.me:80/live/150887/150887/37024.rtmp
 #EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Channel (4)
 http://lista.serverpower.me:80/147686/147686/37024
 #EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Channel (5)
-http://a.srvbr.me:8880/118692/118692/871
+http://a.srvbr.me:8880/000111/000111/871
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-civilization_m.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Civilization (1)
 http://a.srvbr.me:8880/040488/040488/869
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-civilization_m.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Civilization (5)
-http://a.srvbr.me:8880/118692/118692/869
+http://a.srvbr.me:8880/000111/000111/869
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b0d27efc-174d-41f6-851b-e125fba0dce7_m.jpg" group-title="39- DOCUMENTAIS BRASIL",Discovery H&H (1)
 http://a.srvbr.me:8880/040488/040488/868
@@ -3565,12 +3565,12 @@ http://lista.serverpower.me:80/live/150887/150887/37117.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b0d27efc-174d-41f6-851b-e125fba0dce7_m.jpg" group-title="39- DOCUMENTAIS BRASIL",Discovery H&H (4)
 http://lista.serverpower.me:80/147686/147686/37117
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b0d27efc-174d-41f6-851b-e125fba0dce7_m.jpg" group-title="39- DOCUMENTAIS BRASIL",Discovery H&H (5)
-http://a.srvbr.me:8880/118692/118692/868
+http://a.srvbr.me:8880/000111/000111/868
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="39- DOCUMENTAIS BRASIL",Discovery ID (1)
 http://a.srvbr.me:8880/040488/040488/807
 #EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="39- DOCUMENTAIS BRASIL",Discovery ID (5)
-http://a.srvbr.me:8880/118692/118692/807
+http://a.srvbr.me:8880/000111/000111/807
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="39- DOCUMENTAIS BRASIL",Discovery Science (1)
 http://a.srvbr.me:8880/040488/040488/865
@@ -3581,7 +3581,7 @@ http://lista.serverpower.me:80/live/150887/150887/37020.rtmp
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="39- DOCUMENTAIS BRASIL",Discovery Science (4)
 http://lista.serverpower.me:80/147686/147686/37020
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="39- DOCUMENTAIS BRASIL",Discovery Science (5)
-http://a.srvbr.me:8880/118692/118692/865
+http://a.srvbr.me:8880/000111/000111/865
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-hd-theater_m.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Theater (1)
 http://a.srvbr.me:8880/040488/040488/5323
@@ -3592,7 +3592,7 @@ http://lista.serverpower.me:80/live/150887/150887/37042.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-hd-theater_m.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Theater (4)
 http://lista.serverpower.me:80/147686/147686/37042
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-hd-theater_m.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Theater (5)
-http://a.srvbr.me:8880/118692/118692/5323
+http://a.srvbr.me:8880/000111/000111/5323
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Turbo (1)
 http://a.srvbr.me:8880/040488/040488/863
@@ -3603,7 +3603,7 @@ http://lista.serverpower.me:80/live/150887/150887/37051.rtmp
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Turbo (4)
 http://lista.serverpower.me:80/147686/147686/37051
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Turbo (5)
-http://a.srvbr.me:8880/118692/118692/863
+http://a.srvbr.me:8880/000111/000111/863
 
 #EXTINF:-1 tvg-logo="https://www.skytvporassinatura.com.br/wp-content/uploads/2018/01/canal-discovery-world-hd-sky-1.png" group-title="39- DOCUMENTAIS BRASIL",Discovery World (1)
 http://a.srvbr.me:8880/040488/040488/5322
@@ -3614,7 +3614,7 @@ http://lista.serverpower.me:80/live/150887/150887/37036.rtmp
 #EXTINF:-1 tvg-logo="https://www.skytvporassinatura.com.br/wp-content/uploads/2018/01/canal-discovery-world-hd-sky-1.png" group-title="39- DOCUMENTAIS BRASIL",Discovery World (4)
 http://lista.serverpower.me:80/147686/147686/37036
 #EXTINF:-1 tvg-logo="https://www.skytvporassinatura.com.br/wp-content/uploads/2018/01/canal-discovery-world-hd-sky-1.png" group-title="39- DOCUMENTAIS BRASIL",Discovery World (5)
-http://a.srvbr.me:8880/118692/118692/5322
+http://a.srvbr.me:8880/000111/000111/5322
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="39- DOCUMENTAIS BRASIL",History (1)
 http://a.srvbr.me:8880/040488/040488/726
@@ -3625,7 +3625,7 @@ http://lista.serverpower.me:80/live/150887/150887/37072.rtmp
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="39- DOCUMENTAIS BRASIL",History (4)
 http://lista.serverpower.me:80/147686/147686/37072
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="39- DOCUMENTAIS BRASIL",History (5)
-http://a.srvbr.me:8880/118692/118692/726
+http://a.srvbr.me:8880/000111/000111/726
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="39- DOCUMENTAIS BRASIL",History 2 (1)
 http://a.srvbr.me:8880/040488/040488/822
@@ -3636,14 +3636,14 @@ http://lista.serverpower.me:80/live/150887/150887/37031.rtmp
 #EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="39- DOCUMENTAIS BRASIL",History 2 (4)
 http://lista.serverpower.me:80/147686/147686/37031
 #EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="39- DOCUMENTAIS BRASIL",History 2 (5)
-http://a.srvbr.me:8880/118692/118692/822
+http://a.srvbr.me:8880/000111/000111/822
 
 #EXTINF:-1 tvg-logo="https://planeta.com/wp-content/uploads/2018/02/hgtvlogo-1024x768.jpg" group-title="39- DOCUMENTAIS BRASIL",Hgtv (2)
 http://lista.serverpower.me:80/live/005059/005059/37017.rtmp
 #EXTINF:-1 tvg-logo="https://planeta.com/wp-content/uploads/2018/02/hgtvlogo-1024x768.jpg" group-title="39- DOCUMENTAIS BRASIL",Hgtv (3)
 http://lista.serverpower.me:80/live/150887/150887/37017.rtmp
 #EXTINF:-1 tvg-logo="https://planeta.com/wp-content/uploads/2018/02/hgtvlogo-1024x768.jpg" group-title="39- DOCUMENTAIS BRASIL",Hgtv (4)
-http://lista.serverpower.me:80/147686/147686/37017
+http://lista.serverpower.me:80/000111/000111/37017
 
 #EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="39- DOCUMENTAIS BRASIL",Nat Geo (1)
 http://a.srvbr.me:8880/040488/040488/792
@@ -3654,7 +3654,7 @@ http://lista.serverpower.me:80/live/150887/150887/37079.rtmp
 #EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="39- DOCUMENTAIS BRASIL",Nat Geo (4)
 http://lista.serverpower.me:80/147686/147686/37079
 #EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="39- DOCUMENTAIS BRASIL",Nat Geo (5)
-http://a.srvbr.me:8880/118692/118692/792
+http://a.srvbr.me:8880/000111/000111/792
 
 #EXTINF:-1 tvg-logo="http://www.lettreaudiovisuel.com/wp-content/uploads/2014/12/Nat-Geo-Wild.png" group-title="39- DOCUMENTAIS BRASIL",Nat Geo Wild (1)
 http://a.srvbr.me:8880/040488/040488/793
@@ -3665,12 +3665,12 @@ http://lista.serverpower.me:80/live/150887/150887/37065.rtmp
 #EXTINF:-1 tvg-logo="http://www.lettreaudiovisuel.com/wp-content/uploads/2014/12/Nat-Geo-Wild.png" group-title="39- DOCUMENTAIS BRASIL",Nat Geo Wild (4)
 http://lista.serverpower.me:80/147686/147686/37065
 #EXTINF:-1 tvg-logo="http://www.lettreaudiovisuel.com/wp-content/uploads/2014/12/Nat-Geo-Wild.png" group-title="39- DOCUMENTAIS BRASIL",Nat Geo Wild (5)
-http://a.srvbr.me:8880/118692/118692/793
+http://a.srvbr.me:8880/000111/000111/793
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tlc-logo-01.png" group-title="39- DOCUMENTAIS BRASIL",Tlc (1)
 http://a.srvbr.me:8880/040488/040488/725
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tlc-logo-01.png" group-title="39- DOCUMENTAIS BRASIL",Tlc (5)
-http://a.srvbr.me:8880/118692/118692/725
+http://a.srvbr.me:8880/000111/000111/725
 
 ######################################################################################################################################
 ####################################### DEPORTES LATINO
@@ -3894,7 +3894,7 @@ http://lista.serverpower.me:80/live/150887/150887/37103.rtmp
 #EXTINF:-1  tvg-logo="https://handeboltaubate.files.wordpress.com/2012/12/bandsports.png" group-title="42- ESPORTES BRASIL",Band Sports (4)
 http://lista.serverpower.me:80/147686/147686/37103
 #EXTINF:-1  tvg-logo="https://handeboltaubate.files.wordpress.com/2012/12/bandsports.png" group-title="42- ESPORTES BRASIL",Band Sports (5)
-http://a.srvbr.me:8880/118692/118692/889
+http://a.srvbr.me:8880/000111/000111/889
 
 #EXTINF:-1 tvg-logo="https://s2.glbimg.com/OlF3fWNQd7yyW7Cfsak6AF6vINc=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/dd/45/6f0becb8b016872551edaad347cc.png" group-title="42- ESPORTES BRASIL",Combate (1)
 http://a.srvbr.me:8880/040488/040488/875
@@ -3905,7 +3905,7 @@ http://lista.serverpower.me:80/live/150887/150887/37106.rtmp
 #EXTINF:-1 tvg-logo="https://s2.glbimg.com/OlF3fWNQd7yyW7Cfsak6AF6vINc=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/dd/45/6f0becb8b016872551edaad347cc.png" group-title="42- ESPORTES BRASIL",Combate (4)
 http://lista.serverpower.me:80/147686/147686/37106
 #EXTINF:-1 tvg-logo="https://s2.glbimg.com/OlF3fWNQd7yyW7Cfsak6AF6vINc=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/dd/45/6f0becb8b016872551edaad347cc.png" group-title="42- ESPORTES BRASIL",Combate (5)
-http://a.srvbr.me:8880/118692/118692/875
+http://a.srvbr.me:8880/000111/000111/875
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn_m.png" group-title="42- ESPORTES BRASIL",Espn (1)
 http://a.srvbr.me:8880/040488/040488/4643
@@ -3916,7 +3916,7 @@ http://lista.serverpower.me:80/live/150887/150887/37109.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn_m.png" group-title="42- ESPORTES BRASIL",Espn (4)
 http://lista.serverpower.me:80/147686/147686/37109
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn_m.png" group-title="42- ESPORTES BRASIL",Espn (5)
-http://a.srvbr.me:8880/118692/118692/4643
+http://a.srvbr.me:8880/000111/000111/4643
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-2_m.png" group-title="42- ESPORTES BRASIL",Espn 2 (2)
 http://lista.serverpower.me:80/live/005059/005059/37110.rtmp
@@ -3934,7 +3934,7 @@ http://lista.serverpower.me:80/live/150887/150887/37108.rtmp
 #EXTINF:-1 tvg-logo="https://skyassineonline.com.br/img/channels/lg-230-canal-espn-brasil-hd.png" group-title="42- ESPORTES BRASIL",Espn Brasil (4)
 http://lista.serverpower.me:80/147686/147686/37108
 #EXTINF:-1 tvg-logo="https://skyassineonline.com.br/img/channels/lg-230-canal-espn-brasil-hd.png" group-title="42- ESPORTES BRASIL",Espn Brasil (5)
-http://a.srvbr.me:8880/118692/118692/850
+http://a.srvbr.me:8880/000111/000111/850
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-xSGNOpDB9-A/W1mltwIpEFI/AAAAAAAAObQ/83UBcqoHHyEnWojuARjQbTGkdw4vmP3EACLcBGAs/s320/espnextra.png" group-title="42- ESPORTES BRASIL",Espn Extra (1)
 http://a.srvbr.me:8880/040488/040488/5321
@@ -3945,7 +3945,7 @@ http://lista.serverpower.me:80/live/150887/150887/37055.rtmp
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-xSGNOpDB9-A/W1mltwIpEFI/AAAAAAAAObQ/83UBcqoHHyEnWojuARjQbTGkdw4vmP3EACLcBGAs/s320/espnextra.png" group-title="42- ESPORTES BRASIL",Espn Extra (4)
 http://lista.serverpower.me:80/147686/147686/37055
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-xSGNOpDB9-A/W1mltwIpEFI/AAAAAAAAObQ/83UBcqoHHyEnWojuARjQbTGkdw4vmP3EACLcBGAs/s320/espnextra.png" group-title="42- ESPORTES BRASIL",Espn Extra (5)
-http://a.srvbr.me:8880/118692/118692/5321
+http://a.srvbr.me:8880/000111/000111/5321
 
 #EXTINF:-1 tvg-logo="https://www.revistaneo.com/sites/default/files/2018-01/FOX-SportsLogo.jpg" group-title="42- ESPORTES BRASIL",Fox Sports (1)
 http://a.srvbr.me:8880/040488/040488/837
@@ -3956,7 +3956,7 @@ http://lista.serverpower.me:80/live/150887/150887/37111.rtmp
 #EXTINF:-1 tvg-logo="https://www.revistaneo.com/sites/default/files/2018-01/FOX-SportsLogo.jpg" group-title="42- ESPORTES BRASIL",Fox Sports (4)
 http://lista.serverpower.me:80/147686/147686/37111
 #EXTINF:-1 tvg-logo="https://www.revistaneo.com/sites/default/files/2018-01/FOX-SportsLogo.jpg" group-title="42- ESPORTES BRASIL",Fox Sports (5)
-http://a.srvbr.me:8880/118692/118692/837
+http://a.srvbr.me:8880/000111/000111/837
 
 #EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports2_N.png" group-title="42- ESPORTES BRASIL",Fox Sports 2 (1)
 http://a.srvbr.me:8880/040488/040488/836
@@ -3967,7 +3967,7 @@ http://lista.serverpower.me:80/live/150887/150887/37114.rtmp
 #EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports2_N.png" group-title="42- ESPORTES BRASIL",Fox Sports 2 (4)
 http://lista.serverpower.me:80/147686/147686/37114
 #EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports2_N.png" group-title="42- ESPORTES BRASIL",Fox Sports 2 (5)
-http://a.srvbr.me:8880/118692/118692/836
+http://a.srvbr.me:8880/000111/000111/836
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-xk-32sZB5XE/VAHkcQOOlNI/AAAAAAACH5w/pIZYQjvBVsY/s1600/PFC_LOGO_2014.png" group-title="42- ESPORTES BRASIL",Premiere Clubes (1)
 http://a.srvbr.me:8880/040488/040488/767
@@ -3978,7 +3978,7 @@ http://lista.serverpower.me:80/live/150887/150887/37088.rtmp
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-xk-32sZB5XE/VAHkcQOOlNI/AAAAAAACH5w/pIZYQjvBVsY/s1600/PFC_LOGO_2014.png" group-title="42- ESPORTES BRASIL",Premiere Clubes (4)
 http://lista.serverpower.me:80/147686/147686/37088
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-xk-32sZB5XE/VAHkcQOOlNI/AAAAAAACH5w/pIZYQjvBVsY/s1600/PFC_LOGO_2014.png" group-title="42- ESPORTES BRASIL",Premiere Clubes (5)
-http://a.srvbr.me:8880/118692/118692/767
+http://a.srvbr.me:8880/000111/000111/767
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/sportv-logo-png-7.png" group-title="42- ESPORTES BRASIL",Sportv (1)
 http://a.srvbr.me:8880/040488/040488/748
@@ -3989,7 +3989,7 @@ http://lista.serverpower.me:80/live/150887/150887/37087.rtmp
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/sportv-logo-png-7.png" group-title="42- ESPORTES BRASIL",Sportv (4)
 http://lista.serverpower.me:80/147686/147686/37087
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/sportv-logo-png-7.png" group-title="42- ESPORTES BRASIL",Sportv (5)
-http://a.srvbr.me:8880/118692/118692/748
+http://a.srvbr.me:8880/000111/000111/748
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/sportv-2-png-8.png" group-title="42- ESPORTES BRASIL",Sportv 2 (1)
 http://a.srvbr.me:8880/040488/040488/747
@@ -4000,7 +4000,7 @@ http://lista.serverpower.me:80/live/150887/150887/37086.rtmp
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/sportv-2-png-8.png" group-title="42- ESPORTES BRASIL",Sportv 2 (4)
 http://lista.serverpower.me:80/147686/147686/37086
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/sportv-2-png-8.png" group-title="42- ESPORTES BRASIL",Sportv 2 (5)
-http://a.srvbr.me:8880/118692/118692/747
+http://a.srvbr.me:8880/000111/000111/747
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-sportv-png-5.png" group-title="42- ESPORTES BRASIL",Sportv 3 (1)
 http://a.srvbr.me:8880/040488/040488/745
@@ -4011,7 +4011,7 @@ http://lista.serverpower.me:80/live/150887/150887/37083.rtmp
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-sportv-png-5.png" group-title="42- ESPORTES BRASIL",Sportv 3 (4)
 http://lista.serverpower.me:80/147686/147686/37083
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-sportv-png-5.png" group-title="42- ESPORTES BRASIL",Sportv 3 (5)
-http://a.srvbr.me:8880/118692/118692/745
+http://a.srvbr.me:8880/000111/000111/745
 
 ######################################################################################################################################
 #######################################  MUSICA
