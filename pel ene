@@ -1,8 +1,0 @@
-#EXTM3U
-
-#PLAYLISTV: pltv-logo="https://scontent.fmvd2-1.fna.fbcdn.net/v/t1.0-9/cp0/e15/q65/s851x315/87775504_2820213388045057_6738077563073069056_o.jpg?_nc_cat=111&_nc_sid=0be424&efg=eyJpIjoidCJ9&_nc_oc=AQmjvBsI_80jUPGfZ0mUrq4Mw7-a9llxgd3oYRvJMEXYTzpmL7efgdis4Tm4UoGB01w&_nc_ht=scontent.fmvd2-1.fna&_nc_tp=9&oh=f969facc857fcd45732c80afb0ac9cc2&oe=5EF40AD4" pltv-name="Team Iptv Canales" pltv-description="CANALES IPTV" pltv-cover="https://scontent.fmvd2-1.fna.fbcdn.net/v/t1.0-9/cp0/e15/q65/s851x315/87775504_2820213388045057_6738077563073069056_o.jpg?_nc_cat=111&_nc_sid=0be424&efg=eyJpIjoidCJ9&_nc_oc=AQmjvBsI_80jUPGfZ0mUrq4Mw7-a9llxgd3oYRvJMEXYTzpmL7efgdis4Tm4UoGB01w&_nc_ht=scontent.fmvd2-1.fna&_nc_tp=9&oh=f969facc857fcd45732c80afb0ac9cc2&oe=5EF40AD4" pltv-author="TEAM"
-######################################################################################################################################
-######################################################################################################################################
-#EXTINF:-1 tvg-logo="https://image.freepik.com/psd-gratis/psd-icono-actualizar_30-899.jpg" group-title="Nueva lista en el grupo",Nueva lista en el grupo
-https://stream.vagalume.fm/hls/1470155259220668/aac.m3u8
-####################
