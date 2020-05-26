@@ -68,6 +68,8 @@ http://flowfhd.xyz:25461/0006/0006/50508
 
 #EXTINF:-1 tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/07/Canal4-SanJuan-FDG-300x300.jpg" group-title="03- ARGENTINA",Canal 4 San Juan⁻ˢᵈ⁻
 http://streamyes.alsolnet.com:1935/canal4sanjuan/live/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/07/Canal4-SanJuan-FDG-300x300.jpg" group-title="03- ARGENTINA",Canal 4 San Juan⁻ˢᵈ⁻
+http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JqIPc.png" group-title="03- ARGENTINA",Canal 4 La Matanza⁻ˢᵈ⁻
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0056
@@ -159,6 +161,11 @@ http://flowfhd.xyz:25461/0006/0006/35783
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/canal-9-multivision.png" group-title="03- ARGENTINA",Multivision⁻ˢᵈ⁻
 http://panel.dattalive.com:1935/8250/8250/chunklist_w1392684176.m3u8?TEAM IPTV
 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/canal-9-multivision.png" group-title="03- ARGENTINA",Music Top⁻ˢᵈ⁻
+http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/canal-9-multivision.png" group-title="03- ARGENTINA",Music Top⁻ˢᵈ⁻
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/08/NETargentina.png/revision/latest?cb=20180702162652" group-title="03- ARGENTINA",Net TV⁻ˢᵈ⁻
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0044
 
@@ -169,6 +176,8 @@ http://flowfhd.xyz:25461/0006/0006/11380
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1062355905377910784/DVCprdPS_400x400.jpg" group-title="03- ARGENTINA",RTN Neuquén⁻ˢᵈ⁻
 http://media.neuquen.gov.ar/rtn/television/media.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1062355905377910784/DVCprdPS_400x400.jpg" group-title="03- ARGENTINA",RTN Neuquén⁻ˢᵈ⁻
+http://media.neuquen.gov.ar/rtn/television/chunklist_w2042779766.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tPlVRpfUcpg/hqdefault.jpg" group-title="03- ARGENTINA",Santa Maria TV⁻ˢᵈ⁻
 http://www.trimi.com.ar/santa_maria/streaming/mystreamSantaMariaHSMed.m3u8
@@ -186,6 +195,8 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0083
 
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_09/small.Logo_TierramiaTV.png.52a0b19eb1a7425c43898d0766558d1a.png" group-title="03- ARGENTINA",Tierramia TV⁻ˢᵈ⁻
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0028
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_09/small.Logo_TierramiaTV.png.52a0b19eb1a7425c43898d0766558d1a.png" group-title="03- ARGENTINA",Tierramia TV⁻ˢᵈ⁻
+https://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w68879463_b1864000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.tn.com.ar/sites/default/files/styles/720x720/public/2018/08/16/tn_vivo1.png" group-title="03- ARGENTINA",TN_OFF_
 http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
@@ -197,11 +208,26 @@ http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
 http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
 
 ######################################################################################################################################
+####################################### ARUBA
+#EXTINF:-1 tvg-logo="https://img.freepik.com/foto-gratis/bandera-aruba_1401-275.jpg?size=626&ext=jpg" group-title="04- ARUBA",04- ARUBA
+https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
+#######################################
+######################################################################################################################################
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/aw-telearuba-6925.jpg" group-title="04- ARUBA",Tele Aruba⁻ˢᵈ⁻
+http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist_w964107368_b896000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/aw-telearuba-6925.jpg" group-title="04- ARUBA",Tele Aruba⁻ˢᵈ⁻
+https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/chunklist_w812279767_b1596000_sleng.m3u8
+
+######################################################################################################################################
 ####################################### BRASIL
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/91/18/c2/9118c23678a907c209281fb1533732ca.png" group-title="04- BRASIL",04- BRASIL
 https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
 #######################################
 ######################################################################################################################################
+
+#EXTINF:0 tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png" group-title="04- BRASIL",Agro Brasil tv⁻ˢᵈ⁻
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (1)
 http://a.srvbr.me:8880/040488/040488/887
@@ -341,6 +367,9 @@ http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2099085578_b216000_sleng.m3u
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT⁻ˢᵈ⁻
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w965605121_b131000_sleng.m3u8?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="https://www.bastidoresdatv.com.br/wp-content/uploads/2017/07/TV_Brasil_Animada-692x445.jpg" group-title="04- BRASIL",Tv Brasil Animada⁻ˢᵈ⁻
+http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/11/tv-jornal.png" group-title="04- BRASIL",SBT⁻ˢᵈ⁻ TV Jornal PE
 http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT⁻⁷²⁰⁻ PE
@@ -367,34 +396,29 @@ http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8?GrupoTopIptv
 https://stream.vagalume.fm/hls/1465840912218182609/aac.m3u8
 #######################################
 
-#EXTINF:-1  tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/ATB.png" group-title="05- BOLIVIA",ATB (2)
-http://ecuaplaytv.com:8000/Nous2019iptv/fwh0NMSWm7/100072
+#EXTINF:-1  tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/ATB.png" group-title="05- BOLIVIA",ATB_OFF_
+
 
 #EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Bolivia_TV_2016.png/revision/latest?cb=20160622170105" group-title="05- BOLIVIA",Bolivia TV⁻ˢᵈ⁻
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8?GrupoTopIptv
-#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Bolivia_TV_2016.png/revision/latest?cb=20160622170105" group-title="05- BOLIVIA",Bolivia TV (2)
-http://ecuaplaytv.com:8000/Nous2019iptv/fwh0NMSWm7/100074
 
-#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/987331113831018496/qQEsqWcs_400x400.jpg" group-title="05- BOLIVIA",Bolivision (2)
-http://ecuaplaytv.com:8000/Nous2019iptv/fwh0NMSWm7/100078
-#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/987331113831018496/qQEsqWcs_400x400.jpg" group-title="05- BOLIVIA",Bolivision (2)
-http://ecuaplaytv.com:8000/Nous2019iptv/fwh0NMSWm7/100076
+#EXTINF:-1  tvg-logo="https://www.teleringa.com/wp-content/uploads/2020/03/bolivia-deportes.jpg" group-title="05- BOLIVIA",Bolivia TV Deportes⁻ˢᵈ⁻
+http://btvboliviatv.srfms.com:6568/live/livestream/chunklist.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.gomedia.com.bo/images/clientes/cadena-a.png" group-title="05- BOLIVIA",Cadena A (2)
-http://ecuaplaytv.com:8000/Nous2019iptv/fwh0NMSWm7/100079
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/987331113831018496/qQEsqWcs_400x400.jpg" group-title="05- BOLIVIA",Bolivision_OFF_
 
-#EXTINF:-1  tvg-logo="https://www.cotes.net.bo/appCotes/public/appWeb_/assets/images/canales/27.png" group-title="05- BOLIVIA",Gigavision (2)
-http://ecuaplaytv.com:8000/Nous2019iptv/fwh0NMSWm7/100081
 
-#EXTINF:-1  tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/bo-rtp-bolivia-1178.jpg" group-title="05- BOLIVIA",RTP (2)
-http://ecuaplaytv.com:8000/Nous2019iptv/fwh0NMSWm7/100084
+#EXTINF:-1  tvg-logo="https://www.gomedia.com.bo/images/clientes/cadena-a.png" group-title="05- BOLIVIA",Cadena A_OFF_
 
-#EXTINF:-1  tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/unitel.png" group-title="05- BOLIVIA",Unitel (2)
-http://ecuaplaytv.com:8000/Nous2019iptv/fwh0NMSWm7/100061
-#EXTINF:-1  tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/unitel.png" group-title="05- BOLIVIA",Unitel (2)
-http://ecuaplaytv.com:8000/Nous2019iptv/fwh0NMSWm7/100092
-#EXTINF:-1  tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/unitel.png" group-title="05- BOLIVIA",Unitel (2)
-http://ecuaplaytv.com:8000/Nous2019iptv/fwh0NMSWm7/100091
+
+#EXTINF:-1  tvg-logo="https://www.cotes.net.bo/appCotes/public/appWeb_/assets/images/canales/27.png" group-title="05- BOLIVIA",Gigavision_OFF_
+
+
+#EXTINF:-1  tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/bo-rtp-bolivia-1178.jpg" group-title="05- BOLIVIA",RTP_OFF_
+
+
+#EXTINF:-1  tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/unitel.png" group-title="05- BOLIVIA",Unitel_OFF_
+
 
 ######################################################################################################################################
 ####################################### CHILE
@@ -484,14 +508,8 @@ http://ecuaplaytv.com:8000/Nous2019iptv/fwh0NMSWm7/81376
 #EXTINF:-1 tvg-logo="https://boom82.com/wp-content/uploads/2019/05/imLavL3o.png" group-title="07- COLOMBIA",Canal Uno (2)
 http://ecuaplaytv.com:8000/Nous2019iptv/fwh0NMSWm7/81377
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/874398170146643968/5lII2Wbl_400x400.jpg" group-title="07- COLOMBIA",Caracol (2)
-http://ecuaplaytv.com:8000/Nous2019iptv/fwh0NMSWm7/93022
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/874398170146643968/5lII2Wbl_400x400.jpg" group-title="07- COLOMBIA",Caracol (2)
-http://ecuaplaytv.com:8000/Nous2019iptv/fwh0NMSWm7/93020
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/874398170146643968/5lII2Wbl_400x400.jpg" group-title="07- COLOMBIA",Caracol (2)
-http://ecuaplaytv.com:8000/Nous2019iptv/fwh0NMSWm7/56697
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/874398170146643968/5lII2Wbl_400x400.jpg" group-title="07- COLOMBIA",Caracol (2)
-http://ecuaplaytv.com:8000/Nous2019iptv/fwh0NMSWm7/42596
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/874398170146643968/5lII2Wbl_400x400.jpg" group-title="07- COLOMBIA",Caracol⁻ˢᵈ⁻
+https://jimmy.zappingtv.com/caracol/caracol.smil/chunklist_b1628000_sles_tkd293emF0b2tlbmVuZHRpbWU9MTU2Mjg1MTkyMCZ3b3d6YXRva2VuaGFzaD11NS03VzZPMDF2Q0lpN3N5WkxFTFpGZlpZUDJkQTBaU09zZVU0VzJCYUkwPQ==.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/city-tv.png" group-title="07- COLOMBIA",City tv (2)
 http://ecuaplaytv.com:8000/Nous2019iptv/fwh0NMSWm7/93018
@@ -501,20 +519,17 @@ http://ecuaplaytv.com:8000/Nous2019iptv/fwh0NMSWm7/42575
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/386408609/cnc2_400x400.png" group-title="07- COLOMBIA",CNC⁻ˢᵈ⁻
 http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/0a057f6d-f43c-4384-af72-8276c8545859_m.jpg" group-title="07- COLOMBIA",NTN24 (2)
-http://ecuaplaytv.com:8000/Nous2019iptv/fwh0NMSWm7/82473
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/0a057f6d-f43c-4384-af72-8276c8545859_m.jpg" group-title="07- COLOMBIA",NTN24 (2)
-http://ecuaplaytv.com:8000/Nous2019iptv/fwh0NMSWm7/63227
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/0a057f6d-f43c-4384-af72-8276c8545859_m.jpg" group-title="07- COLOMBIA",NTN24 (2)
-http://ecuaplaytv.com:8000/Nous2019iptv/fwh0NMSWm7/42572
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/959148019479470080/VIP_8lbP.jpg" group-title="07- COLOMBIA",Mundo+⁻ˢᵈ⁻
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/0a057f6d-f43c-4384-af72-8276c8545859_m.jpg" group-title="07- COLOMBIA",NTN24
+
 
 #EXTINF:-1 tvg-logo="http://www.ranchenatotv.co/wp-content/uploads/2018/10/500PX.png" group-title="07- COLOMBIA",Ranchenato⁻ˢᵈ⁻
 http://66.240.236.25:1936/ranchenato/ranchenato/playlist.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="http://html.canalrcn.com/CanalRCN/react/images/RCN-RCNTELEVISION-logo21.png" group-title="07- COLOMBIA",RCN (2)
-http://ecuaplaytv.com:8000/Nous2019iptv/fwh0NMSWm7/93099
-#EXTINF:-1 tvg-logo="http://html.canalrcn.com/CanalRCN/react/images/RCN-RCNTELEVISION-logo21.png" group-title="07- COLOMBIA",RCN (2)
-http://ecuaplaytv.com:8000/Nous2019iptv/fwh0NMSWm7/42589
+#EXTINF:-1 tvg-logo="http://html.canalrcn.com/CanalRCN/react/images/RCN-RCNTELEVISION-logo21.png" group-title="07- COLOMBIA",RCN
+
 
 #EXTINF:-1 tvg-logo="https://vivoplaysbtv.s3.amazonaws.com/image/235837990596/medium/100/1473534756d0cc352b16d02c63bc227c251054d876.jpg" group-title="07- COLOMBIA",RCN Novelas_OFF_
 http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
@@ -525,22 +540,16 @@ http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/913913768886902784/0AqY59fi_400x400.jpg" group-title="07- COLOMBIA",Tacho Pistacho_OFF_
 http://amigotv.online:8080/faucontv/2c248b3e1d35/31659
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_teleantioquia-hd_m.png" group-title="07- COLOMBIA",Teleantioquia (2)
-http://ecuaplaytv.com:8000/Nous2019iptv/fwh0NMSWm7/93103
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_teleantioquia-hd_m.png" group-title="07- COLOMBIA",Teleantioquia (2)
-http://ecuaplaytv.com:8000/Nous2019iptv/fwh0NMSWm7/42571
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_teleantioquia-hd_m.png" group-title="07- COLOMBIA",Teleantioquia
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Telecaf%C3%A9.png" group-title="07- COLOMBIA",Telecafe (2)
-http://ecuaplaytv.com:8000/Nous2019iptv/fwh0NMSWm7/42570
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Telecaf%C3%A9.png" group-title="07- COLOMBIA",Telecafe
+
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/telecaribe.png" group-title="07- COLOMBIA",Telecaribe⁻ˢᵈ⁻
 http://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/2196k/index.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/telecaribe.png" group-title="07- COLOMBIA",Telecaribe⁻ˢᵈ⁻
 http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8?GrupoTopIptv
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/telecaribe.png" group-title="07- COLOMBIA",Telecaribe (2)
-http://ecuaplaytv.com:8000/Nous2019iptv/fwh0NMSWm7/42582
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/telecaribe.png" group-title="07- COLOMBIA",Telecaribe (2)
-http://ecuaplaytv.com:8000/Nous2019iptv/fwh0NMSWm7/93104
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4xNgb8H.png" group-title="07- COLOMBIA",Teleislas⁻ˢᵈ⁻
 http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8?GrupoTopIptv
@@ -607,12 +616,8 @@ http://ecuaplaytv.com:8000/Nous2019iptv/fwh0NMSWm7/81379
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1230328401254322176/fWLriAft_400x400.jpg" group-title="10- ECUADOR",EcuadorTV (2)
 http://ecuaplaytv.com:8000/Nous2019iptv/fwh0NMSWm7/81349
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/ecuavisa.png" group-title="10- ECUADOR",Ecuavisa (2)
-http://ecuaplaytv.com:8000/Nous2019iptv/fwh0NMSWm7/81352
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/ecuavisa.png" group-title="10- ECUADOR",Ecuavisa (2)
-http://ecuaplaytv.com:8000/Nous2019iptv/fwh0NMSWm7/81351
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/ecuavisa.png" group-title="10- ECUADOR",Ecuavisa (2)
-http://ecuaplaytv.com:8000/Nous2019iptv/fwh0NMSWm7/81350
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/ecuavisa.png" group-title="10- ECUADOR",Ecuavisa⁻ˢᵈ⁻
+http://173.212.247.99/hls/tvec2.m3u8
 
 #EXTINF:-1 tvg-logo="https://blixtv.com/wp-content/uploads/2015/03/gamatv3-240x172.png" group-title="10- ECUADOR",Gama tv (2)
 http://ecuaplaytv.com:8000/Nous2019iptv/fwh0NMSWm7/81355
