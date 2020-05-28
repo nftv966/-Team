@@ -540,12 +540,17 @@ http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
 
 #EXTINF:-1 tvg-logo="https://image.multimedios.cr/sites/default/files/styles/social_share/public/nota_somos_el_8.jpg" group-title="08- COSTA RICA",Canal 08 Multimedios ⁻ˢᵈ⁻
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?GrupoTopIptv
+#EXTINF:-1 tvg-logo="https://image.multimedios.cr/sites/default/files/styles/social_share/public/nota_somos_el_8.jpg" group-title="08- COSTA RICA",Canal 08 Multimedios ⁻ˢᵈ⁻
+http://mdstrm.com:80/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Canal-11-Costa-Rica.png" group-title="08- COSTA RICA",Canal 11 Repretel
 http://flowfhd.xyz:25461/6082/6082/9219
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Naw5Wnn.png" group-title="08- COSTA RICA",Extrema TV⁻ˢᵈ⁻
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/2020-02/TeleSUR-Costa%2520Rica.png" group-title="08- COSTA RICA",Telesur⁻ˢᵈ⁻
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 
 ######################################################################################################################################
 ####################################### CUBA
@@ -855,8 +860,8 @@ http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
 #EXTINF:-1 tvg-logo="http://www.videoluctv.net/wp-content/uploads/2016/09/TVG.jpg" group-title="11- ESPAÑA",TV Galicia⁻ˢᵈ⁻
 http://europa-crtvg.flumotion.com/playlist.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://www.programacion.tv/images/viajar.PNG" group-title="11- ESPAÑA",Viajar_OFF_
-http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+#EXTINF:-1 tvg-logo="https://www.programacion.tv/images/viajar.PNG" group-title="11- ESPAÑA",Viajar⁻ˢᵈ⁻
+http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8
 
 ######################################################################################################################################
 ####################################### GUATEMALA
@@ -1389,14 +1394,27 @@ http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
 https://stream.vagalume.fm/hls/147396460892793/aac.m3u8
 #######################################
 
+#EXTINF:-1 tvg-logo="https://olbengc.com/wp-content/uploads/2018/04/acento-tv-logo.png" group-title="19- R.DOMINICANA",Acento tv⁻ˢᵈ⁻
+http://acentotv01.streamprolive.com/hls/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/940654137267535872/7Cr-uWeQ.jpg" group-title="19- R.DOMINICANA",Canal del Sol
 http://flowfhd.xyz:25461/6082/6082/9344
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/940654137267535872/7Cr-uWeQ.jpg" group-title="19- R.DOMINICANA",Canal del Sol⁻ˢᵈ⁻
+http://canaldelsol01.streamprolive.com/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/carivision.png" group-title="19- R.DOMINICANA",Carivision⁻ˢᵈ⁻
+http://ss6.domint.net:2012/tes_str/teleelsalvador/chunklist_w718025904.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.dominicanchannels.com/wp-content/uploads/2014/09/cinevision-canal-19-.png" group-title="19- R.DOMINICANA",Cinevision Canal 19⁻ˢᵈ⁻
+http://cinevision01.streamprolive.com/hls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/megavision.png" group-title="19- R.DOMINICANA",Megavision_OFF_
 http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/836673683997483013/9xtjWyh6.jpg" group-title="19- R.DOMINICANA",Microvision
 http://flowfhd.xyz:25461/6082/6082/9359
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/836673683997483013/9xtjWyh6.jpg" group-title="19- R.DOMINICANA",Microvision⁻ˢᵈ⁻
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
 
 #EXTINF:-1 tvg-logo="https://teleon.fra1.digitaloceanspaces.com/logo/Telecanal-28.png" group-title="19- R.DOMINICANA",Telecanal 28
 http://flowfhd.xyz:25461/6082/6082/9373
@@ -2791,6 +2809,9 @@ http://flowfhd.xyz:25461/0006/0006/8438
 http://flowfhd.xyz:25461/6082/6082/11380
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Paka-Paka.png" group-title="32- INFANTIL LATINO",Paka Paka (6)
 http://flowfhd.xyz:25461/0006/0006/11380
+
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s239510q.png" group-title="32- INFANTIL LATINO",Pequeradio⁻ˢᵈ⁻
+http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://t3.kn3.net/taringa/A/7/E/6/A/C/RevolucionCN/83A.png" group-title="32- INFANTIL LATINO",Tooncast (3)
 http://flowfhd.xyz:25461/6082/6082/8458
