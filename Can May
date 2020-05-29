@@ -225,6 +225,9 @@ https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
 #EXTINF:0 tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png" group-title="04- BRASIL",Agro Brasil tv⁻ˢᵈ⁻
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
+#EXTINF:0 tvg-logo="https://static-1.ivoox.com/canales/8/8/5/6/9561563936588_XXL.jpg" group-title="04- BRASIL",AUDIO- Historias Infantis
+http://192.99.150.31:8371/stream
+
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (1)
 http://a.srvbr.me:8880/040488/040488/887
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (3)
@@ -320,6 +323,9 @@ http://a.srvbr.me:8880/139179/139179/827
 
 #EXTINF:-1 tvg-logo="https://www.hedex.tv/uploads/images/clip_155_1556042983_thumb.png" group-title="04- BRASIL",Itú TV⁻ˢᵈ⁻
 http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://www.metropolenews.tv/wp-content/uploads/2020/04/METR%C3%93POLE-NEWS-TV-MARCA-DAGUA.png" group-title="04- BRASIL",Metropole News tv⁻ˢᵈ⁻
+http://in.uaimacks.net.br:1935/macks/macks.sdp/chunklist_w1760176873.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record (1)
 http://a.srvbr.me:8880/040488/040488/761
