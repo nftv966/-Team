@@ -982,6 +982,8 @@ http://ch.iptvmate.net/bed20fe07d9d7cde0ee784f3dd7e3116.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/adn40.png" group-title="14- MEXICO",Adn 40⁻ˢᵈ⁻
 http://ch.iptvmate.net/897487de1836d18cad238b98e5852c3e.m3u8?GrupoTopIptv
+#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/adn40.png" group-title="14- MEXICO",Adn 40⁻ˢᵈ⁻
+http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/adn40.png" group-title="14- MEXICO",Adn 40
 http://flowfhd.xyz:25461/6082/6082/66157
 
@@ -1016,9 +1018,6 @@ http://ch.iptvmate.net/2d3aef47196e5da2d21403a5ac4cd724.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/06/Canal10-Chiapas-Logo.jpg" group-title="14- MEXICO",Canal 10 Chiapas⁻ˢᵈ⁻
 http://ch.iptvmate.net/e852a79e9e39f432e4c08468d169b96f.m3u8?GrupoTopIptv
-
-#EXTINF:-1 tvg-logo="https://ryta.com.mx/wp-content/uploads/2018/04/26_FONDO-BLANCO-01.jpg" group-title="14- MEXICO",Canal 26_OFF_
-http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
 
 #EXTINF:-1 tvg-logo="http://www.canal15zac.com/logo2.png" group-title="14- MEXICO",Canal 15 Zacatecas⁻ˢᵈ⁻
 http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8?GrupoTopIptv
