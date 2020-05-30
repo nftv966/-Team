@@ -17,6 +17,18 @@ https://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
 
+#EXTINF:-1 tvg-logo="https://planaxia.com/wp-content/uploads/2020/04/el-afiche-de-toxico-con___5ACLmTWzp_0x750__1.jpg" group-title="01-LATINO",Toxico (2020)
+http://storage.googleapis.com/iron-fountain-266419.appspot.com/73wA2beGQgE-storage.mp4
+
+#EXTINF:-1 tvg-logo="https://www.cartelera.com.uy/imagenes_espectaculos/moviedetail13/28441.jpg" group-title="01-LATINO",La posesion de Mary (2019)
+http://storage.googleapis.com/silver-aurora-275105.appspot.com/hash/NFNCZzgvSThjMGhLSmxFbTNYVGlkdz09.mp4
+
+#EXTINF:-1 tvg-logo="https://images.static-bluray.com/products/20/49803_6_front.jpg" group-title="01-LATINO",Extraordinario (2017)
+http://storage.googleapis.com/omega-pivot-269518.appspot.com/cv2543472ltv2.mp4
+
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/11/12/12/25/0815514.jpg" group-title="01-LATINO",Sonic: La pelicula (2020)
+http://storage.googleapis.com/iron-fountain-266419.appspot.com/3Zr2GRk98Z2.mp4
+
 #EXTINF:-1 tvg-logo="https://http2.mlstatic.com/sonic-the-hedgehog-bluray-full-hd-1080p-pelic-D_NQ_NP_932458-MLU41164675460_032020-F.jpg" group-title="01-LATINO",Aves de presa (2020)
 http://storage.googleapis.com/iron-fountain-266419.appspot.com/713O6Rm5D1M.mp4
 
