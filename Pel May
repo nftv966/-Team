@@ -17,6 +17,12 @@ https://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/210/045/21004579_20130510092550029.jpg" group-title="01-LATINO",El castigador (1989)
+http://ia601503.us.archive.org/8/items/el-castigador-1989-j.-c.-l./El%20Castigador%201989%20%E2%98%86%E3%80%8AJ.C.L.%E3%80%8B%E2%98%86.mp4
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/715vD343AFL._AC_SX342_.jpg" group-title="01-LATINO",Hombre en llamas (2004)
+http://ia601507.us.archive.org/29/items/hombre-en-llamas.-j.-c.-l./Hombre%20en%20llamas.%E3%80%8AJ.C.L.%E3%80%8B.mp4
+
 #EXTINF:-1 tvg-logo="https://planaxia.com/wp-content/uploads/2020/04/el-afiche-de-toxico-con___5ACLmTWzp_0x750__1.jpg" group-title="01-LATINO",Toxico (2020)
 http://storage.googleapis.com/iron-fountain-266419.appspot.com/73wA2beGQgE-storage.mp4
 
