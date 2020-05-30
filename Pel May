@@ -17,6 +17,21 @@ https://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
 
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/sonic-the-hedgehog-bluray-full-hd-1080p-pelic-D_NQ_NP_932458-MLU41164675460_032020-F.jpg" group-title="01-LATINO",Aves de presa (2020)
+http://storage.googleapis.com/iron-fountain-266419.appspot.com/713O6Rm5D1M.mp4
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/11/12/17/13/2353095.jpg" group-title="01-LATINO",Bumblebee (2018)
+http://storage.googleapis.com/omega-pivot-269518.appspot.com/tt4701182_LAT_HD.mp4
+
+#EXTINF:-1 tvg-logo="https://www.clubeluniversal.mx/sites/default/files/GODINEZ_DETALLE_500x790px.jpg" group-title="01-LATINO",Rebelion de los Godinez (2020)
+http://storage.googleapis.com/iron-fountain-266419.appspot.com/kP08lVzORPl-storage.mp4
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81YdUDaMiWL._SY445_.jpg" group-title="01-LATINO",Joker (2020)
+http://storage.googleapis.com/emerald-entity-265717.appspot.com/tt7286456_LAT_HD.mp4
+
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/11/20/17/14/1219132.jpg" group-title="01-LATINO",La llamada de lo salvaje (2020)
+http://storage.googleapis.com/iron-fountain-266419.appspot.com/0JmKa8XpOyp.mp4
+
 #EXTINF:-1 tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w154/mNjRUxyxoY8e7csof9bENqru0sD.jpg" group-title="01-LATINO",Lucha de clases (2019)
 http://storage.googleapis.com/iron-fountain-266419.appspot.com/PokGjGqAOo4.mp4
 
