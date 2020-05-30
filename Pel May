@@ -17,7 +17,16 @@ https://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="https://www.cartelera.com.uy/imagenes_espectaculos/moviedetail13/23161.jpg" group-title="01-LATINO",Maze Runner: La cura mortal (2018)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41HjoRzfxFL._AC_.jpg" group-title="01-LATINO",Guerra Mundial Z (2013)
+http://storage.googleapis.com/omega-pivot-269518.appspot.com/cv0816711s.mp4
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A1gb4hHroVL._SY445_.jpg" group-title="01-LATINO",Maze Runner 2 (2015)
+http://storage.googleapis.com/iron-fountain-266419.appspot.com/WZg5QvvY5D3.mp4 
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_215_290/medias/nmedia/18/68/20/31/19785394.jpg" group-title="01-LATINO",El Rey Leon (1994)
+http://storage.googleapis.com/iron-fountain-266419.appspot.com/O3agQnGxPwW.mp4 
+
+#EXTINF:-1 tvg-logo="https://www.cartelera.com.uy/imagenes_espectaculos/moviedetail13/23161.jpg" group-title="01-LATINO",Maze Runner 3 (2018)
 http://storage.googleapis.com/omega-pivot-269518.appspot.com/cv4500922ltv4.mp4
 
 #EXTINF:-1 tvg-logo="https://onedigital.mx/ww3/wp-content/uploads/2018/03/coco.jpg" group-title="01-LATINO",Coco (2017)
