@@ -17,6 +17,24 @@ https://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
 
+#EXTINF:-1 tvg-logo="https://www.cartelera.com.uy/imagenes_espectaculos/moviedetail13/23161.jpg" group-title="01-LATINO",Maze Runner: La cura mortal (2018)
+http://storage.googleapis.com/omega-pivot-269518.appspot.com/cv4500922ltv4.mp4
+
+#EXTINF:-1 tvg-logo="https://onedigital.mx/ww3/wp-content/uploads/2018/03/coco.jpg" group-title="01-LATINO",Coco (2017)
+http://storage.googleapis.com/omega-pivot-269518.appspot.com/cv2380307ltv6.mp4
+
+#EXTINF:-1 tvg-logo="https://www.cartelera.com.uy/imagenes_espectaculos/moviedetail13/25277.jpg" group-title="01-LATINO",Hotel Transilvania 3 (2018)
+http://storage.googleapis.com/omega-pivot-269518.appspot.com/tt5220122_LAT_HD.mp4
+
+#EXTINF:-1 tvg-logo="https://www.aytoreinosa.es/wp-content/uploads/2019/01/Spider_Man_Un_nuevo_universo-821372865-large.jpg" group-title="01-LATINO",Hombre Araña:Un nuevo universo  (2018)
+http://storage.googleapis.com/omega-pivot-269518.appspot.com/tt4633694_LAT_HD.mp4
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/07/30/19/02/3253561.jpg" group-title="01-LATINO",Megalodon (2018)
+http://storage.googleapis.com/omega-pivot-269518.appspot.com/tt4779682_LAT_HD.mp4
+
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/16/10/26/08/45/139966.jpg" group-title="01-LATINO",Doctor Extraño (2016)
+http://storage.googleapis.com/omega-pivot-269518.appspot.com/cv1211837lt.mp4
+
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/210/045/21004579_20130510092550029.jpg" group-title="01-LATINO",El castigador (1989)
 http://ia601503.us.archive.org/8/items/el-castigador-1989-j.-c.-l./El%20Castigador%201989%20%E2%98%86%E3%80%8AJ.C.L.%E3%80%8B%E2%98%86.mp4
 
