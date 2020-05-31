@@ -1705,7 +1705,7 @@ http://ic7.101.ru:8000/a16
 #######################################################################################################################################################################################
 
 #EXTINF:-1 tvg-logo="https://stagingcms.cignal.tv/Upload/Images/AMC.png" group-title="28- PREMIUM LATINO",Amc (2)
-http://edge5-sl.cvattv.com.ar/live/c3eds/AMC/verimatrix_rotating_FTA/AMC-video=1972000-text_DVSU_35=10000-audio_20001=144800.m3u8
+http://iptvactivador.online:25461/zutviptv1/zutviptv1/62
 #EXTINF:-1 tvg-logo="https://stagingcms.cignal.tv/Upload/Images/AMC.png" group-title="28- PREMIUM LATINO",Amc (3)
 http://flowfhd.xyz:25461/6082/6082/8360
 #EXTINF:-1 tvg-logo="https://stagingcms.cignal.tv/Upload/Images/AMC.png" group-title="28- PREMIUM LATINO",Amc (6)
@@ -1714,7 +1714,7 @@ http://flowfhd.xyz:25461/0006/0006/8360
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="28- PREMIUM LATINO",Axn (1)
 http://pcjatv.com:8080/demo/demo/28736
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="28- PREMIUM LATINO",Axn (2)
-http://edge4-hr.cvattv.com.ar/live/live/AXNHD/verimatrix_rotating_FTA/AXNHD-video=1972000-audio_AACL_eng_144800_51=144800.m3u8
+http://iptvactivador.online:25461/zutviptv1/zutviptv1/61
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="28- PREMIUM LATINO",Axn (3)
 http://flowfhd.xyz:25461/6082/6082/8363
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="28- PREMIUM LATINO",Axn (4)
@@ -1727,7 +1727,7 @@ http://flowfhd.xyz:25461/0006/0006/8363
 #EXTINF:-1 tvg-logo="http://comcab.mx/images/canales/comcab-cinecanal.png" group-title="28- PREMIUM LATINO",Cinecanal (1)
 http://pcjatv.com:8080/demo/demo/28761
 #EXTINF:-1 tvg-logo="http://comcab.mx/images/canales/comcab-cinecanal.png" group-title="28- PREMIUM LATINO",Cinecanal (2)
-http://edge-live11-hr.cvattv.com.ar/live/c3eds/CinecanalHD/verimatrix_rotating_FTA/CinecanalHD.m3u8
+http://iptvactivador.online:25461/zutviptv1/zutviptv1/76
 #EXTINF:-1 tvg-logo="http://comcab.mx/images/canales/comcab-cinecanal.png" group-title="28- PREMIUM LATINO",Cinecanal (3)
 http://flowfhd.xyz:25461/6082/6082/8376
 #EXTINF:-1 tvg-logo="http://comcab.mx/images/canales/comcab-cinecanal.png" group-title="28- PREMIUM LATINO",Cinecanal (4)
@@ -1739,6 +1739,8 @@ http://flowfhd.xyz:25461/0006/0006/8376
 
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/12/52a34-cl.png" group-title="28- PREMIUM LATINO",Cine Latino (1)
 http://pcjatv.com:8080/demo/demo/28763
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/12/52a34-cl.png" group-title="28- PREMIUM LATINO",Cine Latino (2)
+http://iptvactivador.online:25461/zutviptv1/zutviptv1/8101
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/12/52a34-cl.png" group-title="28- PREMIUM LATINO",Cine Latino (3)
 http://flowfhd.xyz:25461/6082/6082/8377
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/12/52a34-cl.png" group-title="28- PREMIUM LATINO",Cine Latino (4)
@@ -1761,8 +1763,6 @@ http://flowfhd.xyz:25461/0006/0006/66050
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="28- PREMIUM LATINO",Cinemax (1)
 http://pcjatv.com:8080/demo/demo/28765
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="28- PREMIUM LATINO",Cinemax (2)
-http://edge10-hr.cvattv.com.ar/live/c2live/Cinemax/verimatrix_rotating_FTA/Cinemax.m3u8
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="28- PREMIUM LATINO",Cinemax (3)
 http://flowfhd.xyz:25461/6082/6082/8378
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="28- PREMIUM LATINO",Cinemax (4)
@@ -1777,6 +1777,8 @@ http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
 
 #EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="28- PREMIUM LATINO",Comedy Central (1)
 http://pcjatv.com:8080/demo/demo/28771
+#EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="28- PREMIUM LATINO",Comedy Central (2)
+http://iptvactivador.online:25461/zutviptv1/zutviptv1/546
 #EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="28- PREMIUM LATINO",Comedy Central (3)
 http://flowfhd.xyz:25461/6082/6082/8380
 #EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="28- PREMIUM LATINO",Comedy Central (4)
@@ -1786,6 +1788,8 @@ http://pcjatv.com:8080/Kerry/Kerry/28771
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula_hd-mediano.png" group-title="28- PREMIUM LATINO",De Película (1)
 http://pcjatv.com:8080/demo/demo/28782
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula_hd-mediano.png" group-title="28- PREMIUM LATINO",De Película (2)
+http://iptvactivador.online:25461/zutviptv1/zutviptv1/77
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula_hd-mediano.png" group-title="28- PREMIUM LATINO",De Película (3)
 http://flowfhd.xyz:25461/6082/6082/66056
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula_hd-mediano.png" group-title="28- PREMIUM LATINO",De Película (4)
@@ -1797,6 +1801,8 @@ http://flowfhd.xyz:25461/0006/0006/66056
 
 #EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/05/televisa-afiliados-canales-de-pelicula-plus.jpg" group-title="28- PREMIUM LATINO",De Película Plus (1)
 http://pcjatv.com:8080/demo/demo/28783
+#EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/05/televisa-afiliados-canales-de-pelicula-plus.jpg" group-title="28- PREMIUM LATINO",De Película Plus (2)
+http://iptvactivador.online:25461/zutviptv1/zutviptv1/97
 #EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/05/televisa-afiliados-canales-de-pelicula-plus.jpg" group-title="28- PREMIUM LATINO",De Película Plus (3)
 http://flowfhd.xyz:25461/6082/6082/8381
 #EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/05/televisa-afiliados-canales-de-pelicula-plus.jpg" group-title="28- PREMIUM LATINO",De Película Plus (4)
@@ -1811,6 +1817,8 @@ http://flowfhd.xyz:25461/6082/6082/66057
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="28- PREMIUM LATINO",Dhe (6)
 http://flowfhd.xyz:25461/0006/0006/8381
 
+#EXTINF:-1 tvg-logo="http://www.multicanalcatamayo.com/cablevisiondondiego/images/74.png" group-title="28- PREMIUM LATINO",Distrito Comedia (2)
+http://iptvactivador.online:25461/zutviptv1/zutviptv1/1522
 #EXTINF:-1 tvg-logo="http://www.multicanalcatamayo.com/cablevisiondondiego/images/74.png" group-title="28- PREMIUM LATINO",Distrito Comedia (3)
 http://flowfhd.xyz:25461/6082/6082/8397
 #EXTINF:-1 tvg-logo="http://www.multicanalcatamayo.com/cablevisiondondiego/images/74.png" group-title="28- PREMIUM LATINO",Distrito Comedia (6)
@@ -1819,6 +1827,8 @@ http://flowfhd.xyz:25461/0006/0006/8397
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_europa-europa_m.png" group-title="28- PREMIUM LATINO",Europa Europa_OFF_
 http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="28- PREMIUM LATINO",Fox (2)
+http://iptvactivador.online:25461/zutviptv1/zutviptv1/64
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="28- PREMIUM LATINO",Fox (3)
 http://flowfhd.xyz:25461/6082/6082/8404
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="28- PREMIUM LATINO",Fox (6)
@@ -1827,7 +1837,7 @@ http://flowfhd.xyz:25461/0006/0006/8404
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_ACTION.png" group-title="28- PREMIUM LATINO",Fox Action (1)
 http://pcjatv.com:8080/demo/demo/28814
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_ACTION.png" group-title="28- PREMIUM LATINO",Fox Action (2)
-http://cdn.cvattv.com.ar/live/c3eds/FoxActionHD/verimatrix_rotating/FoxActionHD.m3u8
+http://iptvactivador.online:25461/zutviptv1/zutviptv1/87
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_ACTION.png" group-title="28- PREMIUM LATINO",Fox Action (3)
 http://flowfhd.xyz:25461/6082/6082/8405
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_ACTION.png" group-title="28- PREMIUM LATINO",Fox Action (4)
@@ -1839,6 +1849,8 @@ http://flowfhd.xyz:25461/0006/0006/8405
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_CLASSIC.png" group-title="28- PREMIUM LATINO",Fox Classics (1)
 http://pcjatv.com:8080/demo/demo/28816
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_CLASSIC.png" group-title="28- PREMIUM LATINO",Fox Classics (2)
+http://iptvactivador.online:25461/zutviptv1/zutviptv1/85
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_CLASSIC.png" group-title="28- PREMIUM LATINO",Fox Classics (3)
 http://flowfhd.xyz:25461/6082/6082/8407
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_CLASSIC.png" group-title="28- PREMIUM LATINO",Fox Classics (4)
@@ -1849,7 +1861,7 @@ http://flowfhd.xyz:25461/0006/0006/8407
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_CINEMA.png" group-title="28- PREMIUM LATINO",Fox Cinema (1)
 http://pcjatv.com:8080/demo/demo/28815
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_CINEMA.png" group-title="28- PREMIUM LATINO",Fox Cinema (2)
-http://edge2-hr.cvattv.com.ar/live/live/FoxCinema/verimatrix_rotating_FTA/FoxCinema.m3u8
+http://iptvactivador.online:25461/zutviptv1/zutviptv1/86
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_CINEMA.png" group-title="28- PREMIUM LATINO",Fox Cinema (3)
 http://flowfhd.xyz:25461/6082/6082/8406
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_CINEMA.png" group-title="28- PREMIUM LATINO",Fox Cinema (4)
@@ -1861,6 +1873,8 @@ http://flowfhd.xyz:25461/0006/0006/8406
 
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_COMEDY.png" group-title="28- PREMIUM LATINO",Fox Comedy (1)
 http://pcjatv.com:8080/demo/demo/28817
+#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_COMEDY.png" group-title="28- PREMIUM LATINO",Fox Comedy (2)
+http://iptvactivador.online:25461/zutviptv1/zutviptv1/84
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_COMEDY.png" group-title="28- PREMIUM LATINO",Fox Comedy (3)
 http://flowfhd.xyz:25461/6082/6082/8486
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_COMEDY.png" group-title="28- PREMIUM LATINO",Fox Comedy (4)
@@ -1872,8 +1886,6 @@ http://flowfhd.xyz:25461/0006/0006/8486
 
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_FAMILYHD.png" group-title="28- PREMIUM LATINO",Fox Family (1)
 http://pcjatv.com:8080/demo/demo/28819
-#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_FAMILYHD.png" group-title="28- PREMIUM LATINO",Fox Family (2)
-http://edge4-sl.cvattv.com.ar/live/live/FoxFamily/verimatrix_rotating_FTA/FoxFamily.m3u8
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_FAMILYHD.png" group-title="28- PREMIUM LATINO",Fox Family (3)
 http://flowfhd.xyz:25461/6082/6082/8408
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_FAMILYHD.png" group-title="28- PREMIUM LATINO",Fox Family (4)
@@ -1885,6 +1897,8 @@ http://flowfhd.xyz:25461/0006/0006/8408
 
 #EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="28- PREMIUM LATINO",Fox Life (1)
 http://pcjatv.com:8080/demo/demo/28821
+#EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="28- PREMIUM LATINO",Fox Life (2)
+http://iptvactivador.online:25461/zutviptv1/zutviptv1/102
 #EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="28- PREMIUM LATINO",Fox Life (3)
 http://flowfhd.xyz:25461/6082/6082/8409
 #EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="28- PREMIUM LATINO",Fox Life (4)
@@ -1897,7 +1911,7 @@ http://flowfhd.xyz:25461/0006/0006/8409
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_MOVIES.png" group-title="28- PREMIUM LATINO",Fox Movies (1)
 http://pcjatv.com:8080/demo/demo/28822
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_MOVIES.png" group-title="28- PREMIUM LATINO",Fox Movies (2)
-http://cdn.cvattv.com.ar/live/c3eds/FoxMoviesHD/verimatrix_rotating/FoxMoviesHD.m3u8
+http://iptvactivador.online:25461/zutviptv1/zutviptv1/82
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_MOVIES.png" group-title="28- PREMIUM LATINO",Fox Movies (3)
 http://flowfhd.xyz:25461/6082/6082/8410
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_MOVIES.png" group-title="28- PREMIUM LATINO",Fox Movies (4)
@@ -1910,7 +1924,7 @@ http://flowfhd.xyz:25461/0006/0006/8410
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_SERIES.png" group-title="28- PREMIUM LATINO",Fox Series (1)
 http://pcjatv.com:8080/demo/demo/28824
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_SERIES.png" group-title="28- PREMIUM LATINO",Fox Series (2)
-http://edge9-hr.cvattv.com.ar/live/c3eds/FOX1HD/verimatrix_rotating_FTA/FOX1HD.m3u8
+http://iptvactivador.online:25461/zutviptv1/zutviptv1/81
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_SERIES.png" group-title="28- PREMIUM LATINO",Fox Series (3)
 http://flowfhd.xyz:25461/6082/6082/8411
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_SERIES.png" group-title="28- PREMIUM LATINO",Fox Series (4)
@@ -1923,7 +1937,7 @@ http://flowfhd.xyz:25461/0006/0006/8411
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="28- PREMIUM LATINO",Fx (1)
 http://pcjatv.com:8080/demo/demo/28829
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="28- PREMIUM LATINO",Fx (2)
-http://edge9-hr.cvattv.com.ar/live/c3eds/FXHD/verimatrix_rotating_FTA/FXHD-video=1972000-audio_20001=144800.m3u8
+http://iptvactivador.online:25461/zutviptv1/zutviptv1/66
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="28- PREMIUM LATINO",Fx (3)
 http://flowfhd.xyz:25461/6082/6082/8412
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="28- PREMIUM LATINO",Fx (4)
@@ -1934,7 +1948,7 @@ http://pcjatv.com:8080/Kerry/Kerry/28829
 http://flowfhd.xyz:25461/0006/0006/8412
 
 #EXTINF:-1 tvg-logo="http://cdd657a867bca3d5084e-b68367b7dbe633942cc09bdd6fb9eaea.r58.cf2.rackcdn.com/fxmoviechannel.png" group-title="28- PREMIUM LATINO",Fxm (2)
-http://edge5-hr.cvattv.com.ar/live/c3eds/TheFilmZoneHD/verimatrix_rotating_FTA/TheFilmZoneHD.m3u8
+http://iptvactivador.online:25461/zutviptv1/zutviptv1/80
 #EXTINF:-1 tvg-logo="http://cdd657a867bca3d5084e-b68367b7dbe633942cc09bdd6fb9eaea.r58.cf2.rackcdn.com/fxmoviechannel.png" group-title="28- PREMIUM LATINO",Fxm (3)
 http://flowfhd.xyz:25461/6082/6082/8413
 #EXTINF:-1 tvg-logo="http://cdd657a867bca3d5084e-b68367b7dbe633942cc09bdd6fb9eaea.r58.cf2.rackcdn.com/fxmoviechannel.png" group-title="28- PREMIUM LATINO",Fxm (6)
@@ -1969,6 +1983,8 @@ http://flowfhd.xyz:25461/0006/0006/8417
 http://pcjatv.com:8080/demo/demo/28834
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2017/07/golden_03.png" group-title="28- PREMIUM LATINO",Golden Premier (1)
 http://pcjatv.com:8080/demo/demo/28837
+#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2017/07/golden_03.png" group-title="28- PREMIUM LATINO",Golden Premier (2)
+http://iptvactivador.online:25461/zutviptv1/zutviptv1/78
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2017/07/golden_03.png" group-title="28- PREMIUM LATINO",Golden Premier (4)
 http://pcjatv.com:8080/tyrone/tyrone/28834
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2017/07/golden_03.png" group-title="28- PREMIUM LATINO",Golden Premier (5)
@@ -1977,7 +1993,7 @@ http://pcjatv.com:8080/Kerry/Kerry/28834
 http://pcjatv.com:8080/Kerry/Kerry/28837
 
 #EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_es/tag/h/hbo/hbo_8m2v.1200.jpg" group-title="28- PREMIUM LATINO",Hbo (2)
-http://edge-live14-hr.cvattv.com.ar/live/c3eds/HBOHD/verimatrix_rotating_FTA/HBOHD-video=1972000-audio_20001=144800.m3u8
+http://iptvactivador.online:25461/zutviptv1/zutviptv1/8117
 #EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_es/tag/h/hbo/hbo_8m2v.1200.jpg" group-title="28- PREMIUM LATINO",Hbo (3)
 http://flowfhd.xyz:25461/6082/6082/8418
 #EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_es/tag/h/hbo/hbo_8m2v.1200.jpg" group-title="28- PREMIUM LATINO",Hbo (6)
@@ -1985,8 +2001,6 @@ http://flowfhd.xyz:25461/0006/0006/8418
 
 #EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="28- PREMIUM LATINO",Hbo 2 (1)
 http://pcjatv.com:8080/demo/demo/28850
-#EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="28- PREMIUM LATINO",Hbo 2 (2)
-http://cdn.cvattv.com.ar/live/c2live/HBO_2/verimatrix_rotating_FTA/HBO_2.m3u8
 #EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="28- PREMIUM LATINO",Hbo 2 (3)
 http://flowfhd.xyz:25461/6082/6082/8419
 #EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="28- PREMIUM LATINO",Hbo 2 (4)
@@ -1997,14 +2011,12 @@ http://pcjatv.com:8080/Kerry/Kerry/28850
 http://flowfhd.xyz:25461/0006/0006/8419
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="28- PREMIUM LATINO",Hbo Family (2)
-http://edge3-sl.cvattv.com.ar/live/c2live/HBO_Family/verimatrix_rotating_FTA/HBO_Family-video=3000000-audio_AACL_spa_144800_51=144800.m3u8
+http://iptvactivador.online:25461/zutviptv1/zutviptv1/5721
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="28- PREMIUM LATINO",Hbo Family (3)
 http://flowfhd.xyz:25461/6082/6082/8420
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="28- PREMIUM LATINO",Hbo Family (6)
 http://flowfhd.xyz:25461/0006/0006/8420
 
-#EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/hbomundiGris_Enero20v2.png" group-title="28- PREMIUM LATINO",Hbo Mundi (2)
-http://edge5-sl.cvattv.com.ar/live/c2live/Max_HD/verimatrix_rotating_FTA/Max_HD.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/hbomundiGris_Enero20v2.png" group-title="28- PREMIUM LATINO",Hbo Mundi (3)
 http://flowfhd.xyz:25461/6082/6082/61520
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/hbomundiGris_Enero20v2.png" group-title="28- PREMIUM LATINO",Hbo Mundi (6)
@@ -2012,8 +2024,6 @@ http://flowfhd.xyz:25461/0006/0006/61520
 
 #EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="28- PREMIUM LATINO",Hbo Plus (1)
 http://pcjatv.com:8080/demo/demo/28851
-#EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="28- PREMIUM LATINO",Hbo Plus (2)
-http://cdn.cvattv.com.ar/live/c2live/HBO_Plus/verimatrix_rotating/HBO_Plus.m3u8
 #EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="28- PREMIUM LATINO",Hbo Plus (3)
 http://flowfhd.xyz:25461/6082/6082/8421
 #EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="28- PREMIUM LATINO",Hbo Plus (4)
@@ -2028,8 +2038,6 @@ http://flowfhd.xyz:25461/6082/6082/8429
 #EXTINF:-1 tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012533/0000_all_l_hboall-HBO-POP-Black.png" group-title="28- PREMIUM LATINO",Hbo Pop (6)
 http://flowfhd.xyz:25461/0006/0006/8429
 
-#EXTINF:-1 tvg-logo="https://operadores.hbo-la.tv/img/layout/logos/hbosignature.png" group-title="28- PREMIUM LATINO",Hbo Signature (2)
-http://edge3-sl.cvattv.com.ar/live/c2live/HBO_Signature/verimatrix_rotating_FTA/HBO_Signature-video=899968-text_DVSU_500=10000-audio_20005=145200.m3u8
 #EXTINF:-1 tvg-logo="https://operadores.hbo-la.tv/img/layout/logos/hbosignature.png" group-title="28- PREMIUM LATINO",Hbo Signature (3)
 http://flowfhd.xyz:25461/6082/6082/8485
 #EXTINF:-1 tvg-logo="https://operadores.hbo-la.tv/img/layout/logos/hbosignature.png" group-title="28- PREMIUM LATINO",Hbo Signature (6)
@@ -2038,7 +2046,7 @@ http://flowfhd.xyz:25461/0006/0006/8485
 #EXTINF:-1 tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012553/0000_all_l_hboall-HBO-XTREME-Black.png" group-title="28- PREMIUM LATINO",Hbo Xtreme (1)
 http://pcjatv.com:8080/demo/demo/28861
 #EXTINF:-1 tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012553/0000_all_l_hboall-HBO-XTREME-Black.png" group-title="28- PREMIUM LATINO",Hbo Xtreme (2)
-http://edge-live12-sl.cvattv.com.ar/live/c2live/Max_Prime_HD/SA_MOBILE_FTA/Max_Prime_HD-video=1726000-audio_AACL_spa_144800_50=144800.m3u8
+http://iptvactivador.online:25461/zutviptv1/zutviptv1/4942
 #EXTINF:-1 tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012553/0000_all_l_hboall-HBO-XTREME-Black.png" group-title="28- PREMIUM LATINO",Hbo Xtreme (3)
 http://flowfhd.xyz:25461/6082/6082/8428
 #EXTINF:-1 tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012553/0000_all_l_hboall-HBO-XTREME-Black.png" group-title="28- PREMIUM LATINO",Hbo Xtreme (4)
@@ -2048,18 +2056,20 @@ http://pcjatv.com:8080/Kerry/Kerry/28861
 #EXTINF:-1 tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012553/0000_all_l_hboall-HBO-XTREME-Black.png" group-title="28- PREMIUM LATINO",Hbo Xtreme (6)
 http://flowfhd.xyz:25461/0006/0006/8428
 
+#EXTINF:-1 tvg-logo="http://ps.vimeo.com.s3.amazonaws.com/962/96284_300.jpg" group-title="28- PREMIUM LATINO",I Sat (2)
+http://iptvactivador.online:25461/zutviptv1/zutviptv1/1523
 #EXTINF:-1 tvg-logo="http://ps.vimeo.com.s3.amazonaws.com/962/96284_300.jpg" group-title="28- PREMIUM LATINO",I Sat (3)
 http://flowfhd.xyz:25461/6082/6082/66104
 #EXTINF:-1 tvg-logo="http://ps.vimeo.com.s3.amazonaws.com/962/96284_300.jpg" group-title="28- PREMIUM LATINO",I Sat (6)
 http://flowfhd.xyz:25461/0006/0006/66104
 
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/multipremier-logo-01.png" group-title="28- PREMIUM LATINO",Multipremier_OFF_
-http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/multipremier-logo-01.png" group-title="28- PREMIUM LATINO",Multipremier (2)
+http://iptvactivador.online:25461/zutviptv1/zutviptv1/8100
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1153200946740174848/X4RlVPAc_400x400.png" group-title="28- PREMIUM LATINO",Paramount (1)
 http://pcjatv.com:8080/demo/demo/28901
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1153200946740174848/X4RlVPAc_400x400.png" group-title="28- PREMIUM LATINO",Paramount (2)
-http://edge4-hr.cvattv.com.ar/live/live/Paramount/verimatrix_rotating_FTA/Paramount.m3u8
+http://iptvactivador.online:25461/zutviptv1/zutviptv1/67
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1153200946740174848/X4RlVPAc_400x400.png" group-title="28- PREMIUM LATINO",Paramount (4)
 http://pcjatv.com:8080/tyrone/tyrone/28901
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1153200946740174848/X4RlVPAc_400x400.png" group-title="28- PREMIUM LATINO",Paramount (5)
@@ -2073,7 +2083,7 @@ http://flowfhd.xyz:25461/0006/0006/8442
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="28- PREMIUM LATINO",Sony (1)
 http://pcjatv.com:8080/demo/demo/28910
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="28- PREMIUM LATINO",Sony (2)
-http://edge1-hr.cvattv.com.ar/live/live/SonyHD/verimatrix_rotating_FTA/SonyHD.m3u8
+http://iptvactivador.online:25461/zutviptv1/zutviptv1/100
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="28- PREMIUM LATINO",Sony (3)
 http://flowfhd.xyz:25461/6082/6082/8443
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="28- PREMIUM LATINO",Sony (4)
@@ -2086,7 +2096,7 @@ http://flowfhd.xyz:25461/0006/0006/8443
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="28- PREMIUM LATINO",Space (1)
 http://pcjatv.com:8080/demo/demo/28911
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="28- PREMIUM LATINO",Space (2)
-http://edge-live11-hr.cvattv.com.ar/live/c3eds/Space/verimatrix_rotating_FTA/Space.m3u8
+http://iptvactivador.online:25461/zutviptv1/zutviptv1/95
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="28- PREMIUM LATINO",Space (3)
 http://flowfhd.xyz:25461/6082/6082/8444
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="28- PREMIUM LATINO",Space (4)
@@ -2140,7 +2150,7 @@ http://pcjatv.com:8080/tyrone/tyrone/28923
 http://pcjatv.com:8080/Kerry/Kerry/28923
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="28- PREMIUM LATINO",Studio Universal (2)
-http://edge-live12-sl.cvattv.com.ar/live/c2live/Studio_Universal/verimatrix_rotating_FTA/Studio_Universal-video=1480000-text_DVSU_35=10000-audio_AACL_spa_144800_51=144800.m3u8
+http://iptvactivador.online:25461/zutviptv1/zutviptv1/58
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="28- PREMIUM LATINO",Studio Universal (3)
 http://flowfhd.xyz:25461/6082/6082/8447
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="28- PREMIUM LATINO",Studio Universal (6)
@@ -2148,6 +2158,8 @@ http://flowfhd.xyz:25461/0006/0006/8447
 
 #EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="28- PREMIUM LATINO",Syfy (1)
 http://pcjatv.com:8080/demo/demo/28929
+#EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="28- PREMIUM LATINO",Syfy (2)
+http://iptvactivador.online:25461/zutviptv1/zutviptv1/68
 #EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="28- PREMIUM LATINO",Syfy (3)
 http://flowfhd.xyz:25461/6082/6082/8449
 #EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="28- PREMIUM LATINO",Syfy (4)
@@ -2159,6 +2171,8 @@ http://flowfhd.xyz:25461/0006/0006/8449
 
 #EXTINF:-1 tvg-logo="http://www.graphis.com/media/uploads/cfe/entry/0c396b4d-8379-4797-ab9b-0c9cc41b19d4/tbs_logo.png" group-title="28- PREMIUM LATINO",Tbs (1)
 http://pcjatv.com:8080/demo/demo/28930
+#EXTINF:-1 tvg-logo="http://www.graphis.com/media/uploads/cfe/entry/0c396b4d-8379-4797-ab9b-0c9cc41b19d4/tbs_logo.png" group-title="28- PREMIUM LATINO",Tbs (2)
+http://iptvactivador.online:25461/zutviptv1/zutviptv1/1529
 #EXTINF:-1 tvg-logo="http://www.graphis.com/media/uploads/cfe/entry/0c396b4d-8379-4797-ab9b-0c9cc41b19d4/tbs_logo.png" group-title="28- PREMIUM LATINO",Tbs (3)
 http://flowfhd.xyz:25461/6082/6082/8450
 #EXTINF:-1 tvg-logo="http://www.graphis.com/media/uploads/cfe/entry/0c396b4d-8379-4797-ab9b-0c9cc41b19d4/tbs_logo.png" group-title="28- PREMIUM LATINO",Tbs (4)
@@ -2180,7 +2194,7 @@ http://pcjatv.com:8080/Kerry/Kerry/28931
 http://flowfhd.xyz:25461/0006/0006/8451
 
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="28- PREMIUM LATINO",Tnt (2)
-http://cdn.cvattv.com.ar/live/live/TNT/verimatrix_rotating/TNT.m3u8
+http://iptvactivador.online:25461/zutviptv1/zutviptv1/59
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="28- PREMIUM LATINO",Tnt (3)
 http://flowfhd.xyz:25461/6082/6082/8456
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="28- PREMIUM LATINO",Tnt (6)
@@ -2191,7 +2205,7 @@ http://pcjatv.com:8080/demo/demo/28946
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="28- PREMIUM LATINO",Tnt Series (1)
 http://pcjatv.com:8080/demo/demo/28947
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="28- PREMIUM LATINO",Tnt Series (2)
-http://cdn.cvattv.com.ar/live/c3eds/TNTSeries/verimatrix_rotating/TNTSeries.m3u8
+http://iptvactivador.online:25461/zutviptv1/zutviptv1/5723
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="28- PREMIUM LATINO",Tnt Series (3)
 http://flowfhd.xyz:25461/6082/6082/8457
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="28- PREMIUM LATINO",Tnt Series (4)
@@ -2205,8 +2219,6 @@ http://flowfhd.xyz:25461/0006/0006/8457
 
 #EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="28- PREMIUM LATINO",Universal Channel (1)
 http://pcjatv.com:8080/demo/demo/28878
-#EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="28- PREMIUM LATINO",Universal Channel (2)
-http://edge-live13-sl.cvattv.com.ar/live/c2live/Universal_Channel_HD/verimatrix_rotating_FTA/Universal_Channel_HD-video=1480000-audio_AACL_eng_144800_52=144800.m3u8
 #EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="28- PREMIUM LATINO",Universal Channel (3)
 http://flowfhd.xyz:25461/6082/6082/8475
 #EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="28- PREMIUM LATINO",Universal Channel (4)
@@ -2219,7 +2231,7 @@ http://flowfhd.xyz:25461/0006/0006/8475
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="28- PREMIUM LATINO",Warner Channel (1)
 http://pcjatv.com:8080/demo/demo/28979
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="28- PREMIUM LATINO",Warner Channel (2)
-http://edge4-sl.cvattv.com.ar/live/live/WarnerHD/verimatrix_rotating_FTA/WarnerHD-video=1480000-audio_AACL_eng_144800_52=144800.m3u8
+http://iptvactivador.online:25461/zutviptv1/zutviptv1/72
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="28- PREMIUM LATINO",Warner Channel (3)
 http://flowfhd.xyz:25461/6082/6082/8478
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="28- PREMIUM LATINO",Warner Channel (4)
