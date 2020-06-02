@@ -3026,19 +3026,30 @@ http://54.39.128.199/Series/AliasJJ/AliasJJS01E68.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_216_288/pictures/17/07/26/22/48/197515.jpg" group-title="Sobreviviendo A Escobar 01",Sobreviviendo A Escobar 1x69
 http://54.39.128.199/Series/AliasJJ/AliasJJS01E69.mp4
 
+######### The Pacific 01
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/x9Y1IMFdY8Ma222KcQadFEau0EB.jpg" group-title="The Pacific 01",The Pacific 01
+https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#########
 
-Series",The Pacific S01 E01
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/x9Y1IMFdY8Ma222KcQadFEau0EB.jpg" group-title="The Pacific 01",The Pacific 1x01
 http://54.39.128.199/Series/ThePacific/ThePacificS01E01.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/x9Y1IMFdY8Ma222KcQadFEau0EB.jpg" group-title="The Pacific 01",The Pacific 1x02
 http://54.39.128.199/Series/ThePacific/ThePacificS01E02.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/x9Y1IMFdY8Ma222KcQadFEau0EB.jpg" group-title="The Pacific 01",The Pacific 1x03
 http://54.39.128.199/Series/ThePacific/ThePacificS01E03.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/x9Y1IMFdY8Ma222KcQadFEau0EB.jpg" group-title="The Pacific 01",The Pacific 1x04
 http://54.39.128.199/Series/ThePacific/ThePacificS01E04.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/x9Y1IMFdY8Ma222KcQadFEau0EB.jpg" group-title="The Pacific 01",The Pacific 1x05
 http://54.39.128.199/Series/ThePacific/ThePacificS01E05.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/x9Y1IMFdY8Ma222KcQadFEau0EB.jpg" group-title="The Pacific 01",The Pacific 1x06
 http://54.39.128.199/Series/ThePacific/ThePacificS01E06.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/x9Y1IMFdY8Ma222KcQadFEau0EB.jpg" group-title="The Pacific 01",The Pacific 1x07
 http://54.39.128.199/Series/ThePacific/ThePacificS01E07.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/x9Y1IMFdY8Ma222KcQadFEau0EB.jpg" group-title="The Pacific 01",The Pacific 1x08
 http://54.39.128.199/Series/ThePacific/ThePacificS01E08.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/x9Y1IMFdY8Ma222KcQadFEau0EB.jpg" group-title="The Pacific 01",The Pacific 1x09
 http://54.39.128.199/Series/ThePacific/ThePacificS01E09.mp4
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/x9Y1IMFdY8Ma222KcQadFEau0EB.jpg" group-title="The Pacific 01",The Pacific 1x10
 http://54.39.128.199/Series/ThePacific/ThePacificS01E10.mp4
 
 
