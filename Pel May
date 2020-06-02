@@ -2573,7 +2573,7 @@ http://54.39.128.199/Series/ElChapo/ElChapoS03E12.mp4
 http://54.39.128.199/Series/ElChapo/ElChapoS03E13.mp4
 
 ######### Girlboss 01
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/6a/54/fe/6a54fe9bb0914b51b5d067e942bcc5df.jpg" group-title="Girlboss 01",Girlboss 01
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/04/04/12/42/304064.jpg" group-title="Girlboss 01",Girlboss 01
 https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #########
 
@@ -3052,19 +3052,30 @@ http://54.39.128.199/Series/ThePacific/ThePacificS01E09.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/x9Y1IMFdY8Ma222KcQadFEau0EB.jpg" group-title="The Pacific 01",The Pacific 1x10
 http://54.39.128.199/Series/ThePacific/ThePacificS01E10.mp4
 
+######### Everything Sucks 01
+#EXTINF:-1 tvg-logo="https://marriedbiography.com/wp-content/uploads/2018/02/Everything-Sucks.jpg" group-title="Everything Sucks 01",Everything Sucks 01
+https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#########
 
-
-Series",Every Thing Sucks S01 E01
-
+#EXTINF:-1 tvg-logo="https://marriedbiography.com/wp-content/uploads/2018/02/Everything-Sucks.jpg" group-title="Everything Sucks 01",Everything Sucks 1x01
 http://54.39.128.199/Series/EverythingSucks/EverythingSucksS01E01.mp4
+#EXTINF:-1 tvg-logo="https://marriedbiography.com/wp-content/uploads/2018/02/Everything-Sucks.jpg" group-title="Everything Sucks 01",Everything Sucks 1x02
 http://54.39.128.199/Series/EverythingSucks/EverythingSucksS01E02.mp4
+#EXTINF:-1 tvg-logo="https://marriedbiography.com/wp-content/uploads/2018/02/Everything-Sucks.jpg" group-title="Everything Sucks 01",Everything Sucks 1x03
 http://54.39.128.199/Series/EverythingSucks/EverythingSucksS01E03.mp4
+#EXTINF:-1 tvg-logo="https://marriedbiography.com/wp-content/uploads/2018/02/Everything-Sucks.jpg" group-title="Everything Sucks 01",Everything Sucks 1x04
 http://54.39.128.199/Series/EverythingSucks/EverythingSucksS01E04.mp4
+#EXTINF:-1 tvg-logo="https://marriedbiography.com/wp-content/uploads/2018/02/Everything-Sucks.jpg" group-title="Everything Sucks 01",Everything Sucks 1x05
 http://54.39.128.199/Series/EverythingSucks/EverythingSucksS01E05.mp4
+#EXTINF:-1 tvg-logo="https://marriedbiography.com/wp-content/uploads/2018/02/Everything-Sucks.jpg" group-title="Everything Sucks 01",Everything Sucks 1x06
 http://54.39.128.199/Series/EverythingSucks/EverythingSucksS01E06.mp4
+#EXTINF:-1 tvg-logo="https://marriedbiography.com/wp-content/uploads/2018/02/Everything-Sucks.jpg" group-title="Everything Sucks 01",Everything Sucks 1x07
 http://54.39.128.199/Series/EverythingSucks/EverythingSucksS01E07.mp4
+#EXTINF:-1 tvg-logo="https://marriedbiography.com/wp-content/uploads/2018/02/Everything-Sucks.jpg" group-title="Everything Sucks 01",Everything Sucks 1x08
 http://54.39.128.199/Series/EverythingSucks/EverythingSucksS01E08.mp4
+#EXTINF:-1 tvg-logo="https://marriedbiography.com/wp-content/uploads/2018/02/Everything-Sucks.jpg" group-title="Everything Sucks 01",Everything Sucks 1x09
 http://54.39.128.199/Series/EverythingSucks/EverythingSucksS01E09.mp4
+#EXTINF:-1 tvg-logo="https://marriedbiography.com/wp-content/uploads/2018/02/Everything-Sucks.jpg" group-title="Everything Sucks 01",Everything Sucks 1x10
 http://54.39.128.199/Series/EverythingSucks/EverythingSucksS01E10.mp4
 
 
