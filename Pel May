@@ -4,17 +4,17 @@
 ######################################################################################################################################
 ######################################################################################################################################
 #EXTINF:-1 tvg-logo="https://scontent.fmvd2-1.fna.fbcdn.net/v/t1.0-9/cp0/e15/q65/s851x315/87775504_2820213388045057_6738077563073069056_o.jpg?_nc_cat=111&_nc_sid=0be424&efg=eyJpIjoidCJ9&_nc_oc=AQmjvBsI_80jUPGfZ0mUrq4Mw7-a9llxgd3oYRvJMEXYTzpmL7efgdis4Tm4UoGB01w&_nc_ht=scontent.fmvd2-1.fna&_nc_tp=9&oh=f969facc857fcd45732c80afb0ac9cc2&oe=5EF40AD4" group-title="01- LISTA GRATUITA",01- LISTA GRATUITA
-https://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
+http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
 ######################################################################################################################################
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41UPIHLXcwL.png" group-title="Usar con VLC",Usar con VLC
-https://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
+http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
 ####################################### LATINO
 #EXTINF:-1 tvg-logo="https://ibericalanguages.com/wp-content/uploads/2014/10/banderas-hispanidad.jpg" group-title="01-LATINO",01-LATINO
-https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
 
 
@@ -1716,7 +1716,7 @@ http://144.217.77.218/budtv/PELICULAS/2019/enero/th3.m1r4cl3.s34s0n.2018.latino.
 
 ####################################### BRASIL
 #EXTINF:-1 tvg-logo="https://www.banderas-mundo.es/data/flags/ultra/br.png" group-title="03-BRASIL",03-BRASIL
-https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
 
 #EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_33497_75.jpg" group-title="03-BRASIL",Aladdin (2019)
@@ -2182,7 +2182,7 @@ http://webtvcde.com/Filmes/Dublados/Megatubarao.mkv
 
 ######### 04-Good Doctor temp 1
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1400/1480/1_m3.jpg" group-title="04-Good Doctor temp 1",04-Good Doctor temp 1
-https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #########
 
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1400/1480/1_m3.jpg" group-title="04-Good Doctor temp 1",1x01
@@ -2224,7 +2224,7 @@ http://54.39.128.199/Series/Gooddoctor/005/GooddoctorS01E18.mp4
 
 ######### 04-Good Doctor temp 2
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1400/1480/1_m3.jpg" group-title="04-Good Doctor temp 2",04-Good Doctor temp 2
-https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #########
 
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1400/1480/1_m3.jpg" group-title="04-Good Doctor temp 2",2x01
@@ -2266,7 +2266,7 @@ http://54.39.128.199/Series/Gooddoctor/005/S02E18.mp4
 
 ######### 05-Escobar temp 1
 #EXTINF:-1 tvg-logo="https://a.wattpad.com/cover/74201085-288-k77165.jpg" group-title="05-Escobar temp 1",05-Escobar temp 1
-https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #########
 
 #EXTINF:-1 tvg-logo="https://a.wattpad.com/cover/74201085-288-k77165.jpg" group-title="05-Escobar temp 1",1x001
@@ -2492,7 +2492,7 @@ http://54.39.128.199/Series/Pabloescobar/PabloescobarE113.mp4
 
 ######### 06-El Chapo temp 1
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/6a/54/fe/6a54fe9bb0914b51b5d067e942bcc5df.jpg" group-title="06-El Chapo temp 1",06-El Chapo temp 1
-https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #########
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/6a/54/fe/6a54fe9bb0914b51b5d067e942bcc5df.jpg" group-title="06-El Chapo temp 1",1x01
@@ -2512,7 +2512,7 @@ http://54.39.128.199/Series/ElChapo/ElChapoS01E07.mp4
 
 ######### 06-El Chapo temp 2
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/6a/54/fe/6a54fe9bb0914b51b5d067e942bcc5df.jpg" group-title="06-El Chapo temp 2",06-El Chapo temp 2
-https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #########
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/6a/54/fe/6a54fe9bb0914b51b5d067e942bcc5df.jpg" group-title="06-El Chapo temp 2",2x01
@@ -2542,7 +2542,7 @@ http://54.39.128.199/Series/ElChapo/ElChapoS02E12.mp4
 
 ######### 06-El Chapo temp 3
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/6a/54/fe/6a54fe9bb0914b51b5d067e942bcc5df.jpg" group-title="06-El Chapo temp 3",06-El Chapo temp 3
-https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #########
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/6a/54/fe/6a54fe9bb0914b51b5d067e942bcc5df.jpg" group-title="06-El Chapo temp 3",3x01
@@ -2574,7 +2574,7 @@ http://54.39.128.199/Series/ElChapo/ElChapoS03E13.mp4
 
 ######### 07-Girlboss temp 1
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/04/04/12/42/304064.jpg" group-title="07-Girlboss temp 1",07-Girlboss temp 1
-https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #########
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/04/04/12/42/304064.jpg" group-title="07-Girlboss temp 1",1x01
@@ -2606,7 +2606,7 @@ http://54.39.128.199/Series/Girlboss/GirlbossS01E13.mp4
 
 ######### 08-Flash temp 1
 #EXTINF:-1 tvg-logo="https://www.abc.es/media/capitulos/000/088/985/piloto-1.jpg" group-title="08-Flash temp 1",08-Flash temp 1
-https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #########
 
 #EXTINF:-1 tvg-logo="https://www.abc.es/media/capitulos/000/088/985/piloto-1.jpg" group-title="08-Flash temp 1",1x01
@@ -2658,7 +2658,7 @@ http://54.39.128.199/Series/Flash/FlashS01E23.MKV
 
 ######### 08-Flash temp 2
 #EXTINF:-1 tvg-logo="https://www.abc.es/media/capitulos/000/088/985/piloto-1.jpg" group-title="08-Flash temp 2",08-Flash temp 2
-https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #########
 
 #EXTINF:-1 tvg-logo="https://www.abc.es/media/capitulos/000/088/985/piloto-1.jpg" group-title="08-Flash temp 2",2x01
@@ -2710,7 +2710,7 @@ http://54.39.128.199/Series/Flash/FlashS02E23.mkv
 
 ######### 08-Flash temp 3
 #EXTINF:-1 tvg-logo="https://www.abc.es/media/capitulos/000/088/985/piloto-1.jpg" group-title="08-Flash temp 3",08-Flash temp 3
-https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #########
 
 #EXTINF:-1 tvg-logo="https://www.abc.es/media/capitulos/000/088/985/piloto-1.jpg" group-title="08-Flash temp 3",3x01
@@ -2762,7 +2762,7 @@ http://54.39.128.199/Series/Flash/FlashS03E23.mkv
 
 ######### 08-Flash temp 4
 #EXTINF:-1 tvg-logo="https://www.abc.es/media/capitulos/000/088/985/piloto-1.jpg" group-title="08-Flash temp 4",08-Flash temp 4
-https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #########
 
 #EXTINF:-1 tvg-logo="https://www.abc.es/media/capitulos/000/088/985/piloto-1.jpg" group-title="08-Flash temp 4",4x01
@@ -2814,7 +2814,7 @@ http://54.39.128.199/Series/Flash/FlashS04E23.mkv
 
 ######### 08-Flash temp 5
 #EXTINF:-1 tvg-logo="https://www.abc.es/media/capitulos/000/088/985/piloto-1.jpg" group-title="08-Flash temp 5",08-Flash temp 5
-https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #########
 
 #EXTINF:-1 tvg-logo="https://www.abc.es/media/capitulos/000/088/985/piloto-1.jpg" group-title="08-Flash temp 5",5x01
@@ -2864,7 +2864,7 @@ http://54.39.128.199/Series/Flash/S05E22.mp4
 
 ######### 08-Flash temp 6
 #EXTINF:-1 tvg-logo="https://www.abc.es/media/capitulos/000/088/985/piloto-1.jpg" group-title="08-Flash temp 6",08-Flash temp 6
-https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #########
 
 #EXTINF:-1 tvg-logo="https://www.abc.es/media/capitulos/000/088/985/piloto-1.jpg" group-title="08-Flash temp 6",6x01
@@ -2884,7 +2884,7 @@ http://158.69.224.82/series1/crisis/The.flash.s06e09.crisis.on.infinite.earths.p
 
 ######### Sobreviviendo A Escobar 01
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_216_288/pictures/17/07/26/22/48/197515.jpg" group-title="Sobreviviendo A Escobar 01",Sobreviviendo A Escobar 01
-https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #########
 
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_216_288/pictures/17/07/26/22/48/197515.jpg" group-title="Sobreviviendo A Escobar 01",Sobreviviendo A Escobar 1x01
@@ -3028,7 +3028,7 @@ http://54.39.128.199/Series/AliasJJ/AliasJJS01E69.mp4
 
 ######### The Pacific 01
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/x9Y1IMFdY8Ma222KcQadFEau0EB.jpg" group-title="The Pacific 01",The Pacific 01
-https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #########
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/x9Y1IMFdY8Ma222KcQadFEau0EB.jpg" group-title="The Pacific 01",The Pacific 1x01
@@ -3054,7 +3054,7 @@ http://54.39.128.199/Series/ThePacific/ThePacificS01E10.mp4
 
 ######### Everything Sucks 01
 #EXTINF:-1 tvg-logo="https://marriedbiography.com/wp-content/uploads/2018/02/Everything-Sucks.jpg" group-title="Everything Sucks 01",Everything Sucks 01
-https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #########
 
 #EXTINF:-1 tvg-logo="https://marriedbiography.com/wp-content/uploads/2018/02/Everything-Sucks.jpg" group-title="Everything Sucks 01",Everything Sucks 1x01
@@ -3080,7 +3080,7 @@ http://54.39.128.199/Series/EverythingSucks/EverythingSucksS01E10.mp4
 
 ######### Guilt 01
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/05/23/10/04/510631.jpg" group-title="Guilt 01",Guilt 01
-https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #########
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/05/23/10/04/510631.jpg" group-title="Guilt 01",Guilt 1x01
@@ -3106,7 +3106,7 @@ http://54.39.128.199/Series/Guilt/GuiltS01E10.mp4
 
 ######### Ash Vs Evil Dead 01
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/08/07/00/17/4205927.jpg" group-title="Ash Vs Evil Dead 01",Ash Vs Evil Dead 01
-https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #########
 
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/08/07/00/17/4205927.jpg" group-title="Ash Vs Evil Dead 01",Ash Vs Evil Dead 1x01
@@ -3132,7 +3132,7 @@ http://54.39.128.199/Series/AshvsEvilDead/AshvsEvilDeadS01E10.mp4
 
 ######### Ash Vs Evil Dead 02
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/08/07/00/17/4205927.jpg" group-title="Ash Vs Evil Dead 02",Ash Vs Evil Dead 02
-https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #########
 
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/08/07/00/17/4205927.jpg" group-title="Ash Vs Evil Dead 02",Ash Vs Evil Dead 2x01
@@ -3158,7 +3158,7 @@ http://54.39.128.199/Series/AshvsEvilDead/AshvsEvilDeadS02E10.mp4
 
 ######### Shadowhunters 01
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1100/1153/1_m1.jpg" group-title="Shadowhunters 01",Shadowhunters 01
-https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #########
 
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1100/1153/1_m1.jpg" group-title="Shadowhunters 01",1x01
@@ -3190,7 +3190,7 @@ http://54.39.128.199/Series/Shadowhunter/ShadowhunterS01E13.mp4
 
 ######### Shadowhunters 02
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1100/1153/1_m1.jpg" group-title="Shadowhunters 02",Shadowhunters 02
-https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #########
 
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1100/1153/1_m1.jpg" group-title="Shadowhunters 02",2x01
@@ -3236,7 +3236,7 @@ http://54.39.128.199/Series/Shadowhunter/ShadowhunterS02E20.mp4
 
 ######### Shadowhunters 03
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1100/1153/1_m1.jpg" group-title="Shadowhunters 03",Shadowhunters 03
-https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #########
 
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1100/1153/1_m1.jpg" group-title="Shadowhunters 03",3x01
