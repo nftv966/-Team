@@ -235,7 +235,7 @@ http://srv.tvprodigital.net:80/039456/039456/33274
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (4)
 http://srv.tvprodigital.net:80/296386/296386/33274
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (5)
-http://a.srvbr.me:8880/139179/139179/887
+http://brazilgroup.xyz:8880/odair/odair321/2083
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-brasil_m.png" group-title="04- BRASIL",Canal Brasil (1)
 http://srv.tvprodigital.net:80/@jhones/aoc9897/20838
@@ -244,7 +244,7 @@ http://srv.tvprodigital.net:80/039456/039456/20838
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-brasil_m.png" group-title="04- BRASIL",Canal Brasil (4)
 http://srv.tvprodigital.net:80/296386/296386/20838
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-brasil_m.png" group-title="04- BRASIL",Canal Brasil (5)
-http://a.srvbr.me:8880/139179/139179/883
+http://brazilgroup.xyz:8880/odair/odair321/3488
 
 #EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tvgazeta.png" group-title="04- BRASIL",Gazeta (1)
 http://srv.tvprodigital.net:80/@jhones/aoc9897/30425
@@ -252,6 +252,8 @@ http://srv.tvprodigital.net:80/@jhones/aoc9897/30425
 http://srv.tvprodigital.net:80/039456/039456/30425
 #EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tvgazeta.png" group-title="04- BRASIL",Gazeta (4)
 http://srv.tvprodigital.net:80/296386/296386/30425
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tvgazeta.png" group-title="04- BRASIL",Gazeta (5)
+http://brazilgroup.xyz:8880/odair/odair321/13772
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-bahia-hd_m.png" group-title="04- BRASIL",Globo Bahia (1)
 http://srv.tvprodigital.net:80/@jhones/aoc9897/7539
@@ -260,7 +262,7 @@ http://srv.tvprodigital.net:80/039456/039456/7539
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-bahia-hd_m.png" group-title="04- BRASIL",Globo Bahia (4)
 http://srv.tvprodigital.net:80/296386/296386/7539
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-bahia-hd_m.png" group-title="04- BRASIL",Globo Bahia (5)
-http://a.srvbr.me:8880/139179/139179/5071
+http://brazilgroup.xyz:8880/odair/odair321/1767
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo Brasilia (1)
 http://srv.tvprodigital.net:80/@jhones/aoc9897/7530
@@ -269,7 +271,7 @@ http://srv.tvprodigital.net:80/039456/039456/7530
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo Brasilia (4)
 http://srv.tvprodigital.net:80/296386/296386/7530
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo Brasilia (5)
-http://a.srvbr.me:8880/139179/139179/831
+http://brazilgroup.xyz:8880/odair/odair321/2062
 
 #EXTINF:-1 tvg-logo="https://apicesistemasdeenergia.com.br/wp-content/uploads/2016/02/Eptv.jpg" group-title="04- BRASIL",Globo EPTV R. Preto (1)
 http://srv.tvprodigital.net:80/@jhones/aoc9897/9471
@@ -278,7 +280,7 @@ http://srv.tvprodigital.net:80/039456/039456/9471
 #EXTINF:-1 tvg-logo="https://apicesistemasdeenergia.com.br/wp-content/uploads/2016/02/Eptv.jpg" group-title="04- BRASIL",Globo EPTV R. Preto (4)
 http://srv.tvprodigital.net:80/296386/296386/9471
 #EXTINF:-1 tvg-logo="https://apicesistemasdeenergia.com.br/wp-content/uploads/2016/02/Eptv.jpg" group-title="04- BRASIL",Globo EPTV R. Preto (5)
-http://a.srvbr.me:8880/139179/139179/5312
+http://brazilgroup.xyz:8880/odair/odair321/7775
 
 #EXTINF:-1 tvg-logo="https://apicesistemasdeenergia.com.br/wp-content/uploads/2016/02/Eptv.jpg" group-title="04- BRASIL",Globo EPTV Sao Carlos (1)
 http://srv.tvprodigital.net:80/@jhones/aoc9897/22766
@@ -287,7 +289,7 @@ http://srv.tvprodigital.net:80/039456/039456/22766
 #EXTINF:-1 tvg-logo="https://apicesistemasdeenergia.com.br/wp-content/uploads/2016/02/Eptv.jpg" group-title="04- BRASIL",Globo EPTV Sao Carlos (4)
 http://srv.tvprodigital.net:80/296386/296386/22766
 #EXTINF:-1 tvg-logo="https://apicesistemasdeenergia.com.br/wp-content/uploads/2016/02/Eptv.jpg" group-title="04- BRASIL",Globo EPTV Sao Carlos (5)
-http://a.srvbr.me:8880/139179/139179/5129
+http://brazilgroup.xyz:8880/odair/odair321/6166
 
 #EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/globone.png" group-title="04- BRASIL",Globo Nordeste (1)
 http://srv.tvprodigital.net:80/@jhones/aoc9897/7527
@@ -296,7 +298,7 @@ http://srv.tvprodigital.net:80/039456/039456/7527
 #EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/globone.png" group-title="04- BRASIL",Globo Nordeste (4)
 http://srv.tvprodigital.net:80/296386/296386/7527
 #EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/globone.png" group-title="04- BRASIL",Globo Nordeste (5)
-http://a.srvbr.me:8880/139179/139179/5067
+http://brazilgroup.xyz:8880/odair/odair321/5080
 
 #EXTINF:-1 tvg-logo="https://image.isu.pub/110114001809-5ee24d7d200c401685a6c7a51e51bf3b/jpg/page_1.jpg" group-title="04- BRASIL",Globo RBS (1)
 http://srv.tvprodigital.net:80/@jhones/aoc9897/33265
@@ -305,7 +307,7 @@ http://srv.tvprodigital.net:80/039456/039456/33265
 #EXTINF:-1 tvg-logo="https://image.isu.pub/110114001809-5ee24d7d200c401685a6c7a51e51bf3b/jpg/page_1.jpg" group-title="04- BRASIL",Globo RBS (4)
 http://srv.tvprodigital.net:80/296386/296386/33265
 #EXTINF:-1 tvg-logo="https://image.isu.pub/110114001809-5ee24d7d200c401685a6c7a51e51bf3b/jpg/page_1.jpg" group-title="04- BRASIL",Globo RBS (5)
-http://a.srvbr.me:8880/139179/139179/764
+http://brazilgroup.xyz:8880/odair/odair321/43
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo RJ (1)
 http://srv.tvprodigital.net:80/@jhones/aoc9897/7547
@@ -314,7 +316,7 @@ http://srv.tvprodigital.net:80/039456/039456/7547
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo RJ (4)
 http://srv.tvprodigital.net:80/296386/296386/7547
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo RJ (5)
-http://a.srvbr.me:8880/139179/139179/829
+http://brazilgroup.xyz:8880/odair/odair321/1448
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP (1)
 http://srv.tvprodigital.net:80/@jhones/aoc9897/4431
@@ -323,7 +325,7 @@ http://srv.tvprodigital.net:80/039456/039456/4431
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP (4)
 http://srv.tvprodigital.net:80/296386/296386/4431
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP (5)
-http://a.srvbr.me:8880/139179/139179/827
+http://brazilgroup.xyz:8880/odair/odair321/1493
 
 #EXTINF:-1 tvg-logo="https://www.hedex.tv/uploads/images/clip_155_1556042983_thumb.png" group-title="04- BRASIL",Itú TV⁻ˢᵈ⁻
 http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8?GrupoTopIptv
@@ -338,7 +340,7 @@ http://srv.tvprodigital.net:80/039456/039456/4423
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record (4)
 http://srv.tvprodigital.net:80/296386/296386/4423
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record (5)
-http://a.srvbr.me:8880/139179/139179/761
+http://brazilgroup.xyz:8880/odair/odair321/2030
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="04- BRASIL",Rede TV (1)
 http://srv.tvprodigital.net:80/@jhones/aoc9897/20575
@@ -347,7 +349,7 @@ http://srv.tvprodigital.net:80/039456/039456/20575
 #EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="04- BRASIL",Rede TV (4)
 http://srv.tvprodigital.net:80/296386/296386/20575
 #EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="04- BRASIL",Rede TV (5)
-http://a.srvbr.me:8880/139179/139179/759
+http://brazilgroup.xyz:8880/odair/odair321/1954
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT (1)
 http://srv.tvprodigital.net:80/@jhones/aoc9897/20555
@@ -355,6 +357,8 @@ http://srv.tvprodigital.net:80/@jhones/aoc9897/20555
 http://srv.tvprodigital.net:80/039456/039456/20555
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT (4)
 http://srv.tvprodigital.net:80/296386/296386/20555
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT (5)
+http://brazilgroup.xyz:8880/odair/odair321/36
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-cidade-verde-hd_m.png" group-title="04- BRASIL",SBT⁻ˢᵈ⁻ Cidade Verde
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT⁻¹⁰⁸⁰⁻ Piauí
