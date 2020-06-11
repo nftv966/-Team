@@ -606,28 +606,34 @@ http://links.iptvlogin.com:8080/live/808080/808080/56292.ts
 https://stream.vagalume.fm/hls/14660050141766497579/aac.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Canal-4-Costa-Rica.png" group-title="08- COSTA RICA",Canal 04 Repretel_OFF_
-http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Canal-4-Costa-Rica.png" group-title="08- COSTA RICA",Canal 04 Repretel (3)
+http://links.iptvlogin.com:8080/live/808080/808080/203104.ts
 
-#EXTINF:-1 tvg-logo="https://d1lofqbqbj927c.cloudfront.net/cdr/2016/10/Untitled-1.jpg" group-title="08- COSTA RICA",Canal 06 Repretel_OFF_
-http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+#EXTINF:-1 tvg-logo="https://d1lofqbqbj927c.cloudfront.net/cdr/2016/10/Untitled-1.jpg" group-title="08- COSTA RICA",Canal 06 Repretel (3)
+http://links.iptvlogin.com:8080/live/808080/808080/203103.ts
 
 #EXTINF:-1 tvg-logo="https://image.multimedios.cr/sites/default/files/styles/social_share/public/nota_somos_el_8.jpg" group-title="08- COSTA RICA",Canal 08 Multimedios ⁻ˢᵈ⁻
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://image.multimedios.cr/sites/default/files/styles/social_share/public/nota_somos_el_8.jpg" group-title="08- COSTA RICA",Canal 08 Multimedios ⁻ˢᵈ⁻
 http://mdstrm.com:80/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Canal-11-Costa-Rica.png" group-title="08- COSTA RICA",Canal 11 Repretel
-http://flowfhd.xyz:25461/6082/6082/9219
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Canal-11-Costa-Rica.png" group-title="08- COSTA RICA",Canal 11 Repretel (3)
+http://links.iptvlogin.com:8080/live/808080/808080/203106.ts
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Canal-11-Costa-Rica.png" group-title="08- COSTA RICA",Canal 11 Repretel (5)
+http://pcjatv.com:8080/Kerry/Kerry/28884
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Naw5Wnn.png" group-title="08- COSTA RICA",Extrema TV⁻ˢᵈ⁻
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8?GrupoTopIptv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Naw5Wnn.png" group-title="08- COSTA RICA",Extrema TV (3)
+http://links.iptvlogin.com:8080/live/808080/808080/203112.ts
 
 #EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/2020-02/TeleSUR-Costa%2520Rica.png" group-title="08- COSTA RICA",Telesur⁻ˢᵈ⁻
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Tele-Uno-Costa-Rica-en-vivo-Online.png" group-title="08- COSTA RICA",TeleUno⁻ˢᵈ⁻
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Tele-Uno-Costa-Rica-en-vivo-Online.png" group-title="08- COSTA RICA",TeleUno (3)
+http://links.iptvlogin.com:8080/live/808080/808080/203100.ts
 
 ######################################################################################################################################
 ####################################### CUBA
