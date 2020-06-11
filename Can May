@@ -641,11 +641,13 @@ http://links.iptvlogin.com:8080/live/808080/808080/203100.ts
 https://stream.vagalume.fm/hls/1478199774246251/aac.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2017/02/CubaPlay_Logo.png" group-title="09- CUBA",Cubaplay +
-http://flowfhd.xyz:25461/6082/6082/61590
-
-#EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/c/cc/Cubavisi%C3%B3n_logo.jpg/260px-Cubavisi%C3%B3n_logo.jpg" group-title="09- CUBA",Cubavision_OFF_
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2017/02/CubaPlay_Logo.png" group-title="09- CUBA",Cubaplay +_OFF_
 http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+
+#EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/c/cc/Cubavisi%C3%B3n_logo.jpg/260px-Cubavisi%C3%B3n_logo.jpg" group-title="09- CUBA",Cubavision (3)
+http://links.iptvlogin.com:8080/live/808080/808080/203171.ts
+#EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/c/cc/Cubavisi%C3%B3n_logo.jpg/260px-Cubavisi%C3%B3n_logo.jpg" group-title="09- CUBA",Cubavision (5)
+http://pcjatv.com:8080/Kerry/Kerry/28352
 
 #EXTINF:-1 tvg-logo="https://www.radiotelevisionmarti.com/Content/responsive/OCB/es-CU/img/logo-compact.png" group-title="09- CUBA",TV Martí⁻ˢᵈ⁻
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8?GrupoTopIptv
@@ -656,14 +658,22 @@ http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8?GrupoTopIptv
 https://stream.vagalume.fm/hls/146411300413492499/aac.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="https://blixtv.com/wp-content/uploads/2015/03/canal-uno.jpg" group-title="10- ECUADOR",Canal Uno
-http://flowfhd.xyz:25461/6082/6082/8904
+#EXTINF:-1 tvg-logo="https://blixtv.com/wp-content/uploads/2015/03/canal-uno.jpg" group-title="10- ECUADOR",Canal Uno (3)
+http://links.iptvlogin.com:8080/live/808080/808080/68282.ts
+#EXTINF:-1 tvg-logo="https://blixtv.com/wp-content/uploads/2015/03/canal-uno.jpg" group-title="10- ECUADOR",Canal Uno (3)
+http://links.iptvlogin.com:8080/live/808080/808080/68290.ts
+#EXTINF:-1 tvg-logo="https://blixtv.com/wp-content/uploads/2015/03/canal-uno.jpg" group-title="10- ECUADOR",Canal Uno (3)
+http://links.iptvlogin.com:8080/live/808080/808080/68314.ts
+#EXTINF:-1 tvg-logo="https://blixtv.com/wp-content/uploads/2015/03/canal-uno.jpg" group-title="10- ECUADOR",Canal Uno (3)
+http://links.iptvlogin.com:8080/live/808080/808080/68339.ts
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canela-TV.png" group-title="10- ECUADOR",Canela TV
-http://flowfhd.xyz:25461/6082/6082/50989
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canela-TV.png" group-title="10- ECUADOR",Canela TV (3)
+http://links.iptvlogin.com:8080/live/808080/808080/68295.ts
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canela-TV.png" group-title="10- ECUADOR",Canela TV (3)
+http://links.iptvlogin.com:8080/live/808080/808080/68293.ts
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1230328401254322176/fWLriAft_400x400.jpg" group-title="10- ECUADOR",EcuadorTV
-http://flowfhd.xyz:25461/6082/6082/8905
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1230328401254322176/fWLriAft_400x400.jpg" group-title="10- ECUADOR",EcuadorTV (3)
+http://links.iptvlogin.com:8080/live/808080/808080/68297.ts
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/ecuavisa.png" group-title="10- ECUADOR",Ecuavisa⁻ˢᵈ⁻
 http://173.212.247.99/hls/tvec2.m3u8
@@ -671,20 +681,20 @@ http://173.212.247.99/hls/tvec2.m3u8
 #EXTINF:-1 tvg-logo="https://blixtv.com/wp-content/uploads/2015/03/gamatv3-240x172.png" group-title="10- ECUADOR",Gama tv_OFF_
 http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/oromar-218x150.png" group-title="10- ECUADOR",Oromar tv
-http://flowfhd.xyz:25461/6082/6082/51001
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/oromar-218x150.png" group-title="10- ECUADOR",Oromar tv (3)
+http://links.iptvlogin.com:8080/live/808080/808080/68309.ts
 
-#EXTINF:-1 tvg-logo="https://ultimahoraec.com/wp-content/uploads/2017/11/logo_rts.png" group-title="10- ECUADOR",RTS_OFF_
+#EXTINF:-1 tvg-logo="https://ultimahoraec.com/wp-content/uploads/2017/11/logo_rts.png" group-title="10- ECUADOR",RTS (3)
+http://links.iptvlogin.com:8080/live/808080/808080/68310.ts
+
+#EXTINF:-1 tvg-logo="https://www.practicasejemplaresecuador.com/wp-content/uploads/2017/11/teleamazonas.png" group-title="10- ECUADOR",Teleamazonas (3)
+http://links.iptvlogin.com:8080/live/808080/808080/68344.ts
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/televicentro-ecuador.png" group-title="10- ECUADOR",Televicentro_OFF_
 http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
 
-#EXTINF:-1 tvg-logo="https://www.practicasejemplaresecuador.com/wp-content/uploads/2017/11/teleamazonas.png" group-title="10- ECUADOR",Teleamazonas
-http://flowfhd.xyz:25461/6082/6082/8912
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/televicentro-ecuador.png" group-title="10- ECUADOR",Televicentro
-http://flowfhd.xyz:25461/6082/6082/8913
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/TC-Televisi%C3%B3n.png" group-title="10- ECUADOR",TC Television_OFF_
-http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/TC-Televisi%C3%B3n.png" group-title="10- ECUADOR",TC Television (3)
+http://links.iptvlogin.com:8080/live/808080/808080/68341.ts
 
 ######################################################################################################################################
 ####################################### ESPAÑA
