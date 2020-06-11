@@ -23,6 +23,8 @@ http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
 
 #EXTINF:-1 tvg-logo="http://www.radionacional.gov.py/wp-content/uploads/2018/04/ar_america-2-capital_m.png" group-title="03- ARGENTINA",America TV (3)
 http://links.iptvlogin.com:8080/live/808080/808080/208718.ts
+#EXTINF:-1 tvg-logo="http://www.radionacional.gov.py/wp-content/uploads/2018/04/ar_america-2-capital_m.png" group-title="03- ARGENTINA",America TV (5)
+http://pcjatv.com:8080/Kerry/Kerry/28733
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_argentinisima-satelital_m.png" group-title="03- ARGENTINA",Argentinisima⁻ˢᵈ⁻
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
@@ -42,6 +44,8 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0062
 http://links.iptvlogin.com:8080/live/808080/808080/208712.ts
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/9558b-c5n-2017.png" group-title="03- ARGENTINA",C5N (3)
 http://links.iptvlogin.com:8080/live/808080/808080/208713.ts
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/9558b-c5n-2017.png" group-title="03- ARGENTINA",C5N (5)
+http://pcjatv.com:8080/Kerry/Kerry/28744
 
 #EXTINF:-1 tvg-logo="https://vivotvhd.com/img/cha/4216.gif" group-title="03- ARGENTINA",Chacra TV⁻ˢᵈ⁻
 http://s8.stweb.tv:1935/chacra/live/chunks.m3u8?IMDSFULL
@@ -163,8 +167,8 @@ http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.tn.com.ar/sites/default/files/styles/720x720/public/2018/08/16/tn_vivo1.png" group-title="03- ARGENTINA",TN (3)
 http://links.iptvlogin.com:8080/live/808080/808080/208739.ts
 
-#EXTINF:-1 tvg-logo="https://www.baraderoteinforma.com.ar/wp-content/uploads/2019/12/COSAS-Copy-68.jpg" group-title="03- ARGENTINA",Tv Publica_OFF_
-http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+#EXTINF:-1 tvg-logo="https://www.baraderoteinforma.com.ar/wp-content/uploads/2019/12/COSAS-Copy-68.jpg" group-title="03- ARGENTINA",Tv Publica (5)
+http://pcjatv.com:8080/Kerry/Kerry/28953
 
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/v/i/a/viajar.jpg" group-title="03- ARGENTINA",Viajar_OFF_
 http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
@@ -461,11 +465,15 @@ http://links.iptvlogin.com:8080/live/808080/808080/203057.ts
 http://links.iptvlogin.com:8080/live/808080/808080/203056.ts
 #EXTINF:-1 tvg-logo="https://lisa.zapping.live/uploads/canales/color/13cable.jpg" group-title="06- CHILE",Canal 13 (3)
 http://links.iptvlogin.com:8080/live/808080/808080/203061.ts
+#EXTINF:-1 tvg-logo="https://lisa.zapping.live/uploads/canales/color/13cable.jpg" group-title="06- CHILE",Canal 13 (5)
+http://pcjatv.com:8080/Kerry/Kerry/28747
 
 #EXTINF:-1 tvg-logo="https://elfiltrador.com/wp-content/uploads/2018/10/foto_0000001320180216144941.png" group-title="06- CHILE",Chilevision (3)
 http://links.iptvlogin.com:8080/live/808080/808080/203065.ts
 #EXTINF:-1 tvg-logo="https://elfiltrador.com/wp-content/uploads/2018/10/foto_0000001320180216144941.png" group-title="06- CHILE",Chilevision (3)
 http://links.iptvlogin.com:8080/live/808080/808080/203064.ts
+#EXTINF:-1 tvg-logo="https://elfiltrador.com/wp-content/uploads/2018/10/foto_0000001320180216144941.png" group-title="06- CHILE",Chilevision (5)
+http://pcjatv.com:8080/Kerry/Kerry/28760
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VhOolgs.png" group-title="06- CHILE",El Pingüino_OFF_
 http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
