@@ -1340,7 +1340,7 @@ http://hide1.userportal.live:8080/gRQP491iK8/FSfM6TtcA7/2758
 #EXTINF:-1 tvg-logo="http://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/400-education/403-crimeandinvestigationnetwork.png" group-title="18- PORTUGAL",Crime Investigation
 http://hide1.userportal.live:8080/gRQP491iK8/FSfM6TtcA7/62539
 
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="18- PORTUGAL",Discovery ID
+#EXTINF:-1 tvg-logo="https://www.chillglobal.com/images/channels/7-id-1432373646.jpg" group-title="18- PORTUGAL",Discovery ID
 http://hide1.userportal.live:8080/gRQP491iK8/FSfM6TtcA7/72122
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/DISCV.png" group-title="18- PORTUGAL",Discovery Channel
@@ -1632,7 +1632,7 @@ http://plus-tv.us:8080/live/0944/0944/15280.ts
 http://ic7.101.ru:8000/a8
 ######################################################################################################################################
 
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="21- USA",A&E
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/312LhQsVqtL.png" group-title="21- USA",A&E
 http://shacktv.com:8080/live/lorenzo/lorenzo3/246.rtmp
 
 #EXTINF:-1 tvg-logo="http://tvonline.linkscomdo.netdna-cdn.com/images/sobipro/entries/122/img_abc-logo-tv-online.jpg" group-title="21- USA",ABC
@@ -3461,11 +3461,11 @@ http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #######################################
 ######################################################################################################################################
 
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="38- DOCUMENTALES LATINOS",A&E (2)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/312LhQsVqtL.png" group-title="38- DOCUMENTALES LATINOS",A&E (2)
 http://plus-tv.us:8080/live/0944/0944/15287.ts
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="38- DOCUMENTALES LATINOS",A&E (3)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/312LhQsVqtL.png" group-title="38- DOCUMENTALES LATINOS",A&E (3)
 http://links.iptvlogin.com:8080/live/808080/808080/31380.ts
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="38- DOCUMENTALES LATINOS",A&E (6)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/312LhQsVqtL.png" group-title="38- DOCUMENTALES LATINOS",A&E (6)
 http://plus-tv.us:8080/live/27/27/15287.ts
 
 #EXTINF:-1 tvg-logo="https://www.effectv.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="38- DOCUMENTALES LATINOS",Animal Planet (2)
@@ -3493,11 +3493,11 @@ http://links.iptvlogin.com:8080/live/808080/808080/31418.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-civilization_m.png" group-title="38- DOCUMENTALES LATINOS",Discovery Civilization (6)
 http://plus-tv.us:8080/live/27/27/15319.ts
 
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="38- DOCUMENTALES LATINOS",Discovery Investigation (2)
+#EXTINF:-1 tvg-logo="https://www.chillglobal.com/images/channels/7-id-1432373646.jpg" group-title="38- DOCUMENTALES LATINOS",Discovery Investigation (2)
 http://plus-tv.us:8080/live/0944/0944/15323.ts
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="38- DOCUMENTALES LATINOS",Discovery Investigation (3)
+#EXTINF:-1 tvg-logo="https://www.chillglobal.com/images/channels/7-id-1432373646.jpg group-title="38- DOCUMENTALES LATINOS",Discovery Investigation (3)
 http://links.iptvlogin.com:8080/live/808080/808080/31472.ts
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="38- DOCUMENTALES LATINOS",Discovery Investigation (6)
+#EXTINF:-1 tvg-logo="https://www.chillglobal.com/images/channels/7-id-1432373646.jpg" group-title="38- DOCUMENTALES LATINOS",Discovery Investigation (6)
 http://plus-tv.us:8080/live/27/27/15323.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b0d27efc-174d-41f6-851b-e125fba0dce7_m.jpg" group-title="38- DOCUMENTALES LATINOS",Discovery H&H (2)
@@ -3598,15 +3598,15 @@ http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #######################################
 ######################################################################################################################################
 
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="39- DOCUMENTAIS BRASIL",A&E (1)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/312LhQsVqtL.png" group-title="39- DOCUMENTAIS BRASIL",A&E (1)
 http://clubsrv.me:80/ederson/ederson123/1907
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="39- DOCUMENTAIS BRASIL",A&E (2)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/312LhQsVqtL.png" group-title="39- DOCUMENTAIS BRASIL",A&E (2)
 http://srv.tvprodigital.net:80/061108/061108/20893
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="39- DOCUMENTAIS BRASIL",A&E (3)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/312LhQsVqtL.png" group-title="39- DOCUMENTAIS BRASIL",A&E (3)
 http://srv.tvprodigital.net:80/155498/155498/20893
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="39- DOCUMENTAIS BRASIL",A&E (4)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/312LhQsVqtL.png" group-title="39- DOCUMENTAIS BRASIL",A&E (4)
 http://srv.tvprodigital.net:80/296386/296386/20893
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="39- DOCUMENTAIS BRASIL",A&E (5)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/312LhQsVqtL.png" group-title="39- DOCUMENTAIS BRASIL",A&E (5)
 http://srv.tvprodigital.net:80/109833/109833/20893
 
 #EXTINF:-1 tvg-logo="https://www.effectv.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="39- DOCUMENTAIS BRASIL",Animal Planet (1)
@@ -3651,15 +3651,15 @@ http://srv.tvprodigital.net:80/296386/296386/20814
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b0d27efc-174d-41f6-851b-e125fba0dce7_m.jpg" group-title="39- DOCUMENTAIS BRASIL",Discovery H&H (5)
 http://srv.tvprodigital.net:80/109833/109833/20814
 
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="39- DOCUMENTAIS BRASIL",Discovery ID (1)
+#EXTINF:-1 tvg-logo="https://www.chillglobal.com/images/channels/7-id-1432373646.jpg" group-title="39- DOCUMENTAIS BRASIL",Discovery ID (1)
 http://clubsrv.me:80/ederson/ederson123/1798
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="39- DOCUMENTAIS BRASIL",Discovery ID (2)
+#EXTINF:-1 tvg-logo="https://www.chillglobal.com/images/channels/7-id-1432373646.jpg" group-title="39- DOCUMENTAIS BRASIL",Discovery ID (2)
 http://srv.tvprodigital.net:80/061108/061108/20673
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="39- DOCUMENTAIS BRASIL",Discovery ID (3)
+#EXTINF:-1 tvg-logo="https://www.chillglobal.com/images/channels/7-id-1432373646.jpg" group-title="39- DOCUMENTAIS BRASIL",Discovery ID (3)
 http://srv.tvprodigital.net:80/155498/155498/20673
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="39- DOCUMENTAIS BRASIL",Discovery ID (4)
+#EXTINF:-1 tvg-logo="https://www.chillglobal.com/images/channels/7-id-1432373646.jpg" group-title="39- DOCUMENTAIS BRASIL",Discovery ID (4)
 http://srv.tvprodigital.net:80/296386/296386/20673
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="39- DOCUMENTAIS BRASIL",Discovery ID (5)
+#EXTINF:-1 tvg-logo="https://www.chillglobal.com/images/channels/7-id-1432373646.jpg" group-title="39- DOCUMENTAIS BRASIL",Discovery ID (5)
 http://srv.tvprodigital.net:80/109833/109833/20673
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="39- DOCUMENTAIS BRASIL",Discovery Science (1)
