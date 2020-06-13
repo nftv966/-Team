@@ -662,48 +662,32 @@ https://stream.vagalume.fm/hls/146411300413492499/aac.m3u8
 #######################################
 
 #EXTINF:-1 tvg-logo="https://blixtv.com/wp-content/uploads/2015/03/canal-uno.jpg" group-title="10- ECUADOR",Canal Uno
-http://portal.geniptv.com:8080/xX3aUdi1tL/qF1vjfTVTB/11480
-#EXTINF:-1 tvg-logo="https://blixtv.com/wp-content/uploads/2015/03/canal-uno.jpg" group-title="10- ECUADOR",Canal Uno Alt
 http://portal.geniptv.com:8080/Wolnydan/79RV4y5UfT/11480
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canela-TV.png" group-title="10- ECUADOR",Canela TV_OFF_
 http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1230328401254322176/fWLriAft_400x400.jpg" group-title="10- ECUADOR",EcuadorTV
-http://portal.geniptv.com:8080/xX3aUdi1tL/qF1vjfTVTB/11667
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1230328401254322176/fWLriAft_400x400.jpg" group-title="10- ECUADOR",EcuadorTV Alt
 http://portal.geniptv.com:8080/Wolnydan/79RV4y5UfT/11667
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/ecuavisa.png" group-title="10- ECUADOR",Ecuavisa⁻ˢᵈ⁻
 http://173.212.247.99/hls/tvec2.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/ecuavisa.png" group-title="10- ECUADOR",Ecuavisa
-http://portal.geniptv.com:8080/xX3aUdi1tL/qF1vjfTVTB/11666
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/ecuavisa.png" group-title="10- ECUADOR",Ecuavisa Alt
 http://portal.geniptv.com:8080/Wolnydan/79RV4y5UfT/11666
 
 #EXTINF:-1 tvg-logo="https://blixtv.com/wp-content/uploads/2015/03/gamatv3-240x172.png" group-title="10- ECUADOR",Gama tv
-http://portal.geniptv.com:8080/xX3aUdi1tL/qF1vjfTVTB/11665
-#EXTINF:-1 tvg-logo="https://blixtv.com/wp-content/uploads/2015/03/gamatv3-240x172.png" group-title="10- ECUADOR",Gama tv Alt
 http://portal.geniptv.com:8080/Wolnydan/79RV4y5UfT/11665
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/oromar-218x150.png" group-title="10- ECUADOR",Oromar tv
-http://portal.geniptv.com:8080/xX3aUdi1tL/qF1vjfTVTB/11656
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/oromar-218x150.png" group-title="10- ECUADOR",Oromar tv Alt
 http://portal.geniptv.com:8080/Wolnydan/79RV4y5UfT/11656
 
 #EXTINF:-1 tvg-logo="https://ultimahoraec.com/wp-content/uploads/2017/11/logo_rts.png" group-title="10- ECUADOR",RTS
-http://portal.geniptv.com:8080/xX3aUdi1tL/qF1vjfTVTB/11647
-#EXTINF:-1 tvg-logo="https://ultimahoraec.com/wp-content/uploads/2017/11/logo_rts.png" group-title="10- ECUADOR",RTS Alt
 http://portal.geniptv.com:8080/Wolnydan/79RV4y5UfT/11647
 
 #EXTINF:-1 tvg-logo="https://www.practicasejemplaresecuador.com/wp-content/uploads/2017/11/teleamazonas.png" group-title="10- ECUADOR",Teleamazonas
-http://portal.geniptv.com:8080/xX3aUdi1tL/qF1vjfTVTB/11645
-#EXTINF:-1 tvg-logo="https://www.practicasejemplaresecuador.com/wp-content/uploads/2017/11/teleamazonas.png" group-title="10- ECUADOR",Teleamazonas Alt
 http://portal.geniptv.com:8080/Wolnydan/79RV4y5UfT/11645
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/televicentro-ecuador.png" group-title="10- ECUADOR",Televicentro
-http://portal.geniptv.com:8080/xX3aUdi1tL/qF1vjfTVTB/11463
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/televicentro-ecuador.png" group-title="10- ECUADOR",Televicentro Alt
 http://portal.geniptv.com:8080/Wolnydan/79RV4y5UfT/11463
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/TC-Televisi%C3%B3n.png" group-title="10- ECUADOR",TC Television_OFF_
