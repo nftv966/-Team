@@ -30,22 +30,26 @@ https://cdo0.dailysport.pw/12/12.m3u8
 #EXTINF:-1 ,canal 13
 https://cdo0.dailysport.pw/13/13.m3u8
 
-#EXTINF:-1 ,evento 1
+#EXTINF:-1 ,evento 01
 https://telerium.tv/ingest02/57305.m3u8?sf=WDhKUWJGSUZuWA==&token=BK_RHOJjOWn6Hxtvq0PsRw&expires=1592306148&rnd=57305
-#EXTINF:-1 ,evento 2
+#EXTINF:-1 ,evento 02
 https://telerium.tv/ingest02/57306.m3u8?sf=bjkyWVhwVDlkTw==&token=xpXyaPaFD4eR5hQdhsNlag&expires=1592306269&rnd=57306
-#EXTINF:-1 ,evento 3
+#EXTINF:-1 ,evento 03
 https://telerium.tv/ingest01/57302.m3u8?sf=NlJqNno3WXprYw==&token=8nR5H6hixlSB6ZfmGqqT4g&expires=1592307445&rnd=57302
-#EXTINF:-1 ,evento 4
+#EXTINF:-1 ,evento 04
 https://telerium.tv/ingest02/57309.m3u8?sf=V3hoU1JFV093UQ==&token=3x8nh6p_1HW1-uPmDuDwzg&expires=1592307604&rnd=57309
-#EXTINF:-1 ,evento 5
+#EXTINF:-1 ,evento 05
 https://telerium.tv/ingest02/57308.m3u8?sf=WVREc3B0dVhQMg==&token=vddrzylGcEfEOPeDl5QQIw&expires=1592307671&rnd=57308
-
-[13:22, 16/6/2020] Sergio: https://telerium.tv/ingest02/57308.m3u8?sf=WVREc3B0dVhQMg==&token=zGY2yi6d7Vq9frsfJX0r-w&expires=1592307712&rnd=57308 evento 6
-[13:23, 16/6/2020] Sergio: https://ul.cdn946.net:8443/hls/gtum2hh.m3u8?s=1oVL19NyCa8KWi6rKSCZYQ&e=1592328162b evento 7
-[13:26, 16/6/2020] Sergio: https://ul.cdn946.net:8443/hls/nq1ohfm51o.m3u8?s=VG676nVkVhkNmRdfFD-ciw&e=1592328213 evento 8
-[13:27, 16/6/2020] Sergio: https://telerium.tv/ingest013/57303.m3u8?sf=MUlmcHd0QW1vTQ==&token=Rr-U9IrZzQxB_YBub0dKHA&expires=1592308002&rnd=57303 evento 9
-[13:28, 16/6/2020] Sergio: https://telerium.tv/ingest02/57296.m3u8?sf=UTR3bkpkNnY3UQ==&token=Vu6tOK_xZwb37FY69FiGKQ&expires=1592308086&rnd=57296 evento 10
+#EXTINF:-1 ,evento 07
+https://telerium.tv/ingest02/57308.m3u8?sf=WVREc3B0dVhQMg==&token=zGY2yi6d7Vq9frsfJX0r-w&expires=1592307712&rnd=57308
+#EXTINF:-1 ,evento 08
+https://ul.cdn946.net:8443/hls/gtum2hh.m3u8?s=1oVL19NyCa8KWi6rKSCZYQ&e=1592328162b
+#EXTINF:-1 ,evento 09
+https://ul.cdn946.net:8443/hls/nq1ohfm51o.m3u8?s=VG676nVkVhkNmRdfFD-ciw&e=1592328213
+#EXTINF:-1 ,evento 10
+https://telerium.tv/ingest013/57303.m3u8?sf=MUlmcHd0QW1vTQ==&token=Rr-U9IrZzQxB_YBub0dKHA&expires=1592308002&rnd=57303
+#EXTINF:-1 ,evento 11
+https://telerium.tv/ingest02/57296.m3u8?sf=UTR3bkpkNnY3UQ==&token=Vu6tOK_xZwb37FY69FiGKQ&expires=1592308086&rnd=57296
 
 
 
