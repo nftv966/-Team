@@ -1975,6 +1975,8 @@ http://links.iptvlogin.com:8080/live/808080/808080/31384.ts
 http://plus-tv.us:8080/live/2943/2943/15290.ts
 #EXTINF:-1 tvg-logo="https://stagingcms.cignal.tv/Upload/Images/AMC.png" group-title="28- PREMIUM LATINO",Amc (7)
 http://cdn.miip.tv:8080/canada/123456/3656
+#EXTINF:-1 tvg-logo="https://stagingcms.cignal.tv/Upload/Images/AMC.png" group-title="28- PREMIUM LATINO",Amc (8)
+http://latiniptv.vip:8008/live/12345/12345/115890.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="28- PREMIUM LATINO",Axn (1)
 http://pcjatv.com:8080/demo/demo/28736
@@ -1989,9 +1991,9 @@ http://pcjatv.com:8080/Kerry/Kerry/28736
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="28- PREMIUM LATINO",Axn (6)
 http://plus-tv.us:8080/live/2943/2943/15293.ts
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="28- PREMIUM LATINO",Axn (7)
-http://cdn.miip.tv:8080/canada/123456/148
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="28- PREMIUM LATINO",Axn (7)
 http://cdn.miip.tv:8080/canada/123456/439
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="28- PREMIUM LATINO",Axn (8)
+http://latiniptv.vip:8008/live/12345/12345/115892.rtmp
 
 #EXTINF:-1 tvg-logo="http://comcab.mx/images/canales/comcab-cinecanal.png" group-title="28- PREMIUM LATINO",Cinecanal (1)
 http://pcjatv.com:8080/demo/demo/28761
@@ -2005,6 +2007,8 @@ http://pcjatv.com:8080/tyrone/tyrone/28761
 http://pcjatv.com:8080/Kerry/Kerry/28761
 #EXTINF:-1 tvg-logo="http://comcab.mx/images/canales/comcab-cinecanal.png" group-title="28- PREMIUM LATINO",Cinecanal (6)
 http://plus-tv.us:8080/live/2943/2943/15312.ts
+#EXTINF:-1 tvg-logo="http://comcab.mx/images/canales/comcab-cinecanal.png" group-title="28- PREMIUM LATINO",Cinecanal (8)
+http://latiniptv.vip:8008/live/12345/12345/103290.rtmp
 
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/12/52a34-cl.png" group-title="28- PREMIUM LATINO",Cine Latino (1)
 http://pcjatv.com:8080/demo/demo/28763
@@ -2018,6 +2022,8 @@ http://pcjatv.com:8080/tyrone/tyrone/28763
 http://pcjatv.com:8080/Kerry/Kerry/28763
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/12/52a34-cl.png" group-title="28- PREMIUM LATINO",Cine Latino (6)
 http://plus-tv.us:8080/live/2943/2943/15313.ts
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/12/52a34-cl.png" group-title="28- PREMIUM LATINO",Cine Latino (8)
+http://latiniptv.vip:8008/live/12345/12345/103186.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.cinemadinamita.com/img/logos/Inicio.png" group-title="28- PREMIUM LATINO",Cine Dinamita (1)
 http://pcjatv.com:8080/demo/demo/28762
@@ -2025,6 +2031,8 @@ http://pcjatv.com:8080/demo/demo/28762
 http://pcjatv.com:8080/tyrone/tyrone/28762
 #EXTINF:-1 tvg-logo="http://www.cinemadinamita.com/img/logos/Inicio.png" group-title="28- PREMIUM LATINO",Cine Dinamita (5)
 http://pcjatv.com:8080/Kerry/Kerry/28762
+#EXTINF:-1 tvg-logo="http://www.cinemadinamita.com/img/logos/Inicio.png" group-title="28- PREMIUM LATINO",Cine Dinamita (8)
+http://latiniptv.vip:8008/live/12345/12345/103291.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="28- PREMIUM LATINO",Cinemax (1)
 http://pcjatv.com:8080/demo/demo/28765
@@ -2040,6 +2048,8 @@ http://pcjatv.com:8080/Kerry/Kerry/28765
 http://plus-tv.us:8080/live/2943/2943/15314.ts
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="28- PREMIUM LATINO",Cinemax (7)
 http://cdn.miip.tv:8080/canada/123456/3716
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="28- PREMIUM LATINO",Cinemax (8)
+http://latiniptv.vip:8008/live/12345/12345/103188.rtmp
 
 #EXTINF:-1 tvg-logo="http://newprinter.com.ar/wp-content/uploads/2019/02/claro-pb-logo-vector-400x400.png" group-title="28- PREMIUM LATINO",Claro Cinema_OFF_
 http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
@@ -2058,6 +2068,8 @@ http://pcjatv.com:8080/Kerry/Kerry/28771
 http://plus-tv.us:8080/live/2943/2943/15316.ts
 #EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="28- PREMIUM LATINO",Comedy Central (7)
 http://cdn.miip.tv:8080/canada/123456/1
+#EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="28- PREMIUM LATINO",Comedy Central (8)
+http://latiniptv.vip:8008/live/12345/12345/105794.rtmp
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula_hd-mediano.png" group-title="28- PREMIUM LATINO",De Película (1)
 http://pcjatv.com:8080/demo/demo/28782
@@ -2065,6 +2077,8 @@ http://pcjatv.com:8080/demo/demo/28782
 http://pcjatv.com:8080/tyrone/tyrone/28782
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula_hd-mediano.png" group-title="28- PREMIUM LATINO",De Película (5)
 http://pcjatv.com:8080/Kerry/Kerry/28782
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula_hd-mediano.png" group-title="28- PREMIUM LATINO",De Película (8)
+http://latiniptv.vip:8008/live/12345/12345/105775.rtmp
 
 #EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/05/televisa-afiliados-canales-de-pelicula-plus.jpg" group-title="28- PREMIUM LATINO",De Película Plus (1)
 http://pcjatv.com:8080/demo/demo/28783
@@ -2074,6 +2088,8 @@ http://links.iptvlogin.com:8080/live/808080/808080/31415.ts
 http://pcjatv.com:8080/tyrone/tyrone/28783
 #EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/05/televisa-afiliados-canales-de-pelicula-plus.jpg" group-title="28- PREMIUM LATINO",De Película Plus (5)
 http://pcjatv.com:8080/Kerry/Kerry/28783
+#EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/05/televisa-afiliados-canales-de-pelicula-plus.jpg" group-title="28- PREMIUM LATINO",De Película Plus (8)
+http://latiniptv.vip:8008/live/12345/12345/105772.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="28- PREMIUM LATINO",Dhe
 
@@ -2086,9 +2102,13 @@ http://links.iptvlogin.com:8080/live/808080/808080/31429.ts
 http://plus-tv.us:8080/live/2943/2943/15333.ts
 #EXTINF:-1 tvg-logo="http://www.multicanalcatamayo.com/cablevisiondondiego/images/74.png" group-title="28- PREMIUM LATINO",Distrito Comedia (7)
 http://cdn.miip.tv:8080/canada/123456/111
+#EXTINF:-1 tvg-logo="http://www.multicanalcatamayo.com/cablevisiondondiego/images/74.png" group-title="28- PREMIUM LATINO",Distrito Comedia (8)
+http://latiniptv.vip:8008/live/12345/12345/105803.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_europa-europa_m.png" group-title="28- PREMIUM LATINO",Europa Europa (3)
 http://links.iptvlogin.com:8080/live/808080/808080/31437.ts
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_europa-europa_m.png" group-title="28- PREMIUM LATINO",Europa Europa (8)
+http://latiniptv.vip:8008/live/12345/12345/115776.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="28- PREMIUM LATINO",Fox (2)
 http://plus-tv.us:8080/live/0944/0944/15345.ts
@@ -2098,6 +2118,8 @@ http://links.iptvlogin.com:8080/live/808080/808080/31446.ts
 http://plus-tv.us:8080/live/2943/2943/15345.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="28- PREMIUM LATINO",Fox (7)
 http://cdn.miip.tv:8080/canada/123456/141
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="28- PREMIUM LATINO",Fox (8)
+http://latiniptv.vip:8008/live/12345/12345/115790.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_ACTION.png" group-title="28- PREMIUM LATINO",Fox Action (1)
 http://pcjatv.com:8080/demo/demo/28814
@@ -2113,6 +2135,8 @@ http://pcjatv.com:8080/Kerry/Kerry/28814
 http://plus-tv.us:8080/live/2943/2943/15346.ts
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_ACTION.png" group-title="28- PREMIUM LATINO",Fox Action (7)
 http://cdn.miip.tv:8080/canada/123456/132
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_ACTION.png" group-title="28- PREMIUM LATINO",Fox Action (8)
+http://latiniptv.vip:8008/live/12345/12345/115904.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_CLASSIC.png" group-title="28- PREMIUM LATINO",Fox Classics (1)
 http://pcjatv.com:8080/demo/demo/28816
@@ -2139,6 +2163,8 @@ http://pcjatv.com:8080/Kerry/Kerry/28815
 http://plus-tv.us:8080/live/2943/2943/15347.ts
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_CINEMA.png" group-title="28- PREMIUM LATINO",Fox Cinema (7)
 http://cdn.miip.tv:8080/canada/123456/140
+#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_CINEMA.png" group-title="28- PREMIUM LATINO",Fox Cinema (8)
+http://latiniptv.vip:8008/live/12345/12345/115905.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_COMEDY.png" group-title="28- PREMIUM LATINO",Fox Comedy (1)
 http://pcjatv.com:8080/demo/demo/28817
@@ -2159,6 +2185,8 @@ http://pcjatv.com:8080/Kerry/Kerry/28819
 http://plus-tv.us:8080/live/2943/2943/15349.ts
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_FAMILYHD.png" group-title="28- PREMIUM LATINO",Fox Family (7)
 http://cdn.miip.tv:8080/canada/123456/142
+#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_FAMILYHD.png" group-title="28- PREMIUM LATINO",Fox Family (8)
+http://latiniptv.vip:8008/live/12345/12345/115908.rtmp
 
 #EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="28- PREMIUM LATINO",Fox Life (1)
 http://pcjatv.com:8080/demo/demo/28821
@@ -2174,6 +2202,8 @@ http://pcjatv.com:8080/Kerry/Kerry/28821
 http://plus-tv.us:8080/live/2943/2943/15350.ts
 #EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="28- PREMIUM LATINO",Fox Life (7)
 http://cdn.miip.tv:8080/canada/123456/139
+#EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="28- PREMIUM LATINO",Fox Life (8)
+http://latiniptv.vip:8008/live/12345/12345/115988.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_MOVIES.png" group-title="28- PREMIUM LATINO",Fox Movies (1)
 http://pcjatv.com:8080/demo/demo/28822
@@ -2189,6 +2219,8 @@ http://pcjatv.com:8080/Kerry/Kerry/28822
 http://plus-tv.us:8080/live/2943/2943/15351.ts
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_MOVIES.png" group-title="28- PREMIUM LATINO",Fox Movies (7)
 http://cdn.miip.tv:8080/canada/123456/137
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_MOVIES.png" group-title="28- PREMIUM LATINO",Fox Movies (8)
+http://latiniptv.vip:8008/live/12345/12345/103196.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_SERIES.png" group-title="28- PREMIUM LATINO",Fox Series (1)
 http://pcjatv.com:8080/demo/demo/28824
@@ -2219,6 +2251,8 @@ http://pcjatv.com:8080/Kerry/Kerry/28829
 http://plus-tv.us:8080/live/2943/2943/15357.ts
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="28- PREMIUM LATINO",Fx (7)
 http://cdn.miip.tv:8080/canada/123456/3655
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="28- PREMIUM LATINO",Fx (8)
+http://latiniptv.vip:8008/live/12345/12345/115910.rtmp
 
 #EXTINF:-1 tvg-logo="http://cdd657a867bca3d5084e-b68367b7dbe633942cc09bdd6fb9eaea.r58.cf2.rackcdn.com/fxmoviechannel.png" group-title="28- PREMIUM LATINO",Fxm (2)
 http://plus-tv.us:8080/live/0944/0944/15358.ts
@@ -2226,9 +2260,13 @@ http://plus-tv.us:8080/live/0944/0944/15358.ts
 http://links.iptvlogin.com:8080/live/808080/808080/31459.ts
 #EXTINF:-1 tvg-logo="http://cdd657a867bca3d5084e-b68367b7dbe633942cc09bdd6fb9eaea.r58.cf2.rackcdn.com/fxmoviechannel.png" group-title="28- PREMIUM LATINO",Fxm (6)
 http://plus-tv.us:8080/live/2943/2943/15358.ts
+#EXTINF:-1 tvg-logo="http://cdd657a867bca3d5084e-b68367b7dbe633942cc09bdd6fb9eaea.r58.cf2.rackcdn.com/fxmoviechannel.png" group-title="28- PREMIUM LATINO",Fxm (8)
+http://latiniptv.vip:8008/live/12345/12345/115903.rtmp
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-JnaRqfsfRf0/VVJ222hRX7I/AAAAAAAAAbw/svcXPJkGr5E/s1600/golden.png" group-title="28- PREMIUM LATINO",Golden (7)
 http://cdn.miip.tv:8080/canada/123456/116
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-JnaRqfsfRf0/VVJ222hRX7I/AAAAAAAAAbw/svcXPJkGr5E/s1600/golden.png" group-title="28- PREMIUM LATINO",Golden (8)
+http://latiniptv.vip:8008/live/12345/12345/103201.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_golden-edge_m.png" group-title="28- PREMIUM LATINO",Golden Edge (2)
 http://plus-tv.us:8080/live/0944/0944/15362.ts
@@ -2236,6 +2274,8 @@ http://plus-tv.us:8080/live/0944/0944/15362.ts
 http://links.iptvlogin.com:8080/live/808080/808080/31464.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_golden-edge_m.png" group-title="28- PREMIUM LATINO",Golden Edge (6)
 http://plus-tv.us:8080/live/2943/2943/15362.ts
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_golden-edge_m.png" group-title="28- PREMIUM LATINO",Golden Edge (8)
+http://latiniptv.vip:8008/live/12345/12345/115774.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/cine/g-plus.png" group-title="28- PREMIUM LATINO",Golden Plus (1)
 http://pcjatv.com:8080/demo/demo/28835
@@ -2253,6 +2293,8 @@ http://pcjatv.com:8080/Kerry/Kerry/28836
 http://cdn.miip.tv:8080/canada/123456/117
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/cine/g-plus.png" group-title="28- PREMIUM LATINO",Golden Plus (7)
 http://cdn.miip.tv:8080/canada/123456/118
+#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/cine/g-plus.png" group-title="28- PREMIUM LATINO",Golden Plus (8)
+http://latiniptv.vip:8008/live/12345/12345/115771.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2017/07/golden_03.png" group-title="28- PREMIUM LATINO",Golden Premier (1)
 http://pcjatv.com:8080/demo/demo/28834
@@ -2275,6 +2317,8 @@ http://plus-tv.us:8080/live/0944/0944/15366.ts
 http://plus-tv.us:8080/live/2943/2943/15366.ts
 #EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_es/tag/h/hbo/hbo_8m2v.1200.jpg" group-title="28- PREMIUM LATINO",Hbo (7)
 http://cdn.miip.tv:8080/canada/123456/133
+#EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_es/tag/h/hbo/hbo_8m2v.1200.jpg" group-title="28- PREMIUM LATINO",Hbo (8)
+http://latiniptv.vip:8008/live/12345/12345/103248.rtmp
 
 #EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="28- PREMIUM LATINO",Hbo 2 (1)
 http://pcjatv.com:8080/demo/demo/28850
@@ -2295,9 +2339,13 @@ http://plus-tv.us:8080/live/0944/0944/15368.ts
 http://plus-tv.us:8080/live/2943/2943/15368.ts
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="28- PREMIUM LATINO",Hbo Family (7)
 http://cdn.miip.tv:8080/canada/123456/135
+#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="28- PREMIUM LATINO",Hbo Family (8)
+http://latiniptv.vip:8008/live/12345/12345/57661.rtmp
 
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/hbomundiGris_Enero20v2.png" group-title="28- PREMIUM LATINO",Hbo Mundi (7)
 http://cdn.miip.tv:8080/canada/123456/488
+#EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/hbomundiGris_Enero20v2.png" group-title="28- PREMIUM LATINO",Hbo Mundi (8)
+http://latiniptv.vip:8008/live/12345/12345/115955.rtmp
 
 #EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="28- PREMIUM LATINO",Hbo Plus (1)
 http://pcjatv.com:8080/demo/demo/28851
@@ -2311,6 +2359,8 @@ http://pcjatv.com:8080/Kerry/Kerry/28851
 http://plus-tv.us:8080/live/2943/2943/15370.ts
 #EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="28- PREMIUM LATINO",Hbo Plus (7)
 http://cdn.miip.tv:8080/canada/123456/136
+#EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="28- PREMIUM LATINO",Hbo Plus (8)
+http://latiniptv.vip:8008/live/12345/12345/115984.rtmp
 
 #EXTINF:-1 tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012533/0000_all_l_hboall-HBO-POP-Black.png" group-title="28- PREMIUM LATINO",Hbo Pop (2)
 http://plus-tv.us:8080/live/0944/0944/15379.ts
@@ -2318,6 +2368,8 @@ http://plus-tv.us:8080/live/0944/0944/15379.ts
 http://plus-tv.us:8080/live/2943/2943/15379.ts
 #EXTINF:-1 tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012533/0000_all_l_hboall-HBO-POP-Black.png" group-title="28- PREMIUM LATINO",Hbo Pop (7)
 http://cdn.miip.tv:8080/canada/123456/490
+#EXTINF:-1 tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012533/0000_all_l_hboall-HBO-POP-Black.png" group-title="28- PREMIUM LATINO",Hbo Pop (8)
+http://latiniptv.vip:8008/live/12345/12345/103205.rtmp
 
 #EXTINF:-1 tvg-logo="https://operadores.hbo-la.tv/img/layout/logos/hbosignature.png" group-title="28- PREMIUM LATINO",Hbo Signature (2)
 http://plus-tv.us:8080/live/0944/0944/15371.ts
@@ -2325,6 +2377,8 @@ http://plus-tv.us:8080/live/0944/0944/15371.ts
 http://plus-tv.us:8080/live/2943/2943/15371.ts
 #EXTINF:-1 tvg-logo="https://operadores.hbo-la.tv/img/layout/logos/hbosignature.png" group-title="28- PREMIUM LATINO",Hbo Signature (7)
 http://cdn.miip.tv:8080/canada/123456/3534
+#EXTINF:-1 tvg-logo="https://operadores.hbo-la.tv/img/layout/logos/hbosignature.png" group-title="28- PREMIUM LATINO",Hbo Signature (8)
+http://latiniptv.vip:8008/live/12345/12345/103206.rtmp
 
 #EXTINF:-1 tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012553/0000_all_l_hboall-HBO-XTREME-Black.png" group-title="28- PREMIUM LATINO",Hbo Xtreme (1)
 http://pcjatv.com:8080/demo/demo/28861
@@ -2338,9 +2392,11 @@ http://pcjatv.com:8080/Kerry/Kerry/28861
 http://plus-tv.us:8080/live/2943/2943/15378.ts
 #EXTINF:-1 tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012553/0000_all_l_hboall-HBO-XTREME-Black.png" group-title="28- PREMIUM LATINO",Hbo Xtreme (7)
 http://cdn.miip.tv:8080/canada/123456/489
+#EXTINF:-1 tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012553/0000_all_l_hboall-HBO-XTREME-Black.png" group-title="28- PREMIUM LATINO",Hbo Xtreme (8)
+http://latiniptv.vip:8008/live/12345/12345/115956.rtmp
 
-#EXTINF:-1 tvg-logo="http://ps.vimeo.com.s3.amazonaws.com/962/96284_300.jpg" group-title="28- PREMIUM LATINO",I Sat
-
+#EXTINF:-1 tvg-logo="http://ps.vimeo.com.s3.amazonaws.com/962/96284_300.jpg" group-title="28- PREMIUM LATINO",I Sat (8)
+http://latiniptv.vip:8008/live/12345/12345/115952.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/multipremier-logo-01.png" group-title="28- PREMIUM LATINO",Multipremier
 
@@ -2353,6 +2409,8 @@ http://pcjatv.com:8080/tyrone/tyrone/28901
 http://pcjatv.com:8080/Kerry/Kerry/28901
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_paramount-channel_m.png" group-title="28- PREMIUM LATINO",Paramount (7)
 http://cdn.miip.tv:8080/canada/123456/413
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_paramount-channel_m.png" group-title="28- PREMIUM LATINO",Paramount (8)
+http://latiniptv.vip:8008/live/12345/12345/115963.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/showtime-2-logo-png-transparent.png" group-title="28- PREMIUM LATINO",Showtime (2)
 http://plus-tv.us:8080/live/0944/0944/15393.ts
@@ -2371,6 +2429,8 @@ http://pcjatv.com:8080/Kerry/Kerry/28910
 http://plus-tv.us:8080/live/2943/2943/15394.ts
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="28- PREMIUM LATINO",Sony (7)
 http://cdn.miip.tv:8080/canada/123456/412
+#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="28- PREMIUM LATINO",Sony (8)
+http://latiniptv.vip:8008/live/12345/12345/115888.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="28- PREMIUM LATINO",Space (1)
 http://pcjatv.com:8080/demo/demo/28911
@@ -2384,6 +2444,8 @@ http://pcjatv.com:8080/Kerry/Kerry/28911
 http://plus-tv.us:8080/live/2943/2943/15395.ts
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="28- PREMIUM LATINO",Space (7)
 http://cdn.miip.tv:8080/canada/123456/411
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="28- PREMIUM LATINO",Space (8)
+http://latiniptv.vip:8008/live/12345/12345/103212.rtmp
 
 #EXTINF:-1 tvg-logo="https://television.mxdwn.com/wp-content/uploads/2016/03/mxdwn_starz.png" group-title="28- PREMIUM LATINO",Starz (1)
 http://pcjatv.com:8080/demo/demo/28915
@@ -2430,6 +2492,8 @@ http://plus-tv.us:8080/live/0944/0944/15398.ts
 http://plus-tv.us:8080/live/2943/2943/15398.ts
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="28- PREMIUM LATINO",Studio Universal (7)
 http://cdn.miip.tv:8080/canada/123456/170
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="28- PREMIUM LATINO",Studio Universal (8)
+http://latiniptv.vip:8008/live/12345/12345/115967.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="28- PREMIUM LATINO",Syfy (1)
 http://pcjatv.com:8080/demo/demo/28929
@@ -2443,6 +2507,8 @@ http://pcjatv.com:8080/Kerry/Kerry/28929
 http://plus-tv.us:8080/live/2943/2943/15400.ts
 #EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="28- PREMIUM LATINO",Syfy (7)
 http://cdn.miip.tv:8080/canada/123456/3679
+#EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="28- PREMIUM LATINO",Syfy (8)
+http://latiniptv.vip:8008/live/12345/12345/115968.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.graphis.com/media/uploads/cfe/entry/0c396b4d-8379-4797-ab9b-0c9cc41b19d4/tbs_logo.png" group-title="28- PREMIUM LATINO",Tbs (1)
 http://pcjatv.com:8080/demo/demo/28930
@@ -2458,6 +2524,8 @@ http://pcjatv.com:8080/Kerry/Kerry/28930
 http://plus-tv.us:8080/live/2943/2943/15401.ts
 #EXTINF:-1 tvg-logo="http://www.graphis.com/media/uploads/cfe/entry/0c396b4d-8379-4797-ab9b-0c9cc41b19d4/tbs_logo.png" group-title="28- PREMIUM LATINO",Tbs (7)
 http://cdn.miip.tv:8080/canada/123456/218
+#EXTINF:-1 tvg-logo="http://www.graphis.com/media/uploads/cfe/entry/0c396b4d-8379-4797-ab9b-0c9cc41b19d4/tbs_logo.png" group-title="28- PREMIUM LATINO",Tbs (8)
+http://latiniptv.vip:8008/live/12345/12345/115969.rtmp
 
 #EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="28- PREMIUM LATINO",Tcm (1)
 http://pcjatv.com:8080/demo/demo/28931
@@ -2469,6 +2537,8 @@ http://pcjatv.com:8080/tyrone/tyrone/28931
 http://pcjatv.com:8080/Kerry/Kerry/28931
 #EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="28- PREMIUM LATINO",Tcm (6)
 http://plus-tv.us:8080/live/2943/2943/15402.ts
+#EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="28- PREMIUM LATINO",Tcm (8)
+http://latiniptv.vip:8008/live/12345/12345/115779.rtmp
 
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="28- PREMIUM LATINO",Tnt (2)
 http://plus-tv.us:8080/live/0944/0944/15407.ts
@@ -2476,6 +2546,8 @@ http://plus-tv.us:8080/live/0944/0944/15407.ts
 http://plus-tv.us:8080/live/2943/2943/15407.ts
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="28- PREMIUM LATINO",Tnt (7)
 http://cdn.miip.tv:8080/canada/123456/3657
+#EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="28- PREMIUM LATINO",Tnt (8)
+http://latiniptv.vip:8008/live/12345/12345/116031.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="28- PREMIUM LATINO",Tnt Series (1)
 http://pcjatv.com:8080/demo/demo/28946
@@ -2493,6 +2565,8 @@ http://pcjatv.com:8080/Kerry/Kerry/28947
 http://plus-tv.us:8080/live/2943/2943/15408.ts
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="28- PREMIUM LATINO",Tnt Series (7)
 http://cdn.miip.tv:8080/canada/123456/61
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="28- PREMIUM LATINO",Tnt Series (8)
+http://latiniptv.vip:8008/live/12345/12345/103307.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="28- PREMIUM LATINO",Universal Channel (1)
 http://pcjatv.com:8080/demo/demo/28878
@@ -2506,6 +2580,8 @@ http://pcjatv.com:8080/Kerry/Kerry/28878
 http://plus-tv.us:8080/live/2943/2943/15426.ts
 #EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="28- PREMIUM LATINO",Universal Channel (7)
 http://cdn.miip.tv:8080/canada/123456/66
+#EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="28- PREMIUM LATINO",Universal Channel (8)
+http://latiniptv.vip:8008/live/12345/12345/115791.rtmp
 
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="28- PREMIUM LATINO",Warner Channel (1)
 http://pcjatv.com:8080/demo/demo/28979
@@ -2519,6 +2595,8 @@ http://pcjatv.com:8080/tyrone/tyrone/28979
 http://pcjatv.com:8080/Kerry/Kerry/28979
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="28- PREMIUM LATINO",Warner Channel (6)
 http://plus-tv.us:8080/live/2943/2943/15429.ts
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="28- PREMIUM LATINO",Warner Channel (8)
+http://latiniptv.vip:8008/live/12345/12345/103222.rtmp
 
 #######################################################################################################################################################################################
 #######################################
