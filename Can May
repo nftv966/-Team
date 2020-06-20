@@ -1994,6 +1994,10 @@ http://plus-tv.us:8080/live/2943/2943/15293.ts
 http://cdn.miip.tv:8080/canada/123456/439
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="28- PREMIUM LATINO",Axn (8)
 http://latiniptv.vip:8008/live/12345/12345/115892.rtmp
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="28- PREMIUM LATINO",Axn alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12366
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="28- PREMIUM LATINO",Axn alt2
+http://sudaka.sytes.net:25461/moises/moises/12366
 
 #EXTINF:-1 tvg-logo="http://comcab.mx/images/canales/comcab-cinecanal.png" group-title="28- PREMIUM LATINO",Cinecanal (1)
 http://pcjatv.com:8080/demo/demo/28761
@@ -2009,6 +2013,10 @@ http://pcjatv.com:8080/Kerry/Kerry/28761
 http://plus-tv.us:8080/live/2943/2943/15312.ts
 #EXTINF:-1 tvg-logo="http://comcab.mx/images/canales/comcab-cinecanal.png" group-title="28- PREMIUM LATINO",Cinecanal (8)
 http://latiniptv.vip:8008/live/12345/12345/103290.rtmp
+#EXTINF:-1 tvg-logo="http://comcab.mx/images/canales/comcab-cinecanal.png" group-title="28- PREMIUM LATINO",Cinecanal alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12313
+#EXTINF:-1 tvg-logo="http://comcab.mx/images/canales/comcab-cinecanal.png" group-title="28- PREMIUM LATINO",Cinecanal alt2
+http://sudaka.sytes.net:25461/moises/moises/12313
 
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/12/52a34-cl.png" group-title="28- PREMIUM LATINO",Cine Latino (1)
 http://pcjatv.com:8080/demo/demo/28763
@@ -2050,6 +2058,10 @@ http://plus-tv.us:8080/live/2943/2943/15314.ts
 http://cdn.miip.tv:8080/canada/123456/3716
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="28- PREMIUM LATINO",Cinemax (8)
 http://latiniptv.vip:8008/live/12345/12345/103188.rtmp
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="28- PREMIUM LATINO",Cinemax alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12359
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="28- PREMIUM LATINO",Cinemax alt2
+http://sudaka.sytes.net:25461/moises/moises/12359
 
 #EXTINF:-1 tvg-logo="http://newprinter.com.ar/wp-content/uploads/2019/02/claro-pb-logo-vector-400x400.png" group-title="28- PREMIUM LATINO",Claro Cinema_OFF_
 http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
@@ -2120,6 +2132,10 @@ http://plus-tv.us:8080/live/2943/2943/15345.ts
 http://cdn.miip.tv:8080/canada/123456/141
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="28- PREMIUM LATINO",Fox (8)
 http://latiniptv.vip:8008/live/12345/12345/115790.rtmp
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="28- PREMIUM LATINO",Fox alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12343
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="28- PREMIUM LATINO",Fox alt2
+http://sudaka.sytes.net:25461/moises/moises/12343
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_ACTION.png" group-title="28- PREMIUM LATINO",Fox Action (1)
 http://pcjatv.com:8080/demo/demo/28814
@@ -2137,6 +2153,10 @@ http://plus-tv.us:8080/live/2943/2943/15346.ts
 http://cdn.miip.tv:8080/canada/123456/132
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_ACTION.png" group-title="28- PREMIUM LATINO",Fox Action (8)
 http://latiniptv.vip:8008/live/12345/12345/115904.rtmp
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_ACTION.png" group-title="28- PREMIUM LATINO",Fox Action alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12346
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_ACTION.png" group-title="28- PREMIUM LATINO",Fox Action alt2
+http://sudaka.sytes.net:25461/moises/moises/12346
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_CLASSIC.png" group-title="28- PREMIUM LATINO",Fox Classics (1)
 http://pcjatv.com:8080/demo/demo/28816
@@ -2204,6 +2224,10 @@ http://plus-tv.us:8080/live/2943/2943/15350.ts
 http://cdn.miip.tv:8080/canada/123456/139
 #EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="28- PREMIUM LATINO",Fox Life (8)
 http://latiniptv.vip:8008/live/12345/12345/115988.rtmp
+#EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="28- PREMIUM LATINO",Fox Life alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12344
+#EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="28- PREMIUM LATINO",Fox Life alt2
+http://sudaka.sytes.net:25461/moises/moises/12344
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_MOVIES.png" group-title="28- PREMIUM LATINO",Fox Movies (1)
 http://pcjatv.com:8080/demo/demo/28822
@@ -2221,6 +2245,10 @@ http://plus-tv.us:8080/live/2943/2943/15351.ts
 http://cdn.miip.tv:8080/canada/123456/137
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_MOVIES.png" group-title="28- PREMIUM LATINO",Fox Movies (8)
 http://latiniptv.vip:8008/live/12345/12345/103196.rtmp
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_MOVIES.png" group-title="28- PREMIUM LATINO",Fox Movies alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12342
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_MOVIES.png" group-title="28- PREMIUM LATINO",Fox Movies alt2
+http://sudaka.sytes.net:25461/moises/moises/12342
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_SERIES.png" group-title="28- PREMIUM LATINO",Fox Series (1)
 http://pcjatv.com:8080/demo/demo/28824
@@ -2236,6 +2264,10 @@ http://pcjatv.com:8080/Kerry/Kerry/28824
 http://plus-tv.us:8080/live/2943/2943/15352.ts
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_SERIES.png" group-title="28- PREMIUM LATINO",Fox Series (7)
 http://cdn.miip.tv:8080/canada/123456/138
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_SERIES.png" group-title="28- PREMIUM LATINO",Fox Series alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12345
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_SERIES.png" group-title="28- PREMIUM LATINO",Fox Series alt2
+http://sudaka.sytes.net:25461/moises/moises/12345
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="28- PREMIUM LATINO",Fx (1)
 http://pcjatv.com:8080/demo/demo/28829
@@ -2253,6 +2285,10 @@ http://plus-tv.us:8080/live/2943/2943/15357.ts
 http://cdn.miip.tv:8080/canada/123456/3655
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="28- PREMIUM LATINO",Fx (8)
 http://latiniptv.vip:8008/live/12345/12345/115910.rtmp
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="28- PREMIUM LATINO",Fx alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12337
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="28- PREMIUM LATINO",Fx alt2
+http://sudaka.sytes.net:25461/moises/moises/12337
 
 #EXTINF:-1 tvg-logo="http://cdd657a867bca3d5084e-b68367b7dbe633942cc09bdd6fb9eaea.r58.cf2.rackcdn.com/fxmoviechannel.png" group-title="28- PREMIUM LATINO",Fxm (2)
 http://plus-tv.us:8080/live/0944/0944/15358.ts
@@ -2262,6 +2298,10 @@ http://links.iptvlogin.com:8080/live/808080/808080/31459.ts
 http://plus-tv.us:8080/live/2943/2943/15358.ts
 #EXTINF:-1 tvg-logo="http://cdd657a867bca3d5084e-b68367b7dbe633942cc09bdd6fb9eaea.r58.cf2.rackcdn.com/fxmoviechannel.png" group-title="28- PREMIUM LATINO",Fxm (8)
 http://latiniptv.vip:8008/live/12345/12345/115903.rtmp
+#EXTINF:-1 tvg-logo="http://cdd657a867bca3d5084e-b68367b7dbe633942cc09bdd6fb9eaea.r58.cf2.rackcdn.com/fxmoviechannel.png" group-title="28- PREMIUM LATINO",Fxm alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12336
+#EXTINF:-1 tvg-logo="http://cdd657a867bca3d5084e-b68367b7dbe633942cc09bdd6fb9eaea.r58.cf2.rackcdn.com/fxmoviechannel.png" group-title="28- PREMIUM LATINO",Fxm alt2
+http://sudaka.sytes.net:25461/moises/moises/12336
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-JnaRqfsfRf0/VVJ222hRX7I/AAAAAAAAAbw/svcXPJkGr5E/s1600/golden.png" group-title="28- PREMIUM LATINO",Golden (7)
 http://cdn.miip.tv:8080/canada/123456/116
@@ -2319,6 +2359,10 @@ http://plus-tv.us:8080/live/2943/2943/15366.ts
 http://cdn.miip.tv:8080/canada/123456/133
 #EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_es/tag/h/hbo/hbo_8m2v.1200.jpg" group-title="28- PREMIUM LATINO",Hbo (8)
 http://latiniptv.vip:8008/live/12345/12345/103248.rtmp
+#EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_es/tag/h/hbo/hbo_8m2v.1200.jpg" group-title="28- PREMIUM LATINO",Hbo alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12306
+#EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_es/tag/h/hbo/hbo_8m2v.1200.jpg" group-title="28- PREMIUM LATINO",Hbo alt2
+http://sudaka.sytes.net:25461/moises/moises/12306
 
 #EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="28- PREMIUM LATINO",Hbo 2 (1)
 http://pcjatv.com:8080/demo/demo/28850
@@ -2332,6 +2376,10 @@ http://pcjatv.com:8080/Kerry/Kerry/28850
 http://plus-tv.us:8080/live/2943/2943/15367.ts
 #EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="28- PREMIUM LATINO",Hbo 2 (7)
 http://cdn.miip.tv:8080/canada/123456/134
+#EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="28- PREMIUM LATINO",Hbo 2 alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12334
+#EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="28- PREMIUM LATINO",Hbo 2 alt2
+http://sudaka.sytes.net:25461/moises/moises/12334
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="28- PREMIUM LATINO",Hbo Family (2)
 http://plus-tv.us:8080/live/0944/0944/15368.ts
@@ -2341,6 +2389,10 @@ http://plus-tv.us:8080/live/2943/2943/15368.ts
 http://cdn.miip.tv:8080/canada/123456/135
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="28- PREMIUM LATINO",Hbo Family (8)
 http://latiniptv.vip:8008/live/12345/12345/57661.rtmp
+#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="28- PREMIUM LATINO",Hbo Family alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12333
+#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="28- PREMIUM LATINO",Hbo Family alt2
+http://sudaka.sytes.net:25461/moises/moises/12333
 
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/hbomundiGris_Enero20v2.png" group-title="28- PREMIUM LATINO",Hbo Mundi (7)
 http://cdn.miip.tv:8080/canada/123456/488
@@ -2361,6 +2413,10 @@ http://plus-tv.us:8080/live/2943/2943/15370.ts
 http://cdn.miip.tv:8080/canada/123456/136
 #EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="28- PREMIUM LATINO",Hbo Plus (8)
 http://latiniptv.vip:8008/live/12345/12345/115984.rtmp
+#EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="28- PREMIUM LATINO",Hbo Plus alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12330
+#EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="28- PREMIUM LATINO",Hbo Plus alt2
+http://sudaka.sytes.net:25461/moises/moises/12330
 
 #EXTINF:-1 tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012533/0000_all_l_hboall-HBO-POP-Black.png" group-title="28- PREMIUM LATINO",Hbo Pop (2)
 http://plus-tv.us:8080/live/0944/0944/15379.ts
@@ -2394,12 +2450,18 @@ http://plus-tv.us:8080/live/2943/2943/15378.ts
 http://cdn.miip.tv:8080/canada/123456/489
 #EXTINF:-1 tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012553/0000_all_l_hboall-HBO-XTREME-Black.png" group-title="28- PREMIUM LATINO",Hbo Xtreme (8)
 http://latiniptv.vip:8008/live/12345/12345/115956.rtmp
+#EXTINF:-1 tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012553/0000_all_l_hboall-HBO-XTREME-Black.png" group-title="28- PREMIUM LATINO",Hbo Xtreme alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12328
+#EXTINF:-1 tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012553/0000_all_l_hboall-HBO-XTREME-Black.png" group-title="28- PREMIUM LATINO",Hbo Xtreme alt2
+http://sudaka.sytes.net:25461/moises/moises/12328
 
 #EXTINF:-1 tvg-logo="http://ps.vimeo.com.s3.amazonaws.com/962/96284_300.jpg" group-title="28- PREMIUM LATINO",I Sat (8)
 http://latiniptv.vip:8008/live/12345/12345/115952.rtmp
 
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/multipremier-logo-01.png" group-title="28- PREMIUM LATINO",Multipremier
-
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/multipremier-logo-01.png" group-title="28- PREMIUM LATINO",Multipremier alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12288
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/multipremier-logo-01.png" group-title="28- PREMIUM LATINO",Multipremier alt2
+http://sudaka.sytes.net:25461/moises/moises/12288
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_paramount-channel_m.png" group-title="28- PREMIUM LATINO",Paramount (1)
 http://pcjatv.com:8080/demo/demo/28901
@@ -2431,6 +2493,10 @@ http://plus-tv.us:8080/live/2943/2943/15394.ts
 http://cdn.miip.tv:8080/canada/123456/412
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="28- PREMIUM LATINO",Sony (8)
 http://latiniptv.vip:8008/live/12345/12345/115888.rtmp
+#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="28- PREMIUM LATINO",Sony alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12323
+#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="28- PREMIUM LATINO",Sony alt2
+http://sudaka.sytes.net:25461/moises/moises/12323
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="28- PREMIUM LATINO",Space (1)
 http://pcjatv.com:8080/demo/demo/28911
@@ -2446,6 +2512,10 @@ http://plus-tv.us:8080/live/2943/2943/15395.ts
 http://cdn.miip.tv:8080/canada/123456/411
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="28- PREMIUM LATINO",Space (8)
 http://latiniptv.vip:8008/live/12345/12345/103212.rtmp
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="28- PREMIUM LATINO",Space alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12318
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="28- PREMIUM LATINO",Space alt2
+http://sudaka.sytes.net:25461/moises/moises/12318
 
 #EXTINF:-1 tvg-logo="https://television.mxdwn.com/wp-content/uploads/2016/03/mxdwn_starz.png" group-title="28- PREMIUM LATINO",Starz (1)
 http://pcjatv.com:8080/demo/demo/28915
@@ -2494,6 +2564,10 @@ http://plus-tv.us:8080/live/2943/2943/15398.ts
 http://cdn.miip.tv:8080/canada/123456/170
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="28- PREMIUM LATINO",Studio Universal (8)
 http://latiniptv.vip:8008/live/12345/12345/115967.rtmp
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="28- PREMIUM LATINO",Studio Universal alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12301
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="28- PREMIUM LATINO",Studio Universal alt2
+http://sudaka.sytes.net:25461/moises/moises/12301
 
 #EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="28- PREMIUM LATINO",Syfy (1)
 http://pcjatv.com:8080/demo/demo/28929
@@ -2509,6 +2583,10 @@ http://plus-tv.us:8080/live/2943/2943/15400.ts
 http://cdn.miip.tv:8080/canada/123456/3679
 #EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="28- PREMIUM LATINO",Syfy (8)
 http://latiniptv.vip:8008/live/12345/12345/115968.rtmp
+#EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="28- PREMIUM LATINO",Syfy alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12300
+#EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="28- PREMIUM LATINO",Syfy alt2
+http://sudaka.sytes.net:25461/moises/moises/12300
 
 #EXTINF:-1 tvg-logo="http://www.graphis.com/media/uploads/cfe/entry/0c396b4d-8379-4797-ab9b-0c9cc41b19d4/tbs_logo.png" group-title="28- PREMIUM LATINO",Tbs (1)
 http://pcjatv.com:8080/demo/demo/28930
@@ -2539,6 +2617,10 @@ http://pcjatv.com:8080/Kerry/Kerry/28931
 http://plus-tv.us:8080/live/2943/2943/15402.ts
 #EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="28- PREMIUM LATINO",Tcm (8)
 http://latiniptv.vip:8008/live/12345/12345/115779.rtmp
+#EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="28- PREMIUM LATINO",Tcm alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12319
+#EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="28- PREMIUM LATINO",Tcm alt2
+http://sudaka.sytes.net:25461/moises/moises/12319
 
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="28- PREMIUM LATINO",Tnt (2)
 http://plus-tv.us:8080/live/0944/0944/15407.ts
@@ -2548,6 +2630,10 @@ http://plus-tv.us:8080/live/2943/2943/15407.ts
 http://cdn.miip.tv:8080/canada/123456/3657
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="28- PREMIUM LATINO",Tnt (8)
 http://latiniptv.vip:8008/live/12345/12345/116031.rtmp
+#EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="28- PREMIUM LATINO",Tnt alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12317
+#EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="28- PREMIUM LATINO",Tnt alt2
+http://sudaka.sytes.net:25461/moises/moises/12317
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="28- PREMIUM LATINO",Tnt Series (1)
 http://pcjatv.com:8080/demo/demo/28946
@@ -2582,6 +2668,10 @@ http://plus-tv.us:8080/live/2943/2943/15426.ts
 http://cdn.miip.tv:8080/canada/123456/66
 #EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="28- PREMIUM LATINO",Universal Channel (8)
 http://latiniptv.vip:8008/live/12345/12345/115791.rtmp
+#EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="28- PREMIUM LATINO",Universal Channel alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12384
+#EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="28- PREMIUM LATINO",Universal Channel alt2
+http://sudaka.sytes.net:25461/moises/moises/12384
 
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="28- PREMIUM LATINO",Warner Channel (1)
 http://pcjatv.com:8080/demo/demo/28979
@@ -2597,6 +2687,10 @@ http://pcjatv.com:8080/Kerry/Kerry/28979
 http://plus-tv.us:8080/live/2943/2943/15429.ts
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="28- PREMIUM LATINO",Warner Channel (8)
 http://latiniptv.vip:8008/live/12345/12345/103222.rtmp
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="28- PREMIUM LATINO",Warner Channel alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12315
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="28- PREMIUM LATINO",Warner Channel alt2
+http://sudaka.sytes.net:25461/moises/moises/12315
 
 #######################################################################################################################################################################################
 #######################################
