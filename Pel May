@@ -949,6 +949,46 @@ http://144.217.77.218/budtv/PELICULAS/2019/enero/th3.0ld.m4n.4nd.th3.gun.2018.la
 http://144.217.77.218/budtv/PELICULAS/2019/enero/th3.m1r4cl3.s34s0n.2018.latino.mp4
 
 
+
+####################################### LATINO NR
+#EXTINF:-1 tvg-logo="https://ibericalanguages.com/wp-content/uploads/2014/10/banderas-hispanidad.jpg" group-title="02-LATINO NR",02-LATINO NR
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/25/14/18/1589482.jpg" group-title="02-LATINO NR",Men in Black: International HD
+http://95.217.40.123/peliculas/08/MIB4HD.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/25/14/18/1589482.jpg" group-title="02-LATINO NR",Men in Black: International SD
+http://95.217.40.123/peliculas/08/MIB4SD.mkv
+#EXTINF:-1 tvg-logo="https://www.ecartelera.com/carteles/14100/14114/003_p.jpg" group-title="02-LATINO NR",Más allá de la esperanza HD
+http://95.217.40.123/peliculas/08/BreakthroughHD.mkv
+#EXTINF:-1 tvg-logo="https://www.ecartelera.com/carteles/14100/14114/003_p.jpg" group-title="02-LATINO NR",Más allá de la esperanza SD
+http://95.217.40.123/peliculas/08/BreakthroughSD.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/05/14/11/36/1079776.jpg" group-title="02-LATINO NR",Angry Birds 2
+http://95.217.40.123/peliculas/08/4ngry.b1rds.2.2019.r4lph.ts.latino.mp4
+#EXTINF:-1 tvg-logo="https://cd.cinescape.com.pe/cinescape-325x457-285581.jpg" group-title="02-LATINO NR",Dulce Familia HD
+http://95.217.40.123/peliculas/08/Dulce.FamiliaHD.mkv
+#EXTINF:-1 tvg-logo="https://assets.cinepolisklic.com/cmsklicia/movieimages/dora-y-la-ciudad-perdida/poster_resize_192X288.jpg" group-title="02-LATINO NR",Dora y la ciudad perdida TS
+http://95.217.40.123/peliculas/08/Dora.And.The.Lost.City.of.Gold.mp4
+#EXTINF:-1 tvg-logo="https://peliculas-elazca.website/wp-content/uploads/2019/08/la-vida-moderna-de-rocko-cambio-de-chip_81091977-1.jpg" group-title="02-LATINO NR",Rocko's Modern Life: Static Cling HD
+http://95.217.40.123/peliculas/08/Rockos.Modern.Life.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/12/15/02/0137335.jpg" group-title="02-LATINO NR",UglyDolls: Extraordinariamente Feos
+http://95.217.40.123/peliculas/08/UglyDollsHD.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/12/15/02/0137335.jpg" group-title="02-LATINO NR",UglyDolls: Extraordinariamente Feos SD
+http://95.217.40.123/peliculas/08/UglyDollsSD.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/10/26/08/50/198471.jpg" group-title="02-LATINO NR",John Wick: Pacto de sangre 4K
+http://95.217.40.123/HDR/johnwick2.mkv
+#EXTINF:-1 tvg-logo="https://www.cine.com/peliculas3/77890/77890_0.jpg" group-title="02-LATINO NR",Shazam 4K
+http://95.217.40.123/HDR/shazam.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51mhh27fP7L._SY445_.jpg" group-title="02-LATINO NR",Hancock HD
+http://95.217.40.123/smart01/backup16tb/home3/Hancock.mp4
+
+
+
+
+
+
+
 ####################################### BRASIL
 #EXTINF:-1 tvg-logo="https://www.banderas-mundo.es/data/flags/ultra/br.png" group-title="03-BRASIL",03-BRASIL
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
@@ -1409,41 +1449,6 @@ http://webtvcde.com/Filmes/Dublados/Volta/De%20volta%20para%20o%20futuro%201.mkv
 
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/18/04/10/04/46/5013486.jpg" group-title="03-BRASIL",Megatubarao (2018)
 http://webtvcde.com/Filmes/Dublados/Megatubarao.mkv
-
-
-
-
-####################################### LATINO NR
-#EXTINF:-1 tvg-logo="https://ibericalanguages.com/wp-content/uploads/2014/10/banderas-hispanidad.jpg" group-title="LATINO NR",LATINO NR
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-
-
-#EXTINF:-1 tvg-logo="  " group-title="LATINO NR",Men in Black: International HD
-http://95.217.40.123/peliculas/08/MIB4HD.mkv
-#EXTINF:-1 tvg-logo="  " group-title="LATINO NR",Men in Black: International SD
-http://95.217.40.123/peliculas/08/MIB4SD.mkv
-#EXTINF:-1 tvg-logo="  " group-title="LATINO NR",Más allá de la esperanza HD
-http://95.217.40.123/peliculas/08/BreakthroughHD.mkv
-#EXTINF:-1 tvg-logo="  " group-title="LATINO NR",Más allá de la esperanza SD
-http://95.217.40.123/peliculas/08/BreakthroughSD.mkv
-http://95.217.40.123/peliculas/08/4ngry.b1rds.2.2019.r4lph.ts.latino.mp4
-#EXTINF:-1 tvg-logo="  " group-title="LATINO NR",Dulce Familia HD
-http://95.217.40.123/peliculas/08/Dulce.FamiliaHD.mkv
-#EXTINF:-1 tvg-logo="  " group-title="LATINO NR",Dora y la ciudad perdida TS-cam
-http://95.217.40.123/peliculas/08/Dora.And.The.Lost.City.of.Gold.mp4
-#EXTINF:-1 tvg-logo="  " group-title="LATINO NR",Rocko's Modern Life: Static Cling HD
-http://95.217.40.123/peliculas/08/Rockos.Modern.Life.mp4
-#EXTINF:-1 tvg-logo="  " group-title="LATINO NR",UglyDolls: Extraordinariamente Feos
-http://95.217.40.123/peliculas/08/UglyDollsHD.mkv
-#EXTINF:-1 tvg-logo="  " group-title="LATINO NR",UglyDolls: Extraordinariamente Feos SD
-http://95.217.40.123/peliculas/08/UglyDollsSD.mkv
-#EXTINF:-1 tvg-logo="  " group-title="LATINO NR",John Wick: Pacto de sangre 4K HDR
-http://95.217.40.123/HDR/johnwick2.mkv
-#EXTINF:-1 tvg-logo="  " group-title="LATINO NR",¡Shazam 4K HDR
-http://95.217.40.123/HDR/shazam.mkv
-#EXTINF:-1 tvg-logo="  " group-title="LATINO NR",Hancock (HD)
-http://95.217.40.123/smart01/backup16tb/home3/Hancock.mp4
 
 
 
