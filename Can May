@@ -20,6 +20,10 @@ https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 http://links.iptvlogin.com:8080/live/808080/808080/208714.ts
 #EXTINF:-1 tvg-logo="https://futbolhoy.com.ar/wp-content/uploads/2019/03/A24.png" group-title="03- ARGENTINA",A24 (3)
 http://links.iptvlogin.com:8080/live/808080/808080/208715.ts
+#EXTINF:-1 tvg-logo="https://futbolhoy.com.ar/wp-content/uploads/2019/03/A24.png" group-title="03- ARGENTINA",A24 alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12807
+#EXTINF:-1 tvg-logo="https://futbolhoy.com.ar/wp-content/uploads/2019/03/A24.png" group-title="03- ARGENTINA",A24 alt2
+http://sudaka.sytes.net:25461/moises/moises/12807
 
 #EXTINF:-1 tvg-logo="https://www.amsports.com.ar/img/logo-americasports.png" group-title="03- ARGENTINA",America Sports_OFF_
 http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
@@ -28,6 +32,14 @@ http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
 http://links.iptvlogin.com:8080/live/808080/808080/208718.ts
 #EXTINF:-1 tvg-logo="http://www.radionacional.gov.py/wp-content/uploads/2018/04/ar_america-2-capital_m.png" group-title="03- ARGENTINA",America TV (5)
 http://pcjatv.com:8080/Kerry/Kerry/28733
+#EXTINF:-1 tvg-logo="http://www.radionacional.gov.py/wp-content/uploads/2018/04/ar_america-2-capital_m.png" group-title="03- ARGENTINA",America TV alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12811
+#EXTINF:-1 tvg-logo="http://www.radionacional.gov.py/wp-content/uploads/2018/04/ar_america-2-capital_m.png" group-title="03- ARGENTINA",America TV alt2
+http://sudaka.sytes.net:25461/moises/moises/12811
+#EXTINF:-1 tvg-logo="http://www.radionacional.gov.py/wp-content/uploads/2018/04/ar_america-2-capital_m.png" group-title="03- ARGENTINA",America TV alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12812
+#EXTINF:-1 tvg-logo="http://www.radionacional.gov.py/wp-content/uploads/2018/04/ar_america-2-capital_m.png" group-title="03- ARGENTINA",America TV alt2
+http://sudaka.sytes.net:25461/moises/moises/12812
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_argentinisima-satelital_m.png" group-title="03- ARGENTINA",Argentinisima⁻ˢᵈ⁻
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
@@ -51,6 +63,10 @@ http://links.iptvlogin.com:8080/live/808080/808080/208712.ts
 http://links.iptvlogin.com:8080/live/808080/808080/208713.ts
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/9558b-c5n-2017.png" group-title="03- ARGENTINA",C5N (5)
 http://pcjatv.com:8080/Kerry/Kerry/28744
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/9558b-c5n-2017.png" group-title="03- ARGENTINA",C5N alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12818
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/9558b-c5n-2017.png" group-title="03- ARGENTINA",C5N alt2
+http://sudaka.sytes.net:25461/moises/moises/12818
 
 #EXTINF:-1 tvg-logo="https://vivotvhd.com/img/cha/4216.gif" group-title="03- ARGENTINA",Chacra TV⁻ˢᵈ⁻
 http://s8.stweb.tv:1935/chacra/live/chunks.m3u8?IMDSFULL
@@ -110,6 +126,10 @@ http://portal.geniptv.com:8080/Wolnydan/79RV4y5UfT/11328
 http://links.iptvlogin.com:8080/live/808080/808080/208736.ts
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/cronicatv.png" group-title="03- ARGENTINA",Cronica tv (3)
 http://links.iptvlogin.com:8080/live/808080/808080/208737.ts
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/cronicatv.png" group-title="03- ARGENTINA",Cronica tv alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12826
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/cronicatv.png" group-title="03- ARGENTINA",Cronica tv alt2
+http://sudaka.sytes.net:25461/moises/moises/12826
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-garage_m.png" group-title="03- ARGENTINA",El Garage⁻ˢᵈ⁻
 http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8?GrupoTopIptv
@@ -118,6 +138,10 @@ http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8?GrupoTopIptv
 http://portal.geniptv.com:8080/Wolnydan/79RV4y5UfT/11664
 #EXTINF:-1 tvg-logo="http://ipuntotv.com/IMAGES/ElTreceHD2012.jpg" group-title="03- ARGENTINA",El Trece (3)
 http://links.iptvlogin.com:8080/live/808080/808080/208726.ts
+#EXTINF:-1 tvg-logo="http://ipuntotv.com/IMAGES/ElTreceHD2012.jpg" group-title="03- ARGENTINA",El Trece alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12832
+#EXTINF:-1 tvg-logo="http://ipuntotv.com/IMAGES/ElTreceHD2012.jpg" group-title="03- ARGENTINA",El Trece alt2
+http://sudaka.sytes.net:25461/moises/moises/12832
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Encuentro-TV.png" group-title="03- ARGENTINA",Encuentro_OFF_
 http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
@@ -129,6 +153,10 @@ http://streaminglivehd.com:1935/8056/8056/playlist.m3u8
 http://portal.geniptv.com:8080/Wolnydan/79RV4y5UfT/11410
 #EXTINF:-1 tvg-logo="https://directoriolegislativo.org/wp-content/uploads/new/2017/05/ln-default-facebook.jpg" group-title="03- ARGENTINA",La Nacion
 http://flowfhd.xyz:25461/6082/6082/50535
+#EXTINF:-1 tvg-logo="https://directoriolegislativo.org/wp-content/uploads/new/2017/05/ln-default-facebook.jpg" group-title="03- ARGENTINA",La Nacion alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12848
+#EXTINF:-1 tvg-logo="https://directoriolegislativo.org/wp-content/uploads/new/2017/05/ln-default-facebook.jpg" group-title="03- ARGENTINA",La Nacion alt2
+http://sudaka.sytes.net:25461/moises/moises/12848
 
 #EXTINF:-1 tvg-logo="http://www.mundou.edu.ar/img/canales/a1v2ltjc.png" group-title="03- ARGENTINA",Litus⁻ˢᵈ⁻
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8?TEAM IPTV
@@ -148,6 +176,10 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0044
 http://links.iptvlogin.com:8080/live/808080/808080/203251.ts
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Paka-Paka.png" group-title="03- ARGENTINA",Paka Paka (3)
 http://links.iptvlogin.com:8080/live/808080/808080/208733.ts
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Paka-Paka.png" group-title="03- ARGENTINA",Paka Paka alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12817
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Paka-Paka.png" group-title="03- ARGENTINA",Paka Paka alt2
+http://sudaka.sytes.net:25461/moises/moises/12817
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1062355905377910784/DVCprdPS_400x400.jpg" group-title="03- ARGENTINA",RTN Neuquén⁻ˢᵈ⁻
 http://media.neuquen.gov.ar/rtn/television/media.m3u8
@@ -161,11 +193,19 @@ http://www.trimi.com.ar/santa_maria/streaming/mystreamSantaMariaHSMed.m3u8
 http://portal.geniptv.com:8080/Wolnydan/79RV4y5UfT/11227
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="03- ARGENTINA",Telefe (3)
 http://links.iptvlogin.com:8080/live/808080/808080/208725.ts
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="03- ARGENTINA",Telefe alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12859
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="03- ARGENTINA",Telefe alt2
+http://sudaka.sytes.net:25461/moises/moises/12859
 
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/e455d-tlx.png" group-title="03- ARGENTINA",Telemax⁻ˢᵈ⁻
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/e455d-tlx.png" group-title="03- ARGENTINA",Telemax⁻ˢᵈ⁻
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0043
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/e455d-tlx.png" group-title="03- ARGENTINA",Telemax alt1
+http://sudaka.sytes.net:25461/quebec/quebec/5806
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/e455d-tlx.png" group-title="03- ARGENTINA",Telemax alt2
+http://sudaka.sytes.net:25461/moises/moises/5806
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bC2v1sB.png" group-title="03- ARGENTINA",Telpin⁻ˢᵈ⁻
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0083
@@ -181,11 +221,19 @@ http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 http://portal.geniptv.com:8080/Wolnydan/79RV4y5UfT/11408
 #EXTINF:-1 tvg-logo="https://cdn.tn.com.ar/sites/default/files/styles/720x720/public/2018/08/16/tn_vivo1.png" group-title="03- ARGENTINA",TN (3)
 http://links.iptvlogin.com:8080/live/808080/808080/208739.ts
+#EXTINF:-1 tvg-logo="https://cdn.tn.com.ar/sites/default/files/styles/720x720/public/2018/08/16/tn_vivo1.png" group-title="03- ARGENTINA",TN alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12867
+#EXTINF:-1 tvg-logo="https://cdn.tn.com.ar/sites/default/files/styles/720x720/public/2018/08/16/tn_vivo1.png" group-title="03- ARGENTINA",TN alt2
+http://sudaka.sytes.net:25461/moises/moises/12867
 
 #EXTINF:-1 tvg-logo="https://www.baraderoteinforma.com.ar/wp-content/uploads/2019/12/COSAS-Copy-68.jpg" group-title="03- ARGENTINA",Tv Publica
 http://portal.geniptv.com:8080/Wolnydan/79RV4y5UfT/11406
 #EXTINF:-1 tvg-logo="https://www.baraderoteinforma.com.ar/wp-content/uploads/2019/12/COSAS-Copy-68.jpg" group-title="03- ARGENTINA",Tv Publica (5)
 http://pcjatv.com:8080/Kerry/Kerry/28953
+#EXTINF:-1 tvg-logo="https://www.baraderoteinforma.com.ar/wp-content/uploads/2019/12/COSAS-Copy-68.jpg" group-title="03- ARGENTINA",Tv Publica alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12867
+#EXTINF:-1 tvg-logo="https://www.baraderoteinforma.com.ar/wp-content/uploads/2019/12/COSAS-Copy-68.jpg" group-title="03- ARGENTINA",Tv Publica alt2
+http://sudaka.sytes.net:25461/moises/moises/12867
 
 ######################################################################################################################################
 ####################################### ARUBA
@@ -469,6 +517,10 @@ https://stream.vagalume.fm/hls/14647977281792658143/aac.m3u8
 http://links.iptvlogin.com:8080/live/808080/808080/203076.ts
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1105493887714508801/_XSw2yUR_400x400.png" group-title="06- CHILE",24 Horas (3)
 http://links.iptvlogin.com:8080/live/808080/808080/203075.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1105493887714508801/_XSw2yUR_400x400.png" group-title="06- CHILE",24 Horas alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12296
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1105493887714508801/_XSw2yUR_400x400.png" group-title="06- CHILE",24 Horas alt2
+http://sudaka.sytes.net:25461/moises/moises/12296
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m70PUPf.jpg" group-title="06- CHILE",Antofagasta TV⁻ˢᵈ⁻
 http://unlimited1-us.dps.live/atv/atv.smil/atv/livestream2/chunks.m3u8?GrupoTopIptv
@@ -483,6 +535,10 @@ http://links.iptvlogin.com:8080/live/808080/808080/203056.ts
 http://links.iptvlogin.com:8080/live/808080/808080/203061.ts
 #EXTINF:-1 tvg-logo="https://lisa.zapping.live/uploads/canales/color/13cable.jpg" group-title="06- CHILE",Canal 13 (5)
 http://pcjatv.com:8080/Kerry/Kerry/28747
+#EXTINF:-1 tvg-logo="https://lisa.zapping.live/uploads/canales/color/13cable.jpg" group-title="06- CHILE",Canal 13 alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12285
+#EXTINF:-1 tvg-logo="https://lisa.zapping.live/uploads/canales/color/13cable.jpg" group-title="06- CHILE",Canal 13 alt2
+http://sudaka.sytes.net:25461/moises/moises/12285
 
 #EXTINF:-1 tvg-logo="https://elfiltrador.com/wp-content/uploads/2018/10/foto_0000001320180216144941.png" group-title="06- CHILE",Chilevision (3)
 http://links.iptvlogin.com:8080/live/808080/808080/203065.ts
@@ -490,9 +546,15 @@ http://links.iptvlogin.com:8080/live/808080/808080/203065.ts
 http://links.iptvlogin.com:8080/live/808080/808080/203064.ts
 #EXTINF:-1 tvg-logo="https://elfiltrador.com/wp-content/uploads/2018/10/foto_0000001320180216144941.png" group-title="06- CHILE",Chilevision (5)
 http://pcjatv.com:8080/Kerry/Kerry/28760
+#EXTINF:-1 tvg-logo="https://elfiltrador.com/wp-content/uploads/2018/10/foto_0000001320180216144941.png" group-title="06- CHILE",Chilevision alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12362
+#EXTINF:-1 tvg-logo="https://elfiltrador.com/wp-content/uploads/2018/10/foto_0000001320180216144941.png" group-title="06- CHILE",Chilevision alt2
+http://sudaka.sytes.net:25461/moises/moises/12362
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/VhOolgs.png" group-title="06- CHILE",El Pingüino_OFF_
-http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/VhOolgs.png" group-title="06- CHILE",El Pingüino alt1
+http://sudaka.sytes.net:25461/quebec/quebec/5677
+#EXTINF:-1 tvg-logo="http://i.imgur.com/VhOolgs.png" group-title="06- CHILE",El Pingüino alt2
+http://sudaka.sytes.net:25461/moises/moises/5677
 
 #EXTINF:-1 tvg-logo="https://k60.kn3.net/taringa/1/6/E/2/0/7/DanielAmad1/705.jpg" group-title="06- CHILE",Etc
 http://portal.geniptv.com:8080/Wolnydan/79RV4y5UfT/11507
@@ -507,9 +569,17 @@ http://unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/chunks.m3u8?GrupoTopI
 http://links.iptvlogin.com:8080/live/808080/808080/203081.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/PixQwsD.png" group-title="06- CHILE",La Red (3)
 http://links.iptvlogin.com:8080/live/808080/808080/203080.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PixQwsD.png" group-title="06- CHILE",La Red alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12298
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PixQwsD.png" group-title="06- CHILE",La Red alt2
+http://sudaka.sytes.net:25461/moises/moises/12298
 
 #EXTINF:-1 tvg-logo="https://blogvecindad.com/wp-content/uploads/2015/11/Mega_Chile_Alternate_Logo.png" group-title="06- CHILE",Mega (3)
 http://links.iptvlogin.com:8080/live/808080/808080/203068.ts
+#EXTINF:-1 tvg-logo="https://blogvecindad.com/wp-content/uploads/2015/11/Mega_Chile_Alternate_Logo.png" group-title="06- CHILE",Mega alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12297
+#EXTINF:-1 tvg-logo="https://blogvecindad.com/wp-content/uploads/2015/11/Mega_Chile_Alternate_Logo.png" group-title="06- CHILE",Mega alt2
+http://sudaka.sytes.net:25461/moises/moises/12297
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/umdJ2mP.jpg" group-title="06- CHILE",Portalfoxmix⁻ˢᵈ⁻
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8?GrupoTopIptv
@@ -518,6 +588,10 @@ http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8?GrupoTo
 http://portal.geniptv.com:8080/Wolnydan/79RV4y5UfT/11527
 #EXTINF:-1 tvg-logo="https://static.13.cl/7/sites/all/themes/rec_v2/images/default_2018.jpg" group-title="06- CHILE",Rec TV (3)
 http://links.iptvlogin.com:8080/live/808080/808080/203062.ts
+#EXTINF:-1 tvg-logo="https://static.13.cl/7/sites/all/themes/rec_v2/images/default_2018.jpg" group-title="06- CHILE",Rec TV alt1
+http://sudaka.sytes.net:25461/quebec/quebec/13898
+#EXTINF:-1 tvg-logo="https://static.13.cl/7/sites/all/themes/rec_v2/images/default_2018.jpg" group-title="06- CHILE",Rec TV alt2
+http://sudaka.sytes.net:25461/moises/moises/13898
 
 #EXTINF:-1 tvg-logo="https://www.fundacionmiranos.org/wp-content/uploads/2019/02/avatar_66.png" group-title="06- CHILE",T13⁻ˢᵈ⁻
 http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd?GrupoTopIptv
@@ -529,11 +603,19 @@ http://unlimited1-us.dps.live/teletrak/teletrak.smil/teletrak/livestream1/chunks
 
 #EXTINF:-1 tvg-logo="https://bulb.cl/wp-content/uploads/2018/11/Captura-de-pantalla-2018-11-12-a-las-14.17.22.png" group-title="06- CHILE",TV+ (3)
 http://links.iptvlogin.com:8080/live/808080/808080/203078.ts
+#EXTINF:-1 tvg-logo="https://bulb.cl/wp-content/uploads/2018/11/Captura-de-pantalla-2018-11-12-a-las-14.17.22.png" group-title="06- CHILE",TV+ alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12634
+#EXTINF:-1 tvg-logo="https://bulb.cl/wp-content/uploads/2018/11/Captura-de-pantalla-2018-11-12-a-las-14.17.22.png" group-title="06- CHILE",TV+ alt2
+http://sudaka.sytes.net:25461/moises/moises/12634
 
 #EXTINF:-1 tvg-logo="https://grandesmarcas.cl/wp-content/uploads/2016/06/logo-TVN-1.jpg" group-title="06- CHILE",TVN
 http://portal.geniptv.com:8080/Wolnydan/79RV4y5UfT/11503
 #EXTINF:-1 tvg-logo="https://grandesmarcas.cl/wp-content/uploads/2016/06/logo-TVN-1.jpg" group-title="06- CHILE",TVN (3)
 http://links.iptvlogin.com:8080/live/808080/808080/203072.ts
+#EXTINF:-1 tvg-logo="https://grandesmarcas.cl/wp-content/uploads/2016/06/logo-TVN-1.jpg" group-title="06- CHILE",TVN alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12321
+#EXTINF:-1 tvg-logo="https://grandesmarcas.cl/wp-content/uploads/2016/06/logo-TVN-1.jpg" group-title="06- CHILE",TVN alt2
+http://sudaka.sytes.net:25461/moises/moises/12321
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/TV-Chile-en-vivo-Online.png" group-title="06- CHILE",Tv Chile (3)
 http://links.iptvlogin.com:8080/live/808080/808080/203074.ts
@@ -550,14 +632,18 @@ http://cl.origin.grupoz.cl:1935/uestv/live/playlist.m3u8?GrupoTopIptv
 https://stream.vagalume.fm/hls/147015501223418/aac.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="https://colombia.mom-rsf.org/typo3temp/_processed_/4/c/csm_515-941_import_1f4f07e98e.png" group-title="07- COLOMBIA",Cable Noticias_OFF_
-http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+#EXTINF:-1 tvg-logo="https://colombia.mom-rsf.org/typo3temp/_processed_/4/c/csm_515-941_import_1f4f07e98e.png" group-title="07- COLOMBIA",Cable Noticias alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12433
+#EXTINF:-1 tvg-logo="https://colombia.mom-rsf.org/typo3temp/_processed_/4/c/csm_515-941_import_1f4f07e98e.png" group-title="07- COLOMBIA",Cable Noticias alt2
+http://sudaka.sytes.net:25461/moises/moises/12433
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-TRO.png" group-title="07- COLOMBIA",Canal Tro_OFF_
 http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
 
-#EXTINF:-1 tvg-logo="https://boom82.com/wp-content/uploads/2019/05/imLavL3o.png" group-title="07- COLOMBIA",Canal Uno_OFF_
-http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+#EXTINF:-1 tvg-logo="https://boom82.com/wp-content/uploads/2019/05/imLavL3o.png" group-title="07- COLOMBIA",Canal Uno alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12496
+#EXTINF:-1 tvg-logo="https://boom82.com/wp-content/uploads/2019/05/imLavL3o.png" group-title="07- COLOMBIA",Canal Uno alt2
+http://sudaka.sytes.net:25461/moises/moises/12496
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/874398170146643968/5lII2Wbl_400x400.jpg" group-title="07- COLOMBIA",Caracol
 http://portal.geniptv.com:8080/Wolnydan/79RV4y5UfT/11759
@@ -567,6 +653,10 @@ http://portal.geniptv.com:8080/Wolnydan/79RV4y5UfT/11639
 https://jimmy.zappingtv.com/caracol/caracol.smil/chunklist_b1628000_sles_tkd293emF0b2tlbmVuZHRpbWU9MTU2Mjg1MTkyMCZ3b3d6YXRva2VuaGFzaD11NS03VzZPMDF2Q0lpN3N5WkxFTFpGZlpZUDJkQTBaU09zZVU0VzJCYUkwPQ==.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/874398170146643968/5lII2Wbl_400x400.jpg" group-title="07- COLOMBIA",Caracol (3)
 http://links.iptvlogin.com:8080/live/808080/808080/31333.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/874398170146643968/5lII2Wbl_400x400.jpg" group-title="07- COLOMBIA",Caracol alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12609
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/874398170146643968/5lII2Wbl_400x400.jpg" group-title="07- COLOMBIA",Caracol alt2
+http://sudaka.sytes.net:25461/moises/moises/12609
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/city-tv.png" group-title="07- COLOMBIA",City tv
 http://portal.geniptv.com:8080/Wolnydan/79RV4y5UfT/11482
@@ -593,9 +683,15 @@ http://66.240.236.25:1936/ranchenato/ranchenato/playlist.m3u8?GrupoTopIptv
 http://portal.geniptv.com:8080/Wolnydan/79RV4y5UfT/11743
 #EXTINF:-1 tvg-logo="http://html.canalrcn.com/CanalRCN/react/images/RCN-RCNTELEVISION-logo21.png" group-title="07- COLOMBIA",RCN (3)
 http://links.iptvlogin.com:8080/live/808080/808080/31505.ts
+#EXTINF:-1 tvg-logo="http://html.canalrcn.com/CanalRCN/react/images/RCN-RCNTELEVISION-logo21.png" group-title="07- COLOMBIA",RCN alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12971
+#EXTINF:-1 tvg-logo="http://html.canalrcn.com/CanalRCN/react/images/RCN-RCNTELEVISION-logo21.png" group-title="07- COLOMBIA",RCN alt2
+http://sudaka.sytes.net:25461/moises/moises/12971
 
-#EXTINF:-1 tvg-logo="https://vivoplaysbtv.s3.amazonaws.com/image/235837990596/medium/100/1473534756d0cc352b16d02c63bc227c251054d876.jpg" group-title="07- COLOMBIA",RCN Novelas_OFF_
-http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+#EXTINF:-1 tvg-logo="https://vivoplaysbtv.s3.amazonaws.com/image/235837990596/medium/100/1473534756d0cc352b16d02c63bc227c251054d876.jpg" group-title="07- COLOMBIA",RCN Novelas alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12935
+#EXTINF:-1 tvg-logo="https://vivoplaysbtv.s3.amazonaws.com/image/235837990596/medium/100/1473534756d0cc352b16d02c63bc227c251054d876.jpg" group-title="07- COLOMBIA",RCN Novelas alt2
+http://sudaka.sytes.net:25461/moises/moises/12935
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/e53834ab-c4ff-4b88-8845-bf89f4552332_m.jpg" group-title="07- COLOMBIA",Señal Colombia_OFF_
 http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
@@ -656,6 +752,10 @@ http://pcjatv.com:8080/Kerry/Kerry/28884
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Naw5Wnn.png" group-title="08- COSTA RICA",Extrema TV (3)
 http://links.iptvlogin.com:8080/live/808080/808080/203112.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Naw5Wnn.png" group-title="08- COSTA RICA",Extrema TV alt1
+http://sudaka.sytes.net:25461/quebec/quebec/5791
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Naw5Wnn.png" group-title="08- COSTA RICA",Extrema TV alt2
+http://sudaka.sytes.net:25461/moises/moises/5791
 
 #EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/2020-02/TeleSUR-Costa%2520Rica.png" group-title="08- COSTA RICA",Telesur⁻ˢᵈ⁻
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
@@ -696,29 +796,52 @@ http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1230328401254322176/fWLriAft_400x400.jpg" group-title="10- ECUADOR",EcuadorTV
 http://portal.geniptv.com:8080/Wolnydan/79RV4y5UfT/11667
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1230328401254322176/fWLriAft_400x400.jpg" group-title="10- ECUADOR",EcuadorTV alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12497
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1230328401254322176/fWLriAft_400x400.jpg" group-title="10- ECUADOR",EcuadorTV alt2
+http://sudaka.sytes.net:25461/moises/moises/12497
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/ecuavisa.png" group-title="10- ECUADOR",Ecuavisa⁻ˢᵈ⁻
 http://173.212.247.99/hls/tvec2.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/ecuavisa.png" group-title="10- ECUADOR",Ecuavisa
 http://portal.geniptv.com:8080/Wolnydan/79RV4y5UfT/11666
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/ecuavisa.png" group-title="10- ECUADOR",Ecuavisa alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12499
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/ecuavisa.png" group-title="10- ECUADOR",Ecuavisa alt2
+http://sudaka.sytes.net:25461/moises/moises/12499
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/ecuavisa.png" group-title="10- ECUADOR",Ecuavisa Int alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12500
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/ecuavisa.png" group-title="10- ECUADOR",Ecuavisa Int alt2
+http://sudaka.sytes.net:25461/moises/moises/12500
 
 #EXTINF:-1 tvg-logo="https://blixtv.com/wp-content/uploads/2015/03/gamatv3-240x172.png" group-title="10- ECUADOR",Gama tv
 http://portal.geniptv.com:8080/Wolnydan/79RV4y5UfT/11665
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/oromar-218x150.png" group-title="10- ECUADOR",Oromar tv
 http://portal.geniptv.com:8080/Wolnydan/79RV4y5UfT/11656
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/oromar-218x150.png" group-title="10- ECUADOR",Oromar tv alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12502
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/oromar-218x150.png" group-title="10- ECUADOR",Oromar tv alt2
+http://sudaka.sytes.net:25461/moises/moises/12502
 
 #EXTINF:-1 tvg-logo="https://ultimahoraec.com/wp-content/uploads/2017/11/logo_rts.png" group-title="10- ECUADOR",RTS
 http://portal.geniptv.com:8080/Wolnydan/79RV4y5UfT/11647
 
 #EXTINF:-1 tvg-logo="https://www.practicasejemplaresecuador.com/wp-content/uploads/2017/11/teleamazonas.png" group-title="10- ECUADOR",Teleamazonas
 http://portal.geniptv.com:8080/Wolnydan/79RV4y5UfT/11645
+#EXTINF:-1 tvg-logo="https://www.practicasejemplaresecuador.com/wp-content/uploads/2017/11/teleamazonas.png" group-title="10- ECUADOR",Teleamazonas alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12505
+#EXTINF:-1 tvg-logo="https://www.practicasejemplaresecuador.com/wp-content/uploads/2017/11/teleamazonas.png" group-title="10- ECUADOR",Teleamazonas alt2
+http://sudaka.sytes.net:25461/moises/moises/12505
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/televicentro-ecuador.png" group-title="10- ECUADOR",Televicentro
 http://portal.geniptv.com:8080/Wolnydan/79RV4y5UfT/11463
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/TC-Televisi%C3%B3n.png" group-title="10- ECUADOR",TC Television_OFF_
-http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/TC-Televisi%C3%B3n.png" group-title="10- ECUADOR",TC Television alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12504
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/TC-Televisi%C3%B3n.png" group-title="10- ECUADOR",TC Television alt2
+http://sudaka.sytes.net:25461/moises/moises/12504
 
 ######################################################################################################################################
 ####################################### ESPAÑA
@@ -1146,11 +1269,15 @@ http://portal.geniptv.com:8080/Wolnydan/79RV4y5UfT/79793
 https://stream.vagalume.fm/hls/1506975770142563/aac.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-3-nacional_m.png" group-title="12- GUATEMALA",Canal 3_OFF_
-http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-3-nacional_m.png" group-title="12- GUATEMALA",Canal 3 alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12553
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-3-nacional_m.png" group-title="12- GUATEMALA",Canal 3 alt2
+http://sudaka.sytes.net:25461/moises/moises/12553
 
-#EXTINF:-1 tvg-logo="https://chapina.tv/wp-content/uploads/2017/12/logo-7.png" group-title="12- GUATEMALA",Canal 7_OFF_
-http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+#EXTINF:-1 tvg-logo="https://chapina.tv/wp-content/uploads/2017/12/logo-7.png" group-title="12- GUATEMALA",Canal 7 alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12554
+#EXTINF:-1 tvg-logo="https://chapina.tv/wp-content/uploads/2017/12/logo-7.png" group-title="12- GUATEMALA",Canal 7 alt2
+http://sudaka.sytes.net:25461/moises/moises/12554
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-11-guatemala_m.png" group-title="12- GUATEMALA",Canal 11
 http://flowfhd.xyz:25461/6082/6082/11397
@@ -1158,14 +1285,20 @@ http://flowfhd.xyz:25461/6082/6082/11397
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-13-guatemala_m.png" group-title="12- GUATEMALA",Canal 13
 http://flowfhd.xyz:25461/6082/6082/11398
 
-#EXTINF:-1 tvg-logo="https://chapina.tv/wp-content/uploads/2018/01/canal-antigua.gif" group-title="12- GUATEMALA",Canal Antigua
-http://flowfhd.xyz:25461/6082/6082/11401
+#EXTINF:-1 tvg-logo="https://chapina.tv/wp-content/uploads/2018/01/canal-antigua.gif" group-title="12- GUATEMALA",Canal Antigua alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12556
+#EXTINF:-1 tvg-logo="https://chapina.tv/wp-content/uploads/2018/01/canal-antigua.gif" group-title="12- GUATEMALA",Canal Antigua alt2
+http://sudaka.sytes.net:25461/moises/moises/12556
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_guatevision_m.png" group-title="12- GUATEMALA",Guatevision
-http://flowfhd.xyz:25461/6082/6082/11402
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_guatevision_m.png" group-title="12- GUATEMALA",Guatevision alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12558
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_guatevision_m.png" group-title="12- GUATEMALA",Guatevision alt2
+http://sudaka.sytes.net:25461/moises/moises/12558
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/tn23.png" group-title="12- GUATEMALA",TN23_OFF_
-http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/tn23.png" group-title="12- GUATEMALA",TN23 alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12559
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/tn23.png" group-title="12- GUATEMALA",TN23 alt2
+http://sudaka.sytes.net:25461/moises/moises/12559
 
 ######################################################################################################################################
 ####################################### HONDURAS
@@ -1175,9 +1308,15 @@ https://stream.vagalume.fm/hls/1506975770142563/aac.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/canal-5-el-lider-honduras-2019-present-logo-1EEE1B9DDA-seeklogo.com.png" group-title="12- HONDURAS",Canal 5 Lider⁻ˢᵈ⁻
 http://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8?GrupoTopIptv
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/canal-5-el-lider-honduras-2019-present-logo-1EEE1B9DDA-seeklogo.com.png" group-title="12- HONDURAS",Canal 5 Lider alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12523
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/canal-5-el-lider-honduras-2019-present-logo-1EEE1B9DDA-seeklogo.com.png" group-title="12- HONDURAS",Canal 5 Lider alt2
+http://sudaka.sytes.net:25461/moises/moises/12523
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/canal-11-honduras.png" group-title="12- HONDURAS",Canal 11_OFF_
-http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/canal-11-honduras.png" group-title="12- HONDURAS",Canal 11 alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12525
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/canal-11-honduras.png" group-title="12- HONDURAS",Canal 11 alt2
+http://sudaka.sytes.net:25461/moises/moises/12525
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/hn_hch-hable-como-habla_m.png" group-title="12- HONDURAS",HCH_OFF_
 http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
@@ -1188,9 +1327,15 @@ http://st2.worldkast.com/8030/8030/chunklist_w278915523.m3u8
 http://5b50404ec5e4c.streamlock.net/8030/8030/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://qhubotv.com/wp-content/uploads/2020/03/1Mesa-de-trabajo-1-1000x540.png" group-title="12- HONDURAS",Q'hubo⁻ˢᵈ⁻
 http://st2.worldkast.com/8030/8030/Sitv-Honduras.m3u8
+#EXTINF:-1 tvg-logo="https://qhubotv.com/wp-content/uploads/2020/03/1Mesa-de-trabajo-1-1000x540.png" group-title="12- HONDURAS",Q'hubo alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12532
+#EXTINF:-1 tvg-logo="https://qhubotv.com/wp-content/uploads/2020/03/1Mesa-de-trabajo-1-1000x540.png" group-title="12- HONDURAS",Q'hubo alt2
+http://sudaka.sytes.net:25461/moises/moises/12532
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/hn_telecadena_m.png" group-title="12- HONDURAS",Telecadena_OFF_
-http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/hn_telecadena_m.png" group-title="12- HONDURAS",Telecadena alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12534
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/hn_telecadena_m.png" group-title="12- HONDURAS",Telecadena alt2
+http://sudaka.sytes.net:25461/moises/moises/12534
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vWyTg5L.png" group-title="12- HONDURAS",Teleceiba⁻ˢᵈ⁻
 http://190.11.224.14:8134/liveevent.m3u8?GrupoTopIptv
@@ -1382,17 +1527,29 @@ https://stream.vagalume.fm/hls/14619606471054026608/aac.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/NEX-TV.png" group-title="16- PANAMA",Nex tv
 http://flowfhd.xyz:25461/6082/6082/11407
 
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2017_01/unnamed.png.2506449d078fd6f92beeadbb0bbe3c65.png" group-title="16- PANAMA",RPC_OFF_
-http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2017_01/unnamed.png.2506449d078fd6f92beeadbb0bbe3c65.png" group-title="16- PANAMA",RPC alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12480
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2017_01/unnamed.png.2506449d078fd6f92beeadbb0bbe3c65.png" group-title="16- PANAMA",RPC alt2
+http://sudaka.sytes.net:25461/moises/moises/12480
 
 #EXTINF:-1 tvg-logo="https://sertv.gob.pa/wp-content/uploads/2018/10/log_sertv-80-retina.png" group-title="16- PANAMA",Ser tv
 http://flowfhd.xyz:25461/6082/6082/11410
+#EXTINF:-1 tvg-logo="https://sertv.gob.pa/wp-content/uploads/2018/10/log_sertv-80-retina.png" group-title="16- PANAMA",Ser tv alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12482
+#EXTINF:-1 tvg-logo="https://sertv.gob.pa/wp-content/uploads/2018/10/log_sertv-80-retina.png" group-title="16- PANAMA",Ser tv alt2
+http://sudaka.sytes.net:25461/moises/moises/12482
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Telemetro.png" group-title="16- PANAMA",Telemetro
 http://flowfhd.xyz:25461/6082/6082/11411
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Telemetro.png" group-title="16- PANAMA",Telemetro alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12483
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Telemetro.png" group-title="16- PANAMA",Telemetro alt2
+http://sudaka.sytes.net:25461/moises/moises/12483
 
-#EXTINF:-1 tvg-logo="https://media.giphy.com/avatars/tvnpanama/aslvMiLhQmRo.jpg" group-title="16- PANAMA",TVN_OFF_
-http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+#EXTINF:-1 tvg-logo="https://media.giphy.com/avatars/tvnpanama/aslvMiLhQmRo.jpg" group-title="16- PANAMA",TVN alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12484
+#EXTINF:-1 tvg-logo="https://media.giphy.com/avatars/tvnpanama/aslvMiLhQmRo.jpg" group-title="16- PANAMA",TVN alt2
+http://sudaka.sytes.net:25461/moises/moises/12484
 
 ######################################################################################################################################
 ####################################### PARAGUAY
@@ -1403,17 +1560,23 @@ https://stream.vagalume.fm/hls/14619606471054026608/aac.m3u8
 #EXTINF:-1 tvg-logo="https://www.television.com.py/wp-content/uploads/2017/06/GEN-290x166.jpg" group-title="16- PARAGUAY",Gen tv_OFF_
 http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/latele_m.jpg" group-title="16- PARAGUAY",La Tele_OFF_
-http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/latele_m.jpg" group-title="16- PARAGUAY",La Tele alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12775
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/latele_m.jpg" group-title="16- PARAGUAY",La Tele alt2
+http://sudaka.sytes.net:25461/moises/moises/12775
 
-#EXTINF:-1 tvg-logo="https://www.mitic.gov.py/application/files/thumbnails/small/1715/5008/5555/PYTV-3.png" group-title="16- PARAGUAY",Paraguay tv_OFF_
-http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+#EXTINF:-1 tvg-logo="https://www.mitic.gov.py/application/files/thumbnails/small/1715/5008/5555/PYTV-3.png" group-title="16- PARAGUAY",Paraguay tv alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12776
+#EXTINF:-1 tvg-logo="https://www.mitic.gov.py/application/files/thumbnails/small/1715/5008/5555/PYTV-3.png" group-title="16- PARAGUAY",Paraguay tv alt2
+http://sudaka.sytes.net:25461/moises/moises/12776
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tdgaw2m.png" group-title="16- PARAGUAY",RPC⁻ˢᵈ⁻
 http://174.138.118.252/live/canal13stream_src.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Unicanal.png" group-title="16- PARAGUAY",Unicanal_OFF_
-http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Unicanal.png" group-title="16- PARAGUAY",Unicanal alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12787
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Unicanal.png" group-title="16- PARAGUAY",Unicanal alt2
+http://sudaka.sytes.net:25461/moises/moises/12787
 
 ######################################################################################################################################
 ####################################### PERU
@@ -1429,6 +1592,10 @@ http://flowfhd.xyz:25461/6082/6082/11449
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atv-peru-logo-5506CAAD40-seeklogo.com.png" group-title="17- PERU",Atv
 http://flowfhd.xyz:25461/6082/6082/9106
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atv-peru-logo-5506CAAD40-seeklogo.com.png" group-title="17- PERU",Atv alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12408
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atv-peru-logo-5506CAAD40-seeklogo.com.png" group-title="17- PERU",Atv alt2
+http://sudaka.sytes.net:25461/moises/moises/12408
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/atv-356x220.png" group-title="17- PERU",ATV +_OFF_
 http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
@@ -1445,21 +1612,37 @@ http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b5
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FI1Hd4E.png" group-title="17- PERU",Ipe⁻ˢᵈ⁻
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?GrupoTopIptv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FI1Hd4E.png" group-title="17- PERU",Ipe alt1
+http://sudaka.sytes.net:25461/quebec/quebec/5790
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FI1Hd4E.png" group-title="17- PERU",Ipe alt2
+http://sudaka.sytes.net:25461/moises/moises/5790
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/565018162916114432/7h5k-iqC_400x400.png" group-title="17- PERU",JN19⁻ˢᵈ⁻
 http://movil.mediastream.pe/vv_manosdios/livestream/playlist.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="http://images.uncyclomedia.co/inciclopedia/es/6/6e/Latina.png" group-title="17- PERU",Latina
 http://flowfhd.xyz:25461/6082/6082/9104
+#EXTINF:-1 tvg-logo="http://images.uncyclomedia.co/inciclopedia/es/6/6e/Latina.png" group-title="17- PERU",Latina alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12423
+#EXTINF:-1 tvg-logo="http://images.uncyclomedia.co/inciclopedia/es/6/6e/Latina.png" group-title="17- PERU",Latina alt2
+http://sudaka.sytes.net:25461/moises/moises/12423
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="17- PERU",Panamericana
 http://flowfhd.xyz:25461/6082/6082/9107
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="17- PERU",Panamericana alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12426
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="17- PERU",Panamericana alt2
+http://sudaka.sytes.net:25461/moises/moises/12426
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-zONwKyIGEe8/US6GONLKNMI/AAAAAAAAH50/PXQ17OgMMAg/s1600/paxtv.png" group-title="17- PERU",Pax TV⁻ˢᵈ⁻
 http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="http://www.smg-roi.com/wp-content/uploads/2018/05/image65-1-600x450.jpg" group-title="17- PERU",Peru Magico
 http://flowfhd.xyz:25461/6082/6082/9099
+#EXTINF:-1 tvg-logo="http://www.smg-roi.com/wp-content/uploads/2018/05/image65-1-600x450.jpg" group-title="17- PERU",Peru Magico alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12427
+#EXTINF:-1 tvg-logo="http://www.smg-roi.com/wp-content/uploads/2018/05/image65-1-600x450.jpg" group-title="17- PERU",Peru Magico alt2
+http://sudaka.sytes.net:25461/moises/moises/12427
 
 #EXTINF:-1 tvg-logo="https://www.neourbe.pe/wp-content/uploads/2019/02/tv-noticias.png" group-title="17- PERU",TV Noticias 7.3⁻ˢᵈ⁻
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0002&mode=12?GrupoTopIptv
@@ -1468,6 +1651,10 @@ http://flowfhd.xyz:25461/6082/6082/9097
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Mcc2xCpSKWQ/UF6PxaiQZYI/AAAAAAAACQU/BLm5ZUhxzfs/s1600/LOGOTVPERU.jpg" group-title="17- PERU",TV Perú
 http://flowfhd.xyz:25461/6082/6082/9098
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Mcc2xCpSKWQ/UF6PxaiQZYI/AAAAAAAACQU/BLm5ZUhxzfs/s1600/LOGOTVPERU.jpg" group-title="17- PERU",TV Perú alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12430
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Mcc2xCpSKWQ/UF6PxaiQZYI/AAAAAAAACQU/BLm5ZUhxzfs/s1600/LOGOTVPERU.jpg" group-title="17- PERU",TV Perú alt2
+http://sudaka.sytes.net:25461/moises/moises/12430
 
 ######################################################################################################################################
 ####################################### PORTUGAL
@@ -1755,6 +1942,11 @@ http://tengomusica.ddns.net:1935/telever/telever.sdp/playlist.m3u8
 https://stream.vagalume.fm/hls/1470169276225492/aac.m3u8
 #######################################
 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/av-324x160.png" group-title="20- URUGUAY",A+V alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12574
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/av-324x160.png" group-title="20- URUGUAY",A+V alt2
+http://sudaka.sytes.net:25461/moises/moises/12574
+
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/artigas-tv.png" group-title="20- URUGUAY",Canal 3 Artigas_OFF_
 http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
 
@@ -1785,11 +1977,16 @@ http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6001/320/default.jpg" group-title="20- URUGUAY",Vera +_OFF_
 http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
 
-#EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_2da07aaf6d.png" group-title="20- URUGUAY",VTV_OFF_
-http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+#EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_2da07aaf6d.png" group-title="20- URUGUAY",VTV alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12572
+#EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_2da07aaf6d.png" group-title="20- URUGUAY",VTV alt2
+http://sudaka.sytes.net:25461/moises/moises/12572
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-2A5wJVTgb4Y/UPFifoWY2TI/AAAAAAAAAV8/g_Lasd6u1LI/s1600/VTV+.jpg" group-title="20- URUGUAY",VTV +_OFF_
-http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-2A5wJVTgb4Y/UPFifoWY2TI/AAAAAAAAAV8/g_Lasd6u1LI/s1600/VTV+.jpg" group-title="20- URUGUAY",VTV + alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12573
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-2A5wJVTgb4Y/UPFifoWY2TI/AAAAAAAAAV8/g_Lasd6u1LI/s1600/VTV+.jpg" group-title="20- URUGUAY",VTV + alt2
+http://sudaka.sytes.net:25461/moises/moises/12573
+
 
 ######################################################################################################################################
 ####################################### USA
@@ -1925,9 +2122,18 @@ https://stream.vagalume.fm/hls/1475776167864381/aac.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Af6z5hL.png" group-title="22- VENEZUELA",Telesur
 http://flowfhd.xyz:25461/6082/6082/26675
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Af6z5hL.png" group-title="22- VENEZUELA",Telesur alt1
+http://sudaka.sytes.net:25461/quebec/quebec/5810
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Af6z5hL.png" group-title="22- VENEZUELA",Telesur alt2
+http://sudaka.sytes.net:25461/moises/moises/5810
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/venevision.png" group-title="22- VENEZUELA",Venevision_OFF_
 http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Venezolana-de-Televisi%C3%B3n-en-vivo-Online.png" group-title="22- VENEZUELA",Venezolana tv alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12447
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Venezolana-de-Televisi%C3%B3n-en-vivo-Online.png" group-title="22- VENEZUELA",Venezolana tv alt2
+http://sudaka.sytes.net:25461/moises/moises/12447
 
 #######################################################################################################################################################################################
 #######################################
@@ -1947,6 +2153,10 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8?TEAM 
 
 #EXTINF:-1 tvg-logo="http://images.produ.com/noticias/0218/ZeeMundonewlogo2.jpg" group-title="23- CINE LATINO",Zee Mundo⁻ˢᵈ⁻
 http://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8?TEAM IPTV
+#EXTINF:-1 tvg-logo="http://images.produ.com/noticias/0218/ZeeMundonewlogo2.jpg" group-title="23- CINE LATINO",Zee Mundo alt1
+http://sudaka.sytes.net:25461/quebec/quebec/5711
+#EXTINF:-1 tvg-logo="http://images.produ.com/noticias/0218/ZeeMundonewlogo2.jpg" group-title="23- CINE LATINO",Zee Mundo alt2
+http://sudaka.sytes.net:25461/moises/moises/5711
 
 #######################################################################################################################################################################################
 #######################################################################################################################################################################################
