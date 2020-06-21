@@ -4322,6 +4322,10 @@ http://edge1.cl.grupoz.cl/cdofree/smil:cdn.smil/playlist.m3u8
 http://plus-tv.us:8080/live/0944/0944/11634.ts
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/06/cdo.png" group-title="41- DEPORTES LATINO",Cdo (6)
 http://plus-tv.us:8080/live/2943/2943/11634.ts
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/06/cdo.png" group-title="41- DEPORTES LATINO",Cdo alt1
+http://sudaka.sytes.net:25461/quebec/quebec/5704
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/06/cdo.png" group-title="41- DEPORTES LATINO",Cdo alt2
+http://sudaka.sytes.net:25461/moises/moises/5704
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/06/cdo.png" group-title="41- DEPORTES LATINO",Cdo Premium (2)
 http://plus-tv.us:8080/live/0944/0944/11635.ts
@@ -4333,8 +4337,10 @@ http://plus-tv.us:8080/live/0944/0944/4592.ts
 #EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/claro-sports.png" group-title="41- DEPORTES LATINO",Claro Sports (6)
 http://plus-tv.us:8080/live/2943/2943/4592.ts
 
-#EXTINF:-1 tvg-logo="http://inda.tv/wp-content/uploads/2018/09/deportv1.jpg" group-title="41- DEPORTES LATINO",Deportv
-
+#EXTINF:-1 tvg-logo="http://inda.tv/wp-content/uploads/2018/09/deportv1.jpg" group-title="41- DEPORTES LATINO",Deportv alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12828
+#EXTINF:-1 tvg-logo="http://inda.tv/wp-content/uploads/2018/09/deportv1.jpg" group-title="41- DEPORTES LATINO",Deportv alt2
+http://sudaka.sytes.net:25461/moises/moises/12828
 
 #EXTINF:-1 tvg-logo="https://www.reporterosasociados.com.co/wp/wp-content/uploads/2019/01/DIRECTV-Sports.png" group-title="41- DEPORTES LATINO",Directv Sports (3)
 http://links.iptvlogin.com:8080/live/808080/808080/68286.ts
@@ -4350,6 +4356,10 @@ http://plus-tv.us:8080/live/0944/0944/15337.ts
 http://links.iptvlogin.com:8080/live/808080/808080/31435.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn_m.png" group-title="41- DEPORTES LATINO",Espn (6)
 http://plus-tv.us:8080/live/2943/2943/15337.ts
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn_m.png" group-title="41- DEPORTES LATINO",Espn alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12414
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn_m.png" group-title="41- DEPORTES LATINO",Espn alt2
+http://sudaka.sytes.net:25461/moises/moises/12414
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-2_m.png" group-title="41- DEPORTES LATINO",Espn 2 (2)
 http://plus-tv.us:8080/live/0944/0944/15338.ts
@@ -4379,6 +4389,10 @@ http://plus-tv.us:8080/live/2943/2943/15340.ts
 http://plus-tv.us:8080/live/0944/0944/15353.ts
 #EXTINF:-1 tvg-logo="https://www.revistaneo.com/sites/default/files/2018-01/FOX-SportsLogo.jpg" group-title="41- DEPORTES LATINO",Fox Sports (6)
 http://plus-tv.us:8080/live/2943/2943/15353.ts
+#EXTINF:-1 tvg-logo="https://www.revistaneo.com/sites/default/files/2018-01/FOX-SportsLogo.jpg" group-title="41- DEPORTES LATINO",Fox Sports alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12341
+#EXTINF:-1 tvg-logo="https://www.revistaneo.com/sites/default/files/2018-01/FOX-SportsLogo.jpg" group-title="41- DEPORTES LATINO",Fox Sports alt2
+http://sudaka.sytes.net:25461/moises/moises/12341
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_fox-sports-2_m.png" group-title="41- DEPORTES LATINO",Fox Sports 2 (2)
 http://plus-tv.us:8080/live/0944/0944/15354.ts
@@ -4386,16 +4400,28 @@ http://plus-tv.us:8080/live/0944/0944/15354.ts
 http://links.iptvlogin.com:8080/live/808080/808080/31455.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_fox-sports-2_m.png" group-title="41- DEPORTES LATINO",Fox Sports 2 (6)
 http://plus-tv.us:8080/live/2943/2943/15354.ts
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_fox-sports-2_m.png" group-title="41- DEPORTES LATINO",Fox Sports 2 alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12339
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_fox-sports-2_m.png" group-title="41- DEPORTES LATINO",Fox Sports 2 alt2
+http://sudaka.sytes.net:25461/moises/moises/12339
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-3_m.png" group-title="41- DEPORTES LATINO",Fox Sports 3 (2)
 http://plus-tv.us:8080/live/0944/0944/15355.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-3_m.png" group-title="41- DEPORTES LATINO",Fox Sports 3 (6)
 http://plus-tv.us:8080/live/2943/2943/15355.ts
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-3_m.png" group-title="41- DEPORTES LATINO",Fox Sports 3 alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12338
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-3_m.png" group-title="41- DEPORTES LATINO",Fox Sports 3 alt2
+http://sudaka.sytes.net:25461/moises/moises/12338
 
 #EXTINF:-1 tvg-logo="https://s3-assets1.flowics.com/web/uploads/production/generic-resources/asset/20429/versioned_b9b117b2abb9cab316bdabfe18b654dc_small.png" group-title="41- DEPORTES LATINO",Fox Sports Premium (2)
 http://plus-tv.us:8080/live/0944/0944/15356.ts
 #EXTINF:-1 tvg-logo="https://s3-assets1.flowics.com/web/uploads/production/generic-resources/asset/20429/versioned_b9b117b2abb9cab316bdabfe18b654dc_small.png" group-title="41- DEPORTES LATINO",Fox Sports Premium (6)
 http://plus-tv.us:8080/live/2943/2943/15356.ts
+#EXTINF:-1 tvg-logo="https://s3-assets1.flowics.com/web/uploads/production/generic-resources/asset/20429/versioned_b9b117b2abb9cab316bdabfe18b654dc_small.png" group-title="41- DEPORTES LATINO",Fox Sports Premium alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12431
+#EXTINF:-1 tvg-logo="https://s3-assets1.flowics.com/web/uploads/production/generic-resources/asset/20429/versioned_b9b117b2abb9cab316bdabfe18b654dc_small.png" group-title="41- DEPORTES LATINO",Fox Sports Premium alt2
+http://sudaka.sytes.net:25461/moises/moises/12431
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/yK8g6N8.png" group-title="41- DEPORTES LATINO",Gol Peru (2)
 http://plus-tv.us:8080/live/0944/0944/4593.ts
@@ -4403,6 +4429,10 @@ http://plus-tv.us:8080/live/0944/0944/4593.ts
 http://links.iptvlogin.com:8080/live/808080/808080/155197.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/yK8g6N8.png" group-title="41- DEPORTES LATINO",Gol Peru (6)
 http://plus-tv.us:8080/live/2943/2943/4593.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yK8g6N8.png" group-title="41- DEPORTES LATINO",Gol Peru alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12420
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yK8g6N8.png" group-title="41- DEPORTES LATINO",Gol Peru alt2
+http://sudaka.sytes.net:25461/moises/moises/12420
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="41- DEPORTES LATINO",GolTV Ecuador (2)
 http://plus-tv.us:8080/live/0944/0944/3732.ts
@@ -4412,6 +4442,10 @@ http://links.iptvlogin.com:8080/live/808080/808080/68306.ts
 http://links.iptvlogin.com:8080/live/808080/808080/68307.ts
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="41- DEPORTES LATINO",GolTV Ecuador (6)
 http://plus-tv.us:8080/live/2943/2943/3732.ts
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="41- DEPORTES LATINO",GolTV Ecuador alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12476
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="41- DEPORTES LATINO",GolTV Ecuador alt2
+http://sudaka.sytes.net:25461/moises/moises/12476
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="41- DEPORTES LATINO",GolTV Uruguay
 
@@ -4419,14 +4453,20 @@ http://plus-tv.us:8080/live/2943/2943/3732.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7KCBnxD.png" group-title="41- DEPORTES LATINO",Izzi Afizzionados
 
 
-#EXTINF:-1 tvg-logo="http://static.plustv.pe/assets/images/movistardeportes-220x147.png" group-title="41- DEPORTES LATINO",Movistar Deportes Peru
+#EXTINF:-1 tvg-logo="http://static.plustv.pe/assets/images/movistardeportes-220x147.png" group-title="41- DEPORTES LATINO",Movistar Deportes Peru alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12424
+#EXTINF:-1 tvg-logo="http://static.plustv.pe/assets/images/movistardeportes-220x147.png" group-title="41- DEPORTES LATINO",Movistar Deportes Peru alt2
+http://sudaka.sytes.net:25461/moises/moises/12424
 
+#EXTINF:-1 tvg-logo="https://ayuda.tigo.co.cr/hc/article_attachments/360037602474/tigo_sports.png" group-title="41- DEPORTES LATINO",Tigo Sports alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12516
+#EXTINF:-1 tvg-logo="https://ayuda.tigo.co.cr/hc/article_attachments/360037602474/tigo_sports.png" group-title="41- DEPORTES LATINO",Tigo Sports alt2
+http://sudaka.sytes.net:25461/moises/moises/12516
 
-#EXTINF:-1 tvg-logo="https://ayuda.tigo.co.cr/hc/article_attachments/360037602474/tigo_sports.png" group-title="41- DEPORTES LATINO",Tigo Sports
-
-
-#EXTINF:-1 tvg-logo="http://budtv.ottmex.com/posters/1529007557436.png" group-title="41- DEPORTES LATINO",Tnt Sports
-
+#EXTINF:-1 tvg-logo="http://budtv.ottmex.com/posters/1529007557436.png" group-title="41- DEPORTES LATINO",Tnt Sports alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12870
+#EXTINF:-1 tvg-logo="http://budtv.ottmex.com/posters/1529007557436.png" group-title="41- DEPORTES LATINO",Tnt Sports alt2
+http://sudaka.sytes.net:25461/moises/moises/12870
 
 #EXTINF:-1 tvg-logo="https://s22958.pcdn.co/wp-content/uploads/2017/04/TUDN_824x568.png" group-title="41- DEPORTES LATINO",Tudn (2)
 http://plus-tv.us:8080/live/0944/0944/15411.ts
@@ -4446,17 +4486,29 @@ http://plus-tv.us:8080/live/2943/2943/15413.ts
 http://plus-tv.us:8080/live/0944/0944/15414.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_tyc-sports-hd_m.png" group-title="41- DEPORTES LATINO",TyC (6)
 http://plus-tv.us:8080/live/2943/2943/15414.ts
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_tyc-sports-hd_m.png" group-title="41- DEPORTES LATINO",TyC alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12879
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_tyc-sports-hd_m.png" group-title="41- DEPORTES LATINO",TyC alt2
+http://sudaka.sytes.net:25461/moises/moises/12879
 
-#EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_2da07aaf6d.png" group-title="41- DEPORTES LATINO",VTV
+#EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_2da07aaf6d.png" group-title="41- DEPORTES LATINO",VTV alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12572
+#EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_2da07aaf6d.png" group-title="41- DEPORTES LATINO",VTV alt2
+http://sudaka.sytes.net:25461/moises/moises/12572
 
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-2A5wJVTgb4Y/UPFifoWY2TI/AAAAAAAAAV8/g_Lasd6u1LI/s1600/VTV+.jpg" group-title="41- DEPORTES LATINO",VTV Plus
-
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-2A5wJVTgb4Y/UPFifoWY2TI/AAAAAAAAAV8/g_Lasd6u1LI/s1600/VTV+.jpg" group-title="41- DEPORTES LATINO",VTV Plus alt1
+http://sudaka.sytes.net:25461/quebec/quebec/12573
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-2A5wJVTgb4Y/UPFifoWY2TI/AAAAAAAAAV8/g_Lasd6u1LI/s1600/VTV+.jpg" group-title="41- DEPORTES LATINO",VTV Plus alt2
+http://sudaka.sytes.net:25461/moises/moises/12573
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="41- DEPORTES LATINO",Win Sports (2)
 http://plus-tv.us:8080/live/0944/0944/15430.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="41- DEPORTES LATINO",Win Sports (6)
 http://plus-tv.us:8080/live/2943/2943/15430.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="41- DEPORTES LATINO",Win Sports alt1
+http://sudaka.sytes.net:25461/quebec/quebec/13296
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="41- DEPORTES LATINO",Win Sports alt2
+http://sudaka.sytes.net:25461/moises/moises/13296
 
 #EXTINF:-1 tvg-logo="https://media.metrolatam.com/2019/12/23/capturadepantall-f0f54bcde7fc1471047f7b0e52fe8147-1200x600.jpg" group-title="41- DEPORTES LATINO",Win Sports Plus (2)
 http://plus-tv.us:8080/live/0944/0944/15431.ts
