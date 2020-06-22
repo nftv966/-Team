@@ -2207,9 +2207,9 @@ http://cdn.miip.tv:8080/canada/123456/439
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="28- PREMIUM LATINO",Axn (8)
 http://latiniptv.vip:8008/live/12345/12345/115892.rtmp
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="28- PREMIUM LATINO",Axn alt1
-http://sudaka.sytes.net:25461/quebec/quebec/12366
+http://sudaka.sytes.net:25461/live/quebec/quebec/12366.rtmp
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="28- PREMIUM LATINO",Axn alt2
-http://sudaka.sytes.net:25461/moises/moises/12366
+http://sudaka.sytes.net:25461/live/moises/moises/12366.rtmp
 
 #EXTINF:-1 tvg-logo="http://comcab.mx/images/canales/comcab-cinecanal.png" group-title="28- PREMIUM LATINO",Cinecanal (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/675.ts
