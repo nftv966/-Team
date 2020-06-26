@@ -289,6 +289,9 @@ http://tv.factoryiptv.com:80/Frank/12345/40120
 #EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tvgazeta.png" group-title="04- BRASIL",Gazeta (5)
 http://srv.tvprodigital.net:80/109833/109833/30425
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo alt
+http://189.91.128.150:5555/udp/227.10.20.109:1234
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-bahia-hd_m.png" group-title="04- BRASIL",Globo Bahia (1)
 http://srv.tvprodigital.net:80/098038/098038/7539
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-bahia-hd_m.png" group-title="04- BRASIL",Globo Bahia (2)
@@ -390,6 +393,8 @@ http://srv.maxptv.net:8080/dica/dica/60
 http://tv.factoryiptv.com:80/Frank/12345/51024
 #EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="04- BRASIL",Rede TV (5)
 http://srv.tvprodigital.net:80/109833/109833/20575
+#EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="04- BRASIL",Rede TV alt
+http://189.91.128.150:5555/udp/227.10.20.122:1234
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT (1)
 http://srv.tvprodigital.net:80/098038/098038/20555
@@ -401,6 +406,8 @@ http://srv.maxptv.net:8080/dica/dica/58
 http://tv.factoryiptv.com:80/Frank/12345/37048
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT (5)
 http://srv.tvprodigital.net:80/109833/109833/20555
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT alt
+http://189.91.128.150:5555/udp/227.10.20.120:1234
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-cidade-verde-hd_m.png" group-title="04- BRASIL",SBT⁻ˢᵈ⁻ Cidade Verde
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT⁻¹⁰⁸⁰⁻ Piauí
@@ -2162,7 +2169,7 @@ http://ic7.101.ru:8000/a16
 #EXTINF:-1 tvg-logo="https://stagingcms.cignal.tv/Upload/Images/AMC.png" group-title="28- PREMIUM LATINO",Amc (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/572.ts
 #EXTINF:-1 tvg-logo="https://stagingcms.cignal.tv/Upload/Images/AMC.png" group-title="28- PREMIUM LATINO",Amc (2)
-http://plus-tv.us:8080/live/0944/0944/15290.ts
+http://client.safeip.live:8080/s2kyolFmwR/r2jPbJBw93/5396
 #EXTINF:-1 tvg-logo="https://stagingcms.cignal.tv/Upload/Images/AMC.png" group-title="28- PREMIUM LATINO",Amc (3)
 http://links.iptvlogin.com:8080/live/808080/808080/31384.ts
 #EXTINF:-1 tvg-logo="https://stagingcms.cignal.tv/Upload/Images/AMC.png" group-title="28- PREMIUM LATINO",Amc (6)
@@ -2175,7 +2182,7 @@ http://latiniptv.vip:8008/live/12345/12345/115890.rtmp
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="28- PREMIUM LATINO",Axn (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/571.ts
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="28- PREMIUM LATINO",Axn (2)
-http://plus-tv.us:8080/live/0944/0944/15293.ts
+http://client.safeip.live:8080/s2kyolFmwR/r2jPbJBw93/5393
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="28- PREMIUM LATINO",Axn (3)
 http://links.iptvlogin.com:8080/live/808080/808080/31387.ts
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="28- PREMIUM LATINO",Axn (4)
@@ -2196,7 +2203,7 @@ http://sudaka.sytes.net:25461/live/moises/moises/12366.rtmp
 #EXTINF:-1 tvg-logo="http://comcab.mx/images/canales/comcab-cinecanal.png" group-title="28- PREMIUM LATINO",Cinecanal (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/675.ts
 #EXTINF:-1 tvg-logo="http://comcab.mx/images/canales/comcab-cinecanal.png" group-title="28- PREMIUM LATINO",Cinecanal (2)
-http://plus-tv.us:8080/live/0944/0944/15312.ts
+http://client.safeip.live:8080/s2kyolFmwR/r2jPbJBw93/5381
 #EXTINF:-1 tvg-logo="http://comcab.mx/images/canales/comcab-cinecanal.png" group-title="28- PREMIUM LATINO",Cinecanal (3)
 http://links.iptvlogin.com:8080/live/808080/808080/31410.ts
 #EXTINF:-1 tvg-logo="http://comcab.mx/images/canales/comcab-cinecanal.png" group-title="28- PREMIUM LATINO",Cinecanal (4)
@@ -2214,8 +2221,6 @@ http://sudaka.sytes.net:25461/moises/moises/12313
 
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/12/52a34-cl.png" group-title="28- PREMIUM LATINO",Cine Latino (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/18449.ts
-#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/12/52a34-cl.png" group-title="28- PREMIUM LATINO",Cine Latino (2)
-http://plus-tv.us:8080/live/0944/0944/15313.ts
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/12/52a34-cl.png" group-title="28- PREMIUM LATINO",Cine Latino (3)
 http://links.iptvlogin.com:8080/live/808080/808080/31336.ts
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/12/52a34-cl.png" group-title="28- PREMIUM LATINO",Cine Latino (4)
@@ -2227,6 +2232,8 @@ http://plus-tv.us:8080/live/2943/2943/15313.ts
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/12/52a34-cl.png" group-title="28- PREMIUM LATINO",Cine Latino (8)
 http://latiniptv.vip:8008/live/12345/12345/103186.rtmp
 
+#EXTINF:-1 tvg-logo="http://www.cinemadinamita.com/img/logos/Inicio.png" group-title="28- PREMIUM LATINO",Cine Dinamita (2)
+http://client.safeip.live:8080/s2kyolFmwR/r2jPbJBw93/5390
 #EXTINF:-1 tvg-logo="http://www.cinemadinamita.com/img/logos/Inicio.png" group-title="28- PREMIUM LATINO",Cine Dinamita (4)
 http://pcjatv.com:8080/tyrone/tyrone/28762
 #EXTINF:-1 tvg-logo="http://www.cinemadinamita.com/img/logos/Inicio.png" group-title="28- PREMIUM LATINO",Cine Dinamita (5)
@@ -2237,7 +2244,7 @@ http://latiniptv.vip:8008/live/12345/12345/103291.rtmp
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="28- PREMIUM LATINO",Cinemax (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/18453.ts
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="28- PREMIUM LATINO",Cinemax (2)
-http://plus-tv.us:8080/live/0944/0944/15314.ts
+http://client.safeip.live:8080/s2kyolFmwR/r2jPbJBw93/5380
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="28- PREMIUM LATINO",Cinemax (3)
 http://links.iptvlogin.com:8080/live/808080/808080/31411.ts
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="28- PREMIUM LATINO",Cinemax (4)
@@ -2260,8 +2267,6 @@ http://dl.dropbox.com/s/6j5ivrbr341lcbe/video_watermark1585548378221.mp4
 
 #EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="28- PREMIUM LATINO",Comedy Central (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/575.ts
-#EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="28- PREMIUM LATINO",Comedy Central (2)
-http://plus-tv.us:8080/live/0944/0944/15316.ts
 #EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="28- PREMIUM LATINO",Comedy Central (3)
 http://links.iptvlogin.com:8080/live/808080/808080/31414.ts
 #EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="28- PREMIUM LATINO",Comedy Central (4)
@@ -2277,6 +2282,8 @@ http://latiniptv.vip:8008/live/12345/12345/105794.rtmp
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula_hd-mediano.png" group-title="28- PREMIUM LATINO",De Película (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/576.ts
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula_hd-mediano.png" group-title="28- PREMIUM LATINO",De Película (2)
+http://client.safeip.live:8080/s2kyolFmwR/r2jPbJBw93/5379
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula_hd-mediano.png" group-title="28- PREMIUM LATINO",De Película (4)
 http://pcjatv.com:8080/tyrone/tyrone/28782
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula_hd-mediano.png" group-title="28- PREMIUM LATINO",De Película (5)
@@ -2300,7 +2307,7 @@ http://latiniptv.vip:8008/live/12345/12345/105772.rtmp
 #EXTINF:-1 tvg-logo="http://www.multicanalcatamayo.com/cablevisiondondiego/images/74.png" group-title="28- PREMIUM LATINO",Distrito Comedia (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/532.ts
 #EXTINF:-1 tvg-logo="http://www.multicanalcatamayo.com/cablevisiondondiego/images/74.png" group-title="28- PREMIUM LATINO",Distrito Comedia (2)
-http://plus-tv.us:8080/live/0944/0944/15333.ts
+http://client.safeip.live:8080/s2kyolFmwR/r2jPbJBw93/5375
 #EXTINF:-1 tvg-logo="http://www.multicanalcatamayo.com/cablevisiondondiego/images/74.png" group-title="28- PREMIUM LATINO",Distrito Comedia (3)
 http://links.iptvlogin.com:8080/live/808080/808080/31429.ts
 #EXTINF:-1 tvg-logo="http://www.multicanalcatamayo.com/cablevisiondondiego/images/74.png" group-title="28- PREMIUM LATINO",Distrito Comedia (6)
@@ -2320,7 +2327,7 @@ http://latiniptv.vip:8008/live/12345/12345/115776.rtmp
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="28- PREMIUM LATINO",Fox (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/535.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="28- PREMIUM LATINO",Fox (2)
-http://plus-tv.us:8080/live/0944/0944/15345.ts
+http://client.safeip.live:8080/s2kyolFmwR/r2jPbJBw93/5366
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="28- PREMIUM LATINO",Fox (3)
 http://links.iptvlogin.com:8080/live/808080/808080/31446.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="28- PREMIUM LATINO",Fox (6)
@@ -2337,7 +2344,7 @@ http://sudaka.sytes.net:25461/moises/moises/12343
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_ACTION.png" group-title="28- PREMIUM LATINO",Fox Action (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/671.ts
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_ACTION.png" group-title="28- PREMIUM LATINO",Fox Action (2)
-http://plus-tv.us:8080/live/0944/0944/15346.ts
+http://client.safeip.live:8080/s2kyolFmwR/r2jPbJBw93/5364
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_ACTION.png" group-title="28- PREMIUM LATINO",Fox Action (3)
 http://links.iptvlogin.com:8080/live/808080/808080/31447.ts
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_ACTION.png" group-title="28- PREMIUM LATINO",Fox Action (4)
@@ -2358,7 +2365,7 @@ http://sudaka.sytes.net:25461/moises/moises/12346
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_CLASSIC.png" group-title="28- PREMIUM LATINO",Fox Classics (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/18467.ts
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_CLASSIC.png" group-title="28- PREMIUM LATINO",Fox Classics (2)
-http://plus-tv.us:8080/live/0944/0944/15348.ts
+http://client.safeip.live:8080/s2kyolFmwR/r2jPbJBw93/5362
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_CLASSIC.png" group-title="28- PREMIUM LATINO",Fox Classics (4)
 http://pcjatv.com:8080/tyrone/tyrone/28816
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_CLASSIC.png" group-title="28- PREMIUM LATINO",Fox Classics (6)
@@ -2369,7 +2376,7 @@ http://cdn.miip.tv:8080/canada/123456/143
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_CINEMA.png" group-title="28- PREMIUM LATINO",Fox Cinema (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/667.ts
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_CINEMA.png" group-title="28- PREMIUM LATINO",Fox Cinema (2)
-http://plus-tv.us:8080/live/0944/0944/15347.ts
+http://client.safeip.live:8080/s2kyolFmwR/r2jPbJBw93/5363
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_CINEMA.png" group-title="28- PREMIUM LATINO",Fox Cinema (3)
 http://links.iptvlogin.com:8080/live/808080/808080/31448.ts
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_CINEMA.png" group-title="28- PREMIUM LATINO",Fox Cinema (4)
@@ -2392,8 +2399,6 @@ http://pcjatv.com:8080/Kerry/Kerry/28817
 
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_FAMILYHD.png" group-title="28- PREMIUM LATINO",Fox Family (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/27548.ts
-#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_FAMILYHD.png" group-title="28- PREMIUM LATINO",Fox Family (2)
-http://plus-tv.us:8080/live/0944/0944/15349.ts
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_FAMILYHD.png" group-title="28- PREMIUM LATINO",Fox Family (4)
 http://pcjatv.com:8080/tyrone/tyrone/28819
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_FAMILYHD.png" group-title="28- PREMIUM LATINO",Fox Family (5)
@@ -2408,7 +2413,7 @@ http://latiniptv.vip:8008/live/12345/12345/115908.rtmp
 #EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="28- PREMIUM LATINO",Fox Life (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/27553.ts
 #EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="28- PREMIUM LATINO",Fox Life (2)
-http://plus-tv.us:8080/live/0944/0944/15350.ts
+http://client.safeip.live:8080/s2kyolFmwR/r2jPbJBw93/5361
 #EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="28- PREMIUM LATINO",Fox Life (3)
 http://links.iptvlogin.com:8080/live/808080/808080/31450.ts
 #EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="28- PREMIUM LATINO",Fox Life (4)
@@ -2429,7 +2434,7 @@ http://sudaka.sytes.net:25461/moises/moises/12344
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_MOVIES.png" group-title="28- PREMIUM LATINO",Fox Movies (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/670.ts
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_MOVIES.png" group-title="28- PREMIUM LATINO",Fox Movies (2)
-http://plus-tv.us:8080/live/0944/0944/15351.ts
+http://client.safeip.live:8080/s2kyolFmwR/r2jPbJBw93/5360
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_MOVIES.png" group-title="28- PREMIUM LATINO",Fox Movies (3)
 http://links.iptvlogin.com:8080/live/808080/808080/31451.ts
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_MOVIES.png" group-title="28- PREMIUM LATINO",Fox Movies (4)
@@ -2449,8 +2454,6 @@ http://sudaka.sytes.net:25461/moises/moises/12342
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_SERIES.png" group-title="28- PREMIUM LATINO",Fox Series (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/578.ts
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_SERIES.png" group-title="28- PREMIUM LATINO",Fox Series (2)
-http://plus-tv.us:8080/live/0944/0944/15352.ts
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_SERIES.png" group-title="28- PREMIUM LATINO",Fox Series (3)
 http://links.iptvlogin.com:8080/live/808080/808080/31453.ts
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_SERIES.png" group-title="28- PREMIUM LATINO",Fox Series (4)
@@ -2468,8 +2471,6 @@ http://sudaka.sytes.net:25461/moises/moises/12345
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="28- PREMIUM LATINO",Fx (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/662.ts
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="28- PREMIUM LATINO",Fx (2)
-http://plus-tv.us:8080/live/0944/0944/15357.ts
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="28- PREMIUM LATINO",Fx (3)
 http://links.iptvlogin.com:8080/live/808080/808080/31458.ts
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="28- PREMIUM LATINO",Fx (4)
@@ -2489,8 +2490,6 @@ http://sudaka.sytes.net:25461/moises/moises/12337
 
 #EXTINF:-1 tvg-logo="http://cdd657a867bca3d5084e-b68367b7dbe633942cc09bdd6fb9eaea.r58.cf2.rackcdn.com/fxmoviechannel.png" group-title="28- PREMIUM LATINO",Fxm (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/663.ts
-#EXTINF:-1 tvg-logo="http://cdd657a867bca3d5084e-b68367b7dbe633942cc09bdd6fb9eaea.r58.cf2.rackcdn.com/fxmoviechannel.png" group-title="28- PREMIUM LATINO",Fxm (2)
-http://plus-tv.us:8080/live/0944/0944/15358.ts
 #EXTINF:-1 tvg-logo="http://cdd657a867bca3d5084e-b68367b7dbe633942cc09bdd6fb9eaea.r58.cf2.rackcdn.com/fxmoviechannel.png" group-title="28- PREMIUM LATINO",Fxm (3)
 http://links.iptvlogin.com:8080/live/808080/808080/31459.ts
 #EXTINF:-1 tvg-logo="http://cdd657a867bca3d5084e-b68367b7dbe633942cc09bdd6fb9eaea.r58.cf2.rackcdn.com/fxmoviechannel.png" group-title="28- PREMIUM LATINO",Fxm (6)
@@ -2933,6 +2932,8 @@ http://srv.maxptv.net:8080/dica/dica/202
 http://tv.factoryiptv.com:80/Frank/12345/37120
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="29- PREMIUM BRASIL",Cinemax (5)
 http://srv.tvprodigital.net:80/109833/109833/24630
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="29- PREMIUM BRASIL",Cinemax alt
+http://189.91.128.150:5555/udp/227.10.20.101:1234
 
 #EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="29- PREMIUM BRASIL",Comedy Central (1)
 http://srv.tvprodigital.net:80/098038/098038/20828
@@ -3010,6 +3011,8 @@ http://srv.maxptv.net:8080/dica/dica/126
 http://tv.factoryiptv.com:80/Frank/12345/36964
 #EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_es/tag/h/hbo/hbo_8m2v.1200.jpg" group-title="29- PREMIUM BRASIL",Hbo (5)
 http://srv.tvprodigital.net:80/109833/109833/20696
+#EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_es/tag/h/hbo/hbo_8m2v.1200.jpg" group-title="29- PREMIUM BRASIL",Hbo alt
+http://189.91.128.150:5555/udp/227.10.20.94:1234
 
 #EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="29- PREMIUM BRASIL",Hbo 2 (1)
 http://srv.tvprodigital.net:80/098038/098038/20692
@@ -3021,6 +3024,8 @@ http://srv.maxptv.net:8080/dica/dica/134
 http://tv.factoryiptv.com:80/Frank/12345/37086
 #EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="29- PREMIUM BRASIL",Hbo 2 (5)
 http://srv.tvprodigital.net:80/109833/109833/20692
+#EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="29- PREMIUM BRASIL",Hbo 2 alt
+http://189.91.128.150:5555/udp/227.10.20.95:1234
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="29- PREMIUM BRASIL",Hbo Family (1)
 http://srv.tvprodigital.net:80/098038/098038/20688
@@ -3032,6 +3037,8 @@ http://srv.maxptv.net:8080/dica/dica/132
 http://tv.factoryiptv.com:80/Frank/12345/37085
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="29- PREMIUM BRASIL",Hbo Family (5)
 http://srv.tvprodigital.net:80/109833/109833/20688
+#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="29- PREMIUM BRASIL",Hbo Family alt
+http://189.91.128.150:5555/udp/227.10.20.97:1234
 
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/hbomundiGris_Enero20v2.png" group-title="29- PREMIUM BRASIL",Hbo Mundi (1)
 http://srv.tvprodigital.net:80/098038/098038/20664
@@ -3054,6 +3061,8 @@ http://srv.maxptv.net:8080/dica/dica/127
 http://tv.factoryiptv.com:80/Frank/12345/37084
 #EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="29- PREMIUM BRASIL",Hbo Plus (5)
 http://srv.tvprodigital.net:80/109833/109833/20684
+#EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="29- PREMIUM BRASIL",Hbo Plus alt
+http://189.91.128.150:5555/udp/227.10.20.96:1234
 
 #EXTINF:-1 tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012533/0000_all_l_hboall-HBO-POP-Black.png" group-title="29- PREMIUM BRASIL",Hbo Pop (1)
 http://srv.tvprodigital.net:80/098038/098038/20660
@@ -3065,6 +3074,8 @@ http://srv.maxptv.net:8080/dica/dica/110
 http://tv.factoryiptv.com:80/Frank/12345/37073
 #EXTINF:-1 tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012533/0000_all_l_hboall-HBO-POP-Black.png" group-title="29- PREMIUM BRASIL",Hbo Pop (5)
 http://srv.tvprodigital.net:80/109833/109833/20660
+#EXTINF:-1 tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012533/0000_all_l_hboall-HBO-POP-Black.png" group-title="29- PREMIUM BRASIL",Hbo Pop alt
+http://189.91.128.150:5555/udp/227.10.20.99:1234
 
 #EXTINF:-1 tvg-logo="https://operadores.hbo-la.tv/img/layout/logos/hbosignature.png" group-title="29- PREMIUM BRASIL",Hbo Signature (1)
 http://srv.tvprodigital.net:80/098038/098038/20679
@@ -3076,6 +3087,8 @@ http://srv.maxptv.net:8080/dica/dica/124
 http://tv.factoryiptv.com:80/Frank/12345/37082
 #EXTINF:-1 tvg-logo="https://operadores.hbo-la.tv/img/layout/logos/hbosignature.png" group-title="29- PREMIUM BRASIL",Hbo Signature (5)
 http://srv.tvprodigital.net:80/109833/109833/20679
+#EXTINF:-1 tvg-logo="https://operadores.hbo-la.tv/img/layout/logos/hbosignature.png" group-title="29- PREMIUM BRASIL",Hbo Signature alt
+http://189.91.128.150:5555/udp/227.10.20.98:1234
 
 #EXTINF:-1 tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012553/0000_all_l_hboall-HBO-XTREME-Black.png" group-title="29- PREMIUM BRASIL",Hbo Xtreme (1)
 http://srv.tvprodigital.net:80/098038/098038/20658
@@ -3087,6 +3100,8 @@ http://srv.maxptv.net:8080/dica/dica/113
 http://tv.factoryiptv.com:80/Frank/12345/37074
 #EXTINF:-1 tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012553/0000_all_l_hboall-HBO-XTREME-Black.png" group-title="29- PREMIUM BRASIL",Hbo Xtreme (5)
 http://srv.tvprodigital.net:80/109833/109833/20658
+#EXTINF:-1 tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012553/0000_all_l_hboall-HBO-XTREME-Black.png" group-title="29- PREMIUM BRASIL",Hbo Xtreme alt
+http://189.91.128.150:5555/udp/227.10.20.100:1234
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/megapix-logo-png-7.png" group-title="29- PREMIUM BRASIL",Megapix (1)
 http://srv.tvprodigital.net:80/098038/098038/20654
@@ -3098,6 +3113,8 @@ http://srv.maxptv.net:8080/dica/dica/108
 http://tv.factoryiptv.com:80/Frank/12345/37072
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/megapix-logo-png-7.png" group-title="29- PREMIUM BRASIL",Megapix (5)
 http://srv.tvprodigital.net:80/109833/109833/20654
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/megapix-logo-png-7.png" group-title="29- PREMIUM BRASIL",Megapix alt
+http://189.91.128.150:5555/udp/227.10.20.89:1234
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_paramount-channel_m.png" group-title="29- PREMIUM BRASIL",Paramount (1)
 http://srv.tvprodigital.net:80/098038/098038/20621
@@ -3120,6 +3137,8 @@ http://srv.maxptv.net:8080/dica/dica/52
 http://tv.factoryiptv.com:80/Frank/12345/37007
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="29- PREMIUM BRASIL",Sony (5)
 http://srv.tvprodigital.net:80/109833/109833/20529
+#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="29- PREMIUM BRASIL",Sony alt
+http://189.91.128.150:5555/udp/227.10.20.127:1234
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="29- PREMIUM BRASIL",Space (1)
 http://srv.tvprodigital.net:80/098038/098038/39545
@@ -3142,6 +3161,8 @@ http://srv.maxptv.net:8080/dica/dica/42
 http://tv.factoryiptv.com:80/Frank/12345/37043
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="29- PREMIUM BRASIL",Studio Universal (5)
 http://srv.tvprodigital.net:80/109833/109833/20547
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="29- PREMIUM BRASIL",Studio Universal alt
+http://189.91.128.150:5555/udp/227.10.20.88:1234
 
 #EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="29- PREMIUM BRASIL",Syfy (1)
 http://srv.tvprodigital.net:80/098038/098038/20551
@@ -3219,6 +3240,8 @@ http://srv.maxptv.net:8080/dica/dica/28
 http://tv.factoryiptv.com:80/Frank/12345/37038
 #EXTINF:-1 tvg-logo="https://www.vendasceara.com.br/wp-content/uploads/2019/02/TC_PIPOCA.jpg" group-title="29- PREMIUM BRASIL",Telecine Pipoca (5)
 http://srv.tvprodigital.net:80/109833/109833/39546
+#EXTINF:-1 tvg-logo="https://www.vendasceara.com.br/wp-content/uploads/2019/02/TC_PIPOCA.jpg" group-title="29- PREMIUM BRASIL",Telecine Pipoca alt
+http://189.91.128.150:5555/udp/227.10.20.87:1234
 
 #EXTINF:-1 tvg-logo="https://www.vendasceara.com.br/wp-content/uploads/2019/02/TC_PREMIUM.jpg" group-title="29- PREMIUM BRASIL",Telecine Premium (1)
 http://srv.tvprodigital.net:80/098038/098038/39547
@@ -3285,6 +3308,8 @@ http://srv.maxptv.net:8080/dica/dica/3
 http://tv.factoryiptv.com:80/Frank/12345/36996
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="29- PREMIUM BRASIL",Warner Channel (5)
 http://srv.tvprodigital.net:80/109833/109833/20457
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="29- PREMIUM BRASIL",Warner Channel alt
+http://189.91.128.150:5555/udp/227.10.20.126:1234
 
 ######################################################################################################################################
 #######################################
