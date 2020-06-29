@@ -3395,6 +3395,8 @@ http://shoppinglive.mediacdn.ru/sr1/shoppinglive/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3.png" group-title="36- NOTICIAS LATINO",Canal 26⁻ˢᵈ⁻
 http://200.115.193.177/live/26hd-180/playlist.m3u8?GrupoTopIptv
+#EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3.png" group-title="36- NOTICIAS LATINO",Canal 26 (8)
+https://sviptvarg.com:443/live/dazplayer/playerfree/140.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.marketingdirecto.com/wp-content/uploads/2013/06/cnninternational.jpg" group-title="36- NOTICIAS LATINO",CNN Chile (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/790.ts
@@ -3418,6 +3420,8 @@ http://uruguayiptv.com:25461/live/pablo2019/pablo2019/791.ts
 http://sudaka.sytes.net:25461/quebec/quebec/12355
 #EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/cnn-alla.jpg" group-title="36- NOTICIAS LATINO",CÑN (7)
 http://sudaka.sytes.net:25461/moises/moises/12355
+#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/cnn-alla.jpg" group-title="36- NOTICIAS LATINO",CÑN (8)
+https://sviptvarg.com:443/live/dazplayer/playerfree/126.rtmp
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/875649264826724352/7ZsxO5yi.jpg" group-title="36- NOTICIAS LATINO",France 24 en Español⁻ˢᵈ⁻
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?GrupoTopIptv
@@ -3481,6 +3485,8 @@ http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/570.ts
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/312LhQsVqtL.png" group-title="38- DOCUMENTALES LATINOS",A&E (2)
 http://uruguayiptv.com:25461/live/pablo2019/pablo2019/570.ts
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/312LhQsVqtL.png" group-title="38- DOCUMENTALES LATINOS",A&E (8)
+https://sviptvarg.com:443/live/dazplayer/playerfree/74.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.effectv.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="38- DOCUMENTALES LATINOS",Animal Planet (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/304.ts
@@ -3490,6 +3496,8 @@ http://uruguayiptv.com:25461/live/pablo2019/pablo2019/304.ts
 http://sudaka.sytes.net:25461/quebec/quebec/12369
 #EXTINF:-1 tvg-logo="https://www.effectv.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="38- DOCUMENTALES LATINOS",Animal Planet (7)
 http://sudaka.sytes.net:25461/moises/moises/12369
+#EXTINF:-1 tvg-logo="https://www.effectv.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="38- DOCUMENTALES LATINOS",Animal Planet (8)
+https://sviptvarg.com:443/live/dazplayer/playerfree/13.rtmp
 
 #EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="38- DOCUMENTALES LATINOS",Discovery Channel (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/1246.ts
@@ -3499,6 +3507,8 @@ http://uruguayiptv.com:25461/live/pablo2019/pablo2019/1246.ts
 http://sudaka.sytes.net:25461/quebec/quebec/12358
 #EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="38- DOCUMENTALES LATINOS",Discovery Channel (7)
 http://sudaka.sytes.net:25461/moises/moises/12358
+#EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="38- DOCUMENTALES LATINOS",Discovery Channel (8)
+https://sviptvarg.com:443/live/dazplayer/playerfree/68.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-civilization_m.png" group-title="38- DOCUMENTALES LATINOS",Discovery Civilization (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/312.ts
@@ -3518,6 +3528,8 @@ http://uruguayiptv.com:25461/live/pablo2019/pablo2019/18320.ts
 http://sudaka.sytes.net:25461/quebec/quebec/12384
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b0d27efc-174d-41f6-851b-e125fba0dce7_m.jpg" group-title="38- DOCUMENTALES LATINOS",Discovery H&H (7)
 http://sudaka.sytes.net:25461/moises/moises/12384
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b0d27efc-174d-41f6-851b-e125fba0dce7_m.jpg" group-title="38- DOCUMENTALES LATINOS",Discovery H&H (8)
+https://sviptvarg.com:443/live/dazplayer/playerfree/20.rtmp
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="38- DOCUMENTALES LATINOS",Discovery Science_OFF_
 http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
@@ -3531,6 +3543,8 @@ http://uruguayiptv.com:25461/live/pablo2019/pablo2019/316.ts
 http://sudaka.sytes.net:25461/quebec/quebec/12354
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Discovery Turbo (7)
 http://sudaka.sytes.net:25461/moises/moises/12354
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Discovery Turbo (8)
+https://sviptvarg.com:443/live/dazplayer/playerfree/24.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.skytvporassinatura.com.br/wp-content/uploads/2018/01/canal-discovery-world-hd-sky-1.png" group-title="38- DOCUMENTALES LATINOS",Discovery World_OFF_
 http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
@@ -3539,9 +3553,11 @@ http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
 http://sudaka.sytes.net:25461/quebec/quebec/12332
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="38- DOCUMENTALES LATINOS",History (7)
 http://sudaka.sytes.net:25461/moises/moises/12332
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="38- DOCUMENTALES LATINOS",History (8)
+https://sviptvarg.com:443/live/dazplayer/playerfree/6.rtmp
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="38- DOCUMENTALES LATINOS",History 2_OFF_
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="38- DOCUMENTALES LATINOS",History 2 (8)
+https://sviptvarg.com:443/live/dazplayer/playerfree/3.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.nwtel.ca/sites/default/files/channel-logos/hgtv.png" group-title="38- DOCUMENTALES LATINOS",HGTV_OFF_
 http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
@@ -3550,11 +3566,15 @@ http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
 http://sudaka.sytes.net:25461/quebec/quebec/12327
 #EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo (7)
 http://sudaka.sytes.net:25461/moises/moises/12327
+#EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo (8)
+https://sviptvarg.com:443/live/dazplayer/playerfree/12.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.lettreaudiovisuel.com/wp-content/uploads/2014/12/Nat-Geo-Wild.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo Wild (6)
 http://sudaka.sytes.net:25461/quebec/quebec/12303
 #EXTINF:-1 tvg-logo="http://www.lettreaudiovisuel.com/wp-content/uploads/2014/12/Nat-Geo-Wild.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo Wild (7)
 http://sudaka.sytes.net:25461/moises/moises/12303
+#EXTINF:-1 tvg-logo="http://www.lettreaudiovisuel.com/wp-content/uploads/2014/12/Nat-Geo-Wild.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo Wild (8)
+https://sviptvarg.com:443/live/dazplayer/playerfree/66.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tlc-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Tlc (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/18090.ts
