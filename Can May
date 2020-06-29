@@ -350,6 +350,9 @@ http://in.uaimacks.net.br:1935/macks/macks.sdp/chunklist_w1760176873.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/d684da91fb2351344538a1aef178cf67.png" group-title="04- BRASIL",Nova Manchete
 http://fhr.ddns.net:25461/live/333333/333333/52702.ts
 
+#EXTINF:-1 tvg-logo="https://media.glassdoor.com/sqll/2494726/playtv-squarelogo-1554946426311.png" group-title="04- BRASIL",Play TV
+http://fhr.ddns.net:25461/live/333333/333333/63293.ts
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record (1)
 http://srv.tvprodigital.net:80/098038/098038/4423
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record (2)
@@ -400,6 +403,9 @@ http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
 
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLmFwcGxpY2F0aW9uLnR2Ym5vX3NjcmVlbl8wXzE1MDU1NzM5NzdfMDU1/screen-0.jpg?fakeurl=1&type=.jpg" group-title="04- BRASIL",TV BNO⁻ˢᵈ⁻
 http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="04- BRASIL",TV Camara
+http://fhr.ddns.net:25461/live/333333/333333/62266.ts
 
 #EXTINF:-1 tvg-logo="https://www.chillglobal.com/images/channels/tv-cultura-1432560421.jpg" group-title="04- BRASIL",TV Cultura (1)
 http://srv.tvprodigital.net:80/098038/098038/4412
@@ -1834,6 +1840,26 @@ https://stream.vagalume.fm/hls/1497039009964147/aac.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="24- CINE BRASIL",Cine Sky⁻ˢᵈ⁻
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
+#EXTINF:-1 tvg-logo="http://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="24- CINE BRASIL",Cine Sky 01 HD
+http://fhr.ddns.net:25461/live/333333/333333/63448.ts
+#EXTINF:-1 tvg-logo="http://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="24- CINE BRASIL",Cine Sky 02 HD
+http://fhr.ddns.net:25461/live/333333/333333/63449.ts
+#EXTINF:-1 tvg-logo="http://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="24- CINE BRASIL",Cine Sky 03 HD
+http://fhr.ddns.net:25461/live/333333/333333/63450.ts
+#EXTINF:-1 tvg-logo="http://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="24- CINE BRASIL",Cine Sky 04 HD
+http://fhr.ddns.net:25461/live/333333/333333/63451.ts
+#EXTINF:-1 tvg-logo="http://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="24- CINE BRASIL",Cine Sky 05 HD
+http://fhr.ddns.net:25461/live/333333/333333/63452.ts
+#EXTINF:-1 tvg-logo="http://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="24- CINE BRASIL",Cine Sky 06 HD
+http://fhr.ddns.net:25461/live/333333/333333/63453.ts
+#EXTINF:-1 tvg-logo="http://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="24- CINE BRASIL",Cine Sky 07 HD
+http://fhr.ddns.net:25461/live/333333/333333/63454.ts
+#EXTINF:-1 tvg-logo="http://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="24- CINE BRASIL",Cine Sky 08 HD
+http://fhr.ddns.net:25461/live/333333/333333/63455.ts
+#EXTINF:-1 tvg-logo="http://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="24- CINE BRASIL",Cine Sky 09 HD
+http://fhr.ddns.net:25461/live/333333/333333/63456.ts
+#EXTINF:-1 tvg-logo="http://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="24- CINE BRASIL",Cine Sky 10 HD
+http://fhr.ddns.net:25461/live/333333/333333/63457.ts
 
 #######################################################################################################################################################################################
 #######################################
