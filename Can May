@@ -3062,6 +3062,8 @@ http://uruguayiptv.com:25461/live/pablo2019/pablo2019/724.ts
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/725.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_baby-tv_m.png" group-title="32- INFANTIL LATINO",Baby TV (2)
 http://uruguayiptv.com:25461/live/pablo2019/pablo2019/725.ts
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_baby-tv_m.png" group-title="32- INFANTIL LATINO",Baby TV (8)
+https://sviptvarg.com:443/live/dazplayer/playerfree/130.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.mninoticias.com/wp-content/uploads/2019/07/image003-1.jpg" group-title="32- INFANTIL LATINO",BitMe (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/759.ts
@@ -3072,6 +3074,8 @@ http://uruguayiptv.com:25461/live/pablo2019/pablo2019/759.ts
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/18450.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_boomerang-cartoon_m.png" group-title="32- INFANTIL LATINO",Boomerang (2)
 http://uruguayiptv.com:25461/live/pablo2019/pablo2019/18450.ts
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_boomerang-cartoon_m.png" group-title="32- INFANTIL LATINO",Boomerang (8)
+https://sviptvarg.com:443/live/dazplayer/playerfree/56.rtmp
 
 #EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="32- INFANTIL LATINO",Cartoon Network (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/18451.ts
@@ -3081,6 +3085,8 @@ http://uruguayiptv.com:25461/live/pablo2019/pablo2019/18451.ts
 http://sudaka.sytes.net:25461/quebec/quebec/12368
 #EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="32- INFANTIL LATINO",Cartoon Network (7)
 http://sudaka.sytes.net:25461/moises/moises/12368
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="32- INFANTIL LATINO",Cartoon Network (8)
+https://sviptvarg.com:443/live/dazplayer/playerfree/26.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/default/files/chicos-ipe_1.jpg" group-title="32- INFANTIL LATINO",Chicos IPE_OFF_
 http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
@@ -3089,11 +3095,15 @@ http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
 http://sudaka.sytes.net:25461/quebec/quebec/12357
 #EXTINF:-1 tvg-logo="https://uploads.tapatalk-cdn.com/20180216/e15145d23f1a35eda5537e61932ea069.jpg" group-title="32- INFANTIL LATINO",Discovery Kids (7)
 http://sudaka.sytes.net:25461/moises/moises/12357
+#EXTINF:-1 tvg-logo="https://uploads.tapatalk-cdn.com/20180216/e15145d23f1a35eda5537e61932ea069.jpg" group-title="32- INFANTIL LATINO",Discovery Kids (8)
+https://sviptvarg.com:443/live/dazplayer/playerfree/30.rtmp
 
 #EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="32- INFANTIL LATINO",Disney Channel (6)
 http://sudaka.sytes.net:25461/quebec/quebec/12356
 #EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="32- INFANTIL LATINO",Disney Channel (7)
 http://sudaka.sytes.net:25461/moises/moises/12356
+#EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="32- INFANTIL LATINO",Disney Channel (8)
+https://sviptvarg.com:443/live/dazplayer/playerfree/45.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="32- INFANTIL LATINO",Disney Junior (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/715.ts
@@ -3103,11 +3113,15 @@ http://uruguayiptv.com:25461/live/pablo2019/pablo2019/715.ts
 http://sudaka.sytes.net:25461/quebec/quebec/12353
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="32- INFANTIL LATINO",Disney Junior (7)
 http://sudaka.sytes.net:25461/moises/moises/12353
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="32- INFANTIL LATINO",Disney Junior (8)
+https://sviptvarg.com:443/live/dazplayer/playerfree/69.rtmp
 
 #EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/Disney_XD_-_2015.svg_.png" group-title="32- INFANTIL LATINO",Disney XD (6)
 http://sudaka.sytes.net:25461/quebec/quebec/12352
 #EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/Disney_XD_-_2015.svg_.png" group-title="32- INFANTIL LATINO",Disney XD (7)
 http://sudaka.sytes.net:25461/moises/moises/12352
+#EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/Disney_XD_-_2015.svg_.png" group-title="32- INFANTIL LATINO",Disney XD (8)
+https://sviptvarg.com:443/live/dazplayer/playerfree/59.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/natgeo-kids-logo-01.png" group-title="32- INFANTIL LATINO",Nat Geo Kids (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/709.ts
@@ -3121,6 +3135,8 @@ http://pcjatv.com:8080/Kerry/Kerry/28870
 http://sudaka.sytes.net:25461/quebec/quebec/12325
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/natgeo-kids-logo-01.png" group-title="32- INFANTIL LATINO",Nat Geo Kids (7)
 http://sudaka.sytes.net:25461/moises/moises/12325
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/natgeo-kids-logo-01.png" group-title="32- INFANTIL LATINO",Nat Geo Kids (8)
+https://sviptvarg.com:443/live/dazplayer/playerfree/51.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="32- INFANTIL LATINO",Nick (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/710.ts
@@ -3130,6 +3146,8 @@ http://uruguayiptv.com:25461/live/pablo2019/pablo2019/710.ts
 http://sudaka.sytes.net:25461/quebec/quebec/12324
 #EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="32- INFANTIL LATINO",Nick (7)
 http://sudaka.sytes.net:25461/moises/moises/12324
+#EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="32- INFANTIL LATINO",Nick (8)
+https://sviptvarg.com:443/live/dazplayer/playerfree/39.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_nickelodeon-hd_m.png" group-title="32- INFANTIL LATINO",Nick 2 (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/711.ts
@@ -3144,12 +3162,14 @@ http://uruguayiptv.com:25461/live/pablo2019/pablo2019/683.ts
 http://sudaka.sytes.net:25461/quebec/quebec/12326
 #EXTINF:-1 tvg-logo="http://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="32- INFANTIL LATINO",Nick Junior (7)
 http://sudaka.sytes.net:25461/moises/moises/12326
+#EXTINF:-1 tvg-logo="http://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="32- INFANTIL LATINO",Nick Junior (8)
+https://sviptvarg.com:443/live/dazplayer/playerfree/49.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.arrecifesciudad.com/muluni/imagenes/logos-tv/nicktoons.png" group-title="32- INFANTIL LATINO",NickToons_OFF_
 http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Paka-Paka.png" group-title="32- INFANTIL LATINO",Paka Paka_OFF_
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Paka-Paka.png" group-title="32- INFANTIL LATINO",Paka Paka (8)
+https://sviptvarg.com:443/live/dazplayer/playerfree/113.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s239510q.png" group-title="32- INFANTIL LATINO",Pequeradio⁻ˢᵈ⁻
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
