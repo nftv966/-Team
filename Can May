@@ -3804,6 +3804,8 @@ http://uruguayiptv.com:25461/live/pablo2019/pablo2019/414.ts
 http://sudaka.sytes.net:25461/quebec/quebec/12828
 #EXTINF:-1 tvg-logo="http://inda.tv/wp-content/uploads/2018/09/deportv1.jpg" group-title="41- DEPORTES LATINO",Deportv (7)
 http://sudaka.sytes.net:25461/moises/moises/12828
+#EXTINF:-1 tvg-logo="http://inda.tv/wp-content/uploads/2018/09/deportv1.jpg" group-title="41- DEPORTES LATINO",Deportv (8)
+https://sviptvarg.com:443/live/dazplayer/playerfree/134.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.reporterosasociados.com.co/wp/wp-content/uploads/2019/01/DIRECTV-Sports.png" group-title="41- DEPORTES LATINO",Directv Sports_OFF_
 http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
@@ -3822,14 +3824,18 @@ http://uruguayiptv.com:25461/live/pablo2019/pablo2019/475.ts
 http://sudaka.sytes.net:25461/quebec/quebec/12414
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn_m.png" group-title="41- DEPORTES LATINO",Espn (7)
 http://sudaka.sytes.net:25461/moises/moises/12414
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn_m.png" group-title="41- DEPORTES LATINO",Espn (8)
+https://sviptvarg.com:443/live/dazplayer/playerfree/27.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-2_m.png" group-title="41- DEPORTES LATINO",Espn 2 (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/416.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-2_m.png" group-title="41- DEPORTES LATINO",Espn 2 (2)
 http://uruguayiptv.com:25461/live/pablo2019/pablo2019/416.ts
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-2_m.png" group-title="41- DEPORTES LATINO",Espn 2 (8)
+https://sviptvarg.com:443/live/dazplayer/playerfree/29.rtmp
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-3_m.png" group-title="41- DEPORTES LATINO",Espn 3_OFF_
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-3_m.png" group-title="41- DEPORTES LATINO",Espn 3 (8)
+https://sviptvarg.com:443/live/dazplayer/playerfree/34.rtmp
 
 #EXTINF:-1 tvg-logo="https://espnpressroom.com/us/files/2018/03/ESPN_PLUS_FC_POS-copy.jpg" group-title="41- DEPORTES LATINO",Espn Plus_OFF_
 http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
@@ -3841,16 +3847,22 @@ http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
 http://sudaka.sytes.net:25461/quebec/quebec/12341
 #EXTINF:-1 tvg-logo="https://www.revistaneo.com/sites/default/files/2018-01/FOX-SportsLogo.jpg" group-title="41- DEPORTES LATINO",Fox Sports (7)
 http://sudaka.sytes.net:25461/moises/moises/12341
+#EXTINF:-1 tvg-logo="https://www.revistaneo.com/sites/default/files/2018-01/FOX-SportsLogo.jpg" group-title="41- DEPORTES LATINO",Fox Sports (8)
+https://sviptvarg.com:443/live/dazplayer/playerfree/73.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_fox-sports-2_m.png" group-title="41- DEPORTES LATINO",Fox Sports 2 (6)
 http://sudaka.sytes.net:25461/quebec/quebec/12339
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_fox-sports-2_m.png" group-title="41- DEPORTES LATINO",Fox Sports 2 (7)
 http://sudaka.sytes.net:25461/moises/moises/12339
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_fox-sports-2_m.png" group-title="41- DEPORTES LATINO",Fox Sports 2 (8)
+https://sviptvarg.com:443/live/dazplayer/playerfree/72.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-3_m.png" group-title="41- DEPORTES LATINO",Fox Sports 3 (6)
 http://sudaka.sytes.net:25461/quebec/quebec/12338
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-3_m.png" group-title="41- DEPORTES LATINO",Fox Sports 3 (7)
 http://sudaka.sytes.net:25461/moises/moises/12338
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-3_m.png" group-title="41- DEPORTES LATINO",Fox Sports 3 (8)
+https://sviptvarg.com:443/live/dazplayer/playerfree/2.rtmp
 
 #EXTINF:-1 tvg-logo="https://s3-assets1.flowics.com/web/uploads/production/generic-resources/asset/20429/versioned_b9b117b2abb9cab316bdabfe18b654dc_small.png" group-title="41- DEPORTES LATINO",Fox Sports Premium (6)
 http://sudaka.sytes.net:25461/quebec/quebec/12431
@@ -3885,6 +3897,8 @@ http://sudaka.sytes.net:25461/moises/moises/12516
 http://sudaka.sytes.net:25461/quebec/quebec/12870
 #EXTINF:-1 tvg-logo="http://budtv.ottmex.com/posters/1529007557436.png" group-title="41- DEPORTES LATINO",Tnt Sports (7)
 http://sudaka.sytes.net:25461/moises/moises/12870
+#EXTINF:-1 tvg-logo="http://budtv.ottmex.com/posters/1529007557436.png" group-title="41- DEPORTES LATINO",Tnt Sports (8)
+https://sviptvarg.com:443/live/dazplayer/playerfree/118.rtmp
 
 #EXTINF:-1 tvg-logo="https://s22958.pcdn.co/wp-content/uploads/2017/04/TUDN_824x568.png" group-title="41- DEPORTES LATINO",Tudn_OFF_
 http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
