@@ -279,6 +279,9 @@ http://tv.factoryiptv.com:80/Frank/12345/37095
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo Brasilia (5)
 http://srv.tvprodigital.net:80/109833/109833/7530
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo Ceará
+http://fhr.ddns.net:25461/live/333333/333333/62083.ts
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo MG (6)
 http://189.91.128.150:5555/udp/227.10.20.109:1234
 
@@ -410,6 +413,9 @@ http://tv.factoryiptv.com:80/Frank/12345/37048
 http://srv.tvprodigital.net:80/109833/109833/4412
 #EXTINF:-1 tvg-logo="https://www.chillglobal.com/images/channels/tv-cultura-1432560421.jpg" group-title="04- BRASIL",TV Cultura⁻ˢᵈ⁻
 http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-uaPeK7fbqA8/VkSiGtouM2I/AAAAAAAABMI/VLGoV3XSR3I/s1600/tvd.jpg" group-title="04- BRASIL",Tv Diario Ceará
+http://fhr.ddns.net:25461/live/333333/333333/62111.ts
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/29bd5af93095d92009a3090c0b978a60.png" group-title="04- BRASIL",Tv Diario do Sertao⁻ˢᵈ⁻
 http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/chunklist_w1056637401.m3u8?GrupoTopIptv
