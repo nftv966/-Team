@@ -344,6 +344,9 @@ http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://www.metropolenews.tv/wp-content/uploads/2020/04/METR%C3%93POLE-NEWS-TV-MARCA-DAGUA.png" group-title="04- BRASIL",Metropole News tv⁻ˢᵈ⁻
 http://in.uaimacks.net.br:1935/macks/macks.sdp/chunklist_w1760176873.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/d684da91fb2351344538a1aef178cf67.png" group-title="04- BRASIL",Nova Manchete
+http://fhr.ddns.net:25461/live/333333/333333/52702.ts
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record (1)
 http://srv.tvprodigital.net:80/098038/098038/4423
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record (2)
