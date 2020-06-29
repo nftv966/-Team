@@ -2745,6 +2745,8 @@ http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/577.ts
 #EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_e-490x490.png" group-title="30- VARIEDADES LATINO",E! (2)
 http://uruguayiptv.com:25461/live/pablo2019/pablo2019/577.ts
+#EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_e-490x490.png" group-title="30- VARIEDADES LATINO",E! (8)
+https://sviptvarg.com:443/live/dazplayer/playerfree/54.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/68ztlZE.png" group-title="30- VARIEDADES LATINO",El Gourmet (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/319.ts
@@ -2763,8 +2765,8 @@ http://uruguayiptv.com:25461/live/miguel2019/miguel2019/674.ts
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/film_and_arts-mediano.png" group-title="30- VARIEDADES LATINO",Film & Arts (2)
 http://uruguayiptv.com:25461/live/pablo2019/pablo2019/674.ts
 
-#EXTINF:-1 tvg-logo="https://bestofsno.com/wp-content/uploads/2019/03/3.18-culinary.png" group-title="30- VARIEDADES LATINO",Food Network_OFF_
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="https://bestofsno.com/wp-content/uploads/2019/03/3.18-culinary.png" group-title="30- VARIEDADES LATINO",Food Network (8)
+https://sviptvarg.com:443/live/dazplayer/playerfree/121.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/22/53/ef/2253eff0b7164502c402c73e98ef9417.png" group-title="30- VARIEDADES LATINO",Glitz (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/324.ts
@@ -2775,13 +2777,15 @@ http://sudaka.sytes.net:25461/quebec/quebec/12847
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/22/53/ef/2253eff0b7164502c402c73e98ef9417.png" group-title="30- VARIEDADES LATINO",Glitz (7)
 http://sudaka.sytes.net:25461/moises/moises/12847
 
-#EXTINF:-1 tvg-logo="https://negociosus.files.wordpress.com/2013/10/hola_tv_logo_octubre_2013_1.jpg" group-title="30- VARIEDADES LATINO",Hola TV_OFF_
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="https://negociosus.files.wordpress.com/2013/10/hola_tv_logo_octubre_2013_1.jpg" group-title="30- VARIEDADES LATINO",Hola TV (8)
+https://sviptvarg.com:443/live/dazplayer/playerfree/46.rtmp
 
 #EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2017/06/logo_tv_lifetime_june2017-500x250.png" group-title="30- VARIEDADES LATINO",Lifetime (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/542.ts
 #EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2017/06/logo_tv_lifetime_june2017-500x250.png" group-title="30- VARIEDADES LATINO",Lifetime (2)
 http://uruguayiptv.com:25461/live/pablo2019/pablo2019/542.ts
+#EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2017/06/logo_tv_lifetime_june2017-500x250.png" group-title="30- VARIEDADES LATINO",Lifetime (8)
+https://sviptvarg.com:443/live/dazplayer/playerfree/43.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/mas-chic.png" group-title="30- VARIEDADES LATINO",Mas Chic (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/325.ts
@@ -2792,6 +2796,8 @@ http://uruguayiptv.com:25461/live/pablo2019/pablo2019/325.ts
 http://sudaka.sytes.net:25461/quebec/quebec/12331
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/112-1126076_old-music-mtv-png-logo-mtv-logo-transparent.png" group-title="30- VARIEDADES LATINO",Mtv (7)
 http://sudaka.sytes.net:25461/moises/moises/12331
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/112-1126076_old-music-mtv-png-logo-mtv-logo-transparent.png" group-title="30- VARIEDADES LATINO",Mtv (8)
+https://sviptvarg.com:443/live/dazplayer/playerfree/16.rtmp
 
 #EXTINF:-1 tvg-logo="https://www.itizaps.net/zapper/logo/b/mtv-hits-2014.png" group-title="30- VARIEDADES LATINO",Mtv Hits (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/1671.ts
@@ -2814,6 +2820,8 @@ http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
 http://pcjatv.com:8080/tyrone/tyrone/28934
 #EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2017/07/televisa-afiliados-telehit-logo.jpg" group-title="30- VARIEDADES LATINO",Telehit (5)
 http://pcjatv.com:8080/Kerry/Kerry/28934
+#EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2017/07/televisa-afiliados-telehit-logo.jpg" group-title="30- VARIEDADES LATINO",Telehit (8)
+https://sviptvarg.com:443/live/dazplayer/playerfree/21.rtmp
 
 #EXTINF:-1 tvg-logo="https://televisatvdepaga.com/wp-content/uploads/2019/11/telehit-urbano-300.png" group-title="30- VARIEDADES LATINO",Telehit Urbano_OFF_
 http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
