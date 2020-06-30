@@ -7,11 +7,6 @@
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
-######################################################################################################################################
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41UPIHLXcwL.png" group-title="Usar con VLC",Usar con VLC
-http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
-#####################################################################################################################################
-
 ####################################### LATINO
 #EXTINF:-1 tvg-logo="https://ibericalanguages.com/wp-content/uploads/2014/10/banderas-hispanidad.jpg" group-title="01-LATINO",01-LATINO
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
@@ -20,12 +15,6 @@ http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41HjoRzfxFL._AC_.jpg" group-title="01-LATINO",Guerra Mundial Z (2013)
 http://storage.googleapis.com/omega-pivot-269518.appspot.com/cv0816711s.mp4
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A1gb4hHroVL._SY445_.jpg" group-title="01-LATINO",Maze Runner 2 (2015)
-http://storage.googleapis.com/iron-fountain-266419.appspot.com/WZg5QvvY5D3.mp4 
-
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_215_290/medias/nmedia/18/68/20/31/19785394.jpg" group-title="01-LATINO",El Rey Leon (1994)
-http://storage.googleapis.com/iron-fountain-266419.appspot.com/O3agQnGxPwW.mp4 
 
 #EXTINF:-1 tvg-logo="https://www.cartelera.com.uy/imagenes_espectaculos/moviedetail13/23161.jpg" group-title="01-LATINO",Maze Runner 3 (2018)
 http://storage.googleapis.com/omega-pivot-269518.appspot.com/cv4500922ltv4.mp4
@@ -51,20 +40,11 @@ http://ia601507.us.archive.org/29/items/hombre-en-llamas.-j.-c.-l./Hombre%20en%2
 #EXTINF:-1 tvg-logo="https://cartelesmix.es/images/CartelesC/chicosdelmaiz84003.jpg" group-title="01-LATINO",Los niños del maiz (1984)
 http://ia601502.us.archive.org/23/items/los-ninos-del-maiz-1984-j.-c.-l./Los%20ni%C3%B1os%20del%20ma%C3%ADz%201984%20%20%E2%98%86%E3%80%8AJ.C.L.%E3%80%8B%E2%98%86.mp4
 
-#EXTINF:-1 tvg-logo="https://bloghorror.com/wp-content/uploads/2013/04/dark-skies-dvd-cover-99.jpg" group-title="01-LATINO",Cielos misteriosos (2013)
-http://storage.googleapis.com/iron-fountain-266419.appspot.com/7GBODgBz9YP.mp4
-
 #EXTINF:-1 tvg-logo="https://cloud10.todocoleccion.online/cine-guias-peliculas/tc/2018/08/15/01/130814688.jpg" group-title="01-LATINO",Los Simpsons:La pelicula (2007)
 http://storage.googleapis.com/silver-aurora-275105.appspot.com/hash/SklrVjlsZktNd2lnM1lrMEg4T3plQT09.mp4
 
 #EXTINF:-1 tvg-logo="https://http2.mlstatic.com/exterminio-2-dvd-buen-estado-original-D_NQ_NP_320625-MLA25447250566_032017-F.jpg" group-title="01-LATINO",Exterminio 2 (2007)
 http://storage.googleapis.com/silver-aurora-275105.appspot.com/hash/UmthTHd5ZEhLdUhDQzRDK1lVU3Jydz09.mp4
-
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/06/17/14/04/353959.jpg" group-title="01-LATINO",Guardianes de las galaxias 1 (2014)
-http://storage.googleapis.com/atomic-saga-252618.appspot.com/hash/SzBDTXhwYUxKeUpaajFudnFVUERhZz09.mp4
-
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/03/09/14/11/154943.jpg" group-title="01-LATINO",Guardianes de las galaxias 2 (2017)
-http://storage.googleapis.com/atomic-saga-252618.appspot.com/hash/L3dTbUhpUzdDZEhrYkVMMGU1dnd5UT09.mp4
 
 #EXTINF:-1 tvg-logo="https://static.pelisbot.com/movie/cover/original/cc3ddf40448f78d2a6b3dd2965b43252.jpg" group-title="01-LATINO",Dragon Rojo (2002)
 http://ia601502.us.archive.org/23/items/mulan-2020-j.-c.-l./%20Mulan%202020%20%E2%98%86%E3%80%8AJ.C.L.%E3%80%8B%E2%98%86%20.mp4
@@ -948,39 +928,31 @@ http://144.217.77.218/budtv/PELICULAS/2019/enero/th3.0ld.m4n.4nd.th3.gun.2018.la
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71ZAMHqtp%2BL._SL1500_.jpg" group-title="01-LATINO",The miracle season (2018)
 http://144.217.77.218/budtv/PELICULAS/2019/enero/th3.m1r4cl3.s34s0n.2018.latino.mp4
 
-
-
-####################################### LATINO NR
-#EXTINF:-1 tvg-logo="https://ibericalanguages.com/wp-content/uploads/2014/10/banderas-hispanidad.jpg" group-title="02-LATINO NR",02-LATINO NR
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-
-
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/25/14/18/1589482.jpg" group-title="02-LATINO NR",Men in Black: International HD
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/25/14/18/1589482.jpg" group-title="01-LATINO",Men in Black: International HD
 http://95.217.40.123/peliculas/08/MIB4HD.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/25/14/18/1589482.jpg" group-title="02-LATINO NR",Men in Black: International SD
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/25/14/18/1589482.jpg" group-title="01-LATINO",Men in Black: International SD
 http://95.217.40.123/peliculas/08/MIB4SD.mkv
-#EXTINF:-1 tvg-logo="https://www.ecartelera.com/carteles/14100/14114/003_p.jpg" group-title="02-LATINO NR",Más allá de la esperanza HD
+#EXTINF:-1 tvg-logo="https://www.ecartelera.com/carteles/14100/14114/003_p.jpg" group-title="01-LATINO",Más allá de la esperanza HD
 http://95.217.40.123/peliculas/08/BreakthroughHD.mkv
-#EXTINF:-1 tvg-logo="https://www.ecartelera.com/carteles/14100/14114/003_p.jpg" group-title="02-LATINO NR",Más allá de la esperanza SD
+#EXTINF:-1 tvg-logo="https://www.ecartelera.com/carteles/14100/14114/003_p.jpg" group-title="01-LATINO",Más allá de la esperanza SD
 http://95.217.40.123/peliculas/08/BreakthroughSD.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/05/14/11/36/1079776.jpg" group-title="02-LATINO NR",Angry Birds 2
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/05/14/11/36/1079776.jpg" group-title="01-LATINO",Angry Birds 2
 http://95.217.40.123/peliculas/08/4ngry.b1rds.2.2019.r4lph.ts.latino.mp4
-#EXTINF:-1 tvg-logo="https://cd.cinescape.com.pe/cinescape-325x457-285581.jpg" group-title="02-LATINO NR",Dulce Familia HD
+#EXTINF:-1 tvg-logo="https://cd.cinescape.com.pe/cinescape-325x457-285581.jpg" group-title="01-LATINO",Dulce Familia HD
 http://95.217.40.123/peliculas/08/Dulce.FamiliaHD.mkv
-#EXTINF:-1 tvg-logo="https://assets.cinepolisklic.com/cmsklicia/movieimages/dora-y-la-ciudad-perdida/poster_resize_192X288.jpg" group-title="02-LATINO NR",Dora y la ciudad perdida TS
+#EXTINF:-1 tvg-logo="https://assets.cinepolisklic.com/cmsklicia/movieimages/dora-y-la-ciudad-perdida/poster_resize_192X288.jpg" group-title="01-LATINO",Dora y la ciudad perdida TS
 http://95.217.40.123/peliculas/08/Dora.And.The.Lost.City.of.Gold.mp4
-#EXTINF:-1 tvg-logo="https://peliculas-elazca.website/wp-content/uploads/2019/08/la-vida-moderna-de-rocko-cambio-de-chip_81091977-1.jpg" group-title="02-LATINO NR",Rocko's Modern Life: Static Cling HD
+#EXTINF:-1 tvg-logo="https://peliculas-elazca.website/wp-content/uploads/2019/08/la-vida-moderna-de-rocko-cambio-de-chip_81091977-1.jpg" group-title="01-LATINO",Rocko's Modern Life: Static Cling HD
 http://95.217.40.123/peliculas/08/Rockos.Modern.Life.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/12/15/02/0137335.jpg" group-title="02-LATINO NR",UglyDolls: Extraordinariamente Feos
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/12/15/02/0137335.jpg" group-title="01-LATINO",UglyDolls: Extraordinariamente Feos
 http://95.217.40.123/peliculas/08/UglyDollsHD.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/12/15/02/0137335.jpg" group-title="02-LATINO NR",UglyDolls: Extraordinariamente Feos SD
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/12/15/02/0137335.jpg" group-title="01-LATINO",UglyDolls: Extraordinariamente Feos SD
 http://95.217.40.123/peliculas/08/UglyDollsSD.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/10/26/08/50/198471.jpg" group-title="02-LATINO NR",John Wick: Pacto de sangre 4K
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/10/26/08/50/198471.jpg" group-title="01-LATINO",John Wick: Pacto de sangre 4K
 http://95.217.40.123/HDR/johnwick2.mkv
-#EXTINF:-1 tvg-logo="https://www.cine.com/peliculas3/77890/77890_0.jpg" group-title="02-LATINO NR",Shazam 4K
+#EXTINF:-1 tvg-logo="https://www.cine.com/peliculas3/77890/77890_0.jpg" group-title="01-LATINO",Shazam 4K
 http://95.217.40.123/HDR/shazam.mkv
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51mhh27fP7L._SY445_.jpg" group-title="02-LATINO NR",Hancock HD
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51mhh27fP7L._SY445_.jpg" group-title="01-LATINO",Hancock HD
 http://95.217.40.123/smart01/backup16tb/home3/Hancock.mp4
 
 
