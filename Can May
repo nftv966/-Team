@@ -1704,8 +1704,8 @@ http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/artigas-tv.png" group-title="20- URUGUAY",Canal 3 Artigas_OFF_
 http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal-4-salto-uruagua-1.png" group-title="20- URUGUAY",Canal 4 Salto_OFF_
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal-4-salto-uruagua-1.png" group-title="20- URUGUAY",Canal 4 Salto
+http://latiniptv.vip:8008/live/12345/12345/6555.rtmp
 
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/10425/240/default.jpg" group-title="20- URUGUAY",Canal 7 Punta del Este_OFF_
 http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
@@ -1713,29 +1713,45 @@ http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6077/240/default.jpg" group-title="20- URUGUAY",Canal 8 Durazno_OFF_
 http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/LogoREDTelevisionColor1981.png/revision/latest/scale-to-width-down/340?cb=20190624164627" group-title="20- URUGUAY",La Red_OFF_
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/LogoREDTelevisionColor1981.png/revision/latest/scale-to-width-down/340?cb=20190624164627" group-title="20- URUGUAY",La Red
+http://latiniptv.vip:8008/live/12345/12345/113977.rtmp
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="20- URUGUAY",Montecarlo_OFF_
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="20- URUGUAY",Montecarlo
+http://latiniptv.vip:8008/live/12345/12345/6561.rtmp
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="20- URUGUAY",Montecarlo
+http://latiniptv.vip:8008/live/12345/12345/100765.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.canalm.tv/plantillas/temas/canalm/imagenes/canalm.png" group-title="20- URUGUAY",Montevideo Portal SD
 http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist_w1488231185.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/canal10.png" group-title="20- URUGUAY",Saeta Canal 10_OFF_
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/canal10.png" group-title="20- URUGUAY",Saeta Canal 10
+http://latiniptv.vip:8008/live/12345/12345/6556.rtmp
 
-#EXTINF:-1 tvg-logo="https://www.teledoce.com/wp-content/uploads/2019/09/logo-teledoce-2019_azul.png" group-title="20- URUGUAY",Teledoce_OFF_
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="https://www.teledoce.com/wp-content/uploads/2019/09/logo-teledoce-2019_azul.png" group-title="20- URUGUAY",Teledoce
+http://latiniptv.vip:8008/live/12345/12345/73625.rtmp
+#EXTINF:-1 tvg-logo="https://www.teledoce.com/wp-content/uploads/2019/09/logo-teledoce-2019_azul.png" group-title="20- URUGUAY",Teledoce
+http://latiniptv.vip:8008/live/12345/12345/100764.rtmp
+#EXTINF:-1 tvg-logo="https://www.teledoce.com/wp-content/uploads/2019/09/logo-teledoce-2019_azul.png" group-title="20- URUGUAY",Teledoce
+http://latiniptv.vip:8008/live/12345/12345/100766.rtmp
 
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6001/320/default.jpg" group-title="20- URUGUAY",Vera +_OFF_
 http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
 
-#EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_2da07aaf6d.png" group-title="20- URUGUAY",VTV_OFF_
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_2da07aaf6d.png" group-title="20- URUGUAY",VTV
+http://latiniptv.vip:8008/live/12345/12345/6557.rtmp
+#EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_2da07aaf6d.png" group-title="20- URUGUAY",VTV
+http://latiniptv.vip:8008/live/12345/12345/6559.rtmp
+#EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_2da07aaf6d.png" group-title="20- URUGUAY",VTV
+http://latiniptv.vip:8008/live/12345/12345/6562.rtmp
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-2A5wJVTgb4Y/UPFifoWY2TI/AAAAAAAAAV8/g_Lasd6u1LI/s1600/VTV+.jpg" group-title="20- URUGUAY",VTV +_OFF_
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-2A5wJVTgb4Y/UPFifoWY2TI/AAAAAAAAAV8/g_Lasd6u1LI/s1600/VTV+.jpg" group-title="20- URUGUAY",VTV +
+http://latiniptv.vip:8008/live/12345/12345/6558.rtmp
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-2A5wJVTgb4Y/UPFifoWY2TI/AAAAAAAAAV8/g_Lasd6u1LI/s1600/VTV+.jpg" group-title="20- URUGUAY",VTV +
+http://latiniptv.vip:8008/live/12345/12345/8787.rtmp
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-2A5wJVTgb4Y/UPFifoWY2TI/AAAAAAAAAV8/g_Lasd6u1LI/s1600/VTV+.jpg" group-title="20- URUGUAY",VTV +
+http://latiniptv.vip:8008/live/12345/12345/49443.rtmp
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-2A5wJVTgb4Y/UPFifoWY2TI/AAAAAAAAAV8/g_Lasd6u1LI/s1600/VTV+.jpg" group-title="20- URUGUAY",VTV +
+http://latiniptv.vip:8008/live/12345/12345/100763.rtmp
 
 
 ######################################################################################################################################
