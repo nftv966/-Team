@@ -777,12 +777,16 @@ http://217.182.77.27/live/alcarriatv-livestream.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/AMCHD.png" group-title="11- ESPAÑA",Amc
 http://85.10.201.147:8080/live/RQDyCkTCv2/m0mRCzTvIz/212342.ts?play_token=PRLmZiufE2&token=TEdbWEFQQQkWUVFSA1ZZCQFUDQZWAQFUUQYBA1IHAlMEXQEBBgsGCgRDGBMWRxNcUFxqDVERWVMBVgBYUx4TQEQAQWZbXEEJFlMAA1cGWRsdE0ENWFZBWwFRClJVCwkMBVwfG0JRBxEOD0FdCR9DXElFUBZbUg8+VAFFCAZXEw9ZEF9VHhoMXWsFUVwEXQUbCxMERhkRChJARgkPEF5dGRUHWk1AWRdWFltaRAlfTRtSXkAKQUEaQwpGdjJHHhNQTxFWV0FRDF0WWxZFFhFNG1hCahZQQBcTVQVeBBcQCxcHRx8bX1kbbFcOWl8AUBVQXl9GRg8RUkMcRl4OC1tFWkU6Q1BWGlldQQ1YTA==
 
+#EXTINF:-1 tvg-logo="https://www.miwuki.com/wp-content/uploads/2016/10/logo-antena-3.png" group-title="11- ESPAÑA",Antena 3 HD
+http://a.srvbr.me:8880/143845/143845/5725
 #EXTINF:-1 tvg-logo="https://www.miwuki.com/wp-content/uploads/2016/10/logo-antena-3.png" group-title="11- ESPAÑA",Antena 3
 http://85.10.201.147:8080/live/RQDyCkTCv2/m0mRCzTvIz/212394.ts?play_token=PRLmZiufE2&token=TEdbWEFQQQkWUVFSA1ZZCQFUDQZWAQFUUQYBA1IHAlMEXQEBBgsGCgRDGBMWRxNcUFxqDVERWVMBVgBYUx4TQEQAQWZbXEEJFlMAA1cGWRsdE0ENWFZBWwFRClJVCwkMBVwfG0JRBxEOD0FdCR9DXElFUBZbUg8+VAFFCAZXEw9ZEF9VHhoMXWsFUVwEXQUbCxMERhkRChJARgkPEF5dGRUHWk1AWRdWFltaRAlfTRtSXkAKQUEaQwpGdjJHHhNQTxFWV0FRDF0WWxZFFhFNG1hCahZQQBcTVQVeBBcQCxcHRx8bX1kbbFcOWl8AUBVQXl9GRg8RUkMcRl4OC1tFWkU6Q1BWGlldQQ1YTA==
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/aragon-tv-logo.png" group-title="11- ESPAÑA",Aragon tv_OFF_
 http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
 
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="11- ESPAÑA",Axn HD
+http://a.srvbr.me:8880/143845/143845/5719
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="11- ESPAÑA",Axn
 http://85.10.201.147:8080/live/RQDyCkTCv2/m0mRCzTvIz/212341.ts?play_token=PRLmZiufE2&token=TEdbWEFQQQkWUVFSA1ZZCQFUDQZWAQFUUQYBA1IHAlMEXQEBBgsGCgRDGBMWRxNcUFxqDVERWVMBVgBYUx4TQEQAQWZbXEEJFlMAA1cGWRsdE0ENWFZBWwFRClJVCwkMBVwfG0JRBxEOD0FdCR9DXElFUBZbUg8+VAFFCAZXEw9ZEF9VHhoMXWsFUVwEXQUbCxMERhkRChJARgkPEF5dGRUHWk1AWRdWFltaRAlfTRtSXkAKQUEaQwpGdjJHHhNQTxFWV0FRDF0WWxZFFhFNG1hCahZQQBcTVQVeBBcQCxcHRx8bX1kbbFcOWl8AUBVQXl9GRg8RUkMcRl4OC1tFWkU6Q1BWGlldQQ1YTA==
 
@@ -813,6 +817,8 @@ http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
 #EXTINF:-1 tvg-logo="https://diretele.com/wp-content/uploads/2018/09/101-TV-en-directo.png" group-title="11- ESPAÑA",Canal 101 tv Málaga
 http://secure7.todostreaming.es/live/101tv-web101tv.m3u8
 
+#EXTINF:-1 tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="11- ESPAÑA",Canal 24 Horas HD
+http://a.srvbr.me:8880/143845/143845/5722
 #EXTINF:-1 tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="11- ESPAÑA",Canal 24 Horas
 http://85.10.201.147:8080/live/RQDyCkTCv2/m0mRCzTvIz/212383.ts?play_token=PRLmZiufE2&token=TEdbWEFQQQkWUVFSA1ZZCQFUDQZWAQFUUQYBA1IHAlMEXQEBBgsGCgRDGBMWRxNcUFxqDVERWVMBVgBYUx4TQEQAQWZbXEEJFlMAA1cGWRsdE0ENWFZBWwFRClJVCwkMBVwfG0JRBxEOD0FdCR9DXElFUBZbUg8+VAFFCAZXEw9ZEF9VHhoMXWsFUVwEXQUbCxMERhkRChJARgkPEF5dGRUHWk1AWRdWFltaRAlfTRtSXkAKQUEaQwpGdjJHHhNQTxFWV0FRDF0WWxZFFhFNG1hCahZQQBcTVQVeBBcQCxcHRx8bX1kbbFcOWl8AUBVQXl9GRg8RUkMcRl4OC1tFWkU6Q1BWGlldQQ1YTA==
 #EXTINF:-1 tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="11- ESPAÑA",Canal 24 Horas⁻ˢᵈ⁻
@@ -864,6 +870,8 @@ http://85.10.201.147:8080/live/RQDyCkTCv2/m0mRCzTvIz/212393.ts?play_token=PRLmZi
 #EXTINF:-1 tvg-logo="https://casadecor.es/assets/uploads/2017/02/decasa.png" group-title="11- ESPAÑA",DeCasa_OFF_
 http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
 
+#EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="11- ESPAÑA",Discovery Channel HD
+http://a.srvbr.me:8880/143845/143845/5718
 #EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="11- ESPAÑA",Discovery Channel
 http://85.10.201.147:8080/live/RQDyCkTCv2/m0mRCzTvIz/212307.ts?play_token=PRLmZiufE2&token=TEdbWEFQQQkWUVFSA1ZZCQFUDQZWAQFUUQYBA1IHAlMEXQEBBgsGCgRDGBMWRxNcUFxqDVERWVMBVgBYUx4TQEQAQWZbXEEJFlMAA1cGWRsdE0ENWFZBWwFRClJVCwkMBVwfG0JRBxEOD0FdCR9DXElFUBZbUg8+VAFFCAZXEw9ZEF9VHhoMXWsFUVwEXQUbCxMERhkRChJARgkPEF5dGRUHWk1AWRdWFltaRAlfTRtSXkAKQUEaQwpGdjJHHhNQTxFWV0FRDF0WWxZFFhFNG1hCahZQQBcTVQVeBBcQCxcHRx8bX1kbbFcOWl8AUBVQXl9GRg8RUkMcRl4OC1tFWkU6Q1BWGlldQQ1YTA==
 
@@ -2015,6 +2023,61 @@ https://stream.vagalume.fm/hls/1497039009964147/aac.m3u8
 #EXTINF:-1 tvg-logo="http://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="24- CINE BRASIL",Cine Sky⁻ˢᵈ⁻
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
 
+
+#######################################################################################################################################################################################
+#######################################################################################################################################################################################
+#######################################
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-BiKzoOVk5dA/WDMunV-BsZI/AAAAAAAAAT0/Qp6U1i5soHAv_l0z-QEBo8LNbxiM-pVNQCLcB/s1600/CINE%2B%252841%2529.png" group-title="25- 24 HORAS BRASIL",25- 24 HORAS BRASIL
+https://stream.vagalume.fm/hls/1497039009964147/aac.m3u8
+#######################################
+#######################################################################################################################################################################################
+######################################################################################################################################################################################
+
+
+#EXTINF:-1 tvg-logo="https://magarticles.magzter.com/articles/6838/346213/5cdc5763168ff/Bob-Esponja-Stephen-Hillenburg-Nickelodeon-Cangreburgers-Calamardo-Don-Cangrejo-Arenita-Texas-Seora-Puff-Plankton-Patricio.jpg" group-title="25- 24 HORAS BRASIL",Bob Esponja 24H
+http://a.srvbr.me:8880/001190/001190/12033
+#EXTINF:-1 tvg-logo="https://anitube.net.br/wp-content/uploads/2016/02/3RUtEMburh-400x650.jpg" group-title="25- 24 HORAS BRASIL",Cavaleiros dos Zodiacos 24H Saga Doze Casas
+http://a.srvbr.me:8880/001190/001190/12034
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/75/ce/db/75cedbe9a43abc212426ec99193742bd.jpg" group-title="25- 24 HORAS BRASIL",Classicos Disney 24H
+http://a.srvbr.me:8880/001190/001190/12035
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/9d/d3/64/9dd36441f20247c5418dcdb99c0cba8d.jpg" group-title="25- 24 HORAS BRASIL",Coragem o Cão Covarde 24H
+http://a.srvbr.me:8880/001190/001190/12036
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/10/77/fa/1077fa0551cb7a48520301c7ee6a4d74.jpg" group-title="25- 24 HORAS BRASIL",Dois Homens e Meio 24H
+http://a.srvbr.me:8880/001190/001190/12037
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/815HnU5jfYL.jpg" group-title="25- 24 HORAS BRASIL",Dragon Ball 24H
+http://a.srvbr.me:8880/001190/001190/12038
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e8/0a/08/e80a088c3686c8644a25021a8c76fcaf.png" group-title="25- 24 HORAS BRASIL",Familia da Pesada (Family Guy) 24H
+http://a.srvbr.me:8880/001190/001190/12039
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/33/d9/83/33d9832f6cbc25ec8411d28b1499168e.jpg" group-title="25- 24 HORAS BRASIL",Formiga Atomica 24H
+http://a.srvbr.me:8880/001190/001190/12040
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/futurama_tv_series-334545899-large.jpg" group-title="25- 24 HORAS BRASIL",Futurama 24H
+http://a.srvbr.me:8880/001190/001190/12041
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/342/1018/png-transparent-galinha-pintadinha-rooster-chicken-backpack-borboletinha-chicken.png" group-title="25- 24 HORAS BRASIL",Galinha Pintadinha 24H
+http://a.srvbr.me:8880/001190/001190/12042
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/21/d7/14/21d714c8618a46d02535009e0a6b4dac.jpg" group-title="25- 24 HORAS BRASIL",Luluzinha 24H
+http://a.srvbr.me:8880/001190/001190/12043
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6d/6b/e7/6d6be7328a2f4f830a98efddcc387f93.jpg" group-title="25- 24 HORAS BRASIL",Mickey e Donald 24H
+http://a.srvbr.me:8880/001190/001190/12044
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b1/62/48/b162488002e16177e89bb1ba0f6c4415.jpg" group-title="25- 24 HORAS BRASIL",Os Trapalhões 24H
+http://a.srvbr.me:8880/001190/001190/12045
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/24/f7/67/24f767ba8692356ecc24b366f582ff17.jpg" group-title="25- 24 HORAS BRASIL",Peppa Pig 24H
+http://a.srvbr.me:8880/001190/001190/12046
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71BvNrhBJ9L._AC_SY550_.jpg" group-title="25- 24 HORAS BRASIL",South Park 24H
+http://a.srvbr.me:8880/001190/001190/12047
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81WBKhvawKL._SL1500_.jpg" group-title="25- 24 HORAS BRASIL",Thundercats 24H
+http://a.srvbr.me:8880/001190/001190/12048
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51pT19VtHtL._AC_SY445_.jpg" group-title="25- 24 HORAS BRASIL",Todo Mundo Odeia o Cris 24H
+http://a.srvbr.me:8880/001190/001190/12049
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/3e/9b/16/3e9b16e7f7225da940a0617a317a932e.png" group-title="25- 24 HORAS BRASIL",Um Maluco no Pedaço 24H
+http://a.srvbr.me:8880/001190/001190/12050
+#EXTINF:-1 tvg-logo="https://a.wattpad.com/cover/138843806-288-k753347.jpg" group-title="25- 24 HORAS BRASIL",As aventuras de Jackie Chan 24H
+http://a.srvbr.me:8880/001190/001190/12051
+#EXTINF:-1 tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/8e/2017/06/27/corrida-maluca-1498587079953_v2_450x450.jpg" group-title="25- 24 HORAS BRASIL",Corrida Maluca 24H
+http://a.srvbr.me:8880/001190/001190/12052
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/bc/7e/4c/bc7e4c544e0393da9a8cae7775110a92.jpg" group-title="25- 24 HORAS BRASIL",Kenan e Kel 24H
+http://a.srvbr.me:8880/001190/001190/12053
+#EXTINF:-1 tvg-logo="https://www.vippng.com/png/detail/95-951848_the-mask-o-mascara-render.png" group-title="25- 24 HORAS BRASIL",O Mascara 24H
+http://a.srvbr.me:8880/001190/001190/12054
 #######################################################################################################################################################################################
 #######################################
 #EXTINF:-1 tvg-logo="https://site.ccsdlanguages.org/images/category_images/WL-Button-Latin.png" group-title="28- PREMIUM LATINO",28- PREMIUM LATINO
