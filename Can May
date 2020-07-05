@@ -1788,125 +1788,161 @@ http://latiniptv.vip:8008/live/12345/12345/100763.rtmp
 http://ic7.101.ru:8000/a8
 ######################################################################################################################################
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/312LhQsVqtL.png" group-title="21- USA",A&E_OFF_
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/312LhQsVqtL.png" group-title="21- USA",A&E
+http://a.srvbr.me:8880/143845/143845/5846
 
-#EXTINF:-1 tvg-logo="http://tvonline.linkscomdo.netdna-cdn.com/images/sobipro/entries/122/img_abc-logo-tv-online.jpg" group-title="21- USA",ABC_OFF_
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="http://tvonline.linkscomdo.netdna-cdn.com/images/sobipro/entries/122/img_abc-logo-tv-online.jpg" group-title="21- USA",ABC
+http://a.srvbr.me:8880/143845/143845/5862
 
 #EXTINF:-1 tvg-logo="http://www.horrorchannel.co.uk/grfx/stuff/horror-channel-logo.png" group-title="21- USA",American Horror⁻ˢᵈ⁻
 http://170.178.189.66:1935/live/Stream1/.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/AMCHD.png" group-title="21- USA",AMC_OFF_
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/AMCHD.png" group-title="21- USA",AMC
+http://a.srvbr.me:8880/143845/143845/5863
 
-#EXTINF:-1 tvg-logo="http://www.bbcamerica.com/wp-content/plugins/bbca-app-banner/img/app-icon.png" group-title="21- USA",BBC America_OFF_
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="http://www.bbcamerica.com/wp-content/plugins/bbca-app-banner/img/app-icon.png" group-title="21- USA",BBC America
+http://a.srvbr.me:8880/143845/143845/5855
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_bbc-world_m.png" group-title="21- USA",BBC World News_OFF_
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="21- USA",Cartoon Network
+http://a.srvbr.me:8880/143845/143845/5834
 
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/bettv.png" group-title="21- USA",Bet_OFF_
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="https://www.soda.com/wp-content/uploads/2017/06/cbs-sports-network-live-stream-e1498601432374-600x361.jpg" group-title="21- USA",CBS Sports Network
+http://a.srvbr.me:8880/143845/143845/5815
 
-#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="21- USA",Cartoon Network_OFF_
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="http://www.provocare.com.au/wp-content/uploads/2018/06/cnn-logo-original-hd-png-transparent.png"  group-title="21- USA",CNN
+http://a.srvbr.me:8880/143845/143845/5857
 
-#EXTINF:-1 tvg-logo="https://www.adweek.com/tvspy/wp-content/uploads/sites/4/2015/11/CBS-TV-Stations.jpg" group-title="21- USA",CBS Miami_OFF_
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="http://img.miptv.ws/usa/cozi.png"  group-title="21- USA",Cozi tv
+http://a.srvbr.me:8880/143845/143845/5852
 
-#EXTINF:-1 tvg-logo="https://sevensreport.com/wp-content/uploads/2019/04/CNBC-logo-300x250.jpg" group-title="21- USA",CNBC_OFF_
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="http://img.miptv.ws/usa/discovery.png"  group-title="21- USA",Discovery Channel
+http://a.srvbr.me:8880/143845/143845/5845
 
-#EXTINF:-1 tvg-logo="http://www.provocare.com.au/wp-content/uploads/2018/06/cnn-logo-original-hd-png-transparent.png"  group-title="21- USA",CNN_OFF_
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png"  group-title="21- USA",Disney Channel
+http://a.srvbr.me:8880/143845/143845/5835
 
-#EXTINF:-1 tvg-logo="https://letstalkabout.tv/wp-content/uploads/2011/04/velocity.png"  group-title="21- USA",Discovery Velocity_OFF_
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="http://img.miptv.ws/usa/escape.png"  group-title="21- USA",Escape
+http://a.srvbr.me:8880/143845/143845/5839
 
-#EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png"  group-title="21- USA",Disney Channel_OFF_
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="http://img.miptv.ws/usa/espn.png"  group-title="21- USA",ESPN 1
+http://a.srvbr.me:8880/143845/143845/5829
 
-#EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/Disney_XD_-_2015.svg_.png"  group-title="21- USA",Disney XD_OFF_
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="http://img.miptv.ws/usa/espn2.png"  group-title="21- USA",ESPN 2
+http://a.srvbr.me:8880/143845/143845/5828
 
-#EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_e-490x490.png"  group-title="21- USA",E!_OFF_
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="http://img.miptv.ws/usa/espngoal.png"  group-title="21- USA",ESPN Goal Line
+http://a.srvbr.me:8880/143845/143845/5825
 
-#EXTINF:-1 tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/espn_u.png.300x300_q85.png"  group-title="21- USA",ESPN U_OFF_
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="http://img.miptv.ws/usa/espnn.png"  group-title="21- USA",ESPN News
+http://a.srvbr.me:8880/143845/143845/5826
 
-#EXTINF:-1 tvg-logo="https://bestofsno.com/wp-content/uploads/2019/03/3.18-culinary.png"  group-title="21- USA",Food Network_OFF_
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/espn_u.png.300x300_q85.png"  group-title="21- USA",ESPN U
+http://a.srvbr.me:8880/143845/143845/5827
 
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_CINEMA.png"  group-title="21- USA",Fox Cinema⁻ˢᵈ⁻
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://discriminationandsexualharassmentlawyers.com/wp-content/uploads/2019/04/Foxnews.png"  group-title="21- USA",Fox News_OFF_
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="http://img.miptv.ws/usa/fox29.png"  group-title="21- USA",FOX 29
+http://a.srvbr.me:8880/143845/143845/5856
 
-#EXTINF:-1 tvg-logo="https://www.rbr.com/wp-content/uploads/FXX.jpg"  group-title="21- USA",Fxx_OFF_
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="https://discriminationandsexualharassmentlawyers.com/wp-content/uploads/2019/04/Foxnews.png"  group-title="21- USA",Fox News
+http://a.srvbr.me:8880/143845/143845/5858
 
-#EXTINF:-1 tvg-logo="https://www.multichannel.com/.image/t_share/MTU0MDY0OTk1NDgyNDc3NjUw/screen-shot-2014-08-25-at-53357-pmpng.png"  group-title="21- USA",Golf Channel_OFF_
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="http://img.miptv.ws/usa/FOX_Sports_1.png" group-title="21- USA",FOX Sports 1
+http://a.srvbr.me:8880/143845/143845/5819
 
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/f4/f45c367086fdf2095a9fda53ebc1ea55.png"  group-title="21- USA",Hallmark Channel_OFF_
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="http://img.miptv.ws/usa/fx.png" group-title="21- USA",FX
+http://a.srvbr.me:8880/143845/143845/5854
+
+#EXTINF:-1 tvg-logo="https://www.rbr.com/wp-content/uploads/FXX.jpg"  group-title="21- USA",Fxx
+http://a.srvbr.me:8880/143845/143845/5853
+
+#EXTINF:-1 tvg-logo="https://www.multichannel.com/.image/t_share/MTU0MDY0OTk1NDgyNDc3NjUw/screen-shot-2014-08-25-at-53357-pmpng.png"  group-title="21- USA",Golf Channel
+http://a.srvbr.me:8880/143845/143845/5814
+
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/f4/f45c367086fdf2095a9fda53ebc1ea55.png"  group-title="21- USA",Hallmark Channel
+http://a.srvbr.me:8880/143845/143845/5841
+
+#EXTINF:-1 tvg-logo="http://img.miptv.ws/usa/hallmarkm.png"  group-title="21- USA",Hallmark Movies
+http://a.srvbr.me:8880/143845/143845/5840
 
 #EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png"  group-title="21- USA",Hbo 2⁻ˢᵈ⁻
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png"  group-title="21- USA",HBO Family_OFF_
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png"  group-title="21- USA",History
+http://a.srvbr.me:8880/143845/143845/5844
 
-#EXTINF:-1 tvg-logo="https://operadores.hbo-la.tv/img/layout/logos/hbosignature.png"  group-title="21- USA",HBO Signature_OFF_
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="http://img.miptv.ws/usa/hsn.png"  group-title="21- USA",HSN
+http://a.srvbr.me:8880/143845/143845/5810
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png"  group-title="21- USA",History_OFF_
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="http://img.miptv.ws/usa/hsn2.png"  group-title="21- USA",HSN 2
+http://a.srvbr.me:8880/143845/143845/5809
 
-#EXTINF:-1 tvg-logo="https://www.cabletv.com/app/uploads/HGTV-Logo-1.png"  group-title="21- USA",HGTV_OFF_
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="http://img.miptv.ws/usa/ion.png"  group-title="21- USA",Ion Life
+http://a.srvbr.me:8880/143845/143845/5803
 
-#EXTINF:-1 tvg-logo="https://revistamomentos.co/wp-content/uploads/2017/12/ID-1900x1833_c.jpg"  group-title="21- USA",Investigation Discovery_OFF_
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="http://img.miptv.ws/usa/justice.png"  group-title="21- USA",Justice
+http://a.srvbr.me:8880/143845/143845/5806
 
-#EXTINF:-1 tvg-logo="http://www.logotypes101.com/logos/64/E14396CCFEC232F591FEB888C31CBCED/lifetime-movies-2017.png"  group-title="21- USA",Lifetime Movies_OFF_
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="http://img.miptv.ws/usa/laff.png"  group-title="21- USA",Laff
+http://a.srvbr.me:8880/143845/143845/5805
 
-#EXTINF:-1 tvg-logo="https://media1.s-nbcnews.com/i/newscms/2018_21/2442291/msnbc-og-image_c986de7e1bb6ad2281723b692aa61990.png"  group-title="21- USA",MSNBC_OFF_
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="https://media1.s-nbcnews.com/i/newscms/2018_21/2442291/msnbc-og-image_c986de7e1bb6ad2281723b692aa61990.png"  group-title="21- USA",MSNBC
+http://a.srvbr.me:8880/143845/143845/5860
 
-#EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png"  group-title="21- USA",Nat Geo_OFF_
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="http://img.miptv.ws/usa/mtv.png"  group-title="21- USA",MTV
+http://a.srvbr.me:8880/143845/143845/5807
 
-#EXTINF:-1 tvg-logo="http://www.lettreaudiovisuel.com/wp-content/uploads/2014/12/Nat-Geo-Wild.png"  group-title="21- USA",Nat Geo Wild_OFF_
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png"  group-title="21- USA",Nat Geo
+http://a.srvbr.me:8880/143845/143845/5843
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_nbc_m.png"  group-title="21- USA",NBC_OFF_
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="http://img.miptv.ws/usa/nba.png" group-title="21- USA",NBA
+http://a.srvbr.me:8880/143845/143845/5813
 
-#EXTINF:-1 tvg-logo="https://www.multichannelsasia.com/wp-content/uploads/2014/11/OC-Logo-011.png"  group-title="21- USA",Outdoor_OFF_
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_nbc_m.png"  group-title="21- USA",NBC
+http://a.srvbr.me:8880/143845/143845/5859
 
-#EXTINF:-1 tvg-logo="https://www.combsenterprises.com/wp-content/uploads/2015/08/revolt.jpg"  group-title="21- USA",Revolt_OFF_
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="http://img.miptv.ws/usa/nflnetwork.png" group-title="21- USA",NFL Network
+http://a.srvbr.me:8880/143845/143845/5822
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/www.yourentertainmentcorner.com/wp-content/uploads/2017/03/Science-Channel-logo-e1537323969393.png"  group-title="21- USA",Sci_OFF_
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="http://img.miptv.ws/usa/nflred.png" group-title="21- USA",NFL Red Zone
+http://a.srvbr.me:8880/143845/143845/5823
 
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/76fdb89924317.560dc78a6605f.jpg"  group-title="21- USA",Showtime_OFF_
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="http://img.miptv.ws/usa/nhl.png" group-title="21- USA",NHL Network
+http://a.srvbr.me:8880/143845/143845/5821
+
+#EXTINF:-1 tvg-logo="http://img.miptv.ws/usa/nick.png" group-title="21- USA",Nickelodeon
+http://a.srvbr.me:8880/143845/143845/5833
+
+#EXTINF:-1 tvg-logo="http://img.miptv.ws/usa/Oxygen.png" group-title="21- USA",Oxygen
+http://a.srvbr.me:8880/143845/143845/5851
+
+#EXTINF:-1 tvg-logo="http://img.miptv.ws/usa/pac12.png" group-title="21- USA",PAC-12
+http://a.srvbr.me:8880/143845/143845/5811
 
 #EXTINF:-1 tvg-logo="https://files.whooshkaa.com/podcasts/podcast_943/podcast_media/1a8bfa-podcast2.jpg"  group-title="21- USA",Sky News⁻ˢᵈ⁻
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://skyassineonline.com.br/img/channels/lg-84-canal-tbs.png"  group-title="21- USA",TBS_OFF_
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="http://img.miptv.ws/usa/sportsman.png" group-title="21- USA",Sportsman Channel
+http://a.srvbr.me:8880/143845/143845/5816
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_tru-tv_m.png"  group-title="21- USA",TruTV_OFF_
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="http://img.miptv.ws/usa/SYFY.png" group-title="21- USA",Syfy
+http://a.srvbr.me:8880/143845/143845/5850
+
+#EXTINF:-1 tvg-logo="http://img.miptv.ws/usa/telexistos.png" group-title="21- USA",Telexistos
+http://a.srvbr.me:8880/143845/143845/5849
+
+#EXTINF:-1 tvg-logo="https://skyassineonline.com.br/img/channels/lg-84-canal-tbs.png"  group-title="21- USA",TBS
+http://a.srvbr.me:8880/143845/143845/5838
+
+#EXTINF:-1 tvg-logo="http://img.miptv.ws/usa/TLC_logo_2.png" group-title="21- USA",TLC
+http://a.srvbr.me:8880/143845/143845/5848
+
+#EXTINF:-1 tvg-logo="http://img.miptv.ws/usa/travel.png" group-title="21- USA",Travel
+http://a.srvbr.me:8880/143845/143845/5847
+
+#EXTINF:-1 tvg-logo="http://img.miptv.ws/usa/usa.png" group-title="21- USA",USA Network
+http://a.srvbr.me:8880/143845/143845/5812
 
 #####################################################################################################################################
 ####################################### VENEZUELA
