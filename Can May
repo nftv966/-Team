@@ -577,7 +577,7 @@ http://sudaka.sytes.net:25461/moises/moises/12321
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/TV-Chile-en-vivo-Online.png" group-title="06- CHILE",Tv Chile_OFF_
 http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
 
-#EXTINF:-1 tvg-logo="https://www.tvr.cl/wp-content/uploads/2018/10/cropped-logo-tvr-3.png" group-title="06- CHILE",TVR⁻ˢᵈ⁻
+#EXTINF:-1 tvg-logo="https://www.tvr.cl/wp-content/uploads/sites/5/2020/05/1.png" group-title="06- CHILE",TVR⁻ˢᵈ⁻
 https://unlimited4-cl.dps.live/tvr/tvr.smil/playlist.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="http://www.uestv.cl/wp-content/uploads/2018/07/uestvlogo.png" group-title="06- CHILE",UES tv⁻ˢᵈ⁻
@@ -960,7 +960,7 @@ http://85.10.201.147:8080/live/RQDyCkTCv2/m0mRCzTvIz/212360.ts?play_token=PRLmZi
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-accion.jpg.pagespeed.ic.S9amYApSMG.jpg" group-title="11- ESPAÑA",M. Accion
 http://85.10.201.147:8080/live/RQDyCkTCv2/m0mRCzTvIz/212361.ts?play_token=PRLmZiufE2&token=TEdbWEFQQQkWUVFSA1ZZCQFUDQZWAQFUUQYBA1IHAlMEXQEBBgsGCgRDGBMWRxNcUFxqDVERWVMBVgBYUx4TQEQAQWZbXEEJFlMAA1cGWRsdE0ENWFZBWwFRClJVCwkMBVwfG0JRBxEOD0FdCR9DXElFUBZbUg8+VAFFCAZXEw9ZEF9VHhoMXWsFUVwEXQUbCxMERhkRChJARgkPEF5dGRUHWk1AWRdWFltaRAlfTRtSXkAKQUEaQwpGdjJHHhNQTxFWV0FRDF0WWxZFFhFNG1hCahZQQBcTVQVeBBcQCxcHRx8bX1kbbFcOWl8AUBVQXl9GRg8RUkMcRl4OC1tFWkU6Q1BWGlldQQ1YTA==
 
-#EXTINF:-1 tvg-logo="https://picon.space/movistarcineespagnol.png" group-title="11- ESPAÑA",M. Cine Ñ
+#EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2019/04/movistar-cine-espanol.jpg" group-title="11- ESPAÑA",M. Cine Ñ
 http://85.10.201.147:8080/live/RQDyCkTCv2/m0mRCzTvIz/212359.ts?play_token=PRLmZiufE2&token=TEdbWEFQQQkWUVFSA1ZZCQFUDQZWAQFUUQYBA1IHAlMEXQEBBgsGCgRDGBMWRxNcUFxqDVERWVMBVgBYUx4TQEQAQWZbXEEJFlMAA1cGWRsdE0ENWFZBWwFRClJVCwkMBVwfG0JRBxEOD0FdCR9DXElFUBZbUg8+VAFFCAZXEw9ZEF9VHhoMXWsFUVwEXQUbCxMERhkRChJARgkPEF5dGRUHWk1AWRdWFltaRAlfTRtSXkAKQUEaQwpGdjJHHhNQTxFWV0FRDF0WWxZFFhFNG1hCahZQQBcTVQVeBBcQCxcHRx8bX1kbbFcOWl8AUBVQXl9GRg8RUkMcRl4OC1tFWkU6Q1BWGlldQQ1YTA==
 
 #EXTINF:-1 tvg-logo="http://51.68.70.69/picons/M.CineDoc&Roll_HD.png" group-title="11- ESPAÑA",M. Cinedoc&roll
@@ -1424,9 +1424,9 @@ http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://appnew.megainfoapp.com/files/1/centraltv.png" group-title="17- PERU",Central Tv
 http://tvaz.top:80/live/ricardo/123456/71705.ts
 
-#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/3781231/logo_cultura%2024.png" group-title="17- PERU",Cultura 24 TV⁻ˢᵈ⁻
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Cultura-24-TV-Per%C3%BA-en-vivo-Online.png" group-title="17- PERU",Cultura 24 TV⁻ˢᵈ⁻
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8?GrupoTopIptv
-#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/3781231/logo_cultura%2024.png" group-title="17- PERU",Cultura 24 TV⁻ˢᵈ⁻
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Cultura-24-TV-Per%C3%BA-en-vivo-Online.png" group-title="17- PERU",Cultura 24 TV⁻ˢᵈ⁻
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FI1Hd4E.png" group-title="17- PERU",Ipe⁻ˢᵈ⁻
@@ -2173,15 +2173,15 @@ http://pcjatv.com:8080/Kerry/Kerry/28771
 #EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="28- PREMIUM LATINO",Comedy Central (8)
 https://sviptvarg.com:443/live/dazplayer/playerfree/8.rtmp
 
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula_hd-mediano.png" group-title="28- PREMIUM LATINO",De Película (1)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_de-pelicula_m.png" group-title="28- PREMIUM LATINO",De Película (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/576.ts
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula_hd-mediano.png" group-title="28- PREMIUM LATINO",De Película (2)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_de-pelicula_m.png" group-title="28- PREMIUM LATINO",De Película (2)
 http://uruguayiptv.com:25461/live/pablo2019/pablo2019/576.ts
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula_hd-mediano.png" group-title="28- PREMIUM LATINO",De Película (4)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_de-pelicula_m.png" group-title="28- PREMIUM LATINO",De Película (4)
 http://pcjatv.com:8080/tyrone/tyrone/28782
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula_hd-mediano.png" group-title="28- PREMIUM LATINO",De Película (5)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_de-pelicula_m.png" group-title="28- PREMIUM LATINO",De Película (5)
 http://pcjatv.com:8080/Kerry/Kerry/28782
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula_hd-mediano.png" group-title="28- PREMIUM LATINO",De Película (6)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_de-pelicula_m.png" group-title="28- PREMIUM LATINO",De Película (6)
 http://latiniptv.vip:8008/live/12345/12345/6396.rtmp
 
 #EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/05/televisa-afiliados-canales-de-pelicula-plus.jpg" group-title="28- PREMIUM LATINO",De Película Plus (1)
@@ -2492,9 +2492,6 @@ http://latiniptv.vip:8008/live/12345/12345/115963.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_paramount-channel_m.png" group-title="28- PREMIUM LATINO",Paramount (6)
 http://latiniptv.vip:8008/live/12345/12345/6417.rtmp
 
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/showtime-2-logo-png-transparent.png" group-title="28- PREMIUM LATINO",Showtime_OFF_
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
-
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="28- PREMIUM LATINO",Sony (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/18083.ts
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="28- PREMIUM LATINO",Sony (2)
@@ -2650,21 +2647,21 @@ http://latiniptv.vip:8008/live/12345/12345/103219.rtmp
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="28- PREMIUM LATINO",Tnt Series (8)
 https://sviptvarg.com:443/live/dazplayer/playerfree/35.rtmp
 
-#EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="28- PREMIUM LATINO",Universal Channel (1)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_universal-channel_m.png" group-title="28- PREMIUM LATINO",Universal Channel (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/587.ts
-#EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="28- PREMIUM LATINO",Universal Channel (2)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_universal-channel_m.png" group-title="28- PREMIUM LATINO",Universal Channel (2)
 http://uruguayiptv.com:25461/live/pablo2019/pablo2019/587.ts
-#EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="28- PREMIUM LATINO",Universal Channel (4)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_universal-channel_m.png" group-title="28- PREMIUM LATINO",Universal Channel (4)
 http://pcjatv.com:8080/tyrone/tyrone/28878
-#EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="28- PREMIUM LATINO",Universal Channel (5)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_universal-channel_m.png" group-title="28- PREMIUM LATINO",Universal Channel (5)
 http://pcjatv.com:8080/Kerry/Kerry/28878
-#EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="28- PREMIUM LATINO",Universal Channel (6)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_universal-channel_m.png" group-title="28- PREMIUM LATINO",Universal Channel (6)
 http://latiniptv.vip:8008/live/12345/12345/6431.rtmp
-#EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="28- PREMIUM LATINO",Universal Channel (6)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_universal-channel_m.png" group-title="28- PREMIUM LATINO",Universal Channel (6)
 http://latiniptv.vip:8008/live/12345/12345/115979.rtmp
-#EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="28- PREMIUM LATINO",Universal Channel (7)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_universal-channel_m.png" group-title="28- PREMIUM LATINO",Universal Channel (7)
 http://sudaka.sytes.net:25461/moises/moises/12384
-#EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="28- PREMIUM LATINO",Universal Channel (8)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_universal-channel_m.png" group-title="28- PREMIUM LATINO",Universal Channel (8)
 https://sviptvarg.com:443/live/dazplayer/playerfree/75.rtmp
 
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="28- PREMIUM LATINO",Warner Channel (1)
@@ -3081,15 +3078,15 @@ http://tv.factoryiptv.com:80/Frank/12345/51122
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="29- PREMIUM BRASIL",Tnt Series (5)
 http://srv.tvprodigital.net:80/109833/109833/39551
 
-#EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="29- PREMIUM BRASIL",Universal Channel (1)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_universal-channel_m.png" group-title="29- PREMIUM BRASIL",Universal Channel (1)
 http://srv.tvprodigital.net:80/110175/110175/39554
-#EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="29- PREMIUM BRASIL",Universal Channel (2)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_universal-channel_m.png" group-title="29- PREMIUM BRASIL",Universal Channel (2)
 http://srv.tvprodigital.net:80/039456/039456/39554
-#EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="29- PREMIUM BRASIL",Universal Channel (3)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_universal-channel_m.png" group-title="29- PREMIUM BRASIL",Universal Channel (3)
 http://a.srvbr.me:8880/143845/143845/711
-#EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="29- PREMIUM BRASIL",Universal Channel (4)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_universal-channel_m.png" group-title="29- PREMIUM BRASIL",Universal Channel (4)
 http://tv.factoryiptv.com:80/Frank/12345/37027
-#EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="29- PREMIUM BRASIL",Universal Channel (5)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_universal-channel_m.png" group-title="29- PREMIUM BRASIL",Universal Channel (5)
 http://srv.tvprodigital.net:80/109833/109833/39554
 
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="29- PREMIUM BRASIL",Warner Channel (1)
@@ -3112,7 +3109,7 @@ http://antena1.newradio.it/stream?1519462006844
 #######################################
 ######################################################################################################################################
 
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/concert_channel_hd-mediano.png" group-title="30- VARIEDADES LATINO",Concert Channel_OFF_
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4nt01B2.png" group-title="30- VARIEDADES LATINO",Concert Channel_OFF_
 http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
 
 #EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_e-490x490.png" group-title="30- VARIEDADES LATINO",E! (1)
@@ -3136,15 +3133,15 @@ http://latiniptv.vip:8008/live/12345/12345/115911.rtmp
 #EXTINF:-1 tvg-logo="https://static.filmon.com/assets/channels/21/extra_big_logo.png" group-title="30- VARIEDADES LATINO",Fashion TV⁻ˢᵈ⁻
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0014
 
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/film_and_arts-mediano.png" group-title="30- VARIEDADES LATINO",Film & Arts (1)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_film-arts_m.png" group-title="30- VARIEDADES LATINO",Film & Arts (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/674.ts
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/film_and_arts-mediano.png" group-title="30- VARIEDADES LATINO",Film & Arts (2)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_film-arts_m.png" group-title="30- VARIEDADES LATINO",Film & Arts (2)
 http://uruguayiptv.com:25461/live/pablo2019/pablo2019/674.ts
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/film_and_arts-mediano.png" group-title="30- VARIEDADES LATINO",Film & Arts (6)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_film-arts_m.png" group-title="30- VARIEDADES LATINO",Film & Arts (6)
 http://latiniptv.vip:8008/live/12345/12345/12589.rtmp
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/film_and_arts-mediano.png" group-title="30- VARIEDADES LATINO",Film & Arts (6)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_film-arts_m.png" group-title="30- VARIEDADES LATINO",Film & Arts (6)
 http://latiniptv.vip:8008/live/12345/12345/115777.rtmp
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/film_and_arts-mediano.png" group-title="30- VARIEDADES LATINO",Film & Arts (6)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_film-arts_m.png" group-title="30- VARIEDADES LATINO",Film & Arts (6)
 http://latiniptv.vip:8008/live/12345/12345/115943.rtmp
 
 #EXTINF:-1 tvg-logo="https://bestofsno.com/wp-content/uploads/2019/03/3.18-culinary.png" group-title="30- VARIEDADES LATINO",Food Network (6)
@@ -3223,9 +3220,9 @@ http://latiniptv.vip:8008/live/12345/12345/74151.rtmp
 #EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2012/04/trutv.png" group-title="30- VARIEDADES LATINO",Trutv (6)
 http://latiniptv.vip:8008/live/12345/12345/57739.rtmp
 
-#EXTINF:-1 tvg-logo="http://www.fundacionelangel.org/wp-content/uploads/2019/02/WAPALogo.png" group-title="30- VARIEDADES LATINO",Wapa (6)
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/wapa-324x160.png" group-title="30- VARIEDADES LATINO",Wapa (6)
 http://latiniptv.vip:8008/live/12345/12345/6953.rtmp
-#EXTINF:-1 tvg-logo="http://www.fundacionelangel.org/wp-content/uploads/2019/02/WAPALogo.png" group-title="30- VARIEDADES LATINO",Wapa (6)
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/wapa-324x160.png" group-title="30- VARIEDADES LATINO",Wapa (6)
 http://latiniptv.vip:8008/live/12345/12345/6954.rtmp
 
 ######################################################################################################################################
@@ -3282,7 +3279,7 @@ http://srv.tvprodigital.net:80/109833/109833/20789
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/fashion-tv-logo-png-3.png" group-title="31- VARIEDADES BRASIL",Fashion TV (6)
 http://189.91.128.150:5555/udp/227.10.20.113:1234
 
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/film_and_arts-mediano.png" group-title="31- VARIEDADES BRASIL",Film & Arts (4)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_film-arts_m.png" group-title="31- VARIEDADES BRASIL",Film & Arts (4)
 http://tv.factoryiptv.com:80/Frank/12345/41374
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fishtv_m.png" group-title="31- VARIEDADES BRASIL",Fish TV (1)
@@ -3953,7 +3950,7 @@ http://sudaka.sytes.net:25461/moises/moises/12354
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Discovery Turbo (8)
 https://sviptvarg.com:443/live/dazplayer/playerfree/24.rtmp
 
-#EXTINF:-1 tvg-logo="https://www.skytvporassinatura.com.br/wp-content/uploads/2018/01/canal-discovery-world-hd-sky-1.png" group-title="38- DOCUMENTALES LATINOS",Discovery World_OFF_
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png" group-title="38- DOCUMENTALES LATINOS",Discovery World_OFF_
 http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="38- DOCUMENTALES LATINOS",History (6)
@@ -4100,15 +4097,15 @@ http://srv.tvprodigital.net:80/109833/109833/20809
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Turbo (6)
 http://189.91.128.150:5555/udp/227.10.20.82:1234
 
-#EXTINF:-1 tvg-logo="https://www.skytvporassinatura.com.br/wp-content/uploads/2018/01/canal-discovery-world-hd-sky-1.png" group-title="39- DOCUMENTAIS BRASIL",Discovery World (1)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png" group-title="39- DOCUMENTAIS BRASIL",Discovery World (1)
 http://srv.tvprodigital.net:80/110175/110175/39574
-#EXTINF:-1 tvg-logo="https://www.skytvporassinatura.com.br/wp-content/uploads/2018/01/canal-discovery-world-hd-sky-1.png" group-title="39- DOCUMENTAIS BRASIL",Discovery World (2)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png" group-title="39- DOCUMENTAIS BRASIL",Discovery World (2)
 http://srv.tvprodigital.net:80/039456/039456/39574
-#EXTINF:-1 tvg-logo="https://www.skytvporassinatura.com.br/wp-content/uploads/2018/01/canal-discovery-world-hd-sky-1.png" group-title="39- DOCUMENTAIS BRASIL",Discovery World (3)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png" group-title="39- DOCUMENTAIS BRASIL",Discovery World (3)
 http://a.srvbr.me:8880/143845/143845/5322
-#EXTINF:-1 tvg-logo="https://www.skytvporassinatura.com.br/wp-content/uploads/2018/01/canal-discovery-world-hd-sky-1.png" group-title="39- DOCUMENTAIS BRASIL",Discovery World (4)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png" group-title="39- DOCUMENTAIS BRASIL",Discovery World (4)
 http://tv.factoryiptv.com:80/Frank/12345/64498
-#EXTINF:-1 tvg-logo="https://www.skytvporassinatura.com.br/wp-content/uploads/2018/01/canal-discovery-world-hd-sky-1.png" group-title="39- DOCUMENTAIS BRASIL",Discovery World (5)
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png" group-title="39- DOCUMENTAIS BRASIL",Discovery World (5)
 http://srv.tvprodigital.net:80/109833/109833/39574
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="39- DOCUMENTAIS BRASIL",History (1)
@@ -4504,7 +4501,7 @@ http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/1200px-Radio_m2o_-_Logo_2019.svg.png" group-title="44- MUSICA",M2O⁻ˢᵈ⁻
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://telecentro.com.ar/cm/channels/musictop.png" group-title="44- MUSICA",Music Top⁻ˢᵈ⁻
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/musictop.png" group-title="44- MUSICA",Music Top⁻ˢᵈ⁻
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="http://www.portalfoxmix.cl/radioenvivo/images/portalfoxmix-radio-logo-gran-tras.png" group-title="44- MUSICA",Portal Foxmix⁻ˢᵈ⁻
