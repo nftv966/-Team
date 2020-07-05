@@ -2027,7 +2027,7 @@ http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
 #######################################################################################################################################################################################
 #######################################################################################################################################################################################
 #######################################
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-BiKzoOVk5dA/WDMunV-BsZI/AAAAAAAAAT0/Qp6U1i5soHAv_l0z-QEBo8LNbxiM-pVNQCLcB/s1600/CINE%2B%252841%2529.png" group-title="25- 24 HORAS BRASIL",25- 24 HORAS BRASIL
+#EXTINF:-1 tvg-logo="https://cortapelosyplanchas.com/blog/wp-content/uploads/2017/08/envio-24-horas.png" group-title="25- 24 HORAS BRASIL",25- 24 HORAS BRASIL
 https://stream.vagalume.fm/hls/1497039009964147/aac.m3u8
 #######################################
 #######################################################################################################################################################################################
@@ -2050,7 +2050,7 @@ http://a.srvbr.me:8880/001190/001190/12038
 http://a.srvbr.me:8880/001190/001190/12039
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/33/d9/83/33d9832f6cbc25ec8411d28b1499168e.jpg" group-title="25- 24 HORAS BRASIL",Formiga Atomica 24H
 http://a.srvbr.me:8880/001190/001190/12040
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/futurama_tv_series-334545899-large.jpg" group-title="25- 24 HORAS BRASIL",Futurama 24H
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/futurama-serie-de-tv-lamina-45x30-cm-D_NQ_NP_842305-MLU20868651451_082016-F.jpg" group-title="25- 24 HORAS BRASIL",Futurama 24H
 http://a.srvbr.me:8880/001190/001190/12041
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/342/1018/png-transparent-galinha-pintadinha-rooster-chicken-backpack-borboletinha-chicken.png" group-title="25- 24 HORAS BRASIL",Galinha Pintadinha 24H
 http://a.srvbr.me:8880/001190/001190/12042
@@ -4172,7 +4172,7 @@ http://189.91.128.150:5555/udp/227.10.20.84:1234
 
 ######################################################################################################################################
 ####################################### DEPORTES LATINO
-#EXTINF:-1 tvg-logo="https://www.sccpre.cat/mypng/full/152-1523896_deportes-los-pies-bola-jugador-persona-ftbol-background.png" group-title="41- DEPORTES LATINO",41- DEPORTES LATINO
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180718/ltb/kisspng-logo-sport-brand-font-reebook-5b4fb7fcef23b9.8548709715319511009795.jpg" group-title="41- DEPORTES LATINO",41- DEPORTES LATINO
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #######################################
 ######################################################################################################################################
@@ -4342,7 +4342,7 @@ http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
 
 ######################################################################################################################################
 ####################################### ESPORTES BRASIL
-#EXTINF:-1 tvg-logo="https://www.sccpre.cat/mypng/full/152-1523896_deportes-los-pies-bola-jugador-persona-ftbol-background.png" group-title="42- ESPORTES BRASIL",42- ESPORTES BRASIL
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180718/ltb/kisspng-logo-sport-brand-font-reebook-5b4fb7fcef23b9.8548709715319511009795.jpg" group-title="42- ESPORTES BRASIL",42- ESPORTES BRASIL
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 #######################################
 ######################################################################################################################################
