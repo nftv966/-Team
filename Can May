@@ -3335,6 +3335,8 @@ http://antena1.newradio.it/stream?1519462006844
 #######################################
 ######################################################################################################################################
 
+#EXTINF:-1 tvg-logo="https://dibujosparacolorear.eu/wp-content/uploads/2017/12/Ben_10.jpg" group-title="32- KIDS 24 HORAS",Ben 10 (2)
+http://uruguayiptv.com:25461/live/6688/6688/11762.ts
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/15/ee/e2/15eee28b22047ead1fb3844994efdefe.png" group-title="32- KIDS 24 HORAS",Birdman (2)
 http://uruguayiptv.com:25461/live/6688/6688/11788.ts
 #EXTINF:-1 tvg-logo="https://www.dibujoswiki.com/Uploads/dibujoswiki.com/ImagenesGrandes/bob-esponja.jpg" group-title="32- KIDS 24 HORAS",Bob Esponja (2)
@@ -3357,7 +3359,7 @@ http://uruguayiptv.com:25461/live/6688/6688/11783.ts
 http://uruguayiptv.com:25461/live/6688/6688/11782.ts
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/8c/19/41/8c1941ad0f6b30df5cca9ad76ba66f43--famous-cartoons-cat-cartoons.jpg" group-title="32- KIDS 24 HORAS",Garfield (2)
 http://uruguayiptv.com:25461/live/6688/6688/11781.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/eb/79/e5/eb79e5387dc25145ffc2899c0f73164b.jpg" group-title="32- KIDS 24 HORAS",Gasparin (2)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/01/bb/54/01bb5406c33da50b4f997b489285d5a8--minecraft-mod-hanna-barbera.jpg" group-title="32- KIDS 24 HORAS",Gasparin (2)
 http://uruguayiptv.com:25461/live/6688/6688/11789.ts
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/4b/1a/13/4b1a136c893c0f8a91ade8c0a3ae192f.jpg" group-title="32- KIDS 24 HORAS",Hi-man (2)
 http://uruguayiptv.com:25461/live/6688/6688/11766.ts
@@ -3371,6 +3373,8 @@ http://uruguayiptv.com:25461/live/6688/6688/11778.ts
 http://uruguayiptv.com:25461/live/6688/6688/11760.ts
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/91/5a/ed/915aeddee3f1a6cb2ceb2c48f4bd9974.jpg" group-title="32- KIDS 24 HORAS",Scooby Doo (2)
 http://uruguayiptv.com:25461/live/6688/6688/11774.ts
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/48/21/44/4821442d5aa5f4996d911a81e6023ba4.png" group-title="32- KIDS 24 HORAS",Sonic (2)
+http://uruguayiptv.com:25461/live/6688/6688/11773.ts
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/15/f7/7d/15f77dc316e3f772874dc362b346d363.jpg" group-title="32- KIDS 24 HORAS",Thunder Cats (2)
 http://uruguayiptv.com:25461/live/6688/6688/11771.ts
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5a/a9/ec/5aa9ec042e95782fa199b970979bb854.jpg" group-title="32- KIDS 24 HORAS",Transformers (2)
