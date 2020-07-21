@@ -1577,16 +1577,16 @@ https://stream.vagalume.fm/hls/1470169276225492/aac.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/av-324x160.png" group-title="20- URUGUAY",A+V (2)
 http://uruguayiptv.com:25461/live/6688/6688/2930.ts
 
-#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/8204/240/default.jpg" group-title="20- URUGUAY",Canal 02 S.Carlos (2)
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/canal-2-san-carlos.png" group-title="20- URUGUAY",Canal 02 S.Carlos (2)
 http://uruguayiptv.com:25461/live/6688/6688/30851.ts
 
-#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/10425/240/default.jpg" group-title="20- URUGUAY",Canal 07 Punta del Este (2)
+#EXTINF:-1 tvg-logo="https://canal7punta.tv/images/logo.png" group-title="20- URUGUAY",Canal 07 Punta del Este (2)
 http://uruguayiptv.com:25461/live/6688/6688/19539.ts
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/canal11.png" group-title="20- URUGUAY",Canal 11 Punta del Este (2)
 http://uruguayiptv.com:25461/live/6688/6688/18267.ts
 
-#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6074/240/default.jpg" group-title="20- URUGUAY",Canal 12 Melo (2)
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/canal-12-melo-324x160.png" group-title="20- URUGUAY",Canal 12 Melo (2)
 http://uruguayiptv.com:25461/live/6688/6688/19541.ts
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/charrua-tv.png" group-title="20- URUGUAY",Charrua tv (2)
@@ -1623,10 +1623,10 @@ http://uruguayiptv.com:25461/live/6688/6688/21.ts
 #EXTINF:-1 tvg-logo="https://www.teledoce.com/wp-content/uploads/2019/09/logo-teledoce-2019_azul.png" group-title="20- URUGUAY",Teledoce (2)
 http://uruguayiptv.com:25461/live/6688/6688/1633.ts
 
-#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6042/240/default.jpg" group-title="20- URUGUAY",TNU (2)
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TNU-Television-Nacional-Uruguay-en-vivo-Online.png" group-title="20- URUGUAY",TNU (2)
 http://uruguayiptv.com:25461/live/6688/6688/18269.ts
 
-#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6046/240/default.jpg" group-title="20- URUGUAY",Tv Ciudad (2)
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/tvciudad.png" group-title="20- URUGUAY",Tv Ciudad (2)
 http://uruguayiptv.com:25461/live/6688/6688/12.ts
 
 #EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_2da07aaf6d.png" group-title="20- URUGUAY",VTV (2)
