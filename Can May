@@ -197,15 +197,15 @@ http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 http://192.99.150.31:8371/stream
 
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (1)
-http://srv.tvprodigital.net:80/110175/110175/33274
+http://srv.tvprodigital.net:80/110175/110175/61314
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (2)
-http://srv.tvprodigital.net:80/155498/155498/33274
+http://srv.tvprodigital.net:80/155498/155498/61314
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (3)
 http://a.srvbr.me:8880/187398/187398/887
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (4)
 http://tv.factoryiptv.com:80/Frank/12345/37127
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (5)
-http://srv.tvprodigital.net:80/090502/090502/33274
+http://srv.tvprodigital.net:80/090502/090502/61314
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-brasil_m.png" group-title="04- BRASIL",Canal Brasil (3)
 http://a.srvbr.me:8880/187398/187398/883
@@ -2536,15 +2536,15 @@ http://ic7.101.ru:8000/a23
 #######################################################################################################################################################################################
 
 #EXTINF:-1 tvg-logo="https://stagingcms.cignal.tv/Upload/Images/AMC.png" group-title="29- PREMIUM BRASIL",Amc (1)
-http://srv.tvprodigital.net:80/110175/110175/7448
+http://srv.tvprodigital.net:80/110175/110175/61194
 #EXTINF:-1 tvg-logo="https://stagingcms.cignal.tv/Upload/Images/AMC.png" group-title="29- PREMIUM BRASIL",Amc (2)
-http://srv.tvprodigital.net:80/155498/155498/7448
+http://srv.tvprodigital.net:80/155498/155498/61194
 #EXTINF:-1 tvg-logo="https://stagingcms.cignal.tv/Upload/Images/AMC.png" group-title="29- PREMIUM BRASIL",Amc (3)
 http://a.srvbr.me:8880/187398/187398/5077
 #EXTINF:-1 tvg-logo="https://stagingcms.cignal.tv/Upload/Images/AMC.png" group-title="29- PREMIUM BRASIL",Amc (4)
 http://tv.factoryiptv.com:80/Frank/12345/41087
 #EXTINF:-1 tvg-logo="https://stagingcms.cignal.tv/Upload/Images/AMC.png" group-title="29- PREMIUM BRASIL",Amc (5)
-http://srv.tvprodigital.net:80/090502/090502/7448
+http://srv.tvprodigital.net:80/090502/090502/61194
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="29- PREMIUM BRASIL",Axn (1)
 http://srv.tvprodigital.net:80/110175/110175/61197
