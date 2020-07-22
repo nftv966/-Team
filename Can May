@@ -393,7 +393,7 @@ http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
 #EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Bolivia_TV_2016.png/revision/latest?cb=20160622170105" group-title="05- BOLIVIA",Bolivia TV ᵒᶠᶠ
 http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
 
-#EXTINF:-1  tvg-logo="https://www.teleringa.com/wp-content/uploads/2020/03/bolivia-deportes.jpg" group-title="05- BOLIVIA",Bolivia TV Deportes⁻ˢᵈ⁻
+#EXTINF:-1  tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/bolivia-deportes.png" group-title="05- BOLIVIA",Bolivia TV Deportes⁻ˢᵈ⁻
 http://btvboliviatv.srfms.com:6568/live/livestream/chunklist.m3u8
 
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/987331113831018496/qQEsqWcs_400x400.jpg" group-title="05- BOLIVIA",Bolivision (2)
@@ -1126,7 +1126,7 @@ http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?GrupoTopIpt
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DHOocZiU0AE30ro.png" group-title="14- MEXICO",Multimedios (2)
 http://uruguayiptv.com:25461/live/6688/6688/30805.ts
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/948189514702372864/cunVsTh-.jpg" group-title="14- MEXICO",NRT Mexico
+#EXTINF:-1 tvg-logo="https://nkj.94a.myftpupload.com/wp-content/uploads/2019/11/nrtLogo-3.jpg?time=1584806962" group-title="14- MEXICO",NRT Mexico
 http://tvaz.top:80/live/ricardo/123456/71715.ts
 
 #EXTINF:-1 tvg-logo="https://lodehoy166.files.wordpress.com/2017/06/pasiones-nuevo-logo-2015.jpg" group-title="14- MEXICO",Pasiones ᵒᶠᶠ
@@ -1580,7 +1580,7 @@ http://uruguayiptv.com:25461/live/6688/6688/2930.ts
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/canal-2-san-carlos.png" group-title="20- URUGUAY",Canal 02 S.Carlos (2)
 http://uruguayiptv.com:25461/live/6688/6688/30851.ts
 
-#EXTINF:-1 tvg-logo="https://canal7punta.tv/images/logo.png" group-title="20- URUGUAY",Canal 07 Punta del Este (2)
+#EXTINF:-1 tvg-logo="https://vivotvhd.com/img/cha/504.gif" group-title="20- URUGUAY",Canal 07 Punta del Este (2)
 http://uruguayiptv.com:25461/live/6688/6688/19539.ts
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/canal11.png" group-title="20- URUGUAY",Canal 11 Punta del Este (2)
@@ -2954,13 +2954,13 @@ http://antena1.newradio.it/stream?1519462006844
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4nt01B2.png" group-title="30- VARIEDADES LATINO",Concert Channel
 
 
-#EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_e-490x490.png" group-title="30- VARIEDADES LATINO",E! (1)
+#EXTINF:-1 tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2019/02/ENTERTAIMENT-TELEVISION-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg" group-title="30- VARIEDADES LATINO",E! (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/577.ts
-#EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_e-490x490.png" group-title="30- VARIEDADES LATINO",E! (2)
+#EXTINF:-1 tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2019/02/ENTERTAIMENT-TELEVISION-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg" group-title="30- VARIEDADES LATINO",E! (2)
 http://uruguayiptv.com:25461/live/6688/6688/577.ts
-#EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_e-490x490.png" group-title="30- VARIEDADES LATINO",E! (3)
+#EXTINF:-1 tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2019/02/ENTERTAIMENT-TELEVISION-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg" group-title="30- VARIEDADES LATINO",E! (3)
 http://ytv.plus:25461/apps/1234/1870
-#EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_e-490x490.png" group-title="30- VARIEDADES LATINO",E! (8)
+#EXTINF:-1 tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2019/02/ENTERTAIMENT-TELEVISION-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg" group-title="30- VARIEDADES LATINO",E! (8)
 https://sviptvarg.com:443/live/dazplayer/playerfree/54.rtmp
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/68ztlZE.png" group-title="30- VARIEDADES LATINO",El Gourmet (1)
@@ -3133,15 +3133,15 @@ http://tv.factoryiptv.com:80/Frank/12345/37117
 #EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/grande/canalcurta.jpg" group-title="31- VARIEDADES BRASIL",Curta! (5)
 http://srv.tvprodigital.net:80/090502/090502/10291
 
-#EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_e-490x490.png" group-title="31- VARIEDADES BRASIL",E! (1)
+#EXTINF:-1 tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2019/02/ENTERTAIMENT-TELEVISION-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg" group-title="31- VARIEDADES BRASIL",E! (1)
 http://srv.tvprodigital.net:80/110175/110175/61161
-#EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_e-490x490.png" group-title="31- VARIEDADES BRASIL",E! (2)
+#EXTINF:-1 tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2019/02/ENTERTAIMENT-TELEVISION-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg" group-title="31- VARIEDADES BRASIL",E! (2)
 http://srv.tvprodigital.net:80/155498/155498/61161
-#EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_e-490x490.png" group-title="31- VARIEDADES BRASIL",E! (3)
+#EXTINF:-1 tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2019/02/ENTERTAIMENT-TELEVISION-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg" group-title="31- VARIEDADES BRASIL",E! (3)
 http://a.srvbr.me:8880/187398/187398/857
-#EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_e-490x490.png" group-title="31- VARIEDADES BRASIL",E! (4)
+#EXTINF:-1 tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2019/02/ENTERTAIMENT-TELEVISION-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg" group-title="31- VARIEDADES BRASIL",E! (4)
 http://tv.factoryiptv.com:80/Frank/12345/37108
-#EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_e-490x490.png" group-title="31- VARIEDADES BRASIL",E! (5)
+#EXTINF:-1 tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2019/02/ENTERTAIMENT-TELEVISION-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg" group-title="31- VARIEDADES BRASIL",E! (5)
 http://srv.tvprodigital.net:80/090502/090502/61161
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/fashion-tv-logo-png-3.png" group-title="31- VARIEDADES BRASIL",Fashion TV (6)
@@ -3626,11 +3626,11 @@ http://srv.tvprodigital.net:80/090502/090502/61246
 #EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="33- INFANTIL BRASIL",Disney Channel (6)
 http://189.91.128.150:5555/udp/227.10.20.90:1234
 
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/72147.png" group-title="33- INFANTIL BRASIL",Disney Classics (1)
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/223-2235342_walt-disney-classics-2000-logo-walt-disney-classics.png" group-title="33- INFANTIL BRASIL",Disney Classics (1)
 http://srv.tvprodigital.net:80/110175/110175/34876
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/72147.png" group-title="33- INFANTIL BRASIL",Disney Classics (2)
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/223-2235342_walt-disney-classics-2000-logo-walt-disney-classics.png" group-title="33- INFANTIL BRASIL",Disney Classics (2)
 http://srv.tvprodigital.net:80/155498/155498/34876
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/72147.png" group-title="33- INFANTIL BRASIL",Disney Classics (5)
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/223-2235342_walt-disney-classics-2000-logo-walt-disney-classics.png" group-title="33- INFANTIL BRASIL",Disney Classics (5)
 http://srv.tvprodigital.net:80/090502/090502/34876
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="33- INFANTIL BRASIL",Disney Junior (1)
