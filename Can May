@@ -3397,6 +3397,8 @@ http://a.srvbr.me:8880/187398/187398/894
 http://tv.factoryiptv.com:80/Frank/12345/37133
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_arte-1-hd_m.png" group-title="31- VARIEDADES BRASIL",Arte 1 (5)
 http://srv.tvprodigital.net:80/090502/090502/61195
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_arte-1-hd_m.png" group-title="31- VARIEDADES BRASIL",Arte 1 (6)
+http://srv.tvprodigital.net:80/193883/193883/61195
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo.png" group-title="31- VARIEDADES BRASIL",Bis (1)
 http://srv.tvprodigital.net:80/110175/110175/61274
@@ -3408,6 +3410,8 @@ http://a.srvbr.me:8880/187398/187398/886
 http://tv.factoryiptv.com:80/Frank/12345/37131
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo.png" group-title="31- VARIEDADES BRASIL",Bis (5)
 http://srv.tvprodigital.net:80/090502/090502/61274
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo.png" group-title="31- VARIEDADES BRASIL",Bis (6)
+http://srv.tvprodigital.net:80/193883/193883/61274
 
 #EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/grande/canalcurta.jpg" group-title="31- VARIEDADES BRASIL",Curta! (1)
 http://srv.tvprodigital.net:80/110175/110175/10291
@@ -3419,6 +3423,8 @@ http://a.srvbr.me:8880/187398/187398/872
 http://tv.factoryiptv.com:80/Frank/12345/37117
 #EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/grande/canalcurta.jpg" group-title="31- VARIEDADES BRASIL",Curta! (5)
 http://srv.tvprodigital.net:80/090502/090502/10291
+#EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/grande/canalcurta.jpg" group-title="31- VARIEDADES BRASIL",Curta! (6)
+http://srv.tvprodigital.net:80/193883/193883/10291
 
 #EXTINF:-1 tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2019/02/ENTERTAIMENT-TELEVISION-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg" group-title="31- VARIEDADES BRASIL",E! (1)
 http://srv.tvprodigital.net:80/110175/110175/61161
@@ -3430,6 +3436,8 @@ http://a.srvbr.me:8880/187398/187398/857
 http://tv.factoryiptv.com:80/Frank/12345/37108
 #EXTINF:-1 tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2019/02/ENTERTAIMENT-TELEVISION-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg" group-title="31- VARIEDADES BRASIL",E! (5)
 http://srv.tvprodigital.net:80/090502/090502/61161
+#EXTINF:-1 tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2019/02/ENTERTAIMENT-TELEVISION-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg" group-title="31- VARIEDADES BRASIL",E! (6)
+http://srv.tvprodigital.net:80/193883/193883/61161
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_film-arts_m.png" group-title="31- VARIEDADES BRASIL",Film & Arts (4)
 http://tv.factoryiptv.com:80/Frank/12345/41374
@@ -3444,6 +3452,8 @@ http://a.srvbr.me:8880/187398/187398/846
 http://tv.factoryiptv.com:80/Frank/12345/37103
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fishtv_m.png" group-title="31- VARIEDADES BRASIL",Fish TV (5)
 http://srv.tvprodigital.net:80/090502/090502/61039
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fishtv_m.png" group-title="31- VARIEDADES BRASIL",Fish TV (6)
+http://srv.tvprodigital.net:80/193883/193883/61039
 
 #EXTINF:-1 tvg-logo="https://bestofsno.com/wp-content/uploads/2019/03/3.18-culinary.png" group-title="31- VARIEDADES BRASIL",Food Network (1)
 http://srv.tvprodigital.net:80/110175/110175/61163
@@ -3455,6 +3465,8 @@ http://a.srvbr.me:8880/187398/187398/845
 http://tv.factoryiptv.com:80/Frank/12345/37102
 #EXTINF:-1 tvg-logo="https://bestofsno.com/wp-content/uploads/2019/03/3.18-culinary.png" group-title="31- VARIEDADES BRASIL",Food Network (5)
 http://srv.tvprodigital.net:80/090502/090502/61163
+#EXTINF:-1 tvg-logo="https://bestofsno.com/wp-content/uploads/2019/03/3.18-culinary.png" group-title="31- VARIEDADES BRASIL",Food Network (6)
+http://srv.tvprodigital.net:80/193883/193883/61163
 
 #EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-8-canal-futura.png" group-title="31- VARIEDADES BRASIL",Futura (1)
 http://srv.tvprodigital.net:80/110175/110175/20753
@@ -3466,6 +3478,8 @@ http://a.srvbr.me:8880/187398/187398/834
 http://tv.factoryiptv.com:80/Frank/12345/40074
 #EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-8-canal-futura.png" group-title="31- VARIEDADES BRASIL",Futura (5)
 http://srv.tvprodigital.net:80/090502/090502/20753
+#EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-8-canal-futura.png" group-title="31- VARIEDADES BRASIL",Futura (6)
+http://srv.tvprodigital.net:80/193883/193883/20753
 
 #EXTINF:-1 tvg-logo="http://scabora.com.br/wp-content/blogs.dir/2/files/2014/06/GNT2.png" group-title="31- VARIEDADES BRASIL",Gnt (1)
 http://srv.tvprodigital.net:80/110175/110175/60858
@@ -3477,6 +3491,8 @@ http://a.srvbr.me:8880/187398/187398/824
 http://tv.factoryiptv.com:80/Frank/12345/37088
 #EXTINF:-1 tvg-logo="http://scabora.com.br/wp-content/blogs.dir/2/files/2014/06/GNT2.png" group-title="31- VARIEDADES BRASIL",Gnt (5)
 http://srv.tvprodigital.net:80/090502/090502/60858
+#EXTINF:-1 tvg-logo="http://scabora.com.br/wp-content/blogs.dir/2/files/2014/06/GNT2.png" group-title="31- VARIEDADES BRASIL",Gnt (6)
+http://srv.tvprodigital.net:80/193883/193883/60858
 
 #EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2017/06/logo_tv_lifetime_june2017-500x250.png" group-title="31- VARIEDADES BRASIL",Lifetime (1)
 http://srv.tvprodigital.net:80/110175/110175/61212
@@ -3488,6 +3504,8 @@ http://a.srvbr.me:8880/187398/187398/805
 http://tv.factoryiptv.com:80/Frank/12345/37077
 #EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2017/06/logo_tv_lifetime_june2017-500x250.png" group-title="31- VARIEDADES BRASIL",Lifetime (5)
 http://srv.tvprodigital.net:80/090502/090502/61212
+#EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2017/06/logo_tv_lifetime_june2017-500x250.png" group-title="31- VARIEDADES BRASIL",Lifetime (6)
+http://srv.tvprodigital.net:80/193883/193883/61212
 
 #EXTINF:-1 tvg-logo="https://s2.glbimg.com/uiEeBZJKeOneVk97k2Oo00zutxI=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/f1/9f/b246cd313d3bbf3d94cfc654a161.png" group-title="31- VARIEDADES BRASIL",Mais Globosat (1)
 http://srv.tvprodigital.net:80/110175/110175/61173
@@ -3499,6 +3517,8 @@ http://a.srvbr.me:8880/187398/187398/804
 http://tv.factoryiptv.com:80/Frank/12345/50838
 #EXTINF:-1 tvg-logo="https://s2.glbimg.com/uiEeBZJKeOneVk97k2Oo00zutxI=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/f1/9f/b246cd313d3bbf3d94cfc654a161.png" group-title="31- VARIEDADES BRASIL",Mais Globosat (5)
 http://srv.tvprodigital.net:80/090502/090502/61173
+#EXTINF:-1 tvg-logo="https://s2.glbimg.com/uiEeBZJKeOneVk97k2Oo00zutxI=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/f1/9f/b246cd313d3bbf3d94cfc654a161.png" group-title="31- VARIEDADES BRASIL",Mais Globosat (6)
+http://srv.tvprodigital.net:80/193883/193883/61173
 
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/112-1126076_old-music-mtv-png-logo-mtv-logo-transparent.png" group-title="31- VARIEDADES BRASIL",Mtv (1)
 http://srv.tvprodigital.net:80/110175/110175/61277
@@ -3510,6 +3530,8 @@ http://a.srvbr.me:8880/187398/187398/797
 http://tv.factoryiptv.com:80/Frank/12345/37071
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/112-1126076_old-music-mtv-png-logo-mtv-logo-transparent.png" group-title="31- VARIEDADES BRASIL",Mtv (5)
 http://srv.tvprodigital.net:80/090502/090502/61277
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/112-1126076_old-music-mtv-png-logo-mtv-logo-transparent.png" group-title="31- VARIEDADES BRASIL",Mtv (6)
+http://srv.tvprodigital.net:80/193883/193883/61277
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/mtv-live-logo-png-5.png" group-title="31- VARIEDADES BRASIL",Mtv Live (3)
 http://a.srvbr.me:8880/187398/187398/5654
@@ -3526,6 +3548,8 @@ http://a.srvbr.me:8880/187398/187398/796
 http://tv.factoryiptv.com:80/Frank/12345/37070
 #EXTINF:-1 tvg-logo="http://s2.glbimg.com/aYKWYWXJqKq4o3_tByMbh_jRpt8=/0x0:234x146/234x146/s.glbimg.com/pv/an/f/original/2015/02/24/multishow-234x146.png" group-title="31- VARIEDADES BRASIL",Multishow (5)
 http://srv.tvprodigital.net:80/090502/090502/61278
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/aYKWYWXJqKq4o3_tByMbh_jRpt8=/0x0:234x146/234x146/s.glbimg.com/pv/an/f/original/2015/02/24/multishow-234x146.png" group-title="31- VARIEDADES BRASIL",Multishow (6)
+http://srv.tvprodigital.net:80/193883/193883/61278
 
 #EXTINF:-1 tvg-logo="https://www.boxbrazil.tv.br/wp-content/uploads/2018/07/music-e1532525013976.png" group-title="31- VARIEDADES BRASIL",Music Box Brasil (1)
 http://srv.tvprodigital.net:80/110175/110175/61280
@@ -3537,6 +3561,8 @@ http://a.srvbr.me:8880/187398/187398/794
 http://tv.factoryiptv.com:80/Frank/12345/37069
 #EXTINF:-1 tvg-logo="https://www.boxbrazil.tv.br/wp-content/uploads/2018/07/music-e1532525013976.png" group-title="31- VARIEDADES BRASIL",Music Box Brasil (5)
 http://srv.tvprodigital.net:80/090502/090502/61280
+#EXTINF:-1 tvg-logo="https://www.boxbrazil.tv.br/wp-content/uploads/2018/07/music-e1532525013976.png" group-title="31- VARIEDADES BRASIL",Music Box Brasil (6)
+http://srv.tvprodigital.net:80/193883/193883/61280
 
 #EXTINF:-1 tvg-logo="https://www.skidun.com/br/images/Logo-Canal-OFF.png" group-title="31- VARIEDADES BRASIL",Off (1)
 http://srv.tvprodigital.net:80/110175/110175/61263
@@ -3548,6 +3574,8 @@ http://a.srvbr.me:8880/187398/187398/785
 http://tv.factoryiptv.com:80/Frank/12345/37063
 #EXTINF:-1 tvg-logo="https://www.skidun.com/br/images/Logo-Canal-OFF.png" group-title="31- VARIEDADES BRASIL",Off (5)
 http://srv.tvprodigital.net:80/090502/090502/61263
+#EXTINF:-1 tvg-logo="https://www.skidun.com/br/images/Logo-Canal-OFF.png" group-title="31- VARIEDADES BRASIL",Off (6)
+http://srv.tvprodigital.net:80/193883/193883/61263
 
 #EXTINF:-1 tvg-logo="http://www.boxbrazil.tv.br/wp-content/uploads/2018/07/prime-e1532524998483.png" group-title="31- VARIEDADES BRASIL",Prime Box (1)
 http://srv.tvprodigital.net:80/110175/110175/61187
@@ -3559,6 +3587,8 @@ http://a.srvbr.me:8880/187398/187398/5300
 http://tv.factoryiptv.com:80/Frank/12345/37053
 #EXTINF:-1 tvg-logo="http://www.boxbrazil.tv.br/wp-content/uploads/2018/07/prime-e1532524998483.png" group-title="31- VARIEDADES BRASIL",Prime Box (5)
 http://srv.tvprodigital.net:80/090502/090502/61187
+#EXTINF:-1 tvg-logo="http://www.boxbrazil.tv.br/wp-content/uploads/2018/07/prime-e1532524998483.png" group-title="31- VARIEDADES BRASIL",Prime Box (6)
+http://srv.tvprodigital.net:80/193883/193883/61187
 
 #EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2012/04/trutv.png" group-title="31- VARIEDADES BRASIL",Trutv (1)
 http://srv.tvprodigital.net:80/110175/110175/6935
@@ -3568,6 +3598,8 @@ http://srv.tvprodigital.net:80/155498/155498/6935
 http://tv.factoryiptv.com:80/Frank/12345/37032
 #EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2012/04/trutv.png" group-title="31- VARIEDADES BRASIL",Trutv (5)
 http://srv.tvprodigital.net:80/090502/090502/6935
+#EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2012/04/trutv.png" group-title="31- VARIEDADES BRASIL",Trutv (6)
+http://srv.tvprodigital.net:80/193883/193883/6935
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/canal-viva-png-8.png" group-title="31- VARIEDADES BRASIL",Viva (1)
 http://srv.tvprodigital.net:80/110175/110175/6928
@@ -3579,6 +3611,8 @@ http://a.srvbr.me:8880/187398/187398/708
 http://tv.factoryiptv.com:80/Frank/12345/36997
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/canal-viva-png-8.png" group-title="31- VARIEDADES BRASIL",Viva (5)
 http://srv.tvprodigital.net:80/090502/090502/6928
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/canal-viva-png-8.png" group-title="31- VARIEDADES BRASIL",Viva (6)
+http://srv.tvprodigital.net:80/193883/193883/6928
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7FamS9P.png" group-title="31- VARIEDADES BRASIL",Woohoo (1)
 http://srv.tvprodigital.net:80/110175/110175/20453
@@ -3590,6 +3624,8 @@ http://a.srvbr.me:8880/187398/187398/704
 http://tv.factoryiptv.com:80/Frank/12345/37025
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7FamS9P.png" group-title="31- VARIEDADES BRASIL",Woohoo (5)
 http://srv.tvprodigital.net:80/090502/090502/20453
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7FamS9P.png" group-title="31- VARIEDADES BRASIL",Woohoo (6)
+http://srv.tvprodigital.net:80/193883/193883/20453
 
 ######################################################################################################################################
 #######################################
@@ -3937,6 +3973,8 @@ http://a.srvbr.me:8880/187398/187398/5078
 http://tv.factoryiptv.com:80/Frank/12345/36993
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_baby-tv_m.png" group-title="33- INFANTIL BRASIL",Baby TV (5)
 http://srv.tvprodigital.net:80/090502/090502/4401
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_baby-tv_m.png" group-title="33- INFANTIL BRASIL",Baby TV (6)
+http://srv.tvprodigital.net:80/193883/193883/4401
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_boomerang-cartoon_m.png" group-title="33- INFANTIL BRASIL",Boomerang (1)
 http://srv.tvprodigital.net:80/110175/110175/61242
@@ -3948,6 +3986,8 @@ http://a.srvbr.me:8880/187398/187398/884
 http://tv.factoryiptv.com:80/Frank/12345/37123
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_boomerang-cartoon_m.png" group-title="33- INFANTIL BRASIL",Boomerang (5)
 http://srv.tvprodigital.net:80/090502/090502/61242
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_boomerang-cartoon_m.png" group-title="33- INFANTIL BRASIL",Boomerang (6)
+http://srv.tvprodigital.net:80/193883/193883/61242
 
 #EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="33- INFANTIL BRASIL",Cartoon Network (1)
 http://srv.tvprodigital.net:80/110175/110175/61243
@@ -3959,6 +3999,8 @@ http://a.srvbr.me:8880/187398/187398/878
 http://tv.factoryiptv.com:80/Frank/12345/37121
 #EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="33- INFANTIL BRASIL",Cartoon Network (5)
 http://srv.tvprodigital.net:80/090502/090502/61243
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="33- INFANTIL BRASIL",Cartoon Network (6)
+http://srv.tvprodigital.net:80/193883/193883/61243
 
 #EXTINF:-1 tvg-logo="https://uploads.tapatalk-cdn.com/20180216/e15145d23f1a35eda5537e61932ea069.jpg" group-title="33- INFANTIL BRASIL",Discovery Kids (1)
 http://srv.tvprodigital.net:80/110175/110175/61245
@@ -3970,6 +4012,8 @@ http://a.srvbr.me:8880/187398/187398/866
 http://tv.factoryiptv.com:80/Frank/12345/37113
 #EXTINF:-1 tvg-logo="https://uploads.tapatalk-cdn.com/20180216/e15145d23f1a35eda5537e61932ea069.jpg" group-title="33- INFANTIL BRASIL",Discovery Kids (5)
 http://srv.tvprodigital.net:80/090502/090502/61245
+#EXTINF:-1 tvg-logo="https://uploads.tapatalk-cdn.com/20180216/e15145d23f1a35eda5537e61932ea069.jpg" group-title="33- INFANTIL BRASIL",Discovery Kids (6)
+http://srv.tvprodigital.net:80/193883/193883/61245
 
 #EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="33- INFANTIL BRASIL",Disney Channel (1)
 http://srv.tvprodigital.net:80/110175/110175/61246
@@ -3981,6 +4025,8 @@ http://a.srvbr.me:8880/187398/187398/860
 http://tv.factoryiptv.com:80/Frank/12345/37111
 #EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="33- INFANTIL BRASIL",Disney Channel (5)
 http://srv.tvprodigital.net:80/090502/090502/61246
+#EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="33- INFANTIL BRASIL",Disney Channel (6)
+http://srv.tvprodigital.net:80/193883/193883/61246
 
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/223-2235342_walt-disney-classics-2000-logo-walt-disney-classics.png" group-title="33- INFANTIL BRASIL",Disney Classics (1)
 http://srv.tvprodigital.net:80/110175/110175/34876
@@ -3988,6 +4034,8 @@ http://srv.tvprodigital.net:80/110175/110175/34876
 http://srv.tvprodigital.net:80/155498/155498/34876
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/223-2235342_walt-disney-classics-2000-logo-walt-disney-classics.png" group-title="33- INFANTIL BRASIL",Disney Classics (5)
 http://srv.tvprodigital.net:80/090502/090502/34876
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/223-2235342_walt-disney-classics-2000-logo-walt-disney-classics.png" group-title="33- INFANTIL BRASIL",Disney Classics (6)
+http://srv.tvprodigital.net:80/193883/193883/34876
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="33- INFANTIL BRASIL",Disney Junior (1)
 http://srv.tvprodigital.net:80/110175/110175/61112
@@ -3999,6 +4047,8 @@ http://a.srvbr.me:8880/187398/187398/859
 http://tv.factoryiptv.com:80/Frank/12345/37110
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="33- INFANTIL BRASIL",Disney Junior (5)
 http://srv.tvprodigital.net:80/090502/090502/61112
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="33- INFANTIL BRASIL",Disney Junior (6)
+http://srv.tvprodigital.net:80/193883/193883/61112
 
 #EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/Disney_XD_-_2015.svg_.png" group-title="33- INFANTIL BRASIL",Disney XD (1)
 http://srv.tvprodigital.net:80/110175/110175/61114
@@ -4010,6 +4060,8 @@ http://a.srvbr.me:8880/187398/187398/858
 http://tv.factoryiptv.com:80/Frank/12345/37109
 #EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/Disney_XD_-_2015.svg_.png" group-title="33- INFANTIL BRASIL",Disney XD (5)
 http://srv.tvprodigital.net:80/090502/090502/61114
+#EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/Disney_XD_-_2015.svg_.png" group-title="33- INFANTIL BRASIL",Disney XD (6)
+http://srv.tvprodigital.net:80/193883/193883/61114
 
 #EXTINF:-1 tvg-logo="http://g.glbimg.com/og/gs/gsat3/f/thumbs/padrao/2014/09/22/logo_gloob_fundobranco_500x500.jpg" group-title="33- INFANTIL BRASIL",Gloob (1)
 http://srv.tvprodigital.net:80/110175/110175/60857
@@ -4021,6 +4073,8 @@ http://a.srvbr.me:8880/187398/187398/825
 http://tv.factoryiptv.com:80/Frank/12345/37089
 #EXTINF:-1 tvg-logo="http://g.glbimg.com/og/gs/gsat3/f/thumbs/padrao/2014/09/22/logo_gloob_fundobranco_500x500.jpg" group-title="33- INFANTIL BRASIL",Gloob (5)
 http://srv.tvprodigital.net:80/090502/090502/60857
+#EXTINF:-1 tvg-logo="http://g.glbimg.com/og/gs/gsat3/f/thumbs/padrao/2014/09/22/logo_gloob_fundobranco_500x500.jpg" group-title="33- INFANTIL BRASIL",Gloob (6)
+http://srv.tvprodigital.net:80/193883/193883/60857
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_gloobinho-hd_m.png" group-title="33- INFANTIL BRASIL",Gloobinho (1)
 http://srv.tvprodigital.net:80/110175/110175/61248
@@ -4032,6 +4086,8 @@ http://a.srvbr.me:8880/187398/187398/5306
 http://tv.factoryiptv.com:80/Frank/12345/38969
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_gloobinho-hd_m.png" group-title="33- INFANTIL BRASIL",Gloobinho (5)
 http://srv.tvprodigital.net:80/090502/090502/61248
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_gloobinho-hd_m.png" group-title="33- INFANTIL BRASIL",Gloobinho (6)
+http://srv.tvprodigital.net:80/193883/193883/61248
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/natgeo-kids-logo-01.png" group-title="33- INFANTIL BRASIL",Nat Geo Kids (1)
 http://srv.tvprodigital.net:80/110175/110175/61249
@@ -4043,6 +4099,8 @@ http://a.srvbr.me:8880/187398/187398/5303
 http://tv.factoryiptv.com:80/Frank/12345/37067
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/natgeo-kids-logo-01.png" group-title="33- INFANTIL BRASIL",Nat Geo Kids (5)
 http://srv.tvprodigital.net:80/090502/090502/61249
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/natgeo-kids-logo-01.png" group-title="33- INFANTIL BRASIL",Nat Geo Kids (6)
+http://srv.tvprodigital.net:80/193883/193883/61249
 
 #EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="33- INFANTIL BRASIL",Nick (1)
 http://srv.tvprodigital.net:80/110175/110175/61250
@@ -4054,6 +4112,8 @@ http://a.srvbr.me:8880/187398/187398/787
 http://tv.factoryiptv.com:80/Frank/12345/37064
 #EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="33- INFANTIL BRASIL",Nick (5)
 http://srv.tvprodigital.net:80/090502/090502/61250
+#EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="33- INFANTIL BRASIL",Nick (6)
+http://srv.tvprodigital.net:80/193883/193883/61250
 
 #EXTINF:-1 tvg-logo="http://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="33- INFANTIL BRASIL",Nick Junior (1)
 http://srv.tvprodigital.net:80/110175/110175/61251
@@ -4065,6 +4125,8 @@ http://a.srvbr.me:8880/187398/187398/788
 http://tv.factoryiptv.com:80/Frank/12345/37065
 #EXTINF:-1 tvg-logo="http://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="33- INFANTIL BRASIL",Nick Junior (5)
 http://srv.tvprodigital.net:80/090502/090502/61251
+#EXTINF:-1 tvg-logo="http://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="33- INFANTIL BRASIL",Nick Junior (6)
+http://srv.tvprodigital.net:80/193883/193883/61251
 
 #EXTINF:-1 tvg-logo="http://www.costadosol.tv.br/site/wp-content/uploads/2018/04/TV_R%C3%A1-Tim-Bum.png" group-title="33- INFANTIL BRASIL",Ra Tim Bum (1)
 http://srv.tvprodigital.net:80/110175/110175/61131
@@ -4076,6 +4138,8 @@ http://a.srvbr.me:8880/187398/187398/715
 http://tv.factoryiptv.com:80/Frank/12345/37015
 #EXTINF:-1 tvg-logo="http://www.costadosol.tv.br/site/wp-content/uploads/2018/04/TV_R%C3%A1-Tim-Bum.png" group-title="33- INFANTIL BRASIL",Ra Tim Bum (5)
 http://srv.tvprodigital.net:80/090502/090502/61131
+#EXTINF:-1 tvg-logo="http://www.costadosol.tv.br/site/wp-content/uploads/2018/04/TV_R%C3%A1-Tim-Bum.png" group-title="33- INFANTIL BRASIL",Ra Tim Bum (6)
+http://srv.tvprodigital.net:80/193883/193883/61131
 
 #EXTINF:-1 tvg-logo="https://t3.kn3.net/taringa/A/7/E/6/A/C/RevolucionCN/83A.png" group-title="33- INFANTIL BRASIL",Tooncast (1)
 http://srv.tvprodigital.net:80/110175/110175/61252
@@ -4087,6 +4151,8 @@ http://a.srvbr.me:8880/187398/187398/720
 http://tv.factoryiptv.com:80/Frank/12345/37033
 #EXTINF:-1 tvg-logo="https://t3.kn3.net/taringa/A/7/E/6/A/C/RevolucionCN/83A.png" group-title="33- INFANTIL BRASIL",Tooncast (5)
 http://srv.tvprodigital.net:80/090502/090502/61252
+#EXTINF:-1 tvg-logo="https://t3.kn3.net/taringa/A/7/E/6/A/C/RevolucionCN/83A.png" group-title="33- INFANTIL BRASIL",Tooncast (6)
+http://srv.tvprodigital.net:80/193883/193883/61252
 
 #EXTINF:0 tvg-logo="http://bravi.tv/wp-content/uploads/2016/12/zoomoo-250x214.png" group-title="33- INFANTIL BRASIL",ZooMoo (1)
 http://srv.tvprodigital.net:80/110175/110175/47764
@@ -4096,6 +4162,8 @@ http://srv.tvprodigital.net:80/155498/155498/47764
 http://tv.factoryiptv.com:80/Frank/12345/59355
 #EXTINF:0 tvg-logo="http://bravi.tv/wp-content/uploads/2016/12/zoomoo-250x214.png" group-title="33- INFANTIL BRASIL",ZooMoo (5)
 http://srv.tvprodigital.net:80/090502/090502/47764
+#EXTINF:0 tvg-logo="http://bravi.tv/wp-content/uploads/2016/12/zoomoo-250x214.png" group-title="33- INFANTIL BRASIL",ZooMoo (6)
+http://srv.tvprodigital.net:80/193883/193883/47764
 
 ######################################################################################################################################
 ####################################### RELIGIOSOS LATINO
@@ -4225,6 +4293,8 @@ http://a.srvbr.me:8880/187398/187398/890
 http://tv.factoryiptv.com:80/Frank/12345/37126
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="37- NOTICIAS BRASIL",Band News (5)
 http://srv.tvprodigital.net:80/090502/090502/61134
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="37- NOTICIAS BRASIL",Band News (6)
+http://srv.tvprodigital.net:80/193883/193883/61134
 
 #EXTINF:-1 tvg-logo="https://www.abcdacomunicacao.com.br/wp-content/uploads/CNN_Video-350x250.png" group-title="37- NOTICIAS BRASIL",CNN Brasil (1)
 http://srv.tvprodigital.net:80/110175/110175/61286
@@ -4234,6 +4304,8 @@ http://srv.tvprodigital.net:80/155498/155498/61286
 http://a.srvbr.me:8880/187398/187398/12120
 #EXTINF:-1 tvg-logo="https://www.abcdacomunicacao.com.br/wp-content/uploads/CNN_Video-350x250.png" group-title="37- NOTICIAS BRASIL",CNN Brasil (5)
 http://srv.tvprodigital.net:80/090502/090502/61286
+#EXTINF:-1 tvg-logo="https://www.abcdacomunicacao.com.br/wp-content/uploads/CNN_Video-350x250.png" group-title="37- NOTICIAS BRASIL",CNN Brasil (6)
+http://srv.tvprodigital.net:80/193883/193883/61286
 
 #EXTINF:-1 tvg-logo="https://brazil.mom-rsf.org/uploads/tx_lfrogmom/media/7019-1071_import.png" group-title="37- NOTICIAS BRASIL",Globo News (1)
 http://srv.tvprodigital.net:80/110175/110175/61283
@@ -4245,6 +4317,8 @@ http://a.srvbr.me:8880/187398/187398/1498
 http://tv.factoryiptv.com:80/Frank/12345/37093
 #EXTINF:-1 tvg-logo="https://brazil.mom-rsf.org/uploads/tx_lfrogmom/media/7019-1071_import.png" group-title="37- NOTICIAS BRASIL",Globo News (5)
 http://srv.tvprodigital.net:80/090502/090502/61283
+#EXTINF:-1 tvg-logo="https://brazil.mom-rsf.org/uploads/tx_lfrogmom/media/7019-1071_import.png" group-title="37- NOTICIAS BRASIL",Globo News (6)
+http://srv.tvprodigital.net:80/193883/193883/61283
 
 #EXTINF:-1 tvg-logo="http://www.costadosol.tv.br/site/wp-content/uploads/2017/12/record-news.png" group-title="37- NOTICIAS BRASIL",Record News (1)
 http://srv.tvprodigital.net:80/110175/110175/61284
@@ -4256,6 +4330,8 @@ http://a.srvbr.me:8880/187398/187398/762
 http://tv.factoryiptv.com:80/Frank/12345/41529
 #EXTINF:-1 tvg-logo="http://www.costadosol.tv.br/site/wp-content/uploads/2017/12/record-news.png" group-title="37- NOTICIAS BRASIL",Record News (5)
 http://srv.tvprodigital.net:80/090502/090502/61284
+#EXTINF:-1 tvg-logo="http://www.costadosol.tv.br/site/wp-content/uploads/2017/12/record-news.png" group-title="37- NOTICIAS BRASIL",Record News (6)
+http://srv.tvprodigital.net:80/193883/193883/61284
 
 ######################################################################################################################################
 #######################################
