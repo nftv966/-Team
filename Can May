@@ -669,54 +669,61 @@ http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
 #EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/A3CIN.PNG" group-title="11- ESPAÑA",A3Cine ᵒᶠᶠ
 http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
 
-#EXTINF:-1 tvg-logo="http://diretele.com/wp-content/uploads/2018/09/alcarria-tv-en-directo.png" group-title="11- ESPAÑA",Alcarria TV
-http://tvaz.top:80/live/ricardo/123456/71689.ts
 #EXTINF:-1 tvg-logo="http://diretele.com/wp-content/uploads/2018/09/alcarria-tv-en-directo.png" group-title="11- ESPAÑA",Alcarria TV⁻ˢᵈ⁻
 http://217.182.77.27/live/alcarriatv-livestream.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/AMCHD.png" group-title="11- ESPAÑA",Amc ᵃˡᵗ
-http://185.246.210.92:80/live/yF9pMSrZSS/lec3t2J9/11010.ts
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/AMCHD.png" group-title="11- ESPAÑA",Amc
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/2600.ts
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/AMCHD.png" group-title="11- ESPAÑA",Amc
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/52352.ts
 
 #EXTINF:-1 tvg-logo="https://www.miwuki.com/wp-content/uploads/2016/10/logo-antena-3.png" group-title="11- ESPAÑA",Antena 3
-http://client-premiumzone.in:8080/1003/1003/3383
-#EXTINF:-1 tvg-logo="https://www.miwuki.com/wp-content/uploads/2016/10/logo-antena-3.png" group-title="11- ESPAÑA",Antena 3 ᵃˡᵗ
-http://185.246.210.92:80/live/yF9pMSrZSS/lec3t2J9/7271.ts
+
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/aragon-tv-logo.png" group-title="11- ESPAÑA",Aragon tv
-http://client-premiumzone.in:8080/1003/1003/8211
+
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="11- ESPAÑA",Axn
-http://client-premiumzone.in:8080/1003/1003/641
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="11- ESPAÑA",Axn ᵃˡᵗ
-http://185.246.210.92:80/live/yF9pMSrZSS/lec3t2J9/11045.ts
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/2598.ts
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="11- ESPAÑA",Axn
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/52395.ts
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/AXWHD.png" group-title="11- ESPAÑA",Axn White
-http://client-premiumzone.in:8080/1003/1003/640
-#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/AXWHD.png" group-title="11- ESPAÑA",Axn White ᵃˡᵗ
-http://185.246.210.92:80/live/yF9pMSrZSS/lec3t2J9/11008.ts
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/2597.ts
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/AXWHD.png" group-title="11- ESPAÑA",Axn White
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/52396.ts
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/312LhQsVqtL.png" group-title="11- ESPAÑA",A&E
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/2601.ts
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/312LhQsVqtL.png" group-title="11- ESPAÑA",A&E
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/52353.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_babytv_m.png" group-title="11- ESPAÑA",Baby tv
-http://client-premiumzone.in:8080/1003/1003/23074
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/52407.ts
 
 #EXTINF:-1 tvg-logo="https://baul.mediaset.es/dist/assets/seo/logo_bemad.png" group-title="11- ESPAÑA",Be Mad
-http://client-premiumzone.in:8080/1003/1003/19209
+
 
 #EXTINF:-1 tvg-logo="https://nos.pt/particulares/televisao/canais/PublishingImages/blaze/logo/large.jpg" group-title="11- ESPAÑA",Blaze
-http://client-premiumzone.in:8080/1003/1003/23075
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/29312.ts
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/boing-logo-png.png" group-title="11- ESPAÑA",Boing
-http://client-premiumzone.in:8080/1003/1003/2211
+
 
 #EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/calle13-1.png" group-title="11- ESPAÑA",Calle 13
-http://client-premiumzone.in:8080/1003/1003/1096
-#EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/calle13-1.png" group-title="11- ESPAÑA",Calle 13 ᵃˡᵗ
-http://185.246.210.92:80/live/yF9pMSrZSS/lec3t2J9/11016.ts
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/2592.ts
+#EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/calle13-1.png" group-title="11- ESPAÑA",Calle 13
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/52394.ts
 
 #EXTINF:-1 tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/1f/1355295.png" group-title="11- ESPAÑA",Canal #0
-http://client-premiumzone.in:8080/1003/1003/635
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/2603.ts
+#EXTINF:-1 tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/1f/1355295.png" group-title="11- ESPAÑA",Canal #0
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/29298.ts
+#EXTINF:-1 tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/1f/1355295.png" group-title="11- ESPAÑA",Canal #0
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/52355.ts
 
 #EXTINF:-1 tvg-logo="https://www.comparaiso.es/sites/comparaiso.es/files/images/logos/vamos-movistar-200x300.png" group-title="11- ESPAÑA",Canal #Vamos
-http://client-premiumzone.in:8080/1003/1003/1085
+
 
 #EXTINF:-1 tvg-logo="https://diretele.com/wp-content/uploads/2018/09/101-TV-en-directo.png" group-title="11- ESPAÑA",Canal 101 tv Málaga
 http://secure7.todostreaming.es/live/101tv-web101tv.m3u8
@@ -724,20 +731,19 @@ http://secure7.todostreaming.es/live/101tv-web101tv.m3u8
 #EXTINF:-1 tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="11- ESPAÑA",Canal 24 Horas⁻ˢᵈ⁻
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/canal-4-tenerife.png" group-title="11- ESPAÑA",Canal 4 Tenerife
-http://tvaz.top:80/live/ricardo/123456/71698.ts
-
 #EXTINF:-1 tvg-logo="http://webtv.7tvregiondemurcia.es/assets/home/images/logos/television-region-mucia.png" group-title="11- ESPAÑA",Canal 7 Murcia⁻ˢᵈ⁻
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://www.conecta.es/images/noticias/AMC/canal-cocina.png" group-title="11- ESPAÑA",Canal Cocina ᵃˡᵗ
-http://185.246.210.92:80/live/yF9pMSrZSS/lec3t2J9/11014.ts
+#EXTINF:-1 tvg-logo="https://www.conecta.es/images/noticias/AMC/canal-cocina.png" group-title="11- ESPAÑA",Canal Cocina
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/29301.ts
+#EXTINF:-1 tvg-logo="https://www.conecta.es/images/noticias/AMC/canal-cocina.png" group-title="11- ESPAÑA",Canal Cocina
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/2582.ts
 
 #EXTINF:-1 tvg-logo="https://d2ucqd3jt48qxz.cloudfront.net/img/footer-logo.png" group-title="11- ESPAÑA",Canal Orbe 21 ᵒᶠᶠ
 http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
 
-#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/PANDA.png" group-title="11- ESPAÑA",Canal Panda ᵃˡᵗ
-http://185.246.210.92:80/live/yF9pMSrZSS/lec3t2J9/11033.ts
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/PANDA.png" group-title="11- ESPAÑA",Canal Panda
+
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/01/Canal-Sur-TV.png" group-title="11- ESPAÑA",Canal Sur⁻ˢᵈ⁻
 http://cdnlive.shooowit.net/rtvalive/channelDVR.smil/master.m3u8
@@ -745,54 +751,65 @@ http://cdnlive.shooowit.net/rtvalive/channelDVR.smil/master.m3u8
 http://eg128.tmira.com/rtvalive/canal2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/CACAP.png" group-title="11- ESPAÑA",Caza y Pesca
-http://client-premiumzone.in:8080/1003/1003/1102
-#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/CACAP.png" group-title="11- ESPAÑA",Caza y Pesca ᵃˡᵗ
-http://185.246.210.92:80/live/yF9pMSrZSS/lec3t2J9/7242.ts
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/2576.ts
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/CACAP.png" group-title="11- ESPAÑA",Caza y Pesca
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/52339.ts
 
 #EXTINF:-1 tvg-logo="https://www.programacion.tv/images/clan.png" group-title="11- ESPAÑA",Clan
-http://client-premiumzone.in:8080/1003/1003/1100
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/2575.ts
+#EXTINF:-1 tvg-logo="https://www.programacion.tv/images/clan.png" group-title="11- ESPAÑA",Clan
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/29262.ts
+#EXTINF:-1 tvg-logo="https://www.programacion.tv/images/clan.png" group-title="11- ESPAÑA",Clan
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/52367.ts
 
 #EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="11- ESPAÑA",Comedy Central
-http://client-premiumzone.in:8080/1003/1003/2633
-#EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="11- ESPAÑA",Comedy Central ᵃˡᵗ
-http://185.246.210.92:80/live/yF9pMSrZSS/lec3t2J9/11009.ts
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/2574.ts
+#EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="11- ESPAÑA",Comedy Central
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/52386.ts
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/02/Condavisi%C3%B3n-TV.png" group-title="11- ESPAÑA",Condavisión⁻ˢᵈ⁻
 http://145.239.141.154:1935/live/uSCQc5ky/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cosmopolitantv.es/img/logorrss.png" group-title="11- ESPAÑA",Cosmo
-http://client-premiumzone.in:8080/1003/1003/3387
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/2573.ts
 
 #EXTINF:-1 tvg-logo="https://www.audiovisual451.com/wp-content/uploads/Crimen-Investigacion-logo-2017.jpg" group-title="11- ESPAÑA",Crimen Investigacion
-http://client-premiumzone.in:8080/1003/1003/8209
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/2572.ts
+#EXTINF:-1 tvg-logo="https://www.audiovisual451.com/wp-content/uploads/Crimen-Investigacion-logo-2017.jpg" group-title="11- ESPAÑA",Crimen Investigacion
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/29243.ts
 
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="11- ESPAÑA",Cuatro
-http://client-premiumzone.in:8080/1003/1003/627
-#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="11- ESPAÑA",Cuatro ᵃˡᵗ
-http://185.246.210.92:80/live/yF9pMSrZSS/lec3t2J9/7317.ts
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/2571.ts
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="11- ESPAÑA",Cuatro
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/29233.ts
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="11- ESPAÑA",Cuatro
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/52412.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/d/a/r/dark.jpg" group-title="11- ESPAÑA",Dark
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/52371.ts
 
 #EXTINF:-1 tvg-logo="https://casadecor.es/assets/uploads/2017/02/decasa.png" group-title="11- ESPAÑA",DeCasa
-http://client-premiumzone.in:8080/1003/1003/2632
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/2543.ts
+#EXTINF:-1 tvg-logo="https://casadecor.es/assets/uploads/2017/02/decasa.png" group-title="11- ESPAÑA",DeCasa
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/52337.ts
 
 #EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="11- ESPAÑA",Discovery Channel
-http://client-premiumzone.in:8080/1003/1003/3376
-#EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="11- ESPAÑA",Discovery Channel ᵃˡᵗ
-http://185.246.210.92:80/live/yF9pMSrZSS/lec3t2J9/11030.ts
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/2570.ts
 
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/discoverymax.png" group-title="11- ESPAÑA",DMax
-http://client-premiumzone.in:8080/1003/1003/2641
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/29295.ts
 
 #EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="11- ESPAÑA",Disney Channel
-http://client-premiumzone.in:8080/1003/1003/633
+
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="11- ESPAÑA",Disney Junior ᵒᶠᶠ
 http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
 
-#EXTINF:-1 tvg-logo="https://i.blogs.es/e53445/disney-plus-logo/original.jpeg" group-title="11- ESPAÑA",Disney + ᵃˡᵗ
-http://185.246.210.92:80/live/yF9pMSrZSS/lec3t2J9/11034.ts
+#EXTINF:-1 tvg-logo="https://i.blogs.es/e53445/disney-plus-logo/original.jpeg" group-title="11- ESPAÑA",Disney +
 
-#EXTINF:-1 tvg-logo="https://descargarrevistas.com/wp-content/uploads/2018/12/divinity.jpg" group-title="11- ESPAÑA",Divinity ᵃˡᵗ
-http://185.246.210.92:80/live/yF9pMSrZSS/lec3t2J9/7294.ts
+
+#EXTINF:-1 tvg-logo="https://descargarrevistas.com/wp-content/uploads/2018/12/divinity.jpg" group-title="11- ESPAÑA",Divinity
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/2566.ts
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2019/10/dkiss-en-directo-online-1.png" group-title="11- ESPAÑA",Dkiss ᵒᶠᶠ
 http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
@@ -803,71 +820,57 @@ http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live-1000/index
 http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live-300/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-FeitpcROtPU/TwIEowk2izI/AAAAAAAAATI/g0HN4up-TH0/s1600/canal-energy.png" group-title="11- ESPAÑA",Energy
-http://client-premiumzone.in:8080/1003/1003/1099
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/2565.ts
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/EURSP.png" group-title="11- ESPAÑA",Eurosport 1
-http://client-premiumzone.in:8080/1003/1003/8204
-#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/EURSP.png" group-title="11- ESPAÑA",Eurosport 1 ᵃˡᵗ
-http://185.246.210.92:80/live/yF9pMSrZSS/lec3t2J9/11028.ts
+
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/EURS2.png" group-title="11- ESPAÑA",Eurosport 2
-http://client-premiumzone.in:8080/1003/1003/8208
-#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/EURS2.png" group-title="11- ESPAÑA",Eurosport 2 ᵃˡᵗ
-http://185.246.210.92:80/live/yF9pMSrZSS/lec3t2J9/11029.ts
+
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/FDF-en-directo-online.png" group-title="11- ESPAÑA",Fdf
-http://client-premiumzone.in:8080/1003/1003/1098
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/2562.ts
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/FDF-en-directo-online.png" group-title="11- ESPAÑA",Fdf
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/52331.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="11- ESPAÑA",Fox
-http://client-premiumzone.in:8080/1003/1003/631
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="11- ESPAÑA",Fox ᵃˡᵗ
-http://185.246.210.92:80/live/yF9pMSrZSS/lec3t2J9/11026.ts
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/2561.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="11- ESPAÑA",Fox
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/52397.ts
 
 #EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="11- ESPAÑA",Fox Life
-http://client-premiumzone.in:8080/1003/1003/6815
-#EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="11- ESPAÑA",Fox Life ᵃˡᵗ
-http://185.246.210.92:80/live/yF9pMSrZSS/lec3t2J9/11027.ts
+
 
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/g/o/l/xgol.jpg.pagespeed.ic.ehJ8f13U62.jpg" group-title="11- ESPAÑA",Gol Tv
-http://client-premiumzone.in:8080/1003/1003/1084
-#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/g/o/l/xgol.jpg.pagespeed.ic.ehJ8f13U62.jpg" group-title="11- ESPAÑA",Gol Tv ᵃˡᵗ
-http://185.246.210.92:80/live/yF9pMSrZSS/lec3t2J9/7298.ts
+
 
 #EXTINF:-1 tvg-logo="https://espalhafactos.com/wp-content/uploads/2013/05/Canal-Hist%C3%B3ria.png" group-title="11- ESPAÑA",Historia
-http://client-premiumzone.in:8080/1003/1003/630
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/2558.ts
 #EXTINF:-1 tvg-logo="https://espalhafactos.com/wp-content/uploads/2013/05/Canal-Hist%C3%B3ria.png" group-title="11- ESPAÑA",Historia
-http://185.246.210.92:80/live/yF9pMSrZSS/lec3t2J9/11024.ts
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/52377.ts
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/HOLHD.png" group-title="11- ESPAÑA",Hollywood
-http://client-premiumzone.in:8080/1003/1003/629
-#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/HOLHD.png" group-title="11- ESPAÑA",Hollywood ᵃˡᵗ
-http://185.246.210.92:80/live/yF9pMSrZSS/lec3t2J9/11025.ts
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/2557.ts
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/HOLHD.png" group-title="11- ESPAÑA",Hollywood
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/52384.ts
 
-#EXTINF:-1 tvg-logo="https://tvalcolea.com/wp-content/uploads/2018/03/iberalia.jpg" group-title="11- ESPAÑA",Iberalia ᵒᶠᶠ
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="https://tvalcolea.com/wp-content/uploads/2018/03/iberalia.jpg" group-title="11- ESPAÑA",Iberalia
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/2556.ts
 
 #EXTINF:-1 tvg-logo="http://telecalasparra.com/wp-content/uploads/2016/09/1.La_1.png" group-title="11- ESPAÑA",La 1
-http://client-premiumzone.in:8080/1003/1003/623
+
 
 #EXTINF:-1 tvg-logo="https://www.siguenza-guadalajara.org/images/noticias/2019/septiembre/la-2.png" group-title="11- ESPAÑA",La 2
-http://client-premiumzone.in:8080/1003/1003/23025
-#EXTINF:-1 tvg-logo="https://www.siguenza-guadalajara.org/images/noticias/2019/septiembre/la-2.png" group-title="11- ESPAÑA",La 2 ᵃˡᵗ
-http://185.246.210.92:80/live/yF9pMSrZSS/lec3t2J9/7302.ts
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/29244.ts
 
-#EXTINF:-1 tvg-logo="https://cdn.domestika.org/c_fill,dpr_1.0,f_auto,h_1200,q_auto,w_1200/v1505164439/project-covers/000/353/863/353863-original.jpg?1505164439" group-title="11- ESPAÑA",LaLiga TV
-http://client-premiumzone.in:8080/1003/1003/7180
-#EXTINF:-1 tvg-logo="https://cdn.domestika.org/c_fill,dpr_1.0,f_auto,h_1200,q_auto,w_1200/v1505164439/project-covers/000/353/863/353863-original.jpg?1505164439" group-title="11- ESPAÑA",LaLiga TV ᵃˡᵗ
-http://185.246.210.92:80/live/yF9pMSrZSS/lec3t2J9/11047.ts
-#EXTINF:-1 tvg-logo="https://cdn.domestika.org/c_fill,dpr_1.0,f_auto,h_1200,q_auto,w_1200/v1505164439/project-covers/000/353/863/353863-original.jpg?1505164439" group-title="11- ESPAÑA",LaLiga TV ᵃˡᵗ
-http://185.246.210.92:80/live/yF9pMSrZSS/lec3t2J9/7240.ts
 #EXTINF:-1 tvg-logo="https://cdn.domestika.org/c_fill,dpr_1.0,f_auto,h_1200,q_auto,w_1200/v1505164439/project-covers/000/353/863/353863-original.jpg?1505164439" group-title="11- ESPAÑA",LaLiga TV⁻ˢᵈ⁻
 http://stream.elitegol.me/hls/vip1.m3u8?TEAM IPTV
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/01/Lancelot-tv.png" group-title="11- ESPAÑA",Lancelot Tv
-http://tvaz.top:80/live/ricardo/123456/71699.ts
 
-#EXTINF:-1 tvg-logo="https://www.cienciaterapia.org/wp-content/uploads/2016/04/sexta.png" group-title="11- ESPAÑA",La Sexta ᵃˡᵗ
-http://185.246.210.92:80/live/yF9pMSrZSS/lec3t2J9/7304.ts
+
+#EXTINF:-1 tvg-logo="https://www.cienciaterapia.org/wp-content/uploads/2016/04/sexta.png" group-title="11- ESPAÑA",La Sexta
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/818729431141404672/kSfmbaKL_400x400.jpg" group-title="11- ESPAÑA",Lebrija TV⁻ˢᵈ⁻
 http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8?GrupoTopIptv
@@ -875,142 +878,168 @@ http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/902582473850109952/VpjDe23g_400x400.jpg" group-title="11- ESPAÑA",Marbella TV⁻ˢᵈ⁻
 http://cloudtv.provideo.es/live/marbellatv-livestream.m3u8
 
-#EXTINF:-1 tvg-logo="https://jonvlogs21.es/wp-content/uploads/2019/03/720x540.jpg" group-title="11- ESPAÑA",Mega ᵒᶠᶠ
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="https://jonvlogs21.es/wp-content/uploads/2019/03/720x540.jpg" group-title="11- ESPAÑA",Mega
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/2550.ts
+#EXTINF:-1 tvg-logo="https://jonvlogs21.es/wp-content/uploads/2019/03/720x540.jpg" group-title="11- ESPAÑA",Mega
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/29231.ts
 
 #EXTINF:-1 tvg-logo="https://logonoid.com/images/mezzo-tv-logo.png" group-title="11- ESPAÑA",Mezzo
-http://client-premiumzone.in:8080/1003/1003/8205
-#EXTINF:-1 tvg-logo="https://logonoid.com/images/mezzo-tv-logo.png" group-title="11- ESPAÑA",Mezzo ᵃˡᵗ
-http://185.246.210.92:80/live/yF9pMSrZSS/lec3t2J9/4878.ts
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/29316.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-accion.jpg.pagespeed.ic.S9amYApSMG.jpg" group-title="11- ESPAÑA",M. Accion
-http://client-premiumzone.in:8080/1003/1003/638
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/52393.ts
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-accion.jpg.pagespeed.ic.S9amYApSMG.jpg" group-title="11- ESPAÑA",M. Accion
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/2591.ts
 
-#EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2019/04/movistar-cine-espanol.jpg" group-title="11- ESPAÑA",M. Cine Ñ ᵒᶠᶠ
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="https://marcaporhombro.com/wp-content/uploads/2016/12/logo_portada_64_movistar.png" group-title="11- ESPAÑA",M. Alquiler presentacion
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/52363.ts
+#EXTINF:-1 tvg-logo="https://marcaporhombro.com/wp-content/uploads/2016/12/logo_portada_64_movistar.png" group-title="11- ESPAÑA",M. Alquiler 1
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/29282.ts
+#EXTINF:-1 tvg-logo="https://marcaporhombro.com/wp-content/uploads/2016/12/logo_portada_64_movistar.png" group-title="11- ESPAÑA",M. Alquiler 3
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/29280.ts
+#EXTINF:-1 tvg-logo="https://marcaporhombro.com/wp-content/uploads/2016/12/logo_portada_64_movistar.png" group-title="11- ESPAÑA",M. Alquiler 4
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/29279.ts
+#EXTINF:-1 tvg-logo="https://marcaporhombro.com/wp-content/uploads/2016/12/logo_portada_64_movistar.png" group-title="11- ESPAÑA",M. Alquiler 5
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/29278.ts
+#EXTINF:-1 tvg-logo="https://marcaporhombro.com/wp-content/uploads/2016/12/logo_portada_64_movistar.png" group-title="11- ESPAÑA",M. Alquiler 6
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/29277.ts
+#EXTINF:-1 tvg-logo="https://marcaporhombro.com/wp-content/uploads/2016/12/logo_portada_64_movistar.png" group-title="11- ESPAÑA",M. Alquiler 7
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/29276.ts
+#EXTINF:-1 tvg-logo="https://marcaporhombro.com/wp-content/uploads/2016/12/logo_portada_64_movistar.png" group-title="11- ESPAÑA",M. Alquiler 9
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/29275.ts
+
+#EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2019/04/movistar-cine-espanol.jpg" group-title="11- ESPAÑA",M. Cine Ñ
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/29315.ts
+#EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2019/04/movistar-cine-espanol.jpg" group-title="11- ESPAÑA",M. Cine Ñ
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/52391.ts
 
 #EXTINF:-1 tvg-logo="http://51.68.70.69/picons/M.CineDoc&Roll_HD.png" group-title="11- ESPAÑA",M. Cinedoc&roll
-http://client-premiumzone.in:8080/1003/1003/1091
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/29314.ts
+#EXTINF:-1 tvg-logo="http://51.68.70.69/picons/M.CineDoc&Roll_HD.png" group-title="11- ESPAÑA",M. Cinedoc&roll
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/2583.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-comedia.jpg.pagespeed.ic.deMbrDoiNj.jpg" group-title="11- ESPAÑA",M. Comedia
-http://client-premiumzone.in:8080/1003/1003/637
+
+
+#EXTINF:-1 tvg-logo="https://verlatele.net/wp-content/uploads/2020/05/Movistar-Dcine.jpg" group-title="11- ESPAÑA",M. Dcine
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/2581.ts
 
 #EXTINF:-1 tvg-logo="https://copaamericacentenario.com/wp-content/uploads/2018/03/movistar-deportes.png" group-title="11- ESPAÑA",M. Deportes
-http://client-premiumzone.in:8080/1003/1003/636
-#EXTINF:-1 tvg-logo="https://copaamericacentenario.com/wp-content/uploads/2018/03/movistar-deportes.png" group-title="11- ESPAÑA",M. Deportes ᵃˡᵗ
-http://185.246.210.92:80/live/yF9pMSrZSS/lec3t2J9/11041.ts
+
 
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-drama.jpg.pagespeed.ic.2pLss6-3MZ.jpg" group-title="11- ESPAÑA",M. Drama
-http://client-premiumzone.in:8080/1003/1003/2404
+
 
 #EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/3/d/m/movistar-estrenos.jpg" group-title="11- ESPAÑA",M. Estrenos
-http://client-premiumzone.in:8080/1003/1003/1094
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/52388.ts
+#EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/3/d/m/movistar-estrenos.jpg" group-title="11- ESPAÑA",M. Estrenos
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/2588.ts
 
 #EXTINF:-1 tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/3c/1355324.png" group-title="11- ESPAÑA",M. Formula 1
-http://client-premiumzone.in:8080/1003/1003/1087
-#EXTINF:-1 tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/3c/1355324.png" group-title="11- ESPAÑA",M. Formula 1 ᵃˡᵗ
-http://185.246.210.92:80/live/yF9pMSrZSS/lec3t2J9/11043.ts
+
 
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-golf.jpg.pagespeed.ic.lKGt5sk6A_.jpg" group-title="11- ESPAÑA",M. Golf
-http://client-premiumzone.in:8080/1003/1003/1086
+
 
 #EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads/2019/07/movistar-laliga-logo.jpg" group-title="11- ESPAÑA",M. La Liga
-http://client-premiumzone.in:8080/1003/1003/33150
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MVFRKTv.png" group-title="11- ESPAÑA",M. Liga de Campeones
-http://client-premiumzone.in:8080/1003/1003/6491
+
 
 #EXTINF:-1 tvg-logo="https://www.airnetwifi.es/wp-content/uploads/2019/03/Logo-Movistar-Series.png" group-title="11- ESPAÑA",M. Series
-http://client-premiumzone.in:8080/1003/1003/1093
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/52383.ts
+#EXTINF:-1 tvg-logo="https://www.airnetwifi.es/wp-content/uploads/2019/03/Logo-Movistar-Series.png" group-title="11- ESPAÑA",M. Series
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/2579.ts
 
-#EXTINF:-1 tvg-logo="https://www.andorratelecom.ad/documents/33347/1934305/Mask-Group-8@2x.png" group-title="11- ESPAÑA",M. Seriesmania ᵒᶠᶠ
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="https://www.andorratelecom.ad/documents/33347/1934305/Mask-Group-8@2x.png" group-title="11- ESPAÑA",M. Seriesmania
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/2585.ts
 
-#EXTINF:-1 tvg-logo="http://cibercom.es/wp-content/uploads/2014/01/mtv_logo.jpg" group-title="11- ESPAÑA",MTV España ᵃˡᵗ
-http://185.246.210.92:80/live/yF9pMSrZSS/lec3t2J9/11040.ts
+#EXTINF:-1 tvg-logo="http://cibercom.es/wp-content/uploads/2014/01/mtv_logo.jpg" group-title="11- ESPAÑA",MTV España
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/2549.ts
+#EXTINF:-1 tvg-logo="http://cibercom.es/wp-content/uploads/2014/01/mtv_logo.jpg" group-title="11- ESPAÑA",MTV España
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/52372.ts
 
-#EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="11- ESPAÑA",Nat Geo ᵃˡᵗ
-http://185.246.210.92:80/live/yF9pMSrZSS/lec3t2J9/11011.ts
+#EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="11- ESPAÑA",Nat Geo
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/2547.ts
 
 #EXTINF:-1 tvg-logo="http://www.lettreaudiovisuel.com/wp-content/uploads/2014/12/Nat-Geo-Wild.png" group-title="11- ESPAÑA",Nat Geo Wild
-http://client-premiumzone.in:8080/1003/1003/626
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/52378.ts
 
 #EXTINF:-1 tvg-logo="https://labutacaroja.com/wp-content/uploads/2019/01/neox-en-directo-online.png" group-title="11- ESPAÑA",Neox
-http://client-premiumzone.in:8080/1003/1003/2216
-#EXTINF:-1 tvg-logo="https://labutacaroja.com/wp-content/uploads/2019/01/neox-en-directo-online.png" group-title="11- ESPAÑA",Neox ᵃˡᵗ
-http://185.246.210.92:80/live/yF9pMSrZSS/lec3t2J9/7310.ts
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/52380.ts
 
 #EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="11- ESPAÑA",Nickelodeon
-http://client-premiumzone.in:8080/1003/1003/6817
-#EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="11- ESPAÑA",Nickelodeon ᵃˡᵗ
-http://185.246.210.92:80/live/yF9pMSrZSS/lec3t2J9/11037.ts
+
 
 #EXTINF:-1 tvg-logo="http://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="11- ESPAÑA",Nick Junior
-http://client-premiumzone.in:8080/1003/1003/12635
-#EXTINF:-1 tvg-logo="http://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="11- ESPAÑA",Nick Junior ᵃˡᵗ
-http://185.246.210.92:80/live/yF9pMSrZSS/lec3t2J9/11036.ts
+
 
 #EXTINF:-1 tvg-logo="http://www.axartel.es/assets/img/sliders/tv-canales/a3-nova.jpg" group-title="11- ESPAÑA",Nova
-http://client-premiumzone.in:8080/1003/1003/2214
+
 
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/noticias/55600/55629/1_d8fe9d8dd9.jpg" group-title="11- ESPAÑA",Odisea
-http://client-premiumzone.in:8080/1003/1003/2631
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/noticias/55600/55629/1_d8fe9d8dd9.jpg" group-title="11- ESPAÑA",Odisea ᵃˡᵗ
-http://185.246.210.92:80/live/yF9pMSrZSS/lec3t2J9/11018.ts
+
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_paramount-channel_m.png" group-title="11- ESPAÑA",Paramount Network
-http://client-premiumzone.in:8080/1003/1003/2642
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/2539.ts
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Real-Madrid-TV.png" group-title="11- ESPAÑA",Real Madrid tv ᵃˡᵗ
-http://185.246.210.92:80/live/yF9pMSrZSS/lec3t2J9/11048.ts
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Real-Madrid-TV.png" group-title="11- ESPAÑA",Real Madrid tv
+
 
 #EXTINF:-1 tvg-logo="http://diretele.com/wp-content/uploads/2018/09/radio-televisi%C3%B3n-ceuta-en-directo.png" group-title="11- ESPAÑA",RTVCE⁻ˢᵈ⁻
 http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="https://canalsomos.es/wp-content/themes/canalsomos/images/somos-logo.png" group-title="11- ESPAÑA",Somos
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/29311.ts
+
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2011/09/c0552-sundancetv-la.png" group-title="11- ESPAÑA",Sundance
-http://client-premiumzone.in:8080/1003/1003/12641
+
 
 #EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="11- ESPAÑA",Syfy
-http://client-premiumzone.in:8080/1003/1003/2639
-#EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="11- ESPAÑA",Syfy ᵃˡᵗ
-http://185.246.210.92:80/live/yF9pMSrZSS/lec3t2J9/11021.ts
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/2538.ts
+#EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="11- ESPAÑA",Syfy
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/52399.ts
+#EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="11- ESPAÑA",Syfy
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/29268.ts
 
 #EXTINF:-1 tvg-logo="http://www.cable10.com/imagenes/programacion/canales_0013s_0016_Layer%2034.jpg" group-title="11- ESPAÑA",TCM
-http://client-premiumzone.in:8080/1003/1003/3370
-#EXTINF:-1 tvg-logo="http://www.cable10.com/imagenes/programacion/canales_0013s_0016_Layer%2034.jpg" group-title="11- ESPAÑA",TCM ᵃˡᵗ
-http://185.246.210.92:80/live/yF9pMSrZSS/lec3t2J9/7320.ts
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/2537.ts
 
 #EXTINF:-1 tvg-logo="http://www.cienciaterapia.org/wp-content/uploads/2016/09/telecinco-logotipo.png" group-title="11- ESPAÑA",Telecinco
-http://client-premiumzone.in:8080/1003/1003/624
-#EXTINF:-1 tvg-logo="http://www.cienciaterapia.org/wp-content/uploads/2016/09/telecinco-logotipo.png" group-title="11- ESPAÑA",Telecinco ᵃˡᵗ
-http://185.246.210.92:80/live/yF9pMSrZSS/lec3t2J9/7321.ts
+
 
 #EXTINF:-1 tvg-logo="http://img.irtve.es/imagenes/jpg/1331827196060.jpg" group-title="11- ESPAÑA",Teledeporte
-http://client-premiumzone.in:8080/1003/1003/1089
+
+
+#EXTINF:-1 tvg-logo="http://ortomedicalcare.com/wp-content/uploads/2018/01/logo-telemadrid-1-1080x675.png" group-title="11- ESPAÑA",Telemadrid
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/29217.ts
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/02/canal-7-televalencia.png" group-title="11- ESPAÑA",TeleValencia 7 ᵒᶠᶠ
 http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
 
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="11- ESPAÑA",TNT
-http://client-premiumzone.in:8080/1003/1003/2634
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/2534.ts
+#EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="11- ESPAÑA",TNT
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/52387.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/o/r/xtorostv.jpg.pagespeed.ic.My5CoATug6.jpg" group-title="11- ESPAÑA",Toros
-http://client-premiumzone.in:8080/1003/1003/1092
-#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/o/r/xtorostv.jpg.pagespeed.ic.My5CoATug6.jpg" group-title="11- ESPAÑA",Toros ᵃˡᵗ
-http://185.246.210.92:80/live/yF9pMSrZSS/lec3t2J9/11035.ts
+
+
+#EXTINF:-1 tvg-logo="https://fracademic.com/pictures/frwiki/49/180px-Logo_TVE-Internacional.svg.png" group-title="11- ESPAÑA",TVE
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/29212.ts
+#EXTINF:-1 tvg-logo="https://fracademic.com/pictures/frwiki/49/180px-Logo_TVE-Internacional.svg.png" group-title="11- ESPAÑA",TVE Internacional
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/29211.ts
 
 #EXTINF:-1 tvg-logo="http://www.videoluctv.net/wp-content/uploads/2016/09/TVG.jpg" group-title="11- ESPAÑA",TV Galicia⁻ˢᵈ⁻
 http://europa-crtvg.flumotion.com/playlist.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="http://www.videoluctv.net/wp-content/uploads/2016/09/TVG.jpg" group-title="11- ESPAÑA",TV Galicia
-http://tvaz.top:80/live/ricardo/123456/71680.ts
-
-#EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/v/h/1/vh1-classic.jpg" group-title="11- ESPAÑA",VH1 ᵃˡᵗ
-http://185.246.210.92:80/live/yF9pMSrZSS/lec3t2J9/7311.ts
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/29214.ts
+#EXTINF:-1 tvg-logo="http://www.videoluctv.net/wp-content/uploads/2016/09/TVG.jpg" group-title="11- ESPAÑA",TV Galicia
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/29238.ts
 
 #EXTINF:-1 tvg-logo="https://www.programacion.tv/images/viajar.PNG" group-title="11- ESPAÑA",Viajar
-http://client-premiumzone.in:8080/1003/1003/3390
-#EXTINF:-1 tvg-logo="https://www.programacion.tv/images/viajar.PNG" group-title="11- ESPAÑA",Viajar⁻ˢᵈ⁻
-http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/29309.ts
 
 ######################################################################################################################################
 ####################################### GUATEMALA
