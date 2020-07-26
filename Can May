@@ -676,10 +676,10 @@ http://217.182.77.27/live/alcarriatv-livestream.m3u8?GrupoTopIptv
 http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/52352.ts
 
 #EXTINF:-1 tvg-logo="https://www.miwuki.com/wp-content/uploads/2016/10/logo-antena-3.png" group-title="11- ESPAÑA",Antena 3
-
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/2599.ts
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/aragon-tv-logo.png" group-title="11- ESPAÑA",Aragon tv
-
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/29273.ts
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="11- ESPAÑA",Axn⁻ʰᵈ⁻
 http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/2598.ts
@@ -724,6 +724,8 @@ http://secure7.todostreaming.es/live/101tv-web101tv.m3u8
 
 #EXTINF:-1 tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="11- ESPAÑA",Canal 24 Horas⁻ˢᵈ⁻
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
+#EXTINF:-1 tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="11- ESPAÑA",Canal 24 Horas
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/2602.ts
 
 #EXTINF:-1 tvg-logo="http://webtv.7tvregiondemurcia.es/assets/home/images/logos/television-region-mucia.png" group-title="11- ESPAÑA",Canal 7 Murcia⁻ˢᵈ⁻
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8?GrupoTopIptv
@@ -743,6 +745,8 @@ http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
 http://cdnlive.shooowit.net/rtvalive/channelDVR.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/01/Canal-Sur-TV.png" group-title="11- ESPAÑA",Canal Sur⁻ˢᵈ⁻
 http://eg128.tmira.com/rtvalive/canal2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/01/Canal-Sur-TV.png" group-title="11- ESPAÑA",Canal Sur
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/29283.ts
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/CACAP.png" group-title="11- ESPAÑA",Caza y Pesca⁻ʰᵈ⁻
 http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/2576.ts
@@ -847,7 +851,7 @@ http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/52384.ts
 http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/2556.ts
 
 #EXTINF:-1 tvg-logo="http://telecalasparra.com/wp-content/uploads/2016/09/1.La_1.png" group-title="11- ESPAÑA",La 1
-
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/2555.ts
 
 #EXTINF:-1 tvg-logo="https://www.siguenza-guadalajara.org/images/noticias/2019/septiembre/la-2.png" group-title="11- ESPAÑA",La 2
 
@@ -859,7 +863,7 @@ http://stream.elitegol.me/hls/vip1.m3u8?TEAM IPTV
 
 
 #EXTINF:-1 tvg-logo="https://www.cienciaterapia.org/wp-content/uploads/2016/04/sexta.png" group-title="11- ESPAÑA",La Sexta
-
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/52410.ts
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/818729431141404672/kSfmbaKL_400x400.jpg" group-title="11- ESPAÑA",Lebrija TV⁻ˢᵈ⁻
 http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8?GrupoTopIptv
@@ -957,10 +961,12 @@ http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/52380.ts
 
 
 #EXTINF:-1 tvg-logo="http://www.axartel.es/assets/img/sliders/tv-canales/a3-nova.jpg" group-title="11- ESPAÑA",Nova
-
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/2542.ts
+#EXTINF:-1 tvg-logo="http://www.axartel.es/assets/img/sliders/tv-canales/a3-nova.jpg" group-title="11- ESPAÑA",Nova
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/29272.ts
 
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/noticias/55600/55629/1_d8fe9d8dd9.jpg" group-title="11- ESPAÑA",Odisea
-
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/2541.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_paramount-channel_m.png" group-title="11- ESPAÑA",Paramount Network
 http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/2539.ts
@@ -984,7 +990,7 @@ http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/29268.ts
 http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/2537.ts
 
 #EXTINF:-1 tvg-logo="http://www.cienciaterapia.org/wp-content/uploads/2016/09/telecinco-logotipo.png" group-title="11- ESPAÑA",Telecinco
-
+http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/2536.ts
 
 #EXTINF:-1 tvg-logo="http://img.irtve.es/imagenes/jpg/1331827196060.jpg" group-title="11- ESPAÑA",Teledeporte
 
