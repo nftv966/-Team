@@ -1896,7 +1896,7 @@ http://uruguayiptv.com:25461/live/miguel2019/miguel2019/571.ts
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="28- PREMIUM LATINO",Axn (2)
 http://uruguayiptv.com:25461/live/6688/6688/571.ts
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="28- PREMIUM LATINO",Axn (3)
-http://ytv.plus:25461/apps/1234/1874
+http://ytv.plus:25461/live/apps/1234/1874.rtmp&f=ts
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="28- PREMIUM LATINO",Axn (5)
 http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/51398.rtmp
 
