@@ -1614,6 +1614,8 @@ https://stream.vagalume.fm/hls/1470169276225492/aac.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/av-324x160.png" group-title="20- URUGUAY",A+V (2)
 http://uruguayiptv.com:25461/live/6688/6688/2930.ts
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/av-324x160.png" group-title="20- URUGUAY",A+V (4)
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/47046
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/canal-2-san-carlos.png" group-title="20- URUGUAY",Canal 02 S.Carlos (2)
 http://uruguayiptv.com:25461/live/6688/6688/30851.ts
@@ -1641,9 +1643,13 @@ http://uruguayiptv.com:25461/live/6688/6688/1634.ts
 http://uruguayiptv.com:25461/live/6688/6688/20.ts
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="20- URUGUAY",Montecarlo (2)
 http://uruguayiptv.com:25461/live/6688/6688/1638.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png" group-title="20- URUGUAY",Montecarlo (4)
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/47055
 
 #EXTINF:-1 tvg-logo="http://www.canalm.tv/plantillas/temas/canalm/imagenes/canalm.png" group-title="20- URUGUAY",Montevideo Portal SD
 http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist_w1488231185.m3u8
+#EXTINF:-1 tvg-logo="http://www.canalm.tv/plantillas/temas/canalm/imagenes/canalm.png" group-title="20- URUGUAY",Montevideo Portal (4)
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/47063
 
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/canal10.png" group-title="20- URUGUAY",Saeta Canal 10 (2)
 http://uruguayiptv.com:25461/live/6688/6688/19.ts
@@ -1651,6 +1657,8 @@ http://uruguayiptv.com:25461/live/6688/6688/19.ts
 http://uruguayiptv.com:25461/live/6688/6688/1635.ts
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/canal10.png" group-title="20- URUGUAY",Saeta Canal 10 (2)
 http://uruguayiptv.com:25461/live/6688/6688/4.ts
+#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/canal10.png" group-title="20- URUGUAY",Saeta Canal 10 (4)
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/47048
 
 #EXTINF:-1 tvg-logo="https://www.teledoce.com/wp-content/uploads/2019/09/logo-teledoce-2019_azul.png" group-title="20- URUGUAY",Teledoce (2)
 http://uruguayiptv.com:25461/live/6688/6688/3.ts
@@ -1658,12 +1666,22 @@ http://uruguayiptv.com:25461/live/6688/6688/3.ts
 http://uruguayiptv.com:25461/live/6688/6688/21.ts
 #EXTINF:-1 tvg-logo="https://www.teledoce.com/wp-content/uploads/2019/09/logo-teledoce-2019_azul.png" group-title="20- URUGUAY",Teledoce (2)
 http://uruguayiptv.com:25461/live/6688/6688/1633.ts
+#EXTINF:-1 tvg-logo="https://www.teledoce.com/wp-content/uploads/2019/09/logo-teledoce-2019_azul.png" group-title="20- URUGUAY",Teledoce (4)
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/47051
+#EXTINF:-1 tvg-logo="https://www.teledoce.com/wp-content/uploads/2019/09/logo-teledoce-2019_azul.png" group-title="20- URUGUAY",Teledoce (4)
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/47073
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TNU-Television-Nacional-Uruguay-en-vivo-Online.png" group-title="20- URUGUAY",TNU (2)
 http://uruguayiptv.com:25461/live/6688/6688/18269.ts
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TNU-Television-Nacional-Uruguay-en-vivo-Online.png" group-title="20- URUGUAY",TNU (4)
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/47062
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/tvciudad.png" group-title="20- URUGUAY",Tv Ciudad (2)
 http://uruguayiptv.com:25461/live/6688/6688/12.ts
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/tvciudad.png" group-title="20- URUGUAY",Tv Ciudad (4)
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/47074
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/tvciudad.png" group-title="20- URUGUAY",Tv Ciudad (4)
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/47075
 
 #EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_2da07aaf6d.png" group-title="20- URUGUAY",VTV (2)
 http://uruguayiptv.com:25461/live/6688/6688/777.ts
