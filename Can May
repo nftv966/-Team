@@ -1903,9 +1903,13 @@ http://ic7.101.ru:8000/a16
 #######################################################################################################################################################################################
 
 #EXTINF:-1 tvg-logo="https://stagingcms.cignal.tv/Upload/Images/AMC.png" group-title="28- PREMIUM LATINO",Amc (1)
+http://uruguayiptv.com:25461/live/miguel2019/miguel2019/518.ts
+#EXTINF:-1 tvg-logo="https://stagingcms.cignal.tv/Upload/Images/AMC.png" group-title="28- PREMIUM LATINO",Amc (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/572.ts
 #EXTINF:-1 tvg-logo="https://stagingcms.cignal.tv/Upload/Images/AMC.png" group-title="28- PREMIUM LATINO",Amc (2)
-http://uruguayiptv.com:25461/live/6688/6688/572.ts
+http://uruguayiptv.com:25461/live/6688/6688/518.ts
+#EXTINF:-1 tvg-logo="https://stagingcms.cignal.tv/Upload/Images/AMC.png" group-title="28- PREMIUM LATINO",Amc (2)
+http://uruguayiptv.com:25461/live/miguel2019/miguel2019/572.ts
 #EXTINF:-1 tvg-logo="https://stagingcms.cignal.tv/Upload/Images/AMC.png" group-title="28- PREMIUM LATINO",Amc (3)
 http://ytv.plus:25461/apps/1234/1875
 #EXTINF:-1 tvg-logo="https://stagingcms.cignal.tv/Upload/Images/AMC.png" group-title="28- PREMIUM LATINO",Amc (4)
