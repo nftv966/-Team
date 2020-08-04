@@ -2004,6 +2004,8 @@ http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/51406.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_europa-europa_m.png" group-title="28- PREMIUM LATINO",Europa Europa (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/641.ts
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_europa-europa_m.png" group-title="28- PREMIUM LATINO",Europa Europa (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/16412.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="28- PREMIUM LATINO",Fox (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/535.ts
@@ -2816,8 +2818,8 @@ http://antena1.newradio.it/stream?1519462006844
 #######################################
 ######################################################################################################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4nt01B2.png" group-title="30- VARIEDADES LATINO",Concert Channel ᵒᶠᶠ
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4nt01B2.png" group-title="30- VARIEDADES LATINO",Concert Channel (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/10288.ts
 
 #EXTINF:-1 tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2019/02/ENTERTAIMENT-TELEVISION-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg" group-title="30- VARIEDADES LATINO",E! (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/577.ts
@@ -2826,14 +2828,20 @@ http://uruguayiptv.com:25461/live/6688/6688/577.ts
 #EXTINF:-1 tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2019/02/ENTERTAIMENT-TELEVISION-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg" group-title="30- VARIEDADES LATINO",E! (3)
 http://ytv.plus:25461/apps/1234/1870
 #EXTINF:-1 tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2019/02/ENTERTAIMENT-TELEVISION-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg" group-title="30- VARIEDADES LATINO",E! (4)
-http://securetv.net:8080/vMqxnQ5x5k/7053514584/46593
+http://khujnv.nl:80/live/Player5/Mgm490279/50055.ts
+#EXTINF:-1 tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2019/02/ENTERTAIMENT-TELEVISION-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg" group-title="30- VARIEDADES LATINO",E! (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/50634.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/68ztlZE.png" group-title="30- VARIEDADES LATINO",El Gourmet (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/319.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/68ztlZE.png" group-title="30- VARIEDADES LATINO",El Gourmet (2)
 http://uruguayiptv.com:25461/live/6688/6688/319.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/68ztlZE.png" group-title="30- VARIEDADES LATINO",El Gourmet (4)
-http://securetv.net:8080/vMqxnQ5x5k/7053514584/46594
+http://khujnv.nl:80/live/Player5/Mgm490279/50062.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/68ztlZE.png" group-title="30- VARIEDADES LATINO",El Gourmet (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/50636.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/68ztlZE.png" group-title="30- VARIEDADES LATINO",El Gourmet (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/50637.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/68ztlZE.png" group-title="30- VARIEDADES LATINO",El Gourmet (5)
 http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/51422.rtmp
 #EXTINF:-1 tvg-logo="https://i.imgur.com/68ztlZE.png" group-title="30- VARIEDADES LATINO",El Gourmet ᵃˡᵗ
@@ -2847,22 +2855,26 @@ http://uruguayiptv.com:25461/live/miguel2019/miguel2019/674.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_film-arts_m.png" group-title="30- VARIEDADES LATINO",Film & Arts (2)
 http://uruguayiptv.com:25461/live/6688/6688/674.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_film-arts_m.png" group-title="30- VARIEDADES LATINO",Film & Arts (4)
-http://securetv.net:8080/vMqxnQ5x5k/7053514584/46596
+http://khujnv.nl:80/live/Player5/Mgm490279/50063.ts
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_film-arts_m.png" group-title="30- VARIEDADES LATINO",Film & Arts (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/18877.ts
 
 #EXTINF:-1 tvg-logo="https://bestofsno.com/wp-content/uploads/2019/03/3.18-culinary.png" group-title="30- VARIEDADES LATINO",Food Network (3)
 http://ytv.plus:25461/apps/1234/1866
+#EXTINF:-1 tvg-logo="https://bestofsno.com/wp-content/uploads/2019/03/3.18-culinary.png" group-title="30- VARIEDADES LATINO",Food Network (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/50064.ts
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/22/53/ef/2253eff0b7164502c402c73e98ef9417.png" group-title="30- VARIEDADES LATINO",Glitz (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/324.ts
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/22/53/ef/2253eff0b7164502c402c73e98ef9417.png" group-title="30- VARIEDADES LATINO",Glitz (2)
 http://uruguayiptv.com:25461/live/6688/6688/324.ts
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/22/53/ef/2253eff0b7164502c402c73e98ef9417.png" group-title="30- VARIEDADES LATINO",Glitz (4)
-http://securetv.net:8080/vMqxnQ5x5k/7053514584/46623
+http://khujnv.nl:80/live/Player5/Mgm490279/50080.ts
 
 #EXTINF:-1 tvg-logo="https://negociosus.files.wordpress.com/2013/10/hola_tv_logo_octubre_2013_1.jpg" group-title="30- VARIEDADES LATINO",Hola TV (3)
 http://ytv.plus:25461/apps/1234/6041
 #EXTINF:-1 tvg-logo="https://negociosus.files.wordpress.com/2013/10/hola_tv_logo_octubre_2013_1.jpg" group-title="30- VARIEDADES LATINO",Hola TV (4)
-http://securetv.net:8080/vMqxnQ5x5k/7053514584/46640
+http://khujnv.nl:80/live/Player5/Mgm490279/50642.ts
 #EXTINF:-1 tvg-logo="https://negociosus.files.wordpress.com/2013/10/hola_tv_logo_octubre_2013_1.jpg" group-title="30- VARIEDADES LATINO",Hola TV (5)
 http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/57985.rtmp
 
@@ -2871,7 +2883,11 @@ http://uruguayiptv.com:25461/live/miguel2019/miguel2019/542.ts
 #EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2017/06/logo_tv_lifetime_june2017-500x250.png" group-title="30- VARIEDADES LATINO",Lifetime (2)
 http://uruguayiptv.com:25461/live/6688/6688/542.ts
 #EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2017/06/logo_tv_lifetime_june2017-500x250.png" group-title="30- VARIEDADES LATINO",Lifetime (4)
-http://securetv.net:8080/vMqxnQ5x5k/7053514584/46643
+http://khujnv.nl:80/live/Player5/Mgm490279/50092.ts
+#EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2017/06/logo_tv_lifetime_june2017-500x250.png" group-title="30- VARIEDADES LATINO",Lifetime (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/50643.ts
+#EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2017/06/logo_tv_lifetime_june2017-500x250.png" group-title="30- VARIEDADES LATINO",Lifetime (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/50644.ts
 #EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2017/06/logo_tv_lifetime_june2017-500x250.png" group-title="30- VARIEDADES LATINO",Lifetime (5)
 http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/57982.rtmp
 
@@ -2880,10 +2896,12 @@ http://uruguayiptv.com:25461/live/miguel2019/miguel2019/325.ts
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/mas-chic.png" group-title="30- VARIEDADES LATINO",Mas Chic (2)
 http://uruguayiptv.com:25461/live/6688/6688/325.ts
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/mas-chic.png" group-title="30- VARIEDADES LATINO",Mas Chic (4)
-http://securetv.net:8080/vMqxnQ5x5k/7053514584/46644
+http://khujnv.nl:80/live/Player5/Mgm490279/50645.ts
 
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/112-1126076_old-music-mtv-png-logo-mtv-logo-transparent.png" group-title="30- VARIEDADES LATINO",Mtv (3)
 http://ytv.plus:25461/apps/1234/1738
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/112-1126076_old-music-mtv-png-logo-mtv-logo-transparent.png" group-title="30- VARIEDADES LATINO",Mtv (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/50095.ts
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/112-1126076_old-music-mtv-png-logo-mtv-logo-transparent.png" group-title="30- VARIEDADES LATINO",Mtv (5)
 http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/57979.rtmp
 
@@ -2891,14 +2909,14 @@ http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/57979.rtmp
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/1671.ts
 #EXTINF:-1 tvg-logo="https://www.itizaps.net/zapper/logo/b/mtv-hits-2014.png" group-title="30- VARIEDADES LATINO",Mtv Hits (2)
 http://uruguayiptv.com:25461/live/6688/6688/1671.ts
+#EXTINF:-1 tvg-logo="https://www.itizaps.net/zapper/logo/b/mtv-hits-2014.png" group-title="30- VARIEDADES LATINO",Mtv Hits (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/50096.ts
 
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/mtv-live-logo-png-5.png" group-title="30- VARIEDADES LATINO",Mtv Live ᵒᶠᶠ
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/mtv-live-logo-png-5.png" group-title="30- VARIEDADES LATINO",Mtv Live (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/50097.ts
 
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2011/09/c0552-sundancetv-la.png" group-title="30- VARIEDADES LATINO",Sundance (3)
 http://ytv.plus:25461/apps/1234/19
-#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2011/09/c0552-sundancetv-la.png" group-title="30- VARIEDADES LATINO",Sundance (4)
-http://securetv.net:8080/vMqxnQ5x5k/7053514584/46676
 
 #EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2017/07/televisa-afiliados-telehit-logo.jpg" group-title="30- VARIEDADES LATINO",Telehit (3)
 http://ytv.plus:25461/apps/1234/1729
@@ -2910,9 +2928,15 @@ http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
 
 #EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2012/04/trutv.png" group-title="30- VARIEDADES LATINO",Trutv (3)
 http://ytv.plus:25461/apps/1234/1841
+#EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2012/04/trutv.png" group-title="30- VARIEDADES LATINO",Trutv (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/50129.ts
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/wapa-324x160.png" group-title="30- VARIEDADES LATINO",Wapa (3)
 http://ytv.plus:25461/apps/1234/1118
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/wapa-324x160.png" group-title="30- VARIEDADES LATINO",Wapa (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/10797.ts
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/wapa-324x160.png" group-title="30- VARIEDADES LATINO",Wapa 2 (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/10799.ts
 
 ######################################################################################################################################
 #######################################
@@ -3167,6 +3191,19 @@ http://srv.tvprodigital.net:80/193883/193883/20453
 http://antena1.newradio.it/stream?1519462006844
 #######################################
 ######################################################################################################################################
+
+#EXTINF:-1 tvg-logo="https://www.dibujoswiki.com/Uploads/dibujoswiki.com/ImagenesGrandes/bob-esponja.jpg" group-title="32- KIDS 24 HORAS",Bob Esponja (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/39994.ts
+#EXTINF:-1 tvg-logo="https://meploteotodo.com/wp-content/uploads/2020/02/DI334_1.jpg" group-title="32- KIDS 24 HORAS",Pinky y Cerebro (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/40010.ts
+#EXTINF:-1 tvg-logo="https://www.tierragamer.com/wp-content/uploads/2020/04/Naruto-Bitme-Regreso-450x300.jpg" group-title="32- KIDS 24 HORAS",Naruto (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/40011.ts
+#EXTINF:-1 tvg-logo="https://antorchadeportiva.com/wp-content/uploads/2014/11/ch.jpg" group-title="32- KIDS 24 HORAS",Chapulin Colorado (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/40036.ts
+#EXTINF:-1 tvg-logo="https://www.rockandpop.cl/wp-content/uploads/2019/07/dragon-live-music-concurso-entradas-400x360.jpg" group-title="32- KIDS 24 HORAS",Dragon Ball Z (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/40036.ts
+#EXTINF:-1 tvg-logo="https://www.ionlitio.com/images/2009/04/saint_seiya_portada_articulo.jpg" group-title="32- KIDS 24 HORAS",Caballeros del Zodiaco (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/40043.ts
 
 #EXTINF:-1 tvg-logo="https://dibujosparacolorear.eu/wp-content/uploads/2017/12/Ben_10.jpg" group-title="32- KIDS 24 HORAS",Ben 10 (2)
 http://uruguayiptv.com:25461/live/6688/6688/11762.ts
