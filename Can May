@@ -484,6 +484,9 @@ http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
 #EXTINF:-1  tvg-logo="https://www.cotes.net.bo/appCotes/public/appWeb_/assets/images/canales/27.png" group-title="05- BOLIVIA",Gigavision ᵒᶠᶠ
 http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
 
+#EXTINF:-1  tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Pat-TV-en-vivo-Online.png" group-title="05- BOLIVIA",Pat tv ᵒᶠᶠ
+http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+
 #EXTINF:-1  tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/bo-rtp-bolivia-1178.jpg" group-title="05- BOLIVIA",RTP ᵒᶠᶠ
 http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
 
@@ -498,18 +501,28 @@ https://stream.vagalume.fm/hls/14647977281792658143/aac.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1105493887714508801/_XSw2yUR_400x400.png" group-title="06- CHILE",24 Horas (2)
 http://uruguayiptv.com:25461/live/6688/6688/18236.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1105493887714508801/_XSw2yUR_400x400.png" group-title="06- CHILE",24 Horas (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/16036.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m70PUPf.jpg" group-title="06- CHILE",Antofagasta TV⁻ˢᵈ⁻
 http://unlimited1-us.dps.live/atv/atv.smil/atv/livestream2/chunks.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://lisa.zapping.live/uploads/canales/color/13cable.jpg" group-title="06- CHILE",Canal 13 (2)
+#EXTINF:-1 tvg-logo="https://cachipum.tv/wp-content/uploads/2020/04/logo.png" group-title="06- CHILE",Cachipum (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/35850.ts
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1277606373203853314/g61tqP_p_400x400.jpg" group-title="06- CHILE",Canal 13 (2)
 http://uruguayiptv.com:25461/live/6688/6688/18205.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1277606373203853314/g61tqP_p_400x400.jpg" group-title="06- CHILE",Canal 13 (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/10821.ts
+
+#EXTINF:-1 tvg-logo="https://lisa.zapping.live/uploads/canales/color/13cable.jpg" group-title="06- CHILE",Canal 13 c (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/31720.ts
 
 #EXTINF:-1 tvg-logo="https://elfiltrador.com/wp-content/uploads/2018/10/foto_0000001320180216144941.png" group-title="06- CHILE",Chilevision ᵒᶠᶠ
 http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/VhOolgs.png" group-title="06- CHILE",El Pingüino ᵒᶠᶠ
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/VhOolgs.png" group-title="06- CHILE",El Pingüino (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/35854.ts
 
 #EXTINF:-1 tvg-logo="https://k60.kn3.net/taringa/1/6/E/2/0/7/DanielAmad1/705.jpg" group-title="06- CHILE",Etc ᵒᶠᶠ
 http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
@@ -520,29 +533,45 @@ http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9sKGsmt.png" group-title="06- CHILE",ITV⁻ˢᵈ⁻
 http://unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/chunks.m3u8?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="https://media.glassdoor.com/sqll/40990/jetix-squarelogo-1426742678310.png" group-title="06- CHILE",Jetix (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/40428.ts
+
 #EXTINF:-1 tvg-logo="https://flyboardchile.cl/wp-content/uploads/2014/12/LaRed-Logo-300x300.jpg" group-title="06- CHILE",La Red (2)
 http://uruguayiptv.com:25461/live/6688/6688/802.ts
+#EXTINF:-1 tvg-logo="https://flyboardchile.cl/wp-content/uploads/2014/12/LaRed-Logo-300x300.jpg" group-title="06- CHILE",La Red (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/10810.ts
 
 #EXTINF:-1 tvg-logo="https://blogvecindad.com/wp-content/uploads/2015/11/Mega_Chile_Alternate_Logo.png" group-title="06- CHILE",Mega (2)
 http://uruguayiptv.com:25461/live/6688/6688/18211.ts
+#EXTINF:-1 tvg-logo="https://blogvecindad.com/wp-content/uploads/2015/11/Mega_Chile_Alternate_Logo.png" group-title="06- CHILE",Mega (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/10815.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/umdJ2mP.jpg" group-title="06- CHILE",Portalfoxmix⁻ˢᵈ⁻
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://static.13.cl/7/sites/all/themes/rec_v2/images/default_2018.jpg" group-title="06- CHILE",Rec TV ᵒᶠᶠ
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="https://static.13.cl/7/sites/all/themes/rec_v2/images/default_2018.jpg" group-title="06- CHILE",Rec TV (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/51741.ts
 
 #EXTINF:-1 tvg-logo="https://www.fundacionmiranos.org/wp-content/uploads/2019/02/avatar_66.png" group-title="06- CHILE",T13⁻ˢᵈ⁻
 http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd?GrupoTopIptv
+#EXTINF:-1 tvg-logo="https://www.fundacionmiranos.org/wp-content/uploads/2019/02/avatar_66.png" group-title="06- CHILE",T13 (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/43279.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6J8xRah.png" group-title="06- CHILE",Teletrak (2)
 http://uruguayiptv.com:25461/live/6688/6688/18237.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6J8xRah.png" group-title="06- CHILE",Teletrak (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/18068.ts
+
+#EXTINF:-1 tvg-logo="https://temucotelevision.cl/web/wp-content/uploads/2019/01/cropped-logottvok.png" group-title="06- CHILE",Temuco tv (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/9727.ts
 
 #EXTINF:-1 tvg-logo="https://bulb.cl/wp-content/uploads/2018/11/Captura-de-pantalla-2018-11-12-a-las-14.17.22.png" group-title="06- CHILE",TV+ ᵒᶠᶠ
 http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
 
 #EXTINF:-1 tvg-logo="https://grandesmarcas.cl/wp-content/uploads/2016/06/logo-TVN-1.jpg" group-title="06- CHILE",TVN (2)
 http://uruguayiptv.com:25461/live/6688/6688/18215.ts
+#EXTINF:-1 tvg-logo="https://grandesmarcas.cl/wp-content/uploads/2016/06/logo-TVN-1.jpg" group-title="06- CHILE",TVN (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/10819.ts
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/TV-Chile-en-vivo-Online.png" group-title="06- CHILE",Tv Chile (2)
 http://uruguayiptv.com:25461/live/6688/6688/18235.ts
@@ -3358,6 +3387,9 @@ http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/58044.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_boomerang-cartoon_m.png" group-title="32- INFANTIL LATINO",Boomerang (5)
 http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/51373.rtmp
 
+#EXTINF:-1 tvg-logo="https://cachipum.tv/wp-content/uploads/2020/04/logo.png" group-title="32- INFANTIL LATINO",Cachipum (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/35850.ts
+
 #EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="32- INFANTIL LATINO",Cartoon Network (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/18451.ts
 #EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="32- INFANTIL LATINO",Cartoon Network (2)
@@ -3394,6 +3426,9 @@ http://ytv.plus:25461/apps/1234/1901
 http://khujnv.nl:80/live/Player5/Mgm490279/11064.ts
 #EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/Disney_XD_-_2015.svg_.png" group-title="32- INFANTIL LATINO",Disney XD (4)
 http://khujnv.nl:80/live/Player5/Mgm490279/50052.ts
+
+#EXTINF:-1 tvg-logo="https://media.glassdoor.com/sqll/40990/jetix-squarelogo-1426742678310.png" group-title="32- INFANTIL LATINO",Jetix (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/40428.ts
 
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/797cdf31926629.Y3JvcCw2OTAsNTM5LDAsNjQ.jpg" group-title="32- INFANTIL LATINO",Locomotion (4)
 http://khujnv.nl:80/live/Player5/Mgm490279/43289.ts
