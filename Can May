@@ -4106,20 +4106,20 @@ http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #######################################
 ######################################################################################################################################
 
-#EXTINF:-1  tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/ADRENALINA_LOGO.jpg" group-title="41- DEPORTES LATINO",Adrenalina ᵒᶠᶠ
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1  tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/ADRENALINA_LOGO.jpg" group-title="41- DEPORTES LATINO",Adrenalina (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/50017.ts
 
 #EXTINF:-1  tvg-logo="http://www.megacable.com.mx/images/canales/74_aym-sports.png" group-title="41- DEPORTES LATINO",Aym Sports (3)
 http://ytv.plus:25461/apps/1234/3101
 #EXTINF:-1  tvg-logo="http://www.megacable.com.mx/images/canales/74_aym-sports.png" group-title="41- DEPORTES LATINO",Aym Sports (4)
-http://securetv.net:8080/vMqxnQ5x5k/7053514584/47088
+http://khujnv.nl:80/live/Player5/Mgm490279/11039.ts
 #EXTINF:-1  tvg-logo="http://www.megacable.com.mx/images/canales/74_aym-sports.png" group-title="41- DEPORTES LATINO",Aym Sports (5)
 http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/51455.rtmp
 
 #EXTINF:-1  tvg-logo="https://yiptv.com/live-tv/wp-content/uploads/2015/11/bein-n-blog.jpg" group-title="41- DEPORTES LATINO",Bein Ñ (3)
 http://ytv.plus:25461/apps/1234/373
 #EXTINF:-1  tvg-logo="https://yiptv.com/live-tv/wp-content/uploads/2015/11/bein-n-blog.jpg" group-title="41- DEPORTES LATINO",Bein Ñ (4)
-http://securetv.net:8080/vMqxnQ5x5k/7053514584/47089
+http://khujnv.nl:80/live/Player5/Mgm490279/42675.ts
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/bolivia-deportes.png" group-title="41- DEPORTES LATINO",Bolivia Deportes⁻ˢᵈ⁻
 http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8?GrupoTopIptv
@@ -4128,13 +4128,15 @@ http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8?GrupoTopIptv
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/430.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_cdf-premium_m.png" group-title="41- DEPORTES LATINO",Cdf Basico (2)
 http://uruguayiptv.com:25461/live/6688/6688/430.ts
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_cdf-premium_m.png" group-title="41- DEPORTES LATINO",Cdf Basico (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/10829.ts
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_cdf-premium_m.png" group-title="41- DEPORTES LATINO",Cdf Basico (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/10827.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_cdf-premium_m.png" group-title="41- DEPORTES LATINO",Cdf Premium (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/431.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_cdf-premium_m.png" group-title="41- DEPORTES LATINO",Cdf Premium (2)
 http://uruguayiptv.com:25461/live/6688/6688/431.ts
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_cdf-premium_m.png" group-title="41- DEPORTES LATINO",Cdf Premium (4)
-http://securetv.net:8080/vMqxnQ5x5k/7053514584/47090
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_cdf-premium_m.png" group-title="41- DEPORTES LATINO",Cdf Premium (5)
 http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/58038.rtmp
 
@@ -4142,14 +4144,16 @@ http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/58038.rtmp
 http://edge1.cl.grupoz.cl/cdofree/smil:cdn.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/06/cdo.png" group-title="41- DEPORTES LATINO",Cdo Premium (4)
-http://securetv.net:8080/vMqxnQ5x5k/7053514584/47090
+http://khujnv.nl:80/live/Player5/Mgm490279/10828.ts
 
 #EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/claro-sports.png" group-title="41- DEPORTES LATINO",Claro Sports (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/414.ts
 #EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/claro-sports.png" group-title="41- DEPORTES LATINO",Claro Sports (2)
 http://uruguayiptv.com:25461/live/6688/6688/414.ts
 #EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/claro-sports.png" group-title="41- DEPORTES LATINO",Claro Sports (4)
-http://securetv.net:8080/vMqxnQ5x5k/7053514584/47091
+http://khujnv.nl:80/live/Player5/Mgm490279/11032.ts
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/claro-sports.png" group-title="41- DEPORTES LATINO",Claro Sports (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/50414.ts
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/large.g4371.png.29de3a8dbbf19510c92a47fde82c490d.png" group-title="41- DEPORTES LATINO",Deportv (4)
 http://securetv.net:8080/vMqxnQ5x5k/7053514584/46722
