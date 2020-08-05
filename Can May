@@ -16,14 +16,16 @@ https://stream.vagalume.fm/hls/1470155259220668/aac.m3u8
 https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="https://futbolhoy.com.ar/wp-content/uploads/2019/03/A24.png" group-title="03- ARGENTINA",A24 ᵒᶠᶠ
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="https://futbolhoy.com.ar/wp-content/uploads/2019/03/A24.png" group-title="03- ARGENTINA",A24 (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/9764.ts
 
 #EXTINF:-1 tvg-logo="https://www.amsports.com.ar/img/logo-americasports.png" group-title="03- ARGENTINA",America Sports ᵒᶠᶠ
 http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
 
 #EXTINF:-1 tvg-logo="http://www.radionacional.gov.py/wp-content/uploads/2018/04/ar_america-2-capital_m.png" group-title="03- ARGENTINA",America TV (2)
 http://uruguayiptv.com:25461/live/6688/6688/18666.ts
+#EXTINF:-1 tvg-logo="http://www.radionacional.gov.py/wp-content/uploads/2018/04/ar_america-2-capital_m.png" group-title="03- ARGENTINA",America TV (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/41720.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_argentinisima-satelital_m.png" group-title="03- ARGENTINA",Argentinisima⁻ˢᵈ⁻
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
@@ -36,26 +38,37 @@ http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/08/13MaxTV-Logo.jpg" group-title="03- ARGENTINA",13 Max⁻ˢᵈ⁻
 http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
 
-#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/9558b-c5n-2017.png" group-title="03- ARGENTINA",C5N ᵒᶠᶠ
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="https://vivotvhd.com/img/cha/807.gif" group-title="03- ARGENTINA",BVC (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/43314.ts
 
-#EXTINF:-1 tvg-logo="https://vivotvhd.com/img/cha/4216.gif" group-title="03- ARGENTINA",Chacra TV⁻ˢᵈ⁻
-http://s8.stweb.tv:1935/chacra/live/chunks.m3u8?IMDSFULL
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/9558b-c5n-2017.png" group-title="03- ARGENTINA",C5N (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/10940.ts
 
-#EXTINF:-1 tvg-logo="https://www.cn247.tv/img/logo.png" group-title="03- ARGENTINA",CN 24/7⁻ˢᵈ⁻
-http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-Esquel.png" group-title="03- ARGENTINA",Canal 4 Esquel (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/43302.ts
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/732661005952618496/5pxo5q9h_400x400.jpg" group-title="03- ARGENTINA",Canal 4 Jujuy⁻ˢᵈ⁻
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/09/Canal-4.png" group-title="03- ARGENTINA",Canal 4 Posadas ᵒᶠᶠ
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/09/Canal-4.png" group-title="03- ARGENTINA",Canal 4 Posadas (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/43337.ts
 
 #EXTINF:-1 tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/07/Canal4-SanJuan-FDG-300x300.jpg" group-title="03- ARGENTINA",Canal 4 San Juan⁻ˢᵈ⁻
 http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/07/Canal4-SanJuan-FDG-300x300.jpg" group-title="03- ARGENTINA",Canal 4 San Juan (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/43336.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JqIPc.png" group-title="03- ARGENTINA",Canal 4 La Matanza⁻ˢᵈ⁻
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0056
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-6-Canal-Joven.png" group-title="03- ARGENTINA",Canal 6 Moreno (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/43316.ts
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-7-Salta.png" group-title="03- ARGENTINA",Canal 7 Salta (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/43297.ts
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-Siete-Jujuy.png" group-title="03- ARGENTINA",Canal 7 Jujuy (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/43300.ts
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/Canal-10-C%C3%B3rdoba-en-vivo-Online.png" group-title="03- ARGENTINA",Canal 10 Cordoba⁻ˢᵈ⁻
 http://wowzaprod169-i.akamaihd.net/hls/live/630337/59e4c1ec/playlist.m3u8?GrupoTopIptv
@@ -82,6 +95,8 @@ http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8?GrupoTopIptv
 http://200.115.193.177/live/26hd-720/.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3.png" group-title="03- ARGENTINA",Canal 26 (2)
 http://uruguayiptv.com:25461/live/6688/6688/385.ts
+#EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3.png" group-title="03- ARGENTINA",Canal 26 (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/43324.ts
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/canal-local-324x160.png" group-title="03- ARGENTINA",Canal Local Buenos Aires⁻ˢᵈ⁻
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0089?GrupoTopIptv
@@ -90,38 +105,71 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0089?GrupoTopIptv
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1017835856411971584/Q2dVZVUA_400x400.jpg" group-title="03- ARGENTINA",Canal Provincial⁻ˢᵈ⁻
 http://www.trimi.com.ar/provincial/streaming/mystreamProvincialHSMed.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1017835856411971584/Q2dVZVUA_400x400.jpg" group-title="03- ARGENTINA",Canal Provincial (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/43331.ts
 
-#EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/1605.png" group-title="03- ARGENTINA",Cine AR ᵒᶠᶠ
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="https://lonuestro.com.ar/images/canales/Canal%20Chaco%20TV%20-%20Logo.fw.png" group-title="03- ARGENTINA",Chaco TV (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/43322.ts
+
+#EXTINF:-1 tvg-logo="https://vivotvhd.com/img/cha/4216.gif" group-title="03- ARGENTINA",Chacra TV⁻ˢᵈ⁻
+http://s8.stweb.tv:1935/chacra/live/chunks.m3u8?IMDSFULL
+#EXTINF:-1 tvg-logo="https://vivotvhd.com/img/cha/4216.gif" group-title="03- ARGENTINA",Chacra TV (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/43302.ts
+
+#EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/1605.png" group-title="03- ARGENTINA",Cine AR (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/10958.ts
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/09/Cinco-TV.png" group-title="03- ARGENTINA",Cinco tv (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/43317.ts
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/969209126470455297/vLw5LpAB_400x400.jpg" group-title="03- ARGENTINA",Ciudad TV Chaco⁻ˢᵈ⁻
 http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="https://www.cn247.tv/img/logo.png" group-title="03- ARGENTINA",CN 24/7⁻ˢᵈ⁻
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_cn-23_m.png" group-title="03- ARGENTINA",CN23 (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/10955.ts
+
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/cronicatv.png" group-title="03- ARGENTINA",Cronica tv (2)
 http://uruguayiptv.com:25461/live/6688/6688/389.ts
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/cronicatv.png" group-title="03- ARGENTINA",Cronica tv (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/9779.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-garage_m.png" group-title="03- ARGENTINA",El Garage⁻ˢᵈ⁻
 http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-garage_m.png" group-title="03- ARGENTINA",El Garage (2)
 http://uruguayiptv.com:25461/live/6688/6688/408.ts
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-garage_m.png" group-title="03- ARGENTINA",El Garage (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/43340.ts
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/el-nueve-canal-9-argentina.png" group-title="03- ARGENTINA",El Nueve (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/10947.ts
 
 #EXTINF:-1 tvg-logo="http://ipuntotv.com/IMAGES/ElTreceHD2012.jpg" group-title="03- ARGENTINA",El Trece (2)
 http://uruguayiptv.com:25461/live/6688/6688/6801.ts
+#EXTINF:-1 tvg-logo="http://ipuntotv.com/IMAGES/ElTreceHD2012.jpg" group-title="03- ARGENTINA",El Trece (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/10952.ts
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Encuentro-TV.png" group-title="03- ARGENTINA",Encuentro ᵒᶠᶠ
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Encuentro-TV.png" group-title="03- ARGENTINA",Encuentro (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/10956.ts
 
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmZyZWN1ZW5jaWFtdXNpY2FsLnJhZGlvX3NjcmVlbl8wXzE1NDMzMDk2MTlfMDMy/screen-0.jpg?fakeurl=1&type=.jpg" group-title="03- ARGENTINA",Frecuencia Musical TV⁻ˢᵈ⁻
 http://streaminglivehd.com:1935/8056/8056/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://directoriolegislativo.org/wp-content/uploads/new/2017/05/ln-default-facebook.jpg" group-title="03- ARGENTINA",La Nacion ᵒᶠᶠ
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="https://directoriolegislativo.org/wp-content/uploads/new/2017/05/ln-default-facebook.jpg" group-title="03- ARGENTINA",La Nacion (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/10954.ts
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/lapacho-canal-11-en-vivo.png" group-title="03- ARGENTINA",Lapacho tv (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/43301.ts
 
 #EXTINF:-1 tvg-logo="http://www.mundou.edu.ar/img/canales/a1v2ltjc.png" group-title="03- ARGENTINA",Litus⁻ˢᵈ⁻
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8?TEAM IPTV
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/canal-9-multivision.png" group-title="03- ARGENTINA",Multivision⁻ˢᵈ⁻
 http://panel.dattalive.com:1935/8250/8250/chunklist_w1392684176.m3u8?TEAM IPTV
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/canal-9-multivision.png" group-title="03- ARGENTINA",Multivision (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/43323.ts
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/canal-9-multivision.png" group-title="03- ARGENTINA",Music Top⁻ˢᵈ⁻
 http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
@@ -131,11 +179,20 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w53831157
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/08/NETargentina.png/revision/latest?cb=20180702162652" group-title="03- ARGENTINA",Net TV⁻ˢᵈ⁻
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0044
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Paka-Paka.png" group-title="03- ARGENTINA",Paka Paka ᵒᶠᶠ
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Paka-Paka.png" group-title="03- ARGENTINA",Paka Paka (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/10960.ts
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/quatro-tv.png" group-title="03- ARGENTINA",Quatro tv (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/43311.ts
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tPlVRpfUcpg/hqdefault.jpg" group-title="03- ARGENTINA",Santa Maria TV⁻ˢᵈ⁻
 http://www.trimi.com.ar/santa_maria/streaming/mystreamSantaMariaHSMed.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/tectv.png" group-title="03- ARGENTINA",Tec tv (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/10957.ts
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/telediario-television-satelital.png" group-title="03- ARGENTINA",Telediario (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/43291.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="03- ARGENTINA",Telefe (2)
 http://uruguayiptv.com:25461/live/6688/6688/392.ts
@@ -161,9 +218,16 @@ http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 http://uruguayiptv.com:25461/live/6688/6688/397.ts
 #EXTINF:-1 tvg-logo="https://cdn.tn.com.ar/sites/default/files/styles/720x720/public/2018/08/16/tn_vivo1.png" group-title="03- ARGENTINA",TN (2)
 http://uruguayiptv.com:25461/live/6688/6688/6802.ts
+#EXTINF:-1 tvg-logo="https://cdn.tn.com.ar/sites/default/files/styles/720x720/public/2018/08/16/tn_vivo1.png" group-title="03- ARGENTINA",TN (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/9789.ts
 
 #EXTINF:-1 tvg-logo="https://www.baraderoteinforma.com.ar/wp-content/uploads/2019/12/COSAS-Copy-68.jpg" group-title="03- ARGENTINA",Tv Publica (2)
 http://uruguayiptv.com:25461/live/6688/6688/398.ts
+#EXTINF:-1 tvg-logo="https://www.baraderoteinforma.com.ar/wp-content/uploads/2019/12/COSAS-Copy-68.jpg" group-title="03- ARGENTINA",Tv Publica (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/9791.ts
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/XFN.png" group-title="03- ARGENTINA",XFN Canal 41 (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/43314.ts
 
 ######################################################################################################################################
 ####################################### ARUBA
@@ -3330,6 +3394,9 @@ http://ytv.plus:25461/apps/1234/1901
 http://khujnv.nl:80/live/Player5/Mgm490279/11064.ts
 #EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/Disney_XD_-_2015.svg_.png" group-title="32- INFANTIL LATINO",Disney XD (4)
 http://khujnv.nl:80/live/Player5/Mgm490279/50052.ts
+
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/797cdf31926629.Y3JvcCw2OTAsNTM5LDAsNjQ.jpg" group-title="32- INFANTIL LATINO",Locomotion (4)
+http://khujnv.nl:80/live/Player5/Mgm490279/43289.ts
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/natgeo-kids-logo-01.png" group-title="32- INFANTIL LATINO",Nat Geo Kids (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/709.ts
