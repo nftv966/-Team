@@ -2281,8 +2281,11 @@ http://a.srvbr.me:8880/live/395398/395398/5812.ts
 https://stream.vagalume.fm/hls/1475776167864381/aac.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Af6z5hL.png" group-title="22- VENEZUELA",Telesur ᵒᶠᶠ
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="https://lorini.net/slider-clientes/images/30.jpg" group-title="22- VENEZUELA",Meridiano Television (4)
+http://khujnv.nl:80/live/3purple4368v/xc4es7mu32sd/33449.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Af6z5hL.png" group-title="22- VENEZUELA",Telesur (4)
+http://khujnv.nl:80/live/3purple4368v/xc4es7mu32sd/33583.ts
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/venevision.png" group-title="22- VENEZUELA",Venevision ᵒᶠᶠ
 http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
