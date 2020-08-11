@@ -3781,19 +3781,6 @@ http://antena1.newradio.it/stream?1519462006844
 #######################################
 ######################################################################################################################################
 
-#EXTINF:-1 tvg-logo="https://www.dibujoswiki.com/Uploads/dibujoswiki.com/ImagenesGrandes/bob-esponja.jpg" group-title="32- KIDS 24 HORAS LATINO",Bob Esponja (4)
-http://khujnv.nl:80/live/3purple4368v/xc4es7mu32sd/39994.ts
-#EXTINF:-1 tvg-logo="https://meploteotodo.com/wp-content/uploads/2020/02/DI334_1.jpg" group-title="32- KIDS 24 HORAS LATINO",Pinky y Cerebro (4)
-http://khujnv.nl:80/live/3purple4368v/xc4es7mu32sd/40010.ts
-#EXTINF:-1 tvg-logo="https://www.tierragamer.com/wp-content/uploads/2020/04/Naruto-Bitme-Regreso-450x300.jpg" group-title="32- KIDS 24 HORAS LATINO",Naruto (4)
-http://khujnv.nl:80/live/3purple4368v/xc4es7mu32sd/40011.ts
-#EXTINF:-1 tvg-logo="https://antorchadeportiva.com/wp-content/uploads/2014/11/ch.jpg" group-title="32- KIDS 24 HORAS LATINO",Chapulin Colorado (4)
-http://khujnv.nl:80/live/3purple4368v/xc4es7mu32sd/40036.ts
-#EXTINF:-1 tvg-logo="https://www.rockandpop.cl/wp-content/uploads/2019/07/dragon-live-music-concurso-entradas-400x360.jpg" group-title="32- KIDS 24 HORAS LATINO",Dragon Ball Z (4)
-http://khujnv.nl:80/live/3purple4368v/xc4es7mu32sd/40036.ts
-#EXTINF:-1 tvg-logo="https://www.ionlitio.com/images/2009/04/saint_seiya_portada_articulo.jpg" group-title="32- KIDS 24 HORAS LATINO",Caballeros del Zodiaco (4)
-http://khujnv.nl:80/live/3purple4368v/xc4es7mu32sd/40043.ts
-
 #EXTINF:-1 tvg-logo="https://dibujosparacolorear.eu/wp-content/uploads/2017/12/Ben_10.jpg" group-title="32- KIDS 24 HORAS LATINO",Ben 10 (2)
 http://uruguayiptv.com:25461/live/6688/6688/11762.ts
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/15/ee/e2/15eee28b22047ead1fb3844994efdefe.png" group-title="32- KIDS 24 HORAS LATINO",Birdman (2)
@@ -3866,7 +3853,7 @@ http://p-fun.fun:80/live/VoDOnTvBR2030/2018vod2/37304.rtmp
 http://p-fun.fun:80/live/VoDOnTvBR2030/2018vod2/37306.rtmp
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/7d/15/5e/7d155eeb8ed06dbd66fefbedefa605de.png" group-title="32- KIDS 24 HORAS BRASIL",Aladdin
 http://p-fun.fun:80/live/VoDOnTvBR2030/2018vod2/37827.rtmp
-#EXTINF:-1 tvg-logo="https://www.carmensandiego.com/wp-content/uploads/2020/04/WF987686_CSD_2019_NTL_Updates_NetflixGraphic-1DRAFT.jpg" group-title="32- KIDS 24 HORAS BRASIL",Carmen Sandiego
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/467-4671668_caught-up-with-her-carmen-sandiego-netflix-png.png" group-title="32- KIDS 24 HORAS BRASIL",Carmen Sandiego
 http://p-fun.fun:80/live/VoDOnTvBR2030/2018vod2/37212.rtmp
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/Taz-logo-C0E60F1CA3-seeklogo.com.png" group-title="32- KIDS 24 HORAS BRASIL",Taz Mania
 http://p-fun.fun:80/live/VoDOnTvBR2030/2018vod2/37213.rtmp
