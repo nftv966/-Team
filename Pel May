@@ -15,24 +15,6 @@ http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
 
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41HjoRzfxFL._AC_.jpg" group-title="01-LATINO",Guerra Mundial Z (2013)
-http://storage.googleapis.com/omega-pivot-269518.appspot.com/cv0816711s.mp4
-
-#EXTINF:-1 tvg-logo="https://www.cartelera.com.uy/imagenes_espectaculos/moviedetail13/23161.jpg" group-title="01-LATINO",Maze Runner 3 (2018)
-http://storage.googleapis.com/omega-pivot-269518.appspot.com/cv4500922ltv4.mp4
-
-#EXTINF:-1 tvg-logo="https://onedigital.mx/ww3/wp-content/uploads/2018/03/coco.jpg" group-title="01-LATINO",Coco (2017)
-http://storage.googleapis.com/omega-pivot-269518.appspot.com/cv2380307ltv6.mp4
-
-#EXTINF:-1 tvg-logo="https://www.aytoreinosa.es/wp-content/uploads/2019/01/Spider_Man_Un_nuevo_universo-821372865-large.jpg" group-title="01-LATINO",Hombre Araña:Un nuevo universo  (2018)
-http://storage.googleapis.com/omega-pivot-269518.appspot.com/tt4633694_LAT_HD.mp4
-
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/07/30/19/02/3253561.jpg" group-title="01-LATINO",Megalodon (2018)
-http://storage.googleapis.com/omega-pivot-269518.appspot.com/tt4779682_LAT_HD.mp4
-
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/16/10/26/08/45/139966.jpg" group-title="01-LATINO",Doctor Extraño (2016)
-http://storage.googleapis.com/omega-pivot-269518.appspot.com/cv1211837lt.mp4
-
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/210/045/21004579_20130510092550029.jpg" group-title="01-LATINO",El castigador (1989)
 http://ia601503.us.archive.org/8/items/el-castigador-1989-j.-c.-l./El%20Castigador%201989%20%E2%98%86%E3%80%8AJ.C.L.%E3%80%8B%E2%98%86.mp4
 
@@ -41,12 +23,6 @@ http://ia601507.us.archive.org/29/items/hombre-en-llamas.-j.-c.-l./Hombre%20en%2
 
 #EXTINF:-1 tvg-logo="https://cartelesmix.es/images/CartelesC/chicosdelmaiz84003.jpg" group-title="01-LATINO",Los niños del maiz (1984)
 http://ia601502.us.archive.org/23/items/los-ninos-del-maiz-1984-j.-c.-l./Los%20ni%C3%B1os%20del%20ma%C3%ADz%201984%20%20%E2%98%86%E3%80%8AJ.C.L.%E3%80%8B%E2%98%86.mp4
-
-#EXTINF:-1 tvg-logo="https://cloud10.todocoleccion.online/cine-guias-peliculas/tc/2018/08/15/01/130814688.jpg" group-title="01-LATINO",Los Simpsons:La pelicula (2007)
-http://storage.googleapis.com/silver-aurora-275105.appspot.com/hash/SklrVjlsZktNd2lnM1lrMEg4T3plQT09.mp4
-
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/exterminio-2-dvd-buen-estado-original-D_NQ_NP_320625-MLA25447250566_032017-F.jpg" group-title="01-LATINO",Exterminio 2 (2007)
-http://storage.googleapis.com/silver-aurora-275105.appspot.com/hash/UmthTHd5ZEhLdUhDQzRDK1lVU3Jydz09.mp4
 
 #EXTINF:-1 tvg-logo="https://static.pelisbot.com/movie/cover/original/cc3ddf40448f78d2a6b3dd2965b43252.jpg" group-title="01-LATINO",Dragon Rojo (2002)
 http://ia601502.us.archive.org/23/items/mulan-2020-j.-c.-l./%20Mulan%202020%20%E2%98%86%E3%80%8AJ.C.L.%E3%80%8B%E2%98%86%20.mp4
@@ -59,9 +35,6 @@ http://tux-vod.dynu.com/peliculas/720/wreck-it%20ralph.mkv
 
 #EXTINF:-1 tvg-logo="https://illescas.es/wp-content/uploads/2019/01/ralp.jpg" group-title="01-LATINO",Ralph rompe internet (2018)
 http://tux-vod.dynu.com/peliculas/720/wifi%20ralph.mkv
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81SHwpnBCBL._SY445_.jpg" group-title="01-LATINO",Godzilla 2: el rey de los monstruos (2019)
-http://storage.googleapis.com/omega-pivot-269518.appspot.com/tt3741700_LAT_HD.mp4
 
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/c_215_290/pictures/17/01/18/10/14/084440.jpg" group-title="01-LATINO",Clinical (2017)
 http://onedrive.live.com/download.aspx?cid=BF7055D49F20CAF9&resid=BF7055D49F20CAF9%21245&authkey=AHF1yqo750FdJXc
