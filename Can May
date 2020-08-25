@@ -2078,8 +2078,33 @@ https://stream.vagalume.fm/hls/1497039009964147/aac.m3u8
 #######################################################################################################################################################################################
 ######################################################################################################################################################################################
 
-#EXTINF:-1 tvg-logo="http://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="24- CINE BRASIL",Cine Sky ᵒᶠᶠ
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+#EXTINF:-1 tvg-logo="http://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="24- CINE BRASIL",Cine Sky HD Action
+http://stream-sky.cf:80/live/bianca/123/1120765.ts
+#EXTINF:-1 tvg-logo="https://loshijosdeaztlan.files.wordpress.com/2019/09/dc_logo_blue_final_573b356bd056a9.41641801.0.0.jpg" group-title="24- CINE BRASIL",DC Universe (Super-Herois)
+http://stream-sky.cf:80/live/bianca/123/1120766.ts
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/121-1217477_licensed-bleeding-scream-mask-bleeding-scream.png" group-title="24- CINE BRASIL",Screem (Terror)
+http://stream-sky.cf:80/live/bianca/123/1120767.ts
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_cinebrasil-tv_m.png" group-title="24- CINE BRASIL",CineBrasil
+http://stream-sky.cf:80/live/bianca/123/1120768.ts
+#EXTINF:-1 tvg-logo="http://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="24- CINE BRASIL",Cine Sky 05 (Terror)
+http://stream-sky.cf:80/live/bianca/123/1120769.ts
+#EXTINF:-1 tvg-logo="http://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="24- CINE BRASIL",Cine Sky 06 (Infantil)
+http://stream-sky.cf:80/live/bianca/123/1120770.ts
+#EXTINF:-1 tvg-logo="http://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="24- CINE BRASIL",Cine Sky 07
+http://stream-sky.cf:80/live/bianca/123/1120771.ts
+#EXTINF:-1 tvg-logo="http://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="24- CINE BRASIL",Cine Sky 09
+http://stream-sky.cf:80/live/bianca/123/1120773.ts
+#EXTINF:-1 tvg-logo="http://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="24- CINE BRASIL",Cine Sky 10
+http://stream-sky.cf:80/live/bianca/123/1120774.ts
+#EXTINF:-1 tvg-logo="http://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="24- CINE BRASIL",Cine Sky 11
+http://stream-sky.cf:80/live/bianca/123/1120775.ts
+#EXTINF:-1 tvg-logo="http://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="24- CINE BRASIL",Cine Sky 12
+http://stream-sky.cf:80/live/bianca/123/1120776.ts
+#EXTINF:-1 tvg-logo="http://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="24- CINE BRASIL",Cine Sky 13
+http://stream-sky.cf:80/live/bianca/123/1120777.ts
+#EXTINF:-1 tvg-logo="http://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="24- CINE BRASIL",Cine Sky 14
+http://stream-sky.cf:80/live/bianca/123/1120778.ts
+
 
 #######################################################################################################################################################################################
 #######################################
