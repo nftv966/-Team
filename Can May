@@ -4205,7 +4205,11 @@ http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1272.rtmp
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/312LhQsVqtL.png" group-title="38- DOCUMENTALES LATINOS",A&E (4)
 http://randomserver.site:2086/wickeduk/etqyhww45e/88669
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/312LhQsVqtL.png" group-title="38- DOCUMENTALES LATINOS",A&E (5)
-http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/51418.rtmp
+http://181.114.232.66:8000/play/a01j
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/312LhQsVqtL.png" group-title="38- DOCUMENTALES LATINOS",A&E (5)
+http://131.221.166.20:8001/play/a019
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/312LhQsVqtL.png" group-title="38- DOCUMENTALES LATINOS",A&E (5)
+http://45.239.123.14:8081/play/a01m
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/312LhQsVqtL.png" group-title="38- DOCUMENTALES LATINOS",A&E (6)
 http://tv.nousiptv.com:25462/live/luna/1234/3246.rtmp
 
@@ -4218,9 +4222,11 @@ http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/827.rtmp
 #EXTINF:-1 tvg-logo="https://www.effectv.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="38- DOCUMENTALES LATINOS",Animal Planet (3)
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1513.rtmp
 #EXTINF:-1 tvg-logo="https://www.effectv.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="38- DOCUMENTALES LATINOS",Animal Planet (5)
-http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/58054.rtmp
+http://181.114.232.66:8000/play/a01p
 #EXTINF:-1 tvg-logo="https://www.effectv.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="38- DOCUMENTALES LATINOS",Animal Planet (5)
-http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/51434.rtmp
+http://131.221.166.20:8001/play/a012
+#EXTINF:-1 tvg-logo="https://www.effectv.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="38- DOCUMENTALES LATINOS",Animal Planet (5)
+http://45.239.123.14:8081/play/a01d
 #EXTINF:-1 tvg-logo="https://www.effectv.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="38- DOCUMENTALES LATINOS",Animal Planet (6)
 http://tv.nousiptv.com:25462/live/luna/1234/3247.rtmp
 
@@ -4235,7 +4241,11 @@ http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1478.rtmp
 #EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="38- DOCUMENTALES LATINOS",Discovery Channel (4)
 http://randomserver.site:2086/wickeduk/etqyhww45e/88712
 #EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="38- DOCUMENTALES LATINOS",Discovery Channel (5)
-http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/51428.rtmp
+http://181.114.232.66:8000/play/a01n
+#EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="38- DOCUMENTALES LATINOS",Discovery Channel (5)
+http://131.221.166.20:8001/play/a011
+#EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="38- DOCUMENTALES LATINOS",Discovery Channel (5)
+http://45.239.123.14:8081/play/a01c
 #EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="38- DOCUMENTALES LATINOS",Discovery Channel (6)
 http://tv.nousiptv.com:25462/live/luna/1234/3251.rtmp
 
@@ -4243,10 +4253,6 @@ http://tv.nousiptv.com:25462/live/luna/1234/3251.rtmp
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/312.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-civilization_m.png" group-title="38- DOCUMENTALES LATINOS",Discovery Civilization (2)
 http://uruguayiptv.com:25461/live/6688/6688/312.ts
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-civilization_m.png" group-title="38- DOCUMENTALES LATINOS",Discovery Civilization (5)
-http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/58028.rtmp
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-civilization_m.png" group-title="38- DOCUMENTALES LATINOS",Discovery Civilization (5)
-http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/51427.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-civilization_m.png" group-title="38- DOCUMENTALES LATINOS",Discovery Civilization (6)
 http://tv.nousiptv.com:25462/live/luna/1234/6020.rtmp
 
@@ -4263,6 +4269,12 @@ http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1512.rtmp
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1673.rtmp
 #EXTINF:-1 tvg-logo="https://revistamomentos.co/wp-content/uploads/2017/12/ID-1900x1833_c.jpg" group-title="38- DOCUMENTALES LATINOS",Discovery Investigation (4)
 http://randomserver.site:2086/wickeduk/etqyhww45e/88776
+#EXTINF:-1 tvg-logo="https://revistamomentos.co/wp-content/uploads/2017/12/ID-1900x1833_c.jpg" group-title="38- DOCUMENTALES LATINOS",Discovery Investigation (5)
+http://181.114.232.66:8000/play/a00o
+#EXTINF:-1 tvg-logo="https://revistamomentos.co/wp-content/uploads/2017/12/ID-1900x1833_c.jpg" group-title="38- DOCUMENTALES LATINOS",Discovery Investigation (5)
+http://131.221.166.20:8001/play/a00d
+#EXTINF:-1 tvg-logo="https://revistamomentos.co/wp-content/uploads/2017/12/ID-1900x1833_c.jpg" group-title="38- DOCUMENTALES LATINOS",Discovery Investigation (5)
+http://45.239.123.14:8081/play/a02s
 #EXTINF:-1 tvg-logo="https://revistamomentos.co/wp-content/uploads/2017/12/ID-1900x1833_c.jpg" group-title="38- DOCUMENTALES LATINOS",Discovery Investigation (6)
 http://tv.nousiptv.com:25462/live/luna/1234/4123.rtmp
 
@@ -4276,8 +4288,6 @@ http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/853.rtmp
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1514.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b0d27efc-174d-41f6-851b-e125fba0dce7_m.jpg" group-title="38- DOCUMENTALES LATINOS",Discovery H&H (4)
 http://randomserver.site:2086/wickeduk/etqyhww45e/88714
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b0d27efc-174d-41f6-851b-e125fba0dce7_m.jpg" group-title="38- DOCUMENTALES LATINOS",Discovery H&H (5)
-http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/58030.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b0d27efc-174d-41f6-851b-e125fba0dce7_m.jpg" group-title="38- DOCUMENTALES LATINOS",Discovery H&H (6)
 http://tv.nousiptv.com:25462/live/luna/1234/3083.rtmp
 
@@ -4285,8 +4295,6 @@ http://tv.nousiptv.com:25462/live/luna/1234/3083.rtmp
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/864.rtmp
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="38- DOCUMENTALES LATINOS",Discovery Science (4)
 http://randomserver.site:2086/wickeduk/etqyhww45e/88716
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="38- DOCUMENTALES LATINOS",Discovery Science (5)
-http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/58025.rtmp
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="38- DOCUMENTALES LATINOS",Discovery Science (6)
 http://tv.nousiptv.com:25462/live/luna/1234/3082.rtmp
 
@@ -4302,7 +4310,11 @@ http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1526.rtmp
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Discovery Turbo (4)
 http://randomserver.site:2086/wickeduk/etqyhww45e/88718
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Discovery Turbo (5)
-http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/58022.rtmp
+http://181.114.232.66:8000/play/a01b
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Discovery Turbo (5)
+http://131.221.166.20:8001/play/a00a
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Discovery Turbo (5)
+http://45.239.123.14:8081/play/a04x
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png" group-title="38- DOCUMENTALES LATINOS",Discovery World (3)
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/822.rtmp
@@ -4316,7 +4328,11 @@ http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1241.rtmp
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="38- DOCUMENTALES LATINOS",History (4)
 http://randomserver.site:2086/wickeduk/etqyhww45e/88772
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="38- DOCUMENTALES LATINOS",History (5)
-http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/57986.rtmp
+http://181.114.232.66:8000/play/a01l
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="38- DOCUMENTALES LATINOS",History (5)
+http://131.221.166.20:8001/play/a00m
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="38- DOCUMENTALES LATINOS",History (5)
+http://45.239.123.14:8081/play/a028
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="38- DOCUMENTALES LATINOS",History (6)
 http://tv.nousiptv.com:25462/live/luna/1234/3234.rtmp
 
@@ -4325,7 +4341,7 @@ http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1080.rtmp
 #EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="38- DOCUMENTALES LATINOS",History 2 (4)
 http://randomserver.site:2086/wickeduk/etqyhww45e/88765
 #EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="38- DOCUMENTALES LATINOS",History 2 (5)
-http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/57991.rtmp
+http://181.114.232.66:8000/play/a01m
 #EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="38- DOCUMENTALES LATINOS",History 2 (6)
 http://tv.nousiptv.com:25462/live/luna/1234/4005.rtmp
 
@@ -4339,7 +4355,11 @@ http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1523.rtmp
 #EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo (4)
 http://randomserver.site:2086/wickeduk/etqyhww45e/88791
 #EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo (5)
-http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/57975.rtmp
+http://181.114.232.66:8000/play/a011
+#EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo (5)
+http://131.221.166.20:8001/play/a00l
+#EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo (5)
+http://45.239.123.14:8081/play/a027
 
 #EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/150-1502580_nat-geo-mundo-lyngsat-nat-geo-mundo-hd.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo Mundo (6)
 http://tv.nousiptv.com:25462/live/luna/1234/3474.rtmp
@@ -4347,7 +4367,7 @@ http://tv.nousiptv.com:25462/live/luna/1234/3474.rtmp
 #EXTINF:-1 tvg-logo="http://www.lettreaudiovisuel.com/wp-content/uploads/2014/12/Nat-Geo-Wild.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo Wild (3)
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1522.rtmp
 #EXTINF:-1 tvg-logo="http://www.lettreaudiovisuel.com/wp-content/uploads/2014/12/Nat-Geo-Wild.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo Wild (5)
-http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/57976.rtmp
+http://181.114.232.66:8000/play/a00a
 #EXTINF:-1 tvg-logo="http://www.lettreaudiovisuel.com/wp-content/uploads/2014/12/Nat-Geo-Wild.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo Wild (6)
 http://tv.nousiptv.com:25462/live/luna/1234/3270.rtmp
 
@@ -4358,7 +4378,7 @@ http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1524.rtmp
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tlc-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Tlc (4)
 http://randomserver.site:2086/wickeduk/etqyhww45e/88829
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tlc-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Tlc (5)
-http://c2.dcba.club:8880/live/XXXcsGdLdA/unjB62F6Ku/58023.rtmp
+http://181.114.232.66:8000/play/a01o
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tlc-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Tlc (6)
 http://tv.nousiptv.com:25462/live/luna/1234/3256.rtmp
 
