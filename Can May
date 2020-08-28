@@ -2202,6 +2202,8 @@ http://uruguayiptv.com:25461/live/6688/6688/575.ts
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1394.rtmp
 #EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="28- PREMIUM LATINO",Comedy Central (6)
 http://tv.nousiptv.com:25462/live/luna/1234/3241.rtmp
+#EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="28- PREMIUM LATINO",Comedy Central (UDP)
+http://181.129.182.52:8184/udp/235.235.11.84:8184
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_de-pelicula_m.png" group-title="28- PREMIUM LATINO",De Película (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/576.ts
@@ -2365,6 +2367,8 @@ http://131.221.166.20:8001/play/a01o
 http://45.239.123.14:8081/play/a00c
 #EXTINF:-1 tvg-logo="http://cdd657a867bca3d5084e-b68367b7dbe633942cc09bdd6fb9eaea.r58.cf2.rackcdn.com/fxmoviechannel.png" group-title="28- PREMIUM LATINO",Fxm (6)
 http://tv.nousiptv.com:25462/live/luna/1234/4009.rtmp
+#EXTINF:-1 tvg-logo="http://cdd657a867bca3d5084e-b68367b7dbe633942cc09bdd6fb9eaea.r58.cf2.rackcdn.com/fxmoviechannel.png" group-title="28- PREMIUM LATINO",Fxm (UDP)
+http://181.129.182.52:8158/udp/235.235.8.58:8158
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-JnaRqfsfRf0/VVJ222hRX7I/AAAAAAAAAbw/svcXPJkGr5E/s1600/golden.png" group-title="28- PREMIUM LATINO",Golden (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/664.ts
@@ -2491,8 +2495,8 @@ http://randomserver.site:2086/wickeduk/etqyhww45e/88778
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/movieplex.png" group-title="28- PREMIUM LATINO",Movieplex (4)
 http://randomserver.site:2086/wickeduk/etqyhww45e/88788
 
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/multipremier-logo-01.png" group-title="28- PREMIUM LATINO",Multipremier
-
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/multipremier-logo-01.png" group-title="28- PREMIUM LATINO",Multipremier (UDP)
+http://181.129.182.52:8116/udp/235.235.2.16:8116
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_paramount-channel_m.png" group-title="28- PREMIUM LATINO",Paramount (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/653.ts
@@ -2502,6 +2506,8 @@ http://uruguayiptv.com:25461/live/6688/6688/653.ts
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1683.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_paramount-channel_m.png" group-title="28- PREMIUM LATINO",Paramount (6)
 http://tv.nousiptv.com:25462/live/luna/1234/4065.rtmp
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_paramount-channel_m.png" group-title="28- PREMIUM LATINO",Paramount (UDP)
+http://181.129.182.52:8188/udp/235.235.11.88:8188
 
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="28- PREMIUM LATINO",Sony (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/18083.ts
@@ -2534,6 +2540,8 @@ http://131.221.166.20:8001/play/a006
 http://45.239.123.14:8081/play/a04n
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="28- PREMIUM LATINO",Space (6)
 http://tv.nousiptv.com:25462/live/luna/1234/3232.rtmp
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="28- PREMIUM LATINO",Space (UDP)
+http://181.129.182.52:8137/udp/235.235.5.37:8137
 
 #EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/STARZ.png" group-title="28- PREMIUM LATINO",Starz ᵃˡᵗ
 http://pcjatv.com:8080/tyrone/tyrone/28915
@@ -2584,6 +2592,8 @@ http://uruguayiptv.com:25461/live/6688/6688/583.ts
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1682.rtmp
 #EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="28- PREMIUM LATINO",Syfy (6)
 http://tv.nousiptv.com:25462/live/luna/1234/3958.rtmp
+#EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="28- PREMIUM LATINO",Syfy (UDP)
+http://181.129.182.52:8162/udp/235.235.8.62:8162
 
 #EXTINF:-1 tvg-logo="http://www.graphis.com/media/uploads/cfe/entry/0c396b4d-8379-4797-ab9b-0c9cc41b19d4/tbs_logo.png" group-title="28- PREMIUM LATINO",Tbs (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/584.ts
@@ -2599,6 +2609,8 @@ http://131.221.166.20:8001/play/a00e
 http://45.239.123.14:8081/play/a02v
 #EXTINF:-1 tvg-logo="http://www.graphis.com/media/uploads/cfe/entry/0c396b4d-8379-4797-ab9b-0c9cc41b19d4/tbs_logo.png" group-title="28- PREMIUM LATINO",Tbs (6)
 http://tv.nousiptv.com:25462/live/luna/1234/4011.rtmp
+#EXTINF:-1 tvg-logo="http://www.graphis.com/media/uploads/cfe/entry/0c396b4d-8379-4797-ab9b-0c9cc41b19d4/tbs_logo.png" group-title="28- PREMIUM LATINO",Tbs (UDP)
+http://181.129.182.52:8186/udp/235.235.11.86:8186
 
 #EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="28- PREMIUM LATINO",Tcm (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/597.ts
@@ -2610,6 +2622,8 @@ http://181.114.232.66:8000/play/a00c
 http://131.221.166.20:8001/play/a00v
 #EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="28- PREMIUM LATINO",Tcm (5)
 http://45.239.123.14:8081/play/a02h
+#EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="28- PREMIUM LATINO",Tcm (UDP)
+http://181.129.182.52:8123/udp/235.235.3.23:8123
 
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="28- PREMIUM LATINO",Tnt (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/651.ts
@@ -2627,6 +2641,8 @@ http://131.221.166.20:8001/play/a00y
 http://45.239.123.14:8081/play/a02k
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="28- PREMIUM LATINO",Tnt (6)
 http://tv.nousiptv.com:25462/live/luna/1234/4010.rtmp
+#EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="28- PREMIUM LATINO",Tnt (UDP)
+http://181.129.182.52:8120/udp/235.235.3.20:8120
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="28- PREMIUM LATINO",Tnt Series (3)
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1403.rtmp
@@ -2634,6 +2650,8 @@ http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1403.rtmp
 http://181.114.232.66:8000/play/a00x
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="28- PREMIUM LATINO",Tnt Series (6)
 http://tv.nousiptv.com:25462/live/luna/1234/3218.rtmp
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="28- PREMIUM LATINO",Tnt Series (UDP)
+http://181.129.182.52:8121/udp/235.235.3.21:8121
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_universal-channel_m.png" group-title="28- PREMIUM LATINO",Universal Channel (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/587.ts
@@ -2651,6 +2669,8 @@ http://131.221.166.20:8001/play/a00o
 http://45.239.123.14:8081/play/a02a
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_universal-channel_m.png" group-title="28- PREMIUM LATINO",Universal Channel (6)
 http://tv.nousiptv.com:25462/live/luna/1234/4054.rtmp
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_universal-channel_m.png" group-title="28- PREMIUM LATINO",Universal Channel (UDP)
+http://181.129.182.52:8161/udp/235.235.8.61:8161
 
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="28- PREMIUM LATINO",Warner Channel (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/586.ts
@@ -2666,6 +2686,8 @@ http://131.221.166.20:8001/play/a013
 http://45.239.123.14:8081/play/a01e
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="28- PREMIUM LATINO",Warner Channel (6)
 http://tv.nousiptv.com:25462/live/luna/1234/3228.rtmp
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="28- PREMIUM LATINO",Warner Channel (UDP)
+http://181.129.182.52:8157/udp/235.235.8.57:8157
 
 #######################################################################################################################################################################################
 #######################################
@@ -3217,6 +3239,8 @@ http://131.221.166.20:8001/play/a00r
 http://45.239.123.14:8081/play/a02d
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/112-1126076_old-music-mtv-png-logo-mtv-logo-transparent.png" group-title="30- VARIEDADES LATINO",Mtv (6)
 http://tv.nousiptv.com:25462/live/luna/1234/3192.rtmp
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/112-1126076_old-music-mtv-png-logo-mtv-logo-transparent.png" group-title="30- VARIEDADES LATINO",Mtv (UDP)
+http://181.129.182.52:8183/udp/235.235.11.83:8183
 
 #EXTINF:-1 tvg-logo="https://www.itizaps.net/zapper/logo/b/mtv-hits-2014.png" group-title="30- VARIEDADES LATINO",Mtv Hits (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/1671.ts
@@ -3253,6 +3277,8 @@ http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1743.rtmp
 http://randomserver.site:2086/wickeduk/etqyhww45e/88836
 #EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2012/04/trutv.png" group-title="30- VARIEDADES LATINO",Trutv (6)
 http://tv.nousiptv.com:25462/live/luna/1234/3231.rtmp
+#EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2012/04/trutv.png" group-title="30- VARIEDADES LATINO",Trutv (UDP)
+http://181.129.182.52:8163/udp/235.235.8.63:8163
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/wapa-324x160.png" group-title="30- VARIEDADES LATINO",Wapa (3)
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1313.rtmp
@@ -3690,6 +3716,8 @@ http://uruguayiptv.com:25461/live/6688/6688/18450.ts
 http://randomserver.site:2086/wickeduk/etqyhww45e/88682
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_boomerang-cartoon_m.png" group-title="32- INFANTIL LATINO",Boomerang (6)
 http://tv.nousiptv.com:25462/live/luna/1234/3085.rtmp
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_boomerang-cartoon_m.png" group-title="32- INFANTIL LATINO",Boomerang (UDP)
+http://181.129.182.52:8144/udp/235.235.6.44:8144
 
 #EXTINF:-1 tvg-logo="https://cachipum.tv/wp-content/uploads/2020/04/logo.png" group-title="32- INFANTIL LATINO",Cachipum
 
@@ -3710,6 +3738,8 @@ http://131.221.166.20:8001/play/a00x
 http://45.239.123.14:8081/play/a02j
 #EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="32- INFANTIL LATINO",Cartoon Network (6)
 http://tv.nousiptv.com:25462/live/luna/1234/3249.rtmp
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="32- INFANTIL LATINO",Cartoon Network (UDP)
+http://181.129.182.52:8142/udp/235.235.6.42:8142
 
 #EXTINF:-1 tvg-logo="https://uploads.tapatalk-cdn.com/20180216/e15145d23f1a35eda5537e61932ea069.jpg" group-title="32- INFANTIL LATINO",Discovery Kids (3)
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/879.rtmp
@@ -3721,6 +3751,8 @@ http://131.221.166.20:8001/play/a01h
 http://45.239.123.14:8081/play/a005
 #EXTINF:-1 tvg-logo="https://uploads.tapatalk-cdn.com/20180216/e15145d23f1a35eda5537e61932ea069.jpg" group-title="32- INFANTIL LATINO",Discovery Kids (6)
 http://tv.nousiptv.com:25462/live/luna/1234/3254.rtmp
+#EXTINF:-1 tvg-logo="https://uploads.tapatalk-cdn.com/20180216/e15145d23f1a35eda5537e61932ea069.jpg" group-title="32- INFANTIL LATINO",Discovery Kids (UDP)
+http://181.129.182.52:8102/udp/235.235.1.2:8102
 
 #EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="32- INFANTIL LATINO",Disney Channel (3)
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/874.rtmp
@@ -3734,6 +3766,8 @@ http://131.221.166.20:8001/play/a010
 http://45.239.123.14:8081/play/a01b
 #EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="32- INFANTIL LATINO",Disney Channel (6)
 http://tv.nousiptv.com:25462/live/luna/1234/4004.rtmp
+#EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="32- INFANTIL LATINO",Disney Channel (UDP)
+http://181.129.182.52:8139/udp/235.235.5.39:8139
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="32- INFANTIL LATINO",Disney Junior (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/715.ts
@@ -3758,6 +3792,8 @@ http://131.221.166.20:8001/play/a00k
 http://45.239.123.14:8081/play/a026
 #EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/Disney_XD_-_2015.svg_.png" group-title="32- INFANTIL LATINO",Disney XD (6)
 http://tv.nousiptv.com:25462/live/luna/1234/3221.rtmp
+#EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/Disney_XD_-_2015.svg_.png" group-title="32- INFANTIL LATINO",Disney XD (UDP)
+http://181.129.182.52:8140/udp/235.235.5.40:8140
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/natgeo-kids-logo-01.png" group-title="32- INFANTIL LATINO",Nat Geo Kids (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/709.ts
@@ -3786,6 +3822,8 @@ http://131.221.166.20:8001/play/a00j
 http://45.239.123.14:8081/play/a025
 #EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="32- INFANTIL LATINO",Nick (6)
 http://tv.nousiptv.com:25462/live/luna/1234/3071.rtmp
+#EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="32- INFANTIL LATINO",Nick (UDP)
+http://181.129.182.52:8103/udp/235.235.1.3:8103
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_nickelodeon-hd_m.png" group-title="32- INFANTIL LATINO",Nick 2 (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/711.ts
@@ -3828,6 +3866,8 @@ http://uruguayiptv.com:25461/live/6688/6688/706.ts
 http://randomserver.site:2086/wickeduk/etqyhww45e/88834
 #EXTINF:-1 tvg-logo="https://t3.kn3.net/taringa/A/7/E/6/A/C/RevolucionCN/83A.png" group-title="32- INFANTIL LATINO",Tooncast (6)
 http://tv.nousiptv.com:25462/live/luna/1234/3242.rtmp
+#EXTINF:-1 tvg-logo="https://t3.kn3.net/taringa/A/7/E/6/A/C/RevolucionCN/83A.png" group-title="32- INFANTIL LATINO",Tooncast (UDP)
+http://181.129.182.52:8143/udp/235.235.6.43:8143
 
 ######################################################################################################################################
 #######################################
@@ -4118,6 +4158,8 @@ http://131.221.166.20:8001/play/a01i
 http://45.239.123.14:8081/play/a006
 #EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/cnn-alla.jpg" group-title="36- NOTICIAS LATINO",CÑN (6)
 http://tv.nousiptv.com:25462/live/luna/1234/4014.rtmp
+#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/cnn-alla.jpg" group-title="36- NOTICIAS LATINO",CÑN (UDP)
+http://181.129.182.52:8171/udp/235.235.9.71:8171
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/875649264826724352/7ZsxO5yi.jpg" group-title="36- NOTICIAS LATINO",France 24 en Español⁻ˢᵈ⁻
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?GrupoTopIptv
@@ -4229,6 +4271,8 @@ http://131.221.166.20:8001/play/a012
 http://45.239.123.14:8081/play/a01d
 #EXTINF:-1 tvg-logo="https://www.effectv.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="38- DOCUMENTALES LATINOS",Animal Planet (6)
 http://tv.nousiptv.com:25462/live/luna/1234/3247.rtmp
+#EXTINF:-1 tvg-logo="https://www.effectv.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="38- DOCUMENTALES LATINOS",Animal Planet (UDP)
+http://181.129.182.52:8112/udp/235.235.2.12:8112
 
 #EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="38- DOCUMENTALES LATINOS",Discovery Channel (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/1246.ts
@@ -4248,6 +4292,8 @@ http://131.221.166.20:8001/play/a011
 http://45.239.123.14:8081/play/a01c
 #EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="38- DOCUMENTALES LATINOS",Discovery Channel (6)
 http://tv.nousiptv.com:25462/live/luna/1234/3251.rtmp
+#EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="38- DOCUMENTALES LATINOS",Discovery Channel (UDP)
+http://181.129.182.52:8108/udp/235.235.1.8:8108
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-civilization_m.png" group-title="38- DOCUMENTALES LATINOS",Discovery Civilization (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/312.ts
@@ -4277,6 +4323,8 @@ http://131.221.166.20:8001/play/a00d
 http://45.239.123.14:8081/play/a02s
 #EXTINF:-1 tvg-logo="https://revistamomentos.co/wp-content/uploads/2017/12/ID-1900x1833_c.jpg" group-title="38- DOCUMENTALES LATINOS",Discovery Investigation (6)
 http://tv.nousiptv.com:25462/live/luna/1234/4123.rtmp
+#EXTINF:-1 tvg-logo="https://revistamomentos.co/wp-content/uploads/2017/12/ID-1900x1833_c.jpg" group-title="38- DOCUMENTALES LATINOS",Discovery Investigation (UDP)
+http://181.129.182.52:8168/udp/235.235.9.68:8168
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b0d27efc-174d-41f6-851b-e125fba0dce7_m.jpg" group-title="38- DOCUMENTALES LATINOS",Discovery H&H (1)
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/18320.ts
@@ -4290,6 +4338,8 @@ http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1514.rtmp
 http://randomserver.site:2086/wickeduk/etqyhww45e/88714
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b0d27efc-174d-41f6-851b-e125fba0dce7_m.jpg" group-title="38- DOCUMENTALES LATINOS",Discovery H&H (6)
 http://tv.nousiptv.com:25462/live/luna/1234/3083.rtmp
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b0d27efc-174d-41f6-851b-e125fba0dce7_m.jpg" group-title="38- DOCUMENTALES LATINOS",Discovery H&H (UDP)
+http://181.129.182.52:8150/udp/235.235.7.50:8150
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="38- DOCUMENTALES LATINOS",Discovery Science (3)
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/864.rtmp
@@ -4297,6 +4347,8 @@ http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/864.rtmp
 http://randomserver.site:2086/wickeduk/etqyhww45e/88716
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="38- DOCUMENTALES LATINOS",Discovery Science (6)
 http://tv.nousiptv.com:25462/live/luna/1234/3082.rtmp
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="38- DOCUMENTALES LATINOS",Discovery Science (UDP)
+http://181.129.182.52:8109/udp/235.235.2.9:8109
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-hd-theater_m.png" group-title="38- DOCUMENTALES LATINOS",Discovery Theater (3)
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/877.rtmp
@@ -4315,6 +4367,8 @@ http://181.114.232.66:8000/play/a01b
 http://131.221.166.20:8001/play/a00a
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Discovery Turbo (5)
 http://45.239.123.14:8081/play/a04x
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Discovery Turbo (UDP)
+http://181.129.182.52:8148/udp/235.235.6.48:8148
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png" group-title="38- DOCUMENTALES LATINOS",Discovery World (3)
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/822.rtmp
@@ -4349,6 +4403,8 @@ http://tv.nousiptv.com:25462/live/luna/1234/4005.rtmp
 http://randomserver.site:2086/wickeduk/etqyhww45e/88713
 #EXTINF:-1 tvg-logo="https://ebosscanada.com/wp-content/uploads/2017/04/HGTV_01.png" group-title="38- DOCUMENTALES LATINOS",HGTV (6)
 http://tv.nousiptv.com:25462/live/luna/1234/3252.rtmp
+#EXTINF:-1 tvg-logo="https://ebosscanada.com/wp-content/uploads/2017/04/HGTV_01.png" group-title="38- DOCUMENTALES LATINOS",HGTV (UDP)
+http://181.129.182.52:8126/udp/235.235.4.26:8126
 
 #EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo (3)
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1523.rtmp
@@ -4381,6 +4437,8 @@ http://randomserver.site:2086/wickeduk/etqyhww45e/88829
 http://181.114.232.66:8000/play/a01o
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tlc-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Tlc (6)
 http://tv.nousiptv.com:25462/live/luna/1234/3256.rtmp
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tlc-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Tlc (UDP)
+http://181.129.182.52:8169/udp/235.235.9.69:8169
 
 ######################################################################################################################################
 #######################################
