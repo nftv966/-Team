@@ -706,7 +706,7 @@ http://ic7.101.ru:8000/a15
 http://randomserver.site:2086/wickeduk/etqyhww45e/88775
 
 #EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/A3CIN.PNG" group-title="11- ESPAÑA",A3Cine ᵒᶠᶠ
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+
 
 #EXTINF:-1 tvg-logo="http://diretele.com/wp-content/uploads/2018/09/alcarria-tv-en-directo.png" group-title="11- ESPAÑA",Alcarria TV⁻ˢᵈ⁻
 http://217.182.77.27/live/alcarriatv-livestream.m3u8?GrupoTopIptv
@@ -722,7 +722,7 @@ http://randomserver.site:2086/wickeduk/etqyhww45e/88673
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/aragon-tv-logo.png" group-title="11- ESPAÑA",Aragon tv (5)
 http://185.140.187.35:8000/play/a04w
 
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="11- ESPAÑA",Axn
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="11- ESPAÑA",Axn ᵒᶠᶠ
 
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/AXWHD.png" group-title="11- ESPAÑA",Axn White (5)
@@ -833,8 +833,6 @@ http://185.140.187.35:8000/play/a011
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="11- ESPAÑA",Disney Junior (5)
 http://185.140.187.35:8000/play/a04p
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="11- ESPAÑA",Disney Junior ᵒᶠᶠ
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
 
 #EXTINF:-1 tvg-logo="https://i.blogs.es/e53445/disney-plus-logo/original.jpeg" group-title="11- ESPAÑA",Disney + ᵃˡᵗ
 http://randomserver.site:2086/wickeduk/etqyhww45e/88722
@@ -892,8 +890,6 @@ http://185.140.187.35:8000/play/a04x
 
 #EXTINF:-1 tvg-logo="https://cdn.domestika.org/c_fill,dpr_1.0,f_auto,h_1200,q_auto,w_1200/v1505164439/project-covers/000/353/863/353863-original.jpg?1505164439" group-title="11- ESPAÑA",LaLiga TV (5)
 http://185.140.187.35:8000/play/a03i
-#EXTINF:-1 tvg-logo="https://cdn.domestika.org/c_fill,dpr_1.0,f_auto,h_1200,q_auto,w_1200/v1505164439/project-covers/000/353/863/353863-original.jpg?1505164439" group-title="11- ESPAÑA",LaLiga TV⁻ˢᵈ⁻
-http://stream.elitegol.me/hls/vip1.m3u8?TEAM IPTV
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/01/Lancelot-tv.png" group-title="11- ESPAÑA",Lancelot Tv ᵒᶠᶠ
 
@@ -1019,7 +1015,7 @@ http://randomserver.site:2086/wickeduk/etqyhww45e/88819
 http://185.140.187.35:8000/play/a03o
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/02/canal-7-televalencia.png" group-title="11- ESPAÑA",TeleValencia 7 ᵒᶠᶠ
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4
+
 
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="11- ESPAÑA",TNT (5)
 http://185.140.187.35:8000/play/a00z
@@ -1027,8 +1023,8 @@ http://185.140.187.35:8000/play/a00z
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/o/r/xtorostv.jpg.pagespeed.ic.My5CoATug6.jpg" group-title="11- ESPAÑA",Toros (5)
 http://185.140.187.35:8000/play/a00u
 
-#EXTINF:-1 tvg-logo="https://fracademic.com/pictures/frwiki/49/180px-Logo_TVE-Internacional.svg.png" group-title="11- ESPAÑA",TVE ᵃˡᵗ
-http://randomserver.site:2086/wickeduk/etqyhww45e/88838
+#EXTINF:-1 tvg-logo="https://fracademic.com/pictures/frwiki/49/180px-Logo_TVE-Internacional.svg.png" group-title="11- ESPAÑA",TVE ᵒᶠᶠ
+
 
 #EXTINF:-1 tvg-logo="http://www.videoluctv.net/wp-content/uploads/2016/09/TVG.jpg" group-title="11- ESPAÑA",TV Galicia⁻ˢᵈ⁻
 http://europa-crtvg.flumotion.com/playlist.m3u8?GrupoTopIptv
