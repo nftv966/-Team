@@ -702,6 +702,8 @@ http://ic7.101.ru:8000/a15
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/312LhQsVqtL.png" group-title="11- ESPAÑA",A&E ᵒᶠᶠ
 
 
+#EXTINF:-1 tvg-logo="https://www.audiovisual451.com/wp-content/uploads/atreseries-logo-h.jpg" group-title="11- ESPAÑA",A3Series (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48643.ts
 #EXTINF:-1 tvg-logo="https://www.audiovisual451.com/wp-content/uploads/atreseries-logo-h.jpg" group-title="11- ESPAÑA",A3Series ᵃˡᵗ
 http://randomserver.site:2086/wickeduk/etqyhww45e/88775
 
@@ -711,11 +713,15 @@ http://randomserver.site:2086/wickeduk/etqyhww45e/88775
 #EXTINF:-1 tvg-logo="http://diretele.com/wp-content/uploads/2018/09/alcarria-tv-en-directo.png" group-title="11- ESPAÑA",Alcarria TV⁻ˢᵈ⁻
 http://217.182.77.27/live/alcarriatv-livestream.m3u8?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/AMCHD.png" group-title="11- ESPAÑA",Amc (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48639.ts
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/AMCHD.png" group-title="11- ESPAÑA",Amc (5)
 http://185.140.187.35:8000/play/a00g
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/AMCHD.png" group-title="11- ESPAÑA",Amc ᵃˡᵗ
 http://randomserver.site:2086/wickeduk/etqyhww45e/88671
 
+#EXTINF:-1 tvg-logo="https://www.miwuki.com/wp-content/uploads/2016/10/logo-antena-3.png" group-title="11- ESPAÑA",Antena 3 (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48623.ts
 #EXTINF:-1 tvg-logo="https://www.miwuki.com/wp-content/uploads/2016/10/logo-antena-3.png" group-title="11- ESPAÑA",Antena 3 ᵃˡᵗ
 http://randomserver.site:2086/wickeduk/etqyhww45e/88673
 
@@ -725,6 +731,8 @@ http://185.140.187.35:8000/play/a04w
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="11- ESPAÑA",Axn ᵒᶠᶠ
 
 
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/AXWHD.png" group-title="11- ESPAÑA",Axn White (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48631.ts
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/AXWHD.png" group-title="11- ESPAÑA",Axn White (5)
 http://185.140.187.35:8000/play/a01a
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/AXWHD.png" group-title="11- ESPAÑA",Axn White ᵃˡᵗ
@@ -740,9 +748,13 @@ http://185.140.187.35:8000/play/a03y
 #EXTINF:-1 tvg-logo="https://artwork.espncdn.com/media/2f96ce06-e00a-4053-83c8-9479e95a9c15/16x9/448x252_20200625042622.jpg" group-title="11- ESPAÑA",Barça tv ᵃˡᵗ
 http://randomserver.site:2086/wickeduk/etqyhww45e/88779
 
+#EXTINF:-1 tvg-logo="https://baul.mediaset.es/dist/assets/seo/logo_bemad.png" group-title="11- ESPAÑA",Be Mad (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48640.ts
 #EXTINF:-1 tvg-logo="https://baul.mediaset.es/dist/assets/seo/logo_bemad.png" group-title="11- ESPAÑA",Be Mad (5)
 http://185.140.187.35:8000/play/a045
 
+#EXTINF:-1 tvg-logo="https://nos.pt/particulares/televisao/canais/PublishingImages/blaze/logo/large.jpg" group-title="11- ESPAÑA",Blaze (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48691.ts
 #EXTINF:-1 tvg-logo="https://nos.pt/particulares/televisao/canais/PublishingImages/blaze/logo/large.jpg" group-title="11- ESPAÑA",Blaze (5)
 http://185.140.187.35:8000/play/a04a
 
@@ -752,14 +764,20 @@ http://185.140.187.35:8000/play/a03w
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_boomerang-cartoon_m.png" group-title="11- ESPAÑA",Boomerang ᵃˡᵗ
 http://randomserver.site:2086/wickeduk/etqyhww45e/88682
 
+#EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/calle13-1.png" group-title="11- ESPAÑA",Calle 13 (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48633.ts
 #EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/calle13-1.png" group-title="11- ESPAÑA",Calle 13 (5)
 http://185.140.187.35:8000/play/a00p
 #EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/calle13-1.png" group-title="11- ESPAÑA",Calle 13 ᵃˡᵗ
 http://randomserver.site:2086/wickeduk/etqyhww45e/88680
 
+#EXTINF:-1 tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/1f/1355295.png" group-title="11- ESPAÑA",Canal #0 (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48627.ts
 #EXTINF:-1 tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/1f/1355295.png" group-title="11- ESPAÑA",Canal #0 (5)
 http://185.140.187.35:8000/play/a012
 
+#EXTINF:-1 tvg-logo="https://www.comparaiso.es/sites/comparaiso.es/files/images/logos/vamos-movistar-200x300.png" group-title="11- ESPAÑA",Canal #Vamos (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48658.ts
 #EXTINF:-1 tvg-logo="https://www.comparaiso.es/sites/comparaiso.es/files/images/logos/vamos-movistar-200x300.png" group-title="11- ESPAÑA",Canal #Vamos (5)
 http://185.140.187.35:8000/play/a02o
 #EXTINF:-1 tvg-logo="https://www.comparaiso.es/sites/comparaiso.es/files/images/logos/vamos-movistar-200x300.png" group-title="11- ESPAÑA",Canal #Vamos (5)
@@ -768,6 +786,8 @@ http://185.140.187.35:8000/play/a01g
 #EXTINF:-1 tvg-logo="https://diretele.com/wp-content/uploads/2018/09/101-TV-en-directo.png" group-title="11- ESPAÑA",Canal 101 tv Málaga⁻ˢᵈ⁻
 http://secure7.todostreaming.es/live/101tv-web101tv.m3u8
 
+#EXTINF:-1 tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="11- ESPAÑA",Canal 24 Horas (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48672.ts
 #EXTINF:-1 tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="11- ESPAÑA",Canal 24 Horas⁻ˢᵈ⁻
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 #EXTINF:-1 tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="11- ESPAÑA",Canal 24 Horas (5)
@@ -785,6 +805,8 @@ http://185.140.187.35:8000/play/a03a
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/PANDA.png" group-title="11- ESPAÑA",Canal Panda (5)
 http://185.140.187.35:8000/play/a03h
 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/01/Canal-Sur-TV.png" group-title="11- ESPAÑA",Canal Sur (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48699.ts
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/01/Canal-Sur-TV.png" group-title="11- ESPAÑA",Canal Sur (5)
 http://185.140.187.35:8000/play/a047
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/01/Canal-Sur-TV.png" group-title="11- ESPAÑA",Canal Sur⁻ˢᵈ⁻
@@ -792,9 +814,11 @@ http://cdnlive.shooowit.net/rtvalive/channelDVR.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/01/Canal-Sur-TV.png" group-title="11- ESPAÑA",Canal Sur⁻ˢᵈ⁻
 http://eg128.tmira.com/rtvalive/canal2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/CACAP.png" group-title="11- ESPAÑA",Caza y Pesca ᵒᶠᶠ
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/CACAP.png" group-title="11- ESPAÑA",Caza y Pesca (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48675.ts
 
-
+#EXTINF:-1 tvg-logo="https://www.programacion.tv/images/clan.png" group-title="11- ESPAÑA",Clan (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48688.ts
 #EXTINF:-1 tvg-logo="https://www.programacion.tv/images/clan.png" group-title="11- ESPAÑA",Clan (5)
 http://185.140.187.35:8000/play/a03e
 
@@ -806,22 +830,32 @@ http://randomserver.site:2086/wickeduk/etqyhww45e/88703
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/02/Condavisi%C3%B3n-TV.png" group-title="11- ESPAÑA",Condavisión⁻ˢᵈ⁻
 http://145.239.141.154:1935/live/uSCQc5ky/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cosmopolitantv.es/img/logorrss.png" group-title="11- ESPAÑA",Cosmo (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48635.ts
 #EXTINF:-1 tvg-logo="https://www.cosmopolitantv.es/img/logorrss.png" group-title="11- ESPAÑA",Cosmo (5)
 http://185.140.187.35:8000/play/a019
 #EXTINF:-1 tvg-logo="https://www.cosmopolitantv.es/img/logorrss.png" group-title="11- ESPAÑA",Cosmo ᵃˡᵗ
 http://randomserver.site:2086/wickeduk/etqyhww45e/88686
 
+#EXTINF:-1 tvg-logo="https://www.audiovisual451.com/wp-content/uploads/Crimen-Investigacion-logo-2017.jpg" group-title="11- ESPAÑA",Crimen Investigacion (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48677.ts
 #EXTINF:-1 tvg-logo="https://www.audiovisual451.com/wp-content/uploads/Crimen-Investigacion-logo-2017.jpg" group-title="11- ESPAÑA",Crimen Investigacion (5)
 http://185.140.187.35:8000/play/a04f
 
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="11- ESPAÑA",Cuatro (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48624.ts
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="11- ESPAÑA",Cuatro (5)
 http://185.140.187.35:8000/play/a00i
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="11- ESPAÑA",Cuatro ᵃˡᵗ
 http://randomserver.site:2086/wickeduk/etqyhww45e/88699
 
+#EXTINF:-1 tvg-logo="https://casadecor.es/assets/uploads/2017/02/decasa.png" group-title="11- ESPAÑA",DeCasa
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48681.ts
 #EXTINF:-1 tvg-logo="https://casadecor.es/assets/uploads/2017/02/decasa.png" group-title="11- ESPAÑA",DeCasa (5)
 http://185.140.187.35:8000/play/a02t
 
+#EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="11- ESPAÑA",Discovery Channel (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48679.ts
 #EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="11- ESPAÑA",Discovery Channel (5)
 http://185.140.187.35:8000/play/a04c
 
@@ -837,32 +871,44 @@ http://185.140.187.35:8000/play/a04p
 #EXTINF:-1 tvg-logo="https://i.blogs.es/e53445/disney-plus-logo/original.jpeg" group-title="11- ESPAÑA",Disney + ᵃˡᵗ
 http://randomserver.site:2086/wickeduk/etqyhww45e/88722
 
+#EXTINF:-1 tvg-logo="https://descargarrevistas.com/wp-content/uploads/2018/12/divinity.jpg" group-title="11- ESPAÑA",Divinity (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48695.ts
 #EXTINF:-1 tvg-logo="https://descargarrevistas.com/wp-content/uploads/2018/12/divinity.jpg" group-title="11- ESPAÑA",Divinity (5)
 http://185.140.187.35:8000/play/a03s
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2019/10/dkiss-en-directo-online-1.png" group-title="11- ESPAÑA",Dkiss ᵒᶠᶠ
-
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2019/10/dkiss-en-directo-online-1.png" group-title="11- ESPAÑA",Dkiss (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48694.ts
 
 #EXTINF:-1 tvg-logo="https://komefy.com/wp-content/uploads/2019/06/intereconomia.png" group-title="11- ESPAÑA",El Toro tv ᵒᶠᶠ
 
 
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-FeitpcROtPU/TwIEowk2izI/AAAAAAAAATI/g0HN4up-TH0/s1600/canal-energy.png" group-title="11- ESPAÑA",Energy (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48636.ts
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-FeitpcROtPU/TwIEowk2izI/AAAAAAAAATI/g0HN4up-TH0/s1600/canal-energy.png" group-title="11- ESPAÑA",Energy (5)
 http://185.140.187.35:8000/play/a03x
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-FeitpcROtPU/TwIEowk2izI/AAAAAAAAATI/g0HN4up-TH0/s1600/canal-energy.png" group-title="11- ESPAÑA",Energy ᵃˡᵗ
 http://randomserver.site:2086/wickeduk/etqyhww45e/88670
 
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/EURSP.png" group-title="11- ESPAÑA",Eurosport 1 (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48665.ts
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/EURSP.png" group-title="11- ESPAÑA",Eurosport 1 (5)
 http://185.140.187.35:8000/play/a00r
 
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/EURS2.png" group-title="11- ESPAÑA",Eurosport 2 (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48666.ts
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/EURS2.png" group-title="11- ESPAÑA",Eurosport 2 (5)
 http://185.140.187.35:8000/play/a044
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/FDF-en-directo-online.png" group-title="11- ESPAÑA",Fdf ᵒᶠᶠ
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/FDF-en-directo-online.png" group-title="11- ESPAÑA",Fdf (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48637.ts
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="11- ESPAÑA",Fox (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48628.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="11- ESPAÑA",Fox (5)
 http://185.140.187.35:8000/play/a01f
 
+#EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="11- ESPAÑA",Fox Life (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48629.ts
 #EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="11- ESPAÑA",Fox Life (5)
 http://185.140.187.35:8000/play/a016
 
@@ -871,9 +917,13 @@ http://185.140.187.35:8000/play/a041
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/g/o/l/xgol.jpg.pagespeed.ic.ehJ8f13U62.jpg" group-title="11- ESPAÑA",Gol Tv ᵃˡᵗ
 http://randomserver.site:2086/wickeduk/etqyhww45e/88758
 
+#EXTINF:-1 tvg-logo="https://espalhafactos.com/wp-content/uploads/2013/05/Canal-Hist%C3%B3ria.png" group-title="11- ESPAÑA",Historia (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48678.ts
 #EXTINF:-1 tvg-logo="https://espalhafactos.com/wp-content/uploads/2013/05/Canal-Hist%C3%B3ria.png" group-title="11- ESPAÑA",Historia (5)
 http://185.140.187.35:8000/play/a04e
 
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/HOLHD.png" group-title="11- ESPAÑA",Hollywood (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48644.ts
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/HOLHD.png" group-title="11- ESPAÑA",Hollywood (5)
 http://185.140.187.35:8000/play/a01k
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/HOLHD.png" group-title="11- ESPAÑA",Hollywood ᵃˡᵗ
@@ -882,9 +932,11 @@ http://randomserver.site:2086/wickeduk/etqyhww45e/88811
 #EXTINF:-1 tvg-logo="https://tvalcolea.com/wp-content/uploads/2018/03/iberalia.jpg" group-title="11- ESPAÑA",Iberalia (5)
 http://185.140.187.35:8000/play/a04o
 
-#EXTINF:-1 tvg-logo="http://telecalasparra.com/wp-content/uploads/2016/09/1.La_1.png" group-title="11- ESPAÑA",La 1 ᵒᶠᶠ
+#EXTINF:-1 tvg-logo="http://telecalasparra.com/wp-content/uploads/2016/09/1.La_1.png" group-title="11- ESPAÑA",La 1 (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48621.ts
 
-
+#EXTINF:-1 tvg-logo="https://www.siguenza-guadalajara.org/images/noticias/2019/septiembre/la-2.png" group-title="11- ESPAÑA",La 2 (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48622.ts
 #EXTINF:-1 tvg-logo="https://www.siguenza-guadalajara.org/images/noticias/2019/septiembre/la-2.png" group-title="11- ESPAÑA",La 2 (5)
 http://185.140.187.35:8000/play/a04x
 
@@ -894,8 +946,8 @@ http://185.140.187.35:8000/play/a03i
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/01/Lancelot-tv.png" group-title="11- ESPAÑA",Lancelot Tv ᵒᶠᶠ
 
 
-#EXTINF:-1 tvg-logo="https://www.cienciaterapia.org/wp-content/uploads/2016/04/sexta.png" group-title="11- ESPAÑA",La Sexta ᵒᶠᶠ
-
+#EXTINF:-1 tvg-logo="https://www.cienciaterapia.org/wp-content/uploads/2016/04/sexta.png" group-title="11- ESPAÑA",La Sexta (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48626.ts
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/818729431141404672/kSfmbaKL_400x400.jpg" group-title="11- ESPAÑA",Lebrija TV⁻ˢᵈ⁻
 http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8?GrupoTopIptv
@@ -903,6 +955,8 @@ http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/902582473850109952/VpjDe23g_400x400.jpg" group-title="11- ESPAÑA",Marbella TV⁻ˢᵈ⁻
 http://cloudtv.provideo.es/live/marbellatv-livestream.m3u8
 
+#EXTINF:-1 tvg-logo="https://jonvlogs21.es/wp-content/uploads/2019/03/720x540.jpg" group-title="11- ESPAÑA",Mega (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48641.ts
 #EXTINF:-1 tvg-logo="https://jonvlogs21.es/wp-content/uploads/2019/03/720x540.jpg" group-title="11- ESPAÑA",Mega ᵃˡᵗ
 http://randomserver.site:2086/wickeduk/etqyhww45e/88687
 
@@ -911,61 +965,81 @@ http://185.140.187.35:8000/play/a032
 #EXTINF:-1 tvg-logo="https://logonoid.com/images/mezzo-tv-logo.png" group-title="11- ESPAÑA",Mezzo Live (5)
 http://185.140.187.35:8000/play/a00o
 
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-accion.jpg.pagespeed.ic.S9amYApSMG.jpg" group-title="11- ESPAÑA",M. Accion (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48646.ts
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-accion.jpg.pagespeed.ic.S9amYApSMG.jpg" group-title="11- ESPAÑA",M. Accion (5)
 http://185.140.187.35:8000/play/a01h
 
+#EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2019/04/movistar-cine-espanol.jpg" group-title="11- ESPAÑA",M. Cine Ñ (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48653.ts
 #EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2019/04/movistar-cine-espanol.jpg" group-title="11- ESPAÑA",M. Cine Ñ (5)
 http://185.140.187.35:8000/play/a04i
 
-#EXTINF:-1 tvg-logo="http://51.68.70.69/picons/M.CineDoc&Roll_HD.png" group-title="11- ESPAÑA",M. Cinedoc&roll ᵒᶠᶠ
+#EXTINF:-1 tvg-logo="http://51.68.70.69/picons/M.CineDoc&Roll_HD.png" group-title="11- ESPAÑA",M. Cinedoc&roll (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48647.ts
 
-
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-comedia.jpg.pagespeed.ic.deMbrDoiNj.jpg" group-title="11- ESPAÑA",M. Comedia (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48652.ts
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-comedia.jpg.pagespeed.ic.deMbrDoiNj.jpg" group-title="11- ESPAÑA",M. Comedia (5)
 http://185.140.187.35:8000/play/a04r
 
 #EXTINF:-1 tvg-logo="https://verlatele.net/wp-content/uploads/2020/05/Movistar-Dcine.jpg" group-title="11- ESPAÑA",M. Dcine ᵒᶠᶠ
 
 
-#EXTINF:-1 tvg-logo="https://copaamericacentenario.com/wp-content/uploads/2018/03/movistar-deportes.png" group-title="11- ESPAÑA",M. Deportes ᵒᶠᶠ
+#EXTINF:-1 tvg-logo="https://copaamericacentenario.com/wp-content/uploads/2018/03/movistar-deportes.png" group-title="11- ESPAÑA",M. Deportes (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48661.ts
 
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-drama.jpg.pagespeed.ic.2pLss6-3MZ.jpg" group-title="11- ESPAÑA",M. Drama (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48651.ts
 
-#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-drama.jpg.pagespeed.ic.2pLss6-3MZ.jpg" group-title="11- ESPAÑA",M. Drama ᵒᶠᶠ
-
-
+#EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/3/d/m/movistar-estrenos.jpg" group-title="11- ESPAÑA",M. Estrenos (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48650.ts
 #EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/3/d/m/movistar-estrenos.jpg" group-title="11- ESPAÑA",M. Estrenos (5)
 http://185.140.187.35:8000/play/a03d
 #EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/3/d/m/movistar-estrenos.jpg" group-title="11- ESPAÑA",M. Estrenos (5)
 http://185.140.187.35:8000/play/a00l
 
-#EXTINF:-1 tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/3c/1355324.png" group-title="11- ESPAÑA",M. Formula 1 ᵒᶠᶠ
+#EXTINF:-1 tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/3c/1355324.png" group-title="11- ESPAÑA",M. Formula 1 (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48664.ts
 
-
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-golf.jpg.pagespeed.ic.lKGt5sk6A_.jpg" group-title="11- ESPAÑA",M. Golf (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48663.ts
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-golf.jpg.pagespeed.ic.lKGt5sk6A_.jpg" group-title="11- ESPAÑA",M. Golf (5)
 http://185.140.187.35:8000/play/a018
 
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads/2019/07/movistar-laliga-logo.jpg" group-title="11- ESPAÑA",M. La Liga (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48656.ts
 #EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads/2019/07/movistar-laliga-logo.jpg" group-title="11- ESPAÑA",M. La Liga (5)
 http://185.140.187.35:8000/play/a02v
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MVFRKTv.png" group-title="11- ESPAÑA",M. Liga de Campeones ᵒᶠᶠ
 
 
+#EXTINF:-1 tvg-logo="https://www.airnetwifi.es/wp-content/uploads/2019/03/Logo-Movistar-Series.png" group-title="11- ESPAÑA",M. Series (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48648.ts
 #EXTINF:-1 tvg-logo="https://www.airnetwifi.es/wp-content/uploads/2019/03/Logo-Movistar-Series.png" group-title="11- ESPAÑA",M. Series (5)
 http://185.140.187.35:8000/play/a00w
 
+#EXTINF:-1 tvg-logo="https://www.andorratelecom.ad/documents/33347/1934305/Mask-Group-8@2x.png" group-title="11- ESPAÑA",M. Seriesmania (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48649.ts
 #EXTINF:-1 tvg-logo="https://www.andorratelecom.ad/documents/33347/1934305/Mask-Group-8@2x.png" group-title="11- ESPAÑA",M. Seriesmania (5)
 http://185.140.187.35:8000/play/a017
 
+#EXTINF:-1 tvg-logo="http://cibercom.es/wp-content/uploads/2014/01/mtv_logo.jpg" group-title="11- ESPAÑA",MTV España (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48700.ts
 #EXTINF:-1 tvg-logo="http://cibercom.es/wp-content/uploads/2014/01/mtv_logo.jpg" group-title="11- ESPAÑA",MTV España (5)
 http://185.140.187.35:8000/play/a040
 #EXTINF:-1 tvg-logo="http://cibercom.es/wp-content/uploads/2014/01/mtv_logo.jpg" group-title="11- ESPAÑA",MTV España ᵃˡᵗ
 http://randomserver.site:2086/wickeduk/etqyhww45e/88785
 
-#EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="11- ESPAÑA",Nat Geo ᵒᶠᶠ
+#EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="11- ESPAÑA",Nat Geo (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48673.ts
 
+#EXTINF:-1 tvg-logo="http://www.lettreaudiovisuel.com/wp-content/uploads/2014/12/Nat-Geo-Wild.png" group-title="11- ESPAÑA",Nat Geo Wild (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48674.ts
 
-#EXTINF:-1 tvg-logo="http://www.lettreaudiovisuel.com/wp-content/uploads/2014/12/Nat-Geo-Wild.png" group-title="11- ESPAÑA",Nat Geo Wild ᵒᶠᶠ
-
-
+#EXTINF:-1 tvg-logo="https://labutacaroja.com/wp-content/uploads/2019/01/neox-en-directo-online.png" group-title="11- ESPAÑA",Neox (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48638.ts
 #EXTINF:-1 tvg-logo="https://labutacaroja.com/wp-content/uploads/2019/01/neox-en-directo-online.png" group-title="11- ESPAÑA",Neox ᵃˡᵗ
 http://randomserver.site:2086/wickeduk/etqyhww45e/88674
 
@@ -975,15 +1049,23 @@ http://randomserver.site:2086/wickeduk/etqyhww45e/88796
 #EXTINF:-1 tvg-logo="http://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="11- ESPAÑA",Nick Junior (5)
 http://185.140.187.35:8000/play/a031
 
+#EXTINF:-1 tvg-logo="http://www.axartel.es/assets/img/sliders/tv-canales/a3-nova.jpg" group-title="11- ESPAÑA",Nova (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48696.ts
 #EXTINF:-1 tvg-logo="http://www.axartel.es/assets/img/sliders/tv-canales/a3-nova.jpg" group-title="11- ESPAÑA",Nova (5)
 http://185.140.187.35:8000/play/a04n
 
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/noticias/55600/55629/1_d8fe9d8dd9.jpg" group-title="11- ESPAÑA",Odisea (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48697.ts
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/noticias/55600/55629/1_d8fe9d8dd9.jpg" group-title="11- ESPAÑA",Odisea (5)
 http://185.140.187.35:8000/play/a02k
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_paramount-channel_m.png" group-title="11- ESPAÑA",Paramount Network (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48645.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_paramount-channel_m.png" group-title="11- ESPAÑA",Paramount Network ᵃˡᵗ
 http://randomserver.site:2086/wickeduk/etqyhww45e/88804
 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Real-Madrid-TV.png" group-title="11- ESPAÑA",Real Madrid tv (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48668.ts
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Real-Madrid-TV.png" group-title="11- ESPAÑA",Real Madrid tv (5)
 http://185.140.187.35:8000/play/a02w
 
@@ -993,33 +1075,50 @@ http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://canalsomos.es/wp-content/themes/canalsomos/images/somos-logo.png" group-title="11- ESPAÑA",Somos ᵒᶠᶠ
 
 
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2011/09/c0552-sundancetv-la.png" group-title="11- ESPAÑA",Sundance (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48693.ts
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2011/09/c0552-sundancetv-la.png" group-title="11- ESPAÑA",Sundance (5)
 http://185.140.187.35:8000/play/a03b
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2011/09/c0552-sundancetv-la.png" group-title="11- ESPAÑA",Sundance ᵃˡᵗ
 http://randomserver.site:2086/wickeduk/etqyhww45e/88815
 
+#EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="11- ESPAÑA",Syfy (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48632.ts
 #EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="11- ESPAÑA",Syfy (5)
 http://185.140.187.35:8000/play/a00q
 #EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="11- ESPAÑA",Syfy ᵃˡᵗ
 http://randomserver.site:2086/wickeduk/etqyhww45e/88816
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/935558504584286209/7hSasxXi.jpg" group-title="11- ESPAÑA",Ten (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48698.ts
+
+#EXTINF:-1 tvg-logo="http://www.cable10.com/imagenes/programacion/canales_0013s_0016_Layer%2034.jpg" group-title="11- ESPAÑA",TCM (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48634.ts
 #EXTINF:-1 tvg-logo="http://www.cable10.com/imagenes/programacion/canales_0013s_0016_Layer%2034.jpg" group-title="11- ESPAÑA",TCM (5)
 http://185.140.187.35:8000/play/a00y
 #EXTINF:-1 tvg-logo="http://www.cable10.com/imagenes/programacion/canales_0013s_0016_Layer%2034.jpg" group-title="11- ESPAÑA",TCM ᵃˡᵗ
 http://randomserver.site:2086/wickeduk/etqyhww45e/88819
 
-#EXTINF:-1 tvg-logo="http://www.cienciaterapia.org/wp-content/uploads/2016/09/telecinco-logotipo.png" group-title="11- ESPAÑA",Telecinco ᵒᶠᶠ
+#EXTINF:-1 tvg-logo="http://www.cienciaterapia.org/wp-content/uploads/2016/09/telecinco-logotipo.png" group-title="11- ESPAÑA",Telecinco (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48625.ts
 
-
+#EXTINF:-1 tvg-logo="http://img.irtve.es/imagenes/jpg/1331827196060.jpg" group-title="11- ESPAÑA",Teledeporte (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48667.ts
 #EXTINF:-1 tvg-logo="http://img.irtve.es/imagenes/jpg/1331827196060.jpg" group-title="11- ESPAÑA",Teledeporte (5)
 http://185.140.187.35:8000/play/a03o
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/02/canal-7-televalencia.png" group-title="11- ESPAÑA",TeleValencia 7 ᵒᶠᶠ
 
 
+#EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="11- ESPAÑA",TNT (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48692.ts
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="11- ESPAÑA",TNT (5)
 http://185.140.187.35:8000/play/a00z
 
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/o/r/xtorostv.jpg.pagespeed.ic.My5CoATug6.jpg" group-title="11- ESPAÑA",Toros (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48701.ts
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/o/r/xtorostv.jpg.pagespeed.ic.My5CoATug6.jpg" group-title="11- ESPAÑA",Toros (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48655.ts
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/o/r/xtorostv.jpg.pagespeed.ic.My5CoATug6.jpg" group-title="11- ESPAÑA",Toros (5)
 http://185.140.187.35:8000/play/a00u
 
@@ -1029,6 +1128,8 @@ http://185.140.187.35:8000/play/a00u
 #EXTINF:-1 tvg-logo="http://www.videoluctv.net/wp-content/uploads/2016/09/TVG.jpg" group-title="11- ESPAÑA",TV Galicia⁻ˢᵈ⁻
 http://europa-crtvg.flumotion.com/playlist.m3u8?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="https://www.programacion.tv/images/viajar.PNG" group-title="11- ESPAÑA",Viajar (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/48676.ts
 #EXTINF:-1 tvg-logo="https://www.programacion.tv/images/viajar.PNG" group-title="11- ESPAÑA",Viajar (5)
 http://185.140.187.35:8000/play/a00x
 
@@ -1381,158 +1482,293 @@ https://stream.vagalume.fm/hls/1478022035646498/aac.m3u8
 
 #EXTINF:-1 tvg-logo="http://img.miptv.ws/24_Kitchen.png" group-title="18- PORTUGAL",24 Kitchen
 http://a.srvbr.me:8880/live/830395/830395/987.ts
+#EXTINF:-1 tvg-logo="http://img.miptv.ws/24_Kitchen.png" group-title="18- PORTUGAL",24 Kitchen (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18107.ts
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/ABOLA.png" group-title="18- PORTUGAL",A Bola Tv
 http://a.srvbr.me:8880/live/830395/830395/664.ts
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/ABOLA.png" group-title="18- PORTUGAL",A Bola Tv (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18159.ts
+
+#EXTINF:-1 tvg-logo="https://lobbynoir.com/wp-content/uploads/2018/01/afromusic.jpg" group-title="18- PORTUGAL",Afro Music (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18094.ts
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1166698446323163136/V-CdZBe5.jpg" group-title="18- PORTUGAL",Amc (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18187.ts
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/AXNHD.png" group-title="18- PORTUGAL",Axn
 http://a.srvbr.me:8880/live/830395/830395/396.ts
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/AXNHD.png" group-title="18- PORTUGAL",Axn (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18123.ts
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/AXWHD.png" group-title="18- PORTUGAL",Axn White
 http://a.srvbr.me:8880/live/830395/830395/1009.ts
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/AXWHD.png" group-title="18- PORTUGAL",Axn White (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/35898.ts
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/AXBHD.png" group-title="18- PORTUGAL",Axn Black
 http://a.srvbr.me:8880/live/830395/830395/1010.ts
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/AXBHD.png" group-title="18- PORTUGAL",Axn Black (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/35897.ts
 
 #EXTINF:-1 tvg-logo="http://img.miptv.ws/Baby_TV.png" group-title="18- PORTUGAL",Baby TV
 http://a.srvbr.me:8880/live/830395/830395/1046.ts
+#EXTINF:-1 tvg-logo="http://img.miptv.ws/Baby_TV.png" group-title="18- PORTUGAL",Baby TV (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18096.ts
 
 #EXTINF:-1 tvg-logo="http://img.miptv.ws/BTV.png" group-title="18- PORTUGAL",Bendica TV
 http://a.srvbr.me:8880/live/830395/830395/1019.ts
+#EXTINF:-1 tvg-logo="http://img.miptv.ws/BTV.png" group-title="18- PORTUGAL",Bendica TV (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18138.ts
 #EXTINF:-1 tvg-logo="http://img.miptv.ws/BTV.png" group-title="18- PORTUGAL",Bendica TV (PLAY)
 http://77.54.145.209:81/play/a032
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/BIGGS.png" group-title="18- PORTUGAL",Biggs
 http://a.srvbr.me:8880/live/830395/830395/998.ts
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/BIGGS.png" group-title="18- PORTUGAL",Biggs (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/35921.ts
+
+#EXTINF:-1 tvg-logo="https://telecable.es/bundles/app/images/channels/blaze_200x200.png" group-title="18- PORTUGAL",Blaze (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18112.ts
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/CACAP.png" group-title="18- PORTUGAL",Caça e Pesca
 http://a.srvbr.me:8880/live/830395/830395/392.ts
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/CACAP.png" group-title="18- PORTUGAL",Caça e Pesca (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18108.ts
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/CACAV.png" group-title="18- PORTUGAL",Caçavision
 http://a.srvbr.me:8880/live/830395/830395/989.ts
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/CACAV.png" group-title="18- PORTUGAL",Caçavision (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18106.ts
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/PANDA.png" group-title="18- PORTUGAL",Canal Panda
 http://a.srvbr.me:8880/live/830395/830395/1001.ts
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/PANDA.png" group-title="18- PORTUGAL",Canal Panda (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18102.ts
+
+#EXTINF:-1 tvg-logo="https://www.thematv.ca/images/channels/canal-q.png" group-title="18- PORTUGAL",Canal Q (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18149.ts
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/CART.png" group-title="18- PORTUGAL",Cartoon Network
 http://a.srvbr.me:8880/live/830395/830395/1047.ts
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/CART.png" group-title="18- PORTUGAL",Cartoon Network (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18098.ts
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/CBS-Reality.png" group-title="18- PORTUGAL",CBS Reality (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18110.ts
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/CINE.png" group-title="18- PORTUGAL",Cinemundo
 http://a.srvbr.me:8880/live/830395/830395/391.ts
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/CINE.png" group-title="18- PORTUGAL",Cinemundo (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/35895.ts
 
 #EXTINF:-1 tvg-logo="https://filmspot.com.pt/images/media/9610.jpg" group-title="18- PORTUGAL",CMtv
 http://a.srvbr.me:8880/live/830395/830395/1027.ts
+#EXTINF:-1 tvg-logo="https://filmspot.com.pt/images/media/9610.jpg" group-title="18- PORTUGAL",CMtv (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/35904.ts
 
 #EXTINF:-1 tvg-logo="http://img.miptv.ws/Discovery_Channel.png" group-title="18- PORTUGAL",Discovery Channel
 http://a.srvbr.me:8880/live/830395/830395/390.ts
+#EXTINF:-1 tvg-logo="http://img.miptv.ws/Discovery_Channel.png" group-title="18- PORTUGAL",Discovery Channel (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18117.ts
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/DISNY.png" group-title="18- PORTUGAL",Disney Channel
 http://a.srvbr.me:8880/live/830395/830395/1002.ts
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/DISNY.png" group-title="18- PORTUGAL",Disney Channel (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18104.ts
+
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/6d6fb-disney-jr.png" group-title="18- PORTUGAL",Disney Junior (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18103.ts
 
 #EXTINF:-1 tvg-logo="http://img.miptv.ws/Dog_TV.png" group-title="18- PORTUGAL",Dog TV
 http://a.srvbr.me:8880/live/830395/830395/986.ts
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/E!.png" group-title="18- PORTUGAL",E! Entertainment
 http://a.srvbr.me:8880/live/830395/830395/988.ts
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/E!.png" group-title="18- PORTUGAL",E! Entertainment (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18174.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Eleven_Sports_1.png" group-title="18- PORTUGAL",Eleven Sports 1 (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18180.ts
 
 #EXTINF:-1 tvg-logo="http://img.miptv.ws/elevensports2.png" group-title="18- PORTUGAL",Eleven Sports 2
 http://a.srvbr.me:8880/live/830395/830395/5674.ts
+#EXTINF:-1 tvg-logo="http://img.miptv.ws/elevensports2.png" group-title="18- PORTUGAL",Eleven Sports 2 (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18179.ts
 
 #EXTINF:-1 tvg-logo="http://img.miptv.ws/elevensports3.png" group-title="18- PORTUGAL",Eleven Sports 3
 http://a.srvbr.me:8880/live/830395/830395/7575.ts
+#EXTINF:-1 tvg-logo="http://img.miptv.ws/elevensports3.png" group-title="18- PORTUGAL",Eleven Sports 3 (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18178.ts
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/EURSP.png" group-title="18- PORTUGAL",Eurosport 1
 http://a.srvbr.me:8880/live/830395/830395/420.ts
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/EURSP.png" group-title="18- PORTUGAL",Eurosport 1 (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18135.ts
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/EURS2.png" group-title="18- PORTUGAL",Eurosport 2
 http://a.srvbr.me:8880/live/830395/830395/388.ts
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/FOX.png" group-title="18- PORTUGAL",Fox
 http://a.srvbr.me:8880/live/830395/830395/385.ts
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/FOX.png" group-title="18- PORTUGAL",Fox (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18122.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/6bd5f946-bf5a-4dee-b3b2-4e87a85e830a_m.jpg" group-title="18- PORTUGAL",Fox Comedy (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/35899.ts
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/FOXCR.png" group-title="18- PORTUGAL",Fox Crime
 http://a.srvbr.me:8880/live/830395/830395/386.ts
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/FOXCR.png" group-title="18- PORTUGAL",Fox Crime (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18190.ts
+
+#EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/f/o/x/foxlife.jpg" group-title="18- PORTUGAL",Fox Life (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/35901.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-movies_m.png" group-title="18- PORTUGAL",Fox Movies (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/35902.ts
 
 #EXTINF:-1 tvg-logo="http://img.miptv.ws/Fuel_TV.png" group-title="18- PORTUGAL",Fuel TV
 http://a.srvbr.me:8880/live/830395/830395/383.ts
+#EXTINF:-1 tvg-logo="http://img.miptv.ws/Fuel_TV.png" group-title="18- PORTUGAL",Fuel TV (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18193.ts
+
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/simbolo-da-globo-png-4.png" group-title="18- PORTUGAL",Globo Portugal (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18090.ts
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/HIST.png" group-title="18- PORTUGAL",Historia
 http://a.srvbr.me:8880/live/830395/830395/1003.ts
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/HIST.png" group-title="18- PORTUGAL",Historia (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18115.ts
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/HOLHD.png" group-title="18- PORTUGAL",Hollywood
 http://a.srvbr.me:8880/live/830395/830395/382.ts
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/JJAM.png" group-title="18- PORTUGAL",Jim Jam
 http://a.srvbr.me:8880/live/830395/830395/997.ts
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/JJAM.png" group-title="18- PORTUGAL",Jim Jam (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18097.ts
+
+#EXTINF:-1 tvg-logo="https://www.bce.lu/wp-content/uploads/2016/06/LOGO-Kombat_Sport.png" group-title="18- PORTUGAL",Kombat Sport (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18132.ts
+
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/62ab86384398.585d715783692.jpg" group-title="18- PORTUGAL",K Sic (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/79718.ts
 
 #EXTINF:-1 group-title="Portugal" tvg-logo="http://img.miptv.ws/Localvisao_TV.png" group-title="18- PORTUGAL",Localvision
 http://a.srvbr.me:8880/live/830395/830395/980.ts
 
-#EXTINF:-1 tvg-logo="http://img.miptv.ws/MCM_Top.png" group-title="18- PORTUGAL",MCM Pop
+#EXTINF:-1 tvg-logo="https://logonoid.com/images/mcm-pop-logo.png" group-title="18- PORTUGAL",MCM Pop
 http://a.srvbr.me:8880/live/830395/830395/995.ts
+#EXTINF:-1 tvg-logo="https://logonoid.com/images/mcm-pop-logo.png" group-title="18- PORTUGAL",MCM Pop (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18093.ts
+
+#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/7/7158.1529168668.png" group-title="18- PORTUGAL",MCM Top (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18182.ts
 
 #EXTINF:-1 tvg-logo="http://img.miptv.ws/MTV.png" group-title="18- PORTUGAL",MTV
 http://a.srvbr.me:8880/live/830395/830395/994.ts
+#EXTINF:-1 tvg-logo="http://img.miptv.ws/MTV.png" group-title="18- PORTUGAL",MTV (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18172.ts
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/mtv-live-logo-png-5.png" group-title="18- PORTUGAL",MTV Live
 http://a.srvbr.me:8880/live/830395/830395/5654.ts
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/NGC.png" group-title="18- PORTUGAL",National Geographic
 http://a.srvbr.me:8880/live/830395/830395/380.ts
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/NGC.png" group-title="18- PORTUGAL",National Geographic (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18119.ts
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/NGWIL.png" group-title="18- PORTUGAL",Nat Geo Wild
 http://a.srvbr.me:8880/live/830395/830395/1004.ts
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/NGWIL.png" group-title="18- PORTUGAL",Nat Geo Wild (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18118.ts
+
+#EXTINF:-1 tvg-logo="https://elhumanista.net/wp-content/uploads/2017/09/after.png" group-title="18- PORTUGAL",Nickelodeon (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18100.ts
+
+#EXTINF:-1 tvg-logo="https://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="18- PORTUGAL",Nick Junior (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18099.ts
+
+#EXTINF:-1 tvg-logo="https://1.top4top.net/p_1265ovqe71.png" group-title="18- PORTUGAL",Nos Studios (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18195.ts
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/ODISS.png" group-title="18- PORTUGAL",Odisseia
 http://a.srvbr.me:8880/live/830395/830395/377.ts
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/ODISS.png" group-title="18- PORTUGAL",Odisseia (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18116.ts
 
 #EXTINF:-1 tvg-logo="http://img.miptv.ws/PFC_Portugal.png" group-title="18- PORTUGAL",PFC
 http://a.srvbr.me:8880/live/830395/830395/992.ts
+#EXTINF:-1 tvg-logo="http://img.miptv.ws/PFC_Portugal.png" group-title="18- PORTUGAL",PFC (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18130.ts
 
 #EXTINF:-1 tvg-logo="http://img.miptv.ws/Porto_Canal.png" group-title="18- PORTUGAL",Porto Canal
 http://a.srvbr.me:8880/live/830395/830395/1015.ts
+#EXTINF:-1 tvg-logo="http://img.miptv.ws/Porto_Canal.png" group-title="18- PORTUGAL",Porto Canal (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18136.ts
 
 #EXTINF:-1 tvg-logo="http://img.miptv.ws/Regioes_TV.png" group-title="18- PORTUGAL",Regioes TV
 http://a.srvbr.me:8880/live/830395/830395/982.ts
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/RTP1.png" group-title="18- PORTUGAL",RTP 1
 http://a.srvbr.me:8880/live/830395/830395/375.ts
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/RTP1.png" group-title="18- PORTUGAL",RTP 1 (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18202.ts
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/RTP2.png" group-title="18- PORTUGAL",RTP 2
 http://a.srvbr.me:8880/live/830395/830395/374.ts
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/RTP2.png" group-title="18- PORTUGAL",RTP 2 (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18201.ts
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/RTP3H.png" group-title="18- PORTUGAL",RTP 3
 http://a.srvbr.me:8880/live/830395/830395/373.ts
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/RTP3H.png" group-title="18- PORTUGAL",RTP 3 (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/78364.ts
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/RTPAC.png" group-title="18- PORTUGAL",RTP Acores
 http://a.srvbr.me:8880/live/830395/830395/372.ts
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/RTPAC.png" group-title="18- PORTUGAL",RTP Acores (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18150.ts
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/04/RTP-%C3%81frica-324x235.png" group-title="18- PORTUGAL",RTP Africa
 http://a.srvbr.me:8880/live/830395/830395/371.ts
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/04/RTP-%C3%81frica-324x235.png" group-title="18- PORTUGAL",RTP Africa (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/78365.ts
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/RTPMD.png" group-title="18- PORTUGAL",RTP Madeira
 http://a.srvbr.me:8880/live/830395/830395/370.ts
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/RTPMD.png" group-title="18- PORTUGAL",RTP Madeira (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18151.ts
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/RTPM.png" group-title="18- PORTUGAL",RTP Memoria
 http://a.srvbr.me:8880/live/830395/830395/369.ts
 
 #EXTINF:-1 tvg-logo="https://www.atelevisao.com/wp-content/uploads/2013/01/logo-sic.jpg" group-title="18- PORTUGAL",SIC
 http://a.srvbr.me:8880/live/830395/830395/1033.ts
+#EXTINF:-1 tvg-logo="https://www.atelevisao.com/wp-content/uploads/2013/01/logo-sic.jpg" group-title="18- PORTUGAL",SIC (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18200.ts
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/SICC.png" group-title="18- PORTUGAL",SIC Caras
 http://a.srvbr.me:8880/live/830395/830395/1030.ts
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/SICMHD.png" group-title="18- PORTUGAL",SIC Mulher
 http://a.srvbr.me:8880/live/830395/830395/1031.ts
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/SICMHD.png" group-title="18- PORTUGAL",SIC Mulher (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/35905.ts
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/SICN.png" group-title="18- PORTUGAL",SIC Noticias
 http://a.srvbr.me:8880/live/830395/830395/1032.ts
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/SICN.png" group-title="18- PORTUGAL",SIC Noticias (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/35903.ts
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/SICR.png" group-title="18- PORTUGAL",SIC Radical
 http://a.srvbr.me:8880/live/830395/830395/662.ts
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/SPTV1.png" group-title="18- PORTUGAL",Sport Tv 1
 http://a.srvbr.me:8880/live/830395/830395/1026.ts
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/SPTV1.png" group-title="18- PORTUGAL",Sport Tv 1 (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18147.ts
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/SPTV1.png" group-title="18- PORTUGAL",Sport Tv 1 (PLAY)
 http://77.54.145.209:81/play/a02v
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/SPTV1.png" group-title="18- PORTUGAL",Sport Tv 1 (PLAY)
@@ -1540,15 +1776,23 @@ http://77.54.145.209:81/play/a001
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/SPTV2.png" group-title="18- PORTUGAL",Sport Tv 2
 http://a.srvbr.me:8880/live/830395/830395/1024.ts
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/SPTV2.png" group-title="18- PORTUGAL",Sport Tv 2 (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18145.ts
 
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/SPTV3.png" group-title="18- PORTUGAL",Sport Tv 3
 http://a.srvbr.me:8880/live/830395/830395/1023.ts
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/SPTV3.png" group-title="18- PORTUGAL",Sport Tv 3 (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18143.ts
 
 #EXTINF:-1 tvg-logo="http://img.miptv.ws/PT_Sport_TV_4.png" group-title="18- PORTUGAL",Sport Tv 4
 http://a.srvbr.me:8880/live/830395/830395/1022.ts
+#EXTINF:-1 tvg-logo="http://img.miptv.ws/PT_Sport_TV_4.png" group-title="18- PORTUGAL",Sport Tv 4 (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18141.ts
 
 #EXTINF:-1 tvg-logo="http://img.miptv.ws/PT_Sport_TV_5.png" group-title="18- PORTUGAL",Sport Tv 5
 http://a.srvbr.me:8880/live/830395/830395/1021.ts
+#EXTINF:-1 tvg-logo="http://img.miptv.ws/PT_Sport_TV_5.png" group-title="18- PORTUGAL",Sport Tv 5 (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18139.ts
 
 #EXTINF:-1 group-title="Portugal" tvg-logo="http://img.miptv.ws/SporTV_Portugal.png" group-title="18- PORTUGAL",Sport Tv Mais
 http://a.srvbr.me:8880/live/830395/830395/362.ts
@@ -1556,8 +1800,13 @@ http://a.srvbr.me:8880/live/830395/830395/362.ts
 #EXTINF:-1 tvg-logo="http://img.miptv.ws/Sporting_TV_HD.png" group-title="18- PORTUGAL",Sporting TV
 http://a.srvbr.me:8880/live/830395/830395/368.ts
 
+#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/Syfy-logo-2017-2-800x800-838486663.png" group-title="18- PORTUGAL",Syfy (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18120.ts
+
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/TLC.png" group-title="18- PORTUGAL",TLC
 http://a.srvbr.me:8880/live/830395/830395/985.ts
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/TLC.png" group-title="18- PORTUGAL",TLC (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18111.ts
 
 #EXTINF:-1 tvg-logo="http://img.miptv.ws/Toros_TV.png" group-title="18- PORTUGAL",Toros TV
 http://a.srvbr.me:8880/live/830395/830395/990.ts
@@ -1565,26 +1814,46 @@ http://a.srvbr.me:8880/live/830395/830395/990.ts
 #EXTINF:-1 tvg-logo="http://img.miptv.ws/TPA_Internacional.png" group-title="18- PORTUGAL",TPA
 http://a.srvbr.me:8880/live/830395/830395/979.ts
 
-#EXTINF:-1 tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcaction.png" group-title="18- PORTUGAL",TVCine Action
-
+#EXTINF:-1 tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcaction.png" group-title="18- PORTUGAL",TVCine Action (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/35915.ts
+#EXTINF:-1 tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcaction.png" group-title="18- PORTUGAL",TVCine Action (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18126.ts
 
 #EXTINF:-1 tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcedition.png" group-title="18- PORTUGAL",TVCine Edition
 http://a.srvbr.me:8880/live/830395/830395/352.ts
+#EXTINF:-1 tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcedition.png" group-title="18- PORTUGAL",TVCine Edition (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/35913.ts
 
 #EXTINF:-1 tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcemotion.png" group-title="18- PORTUGAL",TVCine Emotion
 http://a.srvbr.me:8880/live/830395/830395/351.ts
+#EXTINF:-1 tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcemotion.png" group-title="18- PORTUGAL",TVCine Emotion (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/35914.ts
 
 #EXTINF:-1 tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvctop.png" group-title="18- PORTUGAL",TVCine Top
 http://a.srvbr.me:8880/live/830395/830395/353.ts
+#EXTINF:-1 tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvctop.png" group-title="18- PORTUGAL",TVCine Top (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/35912.ts
+
+#EXTINF:-1 tvg-logo="https://liderpositivo.com/pt/wp-content/uploads/sites/3/2018/03/TVI_logo_2017.png" group-title="18- PORTUGAL",TVI (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18199.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvi24.png" group-title="18- PORTUGAL",TVI 24
 http://a.srvbr.me:8880/live/830395/830395/649.ts
+#EXTINF:-1 tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvi24.png" group-title="18- PORTUGAL",TVI 24 (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18161.ts
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/tvi-ficcao-218x150.png" group-title="18- PORTUGAL",TVI Ficçao
 http://a.srvbr.me:8880/live/830395/830395/1029.ts
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/tvi-ficcao-218x150.png" group-title="18- PORTUGAL",TVI Ficçao (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18158.ts
 
 #EXTINF:-1 tvg-logo="http://rodrigoleal.com/wp-content/uploads/2015/10/tvireality-423x237.jpg" group-title="18- PORTUGAL",TVI Reality
 http://a.srvbr.me:8880/live/830395/830395/1028.ts
+#EXTINF:-1 tvg-logo="http://rodrigoleal.com/wp-content/uploads/2015/10/tvireality-423x237.jpg" group-title="18- PORTUGAL",TVI Reality (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/18157.ts
+
+#EXTINF:-1 tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvseries/logo/medium_logo.jpg" group-title="18- PORTUGAL",TVSeries (NMC)
+http://nomorecable.xyz:80/live/amadeustr1117894/683819/35916.ts
 
 ######################################################################################################################################
 ####################################### PUERTO RICO
