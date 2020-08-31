@@ -1,785 +1,1317 @@
 #EXTM3U
-#EXTINF:-1 ,Band Campinas SD
-http://stream-sky.cf:80/live/bianca/123/20.ts
-#EXTINF:-1 ,Band Nordeste SD
-http://stream-sky.cf:80/live/bianca/123/22.ts
-#EXTINF:-1 ,Band SP SD
-http://stream-sky.cf:80/live/bianca/123/24.ts
-#EXTINF:-1 ,Cultura SD
-http://stream-sky.cf:80/live/bianca/123/316.ts
-#EXTINF:-1 ,Futura HD
-http://stream-sky.cf:80/live/bianca/123/123.ts
-#EXTINF:-1 ,Futura SD
-http://stream-sky.cf:80/live/bianca/123/122.ts
-#EXTINF:-1 ,Record SP FHD
-http://stream-sky.cf:80/live/bianca/123/251.ts
-#EXTINF:-1 ,Record TV Vitoria SD
-http://stream-sky.cf:80/live/bianca/123/245.ts
-#EXTINF:-1 ,Rede Vida HD
-http://stream-sky.cf:80/live/bianca/123/259.ts
-#EXTINF:-1 ,RedeTV! HD
-http://stream-sky.cf:80/live/bianca/123/257.ts
-#EXTINF:-1 ,RedeTV! SD
-http://stream-sky.cf:80/live/bianca/123/256.ts
-#EXTINF:-1 ,SBT Goias HD
-http://stream-sky.cf:80/live/bianca/123/13415.ts
-#EXTINF:-1 ,SBT Nordeste HD
-http://stream-sky.cf:80/live/bianca/123/263.ts
-#EXTINF:-1 ,SBT RJ HD
-http://stream-sky.cf:80/live/bianca/123/66349.ts
-#EXTINF:-1 ,SBT SP FHD
-http://stream-sky.cf:80/live/bianca/123/50780.ts
-#EXTINF:-1 ,SBT SP HD
-http://stream-sky.cf:80/live/bianca/123/262.ts
-#EXTINF:-1 ,SBT SP SD
-http://stream-sky.cf:80/live/bianca/123/261.ts
-#EXTINF:-1 ,SBT TV Cidade Verde Piaui HD
-http://stream-sky.cf:80/live/bianca/123/715076.ts
-#EXTINF:-1 ,SBT TV Jornal Pernambuco SD
-http://stream-sky.cf:80/live/bianca/123/715075.ts
-#EXTINF:-1 ,TV Gazeta HD
-http://stream-sky.cf:80/live/bianca/123/321.ts
-#EXTINF:-1 ,Animal Planet SD
-http://stream-sky.cf:80/live/bianca/123/8.ts
-#EXTINF:-1 ,Arte 1 FHD
-http://stream-sky.cf:80/live/bianca/123/714885.ts
-#EXTINF:-1 ,Arte 1 HD
-http://stream-sky.cf:80/live/bianca/123/11.ts
-#EXTINF:-1 ,Arte 1 SD
-http://stream-sky.cf:80/live/bianca/123/10.ts
-#EXTINF:-1 ,Curta! HD
-http://stream-sky.cf:80/live/bianca/123/55.ts
-#EXTINF:-1 ,Curta! SD
-http://stream-sky.cf:80/live/bianca/123/54.ts
-#EXTINF:-1 ,Discovery Channel FHD
-http://stream-sky.cf:80/live/bianca/123/66368.ts
-#EXTINF:-1 ,Discovery Science FHD
-http://stream-sky.cf:80/live/bianca/123/50769.ts
-#EXTINF:-1 ,Discovery Science HD
-http://stream-sky.cf:80/live/bianca/123/65.ts
-#EXTINF:-1 ,Discovery Science SD
-http://stream-sky.cf:80/live/bianca/123/64.ts
-#EXTINF:-1 ,Discovery Theater FHD
-http://stream-sky.cf:80/live/bianca/123/714887.ts
-#EXTINF:-1 ,Discovery Theater HD
-http://stream-sky.cf:80/live/bianca/123/67.ts
-#EXTINF:-1 ,Discovery Theater SD
-http://stream-sky.cf:80/live/bianca/123/66.ts
-#EXTINF:-1 ,Discovery World FHD
-http://stream-sky.cf:80/live/bianca/123/714888.ts
-#EXTINF:-1 ,Discovery World HD
-http://stream-sky.cf:80/live/bianca/123/71.ts
-#EXTINF:-1 ,Discovery World SD
-http://stream-sky.cf:80/live/bianca/123/70.ts
-#EXTINF:-1 ,H2 FHD
-http://stream-sky.cf:80/live/bianca/123/367.ts
-#EXTINF:-1 ,H2 HD
-http://stream-sky.cf:80/live/bianca/123/169.ts
-#EXTINF:-1 ,H2 SD
-http://stream-sky.cf:80/live/bianca/123/168.ts
-#EXTINF:-1 ,HGTV FHD
-http://stream-sky.cf:80/live/bianca/123/50768.ts
-#EXTINF:-1 ,HGTV HD
-http://stream-sky.cf:80/live/bianca/123/59.ts
-#EXTINF:-1 ,HGTV SD
-http://stream-sky.cf:80/live/bianca/123/58.ts
-#EXTINF:-1 ,History Channel FHD
-http://stream-sky.cf:80/live/bianca/123/50775.ts
-#EXTINF:-1 ,History Channel HD
-http://stream-sky.cf:80/live/bianca/123/185.ts
-#EXTINF:-1 ,History Channel SD
-http://stream-sky.cf:80/live/bianca/123/184.ts
-#EXTINF:-1 ,ID Investigação Discovery FHD
-http://stream-sky.cf:80/live/bianca/123/64647.ts
-#EXTINF:-1 ,ID Investigação Discovery HD
-http://stream-sky.cf:80/live/bianca/123/188.ts
-#EXTINF:-1 ,ID Investigação Discovery SD
-http://stream-sky.cf:80/live/bianca/123/187.ts
-#EXTINF:-1 ,Nat Geo Wild SD
-http://stream-sky.cf:80/live/bianca/123/210.ts
-#EXTINF:-1 ,National Geographic SD
-http://stream-sky.cf:80/live/bianca/123/212.ts
-#EXTINF:-1 ,Band Sports FHD
-http://stream-sky.cf:80/live/bianca/123/1032878.ts
-#EXTINF:-1 ,Band Sports HD
-http://stream-sky.cf:80/live/bianca/123/28.ts
-#EXTINF:-1 ,Band Sports SD
-http://stream-sky.cf:80/live/bianca/123/27.ts
-#EXTINF:-1 ,Combate FHD
-http://stream-sky.cf:80/live/bianca/123/50.ts
-#EXTINF:-1 ,Combate HD
-http://stream-sky.cf:80/live/bianca/123/49.ts
-#EXTINF:-1 ,Combate SD
-http://stream-sky.cf:80/live/bianca/123/48.ts
-#EXTINF:-1 ,#1
-http://stream-sky.cf:80/live/bianca/123/1032873.ts
-#EXTINF:-1 ,ESPN 2 HD
-http://stream-sky.cf:80/live/bianca/123/91.ts
-#EXTINF:-1 ,ESPN 2 SD
-http://stream-sky.cf:80/live/bianca/123/90.ts
-#EXTINF:-1 ,ESPN Brasil FHD
-http://stream-sky.cf:80/live/bianca/123/66362.ts
-#EXTINF:-1 ,ESPN Brasil HD
-http://stream-sky.cf:80/live/bianca/123/88.ts
-#EXTINF:-1 ,ESPN Brasil SD
-http://stream-sky.cf:80/live/bianca/123/87.ts
-#EXTINF:-1 ,ESPN Extra HD
-http://stream-sky.cf:80/live/bianca/123/755664.ts
-#EXTINF:-1 ,ESPN Extra SD
-http://stream-sky.cf:80/live/bianca/123/755663.ts
-#EXTINF:-1 ,ESPN FHD
-http://stream-sky.cf:80/live/bianca/123/66363.ts
-#EXTINF:-1 ,ESPN HD
-http://stream-sky.cf:80/live/bianca/123/86.ts
-#EXTINF:-1 ,ESPN SD
-http://stream-sky.cf:80/live/bianca/123/85.ts
-#EXTINF:-1 ,Fish TV HD
-http://stream-sky.cf:80/live/bianca/123/102.ts
-#EXTINF:-1 ,Fish TV SD
-http://stream-sky.cf:80/live/bianca/123/101.ts
-#EXTINF:-1 ,Fox Sports 2 FHD
-http://stream-sky.cf:80/live/bianca/123/50772.ts
-#EXTINF:-1 ,Fox Sports 2 HD
-http://stream-sky.cf:80/live/bianca/123/121.ts
-#EXTINF:-1 ,Fox Sports 2 SD
-http://stream-sky.cf:80/live/bianca/123/120.ts
-#EXTINF:-1 ,Fox Sports FHD
-http://stream-sky.cf:80/live/bianca/123/119.ts
-#EXTINF:-1 ,Fox Sports HD
-http://stream-sky.cf:80/live/bianca/123/118.ts
-#EXTINF:-1 ,Fox Sports SD
-http://stream-sky.cf:80/live/bianca/123/117.ts
-#EXTINF:-1 ,Off HD
-http://stream-sky.cf:80/live/bianca/123/223.ts
-#EXTINF:-1 ,Off SD
-http://stream-sky.cf:80/live/bianca/123/222.ts
-#EXTINF:-1 ,SporTV 2 FHD
-http://stream-sky.cf:80/live/bianca/123/276.ts
-#EXTINF:-1 ,SporTV 2 HD
-http://stream-sky.cf:80/live/bianca/123/275.ts
-#EXTINF:-1 ,SporTV 3 HD
-http://stream-sky.cf:80/live/bianca/123/278.ts
-#EXTINF:-1 ,SporTV 3 SD
-http://stream-sky.cf:80/live/bianca/123/277.ts
-#EXTINF:-1 ,SporTV FHD
-http://stream-sky.cf:80/live/bianca/123/50777.ts
-#EXTINF:-1 ,SporTV HD
-http://stream-sky.cf:80/live/bianca/123/273.ts
-#EXTINF:-1 ,SporTV SD
-http://stream-sky.cf:80/live/bianca/123/272.ts
-#EXTINF:-1 ,A&E SD
-http://stream-sky.cf:80/live/bianca/123/1.ts
-#EXTINF:-1 ,AMC FHD
-http://stream-sky.cf:80/live/bianca/123/66373.ts
-#EXTINF:-1 ,AMC HD
-http://stream-sky.cf:80/live/bianca/123/5.ts
-#EXTINF:-1 ,AMC SD
-http://stream-sky.cf:80/live/bianca/123/4.ts
-#EXTINF:-1 ,AXN FHD
-http://stream-sky.cf:80/live/bianca/123/14.ts
-#EXTINF:-1 ,AXN HD
-http://stream-sky.cf:80/live/bianca/123/13.ts
-#EXTINF:-1 ,AXN SD
-http://stream-sky.cf:80/live/bianca/123/12.ts
-#EXTINF:-1 ,Canal Sony FHD
-http://stream-sky.cf:80/live/bianca/123/267.ts
-#EXTINF:-1 ,Canal Sony HD
-http://stream-sky.cf:80/live/bianca/123/266.ts
-#EXTINF:-1 ,Canal Sony SD
-http://stream-sky.cf:80/live/bianca/123/265.ts
-#EXTINF:-1 ,CINE SKY 01 HD
-http://stream-sky.cf:80/live/bianca/123/1066011.ts
-#EXTINF:-1 ,CINE SKY 02 HD
-http://stream-sky.cf:80/live/bianca/123/1066012.ts
-#EXTINF:-1 ,CINE SKY 03 HD
-http://stream-sky.cf:80/live/bianca/123/1066013.ts
-#EXTINF:-1 ,CINE SKY 04 HD
-http://stream-sky.cf:80/live/bianca/123/1066014.ts
-#EXTINF:-1 ,CINE SKY 05 HD
-http://stream-sky.cf:80/live/bianca/123/1066015.ts
-#EXTINF:-1 ,CINE SKY 06 HD
-http://stream-sky.cf:80/live/bianca/123/1066016.ts
-#EXTINF:-1 ,CINE SKY 07 HD
-http://stream-sky.cf:80/live/bianca/123/1066017.ts
-#EXTINF:-1 ,CINE SKY 08 HD
-http://stream-sky.cf:80/live/bianca/123/1066018.ts
-#EXTINF:-1 ,CINE SKY 09 HD
-http://stream-sky.cf:80/live/bianca/123/1066019.ts
-#EXTINF:-1 ,CINE SKY 10 HD
-http://stream-sky.cf:80/live/bianca/123/1066020.ts
-#EXTINF:-1 ,Cinemax HD
-http://stream-sky.cf:80/live/bianca/123/44.ts
-#EXTINF:-1 ,Comedy Central FHD
-http://stream-sky.cf:80/live/bianca/123/714884.ts
-#EXTINF:-1 ,Comedy Central HD
-http://stream-sky.cf:80/live/bianca/123/52.ts
-#EXTINF:-1 ,Fox FHD
-http://stream-sky.cf:80/live/bianca/123/50771.ts
-#EXTINF:-1 ,Fox HD
-http://stream-sky.cf:80/live/bianca/123/107.ts
-#EXTINF:-1 ,Fox Life FHD
-http://stream-sky.cf:80/live/bianca/123/1032880.ts
-#EXTINF:-1 ,Fox Life HD
-http://stream-sky.cf:80/live/bianca/123/109.ts
-#EXTINF:-1 ,Fox Life SD
-http://stream-sky.cf:80/live/bianca/123/108.ts
-#EXTINF:-1 ,Fox Premium 1 FHD
-http://stream-sky.cf:80/live/bianca/123/359.ts
-#EXTINF:-1 ,Fox Premium 1 HD
-http://stream-sky.cf:80/live/bianca/123/112.ts
-#EXTINF:-1 ,Fox Premium 1 SD
-http://stream-sky.cf:80/live/bianca/123/111.ts
-#EXTINF:-1 ,Fox Premium 2 FHD
-http://stream-sky.cf:80/live/bianca/123/360.ts
-#EXTINF:-1 ,Fox Premium 2 HD
-http://stream-sky.cf:80/live/bianca/123/115.ts
-#EXTINF:-1 ,Fox Premium 2 SD
-http://stream-sky.cf:80/live/bianca/123/114.ts
-#EXTINF:-1 ,Fox SD
-http://stream-sky.cf:80/live/bianca/123/106.ts
-#EXTINF:-1 ,FX FHD
-http://stream-sky.cf:80/live/bianca/123/100.ts
-#EXTINF:-1 ,FX HD
-http://stream-sky.cf:80/live/bianca/123/99.ts
-#EXTINF:-1 ,FX SD
-http://stream-sky.cf:80/live/bianca/123/98.ts
-#EXTINF:-1 ,Megapix FHD
-http://stream-sky.cf:80/live/bianca/123/50779.ts
-#EXTINF:-1 ,Megapix HD
-http://stream-sky.cf:80/live/bianca/123/202.ts
-#EXTINF:-1 ,Megapix SD
-http://stream-sky.cf:80/live/bianca/123/201.ts
-#EXTINF:-1 ,Paramount Channel FHD
-http://stream-sky.cf:80/live/bianca/123/66352.ts
-#EXTINF:-1 ,Paramount Channel HD
-http://stream-sky.cf:80/live/bianca/123/226.ts
-#EXTINF:-1 ,Paramount Channel SD
-http://stream-sky.cf:80/live/bianca/123/225.ts
-#EXTINF:-1 ,Space FHD
-http://stream-sky.cf:80/live/bianca/123/270.ts
-#EXTINF:-1 ,Space HD
-http://stream-sky.cf:80/live/bianca/123/269.ts
-#EXTINF:-1 ,Space SD
-http://stream-sky.cf:80/live/bianca/123/268.ts
-#EXTINF:-1 ,TBS SD
-http://stream-sky.cf:80/live/bianca/123/286.ts
-#EXTINF:-1 ,TCM SD
-http://stream-sky.cf:80/live/bianca/123/288.ts
-#EXTINF:-1 ,TNT FHD
-http://stream-sky.cf:80/live/bianca/123/50774.ts
-#EXTINF:-1 ,TNT HD
-http://stream-sky.cf:80/live/bianca/123/292.ts
-#EXTINF:-1 ,TNT SD
-http://stream-sky.cf:80/live/bianca/123/291.ts
-#EXTINF:-1 ,TNT Séries FHD
-http://stream-sky.cf:80/live/bianca/123/50773.ts
-#EXTINF:-1 ,TNT Séries HD
-http://stream-sky.cf:80/live/bianca/123/294.ts
-#EXTINF:-1 ,TNT Séries SD
-http://stream-sky.cf:80/live/bianca/123/293.ts
-#EXTINF:-1 ,Universal Channel FHD
-http://stream-sky.cf:80/live/bianca/123/66345.ts
-#EXTINF:-1 ,Warner Channel FHD
-http://stream-sky.cf:80/live/bianca/123/64643.ts
-#EXTINF:-1 ,Warner Channel HD
-http://stream-sky.cf:80/live/bianca/123/332.ts
-#EXTINF:-1 ,Warner Channel SD
-http://stream-sky.cf:80/live/bianca/123/331.ts
-#EXTINF:-1 ,Globo Anhanguera Goiania SD
-http://stream-sky.cf:80/live/bianca/123/127.ts
-#EXTINF:-1 ,Globo TV Caruaru (Asa Branca) HD
-http://stream-sky.cf:80/live/bianca/123/147.ts
-#EXTINF:-1 ,Globo Brasilia SD
-http://stream-sky.cf:80/live/bianca/123/129.ts
-#EXTINF:-1 ,Globo Centro América Cuiaba SD
-http://stream-sky.cf:80/live/bianca/123/130.ts
-#EXTINF:-1 ,Globo EPTV Araraquara SD
-http://stream-sky.cf:80/live/bianca/123/1036446.ts
-#EXTINF:-1 ,Globo EPTV Campinas HD
-http://stream-sky.cf:80/live/bianca/123/132.ts
-#EXTINF:-1 ,Globo EPTV Campinas SD
-http://stream-sky.cf:80/live/bianca/123/131.ts
-#EXTINF:-1 ,Globo EPTV Ribeirao Preto SD
-http://stream-sky.cf:80/live/bianca/123/134.ts
-#EXTINF:-1 ,Globo EPTV Sao Carlos SD
-http://stream-sky.cf:80/live/bianca/123/135.ts
-#EXTINF:-1 ,Globo INTER TV Cabugi RN SD
-http://stream-sky.cf:80/live/bianca/123/715073.ts
-#EXTINF:-1 ,Globo Internacional SD
-http://stream-sky.cf:80/live/bianca/123/160.ts
-#EXTINF:-1 ,Globo InterTV Alto Litoral HD
-http://stream-sky.cf:80/live/bianca/123/1036430.ts
-#EXTINF:-1 ,Globo InterTV Serra Mar HD
-http://stream-sky.cf:80/live/bianca/123/1032884.ts
-#EXTINF:-1 ,Globo Minas HD
-http://stream-sky.cf:80/live/bianca/123/137.ts
-#EXTINF:-1 ,Globo Minas SD
-http://stream-sky.cf:80/live/bianca/123/136.ts
-#EXTINF:-1 ,Globo Nordeste HD
-http://stream-sky.cf:80/live/bianca/123/140.ts
-#EXTINF:-1 ,Globo Nordeste SD
-http://stream-sky.cf:80/live/bianca/123/139.ts
-#EXTINF:-1 ,Globo RBS Porto Alegre HD
-http://stream-sky.cf:80/live/bianca/123/146.ts
-#EXTINF:-1 ,Globo RBS Porto Alegre SD
-http://stream-sky.cf:80/live/bianca/123/138.ts
-#EXTINF:-1 ,Globo RBS TV Pelotas HD
-http://stream-sky.cf:80/live/bianca/123/1032888.ts
-#EXTINF:-1 ,Globo Rede Amazonica SD
-http://stream-sky.cf:80/live/bianca/123/1036445.ts
-#EXTINF:-1 ,Globo RJ HD
-http://stream-sky.cf:80/live/bianca/123/143.ts
-#EXTINF:-1 ,Globo RJ SD
-http://stream-sky.cf:80/live/bianca/123/142.ts
-#EXTINF:-1 ,Globo RPC Curitiba HD
-http://stream-sky.cf:80/live/bianca/123/715081.ts
-#EXTINF:-1 ,Globo RPC Maringa SD
-http://stream-sky.cf:80/live/bianca/123/1038313.ts
-#EXTINF:-1 ,Globo RPC Paranavaí SD
-http://stream-sky.cf:80/live/bianca/123/1032893.ts
-#EXTINF:-1 ,Globo TV Sergipe HD
-http://stream-sky.cf:80/live/bianca/123/714891.ts
-#EXTINF:-1 ,Globo SP HD
-http://stream-sky.cf:80/live/bianca/123/149.ts
-#EXTINF:-1 ,Globo SP SD
-http://stream-sky.cf:80/live/bianca/123/148.ts
-#EXTINF:-1 ,Globo TV Bahia FHD
-http://stream-sky.cf:80/live/bianca/123/1036432.ts
-#EXTINF:-1 ,Globo TV Bahia HD
-http://stream-sky.cf:80/live/bianca/123/1036431.ts
-#EXTINF:-1 ,Globo TV Bahia SD
-http://stream-sky.cf:80/live/bianca/123/128.ts
-#EXTINF:-1 ,Globo TV Cabo Branco HD
-http://stream-sky.cf:80/live/bianca/123/1066010.ts
-#EXTINF:-1 ,Globo TV Cabo Branco SD
-http://stream-sky.cf:80/live/bianca/123/1066009.ts
-#EXTINF:-1 ,Globo TV Gazeta Sul ES HD
-http://stream-sky.cf:80/live/bianca/123/1036428.ts
-#EXTINF:-1 ,Globo TV Gazeta Vitória HD
-http://stream-sky.cf:80/live/bianca/123/1038365.ts
-#EXTINF:-1 ,Globo TV Itapetininga SD
-http://stream-sky.cf:80/live/bianca/123/1032883.ts
-#EXTINF:-1 ,Globo TV Liberal Belem SD
-http://stream-sky.cf:80/live/bianca/123/151.ts
-#EXTINF:-1 ,Globo TV Mirante SD
-http://stream-sky.cf:80/live/bianca/123/1032882.ts
-#EXTINF:-1 ,Globo TV Morena SD
-http://stream-sky.cf:80/live/bianca/123/126.ts
-#EXTINF:-1 ,Globo TV Tem Bauru SD
-http://stream-sky.cf:80/live/bianca/123/153.ts
-#EXTINF:-1 ,Globo TV Tem Rio Preto SD
-http://stream-sky.cf:80/live/bianca/123/716149.ts
-#EXTINF:-1 ,Globo TV Tem Sorocaba SD
-http://stream-sky.cf:80/live/bianca/123/154.ts
-#EXTINF:-1 ,Globo TV Tribuna Santos SD
-http://stream-sky.cf:80/live/bianca/123/155.ts
-#EXTINF:-1 ,Globo TV Vanguarda Sâo José Dos Campos SD
-http://stream-sky.cf:80/live/bianca/123/156.ts
-#EXTINF:-1 ,Globo TV Verdes Mares Fortaleza SD
-http://stream-sky.cf:80/live/bianca/123/157.ts
-#EXTINF:-1 ,Lifetime FHD
-http://stream-sky.cf:80/live/bianca/123/1032887.ts
-#EXTINF:-1 ,Mais Globosat FHD
-http://stream-sky.cf:80/live/bianca/123/1032885.ts
-#EXTINF:-1 ,Rede Vida SD
-http://stream-sky.cf:80/live/bianca/123/258.ts
-#EXTINF:-1 ,Globo TV Nacional HD
-http://stream-sky.cf:80/live/bianca/123/1067627.ts
-#EXTINF:-1 ,Globo Petrolina HD
-http://stream-sky.cf:80/live/bianca/123/1067626.ts
-#EXTINF:-1 ,Canal Brasil SD
-http://stream-sky.cf:80/live/bianca/123/32.ts
-#EXTINF:-1 ,Studio Universal FHD
-http://stream-sky.cf:80/live/bianca/123/281.ts
-#EXTINF:-1 ,Studio Universal HD
-http://stream-sky.cf:80/live/bianca/123/280.ts
-#EXTINF:-1 ,Studio Universal SD
-http://stream-sky.cf:80/live/bianca/123/279.ts
-#EXTINF:-1 ,SyFy FHD
-http://stream-sky.cf:80/live/bianca/123/66348.ts
-#EXTINF:-1 ,SyFy HD
-http://stream-sky.cf:80/live/bianca/123/283.ts
-#EXTINF:-1 ,SyFy SD
-http://stream-sky.cf:80/live/bianca/123/282.ts
-#EXTINF:-1 ,Telecine Action FHD
-http://stream-sky.cf:80/live/bianca/123/297.ts
-#EXTINF:-1 ,Telecine Action HD
-http://stream-sky.cf:80/live/bianca/123/296.ts
-#EXTINF:-1 ,Telecine Action SD
-http://stream-sky.cf:80/live/bianca/123/295.ts
-#EXTINF:-1 ,Telecine Cult FHD
-http://stream-sky.cf:80/live/bianca/123/300.ts
-#EXTINF:-1 ,Telecine Cult HD
-http://stream-sky.cf:80/live/bianca/123/299.ts
-#EXTINF:-1 ,Telecine Cult SD
-http://stream-sky.cf:80/live/bianca/123/298.ts
-#EXTINF:-1 ,Telecine Fun FHD
-http://stream-sky.cf:80/live/bianca/123/303.ts
-#EXTINF:-1 ,Telecine Fun HD
-http://stream-sky.cf:80/live/bianca/123/302.ts
-#EXTINF:-1 ,Telecine Fun SD
-http://stream-sky.cf:80/live/bianca/123/301.ts
-#EXTINF:-1 ,Telecine Pipoca FHD
-http://stream-sky.cf:80/live/bianca/123/306.ts
-#EXTINF:-1 ,Telecine Pipoca HD
-http://stream-sky.cf:80/live/bianca/123/305.ts
-#EXTINF:-1 ,Telecine Pipoca SD
-http://stream-sky.cf:80/live/bianca/123/304.ts
-#EXTINF:-1 ,Telecine Premium FHD
-http://stream-sky.cf:80/live/bianca/123/66347.ts
-#EXTINF:-1 ,Telecine Premium HD
-http://stream-sky.cf:80/live/bianca/123/308.ts
-#EXTINF:-1 ,Telecine Premium SD
-http://stream-sky.cf:80/live/bianca/123/307.ts
-#EXTINF:-1 ,Telecine Touch FHD
-http://stream-sky.cf:80/live/bianca/123/311.ts
-#EXTINF:-1 ,Telecine Touch HD
-http://stream-sky.cf:80/live/bianca/123/310.ts
-#EXTINF:-1 ,Telecine Touch SD
-http://stream-sky.cf:80/live/bianca/123/309.ts
-#EXTINF:-1 ,Universal Channel HD
-http://stream-sky.cf:80/live/bianca/123/326.ts
-#EXTINF:-1 ,Universal Channel SD
-http://stream-sky.cf:80/live/bianca/123/325.ts
-#EXTINF:-1 ,BabyTV HD
-http://stream-sky.cf:80/live/bianca/123/18.ts
-#EXTINF:-1 ,BabyTV SD
-http://stream-sky.cf:80/live/bianca/123/17.ts
-#EXTINF:-1 ,Boomerang FHD
-http://stream-sky.cf:80/live/bianca/123/66370.ts
-#EXTINF:-1 ,Boomerang HD
-http://stream-sky.cf:80/live/bianca/123/30.ts
-#EXTINF:-1 ,Boomerang SD
-http://stream-sky.cf:80/live/bianca/123/29.ts
-#EXTINF:-1 ,Cartoon Network FHD
-http://stream-sky.cf:80/live/bianca/123/39.ts
-#EXTINF:-1 ,Cartoon Network HD
-http://stream-sky.cf:80/live/bianca/123/38.ts
-#EXTINF:-1 ,Cartoon Network SD
-http://stream-sky.cf:80/live/bianca/123/37.ts
-#EXTINF:-1 ,Discovery Kids FHD
-http://stream-sky.cf:80/live/bianca/123/66366.ts
-#EXTINF:-1 ,Discovery Kids HD
-http://stream-sky.cf:80/live/bianca/123/63.ts
-#EXTINF:-1 ,Discovery Kids SD
-http://stream-sky.cf:80/live/bianca/123/62.ts
-#EXTINF:-1 ,Disney Channel FHD
-http://stream-sky.cf:80/live/bianca/123/714889.ts
-#EXTINF:-1 ,Disney Channel HD
-http://stream-sky.cf:80/live/bianca/123/73.ts
-#EXTINF:-1 ,Disney Channel SD
-http://stream-sky.cf:80/live/bianca/123/72.ts
-#EXTINF:-1 ,Disney Junior FHD
-http://stream-sky.cf:80/live/bianca/123/66364.ts
-#EXTINF:-1 ,Disney Junior SD
-http://stream-sky.cf:80/live/bianca/123/74.ts
-#EXTINF:-1 ,Disney XD FHD
-http://stream-sky.cf:80/live/bianca/123/714890.ts
-#EXTINF:-1 ,Disney XD HD
-http://stream-sky.cf:80/live/bianca/123/78.ts
-#EXTINF:-1 ,Disney XD SD
-http://stream-sky.cf:80/live/bianca/123/77.ts
-#EXTINF:-1 ,Gloob FHD
-http://stream-sky.cf:80/live/bianca/123/366.ts
-#EXTINF:-1 ,Gloob HD
-http://stream-sky.cf:80/live/bianca/123/167.ts
-#EXTINF:-1 ,Gloobinho SD
-http://stream-sky.cf:80/live/bianca/123/1032896.ts
-#EXTINF:-1 ,Nat Geo Kids FHD
-http://stream-sky.cf:80/live/bianca/123/209.ts
-#EXTINF:-1 ,Nat Geo Kids HD
-http://stream-sky.cf:80/live/bianca/123/208.ts
-#EXTINF:-1 ,Nick Jr FHD
-http://stream-sky.cf:80/live/bianca/123/66354.ts
-#EXTINF:-1 ,Nick Jr HD
-http://stream-sky.cf:80/live/bianca/123/216.ts
-#EXTINF:-1 ,Nick Jr SD
-http://stream-sky.cf:80/live/bianca/123/215.ts
-#EXTINF:-1 ,Nickelodeon FHD
-http://stream-sky.cf:80/live/bianca/123/755755.ts
-#EXTINF:-1 ,Nickelodeon HD
-http://stream-sky.cf:80/live/bianca/123/219.ts
-#EXTINF:-1 ,Tooncast HD
-http://stream-sky.cf:80/live/bianca/123/313.ts
-#EXTINF:-1 ,Tooncast SD
-http://stream-sky.cf:80/live/bianca/123/312.ts
-#EXTINF:-1 ,TV Playkids
-http://stream-sky.cf:80/live/bianca/123/755754.ts
-#EXTINF:-1 ,TV Ra Tim Bum SD
-http://stream-sky.cf:80/live/bianca/123/755752.ts
-#EXTINF:-1 ,Zoomoo HD
-http://stream-sky.cf:80/live/bianca/123/336.ts
-#EXTINF:-1 ,Zoomoo SD
-http://stream-sky.cf:80/live/bianca/123/335.ts
-#EXTINF:-1 ,Bis HD
-http://stream-sky.cf:80/live/bianca/123/16.ts
-#EXTINF:-1 ,Bis SD
-http://stream-sky.cf:80/live/bianca/123/15.ts
-#EXTINF:-1 ,MTV FHD
-http://stream-sky.cf:80/live/bianca/123/714893.ts
-#EXTINF:-1 ,MTV HD
-http://stream-sky.cf:80/live/bianca/123/192.ts
-#EXTINF:-1 ,MTV Live FHD
-http://stream-sky.cf:80/live/bianca/123/369.ts
-#EXTINF:-1 ,MTV Live HD
-http://stream-sky.cf:80/live/bianca/123/368.ts
-#EXTINF:-1 ,MTV SD
-http://stream-sky.cf:80/live/bianca/123/191.ts
-#EXTINF:-1 ,Multishow FHD
-http://stream-sky.cf:80/live/bianca/123/205.ts
-#EXTINF:-1 ,Multishow HD
-http://stream-sky.cf:80/live/bianca/123/204.ts
-#EXTINF:-1 ,Multishow SD
-http://stream-sky.cf:80/live/bianca/123/203.ts
-#EXTINF:-1 ,Music Box Brazil SD
-http://stream-sky.cf:80/live/bianca/123/206.ts
-#EXTINF:-1 ,Prime Box Brazil SD
-http://stream-sky.cf:80/live/bianca/123/755753.ts
-#EXTINF:-1 ,Top TV SD
-http://stream-sky.cf:80/live/bianca/123/1038367.ts
-#EXTINF:-1 ,VH1 HD
-http://stream-sky.cf:80/live/bianca/123/328.ts
-#EXTINF:-1 ,VH1 SD
-http://stream-sky.cf:80/live/bianca/123/327.ts
-#EXTINF:-1 ,Band News FHD
-http://stream-sky.cf:80/live/bianca/123/714886.ts
-#EXTINF:-1 ,Band News HD
-http://stream-sky.cf:80/live/bianca/123/26.ts
-#EXTINF:-1 ,Band News SD
-http://stream-sky.cf:80/live/bianca/123/25.ts
-#EXTINF:-1 ,CNN Brasil HD
-http://stream-sky.cf:80/live/bianca/123/1036267.ts
-#EXTINF:-1 ,CNN Brasil SD
-http://stream-sky.cf:80/live/bianca/123/1036266.ts
-#EXTINF:-1 ,Globo News FHD
-http://stream-sky.cf:80/live/bianca/123/714892.ts
-#EXTINF:-1 ,Globo News HD
-http://stream-sky.cf:80/live/bianca/123/159.ts
-#EXTINF:-1 ,Globo News SD
-http://stream-sky.cf:80/live/bianca/123/158.ts
-#EXTINF:-1 ,Record News FHD
-http://stream-sky.cf:80/live/bianca/123/66351.ts
-#EXTINF:-1 ,Record News HD
-http://stream-sky.cf:80/live/bianca/123/254.ts
-#EXTINF:-1 ,Record News SD
-http://stream-sky.cf:80/live/bianca/123/253.ts
-#EXTINF:-1 ,Premiere 1 SD
-http://stream-sky.cf:80/live/bianca/123/229.ts
-#EXTINF:-1 ,Premiere 2 HD
-http://stream-sky.cf:80/live/bianca/123/231.ts
-#EXTINF:-1 ,Premiere 3 HD
-http://stream-sky.cf:80/live/bianca/123/233.ts
-#EXTINF:-1 ,Premiere 3 SD
-http://stream-sky.cf:80/live/bianca/123/232.ts
-#EXTINF:-1 ,Premiere 4 HD
-http://stream-sky.cf:80/live/bianca/123/236.ts
-#EXTINF:-1 ,Premiere 4 SD
-http://stream-sky.cf:80/live/bianca/123/235.ts
-#EXTINF:-1 ,Premiere 5 HD
-http://stream-sky.cf:80/live/bianca/123/238.ts
-#EXTINF:-1 ,Premiere 5 SD
-http://stream-sky.cf:80/live/bianca/123/237.ts
-#EXTINF:-1 ,Premiere 6 HD
-http://stream-sky.cf:80/live/bianca/123/64653.ts
-#EXTINF:-1 ,Premiere 6 SD
-http://stream-sky.cf:80/live/bianca/123/239.ts
-#EXTINF:-1 ,Premiere 7 SD
-http://stream-sky.cf:80/live/bianca/123/240.ts
-#EXTINF:-1 ,Premiere 8 SD
-http://stream-sky.cf:80/live/bianca/123/241.ts
-#EXTINF:-1 ,Premiere Clubes FHD
-http://stream-sky.cf:80/live/bianca/123/50778.ts
-#EXTINF:-1 ,Premiere Clubes HD
-http://stream-sky.cf:80/live/bianca/123/244.ts
-#EXTINF:-1 ,Premiere Clubes SD
-http://stream-sky.cf:80/live/bianca/123/243.ts
-#EXTINF:-1 ,Record Brasília SD
-http://stream-sky.cf:80/live/bianca/123/715078.ts
-#EXTINF:-1 ,Record Campinas HD
-http://stream-sky.cf:80/live/bianca/123/247.ts
-#EXTINF:-1 ,Record Campinas SD
-http://stream-sky.cf:80/live/bianca/123/246.ts
-#EXTINF:-1 ,Record Esp. Santo SD
-http://stream-sky.cf:80/live/bianca/123/248.ts
-#EXTINF:-1 ,Record MG SD
-http://stream-sky.cf:80/live/bianca/123/715079.ts
-#EXTINF:-1 ,Record RJ HD
-http://stream-sky.cf:80/live/bianca/123/715077.ts
-#EXTINF:-1 ,Record RS HD
-http://stream-sky.cf:80/live/bianca/123/1032892.ts
-#EXTINF:-1 ,Record SP HD
-http://stream-sky.cf:80/live/bianca/123/250.ts
-#EXTINF:-1 ,Record SP SD
-http://stream-sky.cf:80/live/bianca/123/249.ts
-#EXTINF:-1 ,Rede Familia SD
-http://stream-sky.cf:80/live/bianca/123/13416.ts
-#EXTINF:-1 ,HBO 2 FHD
-http://stream-sky.cf:80/live/bianca/123/175.ts
-#EXTINF:-1 ,HBO 2 HD
-http://stream-sky.cf:80/live/bianca/123/174.ts
-#EXTINF:-1 ,HBO 2 SD
-http://stream-sky.cf:80/live/bianca/123/173.ts
-#EXTINF:-1 ,Hbo Family FHD
-http://stream-sky.cf:80/live/bianca/123/1032886.ts
-#EXTINF:-1 ,HBO Family HD
-http://stream-sky.cf:80/live/bianca/123/177.ts
-#EXTINF:-1 ,HBO Family SD
-http://stream-sky.cf:80/live/bianca/123/176.ts
-#EXTINF:-1 ,HBO HD
-http://stream-sky.cf:80/live/bianca/123/171.ts
-#EXTINF:-1 ,HBO Mundi HD
-http://stream-sky.cf:80/live/bianca/123/194.ts
-#EXTINF:-1 ,HBO Mundi SD
-http://stream-sky.cf:80/live/bianca/123/193.ts
-#EXTINF:-1 ,HBO Plus FHD
-http://stream-sky.cf:80/live/bianca/123/64646.ts
-#EXTINF:-1 ,HBO Plus HD
-http://stream-sky.cf:80/live/bianca/123/179.ts
-#EXTINF:-1 ,HBO Plus SD
-http://stream-sky.cf:80/live/bianca/123/178.ts
-#EXTINF:-1 ,HBO Plus*e HD
-http://stream-sky.cf:80/live/bianca/123/181.ts
-#EXTINF:-1 ,HBO Plus*e SD
-http://stream-sky.cf:80/live/bianca/123/180.ts
-#EXTINF:-1 ,HBO Pop HD
-http://stream-sky.cf:80/live/bianca/123/200.ts
-#EXTINF:-1 ,HBO Pop SD
-http://stream-sky.cf:80/live/bianca/123/199.ts
-#EXTINF:-1 ,HBO SD
-http://stream-sky.cf:80/live/bianca/123/170.ts
-#EXTINF:-1 ,HBO Signature FHD
-http://stream-sky.cf:80/live/bianca/123/64645.ts
-#EXTINF:-1 ,HBO Signature HD
-http://stream-sky.cf:80/live/bianca/123/183.ts
-#EXTINF:-1 ,HBO Signature SD
-http://stream-sky.cf:80/live/bianca/123/182.ts
-#EXTINF:-1 ,HBO Xtreme FHD
-http://stream-sky.cf:80/live/bianca/123/66356.ts
-#EXTINF:-1 ,HBO Xtreme HD
-http://stream-sky.cf:80/live/bianca/123/196.ts
-#EXTINF:-1 ,HBO Xtreme SD
-http://stream-sky.cf:80/live/bianca/123/195.ts
-#EXTINF:-1 ,Canção Nova HD
-http://stream-sky.cf:80/live/bianca/123/1036447.ts
-#EXTINF:-1 ,Novo Tempo SD
-http://stream-sky.cf:80/live/bianca/123/221.ts
-#EXTINF:-1 ,Rede Gospel SD
-http://stream-sky.cf:80/live/bianca/123/717116.ts
-#EXTINF:-1 ,RIT TV SD
-http://stream-sky.cf:80/live/bianca/123/717114.ts
-#EXTINF:-1 ,TV Aparecida SD
-http://stream-sky.cf:80/live/bianca/123/717115.ts
-#EXTINF:-1 ,TV Século 21
-http://stream-sky.cf:80/live/bianca/123/755662.ts
-#EXTINF:-1 ,Canal do Boi SD
-http://stream-sky.cf:80/live/bianca/123/1038287.ts
-#EXTINF:-1 ,Canal Rural SD
-http://stream-sky.cf:80/live/bianca/123/1038286.ts
-#EXTINF:-1 ,Chef TV HD
-http://stream-sky.cf:80/live/bianca/123/1032891.ts
-#EXTINF:-1 ,Discovery Channel SD
-http://stream-sky.cf:80/live/bianca/123/56.ts
-#EXTINF:-1 ,Discovery H&H HD
-http://stream-sky.cf:80/live/bianca/123/61.ts
-#EXTINF:-1 ,Discovery H&H SD
-http://stream-sky.cf:80/live/bianca/123/60.ts
-#EXTINF:-1 ,Discovery TLC FHD
-http://stream-sky.cf:80/live/bianca/123/1032879.ts
-#EXTINF:-1 ,Discovery TLC HD
-http://stream-sky.cf:80/live/bianca/123/290.ts
-#EXTINF:-1 ,Discovery TLC SD
-http://stream-sky.cf:80/live/bianca/123/289.ts
-#EXTINF:-1 ,Discovery Turbo FHD
-http://stream-sky.cf:80/live/bianca/123/66365.ts
-#EXTINF:-1 ,Discovery Turbo HD
-http://stream-sky.cf:80/live/bianca/123/69.ts
-#EXTINF:-1 ,Discovery Turbo SD
-http://stream-sky.cf:80/live/bianca/123/68.ts
-#EXTINF:-1 ,E! HD
-http://stream-sky.cf:80/live/bianca/123/80.ts
-#EXTINF:-1 ,E! SD
-http://stream-sky.cf:80/live/bianca/123/79.ts
-#EXTINF:-1 ,Esporte Interativo 1
-http://stream-sky.cf:80/live/bianca/123/715087.ts
-#EXTINF:-1 ,FashionTV HD
-http://stream-sky.cf:80/live/bianca/123/1038360.ts
-#EXTINF:-1 ,Film & Arts SD
-http://stream-sky.cf:80/live/bianca/123/1038290.ts
-#EXTINF:-1 ,Food Network FHD
-http://stream-sky.cf:80/live/bianca/123/66361.ts
-#EXTINF:-1 ,Food Network HD
-http://stream-sky.cf:80/live/bianca/123/104.ts
-#EXTINF:-1 ,Food Network SD
-http://stream-sky.cf:80/live/bianca/123/103.ts
-#EXTINF:-1 ,GNT HD
-http://stream-sky.cf:80/live/bianca/123/125.ts
-#EXTINF:-1 ,GNT SD
-http://stream-sky.cf:80/live/bianca/123/124.ts
-#EXTINF:-1 ,Lifetime HD
-http://stream-sky.cf:80/live/bianca/123/190.ts
-#EXTINF:-1 ,Lifetime SD
-http://stream-sky.cf:80/live/bianca/123/189.ts
-#EXTINF:-1 ,Mais Globosat HD
-http://stream-sky.cf:80/live/bianca/123/165.ts
-#EXTINF:-1 ,Mais Globosat SD
-http://stream-sky.cf:80/live/bianca/123/164.ts
-#EXTINF:-1 ,NHK HD
-http://stream-sky.cf:80/live/bianca/123/1038359.ts
-#EXTINF:-1 ,NHK SD
-http://stream-sky.cf:80/live/bianca/123/1038358.ts
-#EXTINF:-1 ,Polishop TV SD
-http://stream-sky.cf:80/live/bianca/123/1038288.ts
-#EXTINF:-1 ,Shoptime SD
-http://stream-sky.cf:80/live/bianca/123/1038289.ts
-#EXTINF:-1 ,Travel Box Brasil HD
-http://stream-sky.cf:80/live/bianca/123/1038159.ts
-#EXTINF:-1 ,Travel Box Brasil SD
-http://stream-sky.cf:80/live/bianca/123/1018480.ts
-#EXTINF:-1 ,TruTV SD
-http://stream-sky.cf:80/live/bianca/123/1032890.ts
-#EXTINF:-1 ,Viva FHD
-http://stream-sky.cf:80/live/bianca/123/66344.ts
-#EXTINF:-1 ,Viva HD
-http://stream-sky.cf:80/live/bianca/123/330.ts
-#EXTINF:-1 ,Viva SD
-http://stream-sky.cf:80/live/bianca/123/329.ts
-#EXTINF:-1 ,Woohoo HD
-http://stream-sky.cf:80/live/bianca/123/334.ts
-#EXTINF:-1 ,Woohoo SD
-http://stream-sky.cf:80/live/bianca/123/333.ts
-#EXTINF:-1 ,TVCine Top
-http://stream-sky.cf:80/live/bianca/123/1120761.ts
-#EXTINF:-1 ,TVCine Edition
-http://stream-sky.cf:80/live/bianca/123/1120762.ts
-#EXTINF:-1 ,TVCine Emotion
-http://stream-sky.cf:80/live/bianca/123/1120763.ts
-#EXTINF:-1 ,TVCine Action
-http://stream-sky.cf:80/live/bianca/123/1120764.ts
-#EXTINF:-1 ,Cine Pipoca 1
-http://stream-sky.cf:80/live/bianca/123/1120765.ts
-#EXTINF:-1 ,Cine Pipoca 2
-http://stream-sky.cf:80/live/bianca/123/1120766.ts
-#EXTINF:-1 ,Cine Pipoca 3
-http://stream-sky.cf:80/live/bianca/123/1120767.ts
-#EXTINF:-1 ,Cine Pipoca 4
-http://stream-sky.cf:80/live/bianca/123/1120768.ts
-#EXTINF:-1 ,Cine Pipoca 5
-http://stream-sky.cf:80/live/bianca/123/1120769.ts
-#EXTINF:-1 ,Cine Pipoca 6
-http://stream-sky.cf:80/live/bianca/123/1120770.ts
-#EXTINF:-1 ,Cine Pipoca 7
-http://stream-sky.cf:80/live/bianca/123/1120771.ts
-#EXTINF:-1 ,Cine Pipoca 8
-http://stream-sky.cf:80/live/bianca/123/1120772.ts
-#EXTINF:-1 ,Cine Pipoca 9
-http://stream-sky.cf:80/live/bianca/123/1120773.ts
-#EXTINF:-1 ,Cine Pipoca 10
-http://stream-sky.cf:80/live/bianca/123/1120774.ts
-#EXTINF:-1 ,Cine Pipoca 11
-http://stream-sky.cf:80/live/bianca/123/1120775.ts
-#EXTINF:-1 ,Cine Pipoca 12
-http://stream-sky.cf:80/live/bianca/123/1120776.ts
-#EXTINF:-1 ,Cine Pipoca 13
-http://stream-sky.cf:80/live/bianca/123/1120777.ts
-#EXTINF:-1 ,Cine Pipoca 14
-http://stream-sky.cf:80/live/bianca/123/1120778.ts
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/aee.png",A&E (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/2
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/amc.png",AMC (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/5
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/annimal.png",Animal Planet (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/8
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/arte1.png",Arte 1 (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/13
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/axn.png",AXN (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/16
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://app.neoweb.tv/assets/img/tv2/baby-tv.png",Baby Tv (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/19
+#EXTINF:-1 group-title="BAND" tvg-logo="https://app.neoweb.tv/assets/img/tv2/band.png",Band (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/20
+#EXTINF:-1 group-title="NOTÍCIAS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/band-n.png",Band News (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/26
+#EXTINF:-1 group-title="BAND" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559181246508.png",BAND SP (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/449
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/band-s.png",Band Sports (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/29
+#EXTINF:-1 group-title="MÚSICA E ENTRETENIMENTO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/bis.png",BIS (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/32
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://app.neoweb.tv/assets/img/tv2/boom.png",Boomerang (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/35
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/cancao-nova.png",Canção Nova (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/41
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://app.neoweb.tv/assets/img/tv2/cn.png",Cartoon Network (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/44
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/cinemaz.png",Cinemax (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/48
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/combate.png",Combate (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/51
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/comedy.png",Comedy Central (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/54
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/cultura.png",Cultura (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/57
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/curta.png",Curta! (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/60
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/ds-channel.png",Discovery Channel (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/63
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://www.seekpng.com/png/small/240-2403856_hgtv-logo-hgtv-app.png",HGTV (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/67
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/dshh.png",Discovery Home & Health (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/70
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://app.neoweb.tv/assets/img/tv2/ds-kids.png",Discovery Kids (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/73
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/dscience.png",Discovery Science (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/76
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/ds-t.png",Discovery Theater (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/79
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/ds-turbo.png",Discovery Turbo (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/82
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/ds-w.png",Discovery World (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/85
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://app.neoweb.tv/assets/img/tv2/disney-channel.png",Disney Channel (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/88
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://app.neoweb.tv/assets/img/tv2/disney-jr.png",Disney JR (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/91
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://app.neoweb.tv/assets/img/tv2/ds-xd.png",Disney XD (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/93
+#EXTINF:-1 group-title="MÚSICA E ENTRETENIMENTO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559180449282.png",E! (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/96
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/espn.png",ESPN (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/98
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/155632079127.png",ESPN 2 (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/103
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/espn-b.png",ESPN Brasil (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/106
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/espn-2bcw97.png",ESPN Extra (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/109
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/fish.png",FISH TV (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/116
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/food.png",Food Network (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/119
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/fox.png",Fox (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/122
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/fox-life.png",Fox Life (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/125
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/foxp-1.png",Fox Premium 1 (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/128
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/foxp-2.png",Fox Premium 2 (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/131
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/fox-sport.png",Fox Sports (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/134
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/fox-sport2.png",Fox Sports 2 (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/138
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/futura.png",Futura (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/142
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/fx.png",FX (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/144
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",Globo Brasília (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/153
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",Globo Campinas (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/156
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO CURITIBA (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/159
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO GOIANIA (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/857
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",Globo Minas (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/163
+#EXTINF:-1 group-title="NOTÍCIAS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-news.png",Globo News (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/166
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",Globo NSC Florianopolis (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/843
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",Globo Porto Alegre (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/177
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",Globo Ribeirão Preto (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/181
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",Globo RJ (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/184
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",Globo SP (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/193
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO TV MIRANTE (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/844
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://app.neoweb.tv/assets/img/tv2/gllob.png",Gloob (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/209
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/gnt.png",GNT (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/212
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/h2.png",H2 (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/215
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/hbo.png",HBO (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/218
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/hbo2.png",HBO 2 (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/221
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/hbo-family.png",HBO Family (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/224
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://i.vimeocdn.com/video/702614668_1280x720.jpg",HBO + (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/227
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/hbo-signature.png",HBO Signature (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/232
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/id.png",ID - Investigacao Discovery (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/235
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/lifetime.png",Lifetime (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/238
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globosat.png",Mais Globosat (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/241
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/max.png",Max (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/244
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/max-prime.png",Max Prime (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/246
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/max-up.png",Max UP (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/250
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/megapix.png",Megapix (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/253
+#EXTINF:-1 group-title="MÚSICA E ENTRETENIMENTO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/mtv.png",MTV (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/257
+#EXTINF:-1 group-title="MÚSICA E ENTRETENIMENTO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/multishow.png",Multishow (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/260
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://app.neoweb.tv/assets/img/tv2/nategeokids.png",NatGeo Kids (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/266
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/nat.png",Natgeo Wild (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/269
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/national.png",National Geographic (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/272
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://app.neoweb.tv/assets/img/tv2/kist.png",Nick Jr. (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/276
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://app.neoweb.tv/assets/img/tv2/nike.png",Nickelodeon (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/448
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/off.png",Off (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/280
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/paramount.png",Paramount (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/283
+#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://app.neoweb.tv/assets/img/tv2/premi2.png",Premiere 2 (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/289
+#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://app.neoweb.tv/assets/img/tv2/premi3.png",Premiere 3 (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/292
+#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://app.neoweb.tv/assets/img/tv2/premi4.png",Premiere 4 (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/295
+#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://app.neoweb.tv/assets/img/tv2/premi5.png",Premiere 5 (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/298
+#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://app.neoweb.tv/assets/img/tv2/premi6.png",Premiere 6 (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/301
+#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://app.neoweb.tv/assets/img/tv2/premi7.png",Premiere 7 (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/304
+#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://app.neoweb.tv/assets/img/tv2/premiere.png",Premiere Clubes (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/307
+#EXTINF:-1 group-title="MÚSICA E ENTRETENIMENTO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/primebox.png",Prime Box Brazil (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/311
+#EXTINF:-1 group-title="RECORD" tvg-logo="https://app.neoweb.tv/assets/img/tv2/record.png",Record (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/313
+#EXTINF:-1 group-title="RECORD" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559192354236.png",RECORD BRASILIA (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/871
+#EXTINF:-1 group-title="RECORD" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559192541259.png",Record Goiânia (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/321
+#EXTINF:-1 group-title="RECORD" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559192354236.png",Record MG (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/326
+#EXTINF:-1 group-title="NOTÍCIAS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/record-n.png",Record News (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/329
+#EXTINF:-1 group-title="RECORD" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559192354236.png",RECORD PARANA (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/873
+#EXTINF:-1 group-title="RECORD" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559192424310.png",Record RJ (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/331
+#EXTINF:-1 group-title="RECORD" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559192354236.png",RECORD SP (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/869
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/redetv.png",Rede TV (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/334
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/rede.png",Rede Vida (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/337
+#EXTINF:-1 group-title="SBT" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sbt.png",SBT (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/339
+#EXTINF:-1 group-title="SBT" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sbt.png",SBT SP (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/866
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sony.png",Sony (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/355
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/space.png",Space (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/358
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sportv.png",SportV (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/362
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sportv2.png",SporTV 2 (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/366
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sportv3.png",SporTV 3 (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/369
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/studio-universal.png",Studio Universal (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/372
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tbs.png",TBS (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/378
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tcm.png",TCM (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/381
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tc-action.png",Telecine Action (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/383
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tc-cult-2DYq97.png",Telecine Cult (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/386
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tc-fun-66hD37.png",Telecine Fun (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/389
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tc-pipoca.png",Telecine Pipoca (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/392
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tc-premium-6uAw34.png",Telecine Premium (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/395
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tc-t-3RDg79.png",Telecine Touch (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/398
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/histoty.png",The History Channel (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/401
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tlc.png",TLC (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/404
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tnt.png",TNT (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/407
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tnt-series.png",TNT SÉRIES (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/411
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tooncast.png",Tooncast (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/415
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/apare.png",TV Aparecida (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/418
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tv-bum.png",TV Rá Tim Bum (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/423
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/universal.png",Universal Channel (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/427
+#EXTINF:-1 group-title="MÚSICA E ENTRETENIMENTO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/hits.png",VH1 Megahits (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/433
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559180203508.png",Viva (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/436
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/warner.png",Warner Channel (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/439
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/whoo.png",Woohoo (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/442
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://app.neoweb.tv/assets/img/tv2/zoomo.png",ZooMoo (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/445
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO TV VERDES MARES (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/3865
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO BELEM (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/3866
+#EXTINF:-1 group-title="SBT" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sbt.png",SBT PR (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4080
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO TV CENTRO AMERICA (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4070
+#EXTINF:-1 group-title="BAND" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559181246508.png",Band Campinas (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4093
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/96/Tvglobinho_logo.jpg",TV Globinho (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4161
+#EXTINF:-1 group-title="RECORD" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559192354236.png",TV A Crítica Record AM (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4712
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png",Nick (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4714
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="http://h.2tv.me/all.PNG",All Sports (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4716
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",Globo TV Rio Sul (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4608
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO MANAUS (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4599
+#EXTINF:-1 group-title="MÚSICA E ENTRETENIMENTO" tvg-logo="https://cdn.mitvstatic.com/channels/ar_film-arts_m.png",FILM & ARTS (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4733
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO TV SERGIPE (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4757
+#EXTINF:-1 group-title="RECORD" tvg-logo="https://app.neoweb.tv/assets/img/tv2/record.png",RECORD TV ITAPOAN (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4941
+#EXTINF:-1 group-title="RECORD" tvg-logo="https://app.neoweb.tv/assets/img/tv2/record.png",RECORD TV PARANA (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4942
+#EXTINF:-1 group-title="RECORD" tvg-logo="https://app.neoweb.tv/assets/img/tv2/record.png",RECORD TV GO (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4943
+#EXTINF:-1 group-title="RECORD" tvg-logo="https://app.neoweb.tv/assets/img/tv2/record.png",RECORD BH (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4944
+#EXTINF:-1 group-title="RECORD" tvg-logo="https://app.neoweb.tv/assets/img/tv2/record.png",RECORD MANAUS (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4945
+#EXTINF:-1 group-title="NOTÍCIAS" tvg-logo="https://imagem.natelinha.uol.com.br/grande/cnn-brasil-logo-oficial_64008211370c7af07e70d3a7238490534290e629.jpeg",CNN BRASIL (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/6046
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://pbs.twimg.com/profile_images/2583554872/s7c23bso0t4dawky6wk9_400x400.jpeg",CINE SKY 1 (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/10359
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://pbs.twimg.com/profile_images/2583554872/s7c23bso0t4dawky6wk9_400x400.jpeg",CINE SKY 2 (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/10360
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://pbs.twimg.com/profile_images/2583554872/s7c23bso0t4dawky6wk9_400x400.jpeg",CINE SKY 3 (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/10361
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://pbs.twimg.com/profile_images/2583554872/s7c23bso0t4dawky6wk9_400x400.jpeg",CINE SKY 4 (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/10362
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://pbs.twimg.com/profile_images/2583554872/s7c23bso0t4dawky6wk9_400x400.jpeg",CINE SKY 5 (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/10363
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://pbs.twimg.com/profile_images/2583554872/s7c23bso0t4dawky6wk9_400x400.jpeg",CINE SKY 6 (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/10364
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://pbs.twimg.com/profile_images/2583554872/s7c23bso0t4dawky6wk9_400x400.jpeg",CINE SKY 7 (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/10365
+#EXTINF:-1 group-title="CINE NEOTURBO" tvg-logo="https://www.uninassau.edu.br/sites/mauriciodenassau.edu.br/files/fields/imagemLateral/noticias/2019/02/cinema-desconto-programas-fidelidade.jpg",CINE NEO 01
+http://br4.2tv.me:80/wanderlei/wanderlei/13128
+#EXTINF:-1 group-title="CINE NEOTURBO" tvg-logo="https://www.uninassau.edu.br/sites/mauriciodenassau.edu.br/files/fields/imagemLateral/noticias/2019/02/cinema-desconto-programas-fidelidade.jpg",CINE NEO 02
+http://br4.2tv.me:80/wanderlei/wanderlei/13129
+#EXTINF:-1 group-title="CINE NEOTURBO" tvg-logo="https://pm1.narvii.com/6439/0cad2e959c3ee31facd9868f62a9e1e5c5087829_00.jpg",CINE MARVEL VS DC
+http://br4.2tv.me:80/wanderlei/wanderlei/13138
+#EXTINF:-1 group-title="CINE NEOTURBO" tvg-logo="https://i.pinimg.com/originals/0d/bc/36/0dbc36855c5b7c3ea27a514b3d897df3.jpg",CINE NEOTURBO TERROR
+http://br4.2tv.me:80/wanderlei/wanderlei/13139
+#EXTINF:-1 group-title="SBT" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sbt.png",SBT Piauí (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/17045
+#EXTINF:-1 group-title="SBT" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sbt.png",SBT ES (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/17044
+#EXTINF:-1 group-title="CANAIS LEGENDADOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/syfy.png",Syfy (HD) LEGENDADO
+http://br4.2tv.me:80/wanderlei/wanderlei/17482
+#EXTINF:-1 group-title="CANAIS LEGENDADOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/hbo-signature.png",HBO Signature (HD) LEGENDADO
+http://br4.2tv.me:80/wanderlei/wanderlei/17483
+#EXTINF:-1 group-title="CANAIS LEGENDADOS" tvg-logo="https://i.vimeocdn.com/video/702614668_1280x720.jpg",HBO + (HD) LEGENDADO
+http://br4.2tv.me:80/wanderlei/wanderlei/17484
+#EXTINF:-1 group-title="CANAIS LEGENDADOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/hbo.png",HBO (HD) LEGENDADO
+http://br4.2tv.me:80/wanderlei/wanderlei/17485
+#EXTINF:-1 group-title="CANAIS LEGENDADOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tc-premium-6uAw34.png",Telecine Premium (HD) LEGENDADO
+http://br4.2tv.me:80/wanderlei/wanderlei/17488
+#EXTINF:-1 group-title="CANAIS LEGENDADOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tc-cult-2DYq97.png",Telecine Cult (HD) LEGENDADO
+http://br4.2tv.me:80/wanderlei/wanderlei/17490
+#EXTINF:-1 group-title="CANAIS LEGENDADOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/ds-t.png",Discovery Theater (HD) LEGENDADO
+http://br4.2tv.me:80/wanderlei/wanderlei/17493
+#EXTINF:-1 group-title="CANAIS LEGENDADOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/foxp-1.png",Fox Premium 1 (HD) LEGENDADO
+http://br4.2tv.me:80/wanderlei/wanderlei/17496
+#EXTINF:-1 group-title="CANAIS LEGENDADOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/foxp-2.png",Fox Premium 2 (HD) LEGENDADO
+http://br4.2tv.me:80/wanderlei/wanderlei/17497
+#EXTINF:-1 group-title="CANAIS LEGENDADOS" tvg-logo="https://www.tigo.com.co/sites/tigounecorp/files/fragmentos/general_tarjeta_informacion/Mubdi.jpg",HBO MUNDI (HD) LEGENDADO
+http://br4.2tv.me:80/wanderlei/wanderlei/17498
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/416CT%2Bzil%2BL._SR600,315_SCLZZZZZZZ_.png",NHK WORLD (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/17500
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO NSC JOINVILLE (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/17995
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO MATO GROSSO (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/17318
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO TV SANTA CRUZ  (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18030
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO RBS TV CAXIAS DO SUL (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18029
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO FOZ DO IGUAÇU (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18025
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO TV INTEGRAÇAO  ARAXA (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18022
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO CLOSED CAPTION (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18019
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO TV CABO BRANCO (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18016
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO TV INTEGRAÇAO JF (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18013
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO TV GAZETA VITORIA (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18010
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO INTER TV ALTO LITORAL (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18007
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO RPC TV PARANAVAI (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18004
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO RBS TV CRICIUMA (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18001
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO TV BAHIA (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/17384
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO TV CLUBE PIAUI (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/17334
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO GAZETA SUL ALEGRE ES (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/17331
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO SAO LUIS MA (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/17320
+#EXTINF:-1 group-title="BAND" tvg-logo="https://app.neoweb.tv/assets/img/tv2/band.png",BAND CLOSED CAPTION (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18050
+#EXTINF:-1 group-title="RECORD" tvg-logo="https://app.neoweb.tv/assets/img/tv2/record.png",RECORD CLOSED CAPTION (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18110
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO RBS TV SANTA MARIA (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18107
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO INTER TV SERRA MAR (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18105
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO RBS TV PELOTAS (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18103
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO TV ASA BRANCA (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18094
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO TV INTER CABUGI (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18093
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="http://sv1.ccdns.xyz:8080/images/40cd253c85f86a602f101f0b56199d33.png",3 Palavrinhas  24h
+http://br4.2tv.me:80/wanderlei/wanderlei/882
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/aee.png",A&E (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/450
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/amc.png",AMC (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/annimal.png",Animal Planet (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/7
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="http://sv1.ccdns.xyz:8080/images/052d3d223c4c7795733a81f4a05147e9.png",As aventuras de Jackie Chan 24h
+http://br4.2tv.me:80/wanderlei/wanderlei/930
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/axn.png",AXN (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/15
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://app.neoweb.tv/assets/img/tv2/baby-tv.png",Baby Tv (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18
+#EXTINF:-1 group-title="BAND" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559181246508.png",Band Campinas (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/23
+#EXTINF:-1 group-title="NOTÍCIAS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/band-n.png",Band News (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/25
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/band-s.png",Band Sports (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/28
+#EXTINF:-1 group-title="MÚSICA E ENTRETENIMENTO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/bis.png",BIS (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/31
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="http://sv1.ccdns.xyz:8080/images/929feaca9dab989aac42dec03bcfbeca.jpg",Bob Esponja 24h
+http://br4.2tv.me:80/wanderlei/wanderlei/920
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://app.neoweb.tv/assets/img/tv2/boom.png",Boomerang (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/34
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/cancao-nova.png",Canção Nova (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/40
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://app.neoweb.tv/assets/img/tv2/cn.png",Cartoon Network (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/43
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://i.pinimg.com/564x/73/aa/ff/73aaffb5d070925c54ad203743135c37.jpg",Cascão Maratona 24h
+http://br4.2tv.me:80/wanderlei/wanderlei/886
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="http://sv1.ccdns.xyz:8080/images/622ebf0335971ec3d453fbf81a712d4b.png",Chaves 24h
+http://br4.2tv.me:80/wanderlei/wanderlei/890
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/cinemaz.png",Cinemax (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/47
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/combate.png",Combate (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/50
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/cultura.png",Cultura (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/56
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/curta.png",Curta! (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/59
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/ds-channel.png",Discovery Channel (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/62
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://www.seekpng.com/png/small/240-2403856_hgtv-logo-hgtv-app.png",HGTV (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/66
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/dshh.png",Discovery Home & Health (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/69
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://app.neoweb.tv/assets/img/tv2/ds-kids.png",Discovery Kids (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/72
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/dscience.png",Discovery Science (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/75
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/ds-t.png",Discovery Theater (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/78
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/ds-turbo.png",Discovery Turbo (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/81
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/ds-w.png",Discovery World (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/84
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://app.neoweb.tv/assets/img/tv2/disney-channel.png",Disney Channel (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/87
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://app.neoweb.tv/assets/img/tv2/disney-jr.png",Disney JR (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/90
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://app.neoweb.tv/assets/img/tv2/ds-xd.png",Disney XD (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/92
+#EXTINF:-1 group-title="MÚSICA E ENTRETENIMENTO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559180449282.png",E! (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/95
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://img.freepik.com/vetores-gratis/neon-24-horas-aberta-tabuleta_1017-19487.jpg?size=338&ext=jpg",Familia Urso 24h
+http://br4.2tv.me:80/wanderlei/wanderlei/905
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/fish.png",FISH TV (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/115
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/food.png",Food Network (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/118
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/fox.png",Fox (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/121
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/fox-life.png",Fox Life (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/124
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/foxp-1.png",Fox Premium 1 (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/127
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/foxp-2.png",Fox Premium 2 (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/130
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/futura.png",Futura (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/141
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/fx.png",FX (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/143
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="http://sv1.ccdns.xyz:8080/images/b6bcfed2f0d8b482de0cdd94b05a2bc3.png",Galinha Pintadinha 24h
+http://br4.2tv.me:80/wanderlei/wanderlei/893
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",Globo Brasília (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/152
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",Globo Campinas (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/155
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",Globo Minas (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/162
+#EXTINF:-1 group-title="NOTÍCIAS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-news.png",Globo News (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/165
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",Globo Nordeste (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/168
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",Globo Porto Alegre (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/176
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",Globo Ribeirão Preto (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/180
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",Globo RJ (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/183
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1568792594272.png",Globo Sorocaba (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/191
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",Globo SP (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/192
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1568792268261.png",Globo Tv Tribuna Santos (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/203
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1568792040129.png",Globo Vanguarda S.J Campos (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/204
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://app.neoweb.tv/assets/img/tv2/gllob.png",Gloob (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/208
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/gnt.png",GNT (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/211
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/h2.png",H2 (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/214
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/hbo.png",HBO (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/217
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/hbo2.png",HBO 2 (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/220
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/hbo-family.png",HBO Family (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/223
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://i.vimeocdn.com/video/702614668_1280x720.jpg",HBO + (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/226
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/hbo-signature.png",HBO Signature (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/231
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/id.png",ID - Investigacao Discovery (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/234
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://i0.statig.com.br/bancodeimagens/7r/7p/rn/7r7prnlebxf6liufm7z48h6qc.jpg",Kenan e Kel 24h
+http://br4.2tv.me:80/wanderlei/wanderlei/931
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/lifetime.png",Lifetime (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/237
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globosat.png",Mais Globosat (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/240
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://i.pinimg.com/originals/e7/42/09/e742093e2043fdf214ecf1a9a031277c.jpg",Manda Chuva 24h
+http://br4.2tv.me:80/wanderlei/wanderlei/933
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="http://sv1.ccdns.xyz:8080/images/0bbd9243f1d791f1246143c611a325c7.png",Marinheiro Popeye 24h
+http://br4.2tv.me:80/wanderlei/wanderlei/921
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/max.png",Max (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/243
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/max-prime.png",Max Prime (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/245
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/max-up.png",Max UP (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/249
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/megapix.png",Megapix (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/252
+#EXTINF:-1 group-title="MÚSICA E ENTRETENIMENTO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/mtv.png",MTV (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/256
+#EXTINF:-1 group-title="MÚSICA E ENTRETENIMENTO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/multishow.png",Multishow (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/259
+#EXTINF:-1 group-title="MÚSICA E ENTRETENIMENTO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/music.png",Music Box Brazil (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/263
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://app.neoweb.tv/assets/img/tv2/nategeokids.png",NatGeo Kids (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/265
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/nat.png",Natgeo Wild (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/268
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/national.png",National Geographic (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/271
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://app.neoweb.tv/assets/img/tv2/kist.png",Nick Jr. (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/275
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://app.neoweb.tv/assets/img/tv2/nike.png",Nickelodeon (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/447
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/off.png",Off (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/279
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Trapalhoes.jpg",Os Trapalhões 24hs
+http://br4.2tv.me:80/wanderlei/wanderlei/925
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/paramount.png",Paramount (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/282
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://www.paraguacity.com/img/2011/10/07/fileg_43707.jpg",Patati Patata 24h
+http://br4.2tv.me:80/wanderlei/wanderlei/913
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="http://sv1.ccdns.xyz:8080/images/850c171df6548be282bfa288732276d0.png",Pica Pau 24h
+http://br4.2tv.me:80/wanderlei/wanderlei/894
+#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://app.neoweb.tv/assets/img/tv2/premi2.png",Premiere 2 (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/288
+#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://app.neoweb.tv/assets/img/tv2/premi3.png",Premiere 3 (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/291
+#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://app.neoweb.tv/assets/img/tv2/premi4.png",Premiere 4 (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/294
+#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://app.neoweb.tv/assets/img/tv2/premi5.png",Premiere 5 (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/297
+#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://app.neoweb.tv/assets/img/tv2/premi6.png",Premiere 6 (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/300
+#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://app.neoweb.tv/assets/img/tv2/premi7.png",Premiere 7 (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/303
+#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://app.neoweb.tv/assets/img/tv2/premiere.png",Premiere Clubes (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/306
+#EXTINF:-1 group-title="MÚSICA E ENTRETENIMENTO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/primebox.png",Prime Box Brazil (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/310
+#EXTINF:-1 group-title="RECORD" tvg-logo="https://app.neoweb.tv/assets/img/tv2/record.png",Record (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/312
+#EXTINF:-1 group-title="NOTÍCIAS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/record-n.png",Record News (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/328
+#EXTINF:-1 group-title="RECORD" tvg-logo="https://app.neoweb.tv/assets/img/tv2/155919248566.png",Record RS (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/332
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/redetv.png",Rede TV (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/333
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/rede.png",Rede Vida (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/336
+#EXTINF:-1 group-title="SBT" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sbt.png",SBT (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/338
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://i.ytimg.com/vi/rf790VYhjwc/hqdefault.jpg",Show do Looney Tones 24h
+http://br4.2tv.me:80/wanderlei/wanderlei/922
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sony.png",Sony (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/354
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/space.png",Space (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/357
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sportv.png",SportV (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/361
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sportv2.png",SporTV 2 (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/365
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sportv3.png",SporTV 3 (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/368
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/studio-universal.png",Studio Universal (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/371
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tbs.png",TBS (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/377
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tcm.png",TCM (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/380
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tc-action.png",Telecine Action (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/382
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tc-cult-2DYq97.png",Telecine Cult (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/385
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tc-fun-66hD37.png",Telecine Fun (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/388
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tc-pipoca.png",Telecine Pipoca (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/391
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tc-premium-6uAw34.png",Telecine Premium (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/394
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tc-t-3RDg79.png",Telecine Touch (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/397
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/histoty.png",The History Channel (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/400
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tlc.png",TLC (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/403
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tnt.png",TNT (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/406
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tnt-series.png",TNT SÉRIES (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/410
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://estereosom.com.br/wp-content/uploads/2019/08/chris.jpg",Todo Mundo Odeia o Cris 24h
+http://br4.2tv.me:80/wanderlei/wanderlei/924
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tooncast.png",Tooncast (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/414
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8e/Turma_da_M%C3%B4nica.jpg/300px-Turma_da_M%C3%B4nica.jpg",Turma da Monica 24h
+http://br4.2tv.me:80/wanderlei/wanderlei/896
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/apare.png",TV Aparecida (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/417
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tv-bum.png",TV Rá Tim Bum (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/422
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/universal.png",Universal Channel (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/426
+#EXTINF:-1 group-title="MÚSICA E ENTRETENIMENTO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/hits.png",VH1 Megahits (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/432
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559180203508.png",Viva (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/435
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/warner.png",Warner Channel (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/438
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/whoo.png",Woohoo (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/441
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://app.neoweb.tv/assets/img/tv2/zoomo.png",ZooMoo (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/444
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO TV RIO SUL (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/3864
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO BELÉM (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/3867
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO TV VERDES MARES (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/3886
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO EPTV SAO CARLOS (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/3861
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO CURITIBA (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/3873
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO TV MIRANTE (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/3877
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO TV TEM BAURU (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/3878
+#EXTINF:-1 group-title="RECORD" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559192354236.png",RECORD BRASILIA (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/3884
+#EXTINF:-1 group-title="RECORD" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559191965331.png",RECORD BAHIA (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/3897
+#EXTINF:-1 group-title="RECORD" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559192354236.png",Record MG (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/3898
+#EXTINF:-1 group-title="RECORD" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559192424310.png",Record RJ (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/3899
+#EXTINF:-1 group-title="BAND" tvg-logo="https://app.neoweb.tv/assets/img/tv2/band.png",Band (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/3901
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GloboTV Anhanguera (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/3860
+#EXTINF:-1 group-title="RECORD" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559192354236.png",RECORD SP (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/870
+#EXTINF:-1 group-title="SBT" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sbt.png",SBT SP (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/867
+#EXTINF:-1 group-title="RECORD" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559192541259.png",Record Goiânia (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4081
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO FLORIANÓPOLIS (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4087
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO GOIANIA (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4088
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/comedy.png",Comedy Central  (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4174
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/96/Tvglobinho_logo.jpg",TV Globinho (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4188
+#EXTINF:-1 group-title="MÚSICA E ENTRETENIMENTO" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxASEhAQDg8PEBASERUQFxUQGBcQFRcQFRUWFhUbFhgYHSkhGRolHxUVITEhJSkrLi46GCIzOTMsNygtLisBCgoKDQ0NDg0NDi0ZFRkrKzcrKzctNysrKysrLSsrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIALcBEwMBIgACEQEDEQH/xAAcAAEBAAIDAQEAAAAAAAAAAAAABwYIAQQFAwL/xABPEAABAwICBwQECgQJDQEAAAABAAIDBBEFEgYHEyExQWEiUXGBCBQyoSM0QmJydIKRsbNSk7LRFRYkU1VjkqLSGDNDRFRkc5SjwcPT8Bf/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABURAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIRAxEAPwC4oiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIi+NTVRxjNLIyNve8ho96D7IsPxPWfg0G59fG93dAHT7/FgIHmVi2I696Bu6npqqbq4NiHvJKCsotfcS18Vrt1NSU0XWQumNvAFoWLYhrTxqa9650Y/RhYyIfeBf3oNqnOA4kDxX5EjTwcD4ELTSqxurlJMtXUyE8c0jyPuuuvFXTNN2TStPe17gfcUG6yLVHR3WXitI5uWqdNGOMdR8K0jxPaHiCtgtX+nNPikRdENnPHbaQuNy2/AtPymmx3/egyxERAREQEREBERAREQEREBERAREQEREBERAREQEREBePpLpNSUEe2rJmxt+S3i957mN4krxdZGncOFwg9mSqkB2UV/7z7cGj38FrFjmM1FZM+oq5XSyv5ngG8mtHyWjuQUnSvXdVzZmYdGKSP8ATfaSYj3tb7/FTLEcUqKhxdU1E07ib3le5+/zO5fKkpnyvZFG0ufI4Ma0c3ONgFtFoNq5o6GBrZIYqipc0GWSRof2jxDM3Bo4dUGq65Ww+nGpmmqc02HFtJPvJjt8C8+A9g9Ru6KFY/gFVRSGGsgfC/kSOy4d7HcHBVHmoiICIiAsj1eY6+ixClma4hhkbFIORheQ11++17+SxxfegiLpYmN4ulY0eJcAEG6oXKIooiIgIiICIiCW+kFXTQ0VM6CaWFxqw0mJzoyW7KTcS08Nyg/8Yq//AG6t/XSf4lcfSO+I0v1wflSrXtBZPR/xSpmrKls9RPM0U4IEsjpADnHAOO5Xla9+jn8dqvqw/bC2EQEREBERARcXS6DlFxdcoJLpjp1j9AZ5ZMNo20bZ3RxyvdmLmFxEZLWy3uQAeAXyj020odT+ttwijdT7Iz5muuTEBmuGibMd3K11kuuPBqisw50FJEZZTNG7KCAcoO/iQF7+iFG+KhpIJ2ZZGU7I3tNjZwbYg2QYlgOs0S4RUYnM2Js9OXRujZmymUkCEAEk2dmbz7129EtNp5MMlxXFI4YY25nMbCHNzRt3D2nG5c64FlNsc1Y4mKyeko43jDKipjlzBzQwN43IJvdmZw8guxrzxmOFlJgtIcsVOxj5Gt+a3LE09+67jfvBQTPSXHZq6plqqg3fIdwHBjPktb0C8xFwqinahdHPWK41b2/BUjcwPI1D9zB1sMzv7PetkFhuqfRz1HDoI3ttPKPWJe/O/eGn6Lco8isyUUXQxnB6erjdDVwsmjd8l4vY94PEHqF30QQDTjUpNFmmwpzqiO5JgeRtWj5jtweB3cfEqSTwPY5zJGuY9ps5rwWuB7iDvC3ZssY0x0EoMSb/ACmLLMBZs0XYkb4n5Q6Oug1KRZvptqxr8OzSZfWaUb9tEN7W/wBYzi3x3jqsHVRysi1dUe2xPD4/96jkPhGdof2FjqoWomk2mLRuIvsoZJPA2DR+0UGzaIiiohr+xysp6mjbS1dTTtdA5xEEj4gXZ7XIaRcqW/xyxX+lMQ/Xy/4lQvSQ+NUX1d/5ikKqKBR628Sio2UscjnTZnl1TO4zyEOPZDc/C3ebrFK7SWvmJdPXVchJv2pX28hewHQL2NXWgsuKzPY1+xgiAMkts1ieDWjm47/D7lUqzUJRFhEFZVsltudLs5GX+i1rT71FRSh0lr4SHQ11XGQb9mV9t3eL2I6FVnV3rkkdJHS4tlIecrakAMs7ltWjdY8Mw7+CkukuBzUNRLS1IAkjPEcHNO9rm9CvMVRsH6Rp/kFJ9cH5Mq18WU4/pzU1lDSUE7GFtK4ES3cXvytcxgdfuDuPOyxZBWfRz+O1X1YfthUnWXrGiwtrI2ME9XI3M2MnK1rL2zPPG242HOxU19HP47VfVh+2Fk2nOqSevrKitOIQxtkLcrXsccrGsa0C+a3K/moqZY1rPxioJvWyQNPyab4ED7Te1714E2kVc7e+urHH500h/Fyzqq1V00RtLpDhcbu57mtO7oZLrLNE8P0YoYWtqazD6uouS6Vx2gvfcGt3gBBF48frAbtrasHpNIPwcvYwzWHi8BBZiFQ8fozu24/6lyPJVfSTHdEXxPDmU8pLSB6tE5r78srgBY9VApMtzkzZbnLmtmy33XtzsqKXjWt6WroJaSppW+sPyhs0TzG0EG+bLxDt3I81Ov4Qn/n5v7bv3rrFZzppq6loKSkrWzbeKZjDJ2cmze9oc3mbtN7X3b/FBjWE4/U080NQyaUuikbIAXuIOU3IN+RFx5rb7B8RZUwQ1ERvHNG2Vvg4A7+q0uV41D6WxijqaSoeG+ptdUtuf9XJu+1/0XH++FB5vpB6TP21PQwyOaImmeTIS2737mAkdwzH7SkP8IT/AM/N/bd+9djSHFn1dTUVUntTSukt3Nv2R4BuUeS+eDYbJVTw00IJkmkbGLC9rneT0AuT4Iis6nKc01NWY3WySOiiY6OIPc53D2yATxJswefepLjGIyVM81TMSZJpHSG5vbMdwHQCwHgqnroxKKlp6PAqQ2jhYySW3TewO6kkvPiCpCqCy7VVo769iMDHNvDEfWJe7IzeB5uyi3isQWx2oPRz1ehdVyNtLVuzi/EQN3M+85neYQU8BcoiiiIiAiJdBwRfcd4Uk1r6taD1apxCDLRywxulIYAIpCPklvBrnE2BHMhZhpXrDw2gDhNUNkmA/wAzCRJJfuIBs37RCgmsLWRU4p8FlEFI12ZsTTmLiODpHcz0G4deKDCFYfRvpb1NdLb2IY2ecj3H/wAZUfV/9HCjy0lZNaxkqGx+LY2Aj3yOVRXkRFFQD0kPjVF9Xf8AmKQqvekh8aovq7/zFIVUXn0cK+PYVlPcCZswmtzMbmhoPWxFvu71Y1pdhWKT00jZ6WZ8MreDmGxseII4EdCsoq9auNyMyOrnNBFiY44o3H7TW3HlZRXo6+ayOTFSIi0mKnjieRv+EDnuIPUBzVO1y95JLnEucTckm5JPEkniV9aGjkmkZDCx0ksjgxrW7yXH/wC4qo+KKp6zNA6fDcMoHhg9cMojmkDnEOLo3vcADusC0AbhwUsQZjqw0yjwuolmlhfKySEx2jIDg4G448l5+l+mVZiMr31ErxEXHJC0kRsbyFuZ6lePh2HzTv2dPDJM/KXZY2lxyjeSbcl1nC243BG6x43QcLLcI1a4xUsbLDRO2bxma6R8cVweBAe4G3ksSVn0e16bKCOKqojI+NjYw+J4YHBosCWkbjuRXh0WpHFnkbQ0sLeZdIXkDoGjf96wDF6IQTzQCRsuyldFnaLB2U2uB5Kk6Ua7ayoY6KjhZSNcLGS+0lynjlNrNPX8FK3E3JN7neb8b9UHBW3jMIjrMLipZhdk1FGwnmCY22cOoNj5LUMrc3Rz4pSfVofy2pRqBjeFy0tRNSzi0kLyw9e4joRY+a69NVSR59m9zM7HROy7s0brZmnobBWr0h9G2WhxJmVryRTyDgXixLCBzIsR4W7lEEQVe1JYVHTw1mOVYtFBG9kRI42F5C3vJ3MHUkKWYTh0lTNFTQC8szxG3xJ4noBcnwVn1zzR4fhlFhNPuD/atzjisXE/Se4H70VG8dxWSrqJ6qb/ADk0heeduTQOgAA8l0UREeropgj62rp6RgPwsgDiPkxDfI7yaCtw6SnbGxkcYysY0MaBya0WCi/o7aOWFRiMjfa/k8N+NhvlcOl8o8iraooiL8TStY0ue5rWgXJcQ0AdSUH7XDnW3ncB37lM9K9c9BTZo6QOrZhfezswg9Xn2vsg+KjWlWsPEq8kTVBjhP8AoYPg2W+dbe7zKC7aWa18Nos0bZDVTjds4O0AfnP9keFyVGdKta+J1uZjZBSQHds6e4cQf0pD2j5WCwNcqoE/v80REBbQ6kaLZYRTX4yOkl8nPNvcAtXrE7gCSdwt3rcjRTDfVqOkpjuMUEbD9MNGb33UV6qIiCAekh8aovq7/wAxSFWv0gsIqp6mjdT01RO1sDgTDG+UA5+BLQbKU/xYxH+jq79RL/hRFG1U6BUWJ0E5qA9kzKktbLGbPAyNNje4I38CF9q3UHUgnYV8D28tox0Z9xcFlmoHD54KKobUQzQuNSXBsrHRktyN3gOA3KoIqC0OoOoJHrFfCxvPZMdI63P2i23vVP0N1f0GG9qnjL5yLGaWzpLHiAeDR0FllaIMQ1k6FnFaeKAVAp9nNtsxZtb9hzbWzC3tceinf+T+/wDpRv8Ay5/9quaIJ1q31ZOwqeWc1gqNpHs7CLZW33vfObrr6b6nqWtkfUU0po53nM6zc8T3cyW3BaT3g+SpqINc6rUZibT8HNSSDvzOZ+LUpdRmJuPwk1JGO/M5/wCDVsYiCWaJalaOmc2WtkNbI03DC3Zwg9W3Jf5m3RdPSjUn61V1FVHXNgZM/abPY58pIF94kG69zw5qvog1/wAX1D1Ucbn01ZFUPAvs3RmAu6NOZwv42XTwzXRiFNFHSvpYHOgaISZc7X3Z2bOF9xFrW6LYxQnWJqrxCqxCoqaOOHYylru1IGkvygONrbuCCf6b6dVeKOYanIyOO5ZFFcNBO4k3Ny7ldYwqH/8Ai+M/zdP+tH7l7ujeouoc8OxKeOOIG5ZTnO9w7sxFm+9VHZ9HvRYl0uJyt7IBhgvzP+kcPDc3714XpB1BdibGm9o6SNoHLtPkcT7x9y2Iw+ijgjjhgY1kUbQxrW7gGjgoL6RWEubWU1WB8HNBsSe6WNzjvPVrxb6JUVJV9qGkfNJHDE3NJK9sbR3ucbBfFZdqrxajpMQZU4gXNjjjeWENL7TGwaSBv4F/uVRs5o3hDKOmgpY/Zhjay/C7gO07zNyuziFfDAx0tRLHDG3i6RwYB5lRrSzXpxjwqC/9dUDd9mMfiT5FSLHceqqx+0rJ5Jncsx7LfotG4eSirdpZrwp4i6PDYjUvG7ayXjiH0R7T/cOpUc0m0vr6916yoe9t7iNvYib4MG7zNyvDRVHC5REBERARF6WjuBz1tRHTUrC6R54/Ja0e05x5NCDKtTWi5ra9kj2k09Lad5I3F4PwbfEnf9kraALwtC9GIcOpY6WHeR2pHncZJT7Tj07hyAC95RRERAREQcLlEQEREBERAREQEREBERAREQEREBeFppozDiNLJSzdm/aY8cWSj2XD/uOd17qINQ9KtC67D3ubUwP2YO6ZgzxObyOYcPA2WOgrdx7ARYgEdx3heHX6GYZMSZsOo3OPF2yY1x+0ACg1ARbQVuqDBZOFK6L/AIUj2/iSvCrNQ9A65iqqqLockg94v71Rr4istZqCnF9hiETu4SxuZ95a4/gvCqtSWLs9n1SUfMkI/baERN0WXVerHGY73oJHAc4yx49xXQGhOK3y/wAHVd+HsG338EHgIs6wvVHjMxF6ZkA76h4b7m3PuVJ0W1H0kNn4hKat435G3jiB678zvd4II5ojobW4lIGUsR2YID5n7o2Dnc8z80XK2W0F0JpsLh2cAzyvsZJne0893zWjkAsgoqOKFjYoI2RRtFmsjAY0DoAvuooiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiIP/Z",PLAY TV (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4190
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://i0.wp.com/universonerd.net/portal/wp-content/uploads/2018/06/Capa-3.jpg?zoom=2.625&resize=320%2C187&ssl=1",A PANTERA COR DE ROSA 24HS
+http://br4.2tv.me:80/wanderlei/wanderlei/4229
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://1.bp.blogspot.com/-OPbVsGeWKUw/Wo7kNWUi8pI/AAAAAAAAOjc/iRhbnYxwTXk7JLSOcDMM8VPUa7xb4RsUgCLcBGAs/s1600/young-justice-season-three.jpg",LIGA DA JUSTIÇA 24HS
+http://br4.2tv.me:80/wanderlei/wanderlei/4232
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://3.bp.blogspot.com/-UpCKJiWl_ao/Urw1WB1LkvI/AAAAAAAAbXM/z172b3_e9IY/s1600/the+flintstones.jpg",OS FLINTSTONES 24HS
+http://br4.2tv.me:80/wanderlei/wanderlei/4235
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61JISH-WgeL.png",PEPPA PIG 24HS
+http://br4.2tv.me:80/wanderlei/wanderlei/4237
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://www.proibidoler.com/wp-content/uploads/2019/05/scooby-doo-na-ilha-dos-zumbis-1998-04.jpg",SCOOBY DOO  24HS
+http://br4.2tv.me:80/wanderlei/wanderlei/4239
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png",Nick (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4715
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO INTER TV SERRA MAR (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4607
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO MANAUS (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4598
+#EXTINF:-1 group-title="MÚSICA E ENTRETENIMENTO" tvg-logo="https://cdn.mitvstatic.com/channels/ar_film-arts_m.png",FILM & ARTS (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4732
+#EXTINF:-1 group-title="NOTÍCIAS" tvg-logo="https://imagem.natelinha.uol.com.br/grande/cnn-brasil-logo-oficial_64008211370c7af07e70d3a7238490534290e629.jpeg",CNN BRASIL (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4737
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://static.quizur.com/i/b/5b5380fadbbdc1.799217785b5380fad06247.52974010.jpg",Batman A Saga Completa 24hs
+http://br4.2tv.me:80/wanderlei/wanderlei/4751
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://i.pinimg.com/474x/04/d9/33/04d933712486293c44ce02ea846610cf.jpg",Denis o pestinha 24hs
+http://br4.2tv.me:80/wanderlei/wanderlei/4752
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://i.pinimg.com/originals/75/18/d9/7518d9a48de438e07a1136b3d683d6e2.jpg",DC Super Hero Girls 24hs
+http://br4.2tv.me:80/wanderlei/wanderlei/4753
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://i.pinimg.com/originals/78/37/28/7837285a45520494778b49b30a410640.jpg",Zé Buscapé 24hs
+http://br4.2tv.me:80/wanderlei/wanderlei/4754
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://s3-sa-east-1.amazonaws.com/loja2/d53a3b8b40e0028e0fb95c3f00494426.jpg",Meu amigãozão 24hs
+http://br4.2tv.me:80/wanderlei/wanderlei/4755
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://pm1.narvii.com/6622/734f65d6c07a783b78e35062f7531eea013f6ac0_00.jpg",Coragem o Cao Covarde 24HS
+http://br4.2tv.me:80/wanderlei/wanderlei/5923
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://data.pixiz.com/output/user/frame/preview/400x400/0/6/7/1/3171760_6722b.jpg",Dragon Ball GT 24HS
+http://br4.2tv.me:80/wanderlei/wanderlei/5926
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://i.ytimg.com/vi/FBeLF4X6HhI/hqdefault.jpg",EU A PATROA E AS CRIANÇAS 24HS
+http://br4.2tv.me:80/wanderlei/wanderlei/5927
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://static.cineclick.com.br/adm/uploads/banco_imagens/38/582x0_1424718064.jpg",Homem Aranha 24HS
+http://br4.2tv.me:80/wanderlei/wanderlei/5932
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://i.ytimg.com/vi/tyHj0OxckSc/hqdefault.jpg",MUNDO BITA 24HS
+http://br4.2tv.me:80/wanderlei/wanderlei/5937
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://www.otakupt.com/wp-content/uploads/2019/11/Naruto-vai-ter-o-seu-pr%C3%B3prio-canal-de-TV-2.jpg",NARUTO 24HS
+http://br4.2tv.me:80/wanderlei/wanderlei/5938
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://i.pinimg.com/originals/3b/9d/53/3b9d530095750a9d059b94cd35da04b0.jpg",O MASKARA 24HS
+http://br4.2tv.me:80/wanderlei/wanderlei/5939
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://1.bp.blogspot.com/-cQ77ENB1Jd4/VdVCkHE0dDI/AAAAAAAAOJY/ydNj-678wfI/s640/os%2Bpadrinhos%2Bmagicos.jpg",OS PADRINHOS MAGICOS 24HS
+http://br4.2tv.me:80/wanderlei/wanderlei/5941
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://br.nacaodamusica.com/wp-content/uploads/2016/11/trolls-trailer-3.jpg",Trolls 24HS
+http://br4.2tv.me:80/wanderlei/wanderlei/5945
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://i.ytimg.com/vi/5hkwgWw4uUc/hqdefault.jpg",Turma do Pateta 24HS
+http://br4.2tv.me:80/wanderlei/wanderlei/5946
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://cdn.romanews.com.br/img/pc/780/530/dn_noticia/2019/04/chapolin.jpg",Chapolin Colorado 24HS
+http://br4.2tv.me:80/wanderlei/wanderlei/5947
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51aRceSWyHL.jpg",Rick and Morty 24hs
+http://br4.2tv.me:80/wanderlei/wanderlei/5948
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/e1/South-park-renewed.jpg/300px-South-park-renewed.jpg",south park 24hs
+http://br4.2tv.me:80/wanderlei/wanderlei/5949
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://c3.quickcachr.fotos.sapo.pt/i/B1c055c50/20314262_3nwN8.jpeg",Timao e Pumba 24hs
+http://br4.2tv.me:80/wanderlei/wanderlei/5950
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://i.ytimg.com/vi/lBcANo4p2no/hqdefault.jpg",ALADIN 24HS
+http://br4.2tv.me:80/wanderlei/wanderlei/5952
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5rBvWLihwEQVltuxcKkwbjNBunwzVWwrrY-OinYcDfgz1vcE1",REDE BRASIL (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/5954
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO TV CENTRO AMERICA (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/3876
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://3.bp.blogspot.com/-a5vv9JaAgJY/XXguJfYWkhI/AAAAAAAABxs/krPlomniL9ATKV0WYPGnBQ5FroGh5fF0gCLcBGAsYHQ/s320/Screenshot_2019-09-10-20-12-37.png",GOSTEI GOSPEL TV  SP (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/12879
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO TV SERGIPE (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/14629
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/gazeta.png",TV GAZETA (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/147
+#EXTINF:-1 group-title="SBT" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sbt.png",SBT GO (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/17047
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="http://sv1.ccdns.xyz:8080/images/d1d15716dfcb74c214a2c2726c0753ed.png",Cavaleiros do Zodiaco 24h
+http://br4.2tv.me:80/wanderlei/wanderlei/887
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="http://sv1.ccdns.xyz:8080/images/ec523d5c0bc4acc871e4e8e2ee5be4de.png",Luluzinha 24h
+http://br4.2tv.me:80/wanderlei/wanderlei/891
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="http://sv1.ccdns.xyz:8080/images/f13528c1ca4a6e4b841d3814ff58f6b9.png",Caverna do Dragão 24h
+http://br4.2tv.me:80/wanderlei/wanderlei/889
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="http://sv1.ccdns.xyz:8080/images/a92d043d2ce7c9baf855281b2c4f2dbb.png",PATO DONALD E  TICO E TECO 24h
+http://br4.2tv.me:80/wanderlei/wanderlei/892
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://a-static.mlcdn.com.br/574x431/painel-de-festa-ben-10-03-colormyhome/colormyhome/333/097e2063dd9226adac80e06e263a1ec2.jpg",BEN 10 24HS
+http://br4.2tv.me:80/wanderlei/wanderlei/5920
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="http://sv1.ccdns.xyz:8080/images/d1d15716dfcb74c214a2c2726c0753ed.png",CAVALEIRO DO ZODIACO 24HS
+http://br4.2tv.me:80/wanderlei/wanderlei/5922
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://img.elo7.com.br/product/zoom/19BCDBE/kit-marsha-e-o-urso-lembrancinhas.jpg",MARSHA E O URSO 24HS
+http://br4.2tv.me:80/wanderlei/wanderlei/5936
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="http://sv1.ccdns.xyz:8080/images/a7f9d38a2e0b6bf33c1d80def1116004.png",GATO FELIX 24hs
+http://br4.2tv.me:80/wanderlei/wanderlei/17253
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="http://sv1.ccdns.xyz:8080/images/888ff3f2a75201ac79ca090a0fec82b6.png",FAMILÍA DINOSSAUROS 24HS
+http://br4.2tv.me:80/wanderlei/wanderlei/17255
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="http://sv1.ccdns.xyz:8080/images/6e0ab497460eb127ec99ca53d846b883.png",LUCCAS NETO 24HS
+http://br4.2tv.me:80/wanderlei/wanderlei/17256
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="http://sv1.ccdns.xyz:8080/images/c1df0ac26078b4b41fe484aca89d03d3.jpg",PATRULHA CANINA 24HS
+http://br4.2tv.me:80/wanderlei/wanderlei/17257
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="http://sv1.ccdns.xyz:8080/images/2aa2877c54ef0d12deda8e2981675ba9.png",PERNALONGA 24HS
+http://br4.2tv.me:80/wanderlei/wanderlei/17258
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="http://sv1.ccdns.xyz:8080/images/ef71c498c126b1d2e8cab2c8bad4500c.jpg",CORRIDA MALUCA 24hs
+http://br4.2tv.me:80/wanderlei/wanderlei/17254
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="http://sv1.ccdns.xyz:8080/images/5a950011224f1a3614cf132ba59badc3.png",POCOYO 24HS
+http://br4.2tv.me:80/wanderlei/wanderlei/17259
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="http://sv1.ccdns.xyz:8080/images/055e3960a65ca7bf585ae8684e438e07.png",DE VOLTA PARA O FUTURO 24HS
+http://br4.2tv.me:80/wanderlei/wanderlei/17261
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="http://sv1.ccdns.xyz:8080/images/102cdaa3328291bee704899ed22e2b5b.png",A GUARDA DO LEÃO 24HS
+http://br4.2tv.me:80/wanderlei/wanderlei/17263
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="http://sv1.ccdns.xyz:8080/images/e1eb2326b5d15797f2355fa15390a54a.png",A VACA E O FRANGO 24HS
+http://br4.2tv.me:80/wanderlei/wanderlei/17264
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="http://sv1.ccdns.xyz:8080/images/4c2ebce8d6123ddc3fd71fa8cde8d338.jpg",ICARLY 24HS
+http://br4.2tv.me:80/wanderlei/wanderlei/17266
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="http://sv1.ccdns.xyz:8080/images/e20fefb9575933a4fc2517490104eeda.png",CAVALO DE FOGO 24HS
+http://br4.2tv.me:80/wanderlei/wanderlei/17267
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="http://sv1.ccdns.xyz:8080/images/64321f9da8f53f8768b371b9b22e7883.png",GASPARZINHO 24HS
+http://br4.2tv.me:80/wanderlei/wanderlei/17268
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="http://sv1.ccdns.xyz:8080/images/414fb83e71d4eb3a2f5f4ea98455d89b.png",AS MENINAS SUPERPODEROSAS 24HS
+http://br4.2tv.me:80/wanderlei/wanderlei/17265
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="http://sv1.ccdns.xyz:8080/images/c06073ba6ed4ffdfe9765dae84833b1b.png",OS JOVENS TITANS EM AÇÃO 24HS
+http://br4.2tv.me:80/wanderlei/wanderlei/17269
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="http://sv1.ccdns.xyz:8080/images/073a23f5a1378a0a4dc20028794cc0c1.png",LIGEIRINHO 24HS
+http://br4.2tv.me:80/wanderlei/wanderlei/17270
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="http://sv1.ccdns.xyz:8080/images/7cb79b076f0afd85409f4cb7882364bd.png",BRANCA DE NEVE 24HS
+http://br4.2tv.me:80/wanderlei/wanderlei/17271
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="http://sv1.ccdns.xyz:8080/images/812bc7061cf1ce44c48ec2bd0066521b.png",OS VALENTES COWBOYS 24HS
+http://br4.2tv.me:80/wanderlei/wanderlei/17272
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="http://sv1.ccdns.xyz:8080/images/bb97dfc4506087f1f06187664d898aba.jpg",SUPER CHOQUE 24HS
+http://br4.2tv.me:80/wanderlei/wanderlei/17273
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="http://sv1.ccdns.xyz:8080/images/1a93b6cbe4314cbd25b26048726d2324.png",KARATE KID 24HS
+http://br4.2tv.me:80/wanderlei/wanderlei/17274
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="http://sv1.ccdns.xyz:8080/images/43fffad398a32009d644ebf7be7cd8cd.png",HERCULES 24HS
+http://br4.2tv.me:80/wanderlei/wanderlei/17275
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="http://sv1.ccdns.xyz:8080/images/c3c6a2ec594881998d6396a76439a45d.png",101  DALMATAS 24HS
+http://br4.2tv.me:80/wanderlei/wanderlei/17276
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="http://sv1.ccdns.xyz:8080/images/f821c90e4f0ecc5ac464584bcf7de79f.png",DENNIS O PIMENTINHA 24HS
+http://br4.2tv.me:80/wanderlei/wanderlei/17277
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="http://sv1.ccdns.xyz:8080/images/6224332f5e88d90fd76d839a1d42987d.png",DORA A AVENTUREIRA 24HS
+http://br4.2tv.me:80/wanderlei/wanderlei/17278
+#EXTINF:-1 group-title="CANAIS DUAL ÁUDIO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/megapix.png",Megapix (SD) DUAL AUDIO
+http://br4.2tv.me:80/wanderlei/wanderlei/17425
+#EXTINF:-1 group-title="CANAIS LEGENDADOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/foxp-1.png",FOX PREMIUM 1 (SD) LEGENDADO
+http://br4.2tv.me:80/wanderlei/wanderlei/17477
+#EXTINF:-1 group-title="CANAIS LEGENDADOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/foxp-2.png",FOX PREMIUM 2 (SD) LEGENDADO
+http://br4.2tv.me:80/wanderlei/wanderlei/17478
+#EXTINF:-1 group-title="CANAIS LEGENDADOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/hbo-signature.png",HBO Signature (SD) LEGENDADO
+http://br4.2tv.me:80/wanderlei/wanderlei/17479
+#EXTINF:-1 group-title="CANAIS LEGENDADOS" tvg-logo="https://www.tigo.com.co/sites/tigounecorp/files/fragmentos/general_tarjeta_informacion/Mubdi.jpg",HBO MUNDI (SD) LEGENDADO
+http://br4.2tv.me:80/wanderlei/wanderlei/17499
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://www.clickriomafra.com.br/wp-content/uploads/2016/02/13/TV-Novo-Tempo-j%C3%A1-est%C3%A1-dispon%C3%ADvel-em-Rio-Negro-e-Mafra.jpg",TV NOVO TEMPO (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/17583
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0050f27791c72bd68a096db4c3d42fae.png",CEAK TV SP ESPIRITA (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/17581
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0050f27791c72bd68a096db4c3d42fae.png",CEAK TV ESPIRITA (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/17580
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO NSC JOINVILLE (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/17996
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO TV SANTA CRUZ (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18031
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO RBS TV CAXIAS DO SUL (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18027
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO FOZ DO IGUAÇU (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18026
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO TV INTEGRAÇAO JF (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18014
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO TV INTEGRAÇAO  ARAXA (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18023
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO CLOSED CAPTION (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18020
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO TV CABO BRANCO (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18017
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO TV GAZETA VITORIA (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18011
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO INTER TV ALTO LITORAL (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18008
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO RPC TV PARANAVAI (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18005
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO RBS TV CRICIUMA (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18002
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO TV BAHIA (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/17385
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO TV CLUBE PIAUI (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/17335
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO GAZETA SUL ALEGRE ES (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/17332
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO S. J. DOS CAMPOS (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/17324
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://s3.amazonaws.com/static.prod.eiplus.com.br/media/CACHE/images/canal/thumb_logo_nov/23458887255b5c400a08239bcd44cdd8.png",EI PLUS (HD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4177
+#EXTINF:-1 group-title="BAND" tvg-logo="https://app.neoweb.tv/assets/img/tv2/band.png",BAND CLOSED CAPTION (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18051
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO RBS TV SANTA MARIA (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18108
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO TV INTER CABUGI (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18101
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO TV CENTRO AMERICA CUIABA (SD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18096
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/aee.png",A&E (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/3
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/amc.png",AMC (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/6
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/annimal.png",Animal Planet (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/9
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/axn.png",AXN (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/17
+#EXTINF:-1 group-title="BAND" tvg-logo="https://app.neoweb.tv/assets/img/tv2/band.png",Band (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/21
+#EXTINF:-1 group-title="NOTÍCIAS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/band-n.png",Band News (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/27
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/band-s.png",Band Sports (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/30
+#EXTINF:-1 group-title="MÚSICA E ENTRETENIMENTO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/bis.png",BIS (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/33
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://app.neoweb.tv/assets/img/tv2/boom.png",Boomerang (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/36
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://app.neoweb.tv/assets/img/tv2/cn.png",Cartoon Network (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/45
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/cinemaz.png",Cinemax (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/49
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/combate.png",Combate (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/52
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/comedy.png",Comedy Central (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/55
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/ds-channel.png",Discovery Channel (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/64
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/dshh.png",Discovery Home & Health (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/71
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://app.neoweb.tv/assets/img/tv2/ds-kids.png",Discovery Kids (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/74
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/dscience.png",Discovery Science (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/77
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/ds-t.png",Discovery Theater (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/80
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/ds-turbo.png",Discovery Turbo (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/83
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/ds-w.png",Discovery World (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/86
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://app.neoweb.tv/assets/img/tv2/disney-channel.png",Disney Channel (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/89
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://1.bp.blogspot.com/-3qUYaC7kdPM/TX5g5ewPLKI/AAAAAAAAAfk/uuezfFY76to/s1600/DisneyJunior.png",DISNEY JR (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/452
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://app.neoweb.tv/assets/img/tv2/ds-xd.png",Disney XD (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/94
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/espn.png",ESPN (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/99
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/155632079127.png",ESPN 2 (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/104
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/espn-b.png",ESPN Brasil (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/107
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/espn-2bcw97.png",ESPN Extra (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/110
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/fish.png",FISH TV (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/117
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/food.png",Food Network (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/120
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/fox.png",Fox (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/123
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/fox-life.png",Fox Life (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/126
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/foxp-1.png",Fox Premium 1 (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/129
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/foxp-2.png",Fox Premium 2 (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/132
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/fox-sport.png",Fox Sports (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/135
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/fox-sport2.png",Fox Sports 2 (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/139
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/fx.png",FX (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/145
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",Globo Minas (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/164
+#EXTINF:-1 group-title="NOTÍCIAS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-news.png",Globo News (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/167
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",Globo Nordeste (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/170
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",Globo NSC Florianopolis (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/835
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",Globo Porto Alegre (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/175
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",Globo RJ (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/185
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",Globo SP (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/194
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1568792198526.png",GLOBO TV MIRANTE (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/201
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",Globo Verde Mares (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/207
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://app.neoweb.tv/assets/img/tv2/gllob.png",Gloob (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/210
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/gnt.png",GNT (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/213
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/h2.png",H2 (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/216
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/hbo.png",HBO (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/219
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/hbo2.png",HBO 2 (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/222
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/hbo-family.png",HBO Family (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/225
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://i.vimeocdn.com/video/702614668_1280x720.jpg",HBO + (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/228
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/hbo-signature.png",HBO Signature (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/233
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/id.png",ID - Investigacao Discovery (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/236
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/lifetime.png",Lifetime (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/239
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globosat.png",Mais Globosat (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/242
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://www.tigo.com.co/sites/tigounecorp/files/fragmentos/general_tarjeta_informacion/Mubdi.jpg",HBO MUNDI (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/453
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://www.cabonnet.com.br/ourinhos/uploads/canais/01022020101313.jpg",HBO XTREME (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/247
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://www.claro.com.br/imagem/logo-hbo-pop-1509138784429.jpg",HBO POP (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/251
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/megapix.png",Megapix (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/254
+#EXTINF:-1 group-title="MÚSICA E ENTRETENIMENTO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/mtv.png",MTV (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/258
+#EXTINF:-1 group-title="MÚSICA E ENTRETENIMENTO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/multishow.png",Multishow (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/261
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://app.neoweb.tv/assets/img/tv2/nategeokids.png",NatGeo Kids (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/267
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/nat.png",Natgeo Wild (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/270
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/national.png",National Geographic (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/273
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://app.neoweb.tv/assets/img/tv2/kist.png",Nick Jr. (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/277
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://app.neoweb.tv/assets/img/tv2/nike.png",Nickelodeon (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/278
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/off.png",Off (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/281
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/paramount.png",Paramount (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/284
+#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://app.neoweb.tv/assets/img/tv2/premi2.png",Premiere 2 (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/290
+#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://app.neoweb.tv/assets/img/tv2/premi3.png",Premiere 3 (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/293
+#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://app.neoweb.tv/assets/img/tv2/premi4.png",Premiere 4 (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/296
+#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://app.neoweb.tv/assets/img/tv2/premi5.png",Premiere 5 (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/299
+#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://app.neoweb.tv/assets/img/tv2/premi6.png",Premiere 6 (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/302
+#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://app.neoweb.tv/assets/img/tv2/premi7.png",Premiere 7 (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/305
+#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://app.neoweb.tv/assets/img/tv2/premiere.png",Premiere Clubes (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/308
+#EXTINF:-1 group-title="RECORD" tvg-logo="https://app.neoweb.tv/assets/img/tv2/record.png",Record (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/314
+#EXTINF:-1 group-title="NOTÍCIAS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/record-n.png",Record News (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/330
+#EXTINF:-1 group-title="SBT" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sbt.png",SBT (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/340
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sony.png",Sony (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/356
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/space.png",Space (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/359
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sportv.png",SportV (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/363
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sportv2.png",SporTV 2 (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/367
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sportv3.png",SporTV 3 (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/370
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/studio-universal.png",Studio Universal (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/373
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/syfy.png",Syfy (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/376
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tc-action.png",Telecine Action (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/384
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tc-cult-2DYq97.png",Telecine Cult (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/387
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tc-fun-66hD37.png",Telecine Fun (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/390
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tc-pipoca.png",Telecine Pipoca (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/393
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tc-premium-6uAw34.png",Telecine Premium (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/396
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tc-t-3RDg79.png",Telecine Touch (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/399
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/histoty.png",The History Channel (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/402
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tnt.png",TNT (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/408
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tnt-series.png",TNT SÉRIES (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/412
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://tvdiario.verdesmares.com.br/img/tvdiario/tv-diario-ao-vivo-placeholder.jpg",Tv Diario (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/551
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/universal.png",Universal Channel (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/428
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559180203508.png",Viva (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/437
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/warner.png",Warner Channel (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/440
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/redetv.png",REDE TV (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/3900
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/cancao-nova.png",CANÇÃO NOVA (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/3902
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO TV CENTRO AMERICA (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4069
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/gazeta.png",TV Gazeta (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4067
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO PARANA (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4066
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO TV SANTA CRUZ (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4062
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",Globo Inter TV Grande Minas (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4061
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO TV SERGIPE (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4059
+#EXTINF:-1 group-title="RECORD" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559191965331.png",RECORD BAHIA (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4082
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",Globo EPTV Sul de Minas (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4086
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",Globo Inter Tv dos Vales ( FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4089
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO TV GAZETA ALAGOAS (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4092
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/96/Tvglobinho_logo.jpg",TV Globinho (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4162
+#EXTINF:-1 group-title="BAND" tvg-logo="https://app.neoweb.tv/assets/img/tv2/band.png",BAND RJ (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4718
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://www.seekpng.com/png/small/240-2403856_hgtv-logo-hgtv-app.png",HGTV (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4719
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png",NICK (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4724
+#EXTINF:-1 group-title="RECORD" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559191965331.png",Record ES (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4725
+#EXTINF:-1 group-title="RECORD" tvg-logo="https://app.neoweb.tv/assets/img/tv2/record.png",Record Goiânia (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4726
+#EXTINF:-1 group-title="RECORD" tvg-logo="https://app.neoweb.tv/assets/img/tv2/record.png",RECORD RJ (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4728
+#EXTINF:-1 group-title="SBT" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sbt.png",SBT PR (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4729
+#EXTINF:-1 group-title="SBT" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sbt.png",SBT RJ (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4730
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://app.neoweb.tv/assets/img/tv2/zoomo.png",ZOOMOO (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4731
+#EXTINF:-1 group-title="NOTÍCIAS" tvg-logo="https://imagem.natelinha.uol.com.br/grande/cnn-brasil-logo-oficial_64008211370c7af07e70d3a7238490534290e629.jpeg",CNN BRASIL (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4736
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/arte1.png",Arte 1 (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/5917
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO TV VERDES MARES (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/6727
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",Globo Brasília (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4591
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",Globo TV Rio Sul (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4609
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",RPC TV Globo (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/4722
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://www.tbneurope.org/image.php/logo-1417631495.png?w=250&src=/images/static/logo-1417631495.png",REDE GOSPEL (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/12878
+#EXTINF:-1 group-title="SBT" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sbt.png",SBT BRASILIA (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/17048
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO SAO LUIS MA (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/17319
+#EXTINF:-1 group-title="MÚSICA E ENTRETENIMENTO" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/mtvlivehd.png",MTV LIVE (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/17374
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/max-prime.png",Max Prime (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/17375
+#EXTINF:-1 group-title="SBT" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sbt.png",SBT SP (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/17376
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tlc.png",TLC (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/17377
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://www.ancine.gov.br/sites/default/files/canalbr.jpg",CANAL BRASIL (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/17379
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tv-bum.png",TV Rá Tim Bum (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/17380
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://sba1.com/img/canais/cx.png",CANAL DO BOI (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/17381
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO MATO GROSSO (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/17382
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO TV BAHIA (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/17383
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO GAZETA SUL ALEGRE ES (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/17386
+#EXTINF:-1 group-title="CANAIS DUAL ÁUDIO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/hbo.png",HBO (FHD) DUAL AUDIO
+http://br4.2tv.me:80/wanderlei/wanderlei/17420
+#EXTINF:-1 group-title="CANAIS DUAL ÁUDIO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sony.png",SONY (FHD) DUAL AUDIO
+http://br4.2tv.me:80/wanderlei/wanderlei/17421
+#EXTINF:-1 group-title="CANAIS DUAL ÁUDIO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/fx.png",FX (FHD) DUAL AUDIO
+http://br4.2tv.me:80/wanderlei/wanderlei/17422
+#EXTINF:-1 group-title="CANAIS DUAL ÁUDIO" tvg-logo="https://www.claro.com.br/imagem/logo-hbo-pop-1509138784429.jpg",HBO POP  (FHD) DUAL  AUDIO
+http://br4.2tv.me:80/wanderlei/wanderlei/17424
+#EXTINF:-1 group-title="CANAIS DUAL ÁUDIO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/max.png",MAX (FHD) DUAL AUDIO
+http://br4.2tv.me:80/wanderlei/wanderlei/17427
+#EXTINF:-1 group-title="CANAIS DUAL ÁUDIO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tnt-series.png",TNT SÉRIES (FHD) DUAL AUDIO
+http://br4.2tv.me:80/wanderlei/wanderlei/17429
+#EXTINF:-1 group-title="CANAIS DUAL ÁUDIO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/warner.png",Warner Channel (FHD)  DUAL AUDIO
+http://br4.2tv.me:80/wanderlei/wanderlei/17431
+#EXTINF:-1 group-title="CANAIS DUAL ÁUDIO" tvg-logo="https://www.seekpng.com/png/small/240-2403856_hgtv-logo-hgtv-app.png",HGTV (FHD) DUAL AUDIO
+http://br4.2tv.me:80/wanderlei/wanderlei/17433
+#EXTINF:-1 group-title="CANAIS DUAL ÁUDIO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tc-premium-6uAw34.png",TELECINE PREMIUM (FHD) DUAL AUDIO
+http://br4.2tv.me:80/wanderlei/wanderlei/17432
+#EXTINF:-1 group-title="CANAIS DUAL ÁUDIO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/off.png",OFF (FHD) DUAL AUDIO
+http://br4.2tv.me:80/wanderlei/wanderlei/17434
+#EXTINF:-1 group-title="CANAIS DUAL ÁUDIO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/combate.png",COMBATE (FHD) DUAL AUDIO
+http://br4.2tv.me:80/wanderlei/wanderlei/17436
+#EXTINF:-1 group-title="CANAIS DUAL ÁUDIO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tc-fun-66hD37.png",TELECINE FUN (FHD) DUAL AUDIO
+http://br4.2tv.me:80/wanderlei/wanderlei/17438
+#EXTINF:-1 group-title="CANAIS DUAL ÁUDIO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/histoty.png",The History Channel (FHD) DUAL AUDIO
+http://br4.2tv.me:80/wanderlei/wanderlei/17439
+#EXTINF:-1 group-title="CANAIS DUAL ÁUDIO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/comedy.png",Comedy Central (FHD) DUAL AUDIO
+http://br4.2tv.me:80/wanderlei/wanderlei/17440
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO GOIANIA (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/17443
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO CURITIBA (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/17444
+#EXTINF:-1 group-title="CANAIS DUAL ÁUDIO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tc-cult-2DYq97.png",TELECINE CULT (FHD) DUAL AUDIO
+http://br4.2tv.me:80/wanderlei/wanderlei/17446
+#EXTINF:-1 group-title="CANAIS DUAL ÁUDIO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/megapix.png",MEGAPIX (FHD) DUAL AUDIO
+http://br4.2tv.me:80/wanderlei/wanderlei/17447
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://www.clickriomafra.com.br/wp-content/uploads/2016/02/13/TV-Novo-Tempo-j%C3%A1-est%C3%A1-dispon%C3%ADvel-em-Rio-Negro-e-Mafra.jpg",TV NOVO TEMPO (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/17448
+#EXTINF:-1 group-title="MÚSICA E ENTRETENIMENTO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/bis.png",BIS (FHD) DUAL AUDIO
+http://br4.2tv.me:80/wanderlei/wanderlei/17449
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/max-up.png",MAX UP (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/17450
+#EXTINF:-1 group-title="CANAIS DUAL ÁUDIO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/whoo.png",Woohoo (FHD) DUAL AUDIO
+http://br4.2tv.me:80/wanderlei/wanderlei/17451
+#EXTINF:-1 group-title="CANAIS DUAL ÁUDIO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/hbo-family.png",HBO FAMILY (FHD) DUAL AUDIO
+http://br4.2tv.me:80/wanderlei/wanderlei/17452
+#EXTINF:-1 group-title="CANAIS DUAL ÁUDIO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/ds-channel.png",DISCOVERY CHANNEL (FHD) DUAL AUDIO
+http://br4.2tv.me:80/wanderlei/wanderlei/17453
+#EXTINF:-1 group-title="CANAIS DUAL ÁUDIO" tvg-logo="https://cdn.mitvstatic.com/channels/ar_film-arts_m.png",FILM & ARTS (FHD) DUAL AUDIO
+http://br4.2tv.me:80/wanderlei/wanderlei/17454
+#EXTINF:-1 group-title="MÚSICA E ENTRETENIMENTO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/hits.png",VH1 Megahits (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/17455
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/cultura.png",Cultura (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/17456
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tbs.png",TBS (FHD) DUAL AUDIO
+http://br4.2tv.me:80/wanderlei/wanderlei/17457
+#EXTINF:-1 group-title="CANAIS DUAL ÁUDIO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/paramount.png",Paramount (FHD) DUAL AUDIO
+http://br4.2tv.me:80/wanderlei/wanderlei/17458
+#EXTINF:-1 group-title="CANAIS DUAL ÁUDIO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/nat.png",Natgeo Wild (FHD) DUAL AUDIO
+http://br4.2tv.me:80/wanderlei/wanderlei/17459
+#EXTINF:-1 group-title="CANAIS DUAL ÁUDIO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/multishow.png",Multishow (FHD) DUAL AUDIO
+http://br4.2tv.me:80/wanderlei/wanderlei/17460
+#EXTINF:-1 group-title="CANAIS DUAL ÁUDIO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/mtv.png",MTV (FHD) DUAL AUDIO
+http://br4.2tv.me:80/wanderlei/wanderlei/17461
+#EXTINF:-1 group-title="CANAIS DUAL ÁUDIO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/lifetime.png",Lifetime (FHD) DUAL AUDIO
+http://br4.2tv.me:80/wanderlei/wanderlei/17462
+#EXTINF:-1 group-title="CANAIS DUAL ÁUDIO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/ds-xd.png",DISNEY XD (FHD) DUAL AUDIO
+http://br4.2tv.me:80/wanderlei/wanderlei/17463
+#EXTINF:-1 group-title="CANAIS DUAL ÁUDIO" tvg-logo="https://1.bp.blogspot.com/-3qUYaC7kdPM/TX5g5ewPLKI/AAAAAAAAAfk/uuezfFY76to/s1600/DisneyJunior.png",DISNEY JR (FHD) DUAL AUDIO
+http://br4.2tv.me:80/wanderlei/wanderlei/17464
+#EXTINF:-1 group-title="CANAIS DUAL ÁUDIO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/disney-channel.png",Disney Channel (FHD) DUAL AUDIO
+http://br4.2tv.me:80/wanderlei/wanderlei/17465
+#EXTINF:-1 group-title="CANAIS DUAL ÁUDIO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/ds-w.png",Discovery World (FHD) DUAL AUDIO
+http://br4.2tv.me:80/wanderlei/wanderlei/17466
+#EXTINF:-1 group-title="CANAIS DUAL ÁUDIO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/cinemaz.png",Cinemax (FHD) DUAL AUDIO
+http://br4.2tv.me:80/wanderlei/wanderlei/17467
+#EXTINF:-1 group-title="CANAIS DUAL ÁUDIO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/boom.png",Boomerang (FHD) DUAL AUDIO
+http://br4.2tv.me:80/wanderlei/wanderlei/17468
+#EXTINF:-1 group-title="CANAIS DUAL ÁUDIO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/arte1.png",Arte 1 (FHD) DUAL AUDIO
+http://br4.2tv.me:80/wanderlei/wanderlei/17469
+#EXTINF:-1 group-title="CANAIS DUAL ÁUDIO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/space.png",SPACE (FHD) DUAL AUDO
+http://br4.2tv.me:80/wanderlei/wanderlei/17470
+#EXTINF:-1 group-title="CANAIS DUAL ÁUDIO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/nategeokids.png",NatGeo Kids (FHD) DUAL AUDIO
+http://br4.2tv.me:80/wanderlei/wanderlei/17471
+#EXTINF:-1 group-title="CANAIS DUAL ÁUDIO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/fox-life.png",Fox Life (FHD) DUAL AUDIO
+http://br4.2tv.me:80/wanderlei/wanderlei/17472
+#EXTINF:-1 group-title="CANAIS DUAL ÁUDIO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/fox.png",Fox (FHD) DUAL AUDIO
+http://br4.2tv.me:80/wanderlei/wanderlei/17473
+#EXTINF:-1 group-title="CANAIS DUAL ÁUDIO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/axn.png",AXN (FHD) DUAL AUDIO
+http://br4.2tv.me:80/wanderlei/wanderlei/17475
+#EXTINF:-1 group-title="CANAIS DUAL ÁUDIO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/annimal.png",Animal Planet (FHD) DUAL AUDIO
+http://br4.2tv.me:80/wanderlei/wanderlei/17476
+#EXTINF:-1 group-title="CANAIS LEGENDADOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/warner.png",Warner Channel (FHD) LEGENDADO
+http://br4.2tv.me:80/wanderlei/wanderlei/17480
+#EXTINF:-1 group-title="CANAIS LEGENDADOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/syfy.png",Syfy (FHD) LEGENDADO
+http://br4.2tv.me:80/wanderlei/wanderlei/17481
+#EXTINF:-1 group-title="CANAIS LEGENDADOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/hbo.png",HBO (FHD) LEGENDADO
+http://br4.2tv.me:80/wanderlei/wanderlei/17486
+#EXTINF:-1 group-title="CANAIS LEGENDADOS" tvg-logo="https://i.vimeocdn.com/video/702614668_1280x720.jpg",HBO + (FHD) LEGENDADO
+http://br4.2tv.me:80/wanderlei/wanderlei/17487
+#EXTINF:-1 group-title="CANAIS LEGENDADOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tc-premium-6uAw34.png",Telecine Premium (FHD) LEGENDADO
+http://br4.2tv.me:80/wanderlei/wanderlei/17489
+#EXTINF:-1 group-title="CANAIS LEGENDADOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/tc-cult-2DYq97.png",Telecine Cult (FHD) LEGENDADO
+http://br4.2tv.me:80/wanderlei/wanderlei/17491
+#EXTINF:-1 group-title="CANAIS LEGENDADOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/ds-t.png",Discovery Theater (FHD) LEGENDADO
+http://br4.2tv.me:80/wanderlei/wanderlei/17492
+#EXTINF:-1 group-title="CANAIS LEGENDADOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/universal.png",Universal Channel (FHD) LEGENDADO
+http://br4.2tv.me:80/wanderlei/wanderlei/17494
+#EXTINF:-1 group-title="MÚSICA E ENTRETENIMENTO" tvg-logo="https://cdn.mitvstatic.com/channels/br_travel-box-brazil_m.png",TRAVEL BOX  (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/17997
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO NSC JOINVILLE (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/17994
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO RBS TV CRICIUMA (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18000
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO RPC TV PARANAVAI (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18003
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO INTER TV ALTO LITORAL (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18006
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO TV GAZETA VITORIA (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18009
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO TV INTEGRAÇAO JF (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18012
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO TV CABO BRANCO (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18015
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO CLOSED CAPTION (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18018
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO TV INTEGRAÇAO  ARAXA (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18021
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO FOZ DO IGUAÇU (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18024
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO RBS TV CAXIAS DO SUL (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18028
+#EXTINF:-1 group-title="BAND" tvg-logo="https://app.neoweb.tv/assets/img/tv2/band.png",BAND CLOSED CAPTION (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18049
+#EXTINF:-1 group-title="MÚSICA E ENTRETENIMENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0b/TRACE-BRAZUCA-logo.jpg",TRACE BRAZUKA (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18052
+#EXTINF:-1 group-title="RECORD" tvg-logo="https://app.neoweb.tv/assets/img/tv2/record.png",RECORD CLOSED CAPTION (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18109
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO RBS TV SANTA MARIA (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18106
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO INTER TV SERRA MAR (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18104
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO RBS TV PELOTAS (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18102
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO MANAUS (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18097
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO TV ASA BRANCA (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18095
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO INTER TV CABUGI (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18092
+#EXTINF:-1 group-title="MÚSICA E ENTRETENIMENTO" tvg-logo="https://cdn.mitvstatic.com/channels/ar_film-arts_m.png",FILM & ARTS (FHD)
+http://br4.2tv.me:80/wanderlei/wanderlei/18111
