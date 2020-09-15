@@ -16,14 +16,14 @@ https://stream.vagalume.fm/hls/1470155259220668/aac.m3u8
 https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
 
-#EXTINF:-1 tvg-logo="https://futbolhoy.com.ar/wp-content/uploads/2019/03/A24.png" group-title="03- ARGENTINA",A24
+#EXTINF:-1 tvg-logo="https://futbolhoy.com.ar/wp-content/uploads/2019/03/A24.png" group-title="03- ARGENTINA",A24 ᵒᶠᶠ
 
 
 #EXTINF:-1 tvg-logo="https://www.amsports.com.ar/img/logo-americasports.png" group-title="03- ARGENTINA",America Sports ᵒᶠᶠ
 
 
-#EXTINF:-1 tvg-logo="http://www.radionacional.gov.py/wp-content/uploads/2018/04/ar_america-2-capital_m.png" group-title="03- ARGENTINA",America TV (2)
-http://uruguayiptv.com:25461/live/6688/6688/18666.ts?TeamIptv
+#EXTINF:-1 tvg-logo="http://www.radionacional.gov.py/wp-content/uploads/2018/04/ar_america-2-capital_m.png" group-title="03- ARGENTINA",America TV ᵒᶠᶠ
+
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_argentinisima-satelital_m.png" group-title="03- ARGENTINA",Argentinisima⁻ˢᵈ⁻
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8?TeamIptv
@@ -68,8 +68,6 @@ http://200.115.193.177/live/26hd-180/playlist.m3u8?TeamIptv
 http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8?TeamIptv
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3.png" group-title="03- ARGENTINA",Canal 26⁻ˢᵈ⁻
 http://200.115.193.177/live/26hd-720/.m3u8?TeamIptv
-#EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3.png" group-title="03- ARGENTINA",Canal 26 (2)
-http://uruguayiptv.com:25461/live/6688/6688/385.ts?TeamIptv
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/canal-local-324x160.png" group-title="03- ARGENTINA",Canal Local Buenos Aires⁻ˢᵈ⁻
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0089?TeamIptv
@@ -88,27 +86,25 @@ http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8?TeamIptv
 #EXTINF:-1 tvg-logo="https://www.cn247.tv/img/logo.png" group-title="03- ARGENTINA",CN 24/7⁻ˢᵈ⁻
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8?TeamIptv
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/cronicatv.png" group-title="03- ARGENTINA",Cronica tv (2)
-http://uruguayiptv.com:25461/live/6688/6688/389.ts?TeamIptv
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/cronicatv.png" group-title="03- ARGENTINA",Cronica tv ᵒᶠᶠ
+
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-garage_m.png" group-title="03- ARGENTINA",El Garage⁻ˢᵈ⁻
 http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8?TeamIptv
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-garage_m.png" group-title="03- ARGENTINA",El Garage (2)
-http://uruguayiptv.com:25461/live/6688/6688/408.ts?TeamIptv
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/el-nueve-canal-9-argentina.png" group-title="03- ARGENTINA",El Nueve
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/el-nueve-canal-9-argentina.png" group-title="03- ARGENTINA",El Nueve ᵒᶠᶠ
 
 
-#EXTINF:-1 tvg-logo="http://ipuntotv.com/IMAGES/ElTreceHD2012.jpg" group-title="03- ARGENTINA",El Trece (2)
-http://uruguayiptv.com:25461/live/6688/6688/6801.ts?TeamIptv
+#EXTINF:-1 tvg-logo="http://ipuntotv.com/IMAGES/ElTreceHD2012.jpg" group-title="03- ARGENTINA",El Trece ᵒᶠᶠ
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Encuentro-TV.png" group-title="03- ARGENTINA",Encuentro
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Encuentro-TV.png" group-title="03- ARGENTINA",Encuentro ᵒᶠᶠ
 
 
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmZyZWN1ZW5jaWFtdXNpY2FsLnJhZGlvX3NjcmVlbl8wXzE1NDMzMDk2MTlfMDMy/screen-0.jpg?fakeurl=1&type=.jpg" group-title="03- ARGENTINA",Frecuencia Musical TV⁻ˢᵈ⁻
 http://streaminglivehd.com:1935/8056/8056/playlist.m3u8?TeamIptv
 
-#EXTINF:-1 tvg-logo="https://directoriolegislativo.org/wp-content/uploads/new/2017/05/ln-default-facebook.jpg" group-title="03- ARGENTINA",La Nacion
+#EXTINF:-1 tvg-logo="https://directoriolegislativo.org/wp-content/uploads/new/2017/05/ln-default-facebook.jpg" group-title="03- ARGENTINA",La Nacion ᵒᶠᶠ
 
 
 #EXTINF:-1 tvg-logo="http://www.mundou.edu.ar/img/canales/a1v2ltjc.png" group-title="03- ARGENTINA",Litus⁻ˢᵈ⁻
@@ -125,16 +121,14 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w53831157
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/08/NETargentina.png/revision/latest?cb=20180702162652" group-title="03- ARGENTINA",Net TV⁻ˢᵈ⁻
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0044?TeamIptv
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Paka-Paka.png" group-title="03- ARGENTINA",Paka Paka
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Paka-Paka.png" group-title="03- ARGENTINA",Paka Paka ᵒᶠᶠ
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tPlVRpfUcpg/hqdefault.jpg" group-title="03- ARGENTINA",Santa Maria TV⁻ˢᵈ⁻
 http://www.trimi.com.ar/santa_maria/streaming/mystreamSantaMariaHSMed.m3u8?TeamIptv
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="03- ARGENTINA",Telefe (2)
-http://uruguayiptv.com:25461/live/6688/6688/392.ts?TeamIptv
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="03- ARGENTINA",Telefe int (2)
-http://uruguayiptv.com:25461/live/6688/6688/1706.ts?TeamIptv
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="03- ARGENTINA",Telefe ᵒᶠᶠ
+
 
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/e455d-tlx.png" group-title="03- ARGENTINA",Telemax⁻ˢᵈ⁻
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?TeamIptv
@@ -142,7 +136,7 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0043?TeamIptv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bC2v1sB.png" group-title="03- ARGENTINA",Telpin ᵒᶠᶠ
-http://dl.dropbox.com/s/28yz9oh5z1ixulu/video_watermark1593298237058.mp4?TeamIptv
+
 
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_09/small.Logo_TierramiaTV.png.52a0b19eb1a7425c43898d0766558d1a.png" group-title="03- ARGENTINA",Tierramia TV⁻ˢᵈ⁻
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0028?TeamIptv
@@ -151,13 +145,11 @@ https://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w68879463_b18
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_09/small.Logo_TierramiaTV.png.52a0b19eb1a7425c43898d0766558d1a.png" group-title="03- ARGENTINA",Tierramia TV⁻ˢᵈ⁻
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8?TeamIptv
 
-#EXTINF:-1 tvg-logo="https://cdn.tn.com.ar/sites/default/files/styles/720x720/public/2018/08/16/tn_vivo1.png" group-title="03- ARGENTINA",TN (2)
-http://uruguayiptv.com:25461/live/6688/6688/397.ts?TeamIptv
-#EXTINF:-1 tvg-logo="https://cdn.tn.com.ar/sites/default/files/styles/720x720/public/2018/08/16/tn_vivo1.png" group-title="03- ARGENTINA",TN (2)
-http://uruguayiptv.com:25461/live/6688/6688/6802.ts?TeamIptv
+#EXTINF:-1 tvg-logo="https://cdn.tn.com.ar/sites/default/files/styles/720x720/public/2018/08/16/tn_vivo1.png" group-title="03- ARGENTINA",TN ᵒᶠᶠ
 
-#EXTINF:-1 tvg-logo="https://www.baraderoteinforma.com.ar/wp-content/uploads/2019/12/COSAS-Copy-68.jpg" group-title="03- ARGENTINA",Tv Publica (2)
-http://uruguayiptv.com:25461/live/6688/6688/398.ts?TeamIptv
+
+#EXTINF:-1 tvg-logo="https://www.baraderoteinforma.com.ar/wp-content/uploads/2019/12/COSAS-Copy-68.jpg" group-title="03- ARGENTINA",Tv Publica ᵒᶠᶠ
+
 
 ######################################################################################################################################
 ####################################### ARUBA
@@ -187,7 +179,7 @@ http://192.99.150.31:8371/stream?TeamIptv
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61314?TeamIptv
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61314?TeamIptv
+http://srv.tvprodigital.net:80/010573/010573/61314?TeamIptv
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/887.ts?TeamIptv
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (4)-BR
@@ -215,7 +207,7 @@ http://stream-sky.cf:80/live/joao123/joao123/128.ts?TeamIptv
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo Brasilia (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/7530?TeamIptv
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo Brasilia (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/7530?TeamIptv
+http://srv.tvprodigital.net:80/010573/010573/7530?TeamIptv
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo Brasilia (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/5315.ts?TeamIptv
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo Brasilia (4)-BR
@@ -253,7 +245,7 @@ http://stream-sky.cf:80/live/joao123/joao123/139.ts?TeamIptv
 #EXTINF:-1 tvg-logo="https://image.isu.pub/110114001809-5ee24d7d200c401685a6c7a51e51bf3b/jpg/page_1.jpg" group-title="04- BRASIL",Globo RBS (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/33265?TeamIptv
 #EXTINF:-1 tvg-logo="https://image.isu.pub/110114001809-5ee24d7d200c401685a6c7a51e51bf3b/jpg/page_1.jpg" group-title="04- BRASIL",Globo RBS (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/33265?TeamIptv
+http://srv.tvprodigital.net:80/010573/010573/33265?TeamIptv
 #EXTINF:-1 tvg-logo="https://image.isu.pub/110114001809-5ee24d7d200c401685a6c7a51e51bf3b/jpg/page_1.jpg" group-title="04- BRASIL",Globo RBS (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/764.ts?TeamIptv
 #EXTINF:-1 tvg-logo="https://image.isu.pub/110114001809-5ee24d7d200c401685a6c7a51e51bf3b/jpg/page_1.jpg" group-title="04- BRASIL",Globo RBS (4)-BR
@@ -266,7 +258,7 @@ http://srv.tvprodigital.net:80/193883/193883/33265?TeamIptv
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo RJ (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61299?TeamIptv
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo RJ (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61299?TeamIptv
+http://srv.tvprodigital.net:80/010573/010573/61299?TeamIptv
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo RJ (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/829.ts?TeamIptv
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo RJ (4)-BR
@@ -290,7 +282,7 @@ http://in.uaimacks.net.br:1935/macks/macks.sdp/chunklist_w1760176873.m3u8?TeamIp
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61317?TeamIptv
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61317?TeamIptv
+http://srv.tvprodigital.net:80/010573/010573/61317?TeamIptv
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/761.ts?TeamIptv
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record (4)-BR
@@ -381,7 +373,7 @@ https://stream.vagalume.fm/hls/14647977281792658143/aac.m3u8
 #######################################
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1105493887714508801/_XSw2yUR_400x400.png" group-title="06- CHILE",24 Horas (5)
-http://190.171.155.170:8081/play/a00o?TeamIptv
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m70PUPf.jpg" group-title="06- CHILE",Antofagasta TV⁻ˢᵈ⁻
 http://unlimited1-us.dps.live/atv/atv.smil/atv/livestream2/chunks.m3u8?TeamIptv
@@ -392,14 +384,10 @@ http://unlimited1-us.dps.live/atv/atv.smil/atv/livestream2/chunks.m3u8?TeamIptv
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1277606373203853314/g61tqP_p_400x400.jpg" group-title="06- CHILE",Canal 13 (2)
 http://uruguayiptv.com:25461/live/6688/6688/18205.ts?TeamIptv
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1277606373203853314/g61tqP_p_400x400.jpg" group-title="06- CHILE",Canal 13 (5)
-http://190.171.155.170:8081/play/a00b?TeamIptv
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1277606373203853314/g61tqP_p_400x400.jpg" group-title="06- CHILE",Canal 13 (5)
-http://190.171.155.170:8081/play/a05e?TeamIptv
+
 
 #EXTINF:-1 tvg-logo="https://elfiltrador.com/wp-content/uploads/2018/10/foto_0000001320180216144941.png" group-title="06- CHILE",Chilevision (5)
-http://190.171.155.170:8081/play/a00a?TeamIptv
-#EXTINF:-1 tvg-logo="https://elfiltrador.com/wp-content/uploads/2018/10/foto_0000001320180216144941.png" group-title="06- CHILE",Chilevision (5)
-http://190.171.155.170:8081/play/a05p?TeamIptv
+
 
 #EXTINF:-1 tvg-logo="https://k60.kn3.net/taringa/1/6/E/2/0/7/DanielAmad1/705.jpg" group-title="06- CHILE",Etc ᵒᶠᶠ
 
@@ -413,16 +401,12 @@ http://unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/chunks.m3u8?TeamIptv
 #EXTINF:-1 tvg-logo="https://flyboardchile.cl/wp-content/uploads/2014/12/LaRed-Logo-300x300.jpg" group-title="06- CHILE",La Red (2)
 http://uruguayiptv.com:25461/live/6688/6688/802.ts?TeamIptv
 #EXTINF:-1 tvg-logo="https://flyboardchile.cl/wp-content/uploads/2014/12/LaRed-Logo-300x300.jpg" group-title="06- CHILE",La Red (5)
-http://190.171.155.170:8081/play/a007?TeamIptv
-#EXTINF:-1 tvg-logo="https://flyboardchile.cl/wp-content/uploads/2014/12/LaRed-Logo-300x300.jpg" group-title="06- CHILE",La Red (5)
-http://190.171.155.170:8081/play/a05g?TeamIptv
+
 
 #EXTINF:-1 tvg-logo="https://blogvecindad.com/wp-content/uploads/2015/11/Mega_Chile_Alternate_Logo.png" group-title="06- CHILE",Mega (2)
 http://uruguayiptv.com:25461/live/6688/6688/18211.ts?TeamIptv
 #EXTINF:-1 tvg-logo="https://blogvecindad.com/wp-content/uploads/2015/11/Mega_Chile_Alternate_Logo.png" group-title="06- CHILE",Mega (5)
-http://190.171.155.170:8081/play/a009?TeamIptv
-#EXTINF:-1 tvg-logo="https://blogvecindad.com/wp-content/uploads/2015/11/Mega_Chile_Alternate_Logo.png" group-title="06- CHILE",Mega (5)
-http://190.171.155.170:8081/play/a05i?TeamIptv
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/umdJ2mP.jpg" group-title="06- CHILE",Portalfoxmix⁻ˢᵈ⁻
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8?TeamIptv
@@ -433,23 +417,21 @@ http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8?TeamIpt
 #EXTINF:-1 tvg-logo="https://www.fundacionmiranos.org/wp-content/uploads/2019/02/avatar_66.png" group-title="06- CHILE",T13⁻ˢᵈ⁻
 http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd?TeamIptv
 #EXTINF:-1 tvg-logo="https://www.fundacionmiranos.org/wp-content/uploads/2019/02/avatar_66.png" group-title="06- CHILE",T13 (5)
-http://190.171.155.170:8081/play/a067?TeamIptv
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6J8xRah.png" group-title="06- CHILE",Teletrak (2)
 http://uruguayiptv.com:25461/live/6688/6688/18237.ts?TeamIptv
 
 #EXTINF:-1 tvg-logo="https://tevex.cl/wp-content/uploads/2020/07/Tevex-Logo-Original-925.jpg" group-title="06- CHILE",Tevex (5)
-http://190.171.155.170:8081/play/a062?TeamIptv
+
 
 #EXTINF:-1 tvg-logo="https://bulb.cl/wp-content/uploads/2018/11/Captura-de-pantalla-2018-11-12-a-las-14.17.22.png" group-title="06- CHILE",TV+ (5)
-http://190.171.155.170:8081/play/a05k?TeamIptv
+
 
 #EXTINF:-1 tvg-logo="https://grandesmarcas.cl/wp-content/uploads/2016/06/logo-TVN-1.jpg" group-title="06- CHILE",TVN (2)
 http://uruguayiptv.com:25461/live/6688/6688/18215.ts?TeamIptv
 #EXTINF:-1 tvg-logo="https://grandesmarcas.cl/wp-content/uploads/2016/06/logo-TVN-1.jpg" group-title="06- CHILE",TVN (5)
-http://190.171.155.170:8081/play/a008?TeamIptv
-#EXTINF:-1 tvg-logo="https://grandesmarcas.cl/wp-content/uploads/2016/06/logo-TVN-1.jpg" group-title="06- CHILE",TVN (5)
-http://190.171.155.170:8081/play/a068?TeamIptv
+
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/TV-Chile-en-vivo-Online.png" group-title="06- CHILE",Tv Chile (2)
 http://uruguayiptv.com:25461/live/6688/6688/18235.ts?TeamIptv
@@ -457,13 +439,13 @@ http://uruguayiptv.com:25461/live/6688/6688/18235.ts?TeamIptv
 #EXTINF:-1 tvg-logo="https://www.tvr.cl/wp-content/uploads/sites/5/2020/05/1.png" group-title="06- CHILE",TVR⁻ˢᵈ⁻
 https://unlimited4-cl.dps.live/tvr/tvr.smil/playlist.m3u8?TeamIptv
 #EXTINF:-1 tvg-logo="https://www.tvr.cl/wp-content/uploads/sites/5/2020/05/1.png" group-title="06- CHILE",TVR (5)
-http://190.171.155.170:8081/play/a061?TeamIptv
+
 
 #EXTINF:-1 tvg-logo="http://www.uestv.cl/wp-content/uploads/2018/07/uestvlogo.png" group-title="06- CHILE",UES tv⁻ˢᵈ⁻
 http://cl.origin.grupoz.cl:1935/uestv/live/playlist.m3u8?TeamIptv
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_via-x_m.png" group-title="06- CHILE",Via X (5)
-http://190.171.155.170:8081/play/a01z?TeamIptv
+
 
 ######################################################################################################################################
 ####################################### COLOMBIA
@@ -1084,7 +1066,7 @@ http://uruguayiptv.com:25461/live/6688/6688/30796.ts?TeamIptv
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_canal-de-las-estrellas_m.png" group-title="14- MEXICO",Canal de las Estrellas (2)
 http://uruguayiptv.com:25461/live/6688/6688/30794.ts?TeamIptv
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_canal-de-las-estrellas_m.png" group-title="14- MEXICO",Canal de las Estrellas (5)
-http://190.171.155.170:8081/play/a020?TeamIptv
+
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/canal10cancum.png" group-title="14- MEXICO",Canal 10 Cancún⁻ˢᵈ⁻
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?TeamIptv
@@ -1150,7 +1132,7 @@ http://ch.iptvmate.net/646d593a40798d6803dd0e0f20786afe.m3u8?TeamIptv
 
 
 #EXTINF:-1 tvg-logo="https://www.mediamoves.com/wp-content/uploads/2012/11/Telemundo-logo-2012-e1358145354448.jpg" group-title="14- MEXICO",Telemundo (5)
-http://190.171.155.170:8081/play/a023?TeamIptv
+
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/teleritmo.png" group-title="14- MEXICO",Teleritmo ᵒᶠᶠ
 
@@ -2166,13 +2148,7 @@ http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1299.rtmp
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="28- PREMIUM LATINO",Axn (3.2)-LA
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1702.rtmp
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="28- PREMIUM LATINO",Axn (5)-LA
-http://181.114.232.66:8000/play/a00t
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="28- PREMIUM LATINO",Axn (5.2)-LA
 http://131.221.166.20:8001/play/a005
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="28- PREMIUM LATINO",Axn (5.3)-LA
-http://45.239.123.14:8081/play/a04m
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="28- PREMIUM LATINO",Axn (5.4)-LA
-http://190.171.155.170:8081/play/a04m
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="28- PREMIUM LATINO",Axn (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/3248.rtmp
 
@@ -2187,13 +2163,7 @@ http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1472.rtmp
 #EXTINF:-1 tvg-logo="http://comcab.mx/images/canales/comcab-cinecanal.png" group-title="28- PREMIUM LATINO",Cinecanal (4)-LA
 http://randomserver.site:2086/wickeduk/etqyhww45e/88694
 #EXTINF:-1 tvg-logo="http://comcab.mx/images/canales/comcab-cinecanal.png" group-title="28- PREMIUM LATINO",Cinecanal (5)-LA
-http://181.114.232.66:8000/play/a00v
-#EXTINF:-1 tvg-logo="http://comcab.mx/images/canales/comcab-cinecanal.png" group-title="28- PREMIUM LATINO",Cinecanal (5.2)-LA
 http://131.221.166.20:8001/play/a00n
-#EXTINF:-1 tvg-logo="http://comcab.mx/images/canales/comcab-cinecanal.png" group-title="28- PREMIUM LATINO",Cinecanal (5.3)-LA
-http://45.239.123.14:8081/play/a029
-#EXTINF:-1 tvg-logo="http://comcab.mx/images/canales/comcab-cinecanal.png" group-title="28- PREMIUM LATINO",Cinecanal (5.4)-LA
-http://190.171.155.170:8081/play/a029
 #EXTINF:-1 tvg-logo="http://comcab.mx/images/canales/comcab-cinecanal.png" group-title="28- PREMIUM LATINO",Cinecanal (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/3250.rtmp
 
@@ -2214,13 +2184,7 @@ http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1470.rtmp
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="28- PREMIUM LATINO",Cinemax (4)-LA
 http://randomserver.site:2086/wickeduk/etqyhww45e/88696
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="28- PREMIUM LATINO",Cinemax (5)-LA
-http://181.114.232.66:8000/play/a00w
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="28- PREMIUM LATINO",Cinemax (5.2)-LA
 http://131.221.166.20:8001/play/a003
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="28- PREMIUM LATINO",Cinemax (5.3)-LA
-http://45.239.123.14:8081/play/a04k
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="28- PREMIUM LATINO",Cinemax (5.4)-LA
-http://190.171.155.170:8081/play/a04k
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="28- PREMIUM LATINO",Cinemax (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/3084.rtmp
 
@@ -2289,13 +2253,7 @@ http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1393.rtmp
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="28- PREMIUM LATINO",Fox (3.2)-LA
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1392.rtmp
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="28- PREMIUM LATINO",Fox (5)-LA
-http://181.114.232.66:8000/play/a008
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="28- PREMIUM LATINO",Fox (5.2)-LA
 http://131.221.166.20:8001/play/a00p
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="28- PREMIUM LATINO",Fox (5.3)-LA
-http://45.239.123.14:8081/play/a02b
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="28- PREMIUM LATINO",Fox (5.4)-LA
-http://190.171.155.170:8081/play/a02b
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="28- PREMIUM LATINO",Fox (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/4121.rtmp
 
@@ -2313,10 +2271,6 @@ http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1763.rtmp
 http://randomserver.site:2086/wickeduk/etqyhww45e/88737
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_ACTION.png" group-title="28- PREMIUM LATINO",Fox Action (5)-LA
 http://131.221.166.20:8001/play/a01t
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_ACTION.png" group-title="28- PREMIUM LATINO",Fox Action (5.2)-LA
-http://45.239.123.14:8081/play/a00h
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_ACTION.png" group-title="28- PREMIUM LATINO",Fox Action (5.3)-LA
-http://190.171.155.170:8081/play/a00h
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_ACTION.png" group-title="28- PREMIUM LATINO",Fox Action (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/3263.rtmp
 
@@ -2349,13 +2303,7 @@ http://tv.nousiptv.com:25462/live/luna/1234/4084.rtmp
 #EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="28- PREMIUM LATINO",Fox Life (3)-LA
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1646.rtmp
 #EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="28- PREMIUM LATINO",Fox Life (5)-LA
-http://181.114.232.66:8000/play/a019
-#EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="28- PREMIUM LATINO",Fox Life (5.2)-LA
 http://131.221.166.20:8001/play/a00t
-#EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="28- PREMIUM LATINO",Fox Life (5.3)-LA
-http://45.239.123.14:8081/play/a02f
-#EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="28- PREMIUM LATINO",Fox Life (5.4)-LA
-http://190.171.155.170:8081/play/a02f
 #EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="28- PREMIUM LATINO",Fox Life (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/3203.rtmp
 #EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="28- PREMIUM LATINO",Fox Life (7)-LA
@@ -2371,10 +2319,6 @@ http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1467.rtmp
 http://randomserver.site:2086/wickeduk/etqyhww45e/88740
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_MOVIES.png" group-title="28- PREMIUM LATINO",Fox Movies (5)-LA
 http://131.221.166.20:8001/play/a01r
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_MOVIES.png" group-title="28- PREMIUM LATINO",Fox Movies (5.2)-LA
-http://45.239.123.14:8081/play/a00f
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_MOVIES.png" group-title="28- PREMIUM LATINO",Fox Movies (5.3)-LA
-http://190.171.155.170:8081/play/a00f
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_MOVIES.png" group-title="28- PREMIUM LATINO",Fox Movies (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/4023.rtmp
 
@@ -2384,10 +2328,6 @@ http://uruguayiptv.com:25461/live/miguel2019/miguel2019/578.ts
 http://uruguayiptv.com:25461/live/6688/6688/578.ts
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_SERIES.png" group-title="28- PREMIUM LATINO",Fox Series (5)-LA
 http://131.221.166.20:8001/play/a01s
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_SERIES.png" group-title="28- PREMIUM LATINO",Fox Series (5.2)-LA
-http://45.239.123.14:8081/play/a00g
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_SERIES.png" group-title="28- PREMIUM LATINO",Fox Series (5.3)-LA
-http://190.171.155.170:8081/play/a00g
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_SERIES.png" group-title="28- PREMIUM LATINO",Fox Series (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/3262.rtmp
 
@@ -2396,13 +2336,7 @@ http://uruguayiptv.com:25461/live/miguel2019/miguel2019/662.ts
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="28- PREMIUM LATINO",Fx (2)-LA
 http://uruguayiptv.com:25461/live/6688/6688/662.ts
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="28- PREMIUM LATINO",Fx (5)-LA
-http://181.114.232.66:8000/play/a013
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="28- PREMIUM LATINO",Fx (5.2)-LA
 http://131.221.166.20:8001/play/a007
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="28- PREMIUM LATINO",Fx (5.3)-LA
-http://45.239.123.14:8081/play/a04o
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="28- PREMIUM LATINO",Fx (5.4)-LA
-http://190.171.155.170:8081/play/a04o
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="28- PREMIUM LATINO",Fx (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/3201.rtmp
 
@@ -2411,13 +2345,7 @@ http://uruguayiptv.com:25461/live/miguel2019/miguel2019/663.ts
 #EXTINF:-1 tvg-logo="http://cdd657a867bca3d5084e-b68367b7dbe633942cc09bdd6fb9eaea.r58.cf2.rackcdn.com/fxmoviechannel.png" group-title="28- PREMIUM LATINO",Fxm (2)-LA
 http://uruguayiptv.com:25461/live/6688/6688/663.ts
 #EXTINF:-1 tvg-logo="http://cdd657a867bca3d5084e-b68367b7dbe633942cc09bdd6fb9eaea.r58.cf2.rackcdn.com/fxmoviechannel.png" group-title="28- PREMIUM LATINO",Fxm (5)-LA
-http://181.114.232.66:8000/play/a00u
-#EXTINF:-1 tvg-logo="http://cdd657a867bca3d5084e-b68367b7dbe633942cc09bdd6fb9eaea.r58.cf2.rackcdn.com/fxmoviechannel.png" group-title="28- PREMIUM LATINO",Fxm (5.2)-LA
 http://131.221.166.20:8001/play/a01o
-#EXTINF:-1 tvg-logo="http://cdd657a867bca3d5084e-b68367b7dbe633942cc09bdd6fb9eaea.r58.cf2.rackcdn.com/fxmoviechannel.png" group-title="28- PREMIUM LATINO",Fxm (5.3)-LA
-http://45.239.123.14:8081/play/a00c
-#EXTINF:-1 tvg-logo="http://cdd657a867bca3d5084e-b68367b7dbe633942cc09bdd6fb9eaea.r58.cf2.rackcdn.com/fxmoviechannel.png" group-title="28- PREMIUM LATINO",Fxm (5.4)-LA
-http://190.171.155.170:8081/play/a00c
 #EXTINF:-1 tvg-logo="http://cdd657a867bca3d5084e-b68367b7dbe633942cc09bdd6fb9eaea.r58.cf2.rackcdn.com/fxmoviechannel.png" group-title="28- PREMIUM LATINO",Fxm (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/4009.rtmp
 
@@ -2464,13 +2392,7 @@ http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/859.rtmp
 #EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_es/tag/h/hbo/hbo_8m2v.1200.jpg" group-title="28- PREMIUM LATINO",Hbo (4)-LA
 http://randomserver.site:2086/wickeduk/etqyhww45e/88768
 #EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_es/tag/h/hbo/hbo_8m2v.1200.jpg" group-title="28- PREMIUM LATINO",Hbo (5)-LA
-http://181.114.232.66:8000/play/a00j
-#EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_es/tag/h/hbo/hbo_8m2v.1200.jpg" group-title="28- PREMIUM LATINO",Hbo (5.2)-LA
 http://131.221.166.20:8001/play/a002
-#EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_es/tag/h/hbo/hbo_8m2v.1200.jpg" group-title="28- PREMIUM LATINO",Hbo (5.3)-LA
-http://45.239.123.14:8081/play/a04j
-#EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_es/tag/h/hbo/hbo_8m2v.1200.jpg" group-title="28- PREMIUM LATINO",Hbo (5.4)-LA
-http://190.171.155.170:8081/play/a04j
 #EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_es/tag/h/hbo/hbo_8m2v.1200.jpg" group-title="28- PREMIUM LATINO",Hbo (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/3199.rtmp
 #EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_es/tag/h/hbo/hbo_8m2v.1200.jpg" group-title="28- PREMIUM LATINO",Hbo (7)-LA
@@ -2482,10 +2404,6 @@ http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1326.rtmp
 http://randomserver.site:2086/wickeduk/etqyhww45e/88766
 #EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="28- PREMIUM LATINO",Hbo 2 (5)-LA
 http://131.221.166.20:8001/play/a01u
-#EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="28- PREMIUM LATINO",Hbo 2 (5.2)-LA
-http://45.239.123.14:8081/play/a00i
-#EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="28- PREMIUM LATINO",Hbo 2 (5.3)-LA
-http://190.171.155.170:8081/play/a00i
 #EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="28- PREMIUM LATINO",Hbo 2 (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/3198.rtmp
 
@@ -2493,10 +2411,6 @@ http://tv.nousiptv.com:25462/live/luna/1234/3198.rtmp
 http://uruguayiptv.com:25461/live/6688/6688/657.ts
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="28- PREMIUM LATINO",Hbo Family (5)-LA
 http://131.221.166.20:8001/play/a01x
-#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="28- PREMIUM LATINO",Hbo Family (5.2)-LA
-http://45.239.123.14:8081/play/a00l
-#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="28- PREMIUM LATINO",Hbo Family (5.3)-LA
-http://190.171.155.170:8081/play/a00l
 
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/hbomundiGris_Enero20v2.png" group-title="28- PREMIUM LATINO",Hbo Mundi (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/44337.rtmp
@@ -2509,10 +2423,6 @@ http://uruguayiptv.com:25461/live/6688/6688/659.ts
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1301.rtmp
 #EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="28- PREMIUM LATINO",Hbo Plus (5)-LA
 http://131.221.166.20:8001/play/a01v
-#EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="28- PREMIUM LATINO",Hbo Plus (5.2)-LA
-http://45.239.123.14:8081/play/a00j
-#EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="28- PREMIUM LATINO",Hbo Plus (5.3)-LA
-http://190.171.155.170:8081/play/a00j
 #EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="28- PREMIUM LATINO",Hbo Plus (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/4003.rtmp
 
@@ -2530,10 +2440,6 @@ http://randomserver.site:2086/wickeduk/etqyhww45e/88770
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1738.rtmp
 #EXTINF:-1 tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012553/0000_all_l_hboall-HBO-XTREME-Black.png" group-title="28- PREMIUM LATINO",Hbo Xtreme (5)-LA
 http://131.221.166.20:8001/play/a01w
-#EXTINF:-1 tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012553/0000_all_l_hboall-HBO-XTREME-Black.png" group-title="28- PREMIUM LATINO",Hbo Xtreme (5.2)-LA
-http://45.239.123.14:8081/play/a00k
-#EXTINF:-1 tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012553/0000_all_l_hboall-HBO-XTREME-Black.png" group-title="28- PREMIUM LATINO",Hbo Xtreme (5.3)-LA
-http://190.171.155.170:8081/play/a00k
 #EXTINF:-1 tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012553/0000_all_l_hboall-HBO-XTREME-Black.png" group-title="28- PREMIUM LATINO",Hbo Xtreme (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/8226.rtmp
 
@@ -2542,13 +2448,7 @@ http://uruguayiptv.com:25461/live/miguel2019/miguel2019/661.ts
 #EXTINF:-1 tvg-logo="http://ps.vimeo.com.s3.amazonaws.com/962/96284_300.jpg" group-title="28- PREMIUM LATINO",I Sat (2)-LA
 http://uruguayiptv.com:25461/live/6688/6688/661.ts
 #EXTINF:-1 tvg-logo="http://ps.vimeo.com.s3.amazonaws.com/962/96284_300.jpg" group-title="28- PREMIUM LATINO",I Sat (5)-LA
-http://181.114.232.66:8000/play/a00m
-#EXTINF:-1 tvg-logo="http://ps.vimeo.com.s3.amazonaws.com/962/96284_300.jpg" group-title="28- PREMIUM LATINO",I Sat (5.2)-LA
 http://131.221.166.20:8001/play/a00q
-#EXTINF:-1 tvg-logo="http://ps.vimeo.com.s3.amazonaws.com/962/96284_300.jpg" group-title="28- PREMIUM LATINO",I Sat (5.3)-LA
-http://45.239.123.14:8081/play/a02c
-#EXTINF:-1 tvg-logo="http://ps.vimeo.com.s3.amazonaws.com/962/96284_300.jpg" group-title="28- PREMIUM LATINO",I Sat (5.4)-LA
-http://190.171.155.170:8081/play/a02c
 #EXTINF:-1 tvg-logo="http://ps.vimeo.com.s3.amazonaws.com/962/96284_300.jpg" group-title="28- PREMIUM LATINO",I Sat (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/3074.rtmp
 
@@ -2577,13 +2477,7 @@ http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1462.rtmp
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="28- PREMIUM LATINO",Sony (4)-LA
 http://randomserver.site:2086/wickeduk/etqyhww45e/88695
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="28- PREMIUM LATINO",Sony (5)-LA
-http://181.114.232.66:8000/play/a009
-#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="28- PREMIUM LATINO",Sony (5.2)-LA
 http://131.221.166.20:8001/play/a004
-#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="28- PREMIUM LATINO",Sony (5.3)-LA
-http://45.239.123.14:8081/play/a04l
-#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="28- PREMIUM LATINO",Sony (5.4)-LA
-http://190.171.155.170:8081/play/a04l
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="28- PREMIUM LATINO",Sony (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/3069.rtmp
 
@@ -2596,13 +2490,7 @@ http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1474.rtmp
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="28- PREMIUM LATINO",Space (4)-LA
 http://randomserver.site:2086/wickeduk/etqyhww45e/88813
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="28- PREMIUM LATINO",Space (5)-LA
-http://181.114.232.66:8000/play/a01c
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="28- PREMIUM LATINO",Space (5.2)-LA
 http://131.221.166.20:8001/play/a006
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="28- PREMIUM LATINO",Space (5.3)-LA
-http://45.239.123.14:8081/play/a04n
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="28- PREMIUM LATINO",Space (5.4)-LA
-http://190.171.155.170:8081/play/a04n
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="28- PREMIUM LATINO",Space (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/3232.rtmp
 
@@ -2636,8 +2524,6 @@ http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1475.rtmp
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1706.rtmp
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="28- PREMIUM LATINO",Studio Universal (4)-LA
 http://randomserver.site:2086/wickeduk/etqyhww45e/88841
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="28- PREMIUM LATINO",Studio Universal (5)-LA
-http://181.114.232.66:8000/play/a00r
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="28- PREMIUM LATINO",Studio Universal (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/3068.rtmp
 
@@ -2657,26 +2543,14 @@ http://uruguayiptv.com:25461/live/6688/6688/584.ts
 #EXTINF:-1 tvg-logo="http://www.graphis.com/media/uploads/cfe/entry/0c396b4d-8379-4797-ab9b-0c9cc41b19d4/tbs_logo.png" group-title="28- PREMIUM LATINO",Tbs (3)-LA
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1762.rtmp
 #EXTINF:-1 tvg-logo="http://www.graphis.com/media/uploads/cfe/entry/0c396b4d-8379-4797-ab9b-0c9cc41b19d4/tbs_logo.png" group-title="28- PREMIUM LATINO",Tbs (5)-LA
-http://181.114.232.66:8000/play/a00k
-#EXTINF:-1 tvg-logo="http://www.graphis.com/media/uploads/cfe/entry/0c396b4d-8379-4797-ab9b-0c9cc41b19d4/tbs_logo.png" group-title="28- PREMIUM LATINO",Tbs (5.2)-LA
 http://131.221.166.20:8001/play/a00e
-#EXTINF:-1 tvg-logo="http://www.graphis.com/media/uploads/cfe/entry/0c396b4d-8379-4797-ab9b-0c9cc41b19d4/tbs_logo.png" group-title="28- PREMIUM LATINO",Tbs (5.3)-LA
-http://45.239.123.14:8081/play/a02v
-#EXTINF:-1 tvg-logo="http://www.graphis.com/media/uploads/cfe/entry/0c396b4d-8379-4797-ab9b-0c9cc41b19d4/tbs_logo.png" group-title="28- PREMIUM LATINO",Tbs (5.4)-LA
-http://190.171.155.170:8081/play/a02v
 #EXTINF:-1 tvg-logo="http://www.graphis.com/media/uploads/cfe/entry/0c396b4d-8379-4797-ab9b-0c9cc41b19d4/tbs_logo.png" group-title="28- PREMIUM LATINO",Tbs (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/4011.rtmp
 
 #EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="28- PREMIUM LATINO",Tcm (3)-LA
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1433.rtmp
 #EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="28- PREMIUM LATINO",Tcm (5)-LA
-http://181.114.232.66:8000/play/a00c
-#EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="28- PREMIUM LATINO",Tcm (5.2)-LA
 http://131.221.166.20:8001/play/a00v
-#EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="28- PREMIUM LATINO",Tcm (5.3)-LA
-http://45.239.123.14:8081/play/a02h
-#EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="28- PREMIUM LATINO",Tcm (5.4)-LA
-http://190.171.155.170:8081/play/a02h
 
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="28- PREMIUM LATINO",Tnt (1)-LA
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/651.ts
@@ -2687,20 +2561,12 @@ http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/833.rtmp
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="28- PREMIUM LATINO",Tnt (3.2)-LA
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1701.rtmp
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="28- PREMIUM LATINO",Tnt (5)-LA
-http://181.114.232.66:8000/play/a00z
-#EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="28- PREMIUM LATINO",Tnt (5.2)-LA
 http://131.221.166.20:8001/play/a00y
-#EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="28- PREMIUM LATINO",Tnt (5.3)-LA
-http://45.239.123.14:8081/play/a02k
-#EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="28- PREMIUM LATINO",Tnt (5.4)-LA
-http://190.171.155.170:8081/play/a02k
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="28- PREMIUM LATINO",Tnt (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/4010.rtmp
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="28- PREMIUM LATINO",Tnt Series (3)-LA
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1403.rtmp
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="28- PREMIUM LATINO",Tnt Series (5)-LA
-http://181.114.232.66:8000/play/a00x
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="28- PREMIUM LATINO",Tnt Series (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/3218.rtmp
 
@@ -2711,15 +2577,7 @@ http://uruguayiptv.com:25461/live/6688/6688/587.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_universal-channel_m.png" group-title="28- PREMIUM LATINO",Universal Channel (3)-LA
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1334.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_universal-channel_m.png" group-title="28- PREMIUM LATINO",Universal Channel (5)-LA
-http://181.114.232.66:8000/play/a010
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_universal-channel_m.png" group-title="28- PREMIUM LATINO",Universal Channel (5.2)-LA
-http://181.114.232.66:8000/play/a012
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_universal-channel_m.png" group-title="28- PREMIUM LATINO",Universal Channel (5.3)-LA
 http://131.221.166.20:8001/play/a00o
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_universal-channel_m.png" group-title="28- PREMIUM LATINO",Universal Channel (5.4)-LA
-http://45.239.123.14:8081/play/a02a
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_universal-channel_m.png" group-title="28- PREMIUM LATINO",Universal Channel (5.5)-LA
-http://190.171.155.170:8081/play/a02a
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_universal-channel_m.png" group-title="28- PREMIUM LATINO",Universal Channel (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/4054.rtmp
 
@@ -2730,13 +2588,7 @@ http://uruguayiptv.com:25461/live/6688/6688/586.ts
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="28- PREMIUM LATINO",Warner Channel (3)-LA
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1476.rtmp
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="28- PREMIUM LATINO",Warner Channel (5)-LA
-http://181.114.232.66:8000/play/a00s
-#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="28- PREMIUM LATINO",Warner Channel (5.2)-LA
 http://131.221.166.20:8001/play/a013
-#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="28- PREMIUM LATINO",Warner Channel (5.3)-LA
-http://45.239.123.14:8081/play/a01e
-#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="28- PREMIUM LATINO",Warner Channel (5.4)-LA
-http://190.171.155.170:8081/play/a01e
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="28- PREMIUM LATINO",Warner Channel (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/3228.rtmp
 
@@ -2751,7 +2603,7 @@ http://ic7.101.ru:8000/a23
 #EXTINF:-1 tvg-logo="https://stagingcms.cignal.tv/Upload/Images/AMC.png" group-title="29- PREMIUM BRASIL",Amc (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61194
 #EXTINF:-1 tvg-logo="https://stagingcms.cignal.tv/Upload/Images/AMC.png" group-title="29- PREMIUM BRASIL",Amc (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61194
+http://srv.tvprodigital.net:80/010573/010573/61194
 #EXTINF:-1 tvg-logo="https://stagingcms.cignal.tv/Upload/Images/AMC.png" group-title="29- PREMIUM BRASIL",Amc (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/5077.ts
 #EXTINF:-1 tvg-logo="https://stagingcms.cignal.tv/Upload/Images/AMC.png" group-title="29- PREMIUM BRASIL",Amc (4)-BR
@@ -2764,7 +2616,7 @@ http://srv.tvprodigital.net:80/193883/193883/61194
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="29- PREMIUM BRASIL",Axn (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61197
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="29- PREMIUM BRASIL",Axn (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61197
+http://srv.tvprodigital.net:80/010573/010573/61197
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="29- PREMIUM BRASIL",Axn (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/893.ts
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="29- PREMIUM BRASIL",Axn (4)-BR
@@ -2777,7 +2629,7 @@ http://srv.tvprodigital.net:80/193883/193883/61197
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="29- PREMIUM BRASIL",Cinemax (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61198
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="29- PREMIUM BRASIL",Cinemax (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61198
+http://srv.tvprodigital.net:80/010573/010573/61198
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="29- PREMIUM BRASIL",Cinemax (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/876.ts
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="29- PREMIUM BRASIL",Cinemax (4)-BR
@@ -2790,7 +2642,7 @@ http://srv.tvprodigital.net:80/193883/193883/61198
 #EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="29- PREMIUM BRASIL",Comedy Central (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61244
 #EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="29- PREMIUM BRASIL",Comedy Central (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61244
+http://srv.tvprodigital.net:80/010573/010573/61244
 #EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="29- PREMIUM BRASIL",Comedy Central (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/873.ts
 #EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="29- PREMIUM BRASIL",Comedy Central (4)-BR
@@ -2803,7 +2655,7 @@ http://srv.tvprodigital.net:80/193883/193883/61244
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="29- PREMIUM BRASIL",Fox (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61199
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="29- PREMIUM BRASIL",Fox (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61199
+http://srv.tvprodigital.net:80/010573/010573/61199
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="29- PREMIUM BRASIL",Fox (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/844.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="29- PREMIUM BRASIL",Fox (4)-BR
@@ -2816,7 +2668,7 @@ http://srv.tvprodigital.net:80/193883/193883/61199
 #EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="29- PREMIUM BRASIL",Fox Life (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61200
 #EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="29- PREMIUM BRASIL",Fox Life (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61200
+http://srv.tvprodigital.net:80/010573/010573/61200
 #EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="29- PREMIUM BRASIL",Fox Life (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/839.ts
 #EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="29- PREMIUM BRASIL",Fox Life (4)-BR
@@ -2829,7 +2681,7 @@ http://srv.tvprodigital.net:80/193883/193883/61200
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/FOXPremium1.png/revision/latest?cb=20170324170019" group-title="29- PREMIUM BRASIL",Fox Premium 1 (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61201
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/FOXPremium1.png/revision/latest?cb=20170324170019" group-title="29- PREMIUM BRASIL",Fox Premium 1 (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61201
+http://srv.tvprodigital.net:80/010573/010573/61201
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/FOXPremium1.png/revision/latest?cb=20170324170019" group-title="29- PREMIUM BRASIL",Fox Premium 1 (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/5318.ts
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/FOXPremium1.png/revision/latest?cb=20170324170019" group-title="29- PREMIUM BRASIL",Fox Premium 1 (4)-BR
@@ -2842,7 +2694,7 @@ http://srv.tvprodigital.net:80/193883/193883/61201
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/28/FOXPremium2.png/revision/latest?cb=20170324170127" group-title="29- PREMIUM BRASIL",Fox Premium 2 (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61202
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/28/FOXPremium2.png/revision/latest?cb=20170324170127" group-title="29- PREMIUM BRASIL",Fox Premium 2 (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61202
+http://srv.tvprodigital.net:80/010573/010573/61202
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/28/FOXPremium2.png/revision/latest?cb=20170324170127" group-title="29- PREMIUM BRASIL",Fox Premium 2 (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/5317.ts
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/28/FOXPremium2.png/revision/latest?cb=20170324170127" group-title="29- PREMIUM BRASIL",Fox Premium 2 (4)-BR
@@ -2855,7 +2707,7 @@ http://srv.tvprodigital.net:80/193883/193883/61202
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="29- PREMIUM BRASIL",Fx (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/60972
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="29- PREMIUM BRASIL",Fx (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/60972
+http://srv.tvprodigital.net:80/010573/010573/60972
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="29- PREMIUM BRASIL",Fx (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/833.ts
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="29- PREMIUM BRASIL",Fx (4)-BR
@@ -2868,7 +2720,7 @@ http://srv.tvprodigital.net:80/193883/193883/60972
 #EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_es/tag/h/hbo/hbo_8m2v.1200.jpg" group-title="29- PREMIUM BRASIL",Hbo (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61206
 #EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_es/tag/h/hbo/hbo_8m2v.1200.jpg" group-title="29- PREMIUM BRASIL",Hbo (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61206
+http://srv.tvprodigital.net:80/010573/010573/61206
 #EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_es/tag/h/hbo/hbo_8m2v.1200.jpg" group-title="29- PREMIUM BRASIL",Hbo (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/820.ts
 #EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_es/tag/h/hbo/hbo_8m2v.1200.jpg" group-title="29- PREMIUM BRASIL",Hbo (4)-BR
@@ -2881,7 +2733,7 @@ http://srv.tvprodigital.net:80/193883/193883/61206
 #EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="29- PREMIUM BRASIL",Hbo 2 (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61204
 #EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="29- PREMIUM BRASIL",Hbo 2 (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61204
+http://srv.tvprodigital.net:80/010573/010573/61204
 #EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="29- PREMIUM BRASIL",Hbo 2 (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/810.ts
 #EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="29- PREMIUM BRASIL",Hbo 2 (4)-BR
@@ -2894,7 +2746,7 @@ http://srv.tvprodigital.net:80/193883/193883/61204
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="29- PREMIUM BRASIL",Hbo Family (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61205
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="29- PREMIUM BRASIL",Hbo Family (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61205
+http://srv.tvprodigital.net:80/010573/010573/61205
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="29- PREMIUM BRASIL",Hbo Family (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/818.ts
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="29- PREMIUM BRASIL",Hbo Family (4)-BR
@@ -2907,7 +2759,7 @@ http://srv.tvprodigital.net:80/193883/193883/61205
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/hbomundiGris_Enero20v2.png" group-title="29- PREMIUM BRASIL",Hbo Mundi (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61209
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/hbomundiGris_Enero20v2.png" group-title="29- PREMIUM BRASIL",Hbo Mundi (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61209
+http://srv.tvprodigital.net:80/010573/010573/61209
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/hbomundiGris_Enero20v2.png" group-title="29- PREMIUM BRASIL",Hbo Mundi (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/803.ts
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/hbomundiGris_Enero20v2.png" group-title="29- PREMIUM BRASIL",Hbo Mundi (4)-BR
@@ -2920,7 +2772,7 @@ http://srv.tvprodigital.net:80/193883/193883/61209
 #EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="29- PREMIUM BRASIL",Hbo Plus (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61207
 #EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="29- PREMIUM BRASIL",Hbo Plus (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61207
+http://srv.tvprodigital.net:80/010573/010573/61207
 #EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="29- PREMIUM BRASIL",Hbo Plus (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/815.ts
 #EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="29- PREMIUM BRASIL",Hbo Plus (4)-BR
@@ -2933,7 +2785,7 @@ http://srv.tvprodigital.net:80/193883/193883/61207
 #EXTINF:-1 tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012533/0000_all_l_hboall-HBO-POP-Black.png" group-title="29- PREMIUM BRASIL",Hbo Pop (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61211
 #EXTINF:-1 tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012533/0000_all_l_hboall-HBO-POP-Black.png" group-title="29- PREMIUM BRASIL",Hbo Pop (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61211
+http://srv.tvprodigital.net:80/010573/010573/61211
 #EXTINF:-1 tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012533/0000_all_l_hboall-HBO-POP-Black.png" group-title="29- PREMIUM BRASIL",Hbo Pop (4)-BR
 http://stream-sky.cf:80/live/joao123/joao123/199.ts
 #EXTINF:-1 tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012533/0000_all_l_hboall-HBO-POP-Black.png" group-title="29- PREMIUM BRASIL",Hbo Pop (5)-BR
@@ -2944,7 +2796,7 @@ http://srv.tvprodigital.net:80/193883/193883/61211
 #EXTINF:-1 tvg-logo="https://operadores.hbo-la.tv/img/layout/logos/hbosignature.png" group-title="29- PREMIUM BRASIL",Hbo Signature (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61208
 #EXTINF:-1 tvg-logo="https://operadores.hbo-la.tv/img/layout/logos/hbosignature.png" group-title="29- PREMIUM BRASIL",Hbo Signature (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61208
+http://srv.tvprodigital.net:80/010573/010573/61208
 #EXTINF:-1 tvg-logo="https://operadores.hbo-la.tv/img/layout/logos/hbosignature.png" group-title="29- PREMIUM BRASIL",Hbo Signature (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/812.ts
 #EXTINF:-1 tvg-logo="https://operadores.hbo-la.tv/img/layout/logos/hbosignature.png" group-title="29- PREMIUM BRASIL",Hbo Signature (4)-BR
@@ -2957,7 +2809,7 @@ http://srv.tvprodigital.net:80/193883/193883/61208
 #EXTINF:-1 tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012553/0000_all_l_hboall-HBO-XTREME-Black.png" group-title="29- PREMIUM BRASIL",Hbo Xtreme (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61210
 #EXTINF:-1 tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012553/0000_all_l_hboall-HBO-XTREME-Black.png" group-title="29- PREMIUM BRASIL",Hbo Xtreme (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61210
+http://srv.tvprodigital.net:80/010573/010573/61210
 #EXTINF:-1 tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012553/0000_all_l_hboall-HBO-XTREME-Black.png" group-title="29- PREMIUM BRASIL",Hbo Xtreme (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/802.ts
 #EXTINF:-1 tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012553/0000_all_l_hboall-HBO-XTREME-Black.png" group-title="29- PREMIUM BRASIL",Hbo Xtreme (4)-BR
@@ -2970,7 +2822,7 @@ http://srv.tvprodigital.net:80/193883/193883/61210
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/megapix-logo-png-7.png" group-title="29- PREMIUM BRASIL",Megapix (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61213
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/megapix-logo-png-7.png" group-title="29- PREMIUM BRASIL",Megapix (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61213
+http://srv.tvprodigital.net:80/010573/010573/61213
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/megapix-logo-png-7.png" group-title="29- PREMIUM BRASIL",Megapix (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/799.ts
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/megapix-logo-png-7.png" group-title="29- PREMIUM BRASIL",Megapix (4)-BR
@@ -2983,7 +2835,7 @@ http://srv.tvprodigital.net:80/193883/193883/61213
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_paramount-channel_m.png" group-title="29- PREMIUM BRASIL",Paramount (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61214
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_paramount-channel_m.png" group-title="29- PREMIUM BRASIL",Paramount (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61214
+http://srv.tvprodigital.net:80/010573/010573/61214
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_paramount-channel_m.png" group-title="29- PREMIUM BRASIL",Paramount (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/783.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_paramount-channel_m.png" group-title="29- PREMIUM BRASIL",Paramount (4)-BR
@@ -2996,7 +2848,7 @@ http://srv.tvprodigital.net:80/193883/193883/61214
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="29- PREMIUM BRASIL",Sony (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61215
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="29- PREMIUM BRASIL",Sony (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61215
+http://srv.tvprodigital.net:80/010573/010573/61215
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="29- PREMIUM BRASIL",Sony (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/881.ts
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="29- PREMIUM BRASIL",Sony (4)-BR
@@ -3009,7 +2861,7 @@ http://srv.tvprodigital.net:80/193883/193883/61215
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="29- PREMIUM BRASIL",Space (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61216
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="29- PREMIUM BRASIL",Space (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61216
+http://srv.tvprodigital.net:80/010573/010573/61216
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="29- PREMIUM BRASIL",Space (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/753.ts
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="29- PREMIUM BRASIL",Space (4)-BR
@@ -3022,7 +2874,7 @@ http://srv.tvprodigital.net:80/193883/193883/61216
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="29- PREMIUM BRASIL",Studio Universal (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61217
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="29- PREMIUM BRASIL",Studio Universal (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61217
+http://srv.tvprodigital.net:80/010573/010573/61217
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="29- PREMIUM BRASIL",Studio Universal (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/743.ts
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="29- PREMIUM BRASIL",Studio Universal (4)-BR
@@ -3035,7 +2887,7 @@ http://srv.tvprodigital.net:80/193883/193883/61217
 #EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="29- PREMIUM BRASIL",Syfy (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61218
 #EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="29- PREMIUM BRASIL",Syfy (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61218
+http://srv.tvprodigital.net:80/010573/010573/61218
 #EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="29- PREMIUM BRASIL",Syfy (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/742.ts
 #EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="29- PREMIUM BRASIL",Syfy (4)-BR
@@ -3048,7 +2900,7 @@ http://srv.tvprodigital.net:80/193883/193883/61218
 #EXTINF:-1 tvg-logo="http://www.graphis.com/media/uploads/cfe/entry/0c396b4d-8379-4797-ab9b-0c9cc41b19d4/tbs_logo.png" group-title="29- PREMIUM BRASIL",Tbs (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61001
 #EXTINF:-1 tvg-logo="http://www.graphis.com/media/uploads/cfe/entry/0c396b4d-8379-4797-ab9b-0c9cc41b19d4/tbs_logo.png" group-title="29- PREMIUM BRASIL",Tbs (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61001
+http://srv.tvprodigital.net:80/010573/010573/61001
 #EXTINF:-1 tvg-logo="http://www.graphis.com/media/uploads/cfe/entry/0c396b4d-8379-4797-ab9b-0c9cc41b19d4/tbs_logo.png" group-title="29- PREMIUM BRASIL",Tbs (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/741.ts
 #EXTINF:-1 tvg-logo="http://www.graphis.com/media/uploads/cfe/entry/0c396b4d-8379-4797-ab9b-0c9cc41b19d4/tbs_logo.png" group-title="29- PREMIUM BRASIL",Tbs (4)-BR
@@ -3061,7 +2913,7 @@ http://srv.tvprodigital.net:80/193883/193883/61001
 #EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="29- PREMIUM BRASIL",Tcm (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61004
 #EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="29- PREMIUM BRASIL",Tcm (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61004
+http://srv.tvprodigital.net:80/010573/010573/61004
 #EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="29- PREMIUM BRASIL",Tcm (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/734.ts
 #EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="29- PREMIUM BRASIL",Tcm (4)-BR
@@ -3074,7 +2926,7 @@ http://srv.tvprodigital.net:80/193883/193883/61004
 #EXTINF:-1 tvg-logo="https://www.vendasceara.com.br/wp-content/uploads/2019/02/TC_ACTION.jpg" group-title="29- PREMIUM BRASIL",Telecine Action (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61219
 #EXTINF:-1 tvg-logo="https://www.vendasceara.com.br/wp-content/uploads/2019/02/TC_ACTION.jpg" group-title="29- PREMIUM BRASIL",Telecine Action (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61219
+http://srv.tvprodigital.net:80/010573/010573/61219
 #EXTINF:-1 tvg-logo="https://www.vendasceara.com.br/wp-content/uploads/2019/02/TC_ACTION.jpg" group-title="29- PREMIUM BRASIL",Telecine Action (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/733.ts
 #EXTINF:-1 tvg-logo="https://www.vendasceara.com.br/wp-content/uploads/2019/02/TC_ACTION.jpg" group-title="29- PREMIUM BRASIL",Telecine Action (4)-BR
@@ -3087,7 +2939,7 @@ http://srv.tvprodigital.net:80/193883/193883/61219
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-cult-1_m.png" group-title="29- PREMIUM BRASIL",Telecine Cult (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61220
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-cult-1_m.png" group-title="29- PREMIUM BRASIL",Telecine Cult (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61220
+http://srv.tvprodigital.net:80/010573/010573/61220
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-cult-1_m.png" group-title="29- PREMIUM BRASIL",Telecine Cult (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/732.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-cult-1_m.png" group-title="29- PREMIUM BRASIL",Telecine Cult (4)-BR
@@ -3100,7 +2952,7 @@ http://srv.tvprodigital.net:80/193883/193883/61220
 #EXTINF:-1 tvg-logo="https://www.vendasceara.com.br/wp-content/uploads/2019/02/TC_FUN.jpg" group-title="29- PREMIUM BRASIL",Telecine Fun (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61221
 #EXTINF:-1 tvg-logo="https://www.vendasceara.com.br/wp-content/uploads/2019/02/TC_FUN.jpg" group-title="29- PREMIUM BRASIL",Telecine Fun (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61221
+http://srv.tvprodigital.net:80/010573/010573/61221
 #EXTINF:-1 tvg-logo="https://www.vendasceara.com.br/wp-content/uploads/2019/02/TC_FUN.jpg" group-title="29- PREMIUM BRASIL",Telecine Fun (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/731.ts
 #EXTINF:-1 tvg-logo="https://www.vendasceara.com.br/wp-content/uploads/2019/02/TC_FUN.jpg" group-title="29- PREMIUM BRASIL",Telecine Fun (4)-BR
@@ -3113,7 +2965,7 @@ http://srv.tvprodigital.net:80/193883/193883/61221
 #EXTINF:-1 tvg-logo="https://www.vendasceara.com.br/wp-content/uploads/2019/02/TC_PIPOCA.jpg" group-title="29- PREMIUM BRASIL",Telecine Pipoca (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61222
 #EXTINF:-1 tvg-logo="https://www.vendasceara.com.br/wp-content/uploads/2019/02/TC_PIPOCA.jpg" group-title="29- PREMIUM BRASIL",Telecine Pipoca (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61222
+http://srv.tvprodigital.net:80/010573/010573/61222
 #EXTINF:-1 tvg-logo="https://www.vendasceara.com.br/wp-content/uploads/2019/02/TC_PIPOCA.jpg" group-title="29- PREMIUM BRASIL",Telecine Pipoca (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/730.ts
 #EXTINF:-1 tvg-logo="https://www.vendasceara.com.br/wp-content/uploads/2019/02/TC_PIPOCA.jpg" group-title="29- PREMIUM BRASIL",Telecine Pipoca (4)-BR
@@ -3126,7 +2978,7 @@ http://srv.tvprodigital.net:80/193883/193883/61222
 #EXTINF:-1 tvg-logo="https://www.vendasceara.com.br/wp-content/uploads/2019/02/TC_PREMIUM.jpg" group-title="29- PREMIUM BRASIL",Telecine Premium (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61223
 #EXTINF:-1 tvg-logo="https://www.vendasceara.com.br/wp-content/uploads/2019/02/TC_PREMIUM.jpg" group-title="29- PREMIUM BRASIL",Telecine Premium (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61223
+http://srv.tvprodigital.net:80/010573/010573/61223
 #EXTINF:-1 tvg-logo="https://www.vendasceara.com.br/wp-content/uploads/2019/02/TC_PREMIUM.jpg" group-title="29- PREMIUM BRASIL",Telecine Premium (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/729.ts
 #EXTINF:-1 tvg-logo="https://www.vendasceara.com.br/wp-content/uploads/2019/02/TC_PREMIUM.jpg" group-title="29- PREMIUM BRASIL",Telecine Premium (4)-BR
@@ -3139,7 +2991,7 @@ http://srv.tvprodigital.net:80/193883/193883/61223
 #EXTINF:-1 tvg-logo="https://www.vendasceara.com.br/wp-content/uploads/2019/02/TC_TOUCH.jpg" group-title="29- PREMIUM BRASIL",Telecine Touch (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61224
 #EXTINF:-1 tvg-logo="https://www.vendasceara.com.br/wp-content/uploads/2019/02/TC_TOUCH.jpg" group-title="29- PREMIUM BRASIL",Telecine Touch (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61224
+http://srv.tvprodigital.net:80/010573/010573/61224
 #EXTINF:-1 tvg-logo="https://www.vendasceara.com.br/wp-content/uploads/2019/02/TC_TOUCH.jpg" group-title="29- PREMIUM BRASIL",Telecine Touch (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/728.ts
 #EXTINF:-1 tvg-logo="https://www.vendasceara.com.br/wp-content/uploads/2019/02/TC_TOUCH.jpg" group-title="29- PREMIUM BRASIL",Telecine Touch (4)-BR
@@ -3152,7 +3004,7 @@ http://srv.tvprodigital.net:80/193883/193883/61224
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="29- PREMIUM BRASIL",Tnt (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61225
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="29- PREMIUM BRASIL",Tnt (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61225
+http://srv.tvprodigital.net:80/010573/010573/61225
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="29- PREMIUM BRASIL",Tnt (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/724.ts
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="29- PREMIUM BRASIL",Tnt (5)-BR
@@ -3163,7 +3015,7 @@ http://srv.tvprodigital.net:80/193883/193883/61225
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="29- PREMIUM BRASIL",Tnt Series (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61226
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="29- PREMIUM BRASIL",Tnt Series (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61226
+http://srv.tvprodigital.net:80/010573/010573/61226
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="29- PREMIUM BRASIL",Tnt Series (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/722.ts
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="29- PREMIUM BRASIL",Tnt Series (4)-BR
@@ -3176,7 +3028,7 @@ http://srv.tvprodigital.net:80/193883/193883/61226
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_universal-channel_m.png" group-title="29- PREMIUM BRASIL",Universal Channel (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61227
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_universal-channel_m.png" group-title="29- PREMIUM BRASIL",Universal Channel (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61227
+http://srv.tvprodigital.net:80/010573/010573/61227
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_universal-channel_m.png" group-title="29- PREMIUM BRASIL",Universal Channel (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/711.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_universal-channel_m.png" group-title="29- PREMIUM BRASIL",Universal Channel (4)-BR
@@ -3189,7 +3041,7 @@ http://srv.tvprodigital.net:80/193883/193883/61227
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="29- PREMIUM BRASIL",Warner Channel (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61024
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="29- PREMIUM BRASIL",Warner Channel (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61024
+http://srv.tvprodigital.net:80/010573/010573/61024
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="29- PREMIUM BRASIL",Warner Channel (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/706.ts
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="29- PREMIUM BRASIL",Warner Channel (4)-BR
@@ -3217,8 +3069,6 @@ http://uruguayiptv.com:25461/live/6688/6688/577.ts
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1745.rtmp
 #EXTINF:-1 tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2019/02/ENTERTAIMENT-TELEVISION-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg" group-title="30- VARIEDADES LATINO",E! (4)-LA
 http://randomserver.site:2086/wickeduk/etqyhww45e/88725
-#EXTINF:-1 tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2019/02/ENTERTAIMENT-TELEVISION-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg" group-title="30- VARIEDADES LATINO",E! (5)-LA
-http://190.171.155.170:8081/play/a01f
 #EXTINF:-1 tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2019/02/ENTERTAIMENT-TELEVISION-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg" group-title="30- VARIEDADES LATINO",E! (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/3207.rtmp
 
@@ -3245,8 +3095,6 @@ http://uruguayiptv.com:25461/live/6688/6688/674.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_film-arts_m.png" group-title="30- VARIEDADES LATINO",Film & Arts (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/3966.rtmp
 
-#EXTINF:-1 tvg-logo="https://bestofsno.com/wp-content/uploads/2019/03/3.18-culinary.png" group-title="30- VARIEDADES LATINO",Food Network (5)-LA
-http://181.114.232.66:8000/play/a01f
 #EXTINF:-1 tvg-logo="https://bestofsno.com/wp-content/uploads/2019/03/3.18-culinary.png" group-title="30- VARIEDADES LATINO",Food Network (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/4146.rtmp
 
@@ -3254,8 +3102,6 @@ http://tv.nousiptv.com:25462/live/luna/1234/4146.rtmp
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/324.ts
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/22/53/ef/2253eff0b7164502c402c73e98ef9417.png" group-title="30- VARIEDADES LATINO",Glitz (2)-LA
 http://uruguayiptv.com:25461/live/6688/6688/324.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/22/53/ef/2253eff0b7164502c402c73e98ef9417.png" group-title="30- VARIEDADES LATINO",Glitz (5)-LA
-http://181.114.232.66:8000/play/a00l
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/22/53/ef/2253eff0b7164502c402c73e98ef9417.png" group-title="30- VARIEDADES LATINO",Glitz (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/3238.rtmp
 
@@ -3290,10 +3136,6 @@ http://main.realiptv.to:25461/charlie/charlie/40632
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1081.rtmp
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/112-1126076_old-music-mtv-png-logo-mtv-logo-transparent.png" group-title="30- VARIEDADES LATINO",Mtv (5)-LA
 http://131.221.166.20:8001/play/a00r
-#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/112-1126076_old-music-mtv-png-logo-mtv-logo-transparent.png" group-title="30- VARIEDADES LATINO",Mtv (5.2)-LA
-http://45.239.123.14:8081/play/a02d
-#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/112-1126076_old-music-mtv-png-logo-mtv-logo-transparent.png" group-title="30- VARIEDADES LATINO",Mtv (5.3)-LA
-http://190.171.155.170:8081/play/a02d
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/112-1126076_old-music-mtv-png-logo-mtv-logo-transparent.png" group-title="30- VARIEDADES LATINO",Mtv (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/3192.rtmp
 
@@ -3355,7 +3197,7 @@ http://stream-sky.cf:80/live/joao123/joao123/10.ts
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo.png" group-title="31- VARIEDADES BRASIL",Bis (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61274
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo.png" group-title="31- VARIEDADES BRASIL",Bis (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61274
+http://srv.tvprodigital.net:80/010573/010573/61274
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo.png" group-title="31- VARIEDADES BRASIL",Bis (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/886.ts
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo.png" group-title="31- VARIEDADES BRASIL",Bis (4)-BR
@@ -3373,7 +3215,7 @@ http://stream-sky.cf:80/live/joao123/joao123/54.ts
 #EXTINF:-1 tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2019/02/ENTERTAIMENT-TELEVISION-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg" group-title="31- VARIEDADES BRASIL",E! (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61161
 #EXTINF:-1 tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2019/02/ENTERTAIMENT-TELEVISION-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg" group-title="31- VARIEDADES BRASIL",E! (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61161
+http://srv.tvprodigital.net:80/010573/010573/61161
 #EXTINF:-1 tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2019/02/ENTERTAIMENT-TELEVISION-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg" group-title="31- VARIEDADES BRASIL",E! (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/857.ts
 #EXTINF:-1 tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2019/02/ENTERTAIMENT-TELEVISION-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg" group-title="31- VARIEDADES BRASIL",E! (4)-BR
@@ -3389,7 +3231,7 @@ http://stream-sky.cf:80/live/joao123/joao123/1038290.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fishtv_m.png" group-title="31- VARIEDADES BRASIL",Fish TV (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61039
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fishtv_m.png" group-title="31- VARIEDADES BRASIL",Fish TV (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61039
+http://srv.tvprodigital.net:80/010573/010573/61039
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fishtv_m.png" group-title="31- VARIEDADES BRASIL",Fish TV (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/846.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fishtv_m.png" group-title="31- VARIEDADES BRASIL",Fish TV (4)-BR
@@ -3402,7 +3244,7 @@ http://srv.tvprodigital.net:80/193883/193883/61039
 #EXTINF:-1 tvg-logo="https://bestofsno.com/wp-content/uploads/2019/03/3.18-culinary.png" group-title="31- VARIEDADES BRASIL",Food Network (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61163
 #EXTINF:-1 tvg-logo="https://bestofsno.com/wp-content/uploads/2019/03/3.18-culinary.png" group-title="31- VARIEDADES BRASIL",Food Network (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61163
+http://srv.tvprodigital.net:80/010573/010573/61163
 #EXTINF:-1 tvg-logo="https://bestofsno.com/wp-content/uploads/2019/03/3.18-culinary.png" group-title="31- VARIEDADES BRASIL",Food Network (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/845.ts
 #EXTINF:-1 tvg-logo="https://bestofsno.com/wp-content/uploads/2019/03/3.18-culinary.png" group-title="31- VARIEDADES BRASIL",Food Network (4)-BR
@@ -3425,7 +3267,7 @@ http://stream-sky.cf:80/live/joao123/joao123/124.ts
 #EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2017/06/logo_tv_lifetime_june2017-500x250.png" group-title="31- VARIEDADES BRASIL",Lifetime (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61212
 #EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2017/06/logo_tv_lifetime_june2017-500x250.png" group-title="31- VARIEDADES BRASIL",Lifetime (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61212
+http://srv.tvprodigital.net:80/010573/010573/61212
 #EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2017/06/logo_tv_lifetime_june2017-500x250.png" group-title="31- VARIEDADES BRASIL",Lifetime (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/805.ts
 #EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2017/06/logo_tv_lifetime_june2017-500x250.png" group-title="31- VARIEDADES BRASIL",Lifetime (4)-BR
@@ -3438,7 +3280,7 @@ http://srv.tvprodigital.net:80/193883/193883/61212
 #EXTINF:-1 tvg-logo="https://s2.glbimg.com/uiEeBZJKeOneVk97k2Oo00zutxI=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/f1/9f/b246cd313d3bbf3d94cfc654a161.png" group-title="31- VARIEDADES BRASIL",Mais Globosat (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61173
 #EXTINF:-1 tvg-logo="https://s2.glbimg.com/uiEeBZJKeOneVk97k2Oo00zutxI=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/f1/9f/b246cd313d3bbf3d94cfc654a161.png" group-title="31- VARIEDADES BRASIL",Mais Globosat (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61173
+http://srv.tvprodigital.net:80/010573/010573/61173
 #EXTINF:-1 tvg-logo="https://s2.glbimg.com/uiEeBZJKeOneVk97k2Oo00zutxI=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/f1/9f/b246cd313d3bbf3d94cfc654a161.png" group-title="31- VARIEDADES BRASIL",Mais Globosat (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/804.ts
 #EXTINF:-1 tvg-logo="https://s2.glbimg.com/uiEeBZJKeOneVk97k2Oo00zutxI=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/f1/9f/b246cd313d3bbf3d94cfc654a161.png" group-title="31- VARIEDADES BRASIL",Mais Globosat (4)-BR
@@ -3451,7 +3293,7 @@ http://srv.tvprodigital.net:80/193883/193883/61173
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/112-1126076_old-music-mtv-png-logo-mtv-logo-transparent.png" group-title="31- VARIEDADES BRASIL",Mtv (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61277
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/112-1126076_old-music-mtv-png-logo-mtv-logo-transparent.png" group-title="31- VARIEDADES BRASIL",Mtv (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61277
+http://srv.tvprodigital.net:80/010573/010573/61277
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/112-1126076_old-music-mtv-png-logo-mtv-logo-transparent.png" group-title="31- VARIEDADES BRASIL",Mtv (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/797.ts
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/112-1126076_old-music-mtv-png-logo-mtv-logo-transparent.png" group-title="31- VARIEDADES BRASIL",Mtv (4)-BR
@@ -3467,7 +3309,7 @@ http://a.srvbr.me:8880/live/779782/779782/5654.ts
 #EXTINF:-1 tvg-logo="http://s2.glbimg.com/aYKWYWXJqKq4o3_tByMbh_jRpt8=/0x0:234x146/234x146/s.glbimg.com/pv/an/f/original/2015/02/24/multishow-234x146.png" group-title="31- VARIEDADES BRASIL",Multishow (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61278
 #EXTINF:-1 tvg-logo="http://s2.glbimg.com/aYKWYWXJqKq4o3_tByMbh_jRpt8=/0x0:234x146/234x146/s.glbimg.com/pv/an/f/original/2015/02/24/multishow-234x146.png" group-title="31- VARIEDADES BRASIL",Multishow (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61278
+http://srv.tvprodigital.net:80/010573/010573/61278
 #EXTINF:-1 tvg-logo="http://s2.glbimg.com/aYKWYWXJqKq4o3_tByMbh_jRpt8=/0x0:234x146/234x146/s.glbimg.com/pv/an/f/original/2015/02/24/multishow-234x146.png" group-title="31- VARIEDADES BRASIL",Multishow (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/796.ts
 #EXTINF:-1 tvg-logo="http://s2.glbimg.com/aYKWYWXJqKq4o3_tByMbh_jRpt8=/0x0:234x146/234x146/s.glbimg.com/pv/an/f/original/2015/02/24/multishow-234x146.png" group-title="31- VARIEDADES BRASIL",Multishow (4)-BR
@@ -3488,7 +3330,7 @@ http://stream-sky.cf:80/live/joao123/joao123/222.ts
 #EXTINF:-1 tvg-logo="http://www.boxbrazil.tv.br/wp-content/uploads/2018/07/prime-e1532524998483.png" group-title="31- VARIEDADES BRASIL",Prime Box (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61187
 #EXTINF:-1 tvg-logo="http://www.boxbrazil.tv.br/wp-content/uploads/2018/07/prime-e1532524998483.png" group-title="31- VARIEDADES BRASIL",Prime Box (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61187
+http://srv.tvprodigital.net:80/010573/010573/61187
 #EXTINF:-1 tvg-logo="http://www.boxbrazil.tv.br/wp-content/uploads/2018/07/prime-e1532524998483.png" group-title="31- VARIEDADES BRASIL",Prime Box (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/5300.ts
 #EXTINF:-1 tvg-logo="http://www.boxbrazil.tv.br/wp-content/uploads/2018/07/prime-e1532524998483.png" group-title="31- VARIEDADES BRASIL",Prime Box (4)-BR
@@ -3550,68 +3392,6 @@ http://p-fun.fun:80/live/VoDOnTvBR2030/2018vod2/37213.rtmp
 #EXTINF:-1 tvg-logo="https://dl1.cbsistatic.com/i/2017/08/25/a9dbe9e5-77c7-4902-b1c5-bd0c5d424f12/cb62fb68b437d0d7d5d7f6514efb67e1/imgingest-9062470719731506462.png" group-title="32- KIDS 24 HORAS BRASIL",Dinotrux ʰᵈ-BR
 http://p-fun.fun:80/live/VoDOnTvBR2030/2018vod2/68168.rtmp
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f3/e6/cb/f3e6cb2935d2bab8a441b1f5b947a005.png" group-title="32- KIDS 24 HORAS BRASIL",Scooby Doo-BR
-http://stream-sky.cf:80/live/joao123/joao123/715089.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/600x315/85/6d/a7/856da70c752bd43203a87ca5804010d0.jpg" group-title="32- KIDS 24 HORAS BRASIL",Popeye-BR
-http://stream-sky.cf:80/live/joao123/joao123/715091.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6b/4a/a6/6b4aa658014212ae6f10242459713e14.jpg" group-title="32- KIDS 24 HORAS BRASIL",Cavaleiros do Zodiaco-BR
-http://stream-sky.cf:80/live/joao123/joao123/715092.ts
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51uYL1ldtzL._SX342_QL70_ML2_.jpg" group-title="32- KIDS 24 HORAS BRASIL",O Máskara-BR
-http://stream-sky.cf:80/live/joao123/joao123/715096.ts
-#EXTINF:-1 tvg-logo="https://zoneflix.com/wp-content/uploads/2019/08/temporada-3-de-big-mouth.jpg" group-title="32- KIDS 24 HORAS BRASIL",Big Mouth-BR
-http://stream-sky.cf:80/live/joao123/joao123/715097.ts
-#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6338/811f4c7c7a83938c3c9372219134e421b8d97a7f_00.jpg" group-title="32- KIDS 24 HORAS BRASIL",Naruto Clássico-BR
-http://stream-sky.cf:80/live/joao123/joao123/715098.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/20/40/0f/20400fcec66b8a3a6c49a982b19ac034.jpg" group-title="32- KIDS 24 HORAS BRASIL",Todo Mundo Odeia O Chris-BR
-http://stream-sky.cf:80/live/joao123/joao123/715099.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ce/3c/e4/ce3ce4a421f60f19b4f5ff98b6c71b54.jpg" group-title="32- KIDS 24 HORAS BRASIL",Caverna Do Dragão-BR
-http://stream-sky.cf:80/live/joao123/joao123/715101.ts
-#EXTINF:-1 tvg-logo="https://www.peppapig.com/wp-content/uploads/sites/3/2019/02/peppa_george_characters.png" group-title="32- KIDS 24 HORAS BRASIL",Peppa Pig-BR
-http://stream-sky.cf:80/live/joao123/joao123/715102.ts
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-waB126yGi1w/XbctLqzRSgI/AAAAAAABcn8/7q2c-WV74GYDOgL9j1300fa0aQJ9F23rQCLcBGAsYHQ/s1600/Patrulha%2BCanina.png" group-title="32- KIDS 24 HORAS BRASIL",Patrulha Canina-BR
-http://stream-sky.cf:80/live/joao123/joao123/715104.ts
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-SggcgqLbnGI/UNtYy8sMeZI/AAAAAAAABEs/TBFlU2ByxdE/s1600/1A3DC3_1.jpg" group-title="32- KIDS 24 HORAS BRASIL",Eu A Patroa E As Crianças-BR
-http://stream-sky.cf:80/live/joao123/joao123/715105.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c6/67/64/c66764e01a5301882a78b8dc799f8d4f.jpg" group-title="32- KIDS 24 HORAS BRASIL",Galinha Pintadinha-BR
-http://stream-sky.cf:80/live/joao123/joao123/715106.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/57/10/a7/5710a7433fa7f5bd06bcfccaebe522e4.jpg" group-title="32- KIDS 24 HORAS BRASIL",Pica Pau-BR
-http://stream-sky.cf:80/live/joao123/joao123/715107.ts
-#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/img.iluria.com/product/1CD3B1/43FC06/450xN.jpg" group-title="32- KIDS 24 HORAS BRASIL",Homem Aranha-BR
-http://stream-sky.cf:80/live/joao123/joao123/715108.ts
-#EXTINF:-1 tvg-logo="https://www.estrelando.com.br/uploads/2020/06/05/chaves-serie-1--1591383098.jpg" group-title="32- KIDS 24 HORAS BRASIL",Chaves-BR
-http://stream-sky.cf:80/live/joao123/joao123/715110.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/4e/9c/a0/4e9ca01f7b4e23baeae6291b0648261c.png" group-title="32- KIDS 24 HORAS BRASIL",Bob Esponja-BR
-http://stream-sky.cf:80/live/joao123/joao123/715111.ts
-#EXTINF:-1 tvg-logo="https://studiosol-a.akamaihd.net/uploadfile/letras/albuns/9/d/7/3/628701559245456.jpg" group-title="32- KIDS 24 HORAS BRASIL",3 Palavrinhas-BR
-http://stream-sky.cf:80/live/joao123/joao123/717100.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/15/a2/c4/15a2c4706a121c9797d60079ea43ddf8.jpg" group-title="32- KIDS 24 HORAS BRASIL",A Familia Dracula-BR
-http://stream-sky.cf:80/live/joao123/joao123/717102.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/59/a2/e6/59a2e6834a442a4f6e53bb785e86622b.jpg" group-title="32- KIDS 24 HORAS BRASIL",Aladdin Desenho Animado-BR
-http://stream-sky.cf:80/live/joao123/joao123/717107.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b7/af/97/b7af97db6e3b3f3bdd40e945bf7a86f7.jpg" group-title="32- KIDS 24 HORAS BRASIL",As Aventuras De Jackie Chan-BR
-http://stream-sky.cf:80/live/joao123/joao123/717108.ts
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ogVexm6P874/WSJavg7hpwI/AAAAAAAACpQ/Gwqnb789JlQxyZbuwPo4ph_ZxUqNVyUsQCLcB/s200/retro-cartoon.jpg" group-title="32- KIDS 24 HORAS BRASIL",Retro Cartoon-BR
-http://stream-sky.cf:80/live/joao123/joao123/717110.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/01/c7/6d/01c76d667c0836eae21358d71592defb.jpg" group-title="32- KIDS 24 HORAS BRASIL",A Pantera Cor De Rosa-BR
-http://stream-sky.cf:80/live/joao123/joao123/755668.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/30/d5/af/30d5af1d63d5344a6b6a71ca2b0e05fe.jpg" group-title="32- KIDS 24 HORAS BRASIL",Dragon Ball Super-BR
-http://stream-sky.cf:80/live/joao123/joao123/755669.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/89/4c/96/894c96e99bd4e450f9b3e7981c49e370.jpg" group-title="32- KIDS 24 HORAS BRASIL",Timão E Pumba-BR
-http://stream-sky.cf:80/live/joao123/joao123/755670.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/57/79/5d/57795d46eb29b632e855fb24bc73e7e8.jpg" group-title="32- KIDS 24 HORAS BRASIL",Yugioh Clássico-BR
-http://stream-sky.cf:80/live/joao123/joao123/755672.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/73/4c/1e/734c1eea817102ba710d6412ddca2425.jpg" group-title="32- KIDS 24 HORAS BRASIL",Chapolin Colorado-BR
-http://stream-sky.cf:80/live/joao123/joao123/755676.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f8/f3/c3/f8f3c3e177614d714df81f9294ee11ff.png" group-title="32- KIDS 24 HORAS BRASIL",Rick And Morty-BR
-http://stream-sky.cf:80/live/joao123/joao123/755677.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/a8/e4/fd/a8e4fde28f8c9692763226767a777958.png" group-title="32- KIDS 24 HORAS BRASIL",Os Simpsons-BR
-http://stream-sky.cf:80/live/joao123/joao123/755678.ts
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/G/01/digital/video/hero/TVSeries/Southpark-944500-South._V366483498_SX1080_.jpg" group-title="32- KIDS 24 HORAS BRASIL",South Park-BR
-http://stream-sky.cf:80/live/joao123/joao123/755679.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/93/fc/e3/93fce372cff8e67b157900f43ba10ba0.png" group-title="32- KIDS 24 HORAS BRASIL",Masha E O Urso-BR
-http://stream-sky.cf:80/live/joao123/joao123/755683.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/b8/00/de/b800de4c6d60921e7e6ba3ef2522fe8a.jpg" group-title="32- KIDS 24 HORAS BRASIL",Os Padrinhos Mágicos-BR
-http://stream-sky.cf:80/live/joao123/joao123/755694.ts
 ######################################################################################################################################
 #######################################
 #EXTINF:-1 tvg-logo="http://es.fordesigner.com/imguploads/Image/cjbc/zcool/png20080526/1211804902.png" group-title="32- INFANTIL LATINO",32- INFANTIL LATINO
@@ -3663,13 +3443,7 @@ http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1425.rtmp
 #EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="32- INFANTIL LATINO",Cartoon Network (4)-LA
 http://randomserver.site:2086/wickeduk/etqyhww45e/88692
 #EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="32- INFANTIL LATINO",Cartoon Network (5)-LA
-http://181.114.232.66:8000/play/a00h
-#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="32- INFANTIL LATINO",Cartoon Network (5.2)-LA
 http://131.221.166.20:8001/play/a00x
-#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="32- INFANTIL LATINO",Cartoon Network (5.3)-LA
-http://45.239.123.14:8081/play/a02j
-#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="32- INFANTIL LATINO",Cartoon Network (5.4)-LA
-http://190.171.155.170:8081/play/a02j
 #EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="32- INFANTIL LATINO",Cartoon Network (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/3249.rtmp
 
@@ -3679,10 +3453,6 @@ http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/879.rtmp
 http://randomserver.site:2086/wickeduk/etqyhww45e/88715
 #EXTINF:-1 tvg-logo="https://uploads.tapatalk-cdn.com/20180216/e15145d23f1a35eda5537e61932ea069.jpg" group-title="32- INFANTIL LATINO",Discovery Kids (5)-LA
 http://131.221.166.20:8001/play/a01h
-#EXTINF:-1 tvg-logo="https://uploads.tapatalk-cdn.com/20180216/e15145d23f1a35eda5537e61932ea069.jpg" group-title="32- INFANTIL LATINO",Discovery Kids (5.2)-LA
-http://45.239.123.14:8081/play/a005
-#EXTINF:-1 tvg-logo="https://uploads.tapatalk-cdn.com/20180216/e15145d23f1a35eda5537e61932ea069.jpg" group-title="32- INFANTIL LATINO",Discovery Kids (5.3)-LA
-http://190.171.155.170:8081/play/a005
 #EXTINF:-1 tvg-logo="https://uploads.tapatalk-cdn.com/20180216/e15145d23f1a35eda5537e61932ea069.jpg" group-title="32- INFANTIL LATINO",Discovery Kids (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/3254.rtmp
 
@@ -3694,10 +3464,6 @@ http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1427.rtmp
 http://randomserver.site:2086/wickeduk/etqyhww45e/88720
 #EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="32- INFANTIL LATINO",Disney Channel (5)-LA
 http://131.221.166.20:8001/play/a010
-#EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="32- INFANTIL LATINO",Disney Channel (5.2)-LA
-http://45.239.123.14:8081/play/a01b
-#EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="32- INFANTIL LATINO",Disney Channel (5.3)-LA
-http://190.171.155.170:8081/play/a01b
 #EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="32- INFANTIL LATINO",Disney Channel (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/4004.rtmp
 
@@ -3711,10 +3477,6 @@ http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1410.rtmp
 http://randomserver.site:2086/wickeduk/etqyhww45e/88721
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="32- INFANTIL LATINO",Disney Junior (5)-LA
 http://131.221.166.20:8001/play/a01y
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="32- INFANTIL LATINO",Disney Junior (5.2)-LA
-http://45.239.123.14:8081/play/a00m
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="32- INFANTIL LATINO",Disney Junior (5.3)-LA
-http://190.171.155.170:8081/play/a00m
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="32- INFANTIL LATINO",Disney Junior (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/3222.rtmp
 
@@ -3722,10 +3484,6 @@ http://tv.nousiptv.com:25462/live/luna/1234/3222.rtmp
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1426.rtmp
 #EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/Disney_XD_-_2015.svg_.png" group-title="32- INFANTIL LATINO",Disney XD (5)-LA
 http://131.221.166.20:8001/play/a00k
-#EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/Disney_XD_-_2015.svg_.png" group-title="32- INFANTIL LATINO",Disney XD (5.2)-LA
-http://45.239.123.14:8081/play/a026
-#EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/Disney_XD_-_2015.svg_.png" group-title="32- INFANTIL LATINO",Disney XD (5.3)-LA
-http://190.171.155.170:8081/play/a026
 #EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/Disney_XD_-_2015.svg_.png" group-title="32- INFANTIL LATINO",Disney XD (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/3221.rtmp
 
@@ -3736,13 +3494,7 @@ http://uruguayiptv.com:25461/live/6688/6688/709.ts
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/natgeo-kids-logo-01.png" group-title="32- INFANTIL LATINO",Nat Geo Kids (3)-LA
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1747.rtmp
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/natgeo-kids-logo-01.png" group-title="32- INFANTIL LATINO",Nat Geo Kids (5)-LA
-http://181.114.232.66:8000/play/a00i
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/natgeo-kids-logo-01.png" group-title="32- INFANTIL LATINO",Nat Geo Kids (5.2)-LA
 http://131.221.166.20:8001/play/a00w
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/natgeo-kids-logo-01.png" group-title="32- INFANTIL LATINO",Nat Geo Kids (5.3)-LA
-http://45.239.123.14:8081/play/a02i
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/natgeo-kids-logo-01.png" group-title="32- INFANTIL LATINO",Nat Geo Kids (5.4)-LA
-http://190.171.155.170:8081/play/a02i
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/natgeo-kids-logo-01.png" group-title="32- INFANTIL LATINO",Nat Geo Kids (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/4144.rtmp
 
@@ -3754,10 +3506,6 @@ http://uruguayiptv.com:25461/live/6688/6688/710.ts
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1414.rtmp
 #EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="32- INFANTIL LATINO",Nick (5)-LA
 http://131.221.166.20:8001/play/a00j
-#EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="32- INFANTIL LATINO",Nick (5.2)-LA
-http://45.239.123.14:8081/play/a025
-#EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="32- INFANTIL LATINO",Nick (5.3)-LA
-http://190.171.155.170:8081/play/a025
 #EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="32- INFANTIL LATINO",Nick (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/3071.rtmp
 
@@ -3776,10 +3524,6 @@ http://uruguayiptv.com:25461/live/miguel2019/miguel2019/683.ts
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1189.rtmp
 #EXTINF:-1 tvg-logo="http://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="32- INFANTIL LATINO",Nick Junior (5)-LA
 http://131.221.166.20:8001/play/a009
-#EXTINF:-1 tvg-logo="http://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="32- INFANTIL LATINO",Nick Junior (5.2)-LA
-http://45.239.123.14:8081/play/a04w
-#EXTINF:-1 tvg-logo="http://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="32- INFANTIL LATINO",Nick Junior (5.3)-LA
-http://190.171.155.170:8081/play/a04w
 #EXTINF:-1 tvg-logo="http://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="32- INFANTIL LATINO",Nick Junior (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/4194.rtmp
 
@@ -3793,9 +3537,6 @@ http://tv.nousiptv.com:25462/live/luna/1234/3220.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s239510q.png" group-title="32- INFANTIL LATINO",Pequeradio⁻ˢᵈ⁻-LA
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_tateti_m.png" group-title="32- INFANTIL LATINO",Tateti (5)-LA
-http://190.171.155.170:8081/play/a05l
 
 #EXTINF:-1 tvg-logo="https://t3.kn3.net/taringa/A/7/E/6/A/C/RevolucionCN/83A.png" group-title="32- INFANTIL LATINO",Tooncast (1)-LA
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/706.ts
@@ -3826,7 +3567,7 @@ http://stream-sky.cf:80/live/joao123/joao123/29.ts
 #EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="33- INFANTIL BRASIL",Cartoon Network (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61243
 #EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="33- INFANTIL BRASIL",Cartoon Network (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61243
+http://srv.tvprodigital.net:80/010573/010573/61243
 #EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="33- INFANTIL BRASIL",Cartoon Network (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/878.ts
 #EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="33- INFANTIL BRASIL",Cartoon Network (4)-BR
@@ -3839,7 +3580,7 @@ http://srv.tvprodigital.net:80/193883/193883/61243
 #EXTINF:-1 tvg-logo="https://uploads.tapatalk-cdn.com/20180216/e15145d23f1a35eda5537e61932ea069.jpg" group-title="33- INFANTIL BRASIL",Discovery Kids (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61245
 #EXTINF:-1 tvg-logo="https://uploads.tapatalk-cdn.com/20180216/e15145d23f1a35eda5537e61932ea069.jpg" group-title="33- INFANTIL BRASIL",Discovery Kids (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61245
+http://srv.tvprodigital.net:80/010573/010573/61245
 #EXTINF:-1 tvg-logo="https://uploads.tapatalk-cdn.com/20180216/e15145d23f1a35eda5537e61932ea069.jpg" group-title="33- INFANTIL BRASIL",Discovery Kids (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/866.ts
 #EXTINF:-1 tvg-logo="https://uploads.tapatalk-cdn.com/20180216/e15145d23f1a35eda5537e61932ea069.jpg" group-title="33- INFANTIL BRASIL",Discovery Kids (4)-BR
@@ -3852,7 +3593,7 @@ http://srv.tvprodigital.net:80/193883/193883/61245
 #EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="33- INFANTIL BRASIL",Disney Channel (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61246
 #EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="33- INFANTIL BRASIL",Disney Channel (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61246
+http://srv.tvprodigital.net:80/010573/010573/61246
 #EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="33- INFANTIL BRASIL",Disney Channel (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/860.ts
 #EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="33- INFANTIL BRASIL",Disney Channel (4)-BR
@@ -3865,7 +3606,7 @@ http://srv.tvprodigital.net:80/193883/193883/61246
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/223-2235342_walt-disney-classics-2000-logo-walt-disney-classics.png" group-title="33- INFANTIL BRASIL",Disney Classics (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/34876
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/223-2235342_walt-disney-classics-2000-logo-walt-disney-classics.png" group-title="33- INFANTIL BRASIL",Disney Classics (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/34876
+http://srv.tvprodigital.net:80/010573/010573/34876
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/223-2235342_walt-disney-classics-2000-logo-walt-disney-classics.png" group-title="33- INFANTIL BRASIL",Disney Classics (5)-BR
 http://srv.tvprodigital.net:80/090502/090502/34876
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/223-2235342_walt-disney-classics-2000-logo-walt-disney-classics.png" group-title="33- INFANTIL BRASIL",Disney Classics (6)-BR
@@ -3874,7 +3615,7 @@ http://srv.tvprodigital.net:80/193883/193883/34876
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="33- INFANTIL BRASIL",Disney Junior (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61112
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="33- INFANTIL BRASIL",Disney Junior (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61112
+http://srv.tvprodigital.net:80/010573/010573/61112
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="33- INFANTIL BRASIL",Disney Junior (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/859.ts
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="33- INFANTIL BRASIL",Disney Junior (4)-BR
@@ -3887,7 +3628,7 @@ http://srv.tvprodigital.net:80/193883/193883/61112
 #EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/Disney_XD_-_2015.svg_.png" group-title="33- INFANTIL BRASIL",Disney XD (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61114
 #EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/Disney_XD_-_2015.svg_.png" group-title="33- INFANTIL BRASIL",Disney XD (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61114
+http://srv.tvprodigital.net:80/010573/010573/61114
 #EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/Disney_XD_-_2015.svg_.png" group-title="33- INFANTIL BRASIL",Disney XD (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/858.ts
 #EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/Disney_XD_-_2015.svg_.png" group-title="33- INFANTIL BRASIL",Disney XD (4)-BR
@@ -3900,7 +3641,7 @@ http://srv.tvprodigital.net:80/193883/193883/61114
 #EXTINF:-1 tvg-logo="http://g.glbimg.com/og/gs/gsat3/f/thumbs/padrao/2014/09/22/logo_gloob_fundobranco_500x500.jpg" group-title="33- INFANTIL BRASIL",Gloob (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/60857
 #EXTINF:-1 tvg-logo="http://g.glbimg.com/og/gs/gsat3/f/thumbs/padrao/2014/09/22/logo_gloob_fundobranco_500x500.jpg" group-title="33- INFANTIL BRASIL",Gloob (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/60857
+http://srv.tvprodigital.net:80/010573/010573/60857
 #EXTINF:-1 tvg-logo="http://g.glbimg.com/og/gs/gsat3/f/thumbs/padrao/2014/09/22/logo_gloob_fundobranco_500x500.jpg" group-title="33- INFANTIL BRASIL",Gloob (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/825.ts
 #EXTINF:-1 tvg-logo="http://g.glbimg.com/og/gs/gsat3/f/thumbs/padrao/2014/09/22/logo_gloob_fundobranco_500x500.jpg" group-title="33- INFANTIL BRASIL",Gloob (4)-BR
@@ -3913,7 +3654,7 @@ http://srv.tvprodigital.net:80/193883/193883/60857
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_gloobinho-hd_m.png" group-title="33- INFANTIL BRASIL",Gloobinho (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61248
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_gloobinho-hd_m.png" group-title="33- INFANTIL BRASIL",Gloobinho (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61248
+http://srv.tvprodigital.net:80/010573/010573/61248
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_gloobinho-hd_m.png" group-title="33- INFANTIL BRASIL",Gloobinho (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/5306.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_gloobinho-hd_m.png" group-title="33- INFANTIL BRASIL",Gloobinho (4)-BR
@@ -3926,7 +3667,7 @@ http://srv.tvprodigital.net:80/193883/193883/61248
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/natgeo-kids-logo-01.png" group-title="33- INFANTIL BRASIL",Nat Geo Kids (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61249
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/natgeo-kids-logo-01.png" group-title="33- INFANTIL BRASIL",Nat Geo Kids (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61249
+http://srv.tvprodigital.net:80/010573/010573/61249
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/natgeo-kids-logo-01.png" group-title="33- INFANTIL BRASIL",Nat Geo Kids (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/5303.ts
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/natgeo-kids-logo-01.png" group-title="33- INFANTIL BRASIL",Nat Geo Kids (4)-BR
@@ -3939,7 +3680,7 @@ http://srv.tvprodigital.net:80/193883/193883/61249
 #EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="33- INFANTIL BRASIL",Nick (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61250
 #EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="33- INFANTIL BRASIL",Nick (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61250
+http://srv.tvprodigital.net:80/010573/010573/61250
 #EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="33- INFANTIL BRASIL",Nick (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/787.ts
 #EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="33- INFANTIL BRASIL",Nick (4)-BR
@@ -3952,7 +3693,7 @@ http://srv.tvprodigital.net:80/193883/193883/61250
 #EXTINF:-1 tvg-logo="http://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="33- INFANTIL BRASIL",Nick Junior (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61251
 #EXTINF:-1 tvg-logo="http://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="33- INFANTIL BRASIL",Nick Junior (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61251
+http://srv.tvprodigital.net:80/010573/010573/61251
 #EXTINF:-1 tvg-logo="http://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="33- INFANTIL BRASIL",Nick Junior (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/788.ts
 #EXTINF:-1 tvg-logo="http://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="33- INFANTIL BRASIL",Nick Junior (4)-BR
@@ -3965,7 +3706,7 @@ http://srv.tvprodigital.net:80/193883/193883/61251
 #EXTINF:-1 tvg-logo="http://www.costadosol.tv.br/site/wp-content/uploads/2018/04/TV_R%C3%A1-Tim-Bum.png" group-title="33- INFANTIL BRASIL",Ra Tim Bum (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61131
 #EXTINF:-1 tvg-logo="http://www.costadosol.tv.br/site/wp-content/uploads/2018/04/TV_R%C3%A1-Tim-Bum.png" group-title="33- INFANTIL BRASIL",Ra Tim Bum (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61131
+http://srv.tvprodigital.net:80/010573/010573/61131
 #EXTINF:-1 tvg-logo="http://www.costadosol.tv.br/site/wp-content/uploads/2018/04/TV_R%C3%A1-Tim-Bum.png" group-title="33- INFANTIL BRASIL",Ra Tim Bum (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/715.ts
 #EXTINF:-1 tvg-logo="http://www.costadosol.tv.br/site/wp-content/uploads/2018/04/TV_R%C3%A1-Tim-Bum.png" group-title="33- INFANTIL BRASIL",Ra Tim Bum (4)-BR
@@ -3975,13 +3716,10 @@ http://srv.tvprodigital.net:80/090502/090502/61131
 #EXTINF:-1 tvg-logo="http://www.costadosol.tv.br/site/wp-content/uploads/2018/04/TV_R%C3%A1-Tim-Bum.png" group-title="33- INFANTIL BRASIL",Ra Tim Bum (6)-BR
 http://srv.tvprodigital.net:80/193883/193883/61131
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ogVexm6P874/WSJavg7hpwI/AAAAAAAACpQ/Gwqnb789JlQxyZbuwPo4ph_ZxUqNVyUsQCLcB/s200/retro-cartoon.jpg" group-title="33- INFANTIL BRASIL",Retro Cartoon (4)-BR
-http://stream-sky.cf:80/live/joao123/joao123/717110.ts
-
 #EXTINF:-1 tvg-logo="https://t3.kn3.net/taringa/A/7/E/6/A/C/RevolucionCN/83A.png" group-title="33- INFANTIL BRASIL",Tooncast (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61252
 #EXTINF:-1 tvg-logo="https://t3.kn3.net/taringa/A/7/E/6/A/C/RevolucionCN/83A.png" group-title="33- INFANTIL BRASIL",Tooncast (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61252
+http://srv.tvprodigital.net:80/010573/010573/61252
 #EXTINF:-1 tvg-logo="https://t3.kn3.net/taringa/A/7/E/6/A/C/RevolucionCN/83A.png" group-title="33- INFANTIL BRASIL",Tooncast (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/720.ts
 #EXTINF:-1 tvg-logo="https://t3.kn3.net/taringa/A/7/E/6/A/C/RevolucionCN/83A.png" group-title="33- INFANTIL BRASIL",Tooncast (4)-BR
@@ -3994,7 +3732,7 @@ http://srv.tvprodigital.net:80/193883/193883/61252
 #EXTINF:0 tvg-logo="http://bravi.tv/wp-content/uploads/2016/12/zoomoo-250x214.png" group-title="33- INFANTIL BRASIL",ZooMoo (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/47764
 #EXTINF:0 tvg-logo="http://bravi.tv/wp-content/uploads/2016/12/zoomoo-250x214.png" group-title="33- INFANTIL BRASIL",ZooMoo (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/47764
+http://srv.tvprodigital.net:80/010573/010573/47764
 #EXTINF:0 tvg-logo="http://bravi.tv/wp-content/uploads/2016/12/zoomoo-250x214.png" group-title="33- INFANTIL BRASIL",ZooMoo (4)-BR
 http://stream-sky.cf:80/live/joao123/joao123/335.ts
 #EXTINF:0 tvg-logo="http://bravi.tv/wp-content/uploads/2016/12/zoomoo-250x214.png" group-title="33- INFANTIL BRASIL",ZooMoo (6)-BR
@@ -4040,10 +3778,6 @@ http://uruguayiptv.com:25461/live/miguel2019/miguel2019/790.ts
 http://uruguayiptv.com:25461/live/6688/6688/790.ts
 #EXTINF:-1 tvg-logo="https://www.marketingdirecto.com/wp-content/uploads/2013/06/cnninternational.jpg" group-title="36- NOTICIAS LATINO",CNN Chile (5)-LA
 http://131.221.166.20:8001/play/a00u
-#EXTINF:-1 tvg-logo="https://www.marketingdirecto.com/wp-content/uploads/2013/06/cnninternational.jpg" group-title="36- NOTICIAS LATINO",CNN Chile (5.2)-LA
-http://45.239.123.14:8081/play/a054
-#EXTINF:-1 tvg-logo="https://www.marketingdirecto.com/wp-content/uploads/2013/06/cnninternational.jpg" group-title="36- NOTICIAS LATINO",CNN Chile (5.3)-LA
-http://190.171.155.170:8081/play/a054
 #EXTINF:-1 tvg-logo="https://www.marketingdirecto.com/wp-content/uploads/2013/06/cnninternational.jpg" group-title="36- NOTICIAS LATINO",CNN Chile (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/3749.rtmp
 
@@ -4065,13 +3799,7 @@ http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1558.rtmp
 #EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/cnn-alla.jpg" group-title="36- NOTICIAS LATINO",CÑN (4)-LA
 http://randomserver.site:2086/wickeduk/etqyhww45e/88701
 #EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/cnn-alla.jpg" group-title="36- NOTICIAS LATINO",CÑN (5)-LA
-http://181.114.232.66:8000/play/a00b
-#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/cnn-alla.jpg" group-title="36- NOTICIAS LATINO",CÑN (5.2)-LA
 http://131.221.166.20:8001/play/a01i
-#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/cnn-alla.jpg" group-title="36- NOTICIAS LATINO",CÑN (5.3)-LA
-http://45.239.123.14:8081/play/a006
-#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/cnn-alla.jpg" group-title="36- NOTICIAS LATINO",CÑN (5.4)-LA
-http://190.171.155.170:8081/play/a006
 #EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/cnn-alla.jpg" group-title="36- NOTICIAS LATINO",CÑN (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/4014.rtmp
 #EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/cnn-alla.jpg" group-title="36- NOTICIAS LATINO",CÑN (7)-LA
@@ -4096,7 +3824,7 @@ http://shoppinglive.mediacdn.ru/sr1/shoppinglive/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="37- NOTICIAS BRASIL",Band News (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61134
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="37- NOTICIAS BRASIL",Band News (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61134
+http://srv.tvprodigital.net:80/010573/010573/61134
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="37- NOTICIAS BRASIL",Band News (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/890.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="37- NOTICIAS BRASIL",Band News (4)-BR
@@ -4109,7 +3837,7 @@ http://srv.tvprodigital.net:80/193883/193883/61134
 #EXTINF:-1 tvg-logo="https://www.abcdacomunicacao.com.br/wp-content/uploads/CNN_Video-350x250.png" group-title="37- NOTICIAS BRASIL",CNN Brasil (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61286
 #EXTINF:-1 tvg-logo="https://www.abcdacomunicacao.com.br/wp-content/uploads/CNN_Video-350x250.png" group-title="37- NOTICIAS BRASIL",CNN Brasil (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61286
+http://srv.tvprodigital.net:80/010573/010573/61286
 #EXTINF:-1 tvg-logo="https://www.abcdacomunicacao.com.br/wp-content/uploads/CNN_Video-350x250.png" group-title="37- NOTICIAS BRASIL",CNN Brasil (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/12120.ts
 #EXTINF:-1 tvg-logo="https://www.abcdacomunicacao.com.br/wp-content/uploads/CNN_Video-350x250.png" group-title="37- NOTICIAS BRASIL",CNN Brasil (4)-BR
@@ -4122,7 +3850,7 @@ http://srv.tvprodigital.net:80/193883/193883/61286
 #EXTINF:-1 tvg-logo="https://brazil.mom-rsf.org/uploads/tx_lfrogmom/media/7019-1071_import.png" group-title="37- NOTICIAS BRASIL",Globo News (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61283
 #EXTINF:-1 tvg-logo="https://brazil.mom-rsf.org/uploads/tx_lfrogmom/media/7019-1071_import.png" group-title="37- NOTICIAS BRASIL",Globo News (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61283
+http://srv.tvprodigital.net:80/010573/010573/61283
 #EXTINF:-1 tvg-logo="https://brazil.mom-rsf.org/uploads/tx_lfrogmom/media/7019-1071_import.png" group-title="37- NOTICIAS BRASIL",Globo News (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/1498.ts
 #EXTINF:-1 tvg-logo="https://brazil.mom-rsf.org/uploads/tx_lfrogmom/media/7019-1071_import.png" group-title="37- NOTICIAS BRASIL",Globo News (4)-BR
@@ -4153,13 +3881,7 @@ http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/810.rtmp
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/312LhQsVqtL.png" group-title="38- DOCUMENTALES LATINOS",A&E (3.2)-LA
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1272.rtmp
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/312LhQsVqtL.png" group-title="38- DOCUMENTALES LATINOS",A&E (5)-LA
-http://181.114.232.66:8000/play/a01j
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/312LhQsVqtL.png" group-title="38- DOCUMENTALES LATINOS",A&E (5.2)-LA
 http://131.221.166.20:8001/play/a019
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/312LhQsVqtL.png" group-title="38- DOCUMENTALES LATINOS",A&E (5.3)-LA
-http://45.239.123.14:8081/play/a01m
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/312LhQsVqtL.png" group-title="38- DOCUMENTALES LATINOS",A&E (5.4)-LA
-http://190.171.155.170:8081/play/a01m
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/312LhQsVqtL.png" group-title="38- DOCUMENTALES LATINOS",A&E (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/3246.rtmp
 
@@ -4172,13 +3894,7 @@ http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/827.rtmp
 #EXTINF:-1 tvg-logo="https://www.effectv.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="38- DOCUMENTALES LATINOS",Animal Planet (3.2)-LA
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1513.rtmp
 #EXTINF:-1 tvg-logo="https://www.effectv.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="38- DOCUMENTALES LATINOS",Animal Planet (5)-LA
-http://181.114.232.66:8000/play/a01p
-#EXTINF:-1 tvg-logo="https://www.effectv.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="38- DOCUMENTALES LATINOS",Animal Planet (5.2)-LA
 http://131.221.166.20:8001/play/a012
-#EXTINF:-1 tvg-logo="https://www.effectv.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="38- DOCUMENTALES LATINOS",Animal Planet (5.3)-LA
-http://45.239.123.14:8081/play/a01d
-#EXTINF:-1 tvg-logo="https://www.effectv.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="38- DOCUMENTALES LATINOS",Animal Planet (5.4)-LA
-http://190.171.155.170:8081/play/a01d
 #EXTINF:-1 tvg-logo="https://www.effectv.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="38- DOCUMENTALES LATINOS",Animal Planet (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/3247.rtmp
 
@@ -4191,13 +3907,7 @@ http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1478.rtmp
 #EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="38- DOCUMENTALES LATINOS",Discovery Channel (4)-LA
 http://randomserver.site:2086/wickeduk/etqyhww45e/88712
 #EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="38- DOCUMENTALES LATINOS",Discovery Channel (5)-LA
-http://181.114.232.66:8000/play/a01n
-#EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="38- DOCUMENTALES LATINOS",Discovery Channel (5.2)-LA
 http://131.221.166.20:8001/play/a011
-#EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="38- DOCUMENTALES LATINOS",Discovery Channel (5.3)-LA
-http://45.239.123.14:8081/play/a01c
-#EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="38- DOCUMENTALES LATINOS",Discovery Channel (5.4)-LA
-http://190.171.155.170:8081/play/a01c
 #EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="38- DOCUMENTALES LATINOS",Discovery Channel (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/3251.rtmp
 #EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="38- DOCUMENTALES LATINOS",Discovery Channel (7)-LA
@@ -4226,13 +3936,7 @@ http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1673.rtmp
 #EXTINF:-1 tvg-logo="https://revistamomentos.co/wp-content/uploads/2017/12/ID-1900x1833_c.jpg" group-title="38- DOCUMENTALES LATINOS",Discovery Investigation (4)-LA
 http://randomserver.site:2086/wickeduk/etqyhww45e/88776
 #EXTINF:-1 tvg-logo="https://revistamomentos.co/wp-content/uploads/2017/12/ID-1900x1833_c.jpg" group-title="38- DOCUMENTALES LATINOS",Discovery Investigation (5)-LA
-http://181.114.232.66:8000/play/a00o
-#EXTINF:-1 tvg-logo="https://revistamomentos.co/wp-content/uploads/2017/12/ID-1900x1833_c.jpg" group-title="38- DOCUMENTALES LATINOS",Discovery Investigation (5.2)-LA
 http://131.221.166.20:8001/play/a00d
-#EXTINF:-1 tvg-logo="https://revistamomentos.co/wp-content/uploads/2017/12/ID-1900x1833_c.jpg" group-title="38- DOCUMENTALES LATINOS",Discovery Investigation (5.3)-LA
-http://45.239.123.14:8081/play/a02s
-#EXTINF:-1 tvg-logo="https://revistamomentos.co/wp-content/uploads/2017/12/ID-1900x1833_c.jpg" group-title="38- DOCUMENTALES LATINOS",Discovery Investigation (5.4)-LA
-http://190.171.155.170:8081/play/a02s
 #EXTINF:-1 tvg-logo="https://revistamomentos.co/wp-content/uploads/2017/12/ID-1900x1833_c.jpg" group-title="38- DOCUMENTALES LATINOS",Discovery Investigation (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/4123.rtmp
 
@@ -4246,8 +3950,6 @@ http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/853.rtmp
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1514.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b0d27efc-174d-41f6-851b-e125fba0dce7_m.jpg" group-title="38- DOCUMENTALES LATINOS",Discovery H&H (4)-LA
 http://randomserver.site:2086/wickeduk/etqyhww45e/88714
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b0d27efc-174d-41f6-851b-e125fba0dce7_m.jpg" group-title="38- DOCUMENTALES LATINOS",Discovery H&H (5)-LA
-http://190.171.155.170:8081/play/a02w
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b0d27efc-174d-41f6-851b-e125fba0dce7_m.jpg" group-title="38- DOCUMENTALES LATINOS",Discovery H&H (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/3083.rtmp
 
@@ -4270,13 +3972,7 @@ http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1526.rtmp
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Discovery Turbo (4)-LA
 http://randomserver.site:2086/wickeduk/etqyhww45e/88718
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Discovery Turbo (5)-LA
-http://181.114.232.66:8000/play/a01b
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Discovery Turbo (5.2)-LA
 http://131.221.166.20:8001/play/a00a
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Discovery Turbo (5.3)-LA
-http://45.239.123.14:8081/play/a04x
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Discovery Turbo (5.4)-LA
-http://190.171.155.170:8081/play/a04x
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png" group-title="38- DOCUMENTALES LATINOS",Discovery World (3)-LA
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/822.rtmp
@@ -4288,13 +3984,7 @@ http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1241.rtmp
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="38- DOCUMENTALES LATINOS",History (4)-LA
 http://randomserver.site:2086/wickeduk/etqyhww45e/88772
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="38- DOCUMENTALES LATINOS",History (5)-LA
-http://181.114.232.66:8000/play/a01l
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="38- DOCUMENTALES LATINOS",History (5.2)-LA
 http://131.221.166.20:8001/play/a00m
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="38- DOCUMENTALES LATINOS",History (5.3)-LA
-http://45.239.123.14:8081/play/a028
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="38- DOCUMENTALES LATINOS",History (5.4)-LA
-http://190.171.155.170:8081/play/a028
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="38- DOCUMENTALES LATINOS",History (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/3234.rtmp
 
@@ -4302,8 +3992,6 @@ http://tv.nousiptv.com:25462/live/luna/1234/3234.rtmp
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1080.rtmp
 #EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="38- DOCUMENTALES LATINOS",History 2 (4)-LA
 http://randomserver.site:2086/wickeduk/etqyhww45e/88765
-#EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="38- DOCUMENTALES LATINOS",History 2 (5)-LA
-http://181.114.232.66:8000/play/a01m
 #EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="38- DOCUMENTALES LATINOS",History 2 (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/4005.rtmp
 
@@ -4317,21 +4005,13 @@ http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1523.rtmp
 #EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo (4)-LA
 http://randomserver.site:2086/wickeduk/etqyhww45e/88791
 #EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo (5)-LA
-http://181.114.232.66:8000/play/a011
-#EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo (5.2)-LA
 http://131.221.166.20:8001/play/a00l
-#EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo (5.3)-LA
-http://45.239.123.14:8081/play/a027
-#EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo (5.4)-LA
-http://190.171.155.170:8081/play/a027
 
 #EXTINF:-1 tvg-logo="https://disneyadsales.com/wp-content/uploads/2019/11/das_nat-geo_nat-geo-mundo_logo-blk.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo Mundo (7)-LA
 http://main.realiptv.to:25461/charlie/charlie/40637
 
 #EXTINF:-1 tvg-logo="http://www.lettreaudiovisuel.com/wp-content/uploads/2014/12/Nat-Geo-Wild.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo Wild (3)-LA
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1522.rtmp
-#EXTINF:-1 tvg-logo="http://www.lettreaudiovisuel.com/wp-content/uploads/2014/12/Nat-Geo-Wild.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo Wild (5)-LA
-http://181.114.232.66:8000/play/a00a
 #EXTINF:-1 tvg-logo="http://www.lettreaudiovisuel.com/wp-content/uploads/2014/12/Nat-Geo-Wild.png" group-title="38- DOCUMENTALES LATINOS",Nat Geo Wild (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/3270.rtmp
 
@@ -4341,8 +4021,6 @@ http://uruguayiptv.com:25461/live/miguel2019/miguel2019/18090.ts
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1524.rtmp
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tlc-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Tlc (4)-LA
 http://randomserver.site:2086/wickeduk/etqyhww45e/88829
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tlc-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Tlc (5)-LA
-http://181.114.232.66:8000/play/a01o
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tlc-logo-01.png" group-title="38- DOCUMENTALES LATINOS",Tlc (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/3256.rtmp
 
@@ -4356,7 +4034,7 @@ http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/312LhQsVqtL.png" group-title="39- DOCUMENTAIS BRASIL",A&E (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61196
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/312LhQsVqtL.png" group-title="39- DOCUMENTAIS BRASIL",A&E (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61196
+http://srv.tvprodigital.net:80/010573/010573/61196
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/312LhQsVqtL.png" group-title="39- DOCUMENTAIS BRASIL",A&E (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/898.ts
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/312LhQsVqtL.png" group-title="39- DOCUMENTAIS BRASIL",A&E (4)-BR
@@ -4369,7 +4047,7 @@ http://srv.tvprodigital.net:80/193883/193883/61196
 #EXTINF:-1 tvg-logo="https://www.effectv.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="39- DOCUMENTAIS BRASIL",Animal Planet (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61229
 #EXTINF:-1 tvg-logo="https://www.effectv.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="39- DOCUMENTAIS BRASIL",Animal Planet (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61229
+http://srv.tvprodigital.net:80/010573/010573/61229
 #EXTINF:-1 tvg-logo="https://www.effectv.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="39- DOCUMENTAIS BRASIL",Animal Planet (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/897.ts
 #EXTINF:-1 tvg-logo="https://www.effectv.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="39- DOCUMENTAIS BRASIL",Animal Planet (4)-BR
@@ -4382,7 +4060,7 @@ http://srv.tvprodigital.net:80/193883/193883/61229
 #EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Channel (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61230
 #EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Channel (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61230
+http://srv.tvprodigital.net:80/010573/010573/61230
 #EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Channel (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/871.ts
 #EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Channel (4)-BR
@@ -4398,7 +4076,7 @@ http://a.srvbr.me:8880/live/779782/779782/869.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b0d27efc-174d-41f6-851b-e125fba0dce7_m.jpg" group-title="39- DOCUMENTAIS BRASIL",Discovery H&H (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61081
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b0d27efc-174d-41f6-851b-e125fba0dce7_m.jpg" group-title="39- DOCUMENTAIS BRASIL",Discovery H&H (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61081
+http://srv.tvprodigital.net:80/010573/010573/61081
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b0d27efc-174d-41f6-851b-e125fba0dce7_m.jpg" group-title="39- DOCUMENTAIS BRASIL",Discovery H&H (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/868.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b0d27efc-174d-41f6-851b-e125fba0dce7_m.jpg" group-title="39- DOCUMENTAIS BRASIL",Discovery H&H (5)-BR
@@ -4414,7 +4092,7 @@ http://stream-sky.cf:80/live/joao123/joao123/188.ts
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="39- DOCUMENTAIS BRASIL",Discovery Science (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61232
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="39- DOCUMENTAIS BRASIL",Discovery Science (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61232
+http://srv.tvprodigital.net:80/010573/010573/61232
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="39- DOCUMENTAIS BRASIL",Discovery Science (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/865.ts
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="39- DOCUMENTAIS BRASIL",Discovery Science (4)-BR
@@ -4427,7 +4105,7 @@ http://srv.tvprodigital.net:80/193883/193883/61232
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-hd-theater_m.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Theater (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61233
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-hd-theater_m.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Theater (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61233
+http://srv.tvprodigital.net:80/010573/010573/61233
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-hd-theater_m.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Theater (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/5323.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-hd-theater_m.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Theater (4)-BR
@@ -4440,7 +4118,7 @@ http://srv.tvprodigital.net:80/193883/193883/61233
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Turbo (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61234
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Turbo (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61234
+http://srv.tvprodigital.net:80/010573/010573/61234
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Turbo (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/863.ts
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Turbo (4)-BR
@@ -4453,7 +4131,7 @@ http://srv.tvprodigital.net:80/193883/193883/61234
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png" group-title="39- DOCUMENTAIS BRASIL",Discovery World (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61089
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png" group-title="39- DOCUMENTAIS BRASIL",Discovery World (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61089
+http://srv.tvprodigital.net:80/010573/010573/61089
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png" group-title="39- DOCUMENTAIS BRASIL",Discovery World (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/5322.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png" group-title="39- DOCUMENTAIS BRASIL",Discovery World (4)-BR
@@ -4466,7 +4144,7 @@ http://srv.tvprodigital.net:80/193883/193883/61089
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="39- DOCUMENTAIS BRASIL",History (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61239
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="39- DOCUMENTAIS BRASIL",History (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61239
+http://srv.tvprodigital.net:80/010573/010573/61239
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="39- DOCUMENTAIS BRASIL",History (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/726.ts
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="39- DOCUMENTAIS BRASIL",History (4)-BR
@@ -4479,7 +4157,7 @@ http://srv.tvprodigital.net:80/193883/193883/61239
 #EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="39- DOCUMENTAIS BRASIL",History 2 (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61238
 #EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="39- DOCUMENTAIS BRASIL",History 2 (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61238
+http://srv.tvprodigital.net:80/010573/010573/61238
 #EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="39- DOCUMENTAIS BRASIL",History 2 (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/822.ts
 #EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="39- DOCUMENTAIS BRASIL",History 2 (4)-BR
@@ -4492,7 +4170,7 @@ http://srv.tvprodigital.net:80/193883/193883/61238
 #EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="39- DOCUMENTAIS BRASIL",Nat Geo (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61240
 #EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="39- DOCUMENTAIS BRASIL",Nat Geo (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61240
+http://srv.tvprodigital.net:80/010573/010573/61240
 #EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="39- DOCUMENTAIS BRASIL",Nat Geo (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/792.ts
 #EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="39- DOCUMENTAIS BRASIL",Nat Geo (4)-BR
@@ -4505,7 +4183,7 @@ http://srv.tvprodigital.net:80/193883/193883/61240
 #EXTINF:-1 tvg-logo="http://www.lettreaudiovisuel.com/wp-content/uploads/2014/12/Nat-Geo-Wild.png" group-title="39- DOCUMENTAIS BRASIL",Nat Geo Wild (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61097
 #EXTINF:-1 tvg-logo="http://www.lettreaudiovisuel.com/wp-content/uploads/2014/12/Nat-Geo-Wild.png" group-title="39- DOCUMENTAIS BRASIL",Nat Geo Wild (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61097
+http://srv.tvprodigital.net:80/010573/010573/61097
 #EXTINF:-1 tvg-logo="http://www.lettreaudiovisuel.com/wp-content/uploads/2014/12/Nat-Geo-Wild.png" group-title="39- DOCUMENTAIS BRASIL",Nat Geo Wild (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/793.ts
 #EXTINF:-1 tvg-logo="http://www.lettreaudiovisuel.com/wp-content/uploads/2014/12/Nat-Geo-Wild.png" group-title="39- DOCUMENTAIS BRASIL",Nat Geo Wild (4)-BR
@@ -4518,7 +4196,7 @@ http://srv.tvprodigital.net:80/193883/193883/61097
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tlc-logo-01.png" group-title="39- DOCUMENTAIS BRASIL",Tlc (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61179
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tlc-logo-01.png" group-title="39- DOCUMENTAIS BRASIL",Tlc (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61179
+http://srv.tvprodigital.net:80/010573/010573/61179
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tlc-logo-01.png" group-title="39- DOCUMENTAIS BRASIL",Tlc (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/725.ts
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tlc-logo-01.png" group-title="39- DOCUMENTAIS BRASIL",Tlc (4)-BR
@@ -4553,8 +4231,6 @@ http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8?GrupoTopIptv
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/430.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_cdf-premium_m.png" group-title="41- DEPORTES LATINO",Cdf Basico (2)-LA
 http://uruguayiptv.com:25461/live/6688/6688/430.ts
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_cdf-premium_m.png" group-title="41- DEPORTES LATINO",Cdf Basico (5)-LA
-http://190.171.155.170:8081/play/a01l
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_cdf-premium_m.png" group-title="41- DEPORTES LATINO",Cdf Basico (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/16138.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_cdf-premium_m.png" group-title="41- DEPORTES LATINO",Cdf Basico (6.2)-LA
@@ -4564,8 +4240,6 @@ http://tv.nousiptv.com:25462/live/luna/1234/6979.rtmp
 http://uruguayiptv.com:25461/live/miguel2019/miguel2019/431.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_cdf-premium_m.png" group-title="41- DEPORTES LATINO",Cdf Premium (2)-LA
 http://uruguayiptv.com:25461/live/6688/6688/431.ts
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_cdf-premium_m.png" group-title="41- DEPORTES LATINO",Cdf Premium (5)-LA
-http://190.171.155.170:8081/play/a00d
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/06/cdo.png" group-title="41- DEPORTES LATINO",Cdo⁻ˢᵈ⁻-LA
 http://edge1.cl.grupoz.cl/cdofree/smil:cdn.smil/playlist.m3u8
@@ -4610,22 +4284,16 @@ http://tv.nousiptv.com:25462/live/luna/1234/27879.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn_m.png" group-title="41- DEPORTES LATINO",Espn (3)-LA
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1232.rtmp
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn_m.png" group-title="41- DEPORTES LATINO",Espn (5)-LA
-http://190.171.155.170:8081/play/a01h
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn_m.png" group-title="41- DEPORTES LATINO",Espn (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/3178.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-2_m.png" group-title="41- DEPORTES LATINO",Espn 2 (2)-LA
 http://uruguayiptv.com:25461/live/6688/6688/416.ts
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-2_m.png" group-title="41- DEPORTES LATINO",Espn 2 (5)-LA
-http://190.171.155.170:8081/play/a01i
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-2_m.png" group-title="41- DEPORTES LATINO",Espn 2 (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/3258.rtmp
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-3_m.png" group-title="41- DEPORTES LATINO",Espn 3 (3)-LA
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1236.rtmp
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-3_m.png" group-title="41- DEPORTES LATINO",Espn 3 (5)-LA
-http://190.171.155.170:8081/play/a04z
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-3_m.png" group-title="41- DEPORTES LATINO",Espn 3 (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/43639.rtmp
 
@@ -4645,10 +4313,6 @@ http://main.realiptv.to:25461/charlie/charlie/40648
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1698.rtmp
 #EXTINF:-1 tvg-logo="https://www.revistaneo.com/sites/default/files/2018-01/FOX-SportsLogo.jpg" group-title="41- DEPORTES LATINO",Fox Sports (4)-LA
 http://randomserver.site:2086/wickeduk/etqyhww45e/88755
-#EXTINF:-1 tvg-logo="https://www.revistaneo.com/sites/default/files/2018-01/FOX-SportsLogo.jpg" group-title="41- DEPORTES LATINO",Fox Sports (5)-LA
-http://190.171.155.170:8081/play/a00e
-#EXTINF:-1 tvg-logo="https://www.revistaneo.com/sites/default/files/2018-01/FOX-SportsLogo.jpg" group-title="41- DEPORTES LATINO",Fox Sports (5.2)-LA
-http://190.171.155.170:8081/play/a01g
 #EXTINF:-1 tvg-logo="https://www.revistaneo.com/sites/default/files/2018-01/FOX-SportsLogo.jpg" group-title="41- DEPORTES LATINO",Fox Sports (6) URU-LA
 http://tv.nousiptv.com:25462/live/luna/1234/3621.rtmp
 
@@ -4656,8 +4320,6 @@ http://tv.nousiptv.com:25462/live/luna/1234/3621.rtmp
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1367.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_fox-sports-2_m.png" group-title="41- DEPORTES LATINO",Fox Sports 2 (4)-LA
 http://randomserver.site:2086/wickeduk/etqyhww45e/88753
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_fox-sports-2_m.png" group-title="41- DEPORTES LATINO",Fox Sports 2 (5)-LA
-http://190.171.155.170:8081/play/a021
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_fox-sports-2_m.png" group-title="41- DEPORTES LATINO",Fox Sports 2 (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/3268.rtmp
 
@@ -4665,8 +4327,6 @@ http://tv.nousiptv.com:25462/live/luna/1234/3268.rtmp
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1370.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-3_m.png" group-title="41- DEPORTES LATINO",Fox Sports 3 (4)-LA
 http://randomserver.site:2086/wickeduk/etqyhww45e/88754
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-3_m.png" group-title="41- DEPORTES LATINO",Fox Sports 3 (5)-LA
-http://190.171.155.170:8081/play/a022
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-3_m.png" group-title="41- DEPORTES LATINO",Fox Sports 3 (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/4008.rtmp
 
@@ -4682,8 +4342,6 @@ http://tv.nousiptv.com:25462/live/luna/1234/8329.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="41- DEPORTES LATINO",GolTV Latino (7)-LA
 https://media.foxdeportes.com/assets/images/fxd_logo_450.png
 
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="41- DEPORTES LATINO",GolTV Uruguay (5)-LA
-http://190.171.155.170:8081/play/a01j
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="41- DEPORTES LATINO",GolTV Uruguay (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/7471.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="41- DEPORTES LATINO",GolTV Uruguay (6.2)-LA
@@ -4723,8 +4381,6 @@ http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1390.rtmp
 #EXTINF:-1 tvg-logo="http://www.torosdetijuana.com/toros2018/wp-content/uploads/2019/04/673_tvc-deportes-1.png" group-title="41- DEPORTES LATINO",Tvc Deportes (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/4139.rtmp
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_tyc-sports-hd_m.png" group-title="41- DEPORTES LATINO",TyC (5)-LA
-http://190.171.155.170:8081/play/a01k
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_tyc-sports-hd_m.png" group-title="41- DEPORTES LATINO",TyC (6)-LA
 http://tv.nousiptv.com:25462/live/luna/1234/8247.rtmp
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_tyc-sports-hd_m.png" group-title="41- DEPORTES LATINO",TyC (6.2)-LA
@@ -4768,7 +4424,7 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 #EXTINF:-1  tvg-logo="https://handeboltaubate.files.wordpress.com/2012/12/bandsports.png" group-title="42- ESPORTES BRASIL",Band Sports (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61254
 #EXTINF:-1  tvg-logo="https://handeboltaubate.files.wordpress.com/2012/12/bandsports.png" group-title="42- ESPORTES BRASIL",Band Sports (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61254
+http://srv.tvprodigital.net:80/010573/010573/61254
 #EXTINF:-1  tvg-logo="https://handeboltaubate.files.wordpress.com/2012/12/bandsports.png" group-title="42- ESPORTES BRASIL",Band Sports (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/889.ts
 #EXTINF:-1  tvg-logo="https://handeboltaubate.files.wordpress.com/2012/12/bandsports.png" group-title="42- ESPORTES BRASIL",Band Sports (4)-BR
@@ -4781,7 +4437,7 @@ http://srv.tvprodigital.net:80/193883/193883/61254
 #EXTINF:-1 tvg-logo="https://s2.glbimg.com/OlF3fWNQd7yyW7Cfsak6AF6vINc=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/dd/45/6f0becb8b016872551edaad347cc.png" group-title="42- ESPORTES BRASIL",Combate (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61255
 #EXTINF:-1 tvg-logo="https://s2.glbimg.com/OlF3fWNQd7yyW7Cfsak6AF6vINc=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/dd/45/6f0becb8b016872551edaad347cc.png" group-title="42- ESPORTES BRASIL",Combate (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61255
+http://srv.tvprodigital.net:80/010573/010573/61255
 #EXTINF:-1 tvg-logo="https://s2.glbimg.com/OlF3fWNQd7yyW7Cfsak6AF6vINc=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/dd/45/6f0becb8b016872551edaad347cc.png" group-title="42- ESPORTES BRASIL",Combate (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/875.ts
 #EXTINF:-1 tvg-logo="https://s2.glbimg.com/OlF3fWNQd7yyW7Cfsak6AF6vINc=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/dd/45/6f0becb8b016872551edaad347cc.png" group-title="42- ESPORTES BRASIL",Combate (4)-BR
@@ -4799,7 +4455,7 @@ http://stream-sky.cf:80/live/joao123/joao123/85.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-2_m.png" group-title="42- ESPORTES BRASIL",Espn 2 (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61257
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-2_m.png" group-title="42- ESPORTES BRASIL",Espn 2 (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61257
+http://srv.tvprodigital.net:80/010573/010573/61257
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-2_m.png" group-title="42- ESPORTES BRASIL",Espn 2 (4)-BR
 http://stream-sky.cf:80/live/joao123/joao123/90.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-2_m.png" group-title="42- ESPORTES BRASIL",Espn 2 (5)-BR
@@ -4810,7 +4466,7 @@ http://srv.tvprodigital.net:80/193883/193883/61257
 #EXTINF:-1 tvg-logo="https://skyassineonline.com.br/img/channels/lg-230-canal-espn-brasil-hd.png" group-title="42- ESPORTES BRASIL",Espn Brasil (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61258
 #EXTINF:-1 tvg-logo="https://skyassineonline.com.br/img/channels/lg-230-canal-espn-brasil-hd.png" group-title="42- ESPORTES BRASIL",Espn Brasil (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61258
+http://srv.tvprodigital.net:80/010573/010573/61258
 #EXTINF:-1 tvg-logo="https://skyassineonline.com.br/img/channels/lg-230-canal-espn-brasil-hd.png" group-title="42- ESPORTES BRASIL",Espn Brasil (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/850.ts
 #EXTINF:-1 tvg-logo="https://skyassineonline.com.br/img/channels/lg-230-canal-espn-brasil-hd.png" group-title="42- ESPORTES BRASIL",Espn Brasil (4)-BR
@@ -4823,7 +4479,7 @@ http://srv.tvprodigital.net:80/193883/193883/61258
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-xSGNOpDB9-A/W1mltwIpEFI/AAAAAAAAObQ/83UBcqoHHyEnWojuARjQbTGkdw4vmP3EACLcBGAs/s320/espnextra.png" group-title="42- ESPORTES BRASIL",Espn Extra (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/24788
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-xSGNOpDB9-A/W1mltwIpEFI/AAAAAAAAObQ/83UBcqoHHyEnWojuARjQbTGkdw4vmP3EACLcBGAs/s320/espnextra.png" group-title="42- ESPORTES BRASIL",Espn Extra (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/24788
+http://srv.tvprodigital.net:80/010573/010573/24788
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-xSGNOpDB9-A/W1mltwIpEFI/AAAAAAAAObQ/83UBcqoHHyEnWojuARjQbTGkdw4vmP3EACLcBGAs/s320/espnextra.png" group-title="42- ESPORTES BRASIL",Espn Extra (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/5321.ts
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-xSGNOpDB9-A/W1mltwIpEFI/AAAAAAAAObQ/83UBcqoHHyEnWojuARjQbTGkdw4vmP3EACLcBGAs/s320/espnextra.png" group-title="42- ESPORTES BRASIL",Espn Extra (4)-BR
@@ -4841,7 +4497,7 @@ http://stream-sky.cf:80/live/joao123/joao123/117.ts
 #EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports2_N.png" group-title="42- ESPORTES BRASIL",Fox Sports 2 (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61450
 #EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports2_N.png" group-title="42- ESPORTES BRASIL",Fox Sports 2 (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61450
+http://srv.tvprodigital.net:80/010573/010573/61450
 #EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports2_N.png" group-title="42- ESPORTES BRASIL",Fox Sports 2 (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/836.ts
 #EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports2_N.png" group-title="42- ESPORTES BRASIL",Fox Sports 2 (4)-BR
@@ -4859,7 +4515,7 @@ http://stream-sky.cf:80/live/joao123/joao123/243.ts
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/sportv-logo-png-7.png" group-title="42- ESPORTES BRASIL",Sportv (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61453
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/sportv-logo-png-7.png" group-title="42- ESPORTES BRASIL",Sportv (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61453
+http://srv.tvprodigital.net:80/010573/010573/61453
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/sportv-logo-png-7.png" group-title="42- ESPORTES BRASIL",Sportv (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/748.ts
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/sportv-logo-png-7.png" group-title="42- ESPORTES BRASIL",Sportv (4)-BR
@@ -4872,7 +4528,7 @@ http://srv.tvprodigital.net:80/193883/193883/61453
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/sportv-2-png-8.png" group-title="42- ESPORTES BRASIL",Sportv 2 (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61272
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/sportv-2-png-8.png" group-title="42- ESPORTES BRASIL",Sportv 2 (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61272
+http://srv.tvprodigital.net:80/010573/010573/61272
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/sportv-2-png-8.png" group-title="42- ESPORTES BRASIL",Sportv 2 (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/747.ts
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/sportv-2-png-8.png" group-title="42- ESPORTES BRASIL",Sportv 2 (4)-BR
@@ -4885,7 +4541,7 @@ http://srv.tvprodigital.net:80/193883/193883/61272
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-sportv-png-5.png" group-title="42- ESPORTES BRASIL",Sportv 3 (1)-BR
 http://srv.tvprodigital.net:80/110984/110984/61273
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-sportv-png-5.png" group-title="42- ESPORTES BRASIL",Sportv 3 (2)-BR
-http://srv.tvprodigital.net:80/192324/192324/61273
+http://srv.tvprodigital.net:80/010573/010573/61273
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-sportv-png-5.png" group-title="42- ESPORTES BRASIL",Sportv 3 (3)-BR
 http://a.srvbr.me:8880/live/779782/779782/745.ts
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-sportv-png-5.png" group-title="42- ESPORTES BRASIL",Sportv 3 (4)-BR
