@@ -176,6 +176,9 @@ https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
 #######################################
 ######################################################################################################################################
 
+#EXTINF:0 tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2020/08/A-Fazenda-12-Logo-300x188.png" group-title="04- BRASIL",A Fazenda 12 -BR
+http://sv1.redeg10.com:8880/live/62qee0ejo/9qlrufxw7/99088.rtmp
+
 #EXTINF:0 tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png" group-title="04- BRASIL",Agro Brasil tv⁻ˢᵈ⁻-BR
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?TeamIptv
 
