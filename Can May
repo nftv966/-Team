@@ -91,6 +91,9 @@ http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8?TeamIptv
 #EXTINF:-1 tvg-logo="https://www.cn247.tv/img/logo.png" group-title="03- ARGENTINA",CN 24/7⁻ˢᵈ⁻
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8?TeamIptv
 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/CPE-TV.png" group-title="03- ARGENTINA",Cpetv
+http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/index_150_av-p.m3u8?TeamIptv
+
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/cronicatv.png" group-title="03- ARGENTINA",Cronica tv ᵒᶠᶠ
 
 
@@ -382,18 +385,24 @@ http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8?TeamIptv
 #EXTINF:-1 tvg-logo="https://elfiltrador.com/wp-content/uploads/2018/10/foto_0000001320180216144941.png" group-title="06- CHILE",Chilevision (5)
 http://161.132.222.194:10000/play/a09c?TeamIptv
 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/El-Pinguino-TV.png" group-title="06- CHILE",El Pinguino
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8?TeamIptv 
+
 #EXTINF:-1 tvg-logo="https://k60.kn3.net/taringa/1/6/E/2/0/7/DanielAmad1/705.jpg" group-title="06- CHILE",Etc ᵒᶠᶠ
 
 
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1080966471730159616/02VhbJeN_400x400.jpg" group-title="06- CHILE",Holvoet TV ᵒᶠᶠ
-
+http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream3/chunks.m3u8?TeamIptv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9sKGsmt.png" group-title="06- CHILE",ITV⁻ˢᵈ⁻
 http://unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/chunks.m3u8?TeamIptv
 
 #EXTINF:-1 tvg-logo="https://flyboardchile.cl/wp-content/uploads/2014/12/LaRed-Logo-300x300.jpg" group-title="06- CHILE",La Red ᵒᶠᶠ
+http://cl-lared-lared-app-oiuh8d-origin-0.ned.media/lared/smil:lared.smil/playlist.m3u8?TeamIptv
 
 
+#EXTINF:-1 tvg-logo="https://blogvecindad.com/wp-content/uploads/2015/11/Mega_Chile_Alternate_Logo.png" group-title="06- CHILE",Mega
+http://livestream.lamusica.com/megatvlive/megatvlive/playlist.m3u8?TeamIptv
 #EXTINF:-1 tvg-logo="https://blogvecindad.com/wp-content/uploads/2015/11/Mega_Chile_Alternate_Logo.png" group-title="06- CHILE",Mega (5)
 http://161.132.222.194:10000/play/a093?TeamIptv
 
