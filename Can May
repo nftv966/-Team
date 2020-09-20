@@ -1069,14 +1069,16 @@ https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
 #######################################
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/15mexico.png" group-title="14- MEXICO",15 Tv Sabinas⁻ˢᵈ⁻
-http://ch.iptvmate.net/bed20fe07d9d7cde0ee784f3dd7e3116.m3u8?TeamIptv
+http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8?TeamIptv
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/15mexico.png" group-title="14- MEXICO",15 Tv Sabinas⁻ˢᵈ⁻2
+http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8?TeamIptv
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/a.png" group-title="14- MEXICO",A+ ᵒᶠᶠ
 
 
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/adn40.png" group-title="14- MEXICO",Adn 40⁻ˢᵈ⁻
-http://ch.iptvmate.net/897487de1836d18cad238b98e5852c3e.m3u8?TeamIptv
-#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/adn40.png" group-title="14- MEXICO",Adn 40⁻ˢᵈ⁻
+https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8?TeamIptv
+#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/adn40.png" group-title="14- MEXICO",Adn 40⁻ˢᵈ⁻2
 http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8?TeamIptv
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Aprende-TV-en-vivo-Online.png" group-title="14- MEXICO",Aprende tv (3)
@@ -1113,24 +1115,29 @@ http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1434.rtmp?TeamIptv
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/canal10cancum.png" group-title="14- MEXICO",Canal 10 Cancún⁻ˢᵈ⁻
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?TeamIptv
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/canal10cancum.png" group-title="14- MEXICO",Canal 10 Cancún⁻ˢᵈ⁻
-http://ch.iptvmate.net/2d3aef47196e5da2d21403a5ac4cd724.m3u8?TeamIptv
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/canal10cancum.png" group-title="14- MEXICO",Canal 10 Cancún⁻ˢᵈ⁻2
+http://www.canal10.tv/live/tvlive1/chunklist_w1166915179.m3u8?TeamIptv
 
 #EXTINF:-1 tvg-logo="http://www.canal15zac.com/logo2.png" group-title="14- MEXICO",Canal 15 Zacatecas ᵒᶠᶠ
 
 
 #EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2013/11/logo-canal-once-1024x791.png" group-title="14- MEXICO",Canal Once⁻ˢᵈ⁻
-http://ch.iptvmate.net/01b1a0576fe9ee6a0b004ef9c45a5051.m3u8?TeamIptv
-#EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2013/11/logo-canal-once-1024x791.png" group-title="14- MEXICO",Canal Once⁻ˢᵈ⁻
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8?TeamIptv
+#EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2013/11/logo-canal-once-1024x791.png" group-title="14- MEXICO",Canal Once⁻ˢᵈ⁻2
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8?TeamIptv
 #EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2013/11/logo-canal-once-1024x791.png" group-title="14- MEXICO",Canal Once (3)
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1442.rtmp?TeamIptv
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/forotv.png" group-title="14- MEXICO",Foro tv⁻ˢᵈ⁻
-http://ch.iptvmate.net/b33441af3f59fa4e9f6359f1f175ded9.m3u8?TeamIptv
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/forotv.png" group-title="14- MEXICO",Foro tv ᵒᶠᶠ
+
 
 #EXTINF:-1 tvg-logo="http://www.cablevida.com.mx/assets/img/canales/Galavision-logo.jpg" group-title="14- MEXICO",Galavision ᵒᶠᶠ
 
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/G/gobierno-del-estado-de-hidalgo-logo-83001C1D96-seeklogo.com.png" group-title="14- MEXICO",Hidalgo tv⁻ˢᵈ⁻
+http://189.204.60.62/hls-live/livepkgr/_definst_/liveevent/mylivestream3.m3u8?TeamIptv
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/G/gobierno-del-estado-de-hidalgo-logo-83001C1D96-seeklogo.com.png" group-title="14- MEXICO",Hidalgo tv⁻ˢᵈ⁻2
+http://189.204.60.62/hls-live/livepkgr/_definst_/liveevent/mylivestream2.m3u8?TeamIptv
 
 #EXTINF:-1 tvg-logo="https://www.unotv.com/portal/unotv/imagenes_galeria/56903-GaleriaUno.jpg" group-title="14- MEXICO",Imagen TV ᵒᶠᶠ
 
@@ -1138,22 +1145,24 @@ http://ch.iptvmate.net/b33441af3f59fa4e9f6359f1f175ded9.m3u8?TeamIptv
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Ingenio-TV-en-vivo-Online.png" group-title="14- MEXICO",Ingenio TV ᵒᶠᶠ
 
 
+#EXTINF:-1 tvg-logo="https://cursos.scjn.gob.mx/pluginfile.php/211138/block_html/content/justiciatv.jpg" group-title="14- MEXICO",Justicia tv⁻ˢᵈ⁻
+http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8?TeamIptv
+#EXTINF:-1 tvg-logo="https://cursos.scjn.gob.mx/pluginfile.php/211138/block_html/content/justiciatv.jpg" group-title="14- MEXICO",Justicia tv⁻ˢᵈ⁻2
+https://live.scjn.gob.mx/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist_w1760841144.m3u8?TeamIptv
+
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/tvmexiquense.png" group-title="14- MEXICO",Mexiquense ᵒᶠᶠ
 
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/11/milenio-TV.png" group-title="14- MEXICO",Milenio⁻ˢᵈ⁻
-http://ch.iptvmate.net/e8aca021caa757c7b3aa3083b8f7640c.m3u8?TeamIptv
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/11/milenio-TV.png" group-title="14- MEXICO",Milenio⁻ˢᵈ⁻
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8?TeamIptv
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/11/milenio-TV.png" group-title="14- MEXICO",Milenio (3)
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/806.rtmp?TeamIptv
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DHOocZiU0AE30ro.png" group-title="14- MEXICO",Multimedios⁻ˢᵈ⁻
-http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8?TeamIptv
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DHOocZiU0AE30ro.png" group-title="14- MEXICO",Multimedios Monterrey⁻ˢᵈ⁻
-http://ch.iptvmate.net/87a705a7dd78fd33d38cfc85eb85e755.m3u8?TeamIptv
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DHOocZiU0AE30ro.png" group-title="14- MEXICO",Multimedios Monterrey⁻ˢᵈ⁻
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?TeamIptv
+
+#EXTINF:-1 tvg-logo="https://tecmonclova.com/sitiox/wp-content/uploads/2017/03/nrt.png" group-title="14- MEXICO",NRT⁻ˢᵈ⁻
+http://162.241.190.126:1935/live/canal4/playlist.m3u8?TeamIptv
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/canal9logo-168x168-409953538.png" group-title="14- MEXICO",Nueve (3)
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1441.rtmp?TeamIptv
@@ -1161,27 +1170,33 @@ http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1441.rtmp?TeamIptv
 #EXTINF:-1 tvg-logo="https://lodehoy166.files.wordpress.com/2017/06/pasiones-nuevo-logo-2015.jpg" group-title="14- MEXICO",Pasiones ᵒᶠᶠ
 
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/rgc2.png" group-title="14- MEXICO",RCG 2 ᵒᶠᶠ
-
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/rgc1.png" group-title="14- MEXICO",RCG 1⁻ˢᵈ⁻
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8?TeamIptv
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/rgc2.png" group-title="14- MEXICO",RCG 2⁻ˢᵈ⁻
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8?TeamIptv
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/rgc3.png" group-title="14- MEXICO",RCG 3⁻ˢᵈ⁻
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8?TeamIptv
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/rtq.png" group-title="14- MEXICO",RTQ⁻ˢᵈ⁻
 http://ch.iptvmate.net/4287f7583d7d58a2a07171b5c5fcd007.m3u8?TeamIptv
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/rtq.png" group-title="14- MEXICO",RTQ⁻ˢᵈ⁻
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/rtq.png" group-title="14- MEXICO",RTQ⁻ˢᵈ⁻2
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8?TeamIptv
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/TB2dJz7.png" group-title="14- MEXICO",Teleformula⁻ˢᵈ⁻
-http://ch.iptvmate.net/646d593a40798d6803dd0e0f20786afe.m3u8?TeamIptv
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/telemar.png" group-title="14- MEXICO",Telemar ᵒᶠᶠ
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/TB2dJz7.png" group-title="14- MEXICO",Teleformula ᵒᶠᶠ
+
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/telemax.png" group-title="14- MEXICO",Telemax⁻ˢᵈ⁻
+http://s5.mexside.net:1935/telemax/telemax/.m3u8?TeamIptv
 
 #EXTINF:-1 tvg-logo="https://www.mediamoves.com/wp-content/uploads/2012/11/Telemundo-logo-2012-e1358145354448.jpg" group-title="14- MEXICO",Telemundo (3)
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1087.rtmp?TeamIptv
 #EXTINF:-1 tvg-logo="https://www.mediamoves.com/wp-content/uploads/2012/11/Telemundo-logo-2012-e1358145354448.jpg" group-title="14- MEXICO",Telemundo (3) BOS
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1712.rtmp?TeamIptv
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/teleritmo.png" group-title="14- MEXICO",Teleritmo ᵒᶠᶠ
-
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/teleritmo.png" group-title="14- MEXICO",Teleritmo⁻ˢᵈ⁻
+http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8?TeamIptv
 
 #EXTINF:-1 tvg-logo="https://novobloglimpinhoecheiroso.files.wordpress.com/2014/03/televisa01.jpg" group-title="14- MEXICO",Televisa ᵒᶠᶠ
 
@@ -1189,8 +1204,8 @@ http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1712.rtmp?TeamIptv
 #EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/tlnovelas.png" group-title="14- MEXICO",Tlnovelas (3)
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1759.rtmp?TeamIptv
 
-#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/tlnovelas.png" group-title="14- MEXICO",Tmtv⁻ˢᵈ⁻
-http://ch.iptvmate.net/49f06b29114e4d4dd4bdd87e32c86365.m3u8?TeamIptv
+#EXTINF:-1 tvg-logo="https://inperfecto.com.mx/wp-content/uploads/2020/01/TV-UNAM-y-sus-retos-en-2020-1-757x642.jpg" group-title="14- MEXICO",Tv Unam⁻ˢᵈ⁻
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8?TeamIptv
 
 #EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afiliados-canales-unicable.jpg" group-title="14- MEXICO",Unicable ᵒᶠᶠ
 
