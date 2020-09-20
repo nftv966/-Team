@@ -1145,9 +1145,9 @@ http://189.204.60.62/hls-live/livepkgr/_definst_/liveevent/mylivestream2.m3u8?Te
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Ingenio-TV-en-vivo-Online.png" group-title="14- MEXICO",Ingenio TV ᵒᶠᶠ
 
 
-#EXTINF:-1 tvg-logo="https://cursos.scjn.gob.mx/pluginfile.php/211138/block_html/content/justiciatv.jpg" group-title="14- MEXICO",Justicia tv⁻ˢᵈ⁻
+#EXTINF:-1 tvg-logo="https://www.fibratv.com.mx/media/uploads/web/guia/b115_-_JUSTICIATV_2019-10-22_231534.708867bJUSTICIATV_Mesa_de_trabajo_1.png" group-title="14- MEXICO",Justicia tv⁻ˢᵈ⁻
 http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8?TeamIptv
-#EXTINF:-1 tvg-logo="https://cursos.scjn.gob.mx/pluginfile.php/211138/block_html/content/justiciatv.jpg" group-title="14- MEXICO",Justicia tv⁻ˢᵈ⁻2
+#EXTINF:-1 tvg-logo="https://www.fibratv.com.mx/media/uploads/web/guia/b115_-_JUSTICIATV_2019-10-22_231534.708867bJUSTICIATV_Mesa_de_trabajo_1.png" group-title="14- MEXICO",Justicia tv⁻ˢᵈ⁻2
 https://live.scjn.gob.mx/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist_w1760841144.m3u8?TeamIptv
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/tvmexiquense.png" group-title="14- MEXICO",Mexiquense ᵒᶠᶠ
