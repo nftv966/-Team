@@ -616,6 +616,8 @@ http://ic7.101.ru:8000/a15
 
 #EXTINF:-1 tvg-logo="https://www.audiovisual451.com/wp-content/uploads/atreseries-logo-h.jpg" group-title="11- ESPAÑA",A3Series ᵃˡᵗ-ES
 http://randomserver.site:2086/wickeduk/etqyhww45e/88775?TeamIptv
+#EXTINF:-1 tvg-logo="https://www.audiovisual451.com/wp-content/uploads/atreseries-logo-h.jpg" group-title="11- ESPAÑA",A3Series ᶦⁿᵈᵉˣ-ES
+http://152.89.35.254:8000/play/a006?TeamIptv
 
 #EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/A3CIN.PNG" group-title="11- ESPAÑA",A3Cine ᵒᶠᶠ-ES
 
@@ -627,9 +629,13 @@ http://217.182.77.27/live/alcarriatv-livestream.m3u8?TeamIptv
 http://185.140.187.35:8000/play/a00g?TeamIptv
 #EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/AMCHD.png" group-title="11- ESPAÑA",Amc ᵃˡᵗ-ES
 http://randomserver.site:2086/wickeduk/etqyhww45e/88671?TeamIptv
+#EXTINF:-1 tvg-logo="https://portalnacional.com.pt/images/icons/tv/AMCHD.png" group-title="11- ESPAÑA",Amc ᶦⁿᵈᵉˣ-ES
+http://152.89.35.254:8000/play/a014?TeamIptv
 
 #EXTINF:-1 tvg-logo="https://www.miwuki.com/wp-content/uploads/2016/10/logo-antena-3.png" group-title="11- ESPAÑA",Antena 3 ᵃˡᵗ-ES
 http://randomserver.site:2086/wickeduk/etqyhww45e/88673?TeamIptv
+#EXTINF:-1 tvg-logo="https://www.miwuki.com/wp-content/uploads/2016/10/logo-antena-3.png" group-title="11- ESPAÑA",Antena 3 ᶦⁿᵈᵉˣ-ES
+http://152.89.35.254:8000/play/a03v?TeamIptv
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/aragon-tv-logo.png" group-title="11- ESPAÑA",Aragon tv (5)-ES
 http://185.140.187.35:8000/play/a04w?TeamIptv
@@ -655,11 +661,17 @@ http://randomserver.site:2086/wickeduk/etqyhww45e/88779?TeamIptv
 #EXTINF:-1 tvg-logo="https://baul.mediaset.es/dist/assets/seo/logo_bemad.png" group-title="11- ESPAÑA",Be Mad (5)-ES
 http://185.140.187.35:8000/play/a045?TeamIptv
 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Betis-TV.png" group-title="11- ESPAÑA",Betis tv ᶦⁿᵈᵉˣ-ES
+http://152.89.35.254:8000/play/a008?TeamIptv
+
 #EXTINF:-1 tvg-logo="https://nos.pt/particulares/televisao/canais/PublishingImages/blaze/logo/large.jpg" group-title="11- ESPAÑA",Blaze (5)-ES
 http://185.140.187.35:8000/play/a04a?TeamIptv
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/boing-logo-png.png" group-title="11- ESPAÑA",Boing (5)-ES
 http://185.140.187.35:8000/play/a03w?TeamIptv
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1134123912697143298/BCbdL57G.png" group-title="11- ESPAÑA",Bom Cine ᶦⁿᵈᵉˣ-ES
+http://152.89.35.254:8000/play/a01e?TeamIptv
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_boomerang-cartoon_m.png" group-title="11- ESPAÑA",Boomerang ᵃˡᵗ-ES
 http://randomserver.site:2086/wickeduk/etqyhww45e/88682?TeamIptv
@@ -714,6 +726,8 @@ http://randomserver.site:2086/wickeduk/etqyhww45e/88703?TeamIptv
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/02/Condavisi%C3%B3n-TV.png" group-title="11- ESPAÑA",Condavisión⁻ˢᵈ⁻-ES
 http://145.239.141.154:1935/live/uSCQc5ky/playlist.m3u8?TeamIptv
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/02/Condavisi%C3%B3n-TV.png" group-title="11- ESPAÑA",Condavisión ᶦⁿᵈᵉˣ-ES
+http://152.89.35.254:8000/play/a005?TeamIptv
 
 #EXTINF:-1 tvg-logo="https://www.cosmopolitantv.es/img/logorrss.png" group-title="11- ESPAÑA",Cosmo (5)-ES
 http://185.140.187.35:8000/play/a019?TeamIptv
@@ -734,14 +748,16 @@ http://185.140.187.35:8000/play/a02t?TeamIptv
 #EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="11- ESPAÑA",Discovery Channel (5)-ES
 http://185.140.187.35:8000/play/a04c?TeamIptv
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/10/DMAX-en-directo-Online.png" group-title="11- ESPAÑA",DMax ᵒᶠᶠ-ES
-
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/10/DMAX-en-directo-Online.png" group-title="11- ESPAÑA",DMax ᶦⁿᵈᵉˣ-ES
+http://152.89.35.254:8000/play/a00g?TeamIptv
 
 #EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="11- ESPAÑA",Disney Channel (5)-ES
 http://185.140.187.35:8000/play/a011?TeamIptv
 
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="11- ESPAÑA",Disney Junior (5)-ES
 http://185.140.187.35:8000/play/a04p?TeamIptv
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="11- ESPAÑA",Disney Junior ᶦⁿᵈᵉˣ-ES
+http://152.89.35.254:8000/play/a01b?TeamIptv
 
 #EXTINF:-1 tvg-logo="https://i.blogs.es/e53445/disney-plus-logo/original.jpeg" group-title="11- ESPAÑA",Disney + ᵃˡᵗ-ES
 http://randomserver.site:2086/wickeduk/etqyhww45e/88722?TeamIptv
@@ -749,8 +765,8 @@ http://randomserver.site:2086/wickeduk/etqyhww45e/88722?TeamIptv
 #EXTINF:-1 tvg-logo="https://descargarrevistas.com/wp-content/uploads/2018/12/divinity.jpg" group-title="11- ESPAÑA",Divinity (5)-ES
 http://185.140.187.35:8000/play/a03s?TeamIptv
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2019/10/dkiss-en-directo-online-1.png" group-title="11- ESPAÑA",Dkiss   -ES
-
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2019/10/dkiss-en-directo-online-1.png" group-title="11- ESPAÑA",Dkiss ᶦⁿᵈᵉˣ-ES
+http://152.89.35.254:8000/play/a019?TeamIptv
 
 #EXTINF:-1 tvg-logo="https://komefy.com/wp-content/uploads/2019/06/intereconomia.png" group-title="11- ESPAÑA",El Toro tv ᵒᶠᶠ-ES
 
@@ -771,6 +787,8 @@ http://185.140.187.35:8000/play/a044?TeamIptv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="11- ESPAÑA",Fox (5)-ES
 http://185.140.187.35:8000/play/a01f?TeamIptv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="11- ESPAÑA",Fox ᶦⁿᵈᵉˣ-ES
+http://152.89.35.254:8000/play/a00k?TeamIptv
 
 #EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="11- ESPAÑA",Fox Life (5)-ES
 http://185.140.187.35:8000/play/a016?TeamIptv
@@ -790,12 +808,16 @@ http://randomserver.site:2086/wickeduk/etqyhww45e/88811?TeamIptv
 
 #EXTINF:-1 tvg-logo="https://tvalcolea.com/wp-content/uploads/2018/03/iberalia.jpg" group-title="11- ESPAÑA",Iberalia (5)-ES
 http://185.140.187.35:8000/play/a04o?TeamIptv
+#EXTINF:-1 tvg-logo="https://tvalcolea.com/wp-content/uploads/2018/03/iberalia.jpg" group-title="11- ESPAÑA",Iberalia ᶦⁿᵈᵉˣ-ES
+http://152.89.35.254:8000/play/a06q?TeamIptv
 
 #EXTINF:-1 tvg-logo="http://telecalasparra.com/wp-content/uploads/2016/09/1.La_1.png" group-title="11- ESPAÑA",La 1  -ES
 
 
 #EXTINF:-1 tvg-logo="https://www.siguenza-guadalajara.org/images/noticias/2019/septiembre/la-2.png" group-title="11- ESPAÑA",La 2 (5)-ES
 http://185.140.187.35:8000/play/a04x?TeamIptv
+#EXTINF:-1 tvg-logo="https://www.siguenza-guadalajara.org/images/noticias/2019/septiembre/la-2.png" group-title="11- ESPAÑA",La 2 ᶦⁿᵈᵉˣ-ES
+http://152.89.35.254:8000/play/a01t?TeamIptv
 
 #EXTINF:-1 tvg-logo="https://cdn.domestika.org/c_fill,dpr_1.0,f_auto,h_1200,q_auto,w_1200/v1505164439/project-covers/000/353/863/353863-original.jpg?1505164439" group-title="11- ESPAÑA",LaLiga TV (5)-ES
 http://185.140.187.35:8000/play/a03i?TeamIptv
@@ -803,8 +825,8 @@ http://185.140.187.35:8000/play/a03i?TeamIptv
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/01/Lancelot-tv.png" group-title="11- ESPAÑA",Lancelot Tv ᵒᶠᶠ-ES
 
 
-#EXTINF:-1 tvg-logo="https://www.cienciaterapia.org/wp-content/uploads/2016/04/sexta.png" group-title="11- ESPAÑA",La Sexta  -ES
-
+#EXTINF:-1 tvg-logo="https://www.cienciaterapia.org/wp-content/uploads/2016/04/sexta.png" group-title="11- ESPAÑA",La Sexta ᶦⁿᵈᵉˣ-ES
+http://152.89.35.254:8000/play/a03y?TeamIptv
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/818729431141404672/kSfmbaKL_400x400.jpg" group-title="11- ESPAÑA",Lebrija TV⁻ˢᵈ⁻-ES
 http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8?TeamIptv
@@ -814,6 +836,8 @@ http://cloudtv.provideo.es/live/marbellatv-livestream.m3u8?TeamIptv
 
 #EXTINF:-1 tvg-logo="https://jonvlogs21.es/wp-content/uploads/2019/03/720x540.jpg" group-title="11- ESPAÑA",Mega ᵃˡᵗ-ES
 http://randomserver.site:2086/wickeduk/etqyhww45e/88687?TeamIptv
+#EXTINF:-1 tvg-logo="https://jonvlogs21.es/wp-content/uploads/2019/03/720x540.jpg" group-title="11- ESPAÑA",Mega ᶦⁿᵈᵉˣ-ES
+http://152.89.35.254:8000/play/a017?TeamIptv
 
 #EXTINF:-1 tvg-logo="https://logonoid.com/images/mezzo-tv-logo.png" group-title="11- ESPAÑA",Mezzo (5)-ES
 http://185.140.187.35:8000/play/a032?TeamIptv
@@ -886,6 +910,8 @@ http://185.140.187.35:8000/play/a031?TeamIptv
 
 #EXTINF:-1 tvg-logo="http://www.axartel.es/assets/img/sliders/tv-canales/a3-nova.jpg" group-title="11- ESPAÑA",Nova (5)-ES
 http://185.140.187.35:8000/play/a04n?TeamIptv
+#EXTINF:-1 tvg-logo="http://www.axartel.es/assets/img/sliders/tv-canales/a3-nova.jpg" group-title="11- ESPAÑA",Nova ᶦⁿᵈᵉˣ-ES
+http://152.89.35.254:8000/play/a06p?TeamIptv
 
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/noticias/55600/55629/1_d8fe9d8dd9.jpg" group-title="11- ESPAÑA",Odisea (5)-ES
 http://185.140.187.35:8000/play/a02k?TeamIptv
@@ -899,8 +925,11 @@ http://185.140.187.35:8000/play/a02w?TeamIptv
 #EXTINF:-1 tvg-logo="http://diretele.com/wp-content/uploads/2018/09/radio-televisi%C3%B3n-ceuta-en-directo.png" group-title="11- ESPAÑA",RTVCE⁻ˢᵈ⁻-ES
 http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8?TeamIptv
 
-#EXTINF:-1 tvg-logo="https://canalsomos.es/wp-content/themes/canalsomos/images/somos-logo.png" group-title="11- ESPAÑA",Somos ᵒᶠᶠ-ES
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/sfc-tv.png" group-title="11- ESPAÑA",Sevilla FC ᶦⁿᵈᵉˣ-ES
+http://152.89.35.254:8000/play/a00c?TeamIptv
 
+#EXTINF:-1 tvg-logo="https://canalsomos.es/wp-content/themes/canalsomos/images/somos-logo.png" group-title="11- ESPAÑA",Somos ᶦⁿᵈᵉˣ-ES
+http://152.89.35.254:8000/play/a01a?TeamIptv
 
 #EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2011/09/c0552-sundancetv-la.png" group-title="11- ESPAÑA",Sundance (5)-ES
 http://185.140.187.35:8000/play/a03b?TeamIptv
@@ -925,6 +954,11 @@ http://randomserver.site:2086/wickeduk/etqyhww45e/88819?TeamIptv
 
 #EXTINF:-1 tvg-logo="http://img.irtve.es/imagenes/jpg/1331827196060.jpg" group-title="11- ESPAÑA",Teledeporte (5)-ES
 http://185.140.187.35:8000/play/a03o?TeamIptv
+#EXTINF:-1 tvg-logo="http://img.irtve.es/imagenes/jpg/1331827196060.jpg" group-title="11- ESPAÑA",Teledeporte ᶦⁿᵈᵉˣ-ES
+http://152.89.35.254:8000/play/a007?TeamIptv
+
+#EXTINF:-1 tvg-logo="https://teleonuba.es/imagenes/logo_teleonuba_fb.png" group-title="11- ESPAÑA",Teleonuba ᶦⁿᵈᵉˣ-ES
+http://152.89.35.254:8000/play/a002?TeamIptv
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/02/canal-7-televalencia.png" group-title="11- ESPAÑA",TeleValencia 7 ᵒᶠᶠ-ES
 
@@ -932,8 +966,14 @@ http://185.140.187.35:8000/play/a03o?TeamIptv
 #EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="11- ESPAÑA",TNT (5)-ES
 http://185.140.187.35:8000/play/a00z?TeamIptv
 
+#EXTINF:-1 tvg-logo="https://bopiweb.com/imagenes/4902/tomo.1.M-3662325-3.jpg" group-title="11- ESPAÑA",TorOlé tv ᶦⁿᵈᵉˣ-ES
+http://152.89.35.254:8000/play/a001?TeamIptv
+
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/o/r/xtorostv.jpg.pagespeed.ic.My5CoATug6.jpg" group-title="11- ESPAÑA",Toros (5)-ES
 http://185.140.187.35:8000/play/a00u?TeamIptv
+
+#EXTINF:-1 tvg-logo="https://www.iglesiadeasturias.org/wp-content/uploads/2019/03/TreceTv.jpg" group-title="11- ESPAÑA",Trece ᶦⁿᵈᵉˣ-ES
+http://152.89.35.254:8000/play/a01c?TeamIptv
 
 #EXTINF:-1 tvg-logo="https://fracademic.com/pictures/frwiki/49/180px-Logo_TVE-Internacional.svg.png" group-title="11- ESPAÑA",TVE ᵒᶠᶠ-ES
 
@@ -943,6 +983,9 @@ http://europa-crtvg.flumotion.com/playlist.m3u8?TeamIptv
 
 #EXTINF:-1 tvg-logo="https://www.programacion.tv/images/viajar.PNG" group-title="11- ESPAÑA",Viajar (5)-ES
 http://185.140.187.35:8000/play/a00x?TeamIptv
+
+#EXTINF:-1 tvg-logo="https://canalxtrm.es/wp-content/uploads/2017/12/xtrm-logo-1.png" group-title="11- ESPAÑA",Xtrm ᶦⁿᵈᵉˣ-ES
+http://152.89.35.254:8000/play/a015?TeamIptv
 
 ######################################################################################################################################
 ####################################### GUATEMALA
