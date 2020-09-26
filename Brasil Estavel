@@ -27,7 +27,7 @@ http://ts.ec.cx:8080/a/hls1/combate.m3u8
 http://ts.ec.cx:8080/a/hls1/comedycentral.m3u8
 #EXTINF:-1,DISCOVERY CHANNEL
 http://ts.ec.cx:8080/a/hls1/discovery.m3u8
-#EXTINF:-1,DISCOVERY HOME & HEALTH
+#EXTINF:-1,DISCOVERY HOME HEALTH
 http://ts.ec.cx:8080/a/hls1/discoveryhomeihealth.m3u8
 #EXTINF:-1,DISCOVERY ID
 http://ts.ec.cx:8080/a/hls1/investigacaodiscovery.m3u8
