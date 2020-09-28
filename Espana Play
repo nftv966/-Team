@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:-1,A3Series
+http://152.89.35.254:8000/play/a006/index.m3u8
+#EXTINF:-1,AMC HD
+http://152.89.35.254:8000/play/a014/index.m3u8
+#EXTINF:-1,ANTENA 3 HD
+http://152.89.35.254:8000/play/a03v/index.m3u8
+#EXTINF:-1,AndaluciaTV
+http://152.89.35.254:8000/play/a01d/index.m3u8
+#EXTINF:-1,BOM
+http://152.89.35.254:8000/play/a01e/index.m3u8
+#EXTINF:-1,Betis TV
+http://152.89.35.254:8000/play/a008/index.m3u8
+#EXTINF:-1,CUATRO HD
+http://152.89.35.254:8000/play/a03w/index.m3u8
+#EXTINF:-1,Campovision TV
+http://152.89.35.254:8000/play/a004/index.m3u8
+#EXTINF:-1,Cazavision SD
+http://152.89.35.254:8000/play/a00e/index.m3u8
+#EXTINF:-1,Condavision
+http://152.89.35.254:8000/play/a005/index.m3u8
+#EXTINF:-1,DISNEY CH HD
+http://152.89.35.254:8000/play/a00u/index.m3u8
+#EXTINF:-1,DISNEY JR
+http://152.89.35.254:8000/play/a01b/index.m3u8
+#EXTINF:-1,DKISS
+http://152.89.35.254:8000/play/a019/index.m3u8
+#EXTINF:-1,DMAX
+http://152.89.35.254:8000/play/a00g/index.m3u8
+#EXTINF:-1,FOX HD
+http://152.89.35.254:8000/play/a00k/index.m3u8
+#EXTINF:-1,HOLLYWOODHD
+http://152.89.35.254:8000/play/a00n/index.m3u8
+#EXTINF:-1,IBERALIA TV
+http://152.89.35.254:8000/play/a06q/index.m3u8
+#EXTINF:-1,LA 1 HD
+http://152.89.35.254:8000/play/a00f/index.m3u8
+#EXTINF:-1,LA 2
+http://152.89.35.254:8000/play/a01t/index.m3u8
+#EXTINF:-1,LA SEXTA HD
+http://152.89.35.254:8000/play/a03y/index.m3u8
+#EXTINF:-1,M. LaLiga 1 HD
+http://152.89.35.254:8000/play/a01i/index.m3u8
+#EXTINF:-1,M. LaLiga HD
+http://152.89.35.254:8000/play/a01h/index.m3u8
+#EXTINF:-1,NOVA
+http://152.89.35.254:8000/play/a06p/index.m3u8
+#EXTINF:-1,SFC
+http://152.89.35.254:8000/play/a00c/index.m3u8
+#EXTINF:-1,SOMOS
+http://152.89.35.254:8000/play/a01a/index.m3u8
+#EXTINF:-1,TDP
+http://152.89.35.254:8000/play/a007/index.m3u8
+#EXTINF:-1,TELECINCO HD
+http://152.89.35.254:8000/play/a03x/index.m3u8
+#EXTINF:-1,TEN
+http://152.89.35.254:8000/play/a00h/index.m3u8
+#EXTINF:-1,TRECE TV
+http://152.89.35.254:8000/play/a01c/index.m3u8
+#EXTINF:-1,Teleonuba
+http://152.89.35.254:8000/play/a002/index.m3u8
+#EXTINF:-1,Torole
+http://152.89.35.254:8000/play/a001/index.m3u8
+#EXTINF:-1,XTRM
+http://152.89.35.254:8000/play/a015/index.m3u8
+#EXTINF:-1,mega
+http://152.89.35.254:8000/play/a017/index.m3u8
