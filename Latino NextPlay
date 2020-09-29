@@ -211,3 +211,12 @@ http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/765
 http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/766
 #EXTINF:-1 ,DMAX
 http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/767
+#EXTINF:-1 ,FOX SPORTS INDEX
+http://95.216.102.177/look/fox_sport/index.m3u8
+#EXTINF:-1 ,FOX SPORTS 1 INDEX
+http://95.216.102.177/look/fox_sport_1/index.m3u8
+#EXTINF:-1 ,FOX SPORTS 2 INDEX
+http://95.216.102.177/look/fox_sport_2/index.m3u8
+#EXTINF:-1 ,FOX SPORTS 3 INDEX
+http://95.216.102.177/look/fox_sport_3/index.m3u8
+
