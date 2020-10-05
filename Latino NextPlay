@@ -21,8 +21,6 @@ http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/9
 http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/10
 #EXTINF:-1 ,LA TELE
 http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/11
-#EXTINF:-1 ,NEXTPLAY FIESTA
-http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/12
 #EXTINF:-1 ,FOX SERIES
 http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/36
 #EXTINF:-1 ,FOX HD
@@ -131,7 +129,7 @@ http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/202
 http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/204
 #EXTINF:-1 ,TRECE ARGENTINA
 http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/205
-#EXTINF:-1 ,bob esponja
+#EXTINF:-1 ,BOB ESPONJA
 http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/206
 #EXTINF:-1 ,EL CHAVO DEL 8 ANIMADO
 http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/207
@@ -145,7 +143,7 @@ http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/240
 http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/241
 #EXTINF:-1 ,RED PAT LA PAZ
 http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/242
-#EXTINF:-1 ,la mascara animada
+#EXTINF:-1 ,LA MASCARA ANIMADA
 http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/246
 #EXTINF:-1 ,RECORD BR HD
 http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/271
@@ -225,4 +223,13 @@ http://95.216.102.177/look/espn/index.m3u8
 http://95.216.102.177/look/espn_2/index.m3u8
 #EXTINF:-1 ,ESPN 3 INDEX
 http://95.216.102.177/look/espn_3/index.m3u8
-
+#EXTINF:-1 group-title="Latin America" tvg-logo="http://iptvreseller.xyz:1234/Anh/ClaroSports.png",CLARO SPORTS BESTBUY
+http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/7386
+#EXTINF:-1 group-title="Latin America" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports3.png",FOX SPORT 3 BESTBUY
+http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/7414
+#EXTINF:-1 group-title="Latin America" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports2hd.png",Fox Sports 2 HD BESTBUY
+http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/5183
+#EXTINF:-1 group-title="Latin America" tvg-logo="http://iptvreseller.xyz:1234/Anh/WINSPORTHD.png",WIN SPORT HD BESTBUY
+http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/7732
+#EXTINF:-1 group-title="Latin America" tvg-logo="http://iptvreseller.xyz:1234/Anh/espn.png",ESPN 3 BESTBUY
+http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/5192
