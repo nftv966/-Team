@@ -17,6 +17,8 @@ http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 http://streamyes.alsolnet.com:1935/canal4sanjuan/live/chunklist.m3u8
 #EXTINF:-1 ,ARG: Canal 4 San Juan Alt
 http://streamyes.alsolnet.com:1935/canal4sanjuan/live/chunklist_w931974462.m3u8
+#EXTINF:-1 ,ARG: Canal 4 San Juan Alt 2
+http://184.154.28.210:1935/canal4/canal4/playlist.m3u8?TeamIptv
 #EXTINF:-1 ,ARG: Canal 5 Tigre
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 #EXTINF:-1 ,ARG: Canal 6 Moreno
@@ -24,21 +26,36 @@ https://5975e06a1f292.streamlock.net:4443/canal6moreno/canal6moreno/playlist.m3u
 #EXTINF:-1 ,ARG: Canal 7 Chubut
 http://stream.chubut.gov.ar:1935/C7/vivo.stream/playlist.m3u8
 #EXTINF:-1 ,ARG: Canal 9 Multivision
+#EXTINF:-1 ,Canal 7 Jujuy
+https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/chunklist.m3u8?TeamIptv
+#EXTINF:-1 ,ARG: Canal 9 Multivision
 http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
+#EXTINF:-1 ,ARG: Canal 10 Cordoba
+http://wowzaprod169-i.akamaihd.net/hls/live/630337/59e4c1ec/playlist.m3u8?TeamIptv
 #EXTINF:-1 ,ARG: Canal 10 Rio Negro
 http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+#EXTINF:-1 ,ARG: Canal 10 TVP
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0108?TeamIptv
+#EXTINF:-1 ,ARG: Canal 13 La Rioja
+http://arcast.net:1935/mp/mp/playlist.m3u8?TeamIptv
 #EXTINF:-1 ,ARG: Canal 26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 ,ARG: Canal 26 Alt
 http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:-1 ,ARG: Canal Local Buenos Aires
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0089?TeamIptv
 #EXTINF:-1 ,ARG: Canal Provincial
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 #EXTINF:-1 ,ARG: Ciudad Tv Chaco
 http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
 #EXTINF:-1 ,ARG: Chaco TV
 https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8
+#EXTINF:-1 ,ARG: Chacra TV
+http://s8.stweb.tv:1935/chacra/live/chunks.m3u8?TeamIptv
 #EXTINF:-1 ,ARG: CN 24/7
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
+#EXTINF:-1 ,ARG: Cpetv
+http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/index_150_av-p.m3u8?TeamIptv
 #EXTINF:-1 ,ARG: Garage Tv
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 #EXTINF:-1 ,ARG: Litus TV
@@ -47,6 +64,10 @@ http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
 http://streamyes.alsolnet.com/mediosrioja/live/chunklist_w635100631.m3u8
 #EXTINF:-1 ,ARG: Multivisión Canal 9
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:-1 ,ARG: Music Top
+http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8?TeamIptv
+#EXTINF:-1 ,ARG: Music Top Alt
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8?TeamIptv
 #EXTINF:-1 ,ARG: Net Tv
 https://unlimited6-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 #EXTINF:-1 ,ARG: Quatro Tv Rio Cuarto
@@ -55,6 +76,8 @@ https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/playlist.m3u8
 http://media.neuquen.gov.ar/rtn/television/chunklist.m3u8
 #EXTINF:-1 ,ARG: Rtn Neuquen
 http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
+#EXTINF:-1 ,ARG: Santa Maria TV
+http://www.trimi.com.ar/santa_maria/streaming/mystreamSantaMariaHSMed.m3u8?TeamIptv
 #EXTINF:-1 ,ARG: Señal Provincial
 http://www.trimi.com.ar:80/provincial/streaming/mystream.m3u8
 #EXTINF:-1 ,ARG: Telpin Canal 2
@@ -71,8 +94,22 @@ http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist.m3u8
 https://5b3050bb1b2d8.streamlock.net/tvmlive/tvmlive/chunklist.m3u8
 #EXTINF:-1 ,ARG: Tv Mana
 http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
+#EXTINF:-1 ,BRA: Itú Tv
+http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8?TeamIptv
+#EXTINF:-1 ,BRA: Metropole News tv
+http://in.uaimacks.net.br:1935/macks/macks.sdp/chunklist_w1760176873.m3u8?TeamIptv
 #EXTINF:-1 ,BRA: Sbt Interior
 http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+#EXTINF:-1 ,BRA: Tv BNO
+http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8?TeamIptv
+#EXTINF:-1 ,BRA: Tv Diario do Sertao
+http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/chunklist_w1056637401.m3u8?TeamIptv
+#EXTINF:-1 ,BRA: Tve RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?TeamIptv
+#EXTINF:-1 ,BRA: Tv Faap
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8?TeamIptv
+#EXTINF:-1 ,BRA: Web Tv Minas
+http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8?TeamIptv
 #EXTINF:-1 ,BOL: Bolivia Tv
 http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
 #EXTINF:-1 ,BOL: Católica Tv
@@ -121,6 +158,8 @@ http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 http://unlimited2-cl.dps.live/itv/itv.smil/playlist.m3u8
 #EXTINF:-1 ,CHI: La Red
 http://cl-lared-lared-app-oiuh8d-origin-0.ned.media/lared/smil:lared.smil/playlist.m3u8
+#EXTINF:-1 ,CHI: Mega
+http://livestream.lamusica.com/megatvlive/megatvlive/playlist.m3u8?TeamIptv
 #EXTINF:-1 ,CHI: Maxima Fm Tv
 http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
 #EXTINF:-1 ,CHI: Pauta Tv
@@ -129,8 +168,12 @@ http://video-ply.pauta.cl/playlist/stream.m3u8?s=pauta-hd
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 #EXTINF:-1 ,CHI: Rec Tv
 http://america.tucableip.com:8181/reconline/live/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,CHI: T13
+http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd?TeamIptv
 #EXTINF:-1 ,CHI: Tv del Senado
 http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
+#EXTINF:-1 ,CHI: TVR
+https://unlimited4-cl.dps.live/tvr/tvr.smil/playlist.m3u8?TeamIptv
 #EXTINF:-1 ,CHI: UesTv
 http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
 #EXTINF:-1 ,CHI: Umag Tv
@@ -139,10 +182,20 @@ http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
 https://v2.tustreaming.cl/utvsc/live1/index.m3u8
 #EXTINF:-1 ,COL: Cali Tv
 http://vbox.cehis.net/live-calitv/calitv1/chunklist.m3u8
+#EXTINF:-1 ,COL: CNC
+http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8?TeamIptv
 #EXTINF:-1 ,COL: Mundo Mas
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 #EXTINF:-1 ,COL: Panico
 http://170.178.189.66:1935/live/Stream1/.m3u8
+#EXTINF:-1 ,COL: Ranchenato
+http://66.240.236.25:1936/ranchenato/ranchenato/playlist.m3u8?TeamIptv
+#EXTINF:-1 ,COL: Telecaribe
+http://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/2196k/index.m3u8?TeamIptv
+#EXTINF:-1 ,COL: Telecaribe Alt
+http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8?TeamIptv
+#EXTINF:-1 ,COL: Telecaribe Alt 2
+http://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/496k/index.m3u8?TeamIptv
 #EXTINF:-1 ,COL: Teleislas
 http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
 #EXTINF:-1 ,COL: Telepacifico
