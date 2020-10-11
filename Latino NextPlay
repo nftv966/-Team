@@ -67,8 +67,6 @@ http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/75
 http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/76
 #EXTINF:-1 ,QUIERO MUSICA
 http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/77
-#EXTINF:-1 ,GLITZ
-http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/78
 #EXTINF:-1 ,CRONICA TV ARGENTINA
 http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/79
 #EXTINF:-1 ,C5N ARGENTINA
@@ -189,14 +187,10 @@ http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/739
 http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/752
 #EXTINF:-1 ,RCN PARAGUAY TV
 http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/753
-#EXTINF:-1 ,COSTANERA FM TV
-http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/754
 #EXTINF:-1 ,CRISTAL TV FM
 http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/755
 #EXTINF:-1 ,PARTY FM TV
 http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/756
-#EXTINF:-1 ,CRISTOVISION
-http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/757
 #EXTINF:-1 ,RETRO TV
 http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/758
 #EXTINF:-1 ,FIERA TV
@@ -207,29 +201,3 @@ http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/764
 http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/765
 #EXTINF:-1 ,BEIN SPORT LA LIGA
 http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/766
-#EXTINF:-1 ,DMAX
-http://nextplayparaguay.info:25461/arnaldo1/arnaldo1/767
-#EXTINF:-1 ,FOX SPORTS INDEX
-http://95.216.102.177/look/fox_sport/index.m3u8
-#EXTINF:-1 ,FOX SPORTS 1 INDEX
-http://95.216.102.177/look/fox_sport_1/index.m3u8
-#EXTINF:-1 ,FOX SPORTS 2 INDEX
-http://95.216.102.177/look/fox_sport_2/index.m3u8
-#EXTINF:-1 ,FOX SPORTS 3 INDEX
-http://95.216.102.177/look/fox_sport_3/index.m3u8
-#EXTINF:-1 ,ESPN INDEX
-http://95.216.102.177/look/espn/index.m3u8
-#EXTINF:-1 ,ESPN 2 INDEX
-http://95.216.102.177/look/espn_2/index.m3u8
-#EXTINF:-1 ,ESPN 3 INDEX
-http://95.216.102.177/look/espn_3/index.m3u8
-#EXTINF:-1 group-title="Latin America" tvg-logo="http://iptvreseller.xyz:1234/Anh/ClaroSports.png",CLARO SPORTS BESTBUY
-http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/7386
-#EXTINF:-1 group-title="Latin America" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports3.png",FOX SPORT 3 BESTBUY
-http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/7414
-#EXTINF:-1 group-title="Latin America" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports2hd.png",Fox Sports 2 BESTBUY
-http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/5183
-#EXTINF:-1 group-title="Latin America" tvg-logo="http://iptvreseller.xyz:1234/Anh/WINSPORTHD.png",WIN SPORT BESTBUY
-http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/7732
-#EXTINF:-1 group-title="Latin America" tvg-logo="http://iptvreseller.xyz:1234/Anh/espn.png",ESPN 3 BESTBUY
-http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/5192
