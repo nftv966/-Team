@@ -8,8 +8,8 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
-####################################### 3% Temporada 1
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_216_288/pictures/16/11/08/13/03/368745.jpg" group-title="3% Temporada 1",3% Temporada 1
+####################################### 3% Temporada 1 (Portugues)
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_216_288/pictures/16/11/08/13/03/368745.jpg" group-title="3% Temporada 1",3% Temporada 1 (Portugues)
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_216_288/pictures/16/11/08/13/03/368745.jpg" group-title="3% Temporada 1",3% 1x01
@@ -28,8 +28,8 @@ http://flowhd.xyz/HTML/series/3/1/1x6.mp4
 http://flowhd.xyz/HTML/series/3/1/1x7.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_216_288/pictures/16/11/08/13/03/368745.jpg" group-title="3% Temporada 1",3% 1x08
 http://flowhd.xyz/HTML/series/3/1/1x8.mp4
-####################################### 3% Temporada 2
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/04/17/10/38/1418812.jpg" group-title="3% Temporada 2",3% Temporada 2
+####################################### 3% Temporada 2 (Portugues)
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/04/17/10/38/1418812.jpg" group-title="3% Temporada 2",3% Temporada 2 (Portugues)
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/04/17/10/38/1418812.jpg" group-title="3% Temporada 2",3% 2x01
