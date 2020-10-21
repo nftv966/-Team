@@ -96,10 +96,18 @@ http://144.217.180.154/SERVIDOR_2/50%20STATES%20OF%20FRIGHT%2001%20TEMP%20DVD%20
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/07/09/53/3088128.jpg" group-title="68 Whiskey Temp 1",68 Whiskey Temp 1 (Subtitulado)
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/07/09/53/3088128.jpg" group-title="68 Whiskey Temp 1",68 Whiskey 1 al 5
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/07/09/53/3088128.jpg" group-title="68 Whiskey Temp 1",68 Whiskey -cap. 1 al 5
 http://144.217.180.154/SERVIDOR_2/68%20WHISKEY%2001%20TEMP%20DVD%2001C1AL5.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/07/09/53/3088128.jpg" group-title="68 Whiskey Temp 1",68 Whiskey 6 al 9
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/07/09/53/3088128.jpg" group-title="68 Whiskey Temp 1",68 Whiskey -cap. 6 al 9
 http://144.217.180.154/SERVIDOR_2/68%20WHISKEY%2001%20TEMP%20DVD%2002_CAP.6AL9.mp4
+####################################### A Cantar Temp 1 (Subtitulado)
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/8l3_RpiyopxKyxxTfO09ZnFvBjJxvmwvREZw6EhHQA1ZcIgvd51QKCAfQ57-LPJJo0o-Nv7wPuEakroAR8aW1uU3pdoJzriAufkPLg9s4Hi7Dr5GHvRnzzBOYvkzC-_Q7K1JP4dlK2M_iTMxXc4yB93WrqOVPYXAbL96HnP-" group-title="A Cantar Temp 1",A Cantar Temp 1 (Subtitulado)
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/8l3_RpiyopxKyxxTfO09ZnFvBjJxvmwvREZw6EhHQA1ZcIgvd51QKCAfQ57-LPJJo0o-Nv7wPuEakroAR8aW1uU3pdoJzriAufkPLg9s4Hi7Dr5GHvRnzzBOYvkzC-_Q7K1JP4dlK2M_iTMxXc4yB93WrqOVPYXAbL96HnP-" group-title="A Cantar Temp 1",A Cantar -cap. 1 al 5
+http://144.217.180.154/SERVIDOR_2/A%20CANTAR%2001%20TEMP%20DVD%2001_CAP1A5.mp4
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/8l3_RpiyopxKyxxTfO09ZnFvBjJxvmwvREZw6EhHQA1ZcIgvd51QKCAfQ57-LPJJo0o-Nv7wPuEakroAR8aW1uU3pdoJzriAufkPLg9s4Hi7Dr5GHvRnzzBOYvkzC-_Q7K1JP4dlK2M_iTMxXc4yB93WrqOVPYXAbL96HnP-" group-title="A Cantar Temp 1",A Cantar -cap. 6 al 8
+http://144.217.180.154/SERVIDOR_2/A%20CANTAR%2001%20TEMP%20DVD%2002_CAP.6AL8_ES.mp4
 
 
 
