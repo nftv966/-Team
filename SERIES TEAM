@@ -1,13 +1,10 @@
 #EXTM3U
-
 ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO
-
 ######################################################################################################################################
 ######################################################################################################################################
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DQ_QQNsXcAAAHhM.jpg" group-title="SERIES GRATIS",SERIES GRATIS
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
-
 ####################################### 3% Temp 1 (Portugues)
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_216_288/pictures/16/11/08/13/03/368745.jpg" group-title="3% Temp 1",3% Temp 1 (Portugues)
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
@@ -458,3 +455,43 @@ http://flowhd.xyz/HTML/series/All%20American/2/2x14.mp4
 http://flowhd.xyz/HTML/series/All%20American/2/2x15.mp4
 #EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/348200/seasonposter/all-american-2018-5dcaa6579926a.jpg" group-title="All American Temp 2",All American 2x16
 http://flowhd.xyz/HTML/series/All%20American/2/2x16.mp4
+####################################### Alta Mar Temp 1 (Español)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/28/48/66/2848661965337e62f1f93e3396c7488f.jpg" group-title="Alta Mar Temp 1",Alta Mar Temp 1 (Español)
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/28/48/66/2848661965337e62f1f93e3396c7488f.jpg" group-title="Alta Mar Temp 1",Alta Mar 1x01
+http://flowhd.xyz/HTML/series/Alta%20mar/Season1/1x1.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/28/48/66/2848661965337e62f1f93e3396c7488f.jpg" group-title="Alta Mar Temp 1",Alta Mar 1x02
+http://flowhd.xyz/HTML/series/Alta%20mar/Season1/1x2.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/28/48/66/2848661965337e62f1f93e3396c7488f.jpg" group-title="Alta Mar Temp 1",Alta Mar 1x03
+http://flowhd.xyz/HTML/series/Alta%20mar/Season1/1x3.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/28/48/66/2848661965337e62f1f93e3396c7488f.jpg" group-title="Alta Mar Temp 1",Alta Mar 1x04
+http://flowhd.xyz/HTML/series/Alta%20mar/Season1/1x4.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/28/48/66/2848661965337e62f1f93e3396c7488f.jpg" group-title="Alta Mar Temp 1",Alta Mar 1x05
+http://flowhd.xyz/HTML/series/Alta%20mar/Season1/1x5.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/28/48/66/2848661965337e62f1f93e3396c7488f.jpg" group-title="Alta Mar Temp 1",Alta Mar 1x06
+http://flowhd.xyz/HTML/series/Alta%20mar/Season1/1x6.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/28/48/66/2848661965337e62f1f93e3396c7488f.jpg" group-title="Alta Mar Temp 1",Alta Mar 1x07
+http://flowhd.xyz/HTML/series/Alta%20mar/Season1/1x7.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/28/48/66/2848661965337e62f1f93e3396c7488f.jpg" group-title="Alta Mar Temp 1",Alta Mar 1x08
+http://flowhd.xyz/HTML/series/Alta%20mar/Season1/1x8.mp4
+####################################### Alta Mar Temp 2 (Español)
+#EXTINF:-1 tvg-logo="https://culturamania.com/wp-content/uploads/2019/10/AltaMar_S2_Vertical_Main_RGB_ES.jpg" group-title="Alta Mar Temp 2",Alta Mar Temp 2 (Español)
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://culturamania.com/wp-content/uploads/2019/10/AltaMar_S2_Vertical_Main_RGB_ES.jpg" group-title="Alta Mar Temp 2",Alta Mar 2x01
+http://flowhd.xyz/HTML/series/Alta%20mar/Season2/2x1.mp4
+#EXTINF:-1 tvg-logo="https://culturamania.com/wp-content/uploads/2019/10/AltaMar_S2_Vertical_Main_RGB_ES.jpg" group-title="Alta Mar Temp 2",Alta Mar 2x02
+http://flowhd.xyz/HTML/series/Alta%20mar/Season2/2x2.mp4
+#EXTINF:-1 tvg-logo="https://culturamania.com/wp-content/uploads/2019/10/AltaMar_S2_Vertical_Main_RGB_ES.jpg" group-title="Alta Mar Temp 2",Alta Mar 2x03
+http://flowhd.xyz/HTML/series/Alta%20mar/Season2/2x3.mp4
+#EXTINF:-1 tvg-logo="https://culturamania.com/wp-content/uploads/2019/10/AltaMar_S2_Vertical_Main_RGB_ES.jpg" group-title="Alta Mar Temp 2",Alta Mar 2x04
+http://flowhd.xyz/HTML/series/Alta%20mar/Season2/2x4.mp4
+#EXTINF:-1 tvg-logo="https://culturamania.com/wp-content/uploads/2019/10/AltaMar_S2_Vertical_Main_RGB_ES.jpg" group-title="Alta Mar Temp 2",Alta Mar 2x05
+http://flowhd.xyz/HTML/series/Alta%20mar/Season2/2x5.mp4
+#EXTINF:-1 tvg-logo="https://culturamania.com/wp-content/uploads/2019/10/AltaMar_S2_Vertical_Main_RGB_ES.jpg" group-title="Alta Mar Temp 2",Alta Mar 2x06
+http://flowhd.xyz/HTML/series/Alta%20mar/Season2/2x6.mp4
+#EXTINF:-1 tvg-logo="https://culturamania.com/wp-content/uploads/2019/10/AltaMar_S2_Vertical_Main_RGB_ES.jpg" group-title="Alta Mar Temp 2",Alta Mar 2x07
+http://flowhd.xyz/HTML/series/Alta%20mar/Season2/2x7.mp4
+#EXTINF:-1 tvg-logo="https://culturamania.com/wp-content/uploads/2019/10/AltaMar_S2_Vertical_Main_RGB_ES.jpg" group-title="Alta Mar Temp 2",Alta Mar 2x08
+http://flowhd.xyz/HTML/series/Alta%20mar/Season2/2x8.mp4
