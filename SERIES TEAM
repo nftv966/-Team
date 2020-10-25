@@ -749,10 +749,7 @@ http://flowhd.xyz/HTML/series/The%20Letter%20for%20the%20King/1x4.mp4
 http://flowhd.xyz/HTML/series/The%20Letter%20for%20the%20King/1x5.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51J28QbGHrL.jpg" group-title="Carta al Rey T1",cap. 06
 http://flowhd.xyz/HTML/series/The%20Letter%20for%20the%20King/1x6.mp4
-####################################### Chernobyl Temp 1 (Subtitulado)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Chernobyl Temp 1",Subtitulado
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
+
 #EXTINF:-1 tvg-logo="https://infoliteraria.com/wp-content/uploads/2019/09/Chernobil.jpg" group-title="Chernobyl T1",cap. 01
 http://flowhd.xyz/HTML/series/Chernoby/1x1.mp4
 #EXTINF:-1 tvg-logo="https://infoliteraria.com/wp-content/uploads/2019/09/Chernobil.jpg" group-title="Chernobyl T1",cap. 02
