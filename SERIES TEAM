@@ -6,7 +6,7 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 ####################################### 3% Temp 1 (Portugues)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="3% Temp 1",Portugues
+#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="3% Temp 1",T1- Portugues
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_216_288/pictures/16/11/08/13/03/368745.jpg" group-title="3% Temp 1",cap. 01
@@ -26,7 +26,7 @@ http://flowhd.xyz/HTML/series/3/1/1x7.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_216_288/pictures/16/11/08/13/03/368745.jpg" group-title="3% Temp 1",cap. 08
 http://flowhd.xyz/HTML/series/3/1/1x8.mp4
 ####################################### 3% Temp 2 (Portugues)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="3% Temp 2",Portugues
+#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="3% Temp 2",T2- Portugues
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/04/17/10/38/1418812.jpg" group-title="3% Temp 2",cap. 01
@@ -50,7 +50,7 @@ http://flowhd.xyz/HTML/series/3/2/2x9.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/04/17/10/38/1418812.jpg" group-title="3% Temp 2",cap. 10
 http://flowhd.xyz/HTML/series/3/2/2x10.mp4
 ####################################### 13 Miedos Temp 1 (Español)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="13 Miedos Temp 1",Español
+#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="13 Miedos Temp 1",T1- Español
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ux88OLvTL._AC_SY445_.jpg" group-title="13 Miedos Temp 1",cap. 01
@@ -80,7 +80,7 @@ http://playtv.tech/HTML/CONTENIDO/SERIES/13%20miedos%20S01/1/230250.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ux88OLvTL._AC_SY445_.jpg" group-title="13 Miedos Temp 1",cap. 13
 http://playtv.tech/HTML/CONTENIDO/SERIES/13%20miedos%20S01/1/230251.mp4
 ####################################### 50 States of Fright Temp 1 (Subtitulado)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="50 States of Fright Temp 1",Subtitulado
+#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="50 States of Fright Temp 1",T1- Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/04/06/09/35/1540593.jpg" group-title="50 States of Fright Temp 1",cap. 1 al 5
@@ -90,7 +90,7 @@ http://144.217.180.154/SERVIDOR_2/50%20STATES%20OF%20FRIGHT%2001%20TEMP%20DVD%20
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/04/06/09/35/1540593.jpg" group-title="50 States of Fright Temp 1",cap. 11 al 14
 http://144.217.180.154/SERVIDOR_2/50%20STATES%20OF%20FRIGHT%2001%20TEMP%20DVD%2003_CAP.11AL14_ES.mp4
 ####################################### 68 Whiskey Temp 1 (Subtitulado)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="68 Whiskey Temp 1",Subtitulado
+#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="68 Whiskey Temp 1",T1- Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/07/09/53/3088128.jpg" group-title="68 Whiskey Temp 1",cap. 1 al 5
@@ -98,7 +98,7 @@ http://144.217.180.154/SERVIDOR_2/68%20WHISKEY%2001%20TEMP%20DVD%2001C1AL5.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/07/09/53/3088128.jpg" group-title="68 Whiskey Temp 1",cap. 6 al 9
 http://144.217.180.154/SERVIDOR_2/68%20WHISKEY%2001%20TEMP%20DVD%2002_CAP.6AL9.mp4
 ####################################### A Cantar Temp 1 (Subtitulado)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="A Cantar Temp 1",Subtitulado
+#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="A Cantar Temp 1",T1- Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
 #EXTINF:-1 tvg-logo="https://img.repelis.id/cover/a-cantar.png" group-title="A Cantar Temp 1",cap. 1 al 5
@@ -106,282 +106,282 @@ http://144.217.180.154/SERVIDOR_2/A%20CANTAR%2001%20TEMP%20DVD%2001_CAP1A5.mp4
 #EXTINF:-1 tvg-logo="https://img.repelis.id/cover/a-cantar.png" group-title="A Cantar Temp 1",cap. 6 al 8
 http://144.217.180.154/SERVIDOR_2/A%20CANTAR%2001%20TEMP%20DVD%2002_CAP.6AL8_ES.mp4
 ####################################### A Tres Metros sobre el cielo Temp 1 (Subtitulado)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="A Tres Metros sobre el cielo Temp 1",Subtitulado
+#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="A Tres Metros sobre el cielo Temp 1",T1- Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/04/15/13/10/4843574.jpg" group-title="A Tres Metros sobre el cielo Temp 1",A Tres Metros 1x01
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/04/15/13/10/4843574.jpg" group-title="A Tres Metros sobre el cielo Temp 1",cap. 01
 http://playtv.tech/HTML/CONTENIDO/SERIES/A%20tres%20metros%20sobre%20el%20cielo/1x1.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/04/15/13/10/4843574.jpg" group-title="A Tres Metros sobre el cielo Temp 1",A Tres Metros 1x02
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/04/15/13/10/4843574.jpg" group-title="A Tres Metros sobre el cielo Temp 1",cap. 02
 http://playtv.tech/HTML/CONTENIDO/SERIES/A%20tres%20metros%20sobre%20el%20cielo/1x2.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/04/15/13/10/4843574.jpg" group-title="A Tres Metros sobre el cielo Temp 1",A Tres Metros 1x03
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/04/15/13/10/4843574.jpg" group-title="A Tres Metros sobre el cielo Temp 1",cap. 03
 http://playtv.tech/HTML/CONTENIDO/SERIES/A%20tres%20metros%20sobre%20el%20cielo/1x3.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/04/15/13/10/4843574.jpg" group-title="A Tres Metros sobre el cielo Temp 1",A Tres Metros 1x04
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/04/15/13/10/4843574.jpg" group-title="A Tres Metros sobre el cielo Temp 1",cap. 04
 http://playtv.tech/HTML/CONTENIDO/SERIES/A%20tres%20metros%20sobre%20el%20cielo/1x4.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/04/15/13/10/4843574.jpg" group-title="A Tres Metros sobre el cielo Temp 1",A Tres Metros 1x05
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/04/15/13/10/4843574.jpg" group-title="A Tres Metros sobre el cielo Temp 1",cap. 05
 http://playtv.tech/HTML/CONTENIDO/SERIES/A%20tres%20metros%20sobre%20el%20cielo/1x5.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/04/15/13/10/4843574.jpg" group-title="A Tres Metros sobre el cielo Temp 1",A Tres Metros 1x06
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/04/15/13/10/4843574.jpg" group-title="A Tres Metros sobre el cielo Temp 1",cap. 06
 http://playtv.tech/HTML/CONTENIDO/SERIES/A%20tres%20metros%20sobre%20el%20cielo/1x6.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/04/15/13/10/4843574.jpg" group-title="A Tres Metros sobre el cielo Temp 1",A Tres Metros 1x07
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/04/15/13/10/4843574.jpg" group-title="A Tres Metros sobre el cielo Temp 1",cap. 07
 http://playtv.tech/HTML/CONTENIDO/SERIES/A%20tres%20metros%20sobre%20el%20cielo/1x7.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/04/15/13/10/4843574.jpg" group-title="A Tres Metros sobre el cielo Temp 1",A Tres Metros 1x08
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/04/15/13/10/4843574.jpg" group-title="A Tres Metros sobre el cielo Temp 1",cap. 08
 http://playtv.tech/HTML/CONTENIDO/SERIES/A%20tres%20metros%20sobre%20el%20cielo/1x8.mp4
 ####################################### Absentia Temp 1 (Subtitulado)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Absentia Temp 1",Subtitulado
+#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Absentia Temp 1",T1- Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1517/1_m3.jpg" group-title="Absentia Temp 1",Absentia 1x01
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1517/1_m3.jpg" group-title="Absentia Temp 1",cap. 01
 http://playtv.tech/HTML/CONTENIDO/SERIES/Absentia/1/1x1.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1517/1_m3.jpg" group-title="Absentia Temp 1",Absentia 1x02
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1517/1_m3.jpg" group-title="Absentia Temp 1",cap. 02
 http://playtv.tech/HTML/CONTENIDO/SERIES/Absentia/1/1x2.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1517/1_m3.jpg" group-title="Absentia Temp 1",Absentia 1x03
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1517/1_m3.jpg" group-title="Absentia Temp 1",cap. 03
 http://playtv.tech/HTML/CONTENIDO/SERIES/Absentia/1/1x3.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1517/1_m3.jpg" group-title="Absentia Temp 1",Absentia 1x04
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1517/1_m3.jpg" group-title="Absentia Temp 1",cap. 04
 http://playtv.tech/HTML/CONTENIDO/SERIES/Absentia/1/1x4.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1517/1_m3.jpg" group-title="Absentia Temp 1",Absentia 1x05
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1517/1_m3.jpg" group-title="Absentia Temp 1",cap. 05
 http://playtv.tech/HTML/CONTENIDO/SERIES/Absentia/1/1x5.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1517/1_m3.jpg" group-title="Absentia Temp 1",Absentia 1x06
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1517/1_m3.jpg" group-title="Absentia Temp 1",cap. 06
 http://playtv.tech/HTML/CONTENIDO/SERIES/Absentia/1/1x6.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1517/1_m3.jpg" group-title="Absentia Temp 1",Absentia 1x07
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1517/1_m3.jpg" group-title="Absentia Temp 1",cap. 07
 http://playtv.tech/HTML/CONTENIDO/SERIES/Absentia/1/1x7.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1517/1_m3.jpg" group-title="Absentia Temp 1",Absentia 1x08
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1517/1_m3.jpg" group-title="Absentia Temp 1",cap. 08
 http://playtv.tech/HTML/CONTENIDO/SERIES/Absentia/1/1x8.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1517/1_m3.jpg" group-title="Absentia Temp 1",Absentia 1x09
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1517/1_m3.jpg" group-title="Absentia Temp 1",cap. 09
 http://playtv.tech/HTML/CONTENIDO/SERIES/Absentia/1/1x9.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1517/1_m3.jpg" group-title="Absentia Temp 1",Absentia 1x10
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1517/1_m3.jpg" group-title="Absentia Temp 1",cap. 10
 http://playtv.tech/HTML/CONTENIDO/SERIES/Absentia/1/1x10.mp4
 ####################################### Absentia Temp 2 (Subtitulado)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Absentia Temp 2",Subtitulado
+#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Absentia Temp 2",T2- Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D2s9R7lWoAAXdgP.jpg" group-title="Absentia Temp 2",Absentia 2x01
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D2s9R7lWoAAXdgP.jpg" group-title="Absentia Temp 2",cap. 01
 http://playtv.tech/HTML/CONTENIDO/SERIES/Absentia/2/44766.mp4
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D2s9R7lWoAAXdgP.jpg" group-title="Absentia Temp 2",Absentia 2x02
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D2s9R7lWoAAXdgP.jpg" group-title="Absentia Temp 2",cap. 02
 http://playtv.tech/HTML/CONTENIDO/SERIES/Absentia/2/44767.mp4
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D2s9R7lWoAAXdgP.jpg" group-title="Absentia Temp 2",Absentia 2x03
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D2s9R7lWoAAXdgP.jpg" group-title="Absentia Temp 2",cap. 03
 http://playtv.tech/HTML/CONTENIDO/SERIES/Absentia/2/44768.mp4
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D2s9R7lWoAAXdgP.jpg" group-title="Absentia Temp 2",Absentia 2x04
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D2s9R7lWoAAXdgP.jpg" group-title="Absentia Temp 2",cap. 04
 http://playtv.tech/HTML/CONTENIDO/SERIES/Absentia/2/44769.mp4
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D2s9R7lWoAAXdgP.jpg" group-title="Absentia Temp 2",Absentia 2x05
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D2s9R7lWoAAXdgP.jpg" group-title="Absentia Temp 2",cap. 05
 http://playtv.tech/HTML/CONTENIDO/SERIES/Absentia/2/44770.mp4
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D2s9R7lWoAAXdgP.jpg" group-title="Absentia Temp 2",Absentia 2x06
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D2s9R7lWoAAXdgP.jpg" group-title="Absentia Temp 2",cap. 06
 http://playtv.tech/HTML/CONTENIDO/SERIES/Absentia/2/44771.mp4
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D2s9R7lWoAAXdgP.jpg" group-title="Absentia Temp 2",Absentia 2x07
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D2s9R7lWoAAXdgP.jpg" group-title="Absentia Temp 2",cap. 07
 http://playtv.tech/HTML/CONTENIDO/SERIES/Absentia/2/44772.mp4
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D2s9R7lWoAAXdgP.jpg" group-title="Absentia Temp 2",Absentia 2x08
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D2s9R7lWoAAXdgP.jpg" group-title="Absentia Temp 2",cap. 08
 http://playtv.tech/HTML/CONTENIDO/SERIES/Absentia/2/44773.mp4
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D2s9R7lWoAAXdgP.jpg" group-title="Absentia Temp 2",Absentia 2x09
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D2s9R7lWoAAXdgP.jpg" group-title="Absentia Temp 2",cap. 09
 http://playtv.tech/HTML/CONTENIDO/SERIES/Absentia/2/44774.mp4
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D2s9R7lWoAAXdgP.jpg" group-title="Absentia Temp 2",Absentia 2x10
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D2s9R7lWoAAXdgP.jpg" group-title="Absentia Temp 2",cap. 10
 http://playtv.tech/HTML/CONTENIDO/SERIES/Absentia/2/44775.mp4
 ####################################### Absurd Planet Temp 1 (Español)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Absurd Planet Temp 1",Español
+#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Absurd Planet Temp 1",T1- Español
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
-#EXTINF:-1 tvg-logo="https://www.oneindir.com/wp-content/uploads/2020/04/Absurd-Planet-.jpg" group-title="Absurd Planet Temp 1",Absurd Planet -cap. 1 al 5
+#EXTINF:-1 tvg-logo="https://www.oneindir.com/wp-content/uploads/2020/04/Absurd-Planet-.jpg" group-title="Absurd Planet Temp 1",cap. 1 al 5
 http://144.217.180.154/SERVIDOR_2/ABSURD%20PLANET%2001%20TEMP%20DVD%2001C1AL5.mp4
-#EXTINF:-1 tvg-logo="https://www.oneindir.com/wp-content/uploads/2020/04/Absurd-Planet-.jpg" group-title="Absurd Planet Temp 1",Absurd Planet -cap. 6 al 10
+#EXTINF:-1 tvg-logo="https://www.oneindir.com/wp-content/uploads/2020/04/Absurd-Planet-.jpg" group-title="Absurd Planet Temp 1",cap. 6 al 10
 http://144.217.180.154/SERVIDOR_2/ABSURD%20PLANET%2001%20TEMP%20DVD%2002_cap6a10.mp4
-#EXTINF:-1 tvg-logo="https://www.oneindir.com/wp-content/uploads/2020/04/Absurd-Planet-.jpg" group-title="Absurd Planet Temp 1",Absurd Planet -cap. 11 al 12
+#EXTINF:-1 tvg-logo="https://www.oneindir.com/wp-content/uploads/2020/04/Absurd-Planet-.jpg" group-title="Absurd Planet Temp 1",cap. 11 al 12
 http://144.217.180.154/SERVIDOR_2/ABSURD%20PLANET%2001%20TEMP%20DVD%2003_cap11a12.mp4
 ####################################### Acoso Temp 1 (Español)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Acoso Temp 1",Español
+#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Acoso Temp 1",T1- Español
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_216_288/pictures/20/05/11/18/09/1011159.jpg" group-title="Acoso Temp 1",Acoso 1x01
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_216_288/pictures/20/05/11/18/09/1011159.jpg" group-title="Acoso Temp 1",cap. 01
 http://flowhd.xyz/HTML/series/Acoso/1x1.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_216_288/pictures/20/05/11/18/09/1011159.jpg" group-title="Acoso Temp 1",Acoso 1x02
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_216_288/pictures/20/05/11/18/09/1011159.jpg" group-title="Acoso Temp 1",cap. 02
 http://flowhd.xyz/HTML/series/Acoso/1x2.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_216_288/pictures/20/05/11/18/09/1011159.jpg" group-title="Acoso Temp 1",Acoso 1x03
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_216_288/pictures/20/05/11/18/09/1011159.jpg" group-title="Acoso Temp 1",cap. 03
 http://flowhd.xyz/HTML/series/Acoso/1x3.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_216_288/pictures/20/05/11/18/09/1011159.jpg" group-title="Acoso Temp 1",Acoso 1x04
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_216_288/pictures/20/05/11/18/09/1011159.jpg" group-title="Acoso Temp 1",cap. 04
 http://flowhd.xyz/HTML/series/Acoso/1x4.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_216_288/pictures/20/05/11/18/09/1011159.jpg" group-title="Acoso Temp 1",Acoso 1x05
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_216_288/pictures/20/05/11/18/09/1011159.jpg" group-title="Acoso Temp 1",cap. 05
 http://flowhd.xyz/HTML/series/Acoso/1x5.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_216_288/pictures/20/05/11/18/09/1011159.jpg" group-title="Acoso Temp 1",Acoso 1x06
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_216_288/pictures/20/05/11/18/09/1011159.jpg" group-title="Acoso Temp 1",cap. 06
 http://flowhd.xyz/HTML/series/Acoso/1x6.mp4
 ####################################### AJ and the Queen Temp 1 (Subtitulado)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="AJ and the Queen",Subtitulado
+#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="AJ and the Queen",T1- Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
-#EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--GR-pqAck--/t_xlarge_p/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1583516202/attachment/ajq3.jpg" group-title="AJ and the Queen",AJ and the Queen 1x01
+#EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--GR-pqAck--/t_xlarge_p/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1583516202/attachment/ajq3.jpg" group-title="AJ and the Queen",cap. 01
 http://flowhd.xyz/HTML/series/AJ%20and%20the%20Queen/1x1.mp4
-#EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--GR-pqAck--/t_xlarge_p/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1583516202/attachment/ajq3.jpg" group-title="AJ and the Queen",AJ and the Queen 1x02
+#EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--GR-pqAck--/t_xlarge_p/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1583516202/attachment/ajq3.jpg" group-title="AJ and the Queen",cap. 02
 http://flowhd.xyz/HTML/series/AJ%20and%20the%20Queen/1x2.mp4
-#EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--GR-pqAck--/t_xlarge_p/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1583516202/attachment/ajq3.jpg" group-title="AJ and the Queen",AJ and the Queen 1x03
+#EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--GR-pqAck--/t_xlarge_p/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1583516202/attachment/ajq3.jpg" group-title="AJ and the Queen",cap. 03
 http://flowhd.xyz/HTML/series/AJ%20and%20the%20Queen/1x3.mp4
-#EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--GR-pqAck--/t_xlarge_p/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1583516202/attachment/ajq3.jpg" group-title="AJ and the Queen",AJ and the Queen 1x04
+#EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--GR-pqAck--/t_xlarge_p/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1583516202/attachment/ajq3.jpg" group-title="AJ and the Queen",cap. 04
 http://flowhd.xyz/HTML/series/AJ%20and%20the%20Queen/1x4.mp4
-#EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--GR-pqAck--/t_xlarge_p/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1583516202/attachment/ajq3.jpg" group-title="AJ and the Queen",AJ and the Queen 1x05
+#EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--GR-pqAck--/t_xlarge_p/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1583516202/attachment/ajq3.jpg" group-title="AJ and the Queen",cap. 05
 http://flowhd.xyz/HTML/series/AJ%20and%20the%20Queen/1x5.mp4
-#EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--GR-pqAck--/t_xlarge_p/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1583516202/attachment/ajq3.jpg" group-title="AJ and the Queen",AJ and the Queen 1x06
+#EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--GR-pqAck--/t_xlarge_p/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1583516202/attachment/ajq3.jpg" group-title="AJ and the Queen",cap. 06
 http://flowhd.xyz/HTML/series/AJ%20and%20the%20Queen/1x6.mp4
-#EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--GR-pqAck--/t_xlarge_p/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1583516202/attachment/ajq3.jpg" group-title="AJ and the Queen",AJ and the Queen 1x07
+#EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--GR-pqAck--/t_xlarge_p/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1583516202/attachment/ajq3.jpg" group-title="AJ and the Queen",cap. 07
 http://flowhd.xyz/HTML/series/AJ%20and%20the%20Queen/1x7.mp4
-#EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--GR-pqAck--/t_xlarge_p/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1583516202/attachment/ajq3.jpg" group-title="AJ and the Queen",AJ and the Queen 1x08
+#EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--GR-pqAck--/t_xlarge_p/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1583516202/attachment/ajq3.jpg" group-title="AJ and the Queen",cap. 08
 http://flowhd.xyz/HTML/series/AJ%20and%20the%20Queen/1x8.mp4
-#EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--GR-pqAck--/t_xlarge_p/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1583516202/attachment/ajq3.jpg" group-title="AJ and the Queen",AJ and the Queen 1x09
+#EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--GR-pqAck--/t_xlarge_p/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1583516202/attachment/ajq3.jpg" group-title="AJ and the Queen",cap. 09
 http://flowhd.xyz/HTML/series/AJ%20and%20the%20Queen/1x9.mp4
-#EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--GR-pqAck--/t_xlarge_p/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1583516202/attachment/ajq3.jpg" group-title="AJ and the Queen",AJ and the Queen 1x10
+#EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--GR-pqAck--/t_xlarge_p/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1583516202/attachment/ajq3.jpg" group-title="AJ and the Queen",cap. 10
 http://flowhd.xyz/HTML/series/AJ%20and%20the%20Queen/1x10.mp4
 ####################################### Alias El Mexicano Temp 1 (Español)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Alias El Mexicano",Español
+#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Alias El Mexicano",T1- Español
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x01
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 01
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2001.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x02
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 02
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2002.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x03
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 03
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2003.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x04
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 04
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2004.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x05
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 05
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2005.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x06
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 06
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2006.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x07
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 07
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2007.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x08
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 08
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2008.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x09
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 09
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2009.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x10
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 10
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2010.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x11
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 11
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2011.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x12
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 12
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2012.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x13
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 13
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2013.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x14
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 14
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2014.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x15
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 15
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2015.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x16
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 16
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2016.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x17
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 17
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2017.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x18
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 18
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2018.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x19
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 19
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2019.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x20
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 20
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2020.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x21
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 21
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2021.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x22
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 22
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2022.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x23
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 23
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2023.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x24
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 24
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2024.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x25
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 25
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2025.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x26
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 26
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2026.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x27
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 27
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2027.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x28
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 28
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2028.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x29
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 29
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2029.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x30
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 30
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2030.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x31
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 31
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2031.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x32
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 32
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2032.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x33
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 33
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2033.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x34
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 34
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2034.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x35
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 35
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2035.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x36
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 36
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2036.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x37
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 37
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2037.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x38
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 38
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2038.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x39
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 39
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2039.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x40
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 40
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2040.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x41
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 41
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2041.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x42
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 42
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2042.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x43
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 43
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2043.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x44
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 44
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2044.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x45
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 45
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2045.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x46
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 46
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2046.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x47
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 47
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2047.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x48
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 48
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2048.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x49
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 49
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2049.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x50
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 50
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2050.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x51
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 51
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2051.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x52
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 52
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2052.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x53
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 53
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2053.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x54
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 54
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2054.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x55
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 55
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2055.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x56
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 56
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2056.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x57
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 57
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2057.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x58
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 58
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2058.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x59
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 59
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2059.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x60
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 60
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2060.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x61
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 61
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2061.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x62
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 62
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2062.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x63
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 63
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2063.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x64
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 64
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2064.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x65
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 65
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2065.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x66
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 66
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2066.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x67
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 67
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2067.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x68
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 68
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2068.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x69
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 69
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2069.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x70
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 70
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2070.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x71
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 71
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2071.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x72
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 72
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2072.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x73
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 73
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2073.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x74
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 74
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2074.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x75
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 75
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2075.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x76
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 76
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2076.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x77
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 77
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2077.mp4
-#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",Alias 1x78 Final
+#EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 78 Final
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2078.mp4
 ####################################### All American Temp 1 (Subtitulado)
 #EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="All American Temp 1",Subtitulado
