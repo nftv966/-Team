@@ -6,224 +6,188 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_216_288/pictures/16/11/08/13/03/368745.jpg" group-title="3% Temp 1",cap. 01
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_216_288/pictures/16/11/08/13/03/368745.jpg" group-title="3% T1",cap. 01
 http://flowhd.xyz/HTML/series/3/1/1x1.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_216_288/pictures/16/11/08/13/03/368745.jpg" group-title="3% Temp 1",cap. 02
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_216_288/pictures/16/11/08/13/03/368745.jpg" group-title="3% T1",cap. 02
 http://flowhd.xyz/HTML/series/3/1/1x2.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_216_288/pictures/16/11/08/13/03/368745.jpg" group-title="3% Temp 1",cap. 03
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_216_288/pictures/16/11/08/13/03/368745.jpg" group-title="3% T1",cap. 03
 http://flowhd.xyz/HTML/series/3/1/1x3.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_216_288/pictures/16/11/08/13/03/368745.jpg" group-title="3% Temp 1",cap. 04
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_216_288/pictures/16/11/08/13/03/368745.jpg" group-title="3% T1",cap. 04
 http://flowhd.xyz/HTML/series/3/1/1x4.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_216_288/pictures/16/11/08/13/03/368745.jpg" group-title="3% Temp 1",cap. 05
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_216_288/pictures/16/11/08/13/03/368745.jpg" group-title="3% T1",cap. 05
 http://flowhd.xyz/HTML/series/3/1/1x5.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_216_288/pictures/16/11/08/13/03/368745.jpg" group-title="3% Temp 1",cap. 06
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_216_288/pictures/16/11/08/13/03/368745.jpg" group-title="3% T1",cap. 06
 http://flowhd.xyz/HTML/series/3/1/1x6.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_216_288/pictures/16/11/08/13/03/368745.jpg" group-title="3% Temp 1",cap. 07
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_216_288/pictures/16/11/08/13/03/368745.jpg" group-title="3% T1",cap. 07
 http://flowhd.xyz/HTML/series/3/1/1x7.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_216_288/pictures/16/11/08/13/03/368745.jpg" group-title="3% Temp 1",cap. 08
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_216_288/pictures/16/11/08/13/03/368745.jpg" group-title="3% T1",cap. 08
 http://flowhd.xyz/HTML/series/3/1/1x8.mp4
-####################################### 3% Temp 2 (Portugues)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="3% Temp 2",T2- Portugues
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/04/17/10/38/1418812.jpg" group-title="3% Temp 2",cap. 01
+
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/04/17/10/38/1418812.jpg" group-title="3% T2",cap. 01
 http://flowhd.xyz/HTML/series/3/2/2x1.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/04/17/10/38/1418812.jpg" group-title="3% Temp 2",cap. 02
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/04/17/10/38/1418812.jpg" group-title="3% T2",cap. 02
 http://flowhd.xyz/HTML/series/3/2/2x2.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/04/17/10/38/1418812.jpg" group-title="3% Temp 2",cap. 03
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/04/17/10/38/1418812.jpg" group-title="3% T2",cap. 03
 http://flowhd.xyz/HTML/series/3/2/2x3.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/04/17/10/38/1418812.jpg" group-title="3% Temp 2",cap. 04
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/04/17/10/38/1418812.jpg" group-title="3% T2",cap. 04
 http://flowhd.xyz/HTML/series/3/2/2x4.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/04/17/10/38/1418812.jpg" group-title="3% Temp 2",cap. 05
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/04/17/10/38/1418812.jpg" group-title="3% T2",cap. 05
 http://flowhd.xyz/HTML/series/3/2/2x5.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/04/17/10/38/1418812.jpg" group-title="3% Temp 2",cap. 06
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/04/17/10/38/1418812.jpg" group-title="3% T2",cap. 06
 http://flowhd.xyz/HTML/series/3/2/2x6.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/04/17/10/38/1418812.jpg" group-title="3% Temp 2",cap. 07
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/04/17/10/38/1418812.jpg" group-title="3% T2",cap. 07
 http://flowhd.xyz/HTML/series/3/2/2x7.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/04/17/10/38/1418812.jpg" group-title="3% Temp 2",cap. 08
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/04/17/10/38/1418812.jpg" group-title="3% T2",cap. 08
 http://flowhd.xyz/HTML/series/3/2/2x8.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/04/17/10/38/1418812.jpg" group-title="3% Temp 2",cap. 09
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/04/17/10/38/1418812.jpg" group-title="3% T2",cap. 09
 http://flowhd.xyz/HTML/series/3/2/2x9.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/04/17/10/38/1418812.jpg" group-title="3% Temp 2",cap. 10
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/04/17/10/38/1418812.jpg" group-title="3% T2",cap. 10
 http://flowhd.xyz/HTML/series/3/2/2x10.mp4
-####################################### 13 Miedos Temp 1 (Español)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="13 Miedos Temp 1",T1- Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ux88OLvTL._AC_SY445_.jpg" group-title="13 Miedos Temp 1",cap. 01
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ux88OLvTL._AC_SY445_.jpg" group-title="13 Miedos T1",cap. 01
 http://playtv.tech/HTML/CONTENIDO/SERIES/13%20miedos%20S01/1/230239.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ux88OLvTL._AC_SY445_.jpg" group-title="13 Miedos Temp 1",cap. 02
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ux88OLvTL._AC_SY445_.jpg" group-title="13 Miedos T1",cap. 02
 http://playtv.tech/HTML/CONTENIDO/SERIES/13%20miedos%20S01/1/230240.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ux88OLvTL._AC_SY445_.jpg" group-title="13 Miedos Temp 1",cap. 03
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ux88OLvTL._AC_SY445_.jpg" group-title="13 Miedos T1",cap. 03
 http://playtv.tech/HTML/CONTENIDO/SERIES/13%20miedos%20S01/1/230241.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ux88OLvTL._AC_SY445_.jpg" group-title="13 Miedos Temp 1",cap. 04
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ux88OLvTL._AC_SY445_.jpg" group-title="13 Miedos T1",cap. 04
 http://playtv.tech/HTML/CONTENIDO/SERIES/13%20miedos%20S01/1/230242.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ux88OLvTL._AC_SY445_.jpg" group-title="13 Miedos Temp 1",cap. 05
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ux88OLvTL._AC_SY445_.jpg" group-title="13 Miedos T1",cap. 05
 http://playtv.tech/HTML/CONTENIDO/SERIES/13%20miedos%20S01/1/230243.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ux88OLvTL._AC_SY445_.jpg" group-title="13 Miedos Temp 1",cap. 06
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ux88OLvTL._AC_SY445_.jpg" group-title="13 Miedos T1",cap. 06
 http://playtv.tech/HTML/CONTENIDO/SERIES/13%20miedos%20S01/1/230244.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ux88OLvTL._AC_SY445_.jpg" group-title="13 Miedos Temp 1",cap. 07
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ux88OLvTL._AC_SY445_.jpg" group-title="13 Miedos T1",cap. 07
 http://playtv.tech/HTML/CONTENIDO/SERIES/13%20miedos%20S01/1/230245.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ux88OLvTL._AC_SY445_.jpg" group-title="13 Miedos Temp 1",cap. 08
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ux88OLvTL._AC_SY445_.jpg" group-title="13 Miedos T1",cap. 08
 http://playtv.tech/HTML/CONTENIDO/SERIES/13%20miedos%20S01/1/230246.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ux88OLvTL._AC_SY445_.jpg" group-title="13 Miedos Temp 1",cap. 09
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ux88OLvTL._AC_SY445_.jpg" group-title="13 Miedos T1",cap. 09
 http://playtv.tech/HTML/CONTENIDO/SERIES/13%20miedos%20S01/1/230247.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ux88OLvTL._AC_SY445_.jpg" group-title="13 Miedos Temp 1",cap. 10
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ux88OLvTL._AC_SY445_.jpg" group-title="13 Miedos T1",cap. 10
 http://playtv.tech/HTML/CONTENIDO/SERIES/13%20miedos%20S01/1/230248.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ux88OLvTL._AC_SY445_.jpg" group-title="13 Miedos Temp 1",cap. 11
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ux88OLvTL._AC_SY445_.jpg" group-title="13 Miedos T1",cap. 11
 http://playtv.tech/HTML/CONTENIDO/SERIES/13%20miedos%20S01/1/230249.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ux88OLvTL._AC_SY445_.jpg" group-title="13 Miedos Temp 1",cap. 12
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ux88OLvTL._AC_SY445_.jpg" group-title="13 Miedos T1",cap. 12
 http://playtv.tech/HTML/CONTENIDO/SERIES/13%20miedos%20S01/1/230250.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ux88OLvTL._AC_SY445_.jpg" group-title="13 Miedos Temp 1",cap. 13
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ux88OLvTL._AC_SY445_.jpg" group-title="13 Miedos T1",cap. 13
 http://playtv.tech/HTML/CONTENIDO/SERIES/13%20miedos%20S01/1/230251.mp4
-####################################### 50 States of Fright Temp 1 (Subtitulado)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="50 States of Fright Temp 1",T1- Subtitulado
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/04/06/09/35/1540593.jpg" group-title="50 States of Fright Temp 1",cap. 1 al 5
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/04/06/09/35/1540593.jpg" group-title="50 Estados de Susto T1",cap. 1 al 5
 http://144.217.180.154/SERVIDOR_2/50%20STATES%20OF%20FRIGHT%2001%20TEMP%20DVD%2001_CAP.1AL5_ES.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/04/06/09/35/1540593.jpg" group-title="50 States of Fright Temp 1",cap. 6 al 10
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/04/06/09/35/1540593.jpg" group-title="50 Estados de Susto T1",cap. 6 al 10
 http://144.217.180.154/SERVIDOR_2/50%20STATES%20OF%20FRIGHT%2001%20TEMP%20DVD%2002_CAP.6AL10_ES.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/04/06/09/35/1540593.jpg" group-title="50 States of Fright Temp 1",cap. 11 al 14
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/04/06/09/35/1540593.jpg" group-title="50 Estados de Susto T1",cap. 11 al 14
 http://144.217.180.154/SERVIDOR_2/50%20STATES%20OF%20FRIGHT%2001%20TEMP%20DVD%2003_CAP.11AL14_ES.mp4
-####################################### 68 Whiskey Temp 1 (Subtitulado)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="68 Whiskey Temp 1",T1- Subtitulado
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/07/09/53/3088128.jpg" group-title="68 Whiskey Temp 1",cap. 1 al 5
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/07/09/53/3088128.jpg" group-title="68 Whiskey T1",cap. 1 al 5
 http://144.217.180.154/SERVIDOR_2/68%20WHISKEY%2001%20TEMP%20DVD%2001C1AL5.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/07/09/53/3088128.jpg" group-title="68 Whiskey Temp 1",cap. 6 al 9
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/07/09/53/3088128.jpg" group-title="68 Whiskey T1",cap. 6 al 9
 http://144.217.180.154/SERVIDOR_2/68%20WHISKEY%2001%20TEMP%20DVD%2002_CAP.6AL9.mp4
-####################################### A Cantar Temp 1 (Subtitulado)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="A Cantar Temp 1",T1- Subtitulado
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/a-cantar.png" group-title="A Cantar Temp 1",cap. 1 al 5
+
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/a-cantar.png" group-title="A Cantar T1",cap. 1 al 5
 http://144.217.180.154/SERVIDOR_2/A%20CANTAR%2001%20TEMP%20DVD%2001_CAP1A5.mp4
-#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/a-cantar.png" group-title="A Cantar Temp 1",cap. 6 al 8
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/a-cantar.png" group-title="A Cantar T1",cap. 6 al 8
 http://144.217.180.154/SERVIDOR_2/A%20CANTAR%2001%20TEMP%20DVD%2002_CAP.6AL8_ES.mp4
-####################################### A Tres Metros sobre el cielo Temp 1 (Subtitulado)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="A Tres Metros sobre el cielo Temp 1",T1- Subtitulado
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/04/15/13/10/4843574.jpg" group-title="A Tres Metros sobre el cielo Temp 1",cap. 01
+
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/04/15/13/10/4843574.jpg" group-title="A 3 Metros sobre el cielo T1",cap. 01
 http://playtv.tech/HTML/CONTENIDO/SERIES/A%20tres%20metros%20sobre%20el%20cielo/1x1.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/04/15/13/10/4843574.jpg" group-title="A Tres Metros sobre el cielo Temp 1",cap. 02
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/04/15/13/10/4843574.jpg" group-title="A 3 Metros sobre el cielo T1",cap. 02
 http://playtv.tech/HTML/CONTENIDO/SERIES/A%20tres%20metros%20sobre%20el%20cielo/1x2.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/04/15/13/10/4843574.jpg" group-title="A Tres Metros sobre el cielo Temp 1",cap. 03
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/04/15/13/10/4843574.jpg" group-title="A 3 Metros sobre el cielo T1",cap. 03
 http://playtv.tech/HTML/CONTENIDO/SERIES/A%20tres%20metros%20sobre%20el%20cielo/1x3.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/04/15/13/10/4843574.jpg" group-title="A Tres Metros sobre el cielo Temp 1",cap. 04
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/04/15/13/10/4843574.jpg" group-title="A 3 Metros sobre el cielo T1",cap. 04
 http://playtv.tech/HTML/CONTENIDO/SERIES/A%20tres%20metros%20sobre%20el%20cielo/1x4.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/04/15/13/10/4843574.jpg" group-title="A Tres Metros sobre el cielo Temp 1",cap. 05
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/04/15/13/10/4843574.jpg" group-title="A 3 Metros sobre el cielo T1",cap. 05
 http://playtv.tech/HTML/CONTENIDO/SERIES/A%20tres%20metros%20sobre%20el%20cielo/1x5.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/04/15/13/10/4843574.jpg" group-title="A Tres Metros sobre el cielo Temp 1",cap. 06
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/04/15/13/10/4843574.jpg" group-title="A 3 Metros sobre el cielo T1",cap. 06
 http://playtv.tech/HTML/CONTENIDO/SERIES/A%20tres%20metros%20sobre%20el%20cielo/1x6.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/04/15/13/10/4843574.jpg" group-title="A Tres Metros sobre el cielo Temp 1",cap. 07
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/04/15/13/10/4843574.jpg" group-title="A 3 Metros sobre el cielo T1",cap. 07
 http://playtv.tech/HTML/CONTENIDO/SERIES/A%20tres%20metros%20sobre%20el%20cielo/1x7.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/04/15/13/10/4843574.jpg" group-title="A Tres Metros sobre el cielo Temp 1",cap. 08
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/04/15/13/10/4843574.jpg" group-title="A 3 Metros sobre el cielo T1",cap. 08
 http://playtv.tech/HTML/CONTENIDO/SERIES/A%20tres%20metros%20sobre%20el%20cielo/1x8.mp4
-####################################### Absentia Temp 1 (Subtitulado)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Absentia Temp 1",T1- Subtitulado
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1517/1_m3.jpg" group-title="Absentia Temp 1",cap. 01
+
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1517/1_m3.jpg" group-title="Absentia T1",cap. 01
 http://playtv.tech/HTML/CONTENIDO/SERIES/Absentia/1/1x1.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1517/1_m3.jpg" group-title="Absentia Temp 1",cap. 02
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1517/1_m3.jpg" group-title="Absentia T1",cap. 02
 http://playtv.tech/HTML/CONTENIDO/SERIES/Absentia/1/1x2.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1517/1_m3.jpg" group-title="Absentia Temp 1",cap. 03
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1517/1_m3.jpg" group-title="Absentia T1",cap. 03
 http://playtv.tech/HTML/CONTENIDO/SERIES/Absentia/1/1x3.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1517/1_m3.jpg" group-title="Absentia Temp 1",cap. 04
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1517/1_m3.jpg" group-title="Absentia T1",cap. 04
 http://playtv.tech/HTML/CONTENIDO/SERIES/Absentia/1/1x4.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1517/1_m3.jpg" group-title="Absentia Temp 1",cap. 05
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1517/1_m3.jpg" group-title="Absentia T1",cap. 05
 http://playtv.tech/HTML/CONTENIDO/SERIES/Absentia/1/1x5.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1517/1_m3.jpg" group-title="Absentia Temp 1",cap. 06
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1517/1_m3.jpg" group-title="Absentia T1",cap. 06
 http://playtv.tech/HTML/CONTENIDO/SERIES/Absentia/1/1x6.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1517/1_m3.jpg" group-title="Absentia Temp 1",cap. 07
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1517/1_m3.jpg" group-title="Absentia T1",cap. 07
 http://playtv.tech/HTML/CONTENIDO/SERIES/Absentia/1/1x7.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1517/1_m3.jpg" group-title="Absentia Temp 1",cap. 08
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1517/1_m3.jpg" group-title="Absentia T1",cap. 08
 http://playtv.tech/HTML/CONTENIDO/SERIES/Absentia/1/1x8.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1517/1_m3.jpg" group-title="Absentia Temp 1",cap. 09
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1517/1_m3.jpg" group-title="Absentia T1",cap. 09
 http://playtv.tech/HTML/CONTENIDO/SERIES/Absentia/1/1x9.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1517/1_m3.jpg" group-title="Absentia Temp 1",cap. 10
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1517/1_m3.jpg" group-title="Absentia T1",cap. 10
 http://playtv.tech/HTML/CONTENIDO/SERIES/Absentia/1/1x10.mp4
-####################################### Absentia Temp 2 (Subtitulado)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Absentia Temp 2",T2- Subtitulado
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D2s9R7lWoAAXdgP.jpg" group-title="Absentia Temp 2",cap. 01
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D2s9R7lWoAAXdgP.jpg" group-title="Absentia T2",cap. 01
 http://playtv.tech/HTML/CONTENIDO/SERIES/Absentia/2/44766.mp4
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D2s9R7lWoAAXdgP.jpg" group-title="Absentia Temp 2",cap. 02
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D2s9R7lWoAAXdgP.jpg" group-title="Absentia T2",cap. 02
 http://playtv.tech/HTML/CONTENIDO/SERIES/Absentia/2/44767.mp4
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D2s9R7lWoAAXdgP.jpg" group-title="Absentia Temp 2",cap. 03
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D2s9R7lWoAAXdgP.jpg" group-title="Absentia T2",cap. 03
 http://playtv.tech/HTML/CONTENIDO/SERIES/Absentia/2/44768.mp4
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D2s9R7lWoAAXdgP.jpg" group-title="Absentia Temp 2",cap. 04
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D2s9R7lWoAAXdgP.jpg" group-title="Absentia T2",cap. 04
 http://playtv.tech/HTML/CONTENIDO/SERIES/Absentia/2/44769.mp4
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D2s9R7lWoAAXdgP.jpg" group-title="Absentia Temp 2",cap. 05
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D2s9R7lWoAAXdgP.jpg" group-title="Absentia T2",cap. 05
 http://playtv.tech/HTML/CONTENIDO/SERIES/Absentia/2/44770.mp4
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D2s9R7lWoAAXdgP.jpg" group-title="Absentia Temp 2",cap. 06
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D2s9R7lWoAAXdgP.jpg" group-title="Absentia T2",cap. 06
 http://playtv.tech/HTML/CONTENIDO/SERIES/Absentia/2/44771.mp4
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D2s9R7lWoAAXdgP.jpg" group-title="Absentia Temp 2",cap. 07
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D2s9R7lWoAAXdgP.jpg" group-title="Absentia T2",cap. 07
 http://playtv.tech/HTML/CONTENIDO/SERIES/Absentia/2/44772.mp4
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D2s9R7lWoAAXdgP.jpg" group-title="Absentia Temp 2",cap. 08
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D2s9R7lWoAAXdgP.jpg" group-title="Absentia T2",cap. 08
 http://playtv.tech/HTML/CONTENIDO/SERIES/Absentia/2/44773.mp4
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D2s9R7lWoAAXdgP.jpg" group-title="Absentia Temp 2",cap. 09
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D2s9R7lWoAAXdgP.jpg" group-title="Absentia T2",cap. 09
 http://playtv.tech/HTML/CONTENIDO/SERIES/Absentia/2/44774.mp4
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D2s9R7lWoAAXdgP.jpg" group-title="Absentia Temp 2",cap. 10
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D2s9R7lWoAAXdgP.jpg" group-title="Absentia T2",cap. 10
 http://playtv.tech/HTML/CONTENIDO/SERIES/Absentia/2/44775.mp4
-####################################### Absurd Planet Temp 1 (Español)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Absurd Planet Temp 1",T1- Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://www.oneindir.com/wp-content/uploads/2020/04/Absurd-Planet-.jpg" group-title="Absurd Planet Temp 1",cap. 1 al 5
+
+#EXTINF:-1 tvg-logo="https://www.oneindir.com/wp-content/uploads/2020/04/Absurd-Planet-.jpg" group-title="Absurd Planet T1",cap. 1 al 5
 http://144.217.180.154/SERVIDOR_2/ABSURD%20PLANET%2001%20TEMP%20DVD%2001C1AL5.mp4
-#EXTINF:-1 tvg-logo="https://www.oneindir.com/wp-content/uploads/2020/04/Absurd-Planet-.jpg" group-title="Absurd Planet Temp 1",cap. 6 al 10
+#EXTINF:-1 tvg-logo="https://www.oneindir.com/wp-content/uploads/2020/04/Absurd-Planet-.jpg" group-title="Absurd Planet T1",cap. 6 al 10
 http://144.217.180.154/SERVIDOR_2/ABSURD%20PLANET%2001%20TEMP%20DVD%2002_cap6a10.mp4
-#EXTINF:-1 tvg-logo="https://www.oneindir.com/wp-content/uploads/2020/04/Absurd-Planet-.jpg" group-title="Absurd Planet Temp 1",cap. 11 al 12
+#EXTINF:-1 tvg-logo="https://www.oneindir.com/wp-content/uploads/2020/04/Absurd-Planet-.jpg" group-title="Absurd Planet T1",cap. 11 al 12
 http://144.217.180.154/SERVIDOR_2/ABSURD%20PLANET%2001%20TEMP%20DVD%2003_cap11a12.mp4
-####################################### Acoso Temp 1 (Español)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Acoso Temp 1",T1- Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_216_288/pictures/20/05/11/18/09/1011159.jpg" group-title="Acoso Temp 1",cap. 01
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_216_288/pictures/20/05/11/18/09/1011159.jpg" group-title="Acoso",cap. 01
 http://flowhd.xyz/HTML/series/Acoso/1x1.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_216_288/pictures/20/05/11/18/09/1011159.jpg" group-title="Acoso Temp 1",cap. 02
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_216_288/pictures/20/05/11/18/09/1011159.jpg" group-title="Acoso",cap. 02
 http://flowhd.xyz/HTML/series/Acoso/1x2.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_216_288/pictures/20/05/11/18/09/1011159.jpg" group-title="Acoso Temp 1",cap. 03
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_216_288/pictures/20/05/11/18/09/1011159.jpg" group-title="Acoso",cap. 03
 http://flowhd.xyz/HTML/series/Acoso/1x3.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_216_288/pictures/20/05/11/18/09/1011159.jpg" group-title="Acoso Temp 1",cap. 04
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_216_288/pictures/20/05/11/18/09/1011159.jpg" group-title="Acoso",cap. 04
 http://flowhd.xyz/HTML/series/Acoso/1x4.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_216_288/pictures/20/05/11/18/09/1011159.jpg" group-title="Acoso Temp 1",cap. 05
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_216_288/pictures/20/05/11/18/09/1011159.jpg" group-title="Acoso",cap. 05
 http://flowhd.xyz/HTML/series/Acoso/1x5.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_216_288/pictures/20/05/11/18/09/1011159.jpg" group-title="Acoso Temp 1",cap. 06
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_216_288/pictures/20/05/11/18/09/1011159.jpg" group-title="Acoso",cap. 06
 http://flowhd.xyz/HTML/series/Acoso/1x6.mp4
-####################################### AJ and the Queen Temp 1 (Subtitulado)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="AJ and the Queen",T1- Subtitulado
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--GR-pqAck--/t_xlarge_p/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1583516202/attachment/ajq3.jpg" group-title="AJ and the Queen",cap. 01
+
+#EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--GR-pqAck--/t_xlarge_p/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1583516202/attachment/ajq3.jpg" group-title="AJ y la Reina T1",cap. 01
 http://flowhd.xyz/HTML/series/AJ%20and%20the%20Queen/1x1.mp4
-#EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--GR-pqAck--/t_xlarge_p/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1583516202/attachment/ajq3.jpg" group-title="AJ and the Queen",cap. 02
+#EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--GR-pqAck--/t_xlarge_p/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1583516202/attachment/ajq3.jpg" group-title="AJ y la Reina T1",cap. 02
 http://flowhd.xyz/HTML/series/AJ%20and%20the%20Queen/1x2.mp4
-#EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--GR-pqAck--/t_xlarge_p/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1583516202/attachment/ajq3.jpg" group-title="AJ and the Queen",cap. 03
+#EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--GR-pqAck--/t_xlarge_p/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1583516202/attachment/ajq3.jpg" group-title="AJ y la Reina T1",cap. 03
 http://flowhd.xyz/HTML/series/AJ%20and%20the%20Queen/1x3.mp4
-#EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--GR-pqAck--/t_xlarge_p/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1583516202/attachment/ajq3.jpg" group-title="AJ and the Queen",cap. 04
+#EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--GR-pqAck--/t_xlarge_p/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1583516202/attachment/ajq3.jpg" group-title="AJ y la Reina T1",cap. 04
 http://flowhd.xyz/HTML/series/AJ%20and%20the%20Queen/1x4.mp4
-#EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--GR-pqAck--/t_xlarge_p/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1583516202/attachment/ajq3.jpg" group-title="AJ and the Queen",cap. 05
+#EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--GR-pqAck--/t_xlarge_p/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1583516202/attachment/ajq3.jpg" group-title="AJ y la Reina T1",cap. 05
 http://flowhd.xyz/HTML/series/AJ%20and%20the%20Queen/1x5.mp4
-#EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--GR-pqAck--/t_xlarge_p/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1583516202/attachment/ajq3.jpg" group-title="AJ and the Queen",cap. 06
+#EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--GR-pqAck--/t_xlarge_p/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1583516202/attachment/ajq3.jpg" group-title="AJ y la Reina T1",cap. 06
 http://flowhd.xyz/HTML/series/AJ%20and%20the%20Queen/1x6.mp4
-#EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--GR-pqAck--/t_xlarge_p/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1583516202/attachment/ajq3.jpg" group-title="AJ and the Queen",cap. 07
+#EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--GR-pqAck--/t_xlarge_p/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1583516202/attachment/ajq3.jpg" group-title="AJ y la Reina T1",cap. 07
 http://flowhd.xyz/HTML/series/AJ%20and%20the%20Queen/1x7.mp4
-#EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--GR-pqAck--/t_xlarge_p/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1583516202/attachment/ajq3.jpg" group-title="AJ and the Queen",cap. 08
+#EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--GR-pqAck--/t_xlarge_p/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1583516202/attachment/ajq3.jpg" group-title="AJ y la Reina T1",cap. 08
 http://flowhd.xyz/HTML/series/AJ%20and%20the%20Queen/1x8.mp4
-#EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--GR-pqAck--/t_xlarge_p/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1583516202/attachment/ajq3.jpg" group-title="AJ and the Queen",cap. 09
+#EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--GR-pqAck--/t_xlarge_p/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1583516202/attachment/ajq3.jpg" group-title="AJ y la Reina T1",cap. 09
 http://flowhd.xyz/HTML/series/AJ%20and%20the%20Queen/1x9.mp4
-#EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--GR-pqAck--/t_xlarge_p/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1583516202/attachment/ajq3.jpg" group-title="AJ and the Queen",cap. 10
+#EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--GR-pqAck--/t_xlarge_p/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1583516202/attachment/ajq3.jpg" group-title="AJ y la Reina T1",cap. 10
 http://flowhd.xyz/HTML/series/AJ%20and%20the%20Queen/1x10.mp4
-####################################### Alias El Mexicano Temp 1 (Español)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Alias El Mexicano",T1- Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
+
 #EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 01
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2001.mp4
 #EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 02
@@ -380,769 +344,673 @@ http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episod
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2077.mp4
 #EXTINF:-1 tvg-logo="https://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg" group-title="Alias El Mexicano",cap. 78 Final
 http://62.210.190.73/Series/Alias%20el%20Mexicano/Alias%20El%20Mexicano%20Episodio%2078.mp4
-####################################### All American Temp 1 (Subtitulado)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="All American Temp 1",Subtitulado
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1700/1781/1_m1.jpg" group-title="All American Temp 1",All American 1x01
+
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1700/1781/1_m1.jpg" group-title="Todo Americano T1",cap. 01
 http://flowhd.xyz/HTML/series/All%20American/1x1.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1700/1781/1_m1.jpg" group-title="All American Temp 1",All American 1x02
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1700/1781/1_m1.jpg" group-title="Todo Americano T1",cap. 02
 http://flowhd.xyz/HTML/series/All%20American/1x2.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1700/1781/1_m1.jpg" group-title="All American Temp 1",All American 1x03
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1700/1781/1_m1.jpg" group-title="Todo Americano T1",cap. 03
 http://flowhd.xyz/HTML/series/All%20American/1x3.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1700/1781/1_m1.jpg" group-title="All American Temp 1",All American 1x04
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1700/1781/1_m1.jpg" group-title="Todo Americano T1",cap. 04
 http://flowhd.xyz/HTML/series/All%20American/1x4.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1700/1781/1_m1.jpg" group-title="All American Temp 1",All American 1x05
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1700/1781/1_m1.jpg" group-title="Todo Americano T1",cap. 05
 http://flowhd.xyz/HTML/series/All%20American/1x5.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1700/1781/1_m1.jpg" group-title="All American Temp 1",All American 1x06
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1700/1781/1_m1.jpg" group-title="Todo Americano T1",cap. 06
 http://flowhd.xyz/HTML/series/All%20American/1x6.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1700/1781/1_m1.jpg" group-title="All American Temp 1",All American 1x07
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1700/1781/1_m1.jpg" group-title="Todo Americano T1",cap. 07
 http://flowhd.xyz/HTML/series/All%20American/1x7.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1700/1781/1_m1.jpg" group-title="All American Temp 1",All American 1x08
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1700/1781/1_m1.jpg" group-title="Todo Americano T1",cap. 08
 http://flowhd.xyz/HTML/series/All%20American/1x8.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1700/1781/1_m1.jpg" group-title="All American Temp 1",All American 1x09
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1700/1781/1_m1.jpg" group-title="Todo Americano T1",cap. 09
 http://flowhd.xyz/HTML/series/All%20American/1x9.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1700/1781/1_m1.jpg" group-title="All American Temp 1",All American 1x10
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1700/1781/1_m1.jpg" group-title="Todo Americano T1",cap. 10
 http://flowhd.xyz/HTML/series/All%20American/1x10.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1700/1781/1_m1.jpg" group-title="All American Temp 1",All American 1x11
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1700/1781/1_m1.jpg" group-title="Todo Americano T1",cap. 11
 http://flowhd.xyz/HTML/series/All%20American/1x11.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1700/1781/1_m1.jpg" group-title="All American Temp 1",All American 1x12
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1700/1781/1_m1.jpg" group-title="Todo Americano T1",cap. 12
 http://flowhd.xyz/HTML/series/All%20American/1x12.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1700/1781/1_m1.jpg" group-title="All American Temp 1",All American 1x13
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1700/1781/1_m1.jpg" group-title="Todo Americano T1",cap. 13
 http://flowhd.xyz/HTML/series/All%20American/1x13.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1700/1781/1_m1.jpg" group-title="All American Temp 1",All American 1x14
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1700/1781/1_m1.jpg" group-title="Todo Americano T1",cap. 14
 http://flowhd.xyz/HTML/series/All%20American/1x14.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1700/1781/1_m1.jpg" group-title="All American Temp 1",All American 1x15
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1700/1781/1_m1.jpg" group-title="Todo Americano T1",cap. 15
 http://flowhd.xyz/HTML/series/All%20American/1x15.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1700/1781/1_m1.jpg" group-title="All American Temp 1",All American 1x16
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1700/1781/1_m1.jpg" group-title="Todo Americano T1",cap. 16
 http://flowhd.xyz/HTML/series/All%20American/1x16.mp4
-####################################### All American Temp 2 (Subtitulado)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="All American Temp 2",Subtitulado
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/348200/seasonposter/all-american-2018-5dcaa6579926a.jpg" group-title="All American Temp 2",All American 2x01
+
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/348200/seasonposter/all-american-2018-5dcaa6579926a.jpg" group-title="Todo Americano T2",cap. 01
 http://flowhd.xyz/HTML/series/All%20American/2/2x1.mp4
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/348200/seasonposter/all-american-2018-5dcaa6579926a.jpg" group-title="All American Temp 2",All American 2x02
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/348200/seasonposter/all-american-2018-5dcaa6579926a.jpg" group-title="Todo Americano T2",cap. 02
 http://flowhd.xyz/HTML/series/All%20American/2/2x2.mp4
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/348200/seasonposter/all-american-2018-5dcaa6579926a.jpg" group-title="All American Temp 2",All American 2x03
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/348200/seasonposter/all-american-2018-5dcaa6579926a.jpg" group-title="Todo Americano T2",cap. 03
 http://flowhd.xyz/HTML/series/All%20American/2/2x3.mp4
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/348200/seasonposter/all-american-2018-5dcaa6579926a.jpg" group-title="All American Temp 2",All American 2x04
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/348200/seasonposter/all-american-2018-5dcaa6579926a.jpg" group-title="Todo Americano T2",cap. 04
 http://flowhd.xyz/HTML/series/All%20American/2/2x4.mp4
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/348200/seasonposter/all-american-2018-5dcaa6579926a.jpg" group-title="All American Temp 2",All American 2x05
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/348200/seasonposter/all-american-2018-5dcaa6579926a.jpg" group-title="Todo Americano T2",cap. 05
 http://flowhd.xyz/HTML/series/All%20American/2/2x5.mp4
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/348200/seasonposter/all-american-2018-5dcaa6579926a.jpg" group-title="All American Temp 2",All American 2x06
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/348200/seasonposter/all-american-2018-5dcaa6579926a.jpg" group-title="Todo Americano T2",cap. 06
 http://flowhd.xyz/HTML/series/All%20American/2/2x6.mp4
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/348200/seasonposter/all-american-2018-5dcaa6579926a.jpg" group-title="All American Temp 2",All American 2x07
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/348200/seasonposter/all-american-2018-5dcaa6579926a.jpg" group-title="Todo Americano T2",cap. 07
 http://flowhd.xyz/HTML/series/All%20American/2/2x7.mp4
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/348200/seasonposter/all-american-2018-5dcaa6579926a.jpg" group-title="All American Temp 2",All American 2x08
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/348200/seasonposter/all-american-2018-5dcaa6579926a.jpg" group-title="Todo Americano T2",cap. 08
 http://flowhd.xyz/HTML/series/All%20American/2/2x8.mp4
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/348200/seasonposter/all-american-2018-5dcaa6579926a.jpg" group-title="All American Temp 2",All American 2x09
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/348200/seasonposter/all-american-2018-5dcaa6579926a.jpg" group-title="Todo Americano T2",cap. 09
 http://flowhd.xyz/HTML/series/All%20American/2/2x9.mp4
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/348200/seasonposter/all-american-2018-5dcaa6579926a.jpg" group-title="All American Temp 2",All American 2x10
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/348200/seasonposter/all-american-2018-5dcaa6579926a.jpg" group-title="Todo Americano T2",cap. 10
 http://flowhd.xyz/HTML/series/All%20American/2/2x10.mp4
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/348200/seasonposter/all-american-2018-5dcaa6579926a.jpg" group-title="All American Temp 2",All American 2x11
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/348200/seasonposter/all-american-2018-5dcaa6579926a.jpg" group-title="Todo Americano T2",cap. 11
 http://flowhd.xyz/HTML/series/All%20American/2/2x11.mp4
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/348200/seasonposter/all-american-2018-5dcaa6579926a.jpg" group-title="All American Temp 2",All American 2x12
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/348200/seasonposter/all-american-2018-5dcaa6579926a.jpg" group-title="Todo Americano T2",cap. 12
 http://flowhd.xyz/HTML/series/All%20American/2/2x12.mp4
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/348200/seasonposter/all-american-2018-5dcaa6579926a.jpg" group-title="All American Temp 2",All American 2x13
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/348200/seasonposter/all-american-2018-5dcaa6579926a.jpg" group-title="Todo Americano T2",cap. 13
 http://flowhd.xyz/HTML/series/All%20American/2/2x13.mp4
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/348200/seasonposter/all-american-2018-5dcaa6579926a.jpg" group-title="All American Temp 2",All American 2x14
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/348200/seasonposter/all-american-2018-5dcaa6579926a.jpg" group-title="Todo Americano T2",cap. 14
 http://flowhd.xyz/HTML/series/All%20American/2/2x14.mp4
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/348200/seasonposter/all-american-2018-5dcaa6579926a.jpg" group-title="All American Temp 2",All American 2x15
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/348200/seasonposter/all-american-2018-5dcaa6579926a.jpg" group-title="Todo Americano T2",cap. 15
 http://flowhd.xyz/HTML/series/All%20American/2/2x15.mp4
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/348200/seasonposter/all-american-2018-5dcaa6579926a.jpg" group-title="All American Temp 2",All American 2x16
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/348200/seasonposter/all-american-2018-5dcaa6579926a.jpg" group-title="Todo Americano T2",cap. 16
 http://flowhd.xyz/HTML/series/All%20American/2/2x16.mp4
-####################################### Alta Mar Temp 1 (Español)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Alta Mar Temp 1",Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/28/48/66/2848661965337e62f1f93e3396c7488f.jpg" group-title="Alta Mar Temp 1",Alta Mar 1x01
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/28/48/66/2848661965337e62f1f93e3396c7488f.jpg" group-title="Alta Mar T1",cap. 01
 http://flowhd.xyz/HTML/series/Alta%20mar/Season1/1x1.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/28/48/66/2848661965337e62f1f93e3396c7488f.jpg" group-title="Alta Mar Temp 1",Alta Mar 1x02
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/28/48/66/2848661965337e62f1f93e3396c7488f.jpg" group-title="Alta Mar T1",cap. 02
 http://flowhd.xyz/HTML/series/Alta%20mar/Season1/1x2.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/28/48/66/2848661965337e62f1f93e3396c7488f.jpg" group-title="Alta Mar Temp 1",Alta Mar 1x03
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/28/48/66/2848661965337e62f1f93e3396c7488f.jpg" group-title="Alta Mar T1",cap. 03
 http://flowhd.xyz/HTML/series/Alta%20mar/Season1/1x3.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/28/48/66/2848661965337e62f1f93e3396c7488f.jpg" group-title="Alta Mar Temp 1",Alta Mar 1x04
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/28/48/66/2848661965337e62f1f93e3396c7488f.jpg" group-title="Alta Mar T1",cap. 04
 http://flowhd.xyz/HTML/series/Alta%20mar/Season1/1x4.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/28/48/66/2848661965337e62f1f93e3396c7488f.jpg" group-title="Alta Mar Temp 1",Alta Mar 1x05
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/28/48/66/2848661965337e62f1f93e3396c7488f.jpg" group-title="Alta Mar T1",cap. 05
 http://flowhd.xyz/HTML/series/Alta%20mar/Season1/1x5.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/28/48/66/2848661965337e62f1f93e3396c7488f.jpg" group-title="Alta Mar Temp 1",Alta Mar 1x06
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/28/48/66/2848661965337e62f1f93e3396c7488f.jpg" group-title="Alta Mar T1",cap. 06
 http://flowhd.xyz/HTML/series/Alta%20mar/Season1/1x6.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/28/48/66/2848661965337e62f1f93e3396c7488f.jpg" group-title="Alta Mar Temp 1",Alta Mar 1x07
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/28/48/66/2848661965337e62f1f93e3396c7488f.jpg" group-title="Alta Mar T1",cap. 07
 http://flowhd.xyz/HTML/series/Alta%20mar/Season1/1x7.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/28/48/66/2848661965337e62f1f93e3396c7488f.jpg" group-title="Alta Mar Temp 1",Alta Mar 1x08
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/28/48/66/2848661965337e62f1f93e3396c7488f.jpg" group-title="Alta Mar T1",cap. 08
 http://flowhd.xyz/HTML/series/Alta%20mar/Season1/1x8.mp4
-####################################### Alta Mar Temp 2 (Español)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Alta Mar Temp 2",Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://culturamania.com/wp-content/uploads/2019/10/AltaMar_S2_Vertical_Main_RGB_ES.jpg" group-title="Alta Mar Temp 2",Alta Mar 2x01
+
+#EXTINF:-1 tvg-logo="https://culturamania.com/wp-content/uploads/2019/10/AltaMar_S2_Vertical_Main_RGB_ES.jpg" group-title="Alta Mar T2",cap. 01
 http://flowhd.xyz/HTML/series/Alta%20mar/Season2/2x1.mp4
-#EXTINF:-1 tvg-logo="https://culturamania.com/wp-content/uploads/2019/10/AltaMar_S2_Vertical_Main_RGB_ES.jpg" group-title="Alta Mar Temp 2",Alta Mar 2x02
+#EXTINF:-1 tvg-logo="https://culturamania.com/wp-content/uploads/2019/10/AltaMar_S2_Vertical_Main_RGB_ES.jpg" group-title="Alta Mar T2",cap. 02
 http://flowhd.xyz/HTML/series/Alta%20mar/Season2/2x2.mp4
-#EXTINF:-1 tvg-logo="https://culturamania.com/wp-content/uploads/2019/10/AltaMar_S2_Vertical_Main_RGB_ES.jpg" group-title="Alta Mar Temp 2",Alta Mar 2x03
+#EXTINF:-1 tvg-logo="https://culturamania.com/wp-content/uploads/2019/10/AltaMar_S2_Vertical_Main_RGB_ES.jpg" group-title="Alta Mar T2",cap. 03
 http://flowhd.xyz/HTML/series/Alta%20mar/Season2/2x3.mp4
-#EXTINF:-1 tvg-logo="https://culturamania.com/wp-content/uploads/2019/10/AltaMar_S2_Vertical_Main_RGB_ES.jpg" group-title="Alta Mar Temp 2",Alta Mar 2x04
+#EXTINF:-1 tvg-logo="https://culturamania.com/wp-content/uploads/2019/10/AltaMar_S2_Vertical_Main_RGB_ES.jpg" group-title="Alta Mar T2",cap. 04
 http://flowhd.xyz/HTML/series/Alta%20mar/Season2/2x4.mp4
-#EXTINF:-1 tvg-logo="https://culturamania.com/wp-content/uploads/2019/10/AltaMar_S2_Vertical_Main_RGB_ES.jpg" group-title="Alta Mar Temp 2",Alta Mar 2x05
+#EXTINF:-1 tvg-logo="https://culturamania.com/wp-content/uploads/2019/10/AltaMar_S2_Vertical_Main_RGB_ES.jpg" group-title="Alta Mar T2",cap. 05
 http://flowhd.xyz/HTML/series/Alta%20mar/Season2/2x5.mp4
-#EXTINF:-1 tvg-logo="https://culturamania.com/wp-content/uploads/2019/10/AltaMar_S2_Vertical_Main_RGB_ES.jpg" group-title="Alta Mar Temp 2",Alta Mar 2x06
+#EXTINF:-1 tvg-logo="https://culturamania.com/wp-content/uploads/2019/10/AltaMar_S2_Vertical_Main_RGB_ES.jpg" group-title="Alta Mar T2",cap. 06
 http://flowhd.xyz/HTML/series/Alta%20mar/Season2/2x6.mp4
-#EXTINF:-1 tvg-logo="https://culturamania.com/wp-content/uploads/2019/10/AltaMar_S2_Vertical_Main_RGB_ES.jpg" group-title="Alta Mar Temp 2",Alta Mar 2x07
+#EXTINF:-1 tvg-logo="https://culturamania.com/wp-content/uploads/2019/10/AltaMar_S2_Vertical_Main_RGB_ES.jpg" group-title="Alta Mar T2",cap. 07
 http://flowhd.xyz/HTML/series/Alta%20mar/Season2/2x7.mp4
-#EXTINF:-1 tvg-logo="https://culturamania.com/wp-content/uploads/2019/10/AltaMar_S2_Vertical_Main_RGB_ES.jpg" group-title="Alta Mar Temp 2",Alta Mar 2x08
+#EXTINF:-1 tvg-logo="https://culturamania.com/wp-content/uploads/2019/10/AltaMar_S2_Vertical_Main_RGB_ES.jpg" group-title="Alta Mar T2",cap. 08
 http://flowhd.xyz/HTML/series/Alta%20mar/Season2/2x8.mp4
-####################################### Altered Carbon Temp 1 (Subtitulado)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Altered Carbon Temp 1",Subtitulado
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/01/12/11/18/5517426.jpg" group-title="Altered Carbon Temp 1",Altered Carbon 1x01
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/01/12/11/18/5517426.jpg" group-title="Altered Carbon T1",cap. 01
 http://flowhd.xyz/HTML/series/Altered%20Carbon/1x1.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/01/12/11/18/5517426.jpg" group-title="Altered Carbon Temp 1",Altered Carbon 1x02
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/01/12/11/18/5517426.jpg" group-title="Altered Carbon T1",cap. 02
 http://flowhd.xyz/HTML/series/Altered%20Carbon/1x2.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/01/12/11/18/5517426.jpg" group-title="Altered Carbon Temp 1",Altered Carbon 1x03
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/01/12/11/18/5517426.jpg" group-title="Altered Carbon T1",cap. 03
 http://flowhd.xyz/HTML/series/Altered%20Carbon/1x3.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/01/12/11/18/5517426.jpg" group-title="Altered Carbon Temp 1",Altered Carbon 1x04
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/01/12/11/18/5517426.jpg" group-title="Altered Carbon T1",cap. 04
 http://flowhd.xyz/HTML/series/Altered%20Carbon/1x4.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/01/12/11/18/5517426.jpg" group-title="Altered Carbon Temp 1",Altered Carbon 1x05
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/01/12/11/18/5517426.jpg" group-title="Altered Carbon T1",cap. 05
 http://flowhd.xyz/HTML/series/Altered%20Carbon/1x5.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/01/12/11/18/5517426.jpg" group-title="Altered Carbon Temp 1",Altered Carbon 1x06
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/01/12/11/18/5517426.jpg" group-title="Altered Carbon T1",cap. 06
 http://flowhd.xyz/HTML/series/Altered%20Carbon/1x6.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/01/12/11/18/5517426.jpg" group-title="Altered Carbon Temp 1",Altered Carbon 1x07
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/01/12/11/18/5517426.jpg" group-title="Altered Carbon T1",cap. 07
 http://flowhd.xyz/HTML/series/Altered%20Carbon/1x7.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/01/12/11/18/5517426.jpg" group-title="Altered Carbon Temp 1",Altered Carbon 1x08
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/01/12/11/18/5517426.jpg" group-title="Altered Carbon T1",cap. 08
 http://flowhd.xyz/HTML/series/Altered%20Carbon/1x8.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/01/12/11/18/5517426.jpg" group-title="Altered Carbon Temp 1",Altered Carbon 1x09
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/01/12/11/18/5517426.jpg" group-title="Altered Carbon T1",cap. 09
 http://flowhd.xyz/HTML/series/Altered%20Carbon/1x9.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/01/12/11/18/5517426.jpg" group-title="Altered Carbon Temp 1",Altered Carbon 1x10
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/01/12/11/18/5517426.jpg" group-title="Altered Carbon T1",cap. 10
 http://flowhd.xyz/HTML/series/Altered%20Carbon/1x10.mp4
-####################################### Altered Carbon Temp 2 (Subtitulado)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Altered Carbon Temp 2",Subtitulado
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/02/11/16/56/3863418.jpg" group-title="Altered Carbon Temp 2",Altered Carbon 2x01
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/02/11/16/56/3863418.jpg" group-title="Altered Carbon T2",cap. 01
 http://flowhd.xyz/HTML/series/Altered%20Carbon/2/2x1.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/02/11/16/56/3863418.jpg" group-title="Altered Carbon Temp 2",Altered Carbon 2x02
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/02/11/16/56/3863418.jpg" group-title="Altered Carbon T2",cap. 02
 http://flowhd.xyz/HTML/series/Altered%20Carbon/2/2x2.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/02/11/16/56/3863418.jpg" group-title="Altered Carbon Temp 2",Altered Carbon 2x03
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/02/11/16/56/3863418.jpg" group-title="Altered Carbon T2",cap. 03
 http://flowhd.xyz/HTML/series/Altered%20Carbon/2/2x3.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/02/11/16/56/3863418.jpg" group-title="Altered Carbon Temp 2",Altered Carbon 2x04
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/02/11/16/56/3863418.jpg" group-title="Altered Carbon T2",cap. 04
 http://flowhd.xyz/HTML/series/Altered%20Carbon/2/2x4.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/02/11/16/56/3863418.jpg" group-title="Altered Carbon Temp 2",Altered Carbon 2x05
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/02/11/16/56/3863418.jpg" group-title="Altered Carbon T2",cap. 05
 http://flowhd.xyz/HTML/series/Altered%20Carbon/2/2x5.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/02/11/16/56/3863418.jpg" group-title="Altered Carbon Temp 2",Altered Carbon 2x06
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/02/11/16/56/3863418.jpg" group-title="Altered Carbon T2",cap. 06
 http://flowhd.xyz/HTML/series/Altered%20Carbon/2/2x6.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/02/11/16/56/3863418.jpg" group-title="Altered Carbon Temp 2",Altered Carbon 2x07
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/02/11/16/56/3863418.jpg" group-title="Altered Carbon T2",cap. 07
 http://flowhd.xyz/HTML/series/Altered%20Carbon/2/2x7.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/02/11/16/56/3863418.jpg" group-title="Altered Carbon Temp 2",Altered Carbon 2x08
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/02/11/16/56/3863418.jpg" group-title="Altered Carbon T2",cap. 08
 http://flowhd.xyz/HTML/series/Altered%20Carbon/2/2x8.mp4
-####################################### Amazing Stories Temp 1 (Subtitulado)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Amazing Stories Temp 1",Subtitulado
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://pelisplus.watch/wp-content/uploads/2020/03/lOnt0Ak679bRjT3qFXQeYed75Re.jpg" group-title="Amazing Stories Temp 1",Amazing Stories 1x01
+
+#EXTINF:-1 tvg-logo="https://pelisplus.watch/wp-content/uploads/2020/03/lOnt0Ak679bRjT3qFXQeYed75Re.jpg" group-title="Amazing Stories T1",cap. 01
 http://flowhd.xyz/HTML/series/Amazing%20Stories/1x1.mp4
-#EXTINF:-1 tvg-logo="https://pelisplus.watch/wp-content/uploads/2020/03/lOnt0Ak679bRjT3qFXQeYed75Re.jpg" group-title="Amazing Stories Temp 1",Amazing Stories 1x02
+#EXTINF:-1 tvg-logo="https://pelisplus.watch/wp-content/uploads/2020/03/lOnt0Ak679bRjT3qFXQeYed75Re.jpg" group-title="Amazing Stories T1",cap. 02
 http://flowhd.xyz/HTML/series/Amazing%20Stories/1x2.mp4
-#EXTINF:-1 tvg-logo="https://pelisplus.watch/wp-content/uploads/2020/03/lOnt0Ak679bRjT3qFXQeYed75Re.jpg" group-title="Amazing Stories Temp 1",Amazing Stories 1x03
+#EXTINF:-1 tvg-logo="https://pelisplus.watch/wp-content/uploads/2020/03/lOnt0Ak679bRjT3qFXQeYed75Re.jpg" group-title="Amazing Stories T1",cap. 03
 http://flowhd.xyz/HTML/series/Amazing%20Stories/1x3.mp4
-#EXTINF:-1 tvg-logo="https://pelisplus.watch/wp-content/uploads/2020/03/lOnt0Ak679bRjT3qFXQeYed75Re.jpg" group-title="Amazing Stories Temp 1",Amazing Stories 1x04
+#EXTINF:-1 tvg-logo="https://pelisplus.watch/wp-content/uploads/2020/03/lOnt0Ak679bRjT3qFXQeYed75Re.jpg" group-title="Amazing Stories T1",cap. 04
 http://flowhd.xyz/HTML/series/Amazing%20Stories/1x4.mp4
-#EXTINF:-1 tvg-logo="https://pelisplus.watch/wp-content/uploads/2020/03/lOnt0Ak679bRjT3qFXQeYed75Re.jpg" group-title="Amazing Stories Temp 1",Amazing Stories 1x05
+#EXTINF:-1 tvg-logo="https://pelisplus.watch/wp-content/uploads/2020/03/lOnt0Ak679bRjT3qFXQeYed75Re.jpg" group-title="Amazing Stories T1",cap. 05
 http://flowhd.xyz/HTML/series/Amazing%20Stories/1x5.mp4
-####################################### Amor 101 Temp 1 (Subtitulado)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Amor 101 Temp 1",Subtitulado
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/r_1280_720/pictures/20/04/06/10/25/5101172.png" group-title="Amor 101 Temp 1",Amor 101 1x01
+
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/r_1280_720/pictures/20/04/06/10/25/5101172.png" group-title="Amor 101 T1",cap. 01
 http://flowhd.xyz/HTML/series/Love%20101/1x1.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/r_1280_720/pictures/20/04/06/10/25/5101172.png" group-title="Amor 101 Temp 1",Amor 101 1x02
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/r_1280_720/pictures/20/04/06/10/25/5101172.png" group-title="Amor 101 T1",cap. 02
 http://flowhd.xyz/HTML/series/Love%20101/1x2.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/r_1280_720/pictures/20/04/06/10/25/5101172.png" group-title="Amor 101 Temp 1",Amor 101 1x03
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/r_1280_720/pictures/20/04/06/10/25/5101172.png" group-title="Amor 101 T1",cap. 03
 http://flowhd.xyz/HTML/series/Love%20101/1x3.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/r_1280_720/pictures/20/04/06/10/25/5101172.png" group-title="Amor 101 Temp 1",Amor 101 1x04
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/r_1280_720/pictures/20/04/06/10/25/5101172.png" group-title="Amor 101 T1",cap. 04
 http://flowhd.xyz/HTML/series/Love%20101/1x4.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/r_1280_720/pictures/20/04/06/10/25/5101172.png" group-title="Amor 101 Temp 1",Amor 101 1x05
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/r_1280_720/pictures/20/04/06/10/25/5101172.png" group-title="Amor 101 T1",cap. 05
 http://flowhd.xyz/HTML/series/Love%20101/1x5.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/r_1280_720/pictures/20/04/06/10/25/5101172.png" group-title="Amor 101 Temp 1",Amor 101 1x06
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/r_1280_720/pictures/20/04/06/10/25/5101172.png" group-title="Amor 101 T1",cap. 06
 http://flowhd.xyz/HTML/series/Love%20101/1x6.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/r_1280_720/pictures/20/04/06/10/25/5101172.png" group-title="Amor 101 Temp 1",Amor 101 1x07
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/r_1280_720/pictures/20/04/06/10/25/5101172.png" group-title="Amor 101 T1",cap. 07
 http://flowhd.xyz/HTML/series/Love%20101/1x7.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/r_1280_720/pictures/20/04/06/10/25/5101172.png" group-title="Amor 101 Temp 1",Amor 101 1x08
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/r_1280_720/pictures/20/04/06/10/25/5101172.png" group-title="Amor 101 T1",cap. 08
 http://flowhd.xyz/HTML/series/Love%20101/1x8.mp4
-####################################### Ana Temp 1 (Español)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Ana Temp 1",Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://media.metrolatam.com/2020/04/15/anapinkdressfina-2e8477ecce1a9a0b2cf11a23cb2d19fa-0x1200.jpg" group-title="Ana Temp 1",Ana 1x01
+
+#EXTINF:-1 tvg-logo="https://media.metrolatam.com/2020/04/15/anapinkdressfina-2e8477ecce1a9a0b2cf11a23cb2d19fa-0x1200.jpg" group-title="Ana T1",cap. 01
 http://flowhd.xyz/HTML/series/ANA%20SERIE/Series%20Tu%20Latino%20-%20LTV.mp4
-#EXTINF:-1 tvg-logo="https://media.metrolatam.com/2020/04/15/anapinkdressfina-2e8477ecce1a9a0b2cf11a23cb2d19fa-0x1200.jpg" group-title="Ana Temp 1",Ana 1x02
+#EXTINF:-1 tvg-logo="https://media.metrolatam.com/2020/04/15/anapinkdressfina-2e8477ecce1a9a0b2cf11a23cb2d19fa-0x1200.jpg" group-title="Ana T1",cap. 02
 http://flowhd.xyz/HTML/series/ANA%20SERIE/Series%20Tu%20Latino%20-%20LTV%201X1.mp4
-#EXTINF:-1 tvg-logo="https://media.metrolatam.com/2020/04/15/anapinkdressfina-2e8477ecce1a9a0b2cf11a23cb2d19fa-0x1200.jpg" group-title="Ana Temp 1",Ana 1x03
+#EXTINF:-1 tvg-logo="https://media.metrolatam.com/2020/04/15/anapinkdressfina-2e8477ecce1a9a0b2cf11a23cb2d19fa-0x1200.jpg" group-title="Ana T1",cap. 03
 http://flowhd.xyz/HTML/series/ANA%20SERIE/Series%20Tu%20Latino%20-%20LTV%201X3.mp4
-#EXTINF:-1 tvg-logo="https://media.metrolatam.com/2020/04/15/anapinkdressfina-2e8477ecce1a9a0b2cf11a23cb2d19fa-0x1200.jpg" group-title="Ana Temp 1",Ana 1x04
+#EXTINF:-1 tvg-logo="https://media.metrolatam.com/2020/04/15/anapinkdressfina-2e8477ecce1a9a0b2cf11a23cb2d19fa-0x1200.jpg" group-title="Ana T1",cap. 04
 http://flowhd.xyz/HTML/series/ANA%20SERIE/Series%20Tu%20Latino%20-%20LTV%201X4.mp4
-#EXTINF:-1 tvg-logo="https://media.metrolatam.com/2020/04/15/anapinkdressfina-2e8477ecce1a9a0b2cf11a23cb2d19fa-0x1200.jpg" group-title="Ana Temp 1",Ana 1x05
+#EXTINF:-1 tvg-logo="https://media.metrolatam.com/2020/04/15/anapinkdressfina-2e8477ecce1a9a0b2cf11a23cb2d19fa-0x1200.jpg" group-title="Ana T1",cap. 05
 http://flowhd.xyz/HTML/series/ANA%20SERIE/Series%20Tu%20Latino%20-%20LTV%201X5.mp4
-#EXTINF:-1 tvg-logo="https://media.metrolatam.com/2020/04/15/anapinkdressfina-2e8477ecce1a9a0b2cf11a23cb2d19fa-0x1200.jpg" group-title="Ana Temp 1",Ana 1x06
+#EXTINF:-1 tvg-logo="https://media.metrolatam.com/2020/04/15/anapinkdressfina-2e8477ecce1a9a0b2cf11a23cb2d19fa-0x1200.jpg" group-title="Ana T1",cap. 06
 http://flowhd.xyz/HTML/series/ANA%20SERIE/Series%20Tu%20Latino%20-%20LTV%201X6.mp4
-#EXTINF:-1 tvg-logo="https://media.metrolatam.com/2020/04/15/anapinkdressfina-2e8477ecce1a9a0b2cf11a23cb2d19fa-0x1200.jpg" group-title="Ana Temp 1",Ana 1x07
+#EXTINF:-1 tvg-logo="https://media.metrolatam.com/2020/04/15/anapinkdressfina-2e8477ecce1a9a0b2cf11a23cb2d19fa-0x1200.jpg" group-title="Ana T1",cap. 07
 http://flowhd.xyz/HTML/series/ANA%20SERIE/Series%20Tu%20Latino%20-%20LTV%201X7.mp4
-#EXTINF:-1 tvg-logo="https://media.metrolatam.com/2020/04/15/anapinkdressfina-2e8477ecce1a9a0b2cf11a23cb2d19fa-0x1200.jpg" group-title="Ana Temp 1",Ana 1x08
+#EXTINF:-1 tvg-logo="https://media.metrolatam.com/2020/04/15/anapinkdressfina-2e8477ecce1a9a0b2cf11a23cb2d19fa-0x1200.jpg" group-title="Ana T1",cap. 08
 http://flowhd.xyz/HTML/series/ANA%20SERIE/Series%20Tu%20Latino%20-%20LTV%201X8.mp4
-#EXTINF:-1 tvg-logo="https://media.metrolatam.com/2020/04/15/anapinkdressfina-2e8477ecce1a9a0b2cf11a23cb2d19fa-0x1200.jpg" group-title="Ana Temp 1",Ana 1x09
+#EXTINF:-1 tvg-logo="https://media.metrolatam.com/2020/04/15/anapinkdressfina-2e8477ecce1a9a0b2cf11a23cb2d19fa-0x1200.jpg" group-title="Ana T1",cap. 09
 http://flowhd.xyz/HTML/series/ANA%20SERIE/Series%20Tu%20Latino%20-%20LTV%201X9.mp4
-#EXTINF:-1 tvg-logo="https://media.metrolatam.com/2020/04/15/anapinkdressfina-2e8477ecce1a9a0b2cf11a23cb2d19fa-0x1200.jpg" group-title="Ana Temp 1",Ana 1x10
+#EXTINF:-1 tvg-logo="https://media.metrolatam.com/2020/04/15/anapinkdressfina-2e8477ecce1a9a0b2cf11a23cb2d19fa-0x1200.jpg" group-title="Ana T1",cap. 10
 http://flowhd.xyz/HTML/series/ANA%20SERIE/Series%20Tu%20Latino%20-%20LTV%201X10.mp4
-####################################### Another Life Temp 1 (Subtitulado)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Another Life Temp 1",Subtitulado
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://www.seriecanal.com/data/images/rss/4791.jpg" group-title="Another Life Temp 1",Another Life 1x01
+
+#EXTINF:-1 tvg-logo="https://www.seriecanal.com/data/images/rss/4791.jpg" group-title="Another Life T1",cap. 01
 http://playtv.tech/HTML/CONTENIDO/SERIES/Another%20Life/14803.mp4
-#EXTINF:-1 tvg-logo="https://www.seriecanal.com/data/images/rss/4791.jpg" group-title="Another Life Temp 1",Another Life 1x02
+#EXTINF:-1 tvg-logo="https://www.seriecanal.com/data/images/rss/4791.jpg" group-title="Another Life T1",cap. 02
 http://playtv.tech/HTML/CONTENIDO/SERIES/Another%20Life/14804.mp4
-#EXTINF:-1 tvg-logo="https://www.seriecanal.com/data/images/rss/4791.jpg" group-title="Another Life Temp 1",Another Life 1x03
+#EXTINF:-1 tvg-logo="https://www.seriecanal.com/data/images/rss/4791.jpg" group-title="Another Life T1",cap. 03
 http://playtv.tech/HTML/CONTENIDO/SERIES/Another%20Life/14805.mp4
-#EXTINF:-1 tvg-logo="https://www.seriecanal.com/data/images/rss/4791.jpg" group-title="Another Life Temp 1",Another Life 1x04
+#EXTINF:-1 tvg-logo="https://www.seriecanal.com/data/images/rss/4791.jpg" group-title="Another Life T1",cap. 04
 http://playtv.tech/HTML/CONTENIDO/SERIES/Another%20Life/14806.mp4
-#EXTINF:-1 tvg-logo="https://www.seriecanal.com/data/images/rss/4791.jpg" group-title="Another Life Temp 1",Another Life 1x05
+#EXTINF:-1 tvg-logo="https://www.seriecanal.com/data/images/rss/4791.jpg" group-title="Another Life T1",cap. 05
 http://playtv.tech/HTML/CONTENIDO/SERIES/Another%20Life/14807.mp4
-#EXTINF:-1 tvg-logo="https://www.seriecanal.com/data/images/rss/4791.jpg" group-title="Another Life Temp 1",Another Life 1x06
+#EXTINF:-1 tvg-logo="https://www.seriecanal.com/data/images/rss/4791.jpg" group-title="Another Life T1",cap. 06
 http://playtv.tech/HTML/CONTENIDO/SERIES/Another%20Life/14808.mp4
-#EXTINF:-1 tvg-logo="https://www.seriecanal.com/data/images/rss/4791.jpg" group-title="Another Life Temp 1",Another Life 1x07
+#EXTINF:-1 tvg-logo="https://www.seriecanal.com/data/images/rss/4791.jpg" group-title="Another Life T1",cap. 07
 http://playtv.tech/HTML/CONTENIDO/SERIES/Another%20Life/14809.mp4
-#EXTINF:-1 tvg-logo="https://www.seriecanal.com/data/images/rss/4791.jpg" group-title="Another Life Temp 1",Another Life 1x08
+#EXTINF:-1 tvg-logo="https://www.seriecanal.com/data/images/rss/4791.jpg" group-title="Another Life T1",cap. 08
 http://playtv.tech/HTML/CONTENIDO/SERIES/Another%20Life/14810.mp4
-#EXTINF:-1 tvg-logo="https://www.seriecanal.com/data/images/rss/4791.jpg" group-title="Another Life Temp 1",Another Life 1x09
+#EXTINF:-1 tvg-logo="https://www.seriecanal.com/data/images/rss/4791.jpg" group-title="Another Life T1",cap. 09
 http://playtv.tech/HTML/CONTENIDO/SERIES/Another%20Life/14811.mp4
-#EXTINF:-1 tvg-logo="https://www.seriecanal.com/data/images/rss/4791.jpg" group-title="Another Life Temp 1",Another Life 1x10
+#EXTINF:-1 tvg-logo="https://www.seriecanal.com/data/images/rss/4791.jpg" group-title="Another Life T1",cap. 10
 http://playtv.tech/HTML/CONTENIDO/SERIES/Another%20Life/14812.mp4
-####################################### Ares Temp 1 (Subtitulado)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Ares Temp 1",Subtitulado
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/23/12/37/2549126.jpg" group-title="Ares Temp 1",Ares 1x01
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/23/12/37/2549126.jpg" group-title="Ares T1",cap. 01
 http://flowhd.xyz/HTML/series/Ares/1x1.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/23/12/37/2549126.jpg" group-title="Ares Temp 1",Ares 1x02
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/23/12/37/2549126.jpg" group-title="Ares T1",cap. 02
 http://flowhd.xyz/HTML/series/Ares/1x2.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/23/12/37/2549126.jpg" group-title="Ares Temp 1",Ares 1x03
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/23/12/37/2549126.jpg" group-title="Ares T1",cap. 03
 http://flowhd.xyz/HTML/series/Ares/1x3.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/23/12/37/2549126.jpg" group-title="Ares Temp 1",Ares 1x04
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/23/12/37/2549126.jpg" group-title="Ares T1",cap. 04
 http://flowhd.xyz/HTML/series/Ares/1x4.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/23/12/37/2549126.jpg" group-title="Ares Temp 1",Ares 1x05
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/23/12/37/2549126.jpg" group-title="Ares T1",cap. 05
 http://flowhd.xyz/HTML/series/Ares/1x5.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/23/12/37/2549126.jpg" group-title="Ares Temp 1",Ares 1x06
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/23/12/37/2549126.jpg" group-title="Ares T1",cap. 06
 http://flowhd.xyz/HTML/series/Ares/1x6.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/23/12/37/2549126.jpg" group-title="Ares Temp 1",Ares 1x07
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/23/12/37/2549126.jpg" group-title="Ares T1",cap. 07
 http://flowhd.xyz/HTML/series/Ares/1x7.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/23/12/37/2549126.jpg" group-title="Ares Temp 1",Ares 1x08
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/23/12/37/2549126.jpg" group-title="Ares T1",cap. 08
 http://flowhd.xyz/HTML/series/Ares/1x8.mp4
-####################################### Avenue 5 Temp 1 (Subtitulado)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Avenue 5 Temp 1",Subtitulado
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/12/11/11/15/5614301.jpg" group-title="Avenue 5 Temp 1",Avenue 5 1x01
+
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/12/11/11/15/5614301.jpg" group-title="Avenida 5 T1",cap. 01
 http://flowhd.xyz/HTML/series/Avenue%205/1x1.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/12/11/11/15/5614301.jpg" group-title="Avenue 5 Temp 1",Avenue 5 1x02
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/12/11/11/15/5614301.jpg" group-title="Avenida 5 T1",cap. 02
 http://flowhd.xyz/HTML/series/Avenue%205/1x2.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/12/11/11/15/5614301.jpg" group-title="Avenue 5 Temp 1",Avenue 5 1x03
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/12/11/11/15/5614301.jpg" group-title="Avenida 5 T1",cap. 03
 http://flowhd.xyz/HTML/series/Avenue%205/1x3.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/12/11/11/15/5614301.jpg" group-title="Avenue 5 Temp 1",Avenue 5 1x04
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/12/11/11/15/5614301.jpg" group-title="Avenida 5 T1",cap. 04
 http://flowhd.xyz/HTML/series/Avenue%205/1x4.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/12/11/11/15/5614301.jpg" group-title="Avenue 5 Temp 1",Avenue 5 1x05
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/12/11/11/15/5614301.jpg" group-title="Avenida 5 T1",cap. 05
 http://flowhd.xyz/HTML/series/Avenue%205/1x5.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/12/11/11/15/5614301.jpg" group-title="Avenue 5 Temp 1",Avenue 5 1x06
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/12/11/11/15/5614301.jpg" group-title="Avenida 5 T1",cap. 06
 http://flowhd.xyz/HTML/series/Avenue%205/1x6.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/12/11/11/15/5614301.jpg" group-title="Avenue 5 Temp 1",Avenue 5 1x07
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/12/11/11/15/5614301.jpg" group-title="Avenida 5 T1",cap. 07
 http://flowhd.xyz/HTML/series/Avenue%205/1x7.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/12/11/11/15/5614301.jpg" group-title="Avenue 5 Temp 1",Avenue 5 1x08
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/12/11/11/15/5614301.jpg" group-title="Avenida 5 T1",cap. 08
 http://flowhd.xyz/HTML/series/Avenue%205/1x8.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/12/11/11/15/5614301.jpg" group-title="Avenue 5 Temp 1",Avenue 5 1x09
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/12/11/11/15/5614301.jpg" group-title="Avenida 5 T1",cap. 09
 http://flowhd.xyz/HTML/series/Avenue%205/1x9.mp4
-####################################### Bajo Sospecha Temp 1 (Español)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Bajo Sospecha Temp 1",Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/70/5d/b5/705db59e784e8810361d68ff6ac7b493.jpg" group-title="Bajo Sospecha Temp 1",Bajo Sospecha 1x01
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/70/5d/b5/705db59e784e8810361d68ff6ac7b493.jpg" group-title="Bajo Sospecha T1",cap. 01
 http://flowhd.xyz/HTML/series/Bajo%20Sospecha/1/1x1.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/70/5d/b5/705db59e784e8810361d68ff6ac7b493.jpg" group-title="Bajo Sospecha Temp 1",Bajo Sospecha 1x02
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/70/5d/b5/705db59e784e8810361d68ff6ac7b493.jpg" group-title="Bajo Sospecha T1",cap. 02
 http://flowhd.xyz/HTML/series/Bajo%20Sospecha/1/1x2.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/70/5d/b5/705db59e784e8810361d68ff6ac7b493.jpg" group-title="Bajo Sospecha Temp 1",Bajo Sospecha 1x03
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/70/5d/b5/705db59e784e8810361d68ff6ac7b493.jpg" group-title="Bajo Sospecha T1",cap. 03
 http://flowhd.xyz/HTML/series/Bajo%20Sospecha/1/1x3.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/70/5d/b5/705db59e784e8810361d68ff6ac7b493.jpg" group-title="Bajo Sospecha Temp 1",Bajo Sospecha 1x04
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/70/5d/b5/705db59e784e8810361d68ff6ac7b493.jpg" group-title="Bajo Sospecha T1",cap. 04
 http://flowhd.xyz/HTML/series/Bajo%20Sospecha/1/1x4.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/70/5d/b5/705db59e784e8810361d68ff6ac7b493.jpg" group-title="Bajo Sospecha Temp 1",Bajo Sospecha 1x05
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/70/5d/b5/705db59e784e8810361d68ff6ac7b493.jpg" group-title="Bajo Sospecha T1",cap. 05
 http://flowhd.xyz/HTML/series/Bajo%20Sospecha/1/1x5.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/70/5d/b5/705db59e784e8810361d68ff6ac7b493.jpg" group-title="Bajo Sospecha Temp 1",Bajo Sospecha 1x06
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/70/5d/b5/705db59e784e8810361d68ff6ac7b493.jpg" group-title="Bajo Sospecha T1",cap. 06
 http://flowhd.xyz/HTML/series/Bajo%20Sospecha/1/1x6.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/70/5d/b5/705db59e784e8810361d68ff6ac7b493.jpg" group-title="Bajo Sospecha Temp 1",Bajo Sospecha 1x07
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/70/5d/b5/705db59e784e8810361d68ff6ac7b493.jpg" group-title="Bajo Sospecha T1",cap. 07
 http://flowhd.xyz/HTML/series/Bajo%20Sospecha/1/1x7.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/70/5d/b5/705db59e784e8810361d68ff6ac7b493.jpg" group-title="Bajo Sospecha Temp 1",Bajo Sospecha 1x08
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/70/5d/b5/705db59e784e8810361d68ff6ac7b493.jpg" group-title="Bajo Sospecha T1",cap. 08
 http://flowhd.xyz/HTML/series/Bajo%20Sospecha/1/1x8.mp4
-####################################### Bajo Sospecha Temp 2 (Español)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Bajo Sospecha Temp 2",Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://imagessl7.casadellibro.com/m/ig/7/2982097.jpg" group-title="Bajo Sospecha Temp 2",Bajo Sospecha 2x01
+
+#EXTINF:-1 tvg-logo="https://imagessl7.casadellibro.com/m/ig/7/2982097.jpg" group-title="Bajo Sospecha T2",cap. 01
 http://flowhd.xyz/HTML/series/Bajo%20Sospecha/2/2x1.mp4
-#EXTINF:-1 tvg-logo="https://imagessl7.casadellibro.com/m/ig/7/2982097.jpg" group-title="Bajo Sospecha Temp 2",Bajo Sospecha 2x02
+#EXTINF:-1 tvg-logo="https://imagessl7.casadellibro.com/m/ig/7/2982097.jpg" group-title="Bajo Sospecha T2",cap. 02
 http://flowhd.xyz/HTML/series/Bajo%20Sospecha/2/2x2.mp4
-#EXTINF:-1 tvg-logo="https://imagessl7.casadellibro.com/m/ig/7/2982097.jpg" group-title="Bajo Sospecha Temp 2",Bajo Sospecha 2x03
+#EXTINF:-1 tvg-logo="https://imagessl7.casadellibro.com/m/ig/7/2982097.jpg" group-title="Bajo Sospecha T2",cap. 03
 http://flowhd.xyz/HTML/series/Bajo%20Sospecha/2/2x3.mp4
-#EXTINF:-1 tvg-logo="https://imagessl7.casadellibro.com/m/ig/7/2982097.jpg" group-title="Bajo Sospecha Temp 2",Bajo Sospecha 2x04
+#EXTINF:-1 tvg-logo="https://imagessl7.casadellibro.com/m/ig/7/2982097.jpg" group-title="Bajo Sospecha T2",cap. 04
 http://flowhd.xyz/HTML/series/Bajo%20Sospecha/2/2x4.mp4
-#EXTINF:-1 tvg-logo="https://imagessl7.casadellibro.com/m/ig/7/2982097.jpg" group-title="Bajo Sospecha Temp 2",Bajo Sospecha 2x05
+#EXTINF:-1 tvg-logo="https://imagessl7.casadellibro.com/m/ig/7/2982097.jpg" group-title="Bajo Sospecha T2",cap. 05
 http://flowhd.xyz/HTML/series/Bajo%20Sospecha/2/2x5.mp4
-#EXTINF:-1 tvg-logo="https://imagessl7.casadellibro.com/m/ig/7/2982097.jpg" group-title="Bajo Sospecha Temp 2",Bajo Sospecha 2x06
+#EXTINF:-1 tvg-logo="https://imagessl7.casadellibro.com/m/ig/7/2982097.jpg" group-title="Bajo Sospecha T2",cap. 06
 http://flowhd.xyz/HTML/series/Bajo%20Sospecha/2/2x6.mp4
-#EXTINF:-1 tvg-logo="https://imagessl7.casadellibro.com/m/ig/7/2982097.jpg" group-title="Bajo Sospecha Temp 2",Bajo Sospecha 2x07
+#EXTINF:-1 tvg-logo="https://imagessl7.casadellibro.com/m/ig/7/2982097.jpg" group-title="Bajo Sospecha T2",cap. 07
 http://flowhd.xyz/HTML/series/Bajo%20Sospecha/2/2x7.mp4
-#EXTINF:-1 tvg-logo="https://imagessl7.casadellibro.com/m/ig/7/2982097.jpg" group-title="Bajo Sospecha Temp 2",Bajo Sospecha 2x08
+#EXTINF:-1 tvg-logo="https://imagessl7.casadellibro.com/m/ig/7/2982097.jpg" group-title="Bajo Sospecha T2",cap. 08
 http://flowhd.xyz/HTML/series/Bajo%20Sospecha/2/2x8.mp4
-#EXTINF:-1 tvg-logo="https://imagessl7.casadellibro.com/m/ig/7/2982097.jpg" group-title="Bajo Sospecha Temp 2",Bajo Sospecha 2x09
+#EXTINF:-1 tvg-logo="https://imagessl7.casadellibro.com/m/ig/7/2982097.jpg" group-title="Bajo Sospecha T2",cap. 09
 http://flowhd.xyz/HTML/series/Bajo%20Sospecha/2/2x9.mp4
-#EXTINF:-1 tvg-logo="https://imagessl7.casadellibro.com/m/ig/7/2982097.jpg" group-title="Bajo Sospecha Temp 2",Bajo Sospecha 2x10
+#EXTINF:-1 tvg-logo="https://imagessl7.casadellibro.com/m/ig/7/2982097.jpg" group-title="Bajo Sospecha T2",cap. 10
 http://flowhd.xyz/HTML/series/Bajo%20Sospecha/2/2x10.mp4
-####################################### BatWoman Temp 1 (Subtitulado)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="BatWoman Temp 1",Subtitulado
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/27/19/28/3893220.jpg" group-title="BatWoman Temp 1",BatWoman 1x01
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/27/19/28/3893220.jpg" group-title="BatWoman T1",cap. 01
 http://flowhd.xyz/HTML/series/BatWoman/1x1.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/27/19/28/3893220.jpg" group-title="BatWoman Temp 1",BatWoman 1x02
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/27/19/28/3893220.jpg" group-title="BatWoman T1",cap. 02
 http://flowhd.xyz/HTML/series/BatWoman/1x2.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/27/19/28/3893220.jpg" group-title="BatWoman Temp 1",BatWoman 1x03
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/27/19/28/3893220.jpg" group-title="BatWoman T1",cap. 03
 http://flowhd.xyz/HTML/series/BatWoman/1x3.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/27/19/28/3893220.jpg" group-title="BatWoman Temp 1",BatWoman 1x04
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/27/19/28/3893220.jpg" group-title="BatWoman T1",cap. 04
 http://flowhd.xyz/HTML/series/BatWoman/1x4.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/27/19/28/3893220.jpg" group-title="BatWoman Temp 1",BatWoman 1x05
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/27/19/28/3893220.jpg" group-title="BatWoman T1",cap. 05
 http://flowhd.xyz/HTML/series/BatWoman/1x5.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/27/19/28/3893220.jpg" group-title="BatWoman Temp 1",BatWoman 1x06
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/27/19/28/3893220.jpg" group-title="BatWoman T1",cap. 06
 http://flowhd.xyz/HTML/series/BatWoman/1x6.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/27/19/28/3893220.jpg" group-title="BatWoman Temp 1",BatWoman 1x07
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/27/19/28/3893220.jpg" group-title="BatWoman T1",cap. 07
 http://flowhd.xyz/HTML/series/BatWoman/1x7.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/27/19/28/3893220.jpg" group-title="BatWoman Temp 1",BatWoman 1x08
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/27/19/28/3893220.jpg" group-title="BatWoman T1",cap. 08
 http://flowhd.xyz/HTML/series/BatWoman/1x8.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/27/19/28/3893220.jpg" group-title="BatWoman Temp 1",BatWoman 1x09
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/27/19/28/3893220.jpg" group-title="BatWoman T1",cap. 09
 http://flowhd.xyz/HTML/series/BatWoman/1x9.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/27/19/28/3893220.jpg" group-title="BatWoman Temp 1",BatWoman 1x10
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/27/19/28/3893220.jpg" group-title="BatWoman T1",cap. 10
 http://flowhd.xyz/HTML/series/BatWoman/1x10.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/27/19/28/3893220.jpg" group-title="BatWoman Temp 1",BatWoman 1x11
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/27/19/28/3893220.jpg" group-title="BatWoman T1",cap. 11
 http://flowhd.xyz/HTML/series/BatWoman/1x11.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/27/19/28/3893220.jpg" group-title="BatWoman Temp 1",BatWoman 1x12
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/27/19/28/3893220.jpg" group-title="BatWoman T1",cap. 12
 http://flowhd.xyz/HTML/series/BatWoman/1x12.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/27/19/28/3893220.jpg" group-title="BatWoman Temp 1",BatWoman 1x13
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/27/19/28/3893220.jpg" group-title="BatWoman T1",cap. 13
 http://flowhd.xyz/HTML/series/BatWoman/1x13.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/27/19/28/3893220.jpg" group-title="BatWoman Temp 1",BatWoman 1x14
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/27/19/28/3893220.jpg" group-title="BatWoman T1",cap. 14
 http://flowhd.xyz/HTML/series/BatWoman/1x14.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/27/19/28/3893220.jpg" group-title="BatWoman Temp 1",BatWoman 1x15
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/27/19/28/3893220.jpg" group-title="BatWoman T1",cap. 15
 http://flowhd.xyz/HTML/series/BatWoman/1x15.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/27/19/28/3893220.jpg" group-title="BatWoman Temp 1",BatWoman 1x16
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/27/19/28/3893220.jpg" group-title="BatWoman T1",cap. 16
 http://flowhd.xyz/HTML/series/BatWoman/1x16.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/27/19/28/3893220.jpg" group-title="BatWoman Temp 1",BatWoman 1x17
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/27/19/28/3893220.jpg" group-title="BatWoman T1",cap. 17
 http://flowhd.xyz/HTML/series/BatWoman/1x17.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/27/19/28/3893220.jpg" group-title="BatWoman Temp 1",BatWoman 1x18
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/27/19/28/3893220.jpg" group-title="BatWoman T1",cap. 18
 http://flowhd.xyz/HTML/series/BatWoman/1x18.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/27/19/28/3893220.jpg" group-title="BatWoman Temp 1",BatWoman 1x19
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/27/19/28/3893220.jpg" group-title="BatWoman T1",cap. 19
 http://flowhd.xyz/HTML/series/BatWoman/1x19.mp4
-####################################### Breeders Temp 1 (Subtitulado)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Breeders Temp 1",Subtitulado
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/13/09/44/5930030.jpg" group-title="Breeders Temp 1",Breeders 1x01
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/13/09/44/5930030.jpg" group-title="Breeders T1",cap. 01
 http://flowhd.xyz/HTML/series/Breeders/1x1.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/13/09/44/5930030.jpg" group-title="Breeders Temp 1",Breeders 1x02
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/13/09/44/5930030.jpg" group-title="Breeders T1",cap. 02
 http://flowhd.xyz/HTML/series/Breeders/1x2.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/13/09/44/5930030.jpg" group-title="Breeders Temp 1",Breeders 1x03
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/13/09/44/5930030.jpg" group-title="Breeders T1",cap. 03
 http://flowhd.xyz/HTML/series/Breeders/1x3.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/13/09/44/5930030.jpg" group-title="Breeders Temp 1",Breeders 1x04
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/13/09/44/5930030.jpg" group-title="Breeders T1",cap. 04
 http://flowhd.xyz/HTML/series/Breeders/1x4.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/13/09/44/5930030.jpg" group-title="Breeders Temp 1",Breeders 1x05
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/13/09/44/5930030.jpg" group-title="Breeders T1",cap. 05
 http://flowhd.xyz/HTML/series/Breeders/1x5.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/13/09/44/5930030.jpg" group-title="Breeders Temp 1",Breeders 1x06
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/13/09/44/5930030.jpg" group-title="Breeders T1",cap. 06
 http://flowhd.xyz/HTML/series/Breeders/1x6.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/13/09/44/5930030.jpg" group-title="Breeders Temp 1",Breeders 1x07
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/13/09/44/5930030.jpg" group-title="Breeders T1",cap. 07
 http://flowhd.xyz/HTML/series/Breeders/1x7.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/13/09/44/5930030.jpg" group-title="Breeders Temp 1",Breeders 1x08
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/13/09/44/5930030.jpg" group-title="Breeders T1",cap. 08
 http://flowhd.xyz/HTML/series/Breeders/1x8.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/13/09/44/5930030.jpg" group-title="Breeders Temp 1",Breeders 1x09
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/13/09/44/5930030.jpg" group-title="Breeders T1",cap. 09
 http://flowhd.xyz/HTML/series/Breeders/1x9.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/13/09/44/5930030.jpg" group-title="Breeders Temp 1",Breeders 1x10
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/13/09/44/5930030.jpg" group-title="Breeders T1",cap. 10
 http://flowhd.xyz/HTML/series/Breeders/1x10.mp4
-####################################### Briarpatch Temp 1 (Subtitulado)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Briarpatch Temp 1",Subtitulado
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2U5ODE3OTgtMDBhMS00YjQyLTlkZGQtNzQyNDViMmNlNGE0XkEyXkFqcGdeQXVyODgzNzA5MA@@._V1_.jpg" group-title="Briarpatch Temp 1",Briarpatch 1x01
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2U5ODE3OTgtMDBhMS00YjQyLTlkZGQtNzQyNDViMmNlNGE0XkEyXkFqcGdeQXVyODgzNzA5MA@@._V1_.jpg" group-title="Briarpatch T1",cap. 01
 http://flowhd.xyz/HTML/series/Briarpatch/1x1.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2U5ODE3OTgtMDBhMS00YjQyLTlkZGQtNzQyNDViMmNlNGE0XkEyXkFqcGdeQXVyODgzNzA5MA@@._V1_.jpg" group-title="Briarpatch Temp 1",Briarpatch 1x02
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2U5ODE3OTgtMDBhMS00YjQyLTlkZGQtNzQyNDViMmNlNGE0XkEyXkFqcGdeQXVyODgzNzA5MA@@._V1_.jpg" group-title="Briarpatch T1",cap. 02
 http://flowhd.xyz/HTML/series/Briarpatch/1x2.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2U5ODE3OTgtMDBhMS00YjQyLTlkZGQtNzQyNDViMmNlNGE0XkEyXkFqcGdeQXVyODgzNzA5MA@@._V1_.jpg" group-title="Briarpatch Temp 1",Briarpatch 1x03
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2U5ODE3OTgtMDBhMS00YjQyLTlkZGQtNzQyNDViMmNlNGE0XkEyXkFqcGdeQXVyODgzNzA5MA@@._V1_.jpg" group-title="Briarpatch T1",cap. 03
 http://flowhd.xyz/HTML/series/Briarpatch/1x3.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2U5ODE3OTgtMDBhMS00YjQyLTlkZGQtNzQyNDViMmNlNGE0XkEyXkFqcGdeQXVyODgzNzA5MA@@._V1_.jpg" group-title="Briarpatch Temp 1",Briarpatch 1x04
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2U5ODE3OTgtMDBhMS00YjQyLTlkZGQtNzQyNDViMmNlNGE0XkEyXkFqcGdeQXVyODgzNzA5MA@@._V1_.jpg" group-title="Briarpatch T1",cap. 04
 http://flowhd.xyz/HTML/series/Briarpatch/1x4.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2U5ODE3OTgtMDBhMS00YjQyLTlkZGQtNzQyNDViMmNlNGE0XkEyXkFqcGdeQXVyODgzNzA5MA@@._V1_.jpg" group-title="Briarpatch Temp 1",Briarpatch 1x05
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2U5ODE3OTgtMDBhMS00YjQyLTlkZGQtNzQyNDViMmNlNGE0XkEyXkFqcGdeQXVyODgzNzA5MA@@._V1_.jpg" group-title="Briarpatch T1",cap. 05
 http://flowhd.xyz/HTML/series/Briarpatch/1x5.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2U5ODE3OTgtMDBhMS00YjQyLTlkZGQtNzQyNDViMmNlNGE0XkEyXkFqcGdeQXVyODgzNzA5MA@@._V1_.jpg" group-title="Briarpatch Temp 1",Briarpatch 1x06
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2U5ODE3OTgtMDBhMS00YjQyLTlkZGQtNzQyNDViMmNlNGE0XkEyXkFqcGdeQXVyODgzNzA5MA@@._V1_.jpg" group-title="Briarpatch T1",cap. 06
 http://flowhd.xyz/HTML/series/Briarpatch/1x6.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2U5ODE3OTgtMDBhMS00YjQyLTlkZGQtNzQyNDViMmNlNGE0XkEyXkFqcGdeQXVyODgzNzA5MA@@._V1_.jpg" group-title="Briarpatch Temp 1",Briarpatch 1x07
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2U5ODE3OTgtMDBhMS00YjQyLTlkZGQtNzQyNDViMmNlNGE0XkEyXkFqcGdeQXVyODgzNzA5MA@@._V1_.jpg" group-title="Briarpatch T1",cap. 07
 http://flowhd.xyz/HTML/series/Briarpatch/1x7.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2U5ODE3OTgtMDBhMS00YjQyLTlkZGQtNzQyNDViMmNlNGE0XkEyXkFqcGdeQXVyODgzNzA5MA@@._V1_.jpg" group-title="Briarpatch Temp 1",Briarpatch 1x08
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2U5ODE3OTgtMDBhMS00YjQyLTlkZGQtNzQyNDViMmNlNGE0XkEyXkFqcGdeQXVyODgzNzA5MA@@._V1_.jpg" group-title="Briarpatch T1",cap. 08
 http://flowhd.xyz/HTML/series/Briarpatch/1x8.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2U5ODE3OTgtMDBhMS00YjQyLTlkZGQtNzQyNDViMmNlNGE0XkEyXkFqcGdeQXVyODgzNzA5MA@@._V1_.jpg" group-title="Briarpatch Temp 1",Briarpatch 1x09
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2U5ODE3OTgtMDBhMS00YjQyLTlkZGQtNzQyNDViMmNlNGE0XkEyXkFqcGdeQXVyODgzNzA5MA@@._V1_.jpg" group-title="Briarpatch T1",cap. 09
 http://flowhd.xyz/HTML/series/Briarpatch/1x9.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2U5ODE3OTgtMDBhMS00YjQyLTlkZGQtNzQyNDViMmNlNGE0XkEyXkFqcGdeQXVyODgzNzA5MA@@._V1_.jpg" group-title="Briarpatch Temp 1",Briarpatch 1x10
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2U5ODE3OTgtMDBhMS00YjQyLTlkZGQtNzQyNDViMmNlNGE0XkEyXkFqcGdeQXVyODgzNzA5MA@@._V1_.jpg" group-title="Briarpatch T1",cap. 10
 http://flowhd.xyz/HTML/series/Briarpatch/1x10.mp4
-####################################### Carols Second Act Temp 1 (Subtitulado)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Carols Second Act Temp 1",Subtitulado
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2100/2120/1_m1.jpg" group-title="Carols Second Act Temp 1",Carols Second Act 1x01
+
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2100/2120/1_m1.jpg" group-title="Carol Segundo Acto T1",cap. 01
 http://flowhd.xyz/HTML/series/Carols%20Second%20Act/1x1.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2100/2120/1_m1.jpg" group-title="Carols Second Act Temp 1",Carols Second Act 1x02
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2100/2120/1_m1.jpg" group-title="Carol Segundo Acto T1",cap. 02
 http://flowhd.xyz/HTML/series/Carols%20Second%20Act/1x2.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2100/2120/1_m1.jpg" group-title="Carols Second Act Temp 1",Carols Second Act 1x03
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2100/2120/1_m1.jpg" group-title="Carol Segundo Acto T1",cap. 03
 http://flowhd.xyz/HTML/series/Carols%20Second%20Act/1x3.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2100/2120/1_m1.jpg" group-title="Carols Second Act Temp 1",Carols Second Act 1x04
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2100/2120/1_m1.jpg" group-title="Carol Segundo Acto T1",cap. 04
 http://flowhd.xyz/HTML/series/Carols%20Second%20Act/1x4.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2100/2120/1_m1.jpg" group-title="Carols Second Act Temp 1",Carols Second Act 1x05
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2100/2120/1_m1.jpg" group-title="Carol Segundo Acto T1",cap. 05
 http://flowhd.xyz/HTML/series/Carols%20Second%20Act/1x5.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2100/2120/1_m1.jpg" group-title="Carols Second Act Temp 1",Carols Second Act 1x06
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2100/2120/1_m1.jpg" group-title="Carol Segundo Acto T1",cap. 06
 http://flowhd.xyz/HTML/series/Carols%20Second%20Act/1x6.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2100/2120/1_m1.jpg" group-title="Carols Second Act Temp 1",Carols Second Act 1x07
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2100/2120/1_m1.jpg" group-title="Carol Segundo Acto T1",cap. 07
 http://flowhd.xyz/HTML/series/Carols%20Second%20Act/1x7.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2100/2120/1_m1.jpg" group-title="Carols Second Act Temp 1",Carols Second Act 1x08
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2100/2120/1_m1.jpg" group-title="Carol Segundo Acto T1",cap. 08
 http://flowhd.xyz/HTML/series/Carols%20Second%20Act/1x8.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2100/2120/1_m1.jpg" group-title="Carols Second Act Temp 1",Carols Second Act 1x09
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2100/2120/1_m1.jpg" group-title="Carol Segundo Acto T1",cap. 09
 http://flowhd.xyz/HTML/series/Carols%20Second%20Act/1x9.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2100/2120/1_m1.jpg" group-title="Carols Second Act Temp 1",Carols Second Act 1x10
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2100/2120/1_m1.jpg" group-title="Carol Segundo Acto T1",cap. 10
 http://flowhd.xyz/HTML/series/Carols%20Second%20Act/1x10.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2100/2120/1_m1.jpg" group-title="Carols Second Act Temp 1",Carols Second Act 1x11
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2100/2120/1_m1.jpg" group-title="Carol Segundo Acto T1",cap. 11
 http://flowhd.xyz/HTML/series/Carols%20Second%20Act/1x11.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2100/2120/1_m1.jpg" group-title="Carols Second Act Temp 1",Carols Second Act 1x12
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2100/2120/1_m1.jpg" group-title="Carol Segundo Acto T1",cap. 12
 http://flowhd.xyz/HTML/series/Carols%20Second%20Act/1x12.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2100/2120/1_m1.jpg" group-title="Carols Second Act Temp 1",Carols Second Act 1x13
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2100/2120/1_m1.jpg" group-title="Carol Segundo Acto T1",cap. 13
 http://flowhd.xyz/HTML/series/Carols%20Second%20Act/1x13.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2100/2120/1_m1.jpg" group-title="Carols Second Act Temp 1",Carols Second Act 1x14
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2100/2120/1_m1.jpg" group-title="Carol Segundo Acto T1",cap. 14
 http://flowhd.xyz/HTML/series/Carols%20Second%20Act/1x14.mp4
-####################################### Carta al Rey Temp 1 (Español)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Carta al Rey Temp 1",Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51J28QbGHrL.jpg" group-title="Carta al Rey Temp 1",Carta al Rey 1x01
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51J28QbGHrL.jpg" group-title="Carta al Rey T1",cap. 01
 http://flowhd.xyz/HTML/series/The%20Letter%20for%20the%20King/1x1.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51J28QbGHrL.jpg" group-title="Carta al Rey Temp 1",Carta al Rey 1x02
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51J28QbGHrL.jpg" group-title="Carta al Rey T1",cap. 02
 http://flowhd.xyz/HTML/series/The%20Letter%20for%20the%20King/1x2.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51J28QbGHrL.jpg" group-title="Carta al Rey Temp 1",Carta al Rey 1x03
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51J28QbGHrL.jpg" group-title="Carta al Rey T1",cap. 03
 http://flowhd.xyz/HTML/series/The%20Letter%20for%20the%20King/1x3.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51J28QbGHrL.jpg" group-title="Carta al Rey Temp 1",Carta al Rey 1x04
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51J28QbGHrL.jpg" group-title="Carta al Rey T1",cap. 04
 http://flowhd.xyz/HTML/series/The%20Letter%20for%20the%20King/1x4.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51J28QbGHrL.jpg" group-title="Carta al Rey Temp 1",Carta al Rey 1x05
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51J28QbGHrL.jpg" group-title="Carta al Rey T1",cap. 05
 http://flowhd.xyz/HTML/series/The%20Letter%20for%20the%20King/1x5.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51J28QbGHrL.jpg" group-title="Carta al Rey Temp 1",Carta al Rey 1x06
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51J28QbGHrL.jpg" group-title="Carta al Rey T1",cap. 06
 http://flowhd.xyz/HTML/series/The%20Letter%20for%20the%20King/1x6.mp4
 ####################################### Chernobyl Temp 1 (Subtitulado)
 #EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Chernobyl Temp 1",Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
-#EXTINF:-1 tvg-logo="https://infoliteraria.com/wp-content/uploads/2019/09/Chernobil.jpg" group-title="Chernobyl Temp 1",Chernobyl 1x01
+#EXTINF:-1 tvg-logo="https://infoliteraria.com/wp-content/uploads/2019/09/Chernobil.jpg" group-title="Chernobyl T1",cap. 01
 http://flowhd.xyz/HTML/series/Chernoby/1x1.mp4
-#EXTINF:-1 tvg-logo="https://infoliteraria.com/wp-content/uploads/2019/09/Chernobil.jpg" group-title="Chernobyl Temp 1",Chernobyl 1x02
+#EXTINF:-1 tvg-logo="https://infoliteraria.com/wp-content/uploads/2019/09/Chernobil.jpg" group-title="Chernobyl T1",cap. 02
 http://flowhd.xyz/HTML/series/Chernoby/1x2.mp4
-#EXTINF:-1 tvg-logo="https://infoliteraria.com/wp-content/uploads/2019/09/Chernobil.jpg" group-title="Chernobyl Temp 1",Chernobyl 1x03
+#EXTINF:-1 tvg-logo="https://infoliteraria.com/wp-content/uploads/2019/09/Chernobil.jpg" group-title="Chernobyl T1",cap. 03
 http://flowhd.xyz/HTML/series/Chernoby/1x3.mp4
-#EXTINF:-1 tvg-logo="https://infoliteraria.com/wp-content/uploads/2019/09/Chernobil.jpg" group-title="Chernobyl Temp 1",Chernobyl 1x04
+#EXTINF:-1 tvg-logo="https://infoliteraria.com/wp-content/uploads/2019/09/Chernobil.jpg" group-title="Chernobyl T1",cap. 04
 http://flowhd.xyz/HTML/series/Chernoby/1x4.mp4
-#EXTINF:-1 tvg-logo="https://infoliteraria.com/wp-content/uploads/2019/09/Chernobil.jpg" group-title="Chernobyl Temp 1",Chernobyl 1x05
+#EXTINF:-1 tvg-logo="https://infoliteraria.com/wp-content/uploads/2019/09/Chernobil.jpg" group-title="Chernobyl T1",cap. 05
 http://flowhd.xyz/HTML/series/Chernoby/1x5.mp4
-####################################### Chicago Fire Temp 1 (Español)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Chicago Fire Temp 1",Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire Temp 1",Chicago Fire 1x01
+
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire T1",cap. 01
 http://flowhd.xyz/HTML/series/CHICAGO%20FIRE/1/CF%20ByGus%201x1%20Lat.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire Temp 1",Chicago Fire 1x02
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire T1",cap. 02
 http://flowhd.xyz/HTML/series/CHICAGO%20FIRE/1/CF%20ByGus%201x2%20Lat.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire Temp 1",Chicago Fire 1x03
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire T1",cap. 03
 http://flowhd.xyz/HTML/series/CHICAGO%20FIRE/1/CF%20ByGus%201x3%20Lat.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire Temp 1",Chicago Fire 1x04
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire T1",cap. 04
 http://flowhd.xyz/HTML/series/CHICAGO%20FIRE/1/CF%20ByGus%201x4%20Lat.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire Temp 1",Chicago Fire 1x05
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire T1",cap. 05
 http://flowhd.xyz/HTML/series/CHICAGO%20FIRE/1/CF%20ByGus%201x5%20Lat.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire Temp 1",Chicago Fire 1x06
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire T1",cap. 06
 http://flowhd.xyz/HTML/series/CHICAGO%20FIRE/1/CF%20ByGus%201x6%20Lat.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire Temp 1",Chicago Fire 1x07
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire T1",cap. 07
 http://flowhd.xyz/HTML/series/CHICAGO%20FIRE/1/CF%20ByGus%201x7%20Lat.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire Temp 1",Chicago Fire 1x08
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire T1",cap. 08
 http://flowhd.xyz/HTML/series/CHICAGO%20FIRE/1/CF%20ByGus%201x8%20Lat.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire Temp 1",Chicago Fire 1x09
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire T1",cap. 09
 http://flowhd.xyz/HTML/series/CHICAGO%20FIRE/1/CF%20ByGus%201x9%20Lat.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire Temp 1",Chicago Fire 1x10
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire T1",cap. 10
 http://flowhd.xyz/HTML/series/CHICAGO%20FIRE/1/CF%20ByGus%201x10%20Lat.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire Temp 1",Chicago Fire 1x11
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire T1",cap. 11
 http://flowhd.xyz/HTML/series/CHICAGO%20FIRE/1/CF%20ByGus%201x11%20Lat.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire Temp 1",Chicago Fire 1x12
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire T1",cap. 12
 http://flowhd.xyz/HTML/series/CHICAGO%20FIRE/1/CF%20ByGus%201x12%20Lat.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire Temp 1",Chicago Fire 1x13
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire T1",cap. 13
 http://flowhd.xyz/HTML/series/CHICAGO%20FIRE/1/CF%20ByGus%201x13%20Lat.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire Temp 1",Chicago Fire 1x14
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire T1",cap. 14
 http://flowhd.xyz/HTML/series/CHICAGO%20FIRE/1/CF%20ByGus%201x14%20Lat.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire Temp 1",Chicago Fire 1x15
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire T1",cap. 15
 http://flowhd.xyz/HTML/series/CHICAGO%20FIRE/1/CF%20ByGus%201x15%20Lat.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire Temp 1",Chicago Fire 1x16
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire T1",cap. 16
 http://flowhd.xyz/HTML/series/CHICAGO%20FIRE/1/CF%20ByGus%201x16%20Lat.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire Temp 1",Chicago Fire 1x17
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire T1",cap. 17
 http://flowhd.xyz/HTML/series/CHICAGO%20FIRE/1/CF%20ByGus%201x17%20Lat.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire Temp 1",Chicago Fire 1x18
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire T1",cap. 18
 http://flowhd.xyz/HTML/series/CHICAGO%20FIRE/1/CF%20ByGus%201x18%20Lat.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire Temp 1",Chicago Fire 1x19
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire T1",cap. 19
 http://flowhd.xyz/HTML/series/CHICAGO%20FIRE/1/CF%20ByGus%201x19%20Lat.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire Temp 1",Chicago Fire 1x20
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire T1",cap. 20
 http://flowhd.xyz/HTML/series/CHICAGO%20FIRE/1/CF%20ByGus%201x20%20Lat.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire Temp 1",Chicago Fire 1x21
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire T1",cap. 21
 http://flowhd.xyz/HTML/series/CHICAGO%20FIRE/1/CF%20ByGus%201x21%20Lat.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire Temp 1",Chicago Fire 1x22
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire T1",cap. 22
 http://flowhd.xyz/HTML/series/CHICAGO%20FIRE/1/CF%20ByGus%201x22%20Lat.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire Temp 1",Chicago Fire 1x23
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire T1",cap. 23
 http://flowhd.xyz/HTML/series/CHICAGO%20FIRE/1/CF%20ByGus%201x23%20Lat.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire Temp 1",Chicago Fire 1x24
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire T1",cap. 24
 http://flowhd.xyz/HTML/series/CHICAGO%20FIRE/1/CF%20ByGus%201x24%20Lat.mp4
-####################################### [Contra] Indicado Temp 1 (Subtitulado)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="[Contra] Indicado Temp 1",Subtitulado
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w780/bC1CSudFJCvDm679fRtqdVHlDc3.jpg" group-title="[Contra] Indicado Temp 1",[Contra] Indicado -cap. 1 2 y 3
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w780/bC1CSudFJCvDm679fRtqdVHlDc3.jpg" group-title="[Contra] Indicado T1",cap. 1 al 3
 http://144.217.180.154/SERVIDOR_2/(CONTRA)INDICADO%2001%20TEMP%20DVD%2001_CAP1A3z.mp4
-#EXTINF:-1 tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w780/bC1CSudFJCvDm679fRtqdVHlDc3.jpg" group-title="[Contra] Indicado Temp 1",[Contra] Indicado -cap. 4 5 y 6
+#EXTINF:-1 tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w780/bC1CSudFJCvDm679fRtqdVHlDc3.jpg" group-title="[Contra] Indicado T1",cap. 4 al 6
 http://144.217.180.154/SERVIDOR_2/(CONTRA)INDICADO%2001%20TEMP%20DVD%2002_CAP4A6z.mp4
-####################################### Dare Me Temp 1 (Subtitulado)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Dare Me Temp 1",Subtitulado
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51zBnSLk+ZL.jpg" group-title="Dare Me Temp 1",Dare Me 1x01
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51zBnSLk+ZL.jpg" group-title="Dare Me T1",cap. 01
 http://flowhd.xyz/HTML/series/Dare%20Me/1x1.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51zBnSLk+ZL.jpg" group-title="Dare Me Temp 1",Dare Me 1x02
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51zBnSLk+ZL.jpg" group-title="Dare Me T1",cap. 02
 http://flowhd.xyz/HTML/series/Dare%20Me/1x2.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51zBnSLk+ZL.jpg" group-title="Dare Me Temp 1",Dare Me 1x03
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51zBnSLk+ZL.jpg" group-title="Dare Me T1",cap. 03
 http://flowhd.xyz/HTML/series/Dare%20Me/1x3.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51zBnSLk+ZL.jpg" group-title="Dare Me Temp 1",Dare Me 1x04
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51zBnSLk+ZL.jpg" group-title="Dare Me T1",cap. 04
 http://flowhd.xyz/HTML/series/Dare%20Me/1x4.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51zBnSLk+ZL.jpg" group-title="Dare Me Temp 1",Dare Me 1x05
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51zBnSLk+ZL.jpg" group-title="Dare Me T1",cap. 05
 http://flowhd.xyz/HTML/series/Dare%20Me/1x5.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51zBnSLk+ZL.jpg" group-title="Dare Me Temp 1",Dare Me 1x06
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51zBnSLk+ZL.jpg" group-title="Dare Me T1",cap. 1x06
 http://flowhd.xyz/HTML/series/Dare%20Me/1x6.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51zBnSLk+ZL.jpg" group-title="Dare Me Temp 1",Dare Me 1x07
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51zBnSLk+ZL.jpg" group-title="Dare Me T1",cap. 1x07
 http://flowhd.xyz/HTML/series/Dare%20Me/1x7.mp4
-####################################### Daredevil Temp 1 (Español)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Daredevil Temp 1",Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1000/1006/2_m3.jpg" group-title="Daredevil Temp 1",Daredevil 1x01
+
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1000/1006/2_m3.jpg" group-title="Daredevil T1",cap. 01
 http://flowhd.xyz/HTML/series/Daredevil/1/DD1.01%5bHD720p%5d.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1000/1006/2_m3.jpg" group-title="Daredevil Temp 1",Daredevil 1x02
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1000/1006/2_m3.jpg" group-title="Daredevil T1",cap. 02
 http://flowhd.xyz/HTML/series/Daredevil/1/DD1.02%5bHD720p%5d.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1000/1006/2_m3.jpg" group-title="Daredevil Temp 1",Daredevil 1x03
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1000/1006/2_m3.jpg" group-title="Daredevil T1",cap. 03
 http://flowhd.xyz/HTML/series/Daredevil/1/DD1.03%5bHD720p%5d.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1000/1006/2_m3.jpg" group-title="Daredevil Temp 1",Daredevil 1x04
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1000/1006/2_m3.jpg" group-title="Daredevil T1",cap. 04
 http://flowhd.xyz/HTML/series/Daredevil/1/DD1.04%5bHD720p%5d.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1000/1006/2_m3.jpg" group-title="Daredevil Temp 1",Daredevil 1x05
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1000/1006/2_m3.jpg" group-title="Daredevil T1",cap. 05
 http://flowhd.xyz/HTML/series/Daredevil/1/DD1.05%5bHD720p%5d.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1000/1006/2_m3.jpg" group-title="Daredevil Temp 1",Daredevil 1x06
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1000/1006/2_m3.jpg" group-title="Daredevil T1",cap. 06
 http://flowhd.xyz/HTML/series/Daredevil/1/DD1.06%5bHD720p%5d.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1000/1006/2_m3.jpg" group-title="Daredevil Temp 1",Daredevil 1x07
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1000/1006/2_m3.jpg" group-title="Daredevil T1",cap. 07
 http://flowhd.xyz/HTML/series/Daredevil/1/DD1.07%5bHD720p%5d.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1000/1006/2_m3.jpg" group-title="Daredevil Temp 1",Daredevil 1x08
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1000/1006/2_m3.jpg" group-title="Daredevil T1",cap. 08
 http://flowhd.xyz/HTML/series/Daredevil/1/DD1.08%5bHD720p%5d.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1000/1006/2_m3.jpg" group-title="Daredevil Temp 1",Daredevil 1x09
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1000/1006/2_m3.jpg" group-title="Daredevil T1",cap. 09
 http://flowhd.xyz/HTML/series/Daredevil/1/DD1.09%5bHD720p%5d.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1000/1006/2_m3.jpg" group-title="Daredevil Temp 1",Daredevil 1x10
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1000/1006/2_m3.jpg" group-title="Daredevil T1",cap. 10
 http://flowhd.xyz/HTML/series/Daredevil/1/DD1.10%5bHD720p%5d.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1000/1006/2_m3.jpg" group-title="Daredevil Temp 1",Daredevil 1x11
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1000/1006/2_m3.jpg" group-title="Daredevil T1",cap. 11
 http://flowhd.xyz/HTML/series/Daredevil/1/DD1.11%5bHD720p%5d.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1000/1006/2_m3.jpg" group-title="Daredevil Temp 1",Daredevil 1x12
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1000/1006/2_m3.jpg" group-title="Daredevil T1",cap. 12
 http://flowhd.xyz/HTML/series/Daredevil/1/DD1.12%5bHD720p%5d.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1000/1006/2_m3.jpg" group-title="Daredevil Temp 1",Daredevil 1x13
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1000/1006/2_m3.jpg" group-title="Daredevil T1",cap. 13
 http://flowhd.xyz/HTML/series/Daredevil/1/DD1.13%5bHD720p%5d.mp4
-####################################### Dave Temp 1 (Subtitulado)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Dave Temp 1",Subtitulado
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/02/14/08/26/5708559.jpg" group-title="Dave Temp 1",Dave 1x01
+
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/02/14/08/26/5708559.jpg" group-title="Dave T1",cap. 01
 http://flowhd.xyz/HTML/series/Dave/1x1.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/02/14/08/26/5708559.jpg" group-title="Dave Temp 1",Dave 1x02
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/02/14/08/26/5708559.jpg" group-title="Dave T1",cap. 02
 http://flowhd.xyz/HTML/series/Dave/1x2.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/02/14/08/26/5708559.jpg" group-title="Dave Temp 1",Dave 1x03
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/02/14/08/26/5708559.jpg" group-title="Dave T1",cap. 03
 http://flowhd.xyz/HTML/series/Dave/1x3.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/02/14/08/26/5708559.jpg" group-title="Dave Temp 1",Dave 1x04
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/02/14/08/26/5708559.jpg" group-title="Dave T1",cap. 04
 http://flowhd.xyz/HTML/series/Dave/1x4.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/02/14/08/26/5708559.jpg" group-title="Dave Temp 1",Dave 1x05
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/02/14/08/26/5708559.jpg" group-title="Dave T1",cap. 05
 http://flowhd.xyz/HTML/series/Dave/1x5.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/02/14/08/26/5708559.jpg" group-title="Dave Temp 1",Dave 1x06
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/02/14/08/26/5708559.jpg" group-title="Dave T1",cap. 06
 http://flowhd.xyz/HTML/series/Dave/1x6.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/02/14/08/26/5708559.jpg" group-title="Dave Temp 1",Dave 1x07
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/02/14/08/26/5708559.jpg" group-title="Dave T1",cap. 07
 http://flowhd.xyz/HTML/series/Dave/1x7.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/02/14/08/26/5708559.jpg" group-title="Dave Temp 1",Dave 1x08
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/02/14/08/26/5708559.jpg" group-title="Dave T1",cap. 08
 http://flowhd.xyz/HTML/series/Dave/1x8.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/02/14/08/26/5708559.jpg" group-title="Dave Temp 1",Dave 1x09
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/02/14/08/26/5708559.jpg" group-title="Dave T1",cap. 09
 http://flowhd.xyz/HTML/series/Dave/1x9.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/02/14/08/26/5708559.jpg" group-title="Dave Temp 1",Dave 1x10
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/02/14/08/26/5708559.jpg" group-title="Dave T1",cap. 10
 http://flowhd.xyz/HTML/series/Dave/1x10.mp4
-####################################### Deadwater Fell Temp 1 (Subtitulado)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Deadwater Fell Temp 1",Subtitulado
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/11/20/11/41/2738235.jpg" group-title="Deadwater Fell Temp 1",Deadwater Fell 1x01
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/11/20/11/41/2738235.jpg" group-title="Deadwater Fell T1",cap. 01
 http://flowhd.xyz/HTML/series/Deadwater%20Fell/1x1.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/11/20/11/41/2738235.jpg" group-title="Deadwater Fell Temp 1",Deadwater Fell 1x02
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/11/20/11/41/2738235.jpg" group-title="Deadwater Fell T1",cap. 02
 http://flowhd.xyz/HTML/series/Deadwater%20Fell/1x2.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/11/20/11/41/2738235.jpg" group-title="Deadwater Fell Temp 1",Deadwater Fell 1x03
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/11/20/11/41/2738235.jpg" group-title="Deadwater Fell T1",cap. 03
 http://flowhd.xyz/HTML/series/Deadwater%20Fell/1x3.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/11/20/11/41/2738235.jpg" group-title="Deadwater Fell Temp 1",Deadwater Fell 1x04
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/11/20/11/41/2738235.jpg" group-title="Deadwater Fell T1",cap. 04
 http://flowhd.xyz/HTML/series/Deadwater%20Fell/1x4.mp4
-####################################### Deputy Temp 1 (Subtitulado)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Deputy Temp 1",Subtitulado
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2000/2098/1_m1.jpg" group-title="Deputy Temp 1",Deputy 1x01
+
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2000/2098/1_m1.jpg" group-title="Deputy T1",cap. 01
 http://flowhd.xyz/HTML/series/Deputy/1x1.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2000/2098/1_m1.jpg" group-title="Deputy Temp 1",Deputy 1x02
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2000/2098/1_m1.jpg" group-title="Deputy T1",cap. 02
 http://flowhd.xyz/HTML/series/Deputy/1x2.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2000/2098/1_m1.jpg" group-title="Deputy Temp 1",Deputy 1x03
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2000/2098/1_m1.jpg" group-title="Deputy T1",cap. 03
 http://flowhd.xyz/HTML/series/Deputy/1x3.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2000/2098/1_m1.jpg" group-title="Deputy Temp 1",Deputy 1x04
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2000/2098/1_m1.jpg" group-title="Deputy T1",cap. 04
 http://flowhd.xyz/HTML/series/Deputy/1x4.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2000/2098/1_m1.jpg" group-title="Deputy Temp 1",Deputy 1x05
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2000/2098/1_m1.jpg" group-title="Deputy T1",cap. 05
 http://flowhd.xyz/HTML/series/Deputy/1x5.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2000/2098/1_m1.jpg" group-title="Deputy Temp 1",Deputy 1x06
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2000/2098/1_m1.jpg" group-title="Deputy T1",cap. 06
 http://flowhd.xyz/HTML/series/Deputy/1x6.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2000/2098/1_m1.jpg" group-title="Deputy Temp 1",Deputy 1x07
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2000/2098/1_m1.jpg" group-title="Deputy T1",cap. 07
 http://flowhd.xyz/HTML/series/Deputy/1x7.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2000/2098/1_m1.jpg" group-title="Deputy Temp 1",Deputy 1x08
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2000/2098/1_m1.jpg" group-title="Deputy T1",cap. 08
 http://flowhd.xyz/HTML/series/Deputy/1x8.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2000/2098/1_m1.jpg" group-title="Deputy Temp 1",Deputy 1x09
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2000/2098/1_m1.jpg" group-title="Deputy T1",cap. 09
 http://flowhd.xyz/HTML/series/Deputy/1x9.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2000/2098/1_m1.jpg" group-title="Deputy Temp 1",Deputy 1x10
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2000/2098/1_m1.jpg" group-title="Deputy T1",cap. 10
 http://flowhd.xyz/HTML/series/Deputy/1x10.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2000/2098/1_m1.jpg" group-title="Deputy Temp 1",Deputy 1x11
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2000/2098/1_m1.jpg" group-title="Deputy T1",cap. 11
 http://flowhd.xyz/HTML/series/Deputy/1x11.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2000/2098/1_m1.jpg" group-title="Deputy Temp 1",Deputy 1x12
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2000/2098/1_m1.jpg" group-title="Deputy T1",cap. 12
 http://flowhd.xyz/HTML/series/Deputy/1x12.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2000/2098/1_m1.jpg" group-title="Deputy Temp 1",Deputy 1x13
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2000/2098/1_m1.jpg" group-title="Deputy T1",cap. 13
 http://flowhd.xyz/HTML/series/Deputy/1x13.mp4
-####################################### Desenfrenadas Temp 1 (Español)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Desenfrenadas Temp 1",Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/01/21/23/58/2166448.jpg" group-title="Desenfrenadas Temp 1",Desenfrenadas 1x01
+
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/01/21/23/58/2166448.jpg" group-title="Desenfrenadas T1",cap. 01
 http://flowhd.xyz/HTML/series/Desenfrenadas/1x1.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/01/21/23/58/2166448.jpg" group-title="Desenfrenadas Temp 1",Desenfrenadas 1x02
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/01/21/23/58/2166448.jpg" group-title="Desenfrenadas T1",cap. 02
 http://flowhd.xyz/HTML/series/Desenfrenadas/1x2.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/01/21/23/58/2166448.jpg" group-title="Desenfrenadas Temp 1",Desenfrenadas 1x03
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/01/21/23/58/2166448.jpg" group-title="Desenfrenadas T1",cap. 03
 http://flowhd.xyz/HTML/series/Desenfrenadas/1x3.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/01/21/23/58/2166448.jpg" group-title="Desenfrenadas Temp 1",Desenfrenadas 1x04
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/01/21/23/58/2166448.jpg" group-title="Desenfrenadas T1",cap. 04
 http://flowhd.xyz/HTML/series/Desenfrenadas/1x4.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/01/21/23/58/2166448.jpg" group-title="Desenfrenadas Temp 1",Desenfrenadas 1x05
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/01/21/23/58/2166448.jpg" group-title="Desenfrenadas T1",cap. 05
 http://flowhd.xyz/HTML/series/Desenfrenadas/1x5.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/01/21/23/58/2166448.jpg" group-title="Desenfrenadas Temp 1",Desenfrenadas 1x06
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/01/21/23/58/2166448.jpg" group-title="Desenfrenadas T1",cap. 06
 http://flowhd.xyz/HTML/series/Desenfrenadas/1x6.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/01/21/23/58/2166448.jpg" group-title="Desenfrenadas Temp 1",Desenfrenadas 1x07
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/01/21/23/58/2166448.jpg" group-title="Desenfrenadas T1",cap. 07
 http://flowhd.xyz/HTML/series/Desenfrenadas/1x7.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/01/21/23/58/2166448.jpg" group-title="Desenfrenadas Temp 1",Desenfrenadas 1x08
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/01/21/23/58/2166448.jpg" group-title="Desenfrenadas T1",cap. 08
 http://flowhd.xyz/HTML/series/Desenfrenadas/1x8.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/01/21/23/58/2166448.jpg" group-title="Desenfrenadas Temp 1",Desenfrenadas 1x09
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/01/21/23/58/2166448.jpg" group-title="Desenfrenadas T1",cap. 09
 http://flowhd.xyz/HTML/series/Desenfrenadas/1x9.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/01/21/23/58/2166448.jpg" group-title="Desenfrenadas Temp 1",Desenfrenadas 1x10
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/01/21/23/58/2166448.jpg" group-title="Desenfrenadas T1",cap. 10
 http://flowhd.xyz/HTML/series/Desenfrenadas/1x10.mp4
-####################################### Devs Temp 1 (Subtitulado)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Devs Temp 1",Subtitulado
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/10/08/12/3935057.jpg" group-title="Devs Temp 1",Devs 1x01
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/10/08/12/3935057.jpg" group-title="Devs T1",cap. 01
 http://flowhd.xyz/HTML/series/Devs/1x1.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/10/08/12/3935057.jpg" group-title="Devs Temp 1",Devs 1x02
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/10/08/12/3935057.jpg" group-title="Devs T1",cap. 02
 http://flowhd.xyz/HTML/series/Devs/1x2.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/10/08/12/3935057.jpg" group-title="Devs Temp 1",Devs 1x03
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/10/08/12/3935057.jpg" group-title="Devs T1",cap. 03
 http://flowhd.xyz/HTML/series/Devs/1x3.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/10/08/12/3935057.jpg" group-title="Devs Temp 1",Devs 1x04
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/10/08/12/3935057.jpg" group-title="Devs T1",cap. 04
 http://flowhd.xyz/HTML/series/Devs/1x4.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/10/08/12/3935057.jpg" group-title="Devs Temp 1",Devs 1x05
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/10/08/12/3935057.jpg" group-title="Devs T1",cap. 05
 http://flowhd.xyz/HTML/series/Devs/1x5.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/10/08/12/3935057.jpg" group-title="Devs Temp 1",Devs 1x06
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/10/08/12/3935057.jpg" group-title="Devs T1",cap. 06
 http://flowhd.xyz/HTML/series/Devs/1x6.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/10/08/12/3935057.jpg" group-title="Devs Temp 1",Devs 1x07
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/10/08/12/3935057.jpg" group-title="Devs T1",cap. 07
 http://flowhd.xyz/HTML/series/Devs/1x7.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/10/08/12/3935057.jpg" group-title="Devs Temp 1",Devs 1x08
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/10/08/12/3935057.jpg" group-title="Devs T1",cap. 08
 http://flowhd.xyz/HTML/series/Devs/1x8.mp4
-####################################### Diablero Temp 1 (Español)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Diablero Temp 1",Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/10/29/16/59/4205490.jpg" group-title="Diablero Temp 1",Diablero 1x01
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/10/29/16/59/4205490.jpg" group-title="Diablero T1",cap. 01
 http://flowhd.xyz/HTML/series/Diablero/1x1.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/10/29/16/59/4205490.jpg" group-title="Diablero Temp 1",Diablero 1x02
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/10/29/16/59/4205490.jpg" group-title="Diablero T1",cap. 02
 http://flowhd.xyz/HTML/series/Diablero/1x2.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/10/29/16/59/4205490.jpg" group-title="Diablero Temp 1",Diablero 1x03
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/10/29/16/59/4205490.jpg" group-title="Diablero T1",cap. 03
 http://flowhd.xyz/HTML/series/Diablero/1x3.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/10/29/16/59/4205490.jpg" group-title="Diablero Temp 1",Diablero 1x04
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/10/29/16/59/4205490.jpg" group-title="Diablero T1",cap. 04
 http://flowhd.xyz/HTML/series/Diablero/1x4.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/10/29/16/59/4205490.jpg" group-title="Diablero Temp 1",Diablero 1x05
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/10/29/16/59/4205490.jpg" group-title="Diablero T1",cap. 05
 http://flowhd.xyz/HTML/series/Diablero/1x5.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/10/29/16/59/4205490.jpg" group-title="Diablero Temp 1",Diablero 1x06
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/10/29/16/59/4205490.jpg" group-title="Diablero T1",cap. 06
 http://flowhd.xyz/HTML/series/Diablero/1x6.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/10/29/16/59/4205490.jpg" group-title="Diablero Temp 1",Diablero 1x07
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/10/29/16/59/4205490.jpg" group-title="Diablero T1",cap. 07
 http://flowhd.xyz/HTML/series/Diablero/1x7.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/10/29/16/59/4205490.jpg" group-title="Diablero Temp 1",Diablero 1x08
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/10/29/16/59/4205490.jpg" group-title="Diablero T1",cap. 08
 http://flowhd.xyz/HTML/series/Diablero/1x8.mp4
-####################################### Diablero Temp 2 (Español)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Diablero Temp 2",Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b8/de/a8/b8dea8587b96acd01b4d5eeff923dba6.jpg" group-title="Diablero Temp 2",Diablero 2x01
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b8/de/a8/b8dea8587b96acd01b4d5eeff923dba6.jpg" group-title="Diablero T2",cap. 01
 http://flowhd.xyz/HTML/series/Diablero/2/2x1.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b8/de/a8/b8dea8587b96acd01b4d5eeff923dba6.jpg" group-title="Diablero Temp 2",Diablero 2x02
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b8/de/a8/b8dea8587b96acd01b4d5eeff923dba6.jpg" group-title="Diablero T2",cap. 02
 http://flowhd.xyz/HTML/series/Diablero/2/2x2.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b8/de/a8/b8dea8587b96acd01b4d5eeff923dba6.jpg" group-title="Diablero Temp 2",Diablero 2x03
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b8/de/a8/b8dea8587b96acd01b4d5eeff923dba6.jpg" group-title="Diablero T2",cap. 03
 http://flowhd.xyz/HTML/series/Diablero/2/2x3.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b8/de/a8/b8dea8587b96acd01b4d5eeff923dba6.jpg" group-title="Diablero Temp 2",Diablero 2x04
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b8/de/a8/b8dea8587b96acd01b4d5eeff923dba6.jpg" group-title="Diablero T2",cap. 04
 http://flowhd.xyz/HTML/series/Diablero/2/2x4.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b8/de/a8/b8dea8587b96acd01b4d5eeff923dba6.jpg" group-title="Diablero Temp 2",Diablero 2x05
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b8/de/a8/b8dea8587b96acd01b4d5eeff923dba6.jpg" group-title="Diablero T2",cap. 05
 http://flowhd.xyz/HTML/series/Diablero/2/2x5.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b8/de/a8/b8dea8587b96acd01b4d5eeff923dba6.jpg" group-title="Diablero Temp 2",Diablero 2x06
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b8/de/a8/b8dea8587b96acd01b4d5eeff923dba6.jpg" group-title="Diablero T2",cap. 06
 http://flowhd.xyz/HTML/series/Diablero/2/2x6.mp4
-####################################### Diario de una Futura Presidenta Temp 1 (Subtitulado)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Diary of a Future President Temp 1",Subtitulado
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/diario-de-una-futura-presidenta-1580919033.jpg" group-title="Diary of a Future President Temp 1",Diario de una Futura Presidenta Temp 1 1x01
+
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/diario-de-una-futura-presidenta-1580919033.jpg" group-title="Diario de una Futura Presidenta T1",cap. 01
 http://flowhd.xyz/HTML/series/Diary%20of%20a%20Future%20President/1x1.mp4
-#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/diario-de-una-futura-presidenta-1580919033.jpg" group-title="Diary of a Future President Temp 1",Diario de una Futura Presidenta Temp 1 1x02
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/diario-de-una-futura-presidenta-1580919033.jpg" group-title="Diario de una Futura Presidenta T1",cap. 02
 http://flowhd.xyz/HTML/series/Diary%20of%20a%20Future%20President/1x2.mp4
-#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/diario-de-una-futura-presidenta-1580919033.jpg" group-title="Diary of a Future President Temp 1",Diario de una Futura Presidenta Temp 1 1x03
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/diario-de-una-futura-presidenta-1580919033.jpg" group-title="Diario de una Futura Presidenta T1",cap. 03
 http://flowhd.xyz/HTML/series/Diary%20of%20a%20Future%20President/1x3.mp4
-#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/diario-de-una-futura-presidenta-1580919033.jpg" group-title="Diary of a Future President Temp 1",Diario de una Futura Presidenta Temp 1 1x04
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/diario-de-una-futura-presidenta-1580919033.jpg" group-title="Diario de una Futura Presidenta T1",cap. 04
 http://flowhd.xyz/HTML/series/Diary%20of%20a%20Future%20President/1x4.mp4
-#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/diario-de-una-futura-presidenta-1580919033.jpg" group-title="Diary of a Future President Temp 1",Diario de una Futura Presidenta Temp 1 1x05
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/diario-de-una-futura-presidenta-1580919033.jpg" group-title="Diario de una Futura Presidenta T1",cap. 05
 http://flowhd.xyz/HTML/series/Diary%20of%20a%20Future%20President/1x5.mp4
-#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/diario-de-una-futura-presidenta-1580919033.jpg" group-title="Diary of a Future President Temp 1",Diario de una Futura Presidenta Temp 1 1x06
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/diario-de-una-futura-presidenta-1580919033.jpg" group-title="Diario de una Futura Presidenta T1",cap. 06
 http://flowhd.xyz/HTML/series/Diary%20of%20a%20Future%20President/1x6.mp4
-#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/diario-de-una-futura-presidenta-1580919033.jpg" group-title="Diary of a Future President Temp 1",Diario de una Futura Presidenta Temp 1 1x07
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/diario-de-una-futura-presidenta-1580919033.jpg" group-title="Diario de una Futura Presidenta T1",cap. 07
 http://flowhd.xyz/HTML/series/Diary%20of%20a%20Future%20President/1x7.mp4
-#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/diario-de-una-futura-presidenta-1580919033.jpg" group-title="Diary of a Future President Temp 1",Diario de una Futura Presidenta Temp 1 1x08
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/diario-de-una-futura-presidenta-1580919033.jpg" group-title="Diario de una Futura Presidenta T1",cap. 08
 http://flowhd.xyz/HTML/series/Diary%20of%20a%20Future%20President/1x8.mp4
-#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/diario-de-una-futura-presidenta-1580919033.jpg" group-title="Diary of a Future President Temp 1",Diario de una Futura Presidenta Temp 1 1x09
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/diario-de-una-futura-presidenta-1580919033.jpg" group-title="Diario de una Futura Presidenta T1",cap. 09
 http://flowhd.xyz/HTML/series/Diary%20of%20a%20Future%20President/1x9.mp4
-#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/diario-de-una-futura-presidenta-1580919033.jpg" group-title="Diary of a Future President Temp 1",Diario de una Futura Presidenta Temp 1 1x10
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/diario-de-una-futura-presidenta-1580919033.jpg" group-title="Diario de una Futura Presidenta T1",cap. 10
 http://flowhd.xyz/HTML/series/Diary%20of%20a%20Future%20President/1x10.mp4
-####################################### Dracula Temp 1 (Subtitulado)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Dracula Temp 1",Subtitulado
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/14/11/22/4158569.jpg" group-title="Dracula Temp 1",Dracula 1x01
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/14/11/22/4158569.jpg" group-title="Dracula T1",cap. 01
 http://flowhd.xyz/HTML/series/Dracula/1x1.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/14/11/22/4158569.jpg" group-title="Dracula Temp 1",Dracula 1x02
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/14/11/22/4158569.jpg" group-title="Dracula T1",cap. 02
 http://flowhd.xyz/HTML/series/Dracula/1x2.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/14/11/22/4158569.jpg" group-title="Dracula Temp 1",Dracula 1x03
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/14/11/22/4158569.jpg" group-title="Dracula T1",cap. 03
 http://flowhd.xyz/HTML/series/Dracula/1x3.mp4
 ####################################### Dystopia Temp 1 (Subtitulado)
 #EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Dystopia Temp 1",Subtitulado
