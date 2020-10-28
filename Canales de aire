@@ -17,7 +17,7 @@ http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 http://streamyes.alsolnet.com:1935/canal4sanjuan/live/chunklist.m3u8
 #EXTINF:-1 ,ARG: Canal 4 San Juan Alt
 http://streamyes.alsolnet.com:1935/canal4sanjuan/live/chunklist_w931974462.m3u8
-#EXTINF:-1 ,ARG: Canal 4 San Juan Alt 2
+#EXTINF:-1 ,ARG: Canal 4 San Posadas
 http://184.154.28.210:1935/canal4/canal4/playlist.m3u8?TeamIptv
 #EXTINF:-1 ,ARG: Canal 5 Tigre
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
@@ -30,20 +30,14 @@ http://stream.chubut.gov.ar:1935/C7/vivo.stream/playlist.m3u8
 https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/chunklist.m3u8?TeamIptv
 #EXTINF:-1 ,ARG: Canal 9 Multivision
 http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
-#EXTINF:-1 ,ARG: Canal 10 Cordoba
-http://wowzaprod169-i.akamaihd.net/hls/live/630337/59e4c1ec/playlist.m3u8?TeamIptv
 #EXTINF:-1 ,ARG: Canal 10 Rio Negro
 http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
-#EXTINF:-1 ,ARG: Canal 10 TVP
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0108?TeamIptv
 #EXTINF:-1 ,ARG: Canal 13 La Rioja
 http://arcast.net:1935/mp/mp/playlist.m3u8?TeamIptv
 #EXTINF:-1 ,ARG: Canal 26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 ,ARG: Canal 26 Alt
 http://200.115.193.177/live/26hd-720/playlist.m3u8
-#EXTINF:-1 ,ARG: Canal Local Buenos Aires
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0089?TeamIptv
 #EXTINF:-1 ,ARG: Canal Provincial
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 #EXTINF:-1 ,ARG: Ciudad Tv Chaco
