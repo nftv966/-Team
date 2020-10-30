@@ -916,6 +916,10 @@ http://flowhd.xyz/HTML/series/Chernoby/1x4.mp4
 #EXTINF:-1 tvg-logo="https://infoliteraria.com/wp-content/uploads/2019/09/Chernobil.jpg" group-title="Chernobyl T1",cap. 05
 http://flowhd.xyz/HTML/series/Chernoby/1x5.mp4
 
+####################################### Chicago Fire T1 Amazon Prime
+#EXTINF:-1 tvg-logo="https://www.pdvg.it/wp-content/uploads/2020/02/amazon-prime-video-pdvg.png" group-title="Chicago Fire T1",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire T1",cap. 01
 http://flowhd.xyz/HTML/series/CHICAGO%20FIRE/1/CF%20ByGus%201x1%20Lat.mp4
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire T1",cap. 02
