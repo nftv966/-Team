@@ -1272,6 +1272,10 @@ http://flowhd.xyz/HTML/series/Gold%20Digger/1x5.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91WMqrR5LgL._SY445_.jpg" group-title="El Caza Fortunas T1",cap. 06
 http://flowhd.xyz/HTML/series/Gold%20Digger/1x6.mp4
 
+####################################### El Chema T1 Telemundo
+#EXTINF:-1 tvg-logo="https://www.brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg" group-title="El Chema T1",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/3a/7f/c3/3a7fc32c58968a14a4660a0dd6bb8a3e.jpg" group-title="El Chema T1",01-Extradicion dilatada
 http://62.210.190.73/Series/El%20chema/T1/El%20Chema_S01E01_Extradicion%20dilatada.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/3a/7f/c3/3a7fc32c58968a14a4660a0dd6bb8a3e.jpg" group-title="El Chema T1",02-Espectacular fuga
@@ -1441,6 +1445,10 @@ http://62.210.190.73/Series/El%20chema/T1/El%20Chema_S01E83_Maquina%20de%20matar
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/3a/7f/c3/3a7fc32c58968a14a4660a0dd6bb8a3e.jpg" group-title="El Chema T1",84-Merca maldita
 http://62.210.190.73/Series/El%20chema/T1/El%20Chema_S01E84_Merca%20maldita.mp4
 
+####################################### El Comandante T1 RCN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png" group-title="El Comandante T1",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/02/22/17/10/333897.jpg" group-title="El Comandante T1",cap. 001
 http://62.210.190.73/Series/El%20comandante/El%20Comandande%20S01E01.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/02/22/17/10/333897.jpg" group-title="El Comandante T1",cap. 002
