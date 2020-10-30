@@ -596,6 +596,10 @@ http://flowhd.xyz/HTML/series/Love%20101/1x7.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/r_1280_720/pictures/20/04/06/10/25/5101172.png" group-title="Amor 101 T1",cap. 08
 http://flowhd.xyz/HTML/series/Love%20101/1x8.mp4
 
+####################################### Ana T1 Comedy Central
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/11f73ddf9ac6bcf550a8817c4024fe0e206e460ebf724c45a60273604f8e6308.png" group-title="Ana T1",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
 #EXTINF:-1 tvg-logo="https://media.metrolatam.com/2020/04/15/anapinkdressfina-2e8477ecce1a9a0b2cf11a23cb2d19fa-0x1200.jpg" group-title="Ana T1",cap. 01
 http://flowhd.xyz/HTML/series/ANA%20SERIE/Series%20Tu%20Latino%20-%20LTV.mp4
 #EXTINF:-1 tvg-logo="https://media.metrolatam.com/2020/04/15/anapinkdressfina-2e8477ecce1a9a0b2cf11a23cb2d19fa-0x1200.jpg" group-title="Ana T1",cap. 02
