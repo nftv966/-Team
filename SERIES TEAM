@@ -1122,6 +1122,10 @@ http://flowhd.xyz/HTML/series/Desenfrenadas/1x9.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/01/21/23/58/2166448.jpg" group-title="Desenfrenadas T1",cap. 10
 http://flowhd.xyz/HTML/series/Desenfrenadas/1x10.mp4
 
+####################################### Devs T1 FX
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2019/05/channe-png-1.png" group-title="Devs T1",Idioma: Subtitulado
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/10/08/12/3935057.jpg" group-title="Devs T1",cap. 01
 http://flowhd.xyz/HTML/series/Devs/1x1.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/10/08/12/3935057.jpg" group-title="Devs T1",cap. 02
@@ -1139,6 +1143,10 @@ http://flowhd.xyz/HTML/series/Devs/1x7.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/10/08/12/3935057.jpg" group-title="Devs T1",cap. 08
 http://flowhd.xyz/HTML/series/Devs/1x8.mp4
 
+####################################### Diablero T1 Netflix
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Diablero T1",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/10/29/16/59/4205490.jpg" group-title="Diablero T1",cap. 01
 http://flowhd.xyz/HTML/series/Diablero/1x1.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/10/29/16/59/4205490.jpg" group-title="Diablero T1",cap. 02
@@ -1156,6 +1164,10 @@ http://flowhd.xyz/HTML/series/Diablero/1x7.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/10/29/16/59/4205490.jpg" group-title="Diablero T1",cap. 08
 http://flowhd.xyz/HTML/series/Diablero/1x8.mp4
 
+####################################### Diablero T2 Netflix
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Diablero T2",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b8/de/a8/b8dea8587b96acd01b4d5eeff923dba6.jpg" group-title="Diablero T2",cap. 01
 http://flowhd.xyz/HTML/series/Diablero/2/2x1.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b8/de/a8/b8dea8587b96acd01b4d5eeff923dba6.jpg" group-title="Diablero T2",cap. 02
