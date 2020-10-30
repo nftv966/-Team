@@ -646,6 +646,10 @@ http://playtv.tech/HTML/CONTENIDO/SERIES/Another%20Life/14811.mp4
 #EXTINF:-1 tvg-logo="https://www.seriecanal.com/data/images/rss/4791.jpg" group-title="Another Life T1",cap. 10
 http://playtv.tech/HTML/CONTENIDO/SERIES/Another%20Life/14812.mp4
 
+####################################### Ares T1 Netflix
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Ares T1",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/23/12/37/2549126.jpg" group-title="Ares T1",cap. 01
 http://flowhd.xyz/HTML/series/Ares/1x1.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/23/12/37/2549126.jpg" group-title="Ares T1",cap. 02
@@ -663,6 +667,10 @@ http://flowhd.xyz/HTML/series/Ares/1x7.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/23/12/37/2549126.jpg" group-title="Ares T1",cap. 08
 http://flowhd.xyz/HTML/series/Ares/1x8.mp4
 
+####################################### Avenida 5 T1 HBO GO
+#EXTINF:-1 tvg-logo="https://cdn.iconscout.com/icon/free/png-512/hbo-go-2-569347.png" group-title="Avenida 5 T1",Idioma: Subtitulado
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/12/11/11/15/5614301.jpg" group-title="Avenida 5 T1",cap. 01
 http://flowhd.xyz/HTML/series/Avenue%205/1x1.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/12/11/11/15/5614301.jpg" group-title="Avenida 5 T1",cap. 02
