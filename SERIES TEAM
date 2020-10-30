@@ -1028,6 +1028,10 @@ http://flowhd.xyz/HTML/series/Daredevil/1/DD1.12%5bHD720p%5d.mp4
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1000/1006/2_m3.jpg" group-title="Daredevil T1",cap. 13
 http://flowhd.xyz/HTML/series/Daredevil/1/DD1.13%5bHD720p%5d.mp4
 
+####################################### Dave T1 FX
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2019/05/channe-png-1.png" group-title="Dave T1",Idioma: Subtitulado
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/02/14/08/26/5708559.jpg" group-title="Dave T1",cap. 01
 http://flowhd.xyz/HTML/series/Dave/1x1.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/02/14/08/26/5708559.jpg" group-title="Dave T1",cap. 02
@@ -1049,6 +1053,10 @@ http://flowhd.xyz/HTML/series/Dave/1x9.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/02/14/08/26/5708559.jpg" group-title="Dave T1",cap. 10
 http://flowhd.xyz/HTML/series/Dave/1x10.mp4
 
+####################################### Deadwater Fell T1 CHANNEL 4
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/channel-4-1-logo-png-transparent.png" group-title="Deadwater Fell T1",Idioma: Subtitulado
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/11/20/11/41/2738235.jpg" group-title="Deadwater Fell T1",cap. 01
 http://flowhd.xyz/HTML/series/Deadwater%20Fell/1x1.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/11/20/11/41/2738235.jpg" group-title="Deadwater Fell T1",cap. 02
