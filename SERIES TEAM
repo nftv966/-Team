@@ -1066,6 +1066,10 @@ http://flowhd.xyz/HTML/series/Deadwater%20Fell/1x3.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/11/20/11/41/2738235.jpg" group-title="Deadwater Fell T1",cap. 04
 http://flowhd.xyz/HTML/series/Deadwater%20Fell/1x4.mp4
 
+####################################### Deputy T1 Fox
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/fox-tv-logo-png-2.png" group-title="Deputy T1",Idioma: Subtitulado
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2000/2098/1_m1.jpg" group-title="Deputy T1",cap. 01
 http://flowhd.xyz/HTML/series/Deputy/1x1.mp4
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2000/2098/1_m1.jpg" group-title="Deputy T1",cap. 02
