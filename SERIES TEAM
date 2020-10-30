@@ -1182,7 +1182,7 @@ http://flowhd.xyz/HTML/series/Diablero/2/2x5.mp4
 http://flowhd.xyz/HTML/series/Diablero/2/2x6.mp4
 
 ####################################### Diario de una Futura Presidenta T1 DISNEY PLUS
-#EXTINF:-1 tvg-logo="https://www.karlosperu.com/wp-content/uploads/2020/03/1200px-Disney_logo.svg_.png" group-title="Diario de una Futura Presidenta T1",Idioma: Subtitulado
+#EXTINF:-1 tvg-logo="https://icdn9.digitaltrends.com/image/digitaltrends_es/disney-plus-logo-streaming-topic-500x500.jpg" group-title="Diario de una Futura Presidenta T1",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
 #EXTINF:-1 tvg-logo="https://img.repelis.id/cover/diario-de-una-futura-presidenta-1580919033.jpg" group-title="Diario de una Futura Presidenta T1",cap. 01
@@ -1238,6 +1238,10 @@ http://flowhd.xyz/HTML/series/Dystopia/1x7.mp4
 #EXTINF:-1 tvg-logo="https://elegirhoy.com/uploads/fichas-eventos-imagenes/madworld.jpg" group-title="Dystopia T1",cap. 08
 http://flowhd.xyz/HTML/series/Dystopia/1x8.mp4
 
+####################################### El ascenso de un imperio T1 Netflix
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="El ascenso de un imperio T1",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
 #EXTINF:-1 tvg-logo="https://yestorrent.net/wp-content/uploads/2020/05/2bbdNmJo49TopIRtKd1W2a9lloF.jpg" group-title="El ascenso de un imperio T1",cap. 01
 http://flowhd.xyz/HTML/series/El%20ascenso%20de%20un%20imperio/1x1.mp4
 #EXTINF:-1 tvg-logo="https://yestorrent.net/wp-content/uploads/2020/05/2bbdNmJo49TopIRtKd1W2a9lloF.jpg" group-title="El ascenso de un imperio T1",cap. 02
@@ -1251,6 +1255,10 @@ http://flowhd.xyz/HTML/series/El%20ascenso%20de%20un%20imperio/1x5.mp4
 #EXTINF:-1 tvg-logo="https://yestorrent.net/wp-content/uploads/2020/05/2bbdNmJo49TopIRtKd1W2a9lloF.jpg" group-title="El ascenso de un imperio T1",cap. 06
 http://flowhd.xyz/HTML/series/El%20ascenso%20de%20un%20imperio/1x6.mp4
 
+####################################### El Caza Fortunas T1 BBC
+#EXTINF:-1 tvg-logo="https://www.supertalk.fm/wp-content/uploads/2020/07/bbc.png" group-title="El Caza Fortunas T1",Idioma: Subtitulado
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91WMqrR5LgL._SY445_.jpg" group-title="El Caza Fortunas T1",cap. 01
 http://flowhd.xyz/HTML/series/Gold%20Digger/1x1.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91WMqrR5LgL._SY445_.jpg" group-title="El Caza Fortunas T1",cap. 02
