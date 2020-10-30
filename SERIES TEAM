@@ -736,6 +736,10 @@ http://flowhd.xyz/HTML/series/Bajo%20Sospecha/2/2x9.mp4
 #EXTINF:-1 tvg-logo="https://imagessl7.casadellibro.com/m/ig/7/2982097.jpg" group-title="Bajo Sospecha T2",cap. 10
 http://flowhd.xyz/HTML/series/Bajo%20Sospecha/2/2x10.mp4
 
+####################################### BatWoman T1 Warner bros
+#EXTINF:-1 tvg-logo="https://www.multivu.com/players/uk/8091351-miral-reveals-warner-bros-world-abu-dhabi/image/wb-logo-2-HR.png" group-title="BatWoman T1",Idioma: Subtitulado
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/27/19/28/3893220.jpg" group-title="BatWoman T1",cap. 01
 http://flowhd.xyz/HTML/series/BatWoman/1x1.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/27/19/28/3893220.jpg" group-title="BatWoman T1",cap. 02
@@ -774,8 +778,9 @@ http://flowhd.xyz/HTML/series/BatWoman/1x17.mp4
 http://flowhd.xyz/HTML/series/BatWoman/1x18.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/27/19/28/3893220.jpg" group-title="BatWoman T1",cap. 19
 http://flowhd.xyz/HTML/series/BatWoman/1x19.mp4
-####################################### BlackAF (Subtitulado)
-#EXTINF:-1 tvg-logo="https://ennetflix.co/media/21/blackaf_81056700.jpg" group-title="BlackAF",Subtitulado
+
+####################################### BlackAF Netflix
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="BlackAF",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
 #EXTINF:-1 tvg-logo="https://ennetflix.co/media/21/blackaf_81056700.jpg" group-title="BlackAF",cap. 01
@@ -795,6 +800,10 @@ http://flowhd.xyz/HTML/series/blackAF/1x7.mp4
 #EXTINF:-1 tvg-logo="https://ennetflix.co/media/21/blackaf_81056700.jpg" group-title="BlackAF",cap. 08
 http://flowhd.xyz/HTML/series/blackAF/1x8.mp4
 
+####################################### Breeders T1 FX
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2019/05/channe-png-1.png" group-title="Breeders T1",Idioma: Subtitulado
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/13/09/44/5930030.jpg" group-title="Breeders T1",cap. 01
 http://flowhd.xyz/HTML/series/Breeders/1x1.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/13/09/44/5930030.jpg" group-title="Breeders T1",cap. 02
