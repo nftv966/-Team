@@ -3969,7 +3969,7 @@ http://flowhd.xyz/HTML/series/Noughts%20%20Crosses/1x3.mp4
 http://flowhd.xyz/HTML/series/Noughts%20%20Crosses/1x4.mp4
 
 ####################################### Obreros Milagrosos Temp 1 TBS
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_tbs-hd_m.png" group-title="Obreros Milagrosos Temp 1",Subtitulado
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_tbs-hd_m.png" group-title="Obreros Milagrosos Temp 1",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/12/28/10/00/1575994.jpg" group-title="Obreros Milagrosos Temp 1",Cap. 01
@@ -3988,7 +3988,7 @@ http://flowhd.xyz/HTML/series/Miracle%20Workers/1/1x6.mp4
 http://flowhd.xyz/HTML/series/Miracle%20Workers/1/1x7.mp4
 
 ####################################### Obreros Milagrosos: Era Oscura Temp 2 TBS
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_tbs-hd_m.png" group-title="Obreros Milagrosos: Era Oscura Temp 2",Subtitulado
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_tbs-hd_m.png" group-title="Obreros Milagrosos: Era Oscura Temp 2",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1900/1952/2_m3.jpg" group-title="Obreros Milagrosos: Era Oscura Temp 2",Cap. 01
@@ -4147,188 +4147,194 @@ http://playtv.tech/HTML/SERVER1/SERIES/1operacion%20pacifico/1x43.mp4
 #EXTINF:-1 tvg-logo="https://wlext.is/wp-content/uploads/2020/02/Operaci%C3%B3n-Pac%C3%ADfico-2020-Spanish-Language-Telenovela-HD-Streaming-with-English-Subtitles-258x379.jpg" group-title="Operacion Pacifico Temp 1",Cap. 44
 http://playtv.tech/HTML/SERVER1/SERIES/1operacion%20pacifico/1x44.mp4
 
-####################################### Orange Is the New Black Temp 1 (Español)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Orange Is the New Black Temp 1",Español
+####################################### Orange Is the New Black Temp 1 Netflix
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Orange Is the New Black Temp 1",Idioma: Español
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/800/826/3_m3.jpg" group-title="Orange Is the New Black Temp 1",Orange Is the New Black 1x01
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/800/826/3_m3.jpg" group-title="Orange Is the New Black Temp 1",Cap. 01
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%201/Orange%20Is%20the%20New%20Black%201x01.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/800/826/3_m3.jpg" group-title="Orange Is the New Black Temp 1",Orange Is the New Black 1x02
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/800/826/3_m3.jpg" group-title="Orange Is the New Black Temp 1",Cap. 02
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%201/Orange%20Is%20the%20New%20Black%201x02.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/800/826/3_m3.jpg" group-title="Orange Is the New Black Temp 1",Orange Is the New Black 1x03
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/800/826/3_m3.jpg" group-title="Orange Is the New Black Temp 1",Cap. 03
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%201/Orange%20Is%20the%20New%20Black%201x03.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/800/826/3_m3.jpg" group-title="Orange Is the New Black Temp 1",Orange Is the New Black 1x04
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/800/826/3_m3.jpg" group-title="Orange Is the New Black Temp 1",Cap. 04
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%201/Orange%20Is%20the%20New%20Black%201x04.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/800/826/3_m3.jpg" group-title="Orange Is the New Black Temp 1",Orange Is the New Black 1x05
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/800/826/3_m3.jpg" group-title="Orange Is the New Black Temp 1",Cap. 05
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%201/Orange%20Is%20the%20New%20Black%201x05.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/800/826/3_m3.jpg" group-title="Orange Is the New Black Temp 1",Orange Is the New Black 1x06
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/800/826/3_m3.jpg" group-title="Orange Is the New Black Temp 1",Cap. 06
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%201/Orange%20Is%20the%20New%20Black%201x06.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/800/826/3_m3.jpg" group-title="Orange Is the New Black Temp 1",Orange Is the New Black 1x07
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/800/826/3_m3.jpg" group-title="Orange Is the New Black Temp 1",Cap. 07
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%201/Orange%20Is%20the%20New%20Black%201x07.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/800/826/3_m3.jpg" group-title="Orange Is the New Black Temp 1",Orange Is the New Black 1x08
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/800/826/3_m3.jpg" group-title="Orange Is the New Black Temp 1",Cap. 08
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%201/Orange%20Is%20the%20New%20Black%201x08.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/800/826/3_m3.jpg" group-title="Orange Is the New Black Temp 1",Orange Is the New Black 1x09
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/800/826/3_m3.jpg" group-title="Orange Is the New Black Temp 1",Cap. 09
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%201/Orange%20Is%20the%20New%20Black%201x09.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/800/826/3_m3.jpg" group-title="Orange Is the New Black Temp 1",Orange Is the New Black 1x10
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/800/826/3_m3.jpg" group-title="Orange Is the New Black Temp 1",Cap. 10
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%201/Orange%20Is%20the%20New%20Black%201x10.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/800/826/3_m3.jpg" group-title="Orange Is the New Black Temp 1",Orange Is the New Black 1x11
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/800/826/3_m3.jpg" group-title="Orange Is the New Black Temp 1",Cap. 11
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%201/Orange%20Is%20the%20New%20Black%201x11.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/800/826/3_m3.jpg" group-title="Orange Is the New Black Temp 1",Orange Is the New Black 1x12
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/800/826/3_m3.jpg" group-title="Orange Is the New Black Temp 1",Cap. 12
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%201/Orange%20Is%20the%20New%20Black%201x12.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/800/826/3_m3.jpg" group-title="Orange Is the New Black Temp 1",Orange Is the New Black 1x13
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/800/826/3_m3.jpg" group-title="Orange Is the New Black Temp 1",Cap. 13
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%201/Orange%20Is%20the%20New%20Black%201x13.mp4
-####################################### Orange Is the New Black Temp 2 (Español)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Orange Is the New Black Temp 2",Español
+
+####################################### Orange Is the New Black Temp 2 Netflix
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Orange Is the New Black Temp 2",Idioma: Español
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/05/26/14/18/466118.jpg" group-title="Orange Is the New Black Temp 2",Orange Is the New Black 2x01
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/05/26/14/18/466118.jpg" group-title="Orange Is the New Black Temp 2",Cap. 01
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%202/Orange%20Is%20the%20New%20Black%202x01.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/05/26/14/18/466118.jpg" group-title="Orange Is the New Black Temp 2",Orange Is the New Black 2x02
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/05/26/14/18/466118.jpg" group-title="Orange Is the New Black Temp 2",Cap. 02
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%202/Orange%20Is%20the%20New%20Black%202x02.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/05/26/14/18/466118.jpg" group-title="Orange Is the New Black Temp 2",Orange Is the New Black 2x03
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/05/26/14/18/466118.jpg" group-title="Orange Is the New Black Temp 2",Cap. 03
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%202/Orange%20Is%20the%20New%20Black%202x03.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/05/26/14/18/466118.jpg" group-title="Orange Is the New Black Temp 2",Orange Is the New Black 2x04
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/05/26/14/18/466118.jpg" group-title="Orange Is the New Black Temp 2",Cap. 04
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%202/Orange%20Is%20the%20New%20Black%202x04.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/05/26/14/18/466118.jpg" group-title="Orange Is the New Black Temp 2",Orange Is the New Black 2x05
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/05/26/14/18/466118.jpg" group-title="Orange Is the New Black Temp 2",Cap. 05
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%202/Orange%20Is%20the%20New%20Black%202x05.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/05/26/14/18/466118.jpg" group-title="Orange Is the New Black Temp 2",Orange Is the New Black 2x06
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/05/26/14/18/466118.jpg" group-title="Orange Is the New Black Temp 2",Cap. 06
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%202/Orange%20Is%20the%20New%20Black%202x06.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/05/26/14/18/466118.jpg" group-title="Orange Is the New Black Temp 2",Orange Is the New Black 2x07
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/05/26/14/18/466118.jpg" group-title="Orange Is the New Black Temp 2",Cap. 07
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%202/Orange%20Is%20the%20New%20Black%202x07.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/05/26/14/18/466118.jpg" group-title="Orange Is the New Black Temp 2",Orange Is the New Black 2x08
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/05/26/14/18/466118.jpg" group-title="Orange Is the New Black Temp 2",Cap. 08
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%202/Orange%20Is%20the%20New%20Black%202x08.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/05/26/14/18/466118.jpg" group-title="Orange Is the New Black Temp 2",Orange Is the New Black 2x09
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/05/26/14/18/466118.jpg" group-title="Orange Is the New Black Temp 2",Cap. 09
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%202/Orange%20Is%20the%20New%20Black%202x09.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/05/26/14/18/466118.jpg" group-title="Orange Is the New Black Temp 2",Orange Is the New Black 2x10
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/05/26/14/18/466118.jpg" group-title="Orange Is the New Black Temp 2",Cap. 10
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%202/Orange%20Is%20the%20New%20Black%202x10.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/05/26/14/18/466118.jpg" group-title="Orange Is the New Black Temp 2",Orange Is the New Black 2x11
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/05/26/14/18/466118.jpg" group-title="Orange Is the New Black Temp 2",Cap. 11
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%202/Orange%20Is%20the%20New%20Black%202x11.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/05/26/14/18/466118.jpg" group-title="Orange Is the New Black Temp 2",Orange Is the New Black 2x12
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/05/26/14/18/466118.jpg" group-title="Orange Is the New Black Temp 2",Cap. 12
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%202/Orange%20Is%20the%20New%20Black%202x12.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/05/26/14/18/466118.jpg" group-title="Orange Is the New Black Temp 2",Orange Is the New Black 2x13
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/05/26/14/18/466118.jpg" group-title="Orange Is the New Black Temp 2",Cap. 13
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%202/Orange%20Is%20the%20New%20Black%202x13.mp4
-####################################### Orange Is the New Black Temp 3 (Español)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Orange Is the New Black Temp 3",Español
+
+####################################### Orange Is the New Black Temp 3 Netflix
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Orange Is the New Black Temp 3",Idioma: Español
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/23/1016585.jpg" group-title="Orange Is the New Black Temp 3",Orange Is the New Black 3x01
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/23/1016585.jpg" group-title="Orange Is the New Black Temp 3",Cap. 01
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%203/Orange%20Is%20the%20New%20Black%203x01.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/23/1016585.jpg" group-title="Orange Is the New Black Temp 3",Orange Is the New Black 3x02
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/23/1016585.jpg" group-title="Orange Is the New Black Temp 3",Cap. 02
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%203/Orange%20Is%20the%20New%20Black%203x02.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/23/1016585.jpg" group-title="Orange Is the New Black Temp 3",Orange Is the New Black 3x03
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/23/1016585.jpg" group-title="Orange Is the New Black Temp 3",Cap. 03
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%203/Orange%20Is%20the%20New%20Black%203x03.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/23/1016585.jpg" group-title="Orange Is the New Black Temp 3",Orange Is the New Black 3x04
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/23/1016585.jpg" group-title="Orange Is the New Black Temp 3",Cap. 04
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%203/Orange%20Is%20the%20New%20Black%203x04.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/23/1016585.jpg" group-title="Orange Is the New Black Temp 3",Orange Is the New Black 3x05
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/23/1016585.jpg" group-title="Orange Is the New Black Temp 3",Cap. 05
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%203/Orange%20Is%20the%20New%20Black%203x05.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/23/1016585.jpg" group-title="Orange Is the New Black Temp 3",Orange Is the New Black 3x06
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/23/1016585.jpg" group-title="Orange Is the New Black Temp 3",Cap. 06
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%203/Orange%20Is%20the%20New%20Black%203x06.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/23/1016585.jpg" group-title="Orange Is the New Black Temp 3",Orange Is the New Black 3x07
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/23/1016585.jpg" group-title="Orange Is the New Black Temp 3",Cap. 07
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%203/Orange%20Is%20the%20New%20Black%203x07.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/23/1016585.jpg" group-title="Orange Is the New Black Temp 3",Orange Is the New Black 3x08
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/23/1016585.jpg" group-title="Orange Is the New Black Temp 3",Cap. 08
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%203/Orange%20Is%20the%20New%20Black%203x08.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/23/1016585.jpg" group-title="Orange Is the New Black Temp 3",Orange Is the New Black 3x09
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/23/1016585.jpg" group-title="Orange Is the New Black Temp 3",Cap. 09
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%203/Orange%20Is%20the%20New%20Black%203x09.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/23/1016585.jpg" group-title="Orange Is the New Black Temp 3",Orange Is the New Black 3x10
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/23/1016585.jpg" group-title="Orange Is the New Black Temp 3",Cap. 10
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%203/Orange%20Is%20the%20New%20Black%203x10.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/23/1016585.jpg" group-title="Orange Is the New Black Temp 3",Orange Is the New Black 3x11
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/23/1016585.jpg" group-title="Orange Is the New Black Temp 3",Cap. 11
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%203/Orange%20Is%20the%20New%20Black%203x11.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/23/1016585.jpg" group-title="Orange Is the New Black Temp 3",Orange Is the New Black 3x12
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/23/1016585.jpg" group-title="Orange Is the New Black Temp 3",Cap. 12
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%203/Orange%20Is%20the%20New%20Black%203x12.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/23/1016585.jpg" group-title="Orange Is the New Black Temp 3",Orange Is the New Black 3x13
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/23/1016585.jpg" group-title="Orange Is the New Black Temp 3",Cap. 13
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%203/Orange%20Is%20the%20New%20Black%203x13.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/23/1016585.jpg" group-title="Orange Is the New Black Temp 3",Orange Is the New Black 3x14
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/23/1016585.jpg" group-title="Orange Is the New Black Temp 3",Cap. 14
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%203/Orange%20Is%20the%20New%20Black%203x14.mp4
-####################################### Orange Is the New Black Temp 4 (Español)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Orange Is the New Black Temp 4",Español
+
+####################################### Orange Is the New Black Temp 4 Netflix
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Orange Is the New Black Temp 4",Idioma: Español
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/42/4773589.jpg" group-title="Orange Is the New Black Temp 4",Orange Is the New Black 4x01
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/42/4773589.jpg" group-title="Orange Is the New Black Temp 4",Cap. 01
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/TEMPORADA%204/Orange%20Is%20the%20New%20Black%204x01.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/42/4773589.jpg" group-title="Orange Is the New Black Temp 4",Orange Is the New Black 4x02
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/42/4773589.jpg" group-title="Orange Is the New Black Temp 4",Cap. 02
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/TEMPORADA%204/Orange%20Is%20the%20New%20Black%204x02.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/42/4773589.jpg" group-title="Orange Is the New Black Temp 4",Orange Is the New Black 4x03
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/42/4773589.jpg" group-title="Orange Is the New Black Temp 4",Cap. 03
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/TEMPORADA%204/Orange%20Is%20the%20New%20Black%204x03.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/42/4773589.jpg" group-title="Orange Is the New Black Temp 4",Orange Is the New Black 4x04
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/42/4773589.jpg" group-title="Orange Is the New Black Temp 4",Cap. 04
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/TEMPORADA%204/Orange%20Is%20the%20New%20Black%204x04.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/42/4773589.jpg" group-title="Orange Is the New Black Temp 4",Orange Is the New Black 4x05
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/42/4773589.jpg" group-title="Orange Is the New Black Temp 4",Cap. 05
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/TEMPORADA%204/Orange%20Is%20the%20New%20Black%204x05.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/42/4773589.jpg" group-title="Orange Is the New Black Temp 4",Orange Is the New Black 4x06
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/42/4773589.jpg" group-title="Orange Is the New Black Temp 4",Cap. 06
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/TEMPORADA%204/Orange%20Is%20the%20New%20Black%204x06.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/42/4773589.jpg" group-title="Orange Is the New Black Temp 4",Orange Is the New Black 4x07
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/42/4773589.jpg" group-title="Orange Is the New Black Temp 4",Cap. 07
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/TEMPORADA%204/Orange%20Is%20the%20New%20Black%204x07.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/42/4773589.jpg" group-title="Orange Is the New Black Temp 4",Orange Is the New Black 4x08
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/42/4773589.jpg" group-title="Orange Is the New Black Temp 4",Cap. 08
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/TEMPORADA%204/Orange%20Is%20the%20New%20Black%204x08.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/42/4773589.jpg" group-title="Orange Is the New Black Temp 4",Orange Is the New Black 4x09
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/42/4773589.jpg" group-title="Orange Is the New Black Temp 4",Cap. 09
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/TEMPORADA%204/Orange%20Is%20the%20New%20Black%204x09.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/42/4773589.jpg" group-title="Orange Is the New Black Temp 4",Orange Is the New Black 4x10
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/42/4773589.jpg" group-title="Orange Is the New Black Temp 4",Cap. 10
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/TEMPORADA%204/Orange%20Is%20the%20New%20Black%204x10.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/42/4773589.jpg" group-title="Orange Is the New Black Temp 4",Orange Is the New Black 4x11
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/42/4773589.jpg" group-title="Orange Is the New Black Temp 4",Cap. 11
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/TEMPORADA%204/Orange%20Is%20the%20New%20Black%204x11.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/42/4773589.jpg" group-title="Orange Is the New Black Temp 4",Orange Is the New Black 4x12
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/42/4773589.jpg" group-title="Orange Is the New Black Temp 4",Cap. 12
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/TEMPORADA%204/Orange%20Is%20the%20New%20Black%204x12.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/42/4773589.jpg" group-title="Orange Is the New Black Temp 4",Orange Is the New Black 4x13
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/06/42/4773589.jpg" group-title="Orange Is the New Black Temp 4",Cap. 13
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/TEMPORADA%204/Orange%20Is%20the%20New%20Black%204x13.mp4
-####################################### Orange Is the New Black Temp 5 (Español)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Orange Is the New Black Temp 5",Español
+
+####################################### Orange Is the New Black Temp 5 Netflix
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Orange Is the New Black Temp 5",Idioma: Español
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/06/12/10/57/278852.jpg" group-title="Orange Is the New Black Temp 5",Orange Is the New Black 5x01
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/06/12/10/57/278852.jpg" group-title="Orange Is the New Black Temp 5",Cap. 01
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/TEMPORADA%205/Orange%20Is%20the%20New%20Black%205x01.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/06/12/10/57/278852.jpg" group-title="Orange Is the New Black Temp 5",Orange Is the New Black 5x02
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/06/12/10/57/278852.jpg" group-title="Orange Is the New Black Temp 5",Cap. 02
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/TEMPORADA%205/Orange%20Is%20the%20New%20Black%205x02.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/06/12/10/57/278852.jpg" group-title="Orange Is the New Black Temp 5",Orange Is the New Black 5x03
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/06/12/10/57/278852.jpg" group-title="Orange Is the New Black Temp 5",Cap. 03
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/TEMPORADA%205/Orange%20Is%20the%20New%20Black%205x03.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/06/12/10/57/278852.jpg" group-title="Orange Is the New Black Temp 5",Orange Is the New Black 5x04
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/06/12/10/57/278852.jpg" group-title="Orange Is the New Black Temp 5",Cap. 04
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/TEMPORADA%205/Orange%20Is%20the%20New%20Black%205x04.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/06/12/10/57/278852.jpg" group-title="Orange Is the New Black Temp 5",Orange Is the New Black 5x05
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/06/12/10/57/278852.jpg" group-title="Orange Is the New Black Temp 5",Cap. 05
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/TEMPORADA%205/Orange%20Is%20the%20New%20Black%205x05.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/06/12/10/57/278852.jpg" group-title="Orange Is the New Black Temp 5",Orange Is the New Black 5x06
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/06/12/10/57/278852.jpg" group-title="Orange Is the New Black Temp 5",Cap. 06
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/TEMPORADA%205/Orange%20Is%20the%20New%20Black%205x06.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/06/12/10/57/278852.jpg" group-title="Orange Is the New Black Temp 5",Orange Is the New Black 5x07
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/06/12/10/57/278852.jpg" group-title="Orange Is the New Black Temp 5",Cap. 07
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/TEMPORADA%205/Orange%20Is%20the%20New%20Black%205x07.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/06/12/10/57/278852.jpg" group-title="Orange Is the New Black Temp 5",Orange Is the New Black 5x08
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/06/12/10/57/278852.jpg" group-title="Orange Is the New Black Temp 5",Cap. 08
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/TEMPORADA%205/Orange%20Is%20the%20New%20Black%205x08.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/06/12/10/57/278852.jpg" group-title="Orange Is the New Black Temp 5",Orange Is the New Black 5x09
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/06/12/10/57/278852.jpg" group-title="Orange Is the New Black Temp 5",Cap. 09
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/TEMPORADA%205/Orange%20Is%20the%20New%20Black%205x09.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/06/12/10/57/278852.jpg" group-title="Orange Is the New Black Temp 5",Orange Is the New Black 5x10
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/06/12/10/57/278852.jpg" group-title="Orange Is the New Black Temp 5",Cap. 10
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/TEMPORADA%205/Orange%20Is%20the%20New%20Black%205x10.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/06/12/10/57/278852.jpg" group-title="Orange Is the New Black Temp 5",Orange Is the New Black 5x11
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/06/12/10/57/278852.jpg" group-title="Orange Is the New Black Temp 5",Cap. 11
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/TEMPORADA%205/Orange%20Is%20the%20New%20Black%205x11.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/06/12/10/57/278852.jpg" group-title="Orange Is the New Black Temp 5",Orange Is the New Black 5x12
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/06/12/10/57/278852.jpg" group-title="Orange Is the New Black Temp 5",Cap. 12
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/TEMPORADA%205/Orange%20Is%20the%20New%20Black%205x12.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/06/12/10/57/278852.jpg" group-title="Orange Is the New Black Temp 5",Orange Is the New Black 5x13
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/06/12/10/57/278852.jpg" group-title="Orange Is the New Black Temp 5",Cap. 13
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/TEMPORADA%205/Orange%20Is%20the%20New%20Black%205x13.mp4
-####################################### Orange Is the New Black Temp 6 (Español)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Orange Is the New Black Temp 6",Español
+
+####################################### Orange Is the New Black Temp 6 Netflix
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Orange Is the New Black Temp 6",Idioma: Español
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TBjAAHRhL._SY445_.jpg" group-title="Orange Is the New Black Temp 6",Orange Is the New Black 6x01
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TBjAAHRhL._SY445_.jpg" group-title="Orange Is the New Black Temp 6",Cap. 01
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%206/Orange%20Is%20the%20New%20Black%206x01.mkv.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TBjAAHRhL._SY445_.jpg" group-title="Orange Is the New Black Temp 6",Orange Is the New Black 6x02
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TBjAAHRhL._SY445_.jpg" group-title="Orange Is the New Black Temp 6",Cap. 02
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%206/Orange%20Is%20the%20New%20Black%206x02.mkv.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TBjAAHRhL._SY445_.jpg" group-title="Orange Is the New Black Temp 6",Orange Is the New Black 6x03
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TBjAAHRhL._SY445_.jpg" group-title="Orange Is the New Black Temp 6",Cap. 03
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%206/Orange%20Is%20the%20New%20Black%206x03.mkv.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TBjAAHRhL._SY445_.jpg" group-title="Orange Is the New Black Temp 6",Orange Is the New Black 6x04
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TBjAAHRhL._SY445_.jpg" group-title="Orange Is the New Black Temp 6",Cap. 04
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%206/Orange%20Is%20the%20New%20Black%206x04.mkv.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TBjAAHRhL._SY445_.jpg" group-title="Orange Is the New Black Temp 6",Orange Is the New Black 6x05
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TBjAAHRhL._SY445_.jpg" group-title="Orange Is the New Black Temp 6",Cap. 05
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%206/Orange%20Is%20the%20New%20Black%206x05.mkv.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TBjAAHRhL._SY445_.jpg" group-title="Orange Is the New Black Temp 6",Orange Is the New Black 6x06
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TBjAAHRhL._SY445_.jpg" group-title="Orange Is the New Black Temp 6",Cap. 06
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%206/Orange%20Is%20the%20New%20Black%206x06.mkv.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TBjAAHRhL._SY445_.jpg" group-title="Orange Is the New Black Temp 6",Orange Is the New Black 6x07
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TBjAAHRhL._SY445_.jpg" group-title="Orange Is the New Black Temp 6",Cap. 07
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%206/Orange%20Is%20the%20New%20Black%206x07.mkv.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TBjAAHRhL._SY445_.jpg" group-title="Orange Is the New Black Temp 6",Orange Is the New Black 6x08
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TBjAAHRhL._SY445_.jpg" group-title="Orange Is the New Black Temp 6",Cap. 08
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%206/Orange%20Is%20the%20New%20Black%206x08.mkv.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TBjAAHRhL._SY445_.jpg" group-title="Orange Is the New Black Temp 6",Orange Is the New Black 6x09
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TBjAAHRhL._SY445_.jpg" group-title="Orange Is the New Black Temp 6",Cap. 09
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%206/Orange%20Is%20the%20New%20Black%206x09.mkv.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TBjAAHRhL._SY445_.jpg" group-title="Orange Is the New Black Temp 6",Orange Is the New Black 6x10
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TBjAAHRhL._SY445_.jpg" group-title="Orange Is the New Black Temp 6",Cap. 10
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%206/Orange%20Is%20the%20New%20Black%206x10.mkv.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TBjAAHRhL._SY445_.jpg" group-title="Orange Is the New Black Temp 6",Orange Is the New Black 6x11
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TBjAAHRhL._SY445_.jpg" group-title="Orange Is the New Black Temp 6",Cap. 11
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%206/Orange%20Is%20the%20New%20Black%206x11.mkv.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TBjAAHRhL._SY445_.jpg" group-title="Orange Is the New Black Temp 6",Orange Is the New Black 6x12
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TBjAAHRhL._SY445_.jpg" group-title="Orange Is the New Black Temp 6",Cap. 12
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%206/Orange%20Is%20the%20New%20Black%206x12.mkv.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TBjAAHRhL._SY445_.jpg" group-title="Orange Is the New Black Temp 6",Orange Is the New Black 6x13
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TBjAAHRhL._SY445_.jpg" group-title="Orange Is the New Black Temp 6",Cap. 13
 http://flowhd.xyz/HTML/series/Orange%20Is%20the%20New%20Black/temporada%206/Orange%20Is%20the%20New%20Black%206x13.mkv.mp4
+
 ####################################### Outer Banks Temp 1 (Subtitulado)
 #EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Outer Banks Temp 1",Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
