@@ -2821,8 +2821,8 @@ http://flowhd.xyz/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.
 #EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 60
 http://flowhd.xyz/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x60.mp4
 
-####################################### La Verdad sea dicha (Subtitulado)
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/12/05/11/48/3840026.jpg" group-title="La Verdad sea dicha",Subtitulado
+####################################### La Verdad sea dicha Apple tv
+#EXTINF:-1 tvg-logo="https://confidencialcolombia.com/wp-content/uploads/2020/04/APPLETV.jpg" group-title="La Verdad sea dicha",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/12/05/11/48/3840026.jpg" group-title="La Verdad sea dicha",Cap. 01
@@ -2842,40 +2842,42 @@ http://flowhd.xyz/HTML/series/Truth%20Be%20Told/1x7.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/12/05/11/48/3840026.jpg" group-title="La Verdad sea dicha",Cap. 08
 http://flowhd.xyz/HTML/series/Truth%20Be%20Told/1x8.mp4
 
-####################################### Liar Temp 1 (Subtitulado)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Liar Temp 1",Subtitulado
+####################################### Liar Temp 1 ITV
+#EXTINF:-1 tvg-logo="https://spacestudiosmanchester.co.uk/assets/ITV-STUDIOS.png" group-title="Liar Temp 1",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/08/08/17/09/141376.jpg" group-title="Liar Temp 1",Liar 1x01
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/08/08/17/09/141376.jpg" group-title="Liar Temp 1",Cap. 01
 http://flowhd.xyz/HTML/series/Liar/1/1x1.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/08/08/17/09/141376.jpg" group-title="Liar Temp 1",Liar 1x02
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/08/08/17/09/141376.jpg" group-title="Liar Temp 1",Cap. 02
 http://flowhd.xyz/HTML/series/Liar/1/1x2.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/08/08/17/09/141376.jpg" group-title="Liar Temp 1",Liar 1x03
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/08/08/17/09/141376.jpg" group-title="Liar Temp 1",Cap. 03
 http://flowhd.xyz/HTML/series/Liar/1/1x3.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/08/08/17/09/141376.jpg" group-title="Liar Temp 1",Liar 1x04
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/08/08/17/09/141376.jpg" group-title="Liar Temp 1",Cap. 04
 http://flowhd.xyz/HTML/series/Liar/1/1x4.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/08/08/17/09/141376.jpg" group-title="Liar Temp 1",Liar 1x05
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/08/08/17/09/141376.jpg" group-title="Liar Temp 1",Cap. 05
 http://flowhd.xyz/HTML/series/Liar/1/1x5.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/08/08/17/09/141376.jpg" group-title="Liar Temp 1",Liar 1x06
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/08/08/17/09/141376.jpg" group-title="Liar Temp 1",Cap. 06
 http://flowhd.xyz/HTML/series/Liar/1/1x6.mp4
-####################################### Liar Temp 2 (Subtitulado)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Liar Temp 2",Subtitulado
+
+####################################### Liar Temp 2 ITV
+#EXTINF:-1 tvg-logo="https://spacestudiosmanchester.co.uk/assets/ITV-STUDIOS.png" group-title="Liar Temp 2",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
-#EXTINF:-1 tvg-logo="https://cdn.hmv.com/r/w-1280/hmv/files/49/491a2a44-effe-4f84-96bd-aa3de9ddc126.jpg" group-title="Liar Temp 2",Liar 2x01
+#EXTINF:-1 tvg-logo="https://cdn.hmv.com/r/w-1280/hmv/files/49/491a2a44-effe-4f84-96bd-aa3de9ddc126.jpg" group-title="Liar Temp 2",Cap. 01
 http://flowhd.xyz/HTML/series/Liar/2/2x1.mp4
-#EXTINF:-1 tvg-logo="https://cdn.hmv.com/r/w-1280/hmv/files/49/491a2a44-effe-4f84-96bd-aa3de9ddc126.jpg" group-title="Liar Temp 2",Liar 2x02
+#EXTINF:-1 tvg-logo="https://cdn.hmv.com/r/w-1280/hmv/files/49/491a2a44-effe-4f84-96bd-aa3de9ddc126.jpg" group-title="Liar Temp 2",Cap. 02
 http://flowhd.xyz/HTML/series/Liar/2/2x2.mp4
-#EXTINF:-1 tvg-logo="https://cdn.hmv.com/r/w-1280/hmv/files/49/491a2a44-effe-4f84-96bd-aa3de9ddc126.jpg" group-title="Liar Temp 2",Liar 2x03
+#EXTINF:-1 tvg-logo="https://cdn.hmv.com/r/w-1280/hmv/files/49/491a2a44-effe-4f84-96bd-aa3de9ddc126.jpg" group-title="Liar Temp 2",Cap. 03
 http://flowhd.xyz/HTML/series/Liar/2/2x3.mp4
-#EXTINF:-1 tvg-logo="https://cdn.hmv.com/r/w-1280/hmv/files/49/491a2a44-effe-4f84-96bd-aa3de9ddc126.jpg" group-title="Liar Temp 2",Liar 2x04
+#EXTINF:-1 tvg-logo="https://cdn.hmv.com/r/w-1280/hmv/files/49/491a2a44-effe-4f84-96bd-aa3de9ddc126.jpg" group-title="Liar Temp 2",Cap. 04
 http://flowhd.xyz/HTML/series/Liar/2/2x4.mp4
-#EXTINF:-1 tvg-logo="https://cdn.hmv.com/r/w-1280/hmv/files/49/491a2a44-effe-4f84-96bd-aa3de9ddc126.jpg" group-title="Liar Temp 2",Liar 2x05
+#EXTINF:-1 tvg-logo="https://cdn.hmv.com/r/w-1280/hmv/files/49/491a2a44-effe-4f84-96bd-aa3de9ddc126.jpg" group-title="Liar Temp 2",Cap. 05
 http://flowhd.xyz/HTML/series/Liar/2/2x5.mp4
-#EXTINF:-1 tvg-logo="https://cdn.hmv.com/r/w-1280/hmv/files/49/491a2a44-effe-4f84-96bd-aa3de9ddc126.jpg" group-title="Liar Temp 2",Liar 2x06
+#EXTINF:-1 tvg-logo="https://cdn.hmv.com/r/w-1280/hmv/files/49/491a2a44-effe-4f84-96bd-aa3de9ddc126.jpg" group-title="Liar Temp 2",Cap. 06
 http://flowhd.xyz/HTML/series/Liar/2/2x6.mp4
-####################################### Lincoln Rhyme Temp 1 (Subtitulado)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Lincoln Rhyme Temp 1",Subtitulado
+
+####################################### Lincoln Rhyme Temp 1 NBC
+#EXTINF:-1 tvg-logo="https://www.nascar.com/wp-content/uploads/sites/7/2017/04/NBC-237x180.png" group-title="Lincoln Rhyme Temp 1",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/05/19/18/48/0932506.jpg" group-title="Lincoln Rhyme Temp 1",Lincoln Rhyme 1x01
@@ -2892,6 +2894,7 @@ http://flowhd.xyz/HTML/series/Lincoln%20Rhym/1x5.mp4
 http://flowhd.xyz/HTML/series/Lincoln%20Rhym/1x6.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/05/19/18/48/0932506.jpg" group-title="Lincoln Rhyme Temp 1",Lincoln Rhyme 1x07
 http://flowhd.xyz/HTML/series/Lincoln%20Rhym/1x7.mp4
+
 ####################################### Little America Temp 1 (Subtitulado)
 #EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Little America Temp 1",Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
