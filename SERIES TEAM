@@ -538,7 +538,6 @@ http://flowhd.xyz/HTML/series/Altered%20Carbon/1x9.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/01/12/11/18/5517426.jpg" group-title="Altered Carbon T1",cap. 10
 http://flowhd.xyz/HTML/series/Altered%20Carbon/1x10.mp4
 
-
 ####################################### Altered Carbon T2 Netflix
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Altered Carbon T2",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
@@ -4632,182 +4631,189 @@ http://flowhd.xyz/HTML/series/Project%20Blue%20Book/2/2x6.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/11/20/17/23/5025358.jpg" group-title="Proyecto Libro Azul Temp 2",Cap. 07
 http://flowhd.xyz/HTML/series/Project%20Blue%20Book/2/2x7.mp4
 
-####################################### Queen Sono Temp 1 (Subtitulado)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Queen Sono Temp 1",Subtitulado
+####################################### Queen Sono Temp 1 Netflix
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Queen Sono Temp 1",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/02/10/14/30/3082656.jpg" group-title="Queen Sono Temp 1",Queen Sono 1x01
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/02/10/14/30/3082656.jpg" group-title="Queen Sono Temp 1",Cap. 01
 http://flowhd.xyz/HTML/series/Queen%20Sono/1x1.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/02/10/14/30/3082656.jpg" group-title="Queen Sono Temp 1",Queen Sono 1x02
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/02/10/14/30/3082656.jpg" group-title="Queen Sono Temp 1",Cap. 02
 http://flowhd.xyz/HTML/series/Queen%20Sono/1x2.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/02/10/14/30/3082656.jpg" group-title="Queen Sono Temp 1",Queen Sono 1x03
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/02/10/14/30/3082656.jpg" group-title="Queen Sono Temp 1",Cap. 03
 http://flowhd.xyz/HTML/series/Queen%20Sono/1x3.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/02/10/14/30/3082656.jpg" group-title="Queen Sono Temp 1",Queen Sono 1x04
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/02/10/14/30/3082656.jpg" group-title="Queen Sono Temp 1",Cap. 04
 http://flowhd.xyz/HTML/series/Queen%20Sono/1x4.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/02/10/14/30/3082656.jpg" group-title="Queen Sono Temp 1",Queen Sono 1x05
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/02/10/14/30/3082656.jpg" group-title="Queen Sono Temp 1",Cap. 05
 http://flowhd.xyz/HTML/series/Queen%20Sono/1x5.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/02/10/14/30/3082656.jpg" group-title="Queen Sono Temp 1",Queen Sono 1x06
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/02/10/14/30/3082656.jpg" group-title="Queen Sono Temp 1",Cap. 06
 http://flowhd.xyz/HTML/series/Queen%20Sono/1x6.mp4
-####################################### Ragnarok Temp 1 (Subtitulado)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Ragnarok Temp 1",Subtitulado
+
+####################################### Ragnarok Temp 1 Netflix
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Ragnarok Temp 1",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/05/09/14/4556356.jpg" group-title="Ragnarok Temp 1",Ragnarok 1x01
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/05/09/14/4556356.jpg" group-title="Ragnarok Temp 1",Cap. 01
 http://flowhd.xyz/HTML/series/Ragnarok/1x1.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/05/09/14/4556356.jpg" group-title="Ragnarok Temp 1",Ragnarok 1x02
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/05/09/14/4556356.jpg" group-title="Ragnarok Temp 1",Cap. 02
 http://flowhd.xyz/HTML/series/Ragnarok/1x2.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/05/09/14/4556356.jpg" group-title="Ragnarok Temp 1",Ragnarok 1x03
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/05/09/14/4556356.jpg" group-title="Ragnarok Temp 1",Cap. 03
 http://flowhd.xyz/HTML/series/Ragnarok/1x3.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/05/09/14/4556356.jpg" group-title="Ragnarok Temp 1",Ragnarok 1x04
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/05/09/14/4556356.jpg" group-title="Ragnarok Temp 1",Cap. 04
 http://flowhd.xyz/HTML/series/Ragnarok/1x4.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/05/09/14/4556356.jpg" group-title="Ragnarok Temp 1",Ragnarok 1x05
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/05/09/14/4556356.jpg" group-title="Ragnarok Temp 1",Cap. 05
 http://flowhd.xyz/HTML/series/Ragnarok/1x5.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/05/09/14/4556356.jpg" group-title="Ragnarok Temp 1",Ragnarok 1x06
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/05/09/14/4556356.jpg" group-title="Ragnarok Temp 1",Cap. 06
 http://flowhd.xyz/HTML/series/Ragnarok/1x6.mp4
 
-####################################### Servant Temp 1 (Subtitulado)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Servant Temp 1",Subtitulado
+####################################### Servant Temp 1 Apple tv
+#EXTINF:-1 tvg-logo="https://confidencialcolombia.com/wp-content/uploads/2020/04/APPLETV.jpg" group-title="Servant Temp 1",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/29/10/37/5388206.jpg" group-title="Servant Temp 1",Servant 1x01
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/29/10/37/5388206.jpg" group-title="Servant Temp 1",Cap. 01
 http://flowhd.xyz/HTML/series/Servant/1x1.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/29/10/37/5388206.jpg" group-title="Servant Temp 1",Servant 1x02
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/29/10/37/5388206.jpg" group-title="Servant Temp 1",Cap. 02
 http://flowhd.xyz/HTML/series/Servant/1x2.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/29/10/37/5388206.jpg" group-title="Servant Temp 1",Servant 1x03
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/29/10/37/5388206.jpg" group-title="Servant Temp 1",Cap. 03
 http://flowhd.xyz/HTML/series/Servant/1x3.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/29/10/37/5388206.jpg" group-title="Servant Temp 1",Servant 1x04
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/29/10/37/5388206.jpg" group-title="Servant Temp 1",Cap. 04
 http://flowhd.xyz/HTML/series/Servant/1x4.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/29/10/37/5388206.jpg" group-title="Servant Temp 1",Servant 1x05
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/29/10/37/5388206.jpg" group-title="Servant Temp 1",Cap. 05
 http://flowhd.xyz/HTML/series/Servant/1x5.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/29/10/37/5388206.jpg" group-title="Servant Temp 1",Servant 1x06
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/29/10/37/5388206.jpg" group-title="Servant Temp 1",Cap. 06
 http://flowhd.xyz/HTML/series/Servant/1x6.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/29/10/37/5388206.jpg" group-title="Servant Temp 1",Servant 1x07
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/29/10/37/5388206.jpg" group-title="Servant Temp 1",Cap. 07
 http://flowhd.xyz/HTML/series/Servant/1x7.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/29/10/37/5388206.jpg" group-title="Servant Temp 1",Servant 1x08
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/29/10/37/5388206.jpg" group-title="Servant Temp 1",Cap. 08
 http://flowhd.xyz/HTML/series/Servant/1x8.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/29/10/37/5388206.jpg" group-title="Servant Temp 1",Servant 1x09
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/29/10/37/5388206.jpg" group-title="Servant Temp 1",Cap. 09
 http://flowhd.xyz/HTML/series/Servant/1x9.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/29/10/37/5388206.jpg" group-title="Servant Temp 1",Servant 1x10
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/29/10/37/5388206.jpg" group-title="Servant Temp 1",Cap. 10
 http://flowhd.xyz/HTML/series/Servant/1x10.mp4
-####################################### Sex Education Temp 1 (Subtitulado)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Sex Education Temp 1",Subtitulado
+
+####################################### Sex Education Temp 1 Netflix
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Sex Education Temp 1",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/01/03/09/01/2915581.jpg" group-title="Sex Education Temp 1",Sex Education 1x01
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/01/03/09/01/2915581.jpg" group-title="Sex Education Temp 1",Cap. 01
 http://flowhd.xyz/HTML/series/Sex%20Education/1/1x1.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/01/03/09/01/2915581.jpg" group-title="Sex Education Temp 1",Sex Education 1x02
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/01/03/09/01/2915581.jpg" group-title="Sex Education Temp 1",Cap. 02
 http://flowhd.xyz/HTML/series/Sex%20Education/1/1x2.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/01/03/09/01/2915581.jpg" group-title="Sex Education Temp 1",Sex Education 1x03
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/01/03/09/01/2915581.jpg" group-title="Sex Education Temp 1",Cap. 03
 http://flowhd.xyz/HTML/series/Sex%20Education/1/1x3.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/01/03/09/01/2915581.jpg" group-title="Sex Education Temp 1",Sex Education 1x04
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/01/03/09/01/2915581.jpg" group-title="Sex Education Temp 1",Cap. 04
 http://flowhd.xyz/HTML/series/Sex%20Education/1/1x4.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/01/03/09/01/2915581.jpg" group-title="Sex Education Temp 1",Sex Education 1x05
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/01/03/09/01/2915581.jpg" group-title="Sex Education Temp 1",Cap. 05
 http://flowhd.xyz/HTML/series/Sex%20Education/1/1x5.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/01/03/09/01/2915581.jpg" group-title="Sex Education Temp 1",Sex Education 1x06
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/01/03/09/01/2915581.jpg" group-title="Sex Education Temp 1",Cap. 06
 http://flowhd.xyz/HTML/series/Sex%20Education/1/1x6.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/01/03/09/01/2915581.jpg" group-title="Sex Education Temp 1",Sex Education 1x07
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/01/03/09/01/2915581.jpg" group-title="Sex Education Temp 1",Cap. 07
 http://flowhd.xyz/HTML/series/Sex%20Education/1/1x7.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/01/03/09/01/2915581.jpg" group-title="Sex Education Temp 1",Sex Education 1x08
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/01/03/09/01/2915581.jpg" group-title="Sex Education Temp 1",Cap. 08
 http://flowhd.xyz/HTML/series/Sex%20Education/1/1x8.mp4
-####################################### Sex Education Temp 2 (Subtitulado)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Sex Education Temp 2",Subtitulado
+
+####################################### Sex Education Temp 2 Netflix
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Sex Education Temp 2",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1800/1829/3_m1.jpg" group-title="Sex Education Temp 2",Sex Education 2x01
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1800/1829/3_m1.jpg" group-title="Sex Education Temp 2",Cap. 01
 http://flowhd.xyz/HTML/series/Sex%20Education/2/2x1.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1800/1829/3_m1.jpg" group-title="Sex Education Temp 2",Sex Education 2x02
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1800/1829/3_m1.jpg" group-title="Sex Education Temp 2",Cap. 02
 http://flowhd.xyz/HTML/series/Sex%20Education/2/2x2.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1800/1829/3_m1.jpg" group-title="Sex Education Temp 2",Sex Education 2x03
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1800/1829/3_m1.jpg" group-title="Sex Education Temp 2",Cap. 03
 http://flowhd.xyz/HTML/series/Sex%20Education/2/2x3.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1800/1829/3_m1.jpg" group-title="Sex Education Temp 2",Sex Education 2x04
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1800/1829/3_m1.jpg" group-title="Sex Education Temp 2",Cap. 04
 http://flowhd.xyz/HTML/series/Sex%20Education/2/2x4.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1800/1829/3_m1.jpg" group-title="Sex Education Temp 2",Sex Education 2x05
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1800/1829/3_m1.jpg" group-title="Sex Education Temp 2",Cap. 05
 http://flowhd.xyz/HTML/series/Sex%20Education/2/2x5.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1800/1829/3_m1.jpg" group-title="Sex Education Temp 2",Sex Education 2x06
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1800/1829/3_m1.jpg" group-title="Sex Education Temp 2",Cap. 06
 http://flowhd.xyz/HTML/series/Sex%20Education/2/2x6.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1800/1829/3_m1.jpg" group-title="Sex Education Temp 2",Sex Education 2x07
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1800/1829/3_m1.jpg" group-title="Sex Education Temp 2",Cap. 07
 http://flowhd.xyz/HTML/series/Sex%20Education/2/2x7.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1800/1829/3_m1.jpg" group-title="Sex Education Temp 2",Sex Education 2x08
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1800/1829/3_m1.jpg" group-title="Sex Education Temp 2",Cap. 08
 http://flowhd.xyz/HTML/series/Sex%20Education/2/2x8.mp4
-####################################### Star Trek: Picard Temp 1 (Subtitulado)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Star Trek: Picard Temp 1",Subtitulado
+
+####################################### Star Trek: Picard Temp 1 Amazon Prime
+#EXTINF:-1 tvg-logo="https://www.pdvg.it/wp-content/uploads/2020/02/amazon-prime-video-pdvg.png" group-title="Star Trek: Picard Temp 1",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
-#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/07/11/10/58/5157807.jpg" group-title="Star Trek: Picard Temp 1",Star Trek: Picard 1x01
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/07/11/10/58/5157807.jpg" group-title="Star Trek: Picard Temp 1",Cap. 01
 http://flowhd.xyz/HTML/series/Star%20Trek_%20Picard/1x1.mp4
-#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/07/11/10/58/5157807.jpg" group-title="Star Trek: Picard Temp 1",Star Trek: Picard 1x02
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/07/11/10/58/5157807.jpg" group-title="Star Trek: Picard Temp 1",Cap. 02
 http://flowhd.xyz/HTML/series/Star%20Trek_%20Picard/1x2.mp4
-#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/07/11/10/58/5157807.jpg" group-title="Star Trek: Picard Temp 1",Star Trek: Picard 1x03
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/07/11/10/58/5157807.jpg" group-title="Star Trek: Picard Temp 1",Cap. 03
 http://flowhd.xyz/HTML/series/Star%20Trek_%20Picard/1x3.mp4
-#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/07/11/10/58/5157807.jpg" group-title="Star Trek: Picard Temp 1",Star Trek: Picard 1x04
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/07/11/10/58/5157807.jpg" group-title="Star Trek: Picard Temp 1",Cap. 04
 http://flowhd.xyz/HTML/series/Star%20Trek_%20Picard/1x4.mp4
-#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/07/11/10/58/5157807.jpg" group-title="Star Trek: Picard Temp 1",Star Trek: Picard 1x05
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/07/11/10/58/5157807.jpg" group-title="Star Trek: Picard Temp 1",Cap. 05
 http://flowhd.xyz/HTML/series/Star%20Trek_%20Picard/1x5.mp4
-#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/07/11/10/58/5157807.jpg" group-title="Star Trek: Picard Temp 1",Star Trek: Picard 1x06
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/07/11/10/58/5157807.jpg" group-title="Star Trek: Picard Temp 1",Cap. 06
 http://flowhd.xyz/HTML/series/Star%20Trek_%20Picard/1x6.mp4
-#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/07/11/10/58/5157807.jpg" group-title="Star Trek: Picard Temp 1",Star Trek: Picard 1x07
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/07/11/10/58/5157807.jpg" group-title="Star Trek: Picard Temp 1",Cap. 07
 http://flowhd.xyz/HTML/series/Star%20Trek_%20Picard/1x7.mp4
-#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/07/11/10/58/5157807.jpg" group-title="Star Trek: Picard Temp 1",Star Trek: Picard 1x08
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/07/11/10/58/5157807.jpg" group-title="Star Trek: Picard Temp 1",Cap. 08
 http://flowhd.xyz/HTML/series/Star%20Trek_%20Picard/1x8.mp4
-#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/07/11/10/58/5157807.jpg" group-title="Star Trek: Picard Temp 1",Star Trek: Picard 1x09
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/07/11/10/58/5157807.jpg" group-title="Star Trek: Picard Temp 1",Cap. 09
 http://flowhd.xyz/HTML/series/Star%20Trek_%20Picard/1x9.mp4
-#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/07/11/10/58/5157807.jpg" group-title="Star Trek: Picard Temp 1",Star Trek: Picard 1x10
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/07/11/10/58/5157807.jpg" group-title="Star Trek: Picard Temp 1",Cap. 10
 http://flowhd.xyz/HTML/series/Star%20Trek_%20Picard/1x10.mp4
-####################################### Supermax Temp 1 (Español)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="Supermax Temp 1",Español
+
+####################################### Supermax Temp 1 HBO ESPAÑA
+#EXTINF:-1 tvg-logo="https://eae0106.goss.es/wp-content/uploads/2019/02/HBO-lite-blanco-1.png" group-title="Supermax Temp 1",Idioma: Español
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/gNOdHZoAddcxRmSEkMnkamBOpRM=/290x478/smart/media/movies/covers/2016/11/10414.jpg" group-title="Supermax Temp 1",Supermax 1x01
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/gNOdHZoAddcxRmSEkMnkamBOpRM=/290x478/smart/media/movies/covers/2016/11/10414.jpg" group-title="Supermax Temp 1",Cap. 01
 http://flowhd.xyz/HTML/series/Supermax/1x1.mp4
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/gNOdHZoAddcxRmSEkMnkamBOpRM=/290x478/smart/media/movies/covers/2016/11/10414.jpg" group-title="Supermax Temp 1",Supermax 1x02
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/gNOdHZoAddcxRmSEkMnkamBOpRM=/290x478/smart/media/movies/covers/2016/11/10414.jpg" group-title="Supermax Temp 1",Cap. 02
 http://flowhd.xyz/HTML/series/Supermax/1x2.mp4
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/gNOdHZoAddcxRmSEkMnkamBOpRM=/290x478/smart/media/movies/covers/2016/11/10414.jpg" group-title="Supermax Temp 1",Supermax 1x03
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/gNOdHZoAddcxRmSEkMnkamBOpRM=/290x478/smart/media/movies/covers/2016/11/10414.jpg" group-title="Supermax Temp 1",Cap. 03
 http://flowhd.xyz/HTML/series/Supermax/1x3.mp4
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/gNOdHZoAddcxRmSEkMnkamBOpRM=/290x478/smart/media/movies/covers/2016/11/10414.jpg" group-title="Supermax Temp 1",Supermax 1x04
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/gNOdHZoAddcxRmSEkMnkamBOpRM=/290x478/smart/media/movies/covers/2016/11/10414.jpg" group-title="Supermax Temp 1",Cap. 04
 http://flowhd.xyz/HTML/series/Supermax/1x4.mp4
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/gNOdHZoAddcxRmSEkMnkamBOpRM=/290x478/smart/media/movies/covers/2016/11/10414.jpg" group-title="Supermax Temp 1",Supermax 1x05
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/gNOdHZoAddcxRmSEkMnkamBOpRM=/290x478/smart/media/movies/covers/2016/11/10414.jpg" group-title="Supermax Temp 1",Cap. 05
 http://flowhd.xyz/HTML/series/Supermax/1x5.mp4
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/gNOdHZoAddcxRmSEkMnkamBOpRM=/290x478/smart/media/movies/covers/2016/11/10414.jpg" group-title="Supermax Temp 1",Supermax 1x06
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/gNOdHZoAddcxRmSEkMnkamBOpRM=/290x478/smart/media/movies/covers/2016/11/10414.jpg" group-title="Supermax Temp 1",Cap. 06
 http://flowhd.xyz/HTML/series/Supermax/1x6.mp4
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/gNOdHZoAddcxRmSEkMnkamBOpRM=/290x478/smart/media/movies/covers/2016/11/10414.jpg" group-title="Supermax Temp 1",Supermax 1x07
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/gNOdHZoAddcxRmSEkMnkamBOpRM=/290x478/smart/media/movies/covers/2016/11/10414.jpg" group-title="Supermax Temp 1",Cap. 07
 http://flowhd.xyz/HTML/series/Supermax/1x7.mp4
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/gNOdHZoAddcxRmSEkMnkamBOpRM=/290x478/smart/media/movies/covers/2016/11/10414.jpg" group-title="Supermax Temp 1",Supermax 1x08
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/gNOdHZoAddcxRmSEkMnkamBOpRM=/290x478/smart/media/movies/covers/2016/11/10414.jpg" group-title="Supermax Temp 1",Cap. 08
 http://flowhd.xyz/HTML/series/Supermax/1x8.mp4
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/gNOdHZoAddcxRmSEkMnkamBOpRM=/290x478/smart/media/movies/covers/2016/11/10414.jpg" group-title="Supermax Temp 1",Supermax 1x09
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/gNOdHZoAddcxRmSEkMnkamBOpRM=/290x478/smart/media/movies/covers/2016/11/10414.jpg" group-title="Supermax Temp 1",Cap. 09
 http://flowhd.xyz/HTML/series/Supermax/1x9.mp4
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/gNOdHZoAddcxRmSEkMnkamBOpRM=/290x478/smart/media/movies/covers/2016/11/10414.jpg" group-title="Supermax Temp 1",Supermax 1x10
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/gNOdHZoAddcxRmSEkMnkamBOpRM=/290x478/smart/media/movies/covers/2016/11/10414.jpg" group-title="Supermax Temp 1",Cap. 10
 http://flowhd.xyz/HTML/series/Supermax/1x10.mp4
-####################################### The Mandalorian Temp 1 (Subtitulado)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="The Mandalorian Temp 1",Subtitulado
+
+####################################### The Mandalorian Temp 1 DISNEY PLUS
+#EXTINF:-1 tvg-logo="https://icdn9.digitaltrends.com/image/digitaltrends_es/disney-plus-logo-streaming-topic-500x500.jpg" group-title="The Mandalorian Temp 1",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/10/29/09/01/2094959.jpg" group-title="The Mandalorian Temp 1",The Mandalorian 1x01
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/10/29/09/01/2094959.jpg" group-title="The Mandalorian Temp 1",Cap. 01
 http://flowhd.xyz/HTML/series/The%20Mandalorian/1x1.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/10/29/09/01/2094959.jpg" group-title="The Mandalorian Temp 1",The Mandalorian 1x02
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/10/29/09/01/2094959.jpg" group-title="The Mandalorian Temp 1",Cap. 02
 http://flowhd.xyz/HTML/series/The%20Mandalorian/1x2.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/10/29/09/01/2094959.jpg" group-title="The Mandalorian Temp 1",The Mandalorian 1x03
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/10/29/09/01/2094959.jpg" group-title="The Mandalorian Temp 1",Cap. 03
 http://flowhd.xyz/HTML/series/The%20Mandalorian/1x3.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/10/29/09/01/2094959.jpg" group-title="The Mandalorian Temp 1",The Mandalorian 1x04
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/10/29/09/01/2094959.jpg" group-title="The Mandalorian Temp 1",Cap. 04
 http://flowhd.xyz/HTML/series/The%20Mandalorian/1x4.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/10/29/09/01/2094959.jpg" group-title="The Mandalorian Temp 1",The Mandalorian 1x05
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/10/29/09/01/2094959.jpg" group-title="The Mandalorian Temp 1",Cap. 05
 http://flowhd.xyz/HTML/series/The%20Mandalorian/1x5.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/10/29/09/01/2094959.jpg" group-title="The Mandalorian Temp 1",The Mandalorian 1x06
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/10/29/09/01/2094959.jpg" group-title="The Mandalorian Temp 1",Cap. 06
 http://flowhd.xyz/HTML/series/The%20Mandalorian/1x6.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/10/29/09/01/2094959.jpg" group-title="The Mandalorian Temp 1",The Mandalorian 1x07
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/10/29/09/01/2094959.jpg" group-title="The Mandalorian Temp 1",Cap. 07
 http://flowhd.xyz/HTML/series/The%20Mandalorian/1x7.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/10/29/09/01/2094959.jpg" group-title="The Mandalorian Temp 1",The Mandalorian 1x08
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/10/29/09/01/2094959.jpg" group-title="The Mandalorian Temp 1",Cap. 08
 http://flowhd.xyz/HTML/series/The%20Mandalorian/1x8.mp4
-####################################### The Pale Horse Temp 1 (Subtitulado)
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/713226-200.png" group-title="The Pale Horse Temp 1",Subtitulado
+
+####################################### The Pale Horse Temp 1 BBC
+#EXTINF:-1 tvg-logo="https://www.supertalk.fm/wp-content/uploads/2020/07/bbc.png" group-title="The Pale Horse Temp 1",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
-#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/oKJYBXv8z4g2NQZmea5fG7.png" group-title="The Pale Horse Temp 1",The Pale Horse 1x01
+#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/oKJYBXv8z4g2NQZmea5fG7.png" group-title="The Pale Horse Temp 1",Cap. 01
 http://flowhd.xyz/HTML/series/The%20Pale%20Horse/1x1.mp4
-#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/oKJYBXv8z4g2NQZmea5fG7.png" group-title="The Pale Horse Temp 1",The Pale Horse 1x02
+#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/oKJYBXv8z4g2NQZmea5fG7.png" group-title="The Pale Horse Temp 1",Cap. 02
 http://flowhd.xyz/HTML/series/The%20Pale%20Horse/1x2.mp4
 
-####################################### The Rookie Temp 1 (Subtitulado)
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/26/09/21/5177007.jpg" group-title="The Rookie Temp 1",Subtitulado
+####################################### The Rookie Temp 1 ABC
+#EXTINF:-1 tvg-logo="https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/31686/article_full%401x.jpg" group-title="The Rookie Temp 1",Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/26/09/21/5177007.jpg" group-title="The Rookie Temp 1",Cap. 01
@@ -4850,8 +4856,9 @@ http://flowhd.xyz/HTML/series/The%20Rookie/1/1x18.mp4
 http://flowhd.xyz/HTML/series/The%20Rookie/1/1x19.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/26/09/21/5177007.jpg" group-title="The Rookie Temp 1",Cap. 20
 http://flowhd.xyz/HTML/series/The%20Rookie/1/1x20.mp4
-####################################### The Rookie Temp 2 (Subtitulado)
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1600/1650/1_m1.jpg" group-title="The Rookie Temp 2",Subtitulado
+
+####################################### The Rookie Temp 2 ABC
+#EXTINF:-1 tvg-logo="https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/31686/article_full%401x.jpg" group-title="The Rookie Temp 2",Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1600/1650/1_m1.jpg" group-title="The Rookie Temp 2",Cap. 01
