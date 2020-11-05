@@ -461,6 +461,35 @@ http://144.217.77.218/budtv/series/fer/h/24H/temp8/T08x23.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/12/c1/1d/12c11d44512bbed6973a18a2d06213a8.jpg" group-title="24 Horas T8",cap. 24
 http://144.217.77.218/budtv/series/fer/h/24H/temp8/T08x24.mp4
 
+####################################### 24 Horas T9 Final Amazon Prime
+#EXTINF:-1 tvg-logo="https://www.pdvg.it/wp-content/uploads/2020/02/amazon-prime-video-pdvg.png" group-title="24 Horas T9 Final",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://tvguide1.cbsistatic.com/feed/1/638/12097638.jpg" group-title="24 Horas T9 Final",cap. 01
+http://144.217.77.218/budtv/series/fer/h/24H/temp9/T09x01.mp4
+#EXTINF:-1 tvg-logo="https://tvguide1.cbsistatic.com/feed/1/638/12097638.jpg" group-title="24 Horas T9 Final",cap. 02
+http://144.217.77.218/budtv/series/fer/h/24H/temp9/T09x02.mp4
+#EXTINF:-1 tvg-logo="https://tvguide1.cbsistatic.com/feed/1/638/12097638.jpg" group-title="24 Horas T9 Final",cap. 03
+http://144.217.77.218/budtv/series/fer/h/24H/temp9/T09x03.mp4
+#EXTINF:-1 tvg-logo="https://tvguide1.cbsistatic.com/feed/1/638/12097638.jpg" group-title="24 Horas T9 Final",cap. 04
+http://144.217.77.218/budtv/series/fer/h/24H/temp9/T09x04.mp4
+#EXTINF:-1 tvg-logo="https://tvguide1.cbsistatic.com/feed/1/638/12097638.jpg" group-title="24 Horas T9 Final",cap. 05
+http://144.217.77.218/budtv/series/fer/h/24H/temp9/T09x05.mp4
+#EXTINF:-1 tvg-logo="https://tvguide1.cbsistatic.com/feed/1/638/12097638.jpg" group-title="24 Horas T9 Final",cap. 06
+http://144.217.77.218/budtv/series/fer/h/24H/temp9/T09x06.mp4
+#EXTINF:-1 tvg-logo="https://tvguide1.cbsistatic.com/feed/1/638/12097638.jpg" group-title="24 Horas T9 Final",cap. 07
+http://144.217.77.218/budtv/series/fer/h/24H/temp9/T09x07.mp4
+#EXTINF:-1 tvg-logo="https://tvguide1.cbsistatic.com/feed/1/638/12097638.jpg" group-title="24 Horas T9 Final",cap. 08
+http://144.217.77.218/budtv/series/fer/h/24H/temp9/T09x08.mp4
+#EXTINF:-1 tvg-logo="https://tvguide1.cbsistatic.com/feed/1/638/12097638.jpg" group-title="24 Horas T9 Final",cap. 09
+http://144.217.77.218/budtv/series/fer/h/24H/temp9/T09x09.mp4
+#EXTINF:-1 tvg-logo="https://tvguide1.cbsistatic.com/feed/1/638/12097638.jpg" group-title="24 Horas T9 Final",cap. 10
+http://144.217.77.218/budtv/series/fer/h/24H/temp9/T09x10.mp4
+#EXTINF:-1 tvg-logo="https://tvguide1.cbsistatic.com/feed/1/638/12097638.jpg" group-title="24 Horas T9 Final",cap. 11
+http://144.217.77.218/budtv/series/fer/h/24H/temp9/T09x11.mp4
+#EXTINF:-1 tvg-logo="https://tvguide1.cbsistatic.com/feed/1/638/12097638.jpg" group-title="24 Horas T9 Final",cap. 12 Final
+http://144.217.77.218/budtv/series/fer/h/24H/temp9/T09x12.mp4
+
 ####################################### 50 Estados de Susto T1 Quibi
 #EXTINF:-1 tvg-logo="https://deadline.com/wp-content/uploads/2020/01/special-use-horizontal-logo-black-rgb-min-1.png" group-title="50 Estados de Susto T1",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
