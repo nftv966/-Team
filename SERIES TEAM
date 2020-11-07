@@ -1127,23 +1127,6 @@ http://playtv.tech/HTML/CONTENIDO/SERIES/Balthazar/2/154027.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81rBNOB-IaL._SL1500_.jpg" group-title="Balthazar T2",cap. 10
 http://playtv.tech/HTML/CONTENIDO/SERIES/Balthazar/2/154028.mp4
 
-####################################### Barbaros Netflix
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Barbaros",Idioma: Subtitulado
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2020/09/netflix-german-original-series-barbarians-coming-to-netflix-in-october-2020.png" group-title="Barbaros",cap. 01
-https://858144546.tapecontent.net/radosgw/g31daO7J0Jf94y/1q5WPHOcRzNJlPlKHizGhNjPqgZkLwK3E-VUylK53E5ydqbBp3qYxG0jkB_aXNs-hhAaDqe9G_BaWlMSQOXoIEth539yGdJhOI2hMA-BiOLvr0Yl5IYEZm8kTUfVe7UWRGZaM2Nv0DGSVv89KXWQnb6tCjtmggTXRWpFkxvbiSZzlBNGLKQCWA-t8kHPc75X8lpHAXOD2f63cAmLzddg_YViMH756aB_ljOw3iOdygCbna_MMtaq3hCxf7t2WluoDoxNaxrjkFOA1IgrhRCIusXup6mDX_mArZ3bEg/B4RB4R0S+SUB+T01XE01.mkv.mp4
-#EXTINF:-1 tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2020/09/netflix-german-original-series-barbarians-coming-to-netflix-in-october-2020.png" group-title="Barbaros",cap. 02
-https://861605443.tapecontent.net/radosgw/RQKOvAODaJSdlLZ/ju38lcSR4XwydSUUvesQwvGGgKNg1Wh9fNXOirrFr3m8IuCHMur3dtW9M8hLC03lPqjJhlcl9vliHN_Sr37bKgt_cWIwDd6B2k4InODyjSmvluzGtSU_l--2hav2eB81pUyQKfBCD-arSZpTwr29OfryJcQtckr9WC6jCzmWtYDpRsn9pRzcwqqMGdhsm7SO5Yw0l6OOV6fTvBp50Yeg9Eo8dlqikL_uBX9hnukRU7nPcnBZCF0ZClwdujYlZrITWVP1tYzbfA162pAmwDEEupZxyODUTVIhO0dd8w/B4RB4R0S+SUB+T01XE02.mkv.mp4
-#EXTINF:-1 tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2020/09/netflix-german-original-series-barbarians-coming-to-netflix-in-october-2020.png" group-title="Barbaros",cap. 03
-https://858143534.tapecontent.net/radosgw/BeJQWWeJXWHyBvv/qMasRfWdKyOS6kKiCqn8gTWVBahHrvAD5l6v_ke73l5Mm486EFJucwu2SczZsMN2QSKiji6H7MI8mRxwnKojWVO7HlZUhmyCACaHyL6vu8vQeiu0sq2ncyCbkMwnoBPULfDh-LrIYD6f-TvpJ4BZdsVGp7oMtpDOIu2VNmNyZBgyZLUbhQb11W8WANxndrv8zln_BiOYk3smR9BVfzrMLL3flheSygLreHfAjcDnhtZrh9InpU9GWCMpICNuZt5EOQGT2toMbMmbvVQg4BkBIXlyOpx4gWww6bL2xw/B4RB4R0S+SUB+T01XE03.mkv.mp4
-#EXTINF:-1 tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2020/09/netflix-german-original-series-barbarians-coming-to-netflix-in-october-2020.png" group-title="Barbaros",cap. 04
-https://858142382.tapecontent.net/radosgw/JvWeoXpJOJF9XG/ssPIempZgEdsX5lksUaemN-bdyIX3ZO7QS36K6GGkGnXCTdHPj0Ee6xcguRFfWHLVImC2V1UavIgLgh5rLjKh6XmSOHkw7-TZzccIOlpOWM3-YgApawQ6qL566zanFpzzRw3maIrOwy8EYXF-5f5C6OtxpiaF3AEWGut7y7XcDYBpqNw6Gll0tYJF-KfB0tOPyK3hO4DLEdqMK8g-2yLCeutFmL7p_DFvyhtKAyieRwHnDSCjUe2ZA9YYdHd0xKXMwb2Ddnu48yi18t-K9Txi_CSXbaU1a7sXUMhug/B4RB4R0S+SUB+T01XE04.mkv.mp4
-#EXTINF:-1 tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2020/09/netflix-german-original-series-barbarians-coming-to-netflix-in-october-2020.png" group-title="Barbaros",cap. 05
-https://2475155094.tapecontent.net/radosgw/RWo4371X7DudVWo/iJqns24wL5moFih6z3FL_ajzxIC4tFccO4UIrdJsNDeWsA5ub6PdcF-Vzroo4F0mEtLV8zGPqcqNql7AO8eApKMHX5rHJhgEOFvZvp3eAiv2nOVeYkWZedDtCNz6DTj_dDJ3ttA9AvvcoHZ-69a63D87elH24DYeIyC9qlx8soP0QPv_Y6axDa0Gr3Vpn_loUgBmljBtcfcjc9G5HSe0HCGjcqBTKIXqc0nrCFJ2jY9UKSjt-pg8q9M4EiUlv-FjLE4FO5GOdxuRbIeKeVTWyOrG05_0FNIk2tDnTw/B4RB4R0S+SUB+T01XE05.mkv.mp4
-#EXTINF:-1 tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2020/09/netflix-german-original-series-barbarians-coming-to-netflix-in-october-2020.png" group-title="Barbaros",cap. 06
-https://861635218.tapecontent.net/radosgw/pbe78M9A1vcrdGb/AESHk4xRcn4M5Q9BX_urMQaO19z2nLnKOVgIj41wycC46QAJktZR9ThH55R7VRBymz9jCCe6SFjjswdrJGOjK0FlPQ5LA5Jd-2R8oLEHc9tG6sXxQSfsGmLfVwMJDCHc5T_Nmx7EzIDhRzrqWTnYIFAPdIjqREDROlvyTq8wQNZCy0zMANO_A0q3gTAmsAZrpNKakrZGroFpSuEMjN9Xd-RER5lCo3iRx5Oorpl3erRI6tTo44YLArYBQIoXIq6lt2hxF3FXA8MUp9yN4Moi5LIsTSFmR9i2dA0ZLw/B4RB4R0S+SUB+T01XE06.mkv.mp4
-
 ####################################### BatWoman T1 Warner bros
 #EXTINF:-1 tvg-logo="https://www.multivu.com/players/uk/8091351-miral-reveals-warner-bros-world-abu-dhabi/image/wb-logo-2-HR.png" group-title="BatWoman T1",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
@@ -3008,25 +2991,6 @@ http://flowhd.xyz/HTML/series/Freud/1x6.mp4
 http://flowhd.xyz/HTML/series/Freud/1x7.mp4
 #EXTINF:-1 tvg-logo="https://www.animalpolitico.com/wp-content/uploads/2020/08/Freud.jpg" group-title="Freud Temp 1",cap. 08
 http://flowhd.xyz/HTML/series/Freud/1x8.mp4
-
-####################################### Gambito de Reina Temp 1 Netflix
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Gambito de Reina Temp 1",Idioma: Subtitulado
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w154/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg" group-title="Gambito de Reina Temp 1",cap. 01
-https://908357231.tapecontent.net/radosgw/4y4VY3WOyoCKR0Y/Wgybl_7eJb3zfZFyQTcLyipKLKMu65x1ubAB1KmpUtIbZImD9BmwiLsHa_FSefZmbJOjd8VW4zQpeEVJxOB6zML68KFE9fuNHaf_yGMRVJzDSsxJaLnQeVZAKU9hNWjTTmmPtwIlHpk8glE3SJqRMr5KHo5bIyF8DZozl8CvZQ7AyfP9DEGzuptsLyWNOL_-YNsY1_h1BPYFfdvSULVI3GxOeOOH-AEMfW9keaYCHCEAdnmg4mTi3VvDx-gMl79OMqh3tLkK7Z85_wdPLRCrT9D09SL-w3Djb8DUvxJ9vzwBfI35pEXtWhL3TVQ/G4MB1T0+D3+R31N4+SUB+T01XE01.mkv.mp4
-#EXTINF:-1 tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w154/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg" group-title="Gambito de Reina Temp 1",cap. 02
-https://861658543.tapecontent.net/radosgw/ekGDQ7LROpSYvkX/htp2Rt8baUUmIBWoaQ7dC6y9T4sRq-THFuGjEexxUqAwnjNhJBX34V6lMQhgjB3qD0HqF9mZI0t6uKoJVO6LRXWAgxH93AC9kVogGQAMR7GwIw6DAEc96BBXU16wKiCmLFQ2hsnIZWYGQ0B91-nWZXMMpqKnzxaAhEaD8lZ1ZlK6EfLgm7tIfCOi3ZzMcDIDqHXZkTUXh3-rWLjrgXMHyU9-em1KxacV4wkuEtRKIEitqwGslPzwPX7snAQ3N7B-ISAaZMWK2rLczaf5NjuD34-ig_TupiSVlUqqWoMjmZw_cMlxKa_AP0JikIc/G4MB1T0+D3+R31N4+SUB+T01XE02.mkv.mp4
-#EXTINF:-1 tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w154/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg" group-title="Gambito de Reina Temp 1",cap. 03
-https://861520838.tapecontent.net/radosgw/yGzP346bMzikWP/Dq9YzFfCiSHms634Am618__DlW7ucGIJtiTewJh_lMwChwYQbKfiuxB_B8TJ30vCgVKu9Tk__5_li0f2q9ElQ9HbczOF8YIYPLxKaEFwLO0P4HyW7L6Q6XoqXaGzr4Tq4TqUP_gth1IjdEI691WWYFLNme5e-MWbsQOXEE5iEGwA71JyyE0BjOOdmflnoTYT_poKY5Rii5bvs95DHyUKy6tT_4KB8doo8kCWOqQnC_Wyr2ORFaFnXbUQoriwqKSV9wfE7bu95Dgs4Bdob06v758u6hMwZC4OOMcin-3MFmfqGzwCxgKsoMLidqo/G4MB1T0+D3+R31N4+SUB+T01XE03.mkv.mp4
-#EXTINF:-1 tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w154/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg" group-title="Gambito de Reina Temp 1",cap. 04
-https://860133934.tapecontent.net/radosgw/x3ljvPlYRoSkePd/g5GertC5mgSxcnSyZL8aG9xFdXNPn1Ri8LgaAnEVEVtW8g_85qlWPidGzgamyV6G-17xquWdvni-bKdBw2qVJOdZObOE3JW8LLQOBm7mKRZQXN3a1t0_JEvmJ-BBDA0wu2vKmIJm1n8wLoiRL_SSvdwxZhmOrWW7oec2VsQjWTl_MeByF7eI2XjiTKi81RYiuPn8jZ2Iwh7mfKcO_DZCDeSwC4kzA1G1nbzy890UwzDKPytOu919TQ9yZiTlM42vGJAD_lgJKLC0oBHr6fFEXEgu_I3LB4b_FBXx6hQ4Hd3LVkjmwJ_RgXENuGY/G4MB1T0+D3+R31N4+SUB+T01XE04.mkv.mp4
-#EXTINF:-1 tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w154/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg" group-title="Gambito de Reina Temp 1",cap. 05
-https://3652634706.tapecontent.net/radosgw/Qgmw0xAKjbH0601/xClHPi8jNiLcloMoA2eSzJxkuT3ZG51B4t_aIfPwOYySmspjiktEAK1yDijgvFaVpMvyySv_yZlRUPy02fQk7Lyf0o8E-YyQreHg1ACs1vGs7x1-F11N9fKRkOlVEAPOfMh6f7uMNGntFyZv0or1N_bEMARyxSvoCDdB4-xlnWV3Wjq-7tZ4MIHa8mp_mfpcIvIUZjCqrBATJ6XSpAJ5ouKWXZnjZUxlhEz6iSZpv9gEvzFAVE06iw-LP89AOvqe8nc9NyF0a4rjrgAQ0-ix-gGvaHz5JvdQGnvYHMCHmEkjybyANfpPM7lgQB8/G4MB1T0+D3+R31N4+SUB+T01XE05.mkv.mp4
-#EXTINF:-1 tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w154/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg" group-title="Gambito de Reina Temp 1",cap. 06
-https://861620583.tapecontent.net/radosgw/dvwbXgPMw3ckr0j/1Cs6qFdaqz4f6ywlnvfLUbDRYEc0IA4qYPjhgsfzvKnIUuojG0sVVlqQXScVrBoHSyGydE9ZcQJZA2xlhlTyegDh6DBMUkIXFWm3PFHyT3Ybdz91Kzq14lsYC2G0r-uqhKJenZJbfVk7p-HKt47ItZI0c3Y-P-fUnCizh63w7EewWjw6DGwUSUCgztpS5QJvYM2orajKYVydTPk3baHZVjCTDJSne73hRP2a8gohQuwuNRu2y-o7XWG6BAeC9-q-lWCDRNQEv23WIfT26QIXObNoccf7r0EcjfyGg1emIONRJTm6UHMYqH7TRus/G4MB1T0+D3+R31N4+SUB+T01XE06.mkv.mp4
-#EXTINF:-1 tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w154/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg" group-title="Gambito de Reina Temp 1",cap. 07
-https://908357361.tapecontent.net/radosgw/DklOYbJa9xHkgPp/WlSGn4iBjhioD-y8qigfYtqkMXtLMXbVLESzFOH-cwnP2FLTs14dW5_FDwppZBwJ4W36arxABFjC9R6_rkQpal44Ic5wJpU6-QDXQcZpnySCUzN0Vr6ZxNxqMr3kbpxfjjmE-YxDmdqLRhuQE2GYQDaDepDBQfraoYEDzvf3SDyXOCSV9dg6erJwAcVARkQ0YB6QVpngmv97JwgYIPA0sjiI4P-QIVLV1dlK_s_OjLLD9J5wEN8W-Dggouq7IGn8Rv6op_P12g8Fe3l2n1NcXNo3zYnPuTvTaOn5LjCh7yBEhLgn1yLduquMuhw/G4MB1T0+D3+R31N4+SUB+T01XE07.mkv.mp4
 
 ####################################### Gentefied Temp 1 Netflix
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Gentefied Temp 1",Idioma: Subtitulado
@@ -5522,23 +5486,6 @@ http://flowhd.xyz/HTML/series/Outer%20Banks/1x8.mp4
 http://flowhd.xyz/HTML/series/Outer%20Banks/1x9.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/06/15/13/37/0583386.jpg" group-title="Outer Banks Temp 1",Cap. 10
 http://flowhd.xyz/HTML/series/Outer%20Banks/1x10.mp4
-
-####################################### Paranormal Netflix
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Paranormal",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w154/ywL47I2pT825YnkHDdiSMRg2pSN.jpg" group-title="Paranormal",Cap. 01
-https://858142469.tapecontent.net/radosgw/vBAk73wwGJh41po/JlUcpdU0CeRgtn2JnDv1zEH0im7-PzE4Cfbj3tOMywRgCl52684LrKS3aOr-MSFcNIrOMnSikh-z67Z6wmBmx42RFAlu5abqIbhNOH3nnY3HVjMNIcsT0rddyKUSA6LpQyD9E2wwf6DwJK1D7IlnuogYZJIqhmlNShgX56TuSPmQlG3wRHlvvfF80RHGq4JIAOL4RXil1hNJ1KNkz0F2s6ZnbQh5Iu0RsqS7X02kXjar8rH3hRqAC_r3WO1Bun7osAxf2cqBC08pXV_QSxop_bVRjtpkneU-mr93DHNlEPOFY818dQh-8DUwnPA/P4R4N0RM4L+LAT+T01XE01.mkv.mp4
-#EXTINF:-1 tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w154/ywL47I2pT825YnkHDdiSMRg2pSN.jpg" group-title="Paranormal",Cap. 02
-https://908374479.tapecontent.net/radosgw/eLAo0e2QeVUkb0/8ziw_37ofScug4YK9JT4TerSVVkt0jXh_L5tsgfCt7xgpJrsWmNT7-WaptA8N2fF_lTar-KHFu3Z1391_Wpfg4xryf7_3Gslj9pscnVI4Fcel5fV3SKCEA5UcXAC1HnekusB499Z7f4MmwxtrxddBtv2C1TC-1kaxCke8a_gnFq8J4w-eTFlIMX26FLj5fgkFLGdJjRxzvZZ3SySgrGY9RNUmFHtiza0LwAw7Y1HZwohEzA_FuRJg29sPmzKn52kLYMNqpOza0aY1dpfeN9JZYGSQKBcjwfsG2Y51TbvJGG7hCLlmX9nfxAoHaY/P4R4N0RM4L+LAT+T01XE02.mkv.mp4
-#EXTINF:-1 tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w154/ywL47I2pT825YnkHDdiSMRg2pSN.jpg" group-title="Paranormal",Cap. 03
-https://861608012.tapecontent.net/radosgw/OkP0dJdrJWc1J6/ahKIT9LaqFOJzOBAWFUZOYAo91pLxW6D9ou3gjlFYaKv5LrJn5fdVN_c8eAyt2hVb_7I1vHsCgkVK5rNnlyXulJvCdlwxxoL6PSajaoEKi3XllBvf1mfO1-ApSnP5S6N3FBDNJ5aYtwyST9UlidJtJrDO0NTBQ2dZXjXn1gOxj2cvYGtyYNXECxnN6et_0lKt-eCIB6H5jaNTZUFA9Nk68JnEYp9D0_c3hJ46UgA6Cv5096ox1zWNjEZBxC26MK1chEfZ5LrP3cQnW25Vc7hbZNSzL5yeV_bUMPxmiQsL8IqFf0KiQlnViab8e4/P4R4N0RM4L+LAT+T01XE03.mkv.mp4
-#EXTINF:-1 tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w154/ywL47I2pT825YnkHDdiSMRg2pSN.jpg" group-title="Paranormal",Cap. 04
-https://908357231.tapecontent.net/radosgw/AJ7gDpajoZC41b/yTRkpXCbudKbCX9q1VFI46ftgt-z87s9tiqhqWUkyN2qY1QByDncM0m2xIo86ezPrGVWXX8ewBFaN2ia6Y6727G2GoIvxmyYC6R9wMxht7gLwsqrZ8OMqGjVKSQxWzt6yA_WI6AFYccpfh14EtVc__n-drhoxjJ2-ZqMpaSjnj1kvMZd4cUt8YdYP5Uq4ICTxW72VXqAVTv1Jijfp9YruLt8SCFyYr3HZEGCJ_GRZNKWjgOfWJR8J4r9yyM_wL4nlKvYnI_cwTaUoddXrDNjA3NflAlnAs8Me0npJsM6SnqUFVCsXystJpAW-Vs/P4R4N0RM4L+LAT+T01XE04.mkv.mp4
-#EXTINF:-1 tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w154/ywL47I2pT825YnkHDdiSMRg2pSN.jpg" group-title="Paranormal",Cap. 05
-https://861481081.tapecontent.net/radosgw/zVa4g1Kgz7HYlgl/nKaZOeq8G_y4QTKx4BKk7CCOBP1jcLSFepx_7sZsA_dobdIUsqWpar3JAlC0battQW-tL3d-Tdwl-lm4UWKgIqpLugaFoJm_Oi2PqgiMCM_Q0tmYzTBUq8ui6o2oNA9AlTGy9IxjrCJ7zieyvgWJ2qO3KxPjPsxVaq9dOIyfRWzr8R5YVuQF2LA9GBvh9EmyrEr4UT7phSYd9vCwmXqlWgNAFFxRSfgVHgDROU4QKIvtVBOdRLZSOy_S7SZndayn0rvtz2bekQSN0GnkKTDQyRxoSWVncF3vCovmWTh_b0La1TMA9s1LnXyS7Pc/P4R4N0RM4L+LAT+T01XE05.mkv.mp4
-#EXTINF:-1 tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w154/ywL47I2pT825YnkHDdiSMRg2pSN.jpg" group-title="Paranormal",Cap. 06
-https://908374502.tapecontent.net/radosgw/Mk4xM08WwQcD6l/h6ItiB2jT2noWbRyi4f4ZOehDC7ChItuKzRLAuTu8idzUtXYl_dPA8dGfm2wqvg3AOWyYyISH2VfcmLK5uJAk0o3zHtdW7tDxCVJpyKI1MwGttXdxcZouQypFs_oZLzIUp8CkL8H76YrMZ5t7Lv0cS1DHZGsdbzkznFWLsSqBEQOxyqA9_ONMO3IyWk2fgzJVJuGDPpY29l53G2EfKj4409l5Z7Xw2WeX3jy87sj-zGrVgPJFPug41nx84xsXDaYKdeFByawr_j7eFblmk9B-eg46GDbwF-8l13ACkR2ylNeHHJhpR1fGQ66JEA/P4R4N0RM4L+LAT+T01XE06.mkv.mp4
 
 ####################################### Para toda la Humanidad Temp 1 Apple tv
 #EXTINF:-1 tvg-logo="https://confidencialcolombia.com/wp-content/uploads/2020/04/APPLETV.jpg" group-title="Para toda la Humanidad Temp 1",Idioma: Subtitulado
