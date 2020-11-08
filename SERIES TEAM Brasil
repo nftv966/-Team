@@ -543,6 +543,21 @@ http://46.4.10.77/Series/Bull/2.Temporada/BULL.S02E21.mp4
 #EXTINF:-1 tvg-logo="https://media.fstatic.com/w18Tx1O-8s556ahiFjj6Z1tj_pI=/290x478/smart/media/movies/covers/2017/10/311945-5.jpg" group-title="Bull T2",cap. 22
 http://46.4.10.77/Series/Bull/2.Temporada/BULL.S02E22.mp4
 
+####################################### Capitu Globoplay
+#EXTINF:-1 tvg-logo="https://easy-group.netlify.app/img/globoplay.png" group-title="Capitu",Idioma: Portugues
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://seriepix.net/images/series/poster/capitu-1491607779.jpg" group-title="Capitu",Cap. 01
+http://46.4.10.77/Series/Serie%20Capitu/Capitu%201.mp4
+#EXTINF:-1 tvg-logo="https://seriepix.net/images/series/poster/capitu-1491607779.jpg" group-title="Capitu",Cap. 02
+http://46.4.10.77/Series/Serie%20Capitu/Capitu%202.mp4
+#EXTINF:-1 tvg-logo="https://seriepix.net/images/series/poster/capitu-1491607779.jpg" group-title="Capitu",Cap. 03
+http://46.4.10.77/Series/Serie%20Capitu/Capitu%203.mp4
+#EXTINF:-1 tvg-logo="https://seriepix.net/images/series/poster/capitu-1491607779.jpg" group-title="Capitu",Cap. 04
+http://46.4.10.77/Series/Serie%20Capitu/Capitu%204.mp4
+#EXTINF:-1 tvg-logo="https://seriepix.net/images/series/poster/capitu-1491607779.jpg" group-title="Capitu",Cap. 05
+http://46.4.10.77/Series/Serie%20Capitu/Capitu%205.mp4
+
 ####################################### Carcereiros T1 Globoplay
 #EXTINF:-1 tvg-logo="https://easy-group.netlify.app/img/globoplay.png" group-title="Carcereiros T1",Idioma: Portugues
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
