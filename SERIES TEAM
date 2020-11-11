@@ -846,6 +846,21 @@ http://playtv.tech/html/HTML/series/Alta%20mar/Season2/2x7.mp4
 #EXTINF:-1 tvg-logo="https://culturamania.com/wp-content/uploads/2019/10/AltaMar_S2_Vertical_Main_RGB_ES.jpg" group-title="Alta Mar T2",cap. 08
 http://playtv.tech/html/HTML/series/Alta%20mar/Season2/2x8.mp4
 
+####################################### Alta Mar T3 Netflix
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Alta Mar T3",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://www.inspirationde.com/media/2020/06/alta-mar-high-seas-poster-netflix-on-behance-15929782748ngk4-770x1141.jpg" group-title="Alta Mar T3",cap. 01
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Alta%20mar%20/Ver%20Alta%20mar%203x1%20online%20en%20castellano%20latino%20subtitulado%20esp.mp4
+#EXTINF:-1 tvg-logo="https://www.inspirationde.com/media/2020/06/alta-mar-high-seas-poster-netflix-on-behance-15929782748ngk4-770x1141.jpg" group-title="Alta Mar T3",cap. 02
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Alta%20mar%20/Ver%20Alta%20mar%203x2%20online%20en%20castellano%20latino%20subtitulado%20esp.mp4
+#EXTINF:-1 tvg-logo="https://www.inspirationde.com/media/2020/06/alta-mar-high-seas-poster-netflix-on-behance-15929782748ngk4-770x1141.jpg" group-title="Alta Mar T3",cap. 03
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Alta%20mar%20/Ver%20Alta%20mar%203x3%20online%20en%20castellano%20latino%20subtitulado%20esp.mp4
+#EXTINF:-1 tvg-logo="https://www.inspirationde.com/media/2020/06/alta-mar-high-seas-poster-netflix-on-behance-15929782748ngk4-770x1141.jpg" group-title="Alta Mar T3",cap. 04
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Alta%20mar%20/Ver%20Alta%20mar%203x4%20online%20en%20castellano%20latino%20subtitulado%20esp.mp4
+#EXTINF:-1 tvg-logo="https://www.inspirationde.com/media/2020/06/alta-mar-high-seas-poster-netflix-on-behance-15929782748ngk4-770x1141.jpg" group-title="Alta Mar T3",cap. 05
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Alta%20mar%20/Ver%20Alta%20mar%203x5%20online%20en%20castellano%20latino%20subtitulado%20esp.mp4
+
 ####################################### Altered Carbon T1 Netflix
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Altered Carbon T1",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
