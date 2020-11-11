@@ -6,37 +6,6 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
-####################################### 13 Miedos T1 Televisa
-#EXTINF:-1 tvg-logo="https://www.d-unas.com.mx/wp-content/uploads/2017/08/televisa.png" group-title="13 Miedos T1",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ux88OLvTL._AC_SY445_.jpg" group-title="13 Miedos T1",cap. 01
-http://playtv.tech/HTML/CONTENIDO/SERIES/13%20miedos%20S01/1/230239.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ux88OLvTL._AC_SY445_.jpg" group-title="13 Miedos T1",cap. 02
-http://playtv.tech/HTML/CONTENIDO/SERIES/13%20miedos%20S01/1/230240.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ux88OLvTL._AC_SY445_.jpg" group-title="13 Miedos T1",cap. 03
-http://playtv.tech/HTML/CONTENIDO/SERIES/13%20miedos%20S01/1/230241.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ux88OLvTL._AC_SY445_.jpg" group-title="13 Miedos T1",cap. 04
-http://playtv.tech/HTML/CONTENIDO/SERIES/13%20miedos%20S01/1/230242.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ux88OLvTL._AC_SY445_.jpg" group-title="13 Miedos T1",cap. 05
-http://playtv.tech/HTML/CONTENIDO/SERIES/13%20miedos%20S01/1/230243.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ux88OLvTL._AC_SY445_.jpg" group-title="13 Miedos T1",cap. 06
-http://playtv.tech/HTML/CONTENIDO/SERIES/13%20miedos%20S01/1/230244.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ux88OLvTL._AC_SY445_.jpg" group-title="13 Miedos T1",cap. 07
-http://playtv.tech/HTML/CONTENIDO/SERIES/13%20miedos%20S01/1/230245.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ux88OLvTL._AC_SY445_.jpg" group-title="13 Miedos T1",cap. 08
-http://playtv.tech/HTML/CONTENIDO/SERIES/13%20miedos%20S01/1/230246.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ux88OLvTL._AC_SY445_.jpg" group-title="13 Miedos T1",cap. 09
-http://playtv.tech/HTML/CONTENIDO/SERIES/13%20miedos%20S01/1/230247.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ux88OLvTL._AC_SY445_.jpg" group-title="13 Miedos T1",cap. 10
-http://playtv.tech/HTML/CONTENIDO/SERIES/13%20miedos%20S01/1/230248.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ux88OLvTL._AC_SY445_.jpg" group-title="13 Miedos T1",cap. 11
-http://playtv.tech/HTML/CONTENIDO/SERIES/13%20miedos%20S01/1/230249.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ux88OLvTL._AC_SY445_.jpg" group-title="13 Miedos T1",cap. 12
-http://playtv.tech/HTML/CONTENIDO/SERIES/13%20miedos%20S01/1/230250.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ux88OLvTL._AC_SY445_.jpg" group-title="13 Miedos T1",cap. 13
-http://playtv.tech/HTML/CONTENIDO/SERIES/13%20miedos%20S01/1/230251.mp4
-
 ####################################### 24 Horas T1 Amazon Prime
 #EXTINF:-1 tvg-logo="https://www.pdvg.it/wp-content/uploads/2020/02/amazon-prime-video-pdvg.png" group-title="24 Horas T1",Idioma: Español
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
