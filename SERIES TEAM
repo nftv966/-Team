@@ -5745,6 +5745,29 @@ http://playtv.tech/html/HTML/series/All%20American/2/2x15.mp4
 #EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/348200/seasonposter/all-american-2018-5dcaa6579926a.jpg" group-title="Todo Americano T2",cap. 16
 http://playtv.tech/html/HTML/series/All%20American/2/2x16.mp4
 
+####################################### Traición TVE
+#EXTINF:-1 tvg-logo="https://www.rafaelmartinbueno.es/wp-content/uploads/2018/10/1200px-TVE.svg_.png" group-title="Traición",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/4b/a0/30/4ba030188b56d6f7684adee4dc7870ba.jpg" group-title="Traición",Cap. 01
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Traici%c3%b3n/1/199183.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/4b/a0/30/4ba030188b56d6f7684adee4dc7870ba.jpg" group-title="Traición",Cap. 02
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Traici%c3%b3n/1/199184.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/4b/a0/30/4ba030188b56d6f7684adee4dc7870ba.jpg" group-title="Traición",Cap. 03
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Traici%c3%b3n/1/199185.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/4b/a0/30/4ba030188b56d6f7684adee4dc7870ba.jpg" group-title="Traición",Cap. 04
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Traici%c3%b3n/1/199186.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/4b/a0/30/4ba030188b56d6f7684adee4dc7870ba.jpg" group-title="Traición",Cap. 05
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Traici%c3%b3n/1/199187.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/4b/a0/30/4ba030188b56d6f7684adee4dc7870ba.jpg" group-title="Traición",Cap. 06
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Traici%c3%b3n/1/199188.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/4b/a0/30/4ba030188b56d6f7684adee4dc7870ba.jpg" group-title="Traición",Cap. 07
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Traici%c3%b3n/1/199189.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/4b/a0/30/4ba030188b56d6f7684adee4dc7870ba.jpg" group-title="Traición",Cap. 08
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Traici%c3%b3n/1/199190.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/4b/a0/30/4ba030188b56d6f7684adee4dc7870ba.jpg" group-title="Traición",Cap. 09 Final
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Traici%c3%b3n/1/199191.mp4
+
 ####################################### Treadstone Amazon Prime
 #EXTINF:-1 tvg-logo="https://www.pdvg.it/wp-content/uploads/2020/02/amazon-prime-video-pdvg.png" group-title="Treadstone",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
