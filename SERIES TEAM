@@ -3731,6 +3731,35 @@ http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Hollywood/1x6.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/8c/40/01/8c40017eb09a67bab0da283cbac643dc.jpg" group-title="Hollywood",Cap.07
 http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Hollywood/1x7.mp4
 
+####################################### Hunters SYFY
+#EXTINF:-1 tvg-logo="https://www.oconowocc.com/wp-content/uploads/2014/11/syfy-36d3299.jpg" group-title="Hunters",Idioma: Subtitulado
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://worldsubtitle.info/wp-content/uploads/Hunters-214x310.jpg" group-title="Hunters",Cap.01
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Hunters/7130.mp4
+#EXTINF:-1 tvg-logo="https://worldsubtitle.info/wp-content/uploads/Hunters-214x310.jpg" group-title="Hunters",Cap.02
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Hunters/7131.mp4
+#EXTINF:-1 tvg-logo="https://worldsubtitle.info/wp-content/uploads/Hunters-214x310.jpg" group-title="Hunters",Cap.03
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Hunters/7132.mp4
+#EXTINF:-1 tvg-logo="https://worldsubtitle.info/wp-content/uploads/Hunters-214x310.jpg" group-title="Hunters",Cap.04
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Hunters/7133.mp4
+#EXTINF:-1 tvg-logo="https://worldsubtitle.info/wp-content/uploads/Hunters-214x310.jpg" group-title="Hunters",Cap.05
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Hunters/7134.mp4
+#EXTINF:-1 tvg-logo="https://worldsubtitle.info/wp-content/uploads/Hunters-214x310.jpg" group-title="Hunters",Cap.06
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Hunters/7135.mp4
+#EXTINF:-1 tvg-logo="https://worldsubtitle.info/wp-content/uploads/Hunters-214x310.jpg" group-title="Hunters",Cap.07
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Hunters/7136.mp4
+#EXTINF:-1 tvg-logo="https://worldsubtitle.info/wp-content/uploads/Hunters-214x310.jpg" group-title="Hunters",Cap.08
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Hunters/7137.mp4
+#EXTINF:-1 tvg-logo="https://worldsubtitle.info/wp-content/uploads/Hunters-214x310.jpg" group-title="Hunters",Cap.09
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Hunters/7138.mp4
+#EXTINF:-1 tvg-logo="https://worldsubtitle.info/wp-content/uploads/Hunters-214x310.jpg" group-title="Hunters",Cap.10
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Hunters/7139.mp4
+#EXTINF:-1 tvg-logo="https://worldsubtitle.info/wp-content/uploads/Hunters-214x310.jpg" group-title="Hunters",Cap.11
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Hunters/7140.mp4
+#EXTINF:-1 tvg-logo="https://worldsubtitle.info/wp-content/uploads/Hunters-214x310.jpg" group-title="Hunters",Cap.12
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Hunters/7141.mp4
+
 ####################################### Into the Dark Temp 1 HULU
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/09/hulu-logo.png" group-title="Into the Dark Temp 1",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
