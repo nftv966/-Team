@@ -1215,6 +1215,27 @@ http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Balthazar/2/154027.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81rBNOB-IaL._SL1500_.jpg" group-title="Balthazar T2",cap. 10
 http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Balthazar/2/154028.mp4
 
+####################################### Barkskins NAT GEO
+#EXTINF:-1 tvg-logo="https://elblogverde.com/wp-content/uploads/2010/01/logo-national-geographic-600x480.jpg" group-title="Barkskin",Idioma: Subtitulado
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://assets.cdn.moviepilot.de/files/b4708e03ffdd651e887faa8fd871b030d7bd1b7d0f176b0adb31426aabd9/limit/500/1000/barkskins_xlg.jpg" group-title="Barkskin",Cap. 01
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Barkskins/Ver%20Barkskins%201x1%20online%20en%20castellano%20latino%20subtitulado%20es.mp4
+#EXTINF:-1 tvg-logo="https://assets.cdn.moviepilot.de/files/b4708e03ffdd651e887faa8fd871b030d7bd1b7d0f176b0adb31426aabd9/limit/500/1000/barkskins_xlg.jpg" group-title="Barkskin",Cap. 02
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Barkskins/Ver%20Barkskins%201x2%20online%20en%20castellano%20latino%20subtitulado%20es.mp4
+#EXTINF:-1 tvg-logo="https://assets.cdn.moviepilot.de/files/b4708e03ffdd651e887faa8fd871b030d7bd1b7d0f176b0adb31426aabd9/limit/500/1000/barkskins_xlg.jpg" group-title="Barkskin",Cap. 03
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Barkskins/Ver%20Barkskins%201x3%20online%20en%20castellano%20latino%20subtitulado%20es.mp4
+#EXTINF:-1 tvg-logo="https://assets.cdn.moviepilot.de/files/b4708e03ffdd651e887faa8fd871b030d7bd1b7d0f176b0adb31426aabd9/limit/500/1000/barkskins_xlg.jpg" group-title="Barkskin",Cap. 04
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Barkskins/Ver%20Barkskins%201x4%20online%20en%20castellano%20latino%20subtitulado%20es.mp4
+#EXTINF:-1 tvg-logo="https://assets.cdn.moviepilot.de/files/b4708e03ffdd651e887faa8fd871b030d7bd1b7d0f176b0adb31426aabd9/limit/500/1000/barkskins_xlg.jpg" group-title="Barkskin",Cap. 05
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Barkskins/Ver%20Barkskins%201x5%20online%20en%20castellano%20latino%20subtitulado%20es.mp4
+#EXTINF:-1 tvg-logo="https://assets.cdn.moviepilot.de/files/b4708e03ffdd651e887faa8fd871b030d7bd1b7d0f176b0adb31426aabd9/limit/500/1000/barkskins_xlg.jpg" group-title="Barkskin",Cap. 06
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Barkskins/Ver%20Barkskins%201x6%20online%20en%20castellano%20latino%20subtitulado%20es.mp4
+#EXTINF:-1 tvg-logo="https://assets.cdn.moviepilot.de/files/b4708e03ffdd651e887faa8fd871b030d7bd1b7d0f176b0adb31426aabd9/limit/500/1000/barkskins_xlg.jpg" group-title="Barkskin",Cap. 07
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Barkskins/Ver%20Barkskins%201x7%20online%20en%20castellano%20latino%20subtitulado%20es.mp4
+#EXTINF:-1 tvg-logo="https://assets.cdn.moviepilot.de/files/b4708e03ffdd651e887faa8fd871b030d7bd1b7d0f176b0adb31426aabd9/limit/500/1000/barkskins_xlg.jpg" group-title="Barkskin",Cap. 08
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Barkskins/Ver%20Barkskins%201x8%20online%20en%20castellano%20latino%20subtitulado%20es.mp4
+
 ####################################### BatWoman T1 Warner bros
 #EXTINF:-1 tvg-logo="https://www.multivu.com/players/uk/8091351-miral-reveals-warner-bros-world-abu-dhabi/image/wb-logo-2-HR.png" group-title="BatWoman T1",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
