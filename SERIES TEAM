@@ -4284,6 +4284,23 @@ http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Rein
 #EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 60
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x60.mp4
 
+####################################### La unidad Movistar Plus
+#EXTINF:-1 tvg-logo="https://www.bolsamania.com/seriesadictos/wp-content/uploads/2018/03/1200px-Movistar-.svg_.png" group-title="La unidad",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://www.accioncine.es/media/k2/items/cache/26de109ae5f81c1da804960dedd52f15_XL.jpg" group-title="La unidad",cap. 01
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/La%20unidad/1x1.mp4
+#EXTINF:-1 tvg-logo="https://www.accioncine.es/media/k2/items/cache/26de109ae5f81c1da804960dedd52f15_XL.jpg" group-title="La unidad",cap. 02
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/La%20unidad/1x2.mp4
+#EXTINF:-1 tvg-logo="https://www.accioncine.es/media/k2/items/cache/26de109ae5f81c1da804960dedd52f15_XL.jpg" group-title="La unidad",cap. 03
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/La%20unidad/1x3.mp4
+#EXTINF:-1 tvg-logo="https://www.accioncine.es/media/k2/items/cache/26de109ae5f81c1da804960dedd52f15_XL.jpg" group-title="La unidad",cap. 04
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/La%20unidad/1x4.mp4
+#EXTINF:-1 tvg-logo="https://www.accioncine.es/media/k2/items/cache/26de109ae5f81c1da804960dedd52f15_XL.jpg" group-title="La unidad",cap. 05
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/La%20unidad/1x5.mp4
+#EXTINF:-1 tvg-logo="https://www.accioncine.es/media/k2/items/cache/26de109ae5f81c1da804960dedd52f15_XL.jpg" group-title="La unidad",cap. 06
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/La%20unidad/1x6.mp4
+
 ####################################### La Verdad sea dicha Apple tv
 #EXTINF:-1 tvg-logo="https://confidencialcolombia.com/wp-content/uploads/2020/04/APPLETV.jpg" group-title="La Verdad sea dicha",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
