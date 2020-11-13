@@ -1782,6 +1782,31 @@ http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Blood%20y%20Water/1x5.mp
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/05/12/09/23/3411163.jpg" group-title="Cuánto pesa la sangre? T1",Cap.06
 http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Blood%20y%20Water/1x6.mp4
 
+####################################### Dani Who? T1 Paramount
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/paramount-png-4.png" group-title="Dani Who? T1",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://www.cinepremiere.com.mx/wp-content/uploads/2020/02/dani-who-poster.jpg" group-title="Dani Who? T1",cap. 01
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Dani%20Who/145555.mp4
+#EXTINF:-1 tvg-logo="https://www.cinepremiere.com.mx/wp-content/uploads/2020/02/dani-who-poster.jpg" group-title="Dani Who? T1",cap. 02
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Dani%20Who/145556.mp4
+#EXTINF:-1 tvg-logo="https://www.cinepremiere.com.mx/wp-content/uploads/2020/02/dani-who-poster.jpg" group-title="Dani Who? T1",cap. 03
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Dani%20Who/145557.mp4
+#EXTINF:-1 tvg-logo="https://www.cinepremiere.com.mx/wp-content/uploads/2020/02/dani-who-poster.jpg" group-title="Dani Who? T1",cap. 04
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Dani%20Who/145558.mp4
+#EXTINF:-1 tvg-logo="https://www.cinepremiere.com.mx/wp-content/uploads/2020/02/dani-who-poster.jpg" group-title="Dani Who? T1",cap. 05
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Dani%20Who/145559.mp4
+#EXTINF:-1 tvg-logo="https://www.cinepremiere.com.mx/wp-content/uploads/2020/02/dani-who-poster.jpg" group-title="Dani Who? T1",cap. 06
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Dani%20Who/145560.mp4
+#EXTINF:-1 tvg-logo="https://www.cinepremiere.com.mx/wp-content/uploads/2020/02/dani-who-poster.jpg" group-title="Dani Who? T1",cap. 07
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Dani%20Who/145561.mp4
+#EXTINF:-1 tvg-logo="https://www.cinepremiere.com.mx/wp-content/uploads/2020/02/dani-who-poster.jpg" group-title="Dani Who? T1",cap. 08
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Dani%20Who/145562.mp4
+#EXTINF:-1 tvg-logo="https://www.cinepremiere.com.mx/wp-content/uploads/2020/02/dani-who-poster.jpg" group-title="Dani Who? T1",cap. 09
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Dani%20Who/145563.mp4
+#EXTINF:-1 tvg-logo="https://www.cinepremiere.com.mx/wp-content/uploads/2020/02/dani-who-poster.jpg" group-title="Dani Who? T1",cap. 10
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Dani%20Who/145564.mp4
+
 ####################################### Dare Me T1 USA
 #EXTINF:-1 tvg-logo="https://jimvidakovich.com/wp-content/uploads/2017/05/USA-Network.png" group-title="Dare Me T1",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
