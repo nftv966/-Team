@@ -1666,6 +1666,25 @@ http://playtv.tech/html/HTML/series/CHICAGO%20FIRE/1/CF%20ByGus%201x23%20Lat.mp4
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/600/640/2_m3.jpg" group-title="Chicago Fire T1",cap. 24
 http://playtv.tech/html/HTML/series/CHICAGO%20FIRE/1/CF%20ByGus%201x24%20Lat.mp4
 
+####################################### Chichipatos T1 Netflix
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Chichipatos T1",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/20/05/12/15/25/4086646.jpg" group-title="Chichipatos T1",Cap.01
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Chichipatos/1.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/20/05/12/15/25/4086646.jpg" group-title="Chichipatos T1",Cap.02
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Chichipatos/2.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/20/05/12/15/25/4086646.jpg" group-title="Chichipatos T1",Cap.03
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Chichipatos/3.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/20/05/12/15/25/4086646.jpg" group-title="Chichipatos T1",Cap.04
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Chichipatos/4.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/20/05/12/15/25/4086646.jpg" group-title="Chichipatos T1",Cap.05
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Chichipatos/5.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/20/05/12/15/25/4086646.jpg" group-title="Chichipatos T1",Cap.06
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Chichipatos/6.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/20/05/12/15/25/4086646.jpg" group-title="Chichipatos T1",Cap.07
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Chichipatos/7.mp4
+
 ####################################### Contra Indicado T1 Netflix
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Contra Indicado T1",Idioma: Español
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
