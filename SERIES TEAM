@@ -3629,6 +3629,27 @@ http://playtv.tech/html/HTML/series/High%20School%20Musical/1x9.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/23/15/40/2781440.jpg" group-title="High School Musical Temp 1",cap. 10
 http://playtv.tech/html/HTML/series/High%20School%20Musical/1x10.mp4
 
+####################################### Hightown T1 STARZ
+#EXTINF:-1 tvg-logo="https://www.starz.com/guides/starzlibrary/logos/stz_2016_wh_rgb.png" group-title="Hightown T1",Idioma: Subtitulado
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://media.senscritique.com/media/000019273629/source_big/Hightown.jpg" group-title="Hightown T1",Cap. 01
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Hightown%20/Ver%20Hightown%201x1%20online%20en%20castellano%20latino%20subtitulado%20esp.mp4
+#EXTINF:-1 tvg-logo="https://media.senscritique.com/media/000019273629/source_big/Hightown.jpg" group-title="Hightown T1",Cap. 02
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Hightown%20/Ver%20Hightown%201x2%20online%20en%20castellano%20latino%20subtitulado%20esp.mp4
+#EXTINF:-1 tvg-logo="https://media.senscritique.com/media/000019273629/source_big/Hightown.jpg" group-title="Hightown T1",Cap. 03
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Hightown%20/Ver%20Hightown%201x3%20online%20en%20castellano%20latino%20subtitulado%20esp.mp4
+#EXTINF:-1 tvg-logo="https://media.senscritique.com/media/000019273629/source_big/Hightown.jpg" group-title="Hightown T1",Cap. 04
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Hightown%20/Ver%20Hightown%201x4%20online%20en%20castellano%20latino%20subtitulado%20esp.mp4
+#EXTINF:-1 tvg-logo="https://media.senscritique.com/media/000019273629/source_big/Hightown.jpg" group-title="Hightown T1",Cap. 05
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Hightown%20/Ver%20Hightown%201x5%20online%20en%20castellano%20latino%20subtitulado%20esp.mp4
+#EXTINF:-1 tvg-logo="https://media.senscritique.com/media/000019273629/source_big/Hightown.jpg" group-title="Hightown T1",Cap. 06
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Hightown%20/Ver%20Hightown%201x6%20online%20en%20castellano%20latino%20subtitulado%20esp.mp4
+#EXTINF:-1 tvg-logo="https://media.senscritique.com/media/000019273629/source_big/Hightown.jpg" group-title="Hightown T1",Cap. 07
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Hightown%20/Ver%20Hightown%201x7%20online%20en%20castellano%20latino%20subtitulado%20esp.mp4
+#EXTINF:-1 tvg-logo="https://media.senscritique.com/media/000019273629/source_big/Hightown.jpg" group-title="Hightown T1",Cap. 08
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Hightown%20/Ver%20Hightown%201x8%20online%20en%20castellano%20latino%20subtitulado%20esp.mp4
+
 ####################################### Hijo Prodigo Temp 1 GLOBAL
 #EXTINF:-1 tvg-logo="https://joannajordan.com/wp-content/uploads/2016/02/GLOBALTELEVISION.png" group-title="Hijo Prodigo Temp 1",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
