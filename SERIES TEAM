@@ -1744,6 +1744,27 @@ http://144.217.180.154/SERVIDOR_2/(CONTRA)INDICADO%2001%20TEMP%20DVD%2001_CAP1A3
 #EXTINF:-1 tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w780/bC1CSudFJCvDm679fRtqdVHlDc3.jpg" group-title="Contra Indicado T1",cap. 4 al 6
 http://144.217.180.154/SERVIDOR_2/(CONTRA)INDICADO%2001%20TEMP%20DVD%2002_CAP4A6z.mp4
 
+####################################### Control Z T1 Netflix
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Control Z T1",Idioma: Subtitulado
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/05/05/18/59/3557457.jpg" group-title="Control Z T1",Cap.01
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Control%20Z/1x1.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/05/05/18/59/3557457.jpg" group-title="Control Z T1",Cap.02
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Control%20Z/1x2.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/05/05/18/59/3557457.jpg" group-title="Control Z T1",Cap.03
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Control%20Z/1x3.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/05/05/18/59/3557457.jpg" group-title="Control Z T1",Cap.04
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Control%20Z/1x4.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/05/05/18/59/3557457.jpg" group-title="Control Z T1",Cap.05
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Control%20Z/1x5.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/05/05/18/59/3557457.jpg" group-title="Control Z T1",Cap.06
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Control%20Z/1x6.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/05/05/18/59/3557457.jpg" group-title="Control Z T1",Cap.07
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Control%20Z/1x7.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/05/05/18/59/3557457.jpg" group-title="Control Z T1",Cap.08
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Control%20Z/1x8.mp4
+
 ####################################### Cuánto pesa la sangre? T1 Netflix
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Cuánto pesa la sangre? T1",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
