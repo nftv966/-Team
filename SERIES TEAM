@@ -4402,6 +4402,29 @@ http://playtv.tech/html/HTML/series/Liar/2/2x5.mp4
 #EXTINF:-1 tvg-logo="https://cdn.hmv.com/r/w-1280/hmv/files/49/491a2a44-effe-4f84-96bd-aa3de9ddc126.jpg" group-title="Liar Temp 2",Cap. 06
 http://playtv.tech/html/HTML/series/Liar/2/2x6.mp4
 
+####################################### Limetown FACEBOOK WATH
+#EXTINF:-1 tvg-logo="https://www.trecebits.com/wp-content/uploads/2018/11/Facebook-Watch.jpg" group-title="Limetown",Idioma: Subtitulado
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://static.filmvandaag.nl/shows/4000/4069.jpg" group-title="Limetown",cap. 01
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Limetown/18346.mp4
+#EXTINF:-1 tvg-logo="https://static.filmvandaag.nl/shows/4000/4069.jpg" group-title="Limetown",cap. 02
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Limetown/18347.mp4
+#EXTINF:-1 tvg-logo="https://static.filmvandaag.nl/shows/4000/4069.jpg" group-title="Limetown",cap. 03
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Limetown/18348.mp4
+#EXTINF:-1 tvg-logo="https://static.filmvandaag.nl/shows/4000/4069.jpg" group-title="Limetown",cap. 04
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Limetown/18350.mp4
+#EXTINF:-1 tvg-logo="https://static.filmvandaag.nl/shows/4000/4069.jpg" group-title="Limetown",cap. 05
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Limetown/18351.mp4
+#EXTINF:-1 tvg-logo="https://static.filmvandaag.nl/shows/4000/4069.jpg" group-title="Limetown",cap. 06
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Limetown/18352.mp4
+#EXTINF:-1 tvg-logo="https://static.filmvandaag.nl/shows/4000/4069.jpg" group-title="Limetown",cap. 07
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Limetown/18353.mp4
+#EXTINF:-1 tvg-logo="https://static.filmvandaag.nl/shows/4000/4069.jpg" group-title="Limetown",cap. 08
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Limetown/18354.mp4
+#EXTINF:-1 tvg-logo="https://static.filmvandaag.nl/shows/4000/4069.jpg" group-title="Limetown",cap. 09
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Limetown/18355.mp4
+
 ####################################### Lincoln Rhyme Temp 1 NBC
 #EXTINF:-1 tvg-logo="https://www.nascar.com/wp-content/uploads/sites/7/2017/04/NBC-237x180.png" group-title="Lincoln Rhyme Temp 1",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
