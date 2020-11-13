@@ -3760,6 +3760,19 @@ http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Hunters/7140.mp4
 #EXTINF:-1 tvg-logo="https://worldsubtitle.info/wp-content/uploads/Hunters-214x310.jpg" group-title="Hunters",Cap.12
 http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Hunters/7141.mp4
 
+####################################### Inocente SUNDANCE NOW
+#EXTINF:-1 tvg-logo="https://www.groundedreason.com/wp-content/uploads/2020/01/sundance-now.jpg" group-title="Inocente",Idioma: Subtitulado
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51qR3lUXY%2BL._AC_SY400_.jpg" group-title="Inocente",Cap. 01
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Innocent/225248.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51qR3lUXY%2BL._AC_SY400_.jpg" group-title="Inocente",Cap. 02
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Innocent/225249.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51qR3lUXY%2BL._AC_SY400_.jpg" group-title="Inocente",Cap. 03
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Innocent/225250.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51qR3lUXY%2BL._AC_SY400_.jpg" group-title="Inocente",Cap. 04
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Innocent/225251.mp4
+
 ####################################### Into the Dark Temp 1 HULU
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/09/hulu-logo.png" group-title="Into the Dark Temp 1",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
