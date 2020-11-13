@@ -2416,6 +2416,23 @@ http://playtv.tech/html/HTML/series/El%20ascenso%20de%20un%20imperio/1x5.mp4
 #EXTINF:-1 tvg-logo="https://yestorrent.net/wp-content/uploads/2020/05/2bbdNmJo49TopIRtKd1W2a9lloF.jpg" group-title="El ascenso de un imperio T1",cap. 06
 http://playtv.tech/html/HTML/series/El%20ascenso%20de%20un%20imperio/1x6.mp4
 
+####################################### El Camino de la Noche T1 Netflix
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="El Camino de la Noche T1",Idioma: Subtitulado
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://fr.web.img6.acsta.net/pictures/20/04/27/11/57/0568858.jpg" group-title="El Camino de la Noche T1",Cap. 01
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Into%20the%20Night/1x1.mp4
+#EXTINF:-1 tvg-logo="https://fr.web.img6.acsta.net/pictures/20/04/27/11/57/0568858.jpg" group-title="El Camino de la Noche T1",Cap. 02
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Into%20the%20Night/1x2.mp4
+#EXTINF:-1 tvg-logo="https://fr.web.img6.acsta.net/pictures/20/04/27/11/57/0568858.jpg" group-title="El Camino de la Noche T1",Cap. 03
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Into%20the%20Night/1x3.mp4
+#EXTINF:-1 tvg-logo="https://fr.web.img6.acsta.net/pictures/20/04/27/11/57/0568858.jpg" group-title="El Camino de la Noche T1",Cap. 04
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Into%20the%20Night/1x4.mp4
+#EXTINF:-1 tvg-logo="https://fr.web.img6.acsta.net/pictures/20/04/27/11/57/0568858.jpg" group-title="El Camino de la Noche T1",Cap. 05
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Into%20the%20Night/1x5.mp4
+#EXTINF:-1 tvg-logo="https://fr.web.img6.acsta.net/pictures/20/04/27/11/57/0568858.jpg" group-title="El Camino de la Noche T1",Cap. 06
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Into%20the%20Night/1x6.mp4
+
 ####################################### El Caza Fortunas T1 BBC
 #EXTINF:-1 tvg-logo="https://www.supertalk.fm/wp-content/uploads/2020/07/bbc.png" group-title="El Caza Fortunas T1",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
