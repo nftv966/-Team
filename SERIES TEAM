@@ -4043,6 +4043,23 @@ http://144.217.77.218/budtv/series/fer/l/La.Hermandad/t2_lat/011.mp4
 #EXTINF:-1 tvg-logo="https://www.karlosperu.com/wp-content/uploads/2017/07/Revista-15-Minutos-2.jpg" group-title="La Hermandad Temp 2",Cap. 12
 http://144.217.77.218/budtv/series/fer/l/La.Hermandad/t2_lat/012.mp4
 
+####################################### La innegable verdad HBO GO
+#EXTINF:-1 tvg-logo="https://cdn.iconscout.com/icon/free/png-512/hbo-go-2-569347.png" group-title="La innegable verdad",Idioma: Subtitulado
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/05/05/08/46/5894249.jpg" group-title="La innegable verdad",cap. 01
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/I%20Know%20This%20Much%20Is%20True/1.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/05/05/08/46/5894249.jpg" group-title="La innegable verdad",cap. 02
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/I%20Know%20This%20Much%20Is%20True/2.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/05/05/08/46/5894249.jpg" group-title="La innegable verdad",cap. 03
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/I%20Know%20This%20Much%20Is%20True/Ver%20I%20Know%20This%20Much%20Is%20True%201x3%20online%20en%20castellano%20latino.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/05/05/08/46/5894249.jpg" group-title="La innegable verdad",cap. 04
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/I%20Know%20This%20Much%20Is%20True/Ver%20I%20Know%20This%20Much%20Is%20True%201x4%20online%20en%20castellano%20latino.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/05/05/08/46/5894249.jpg" group-title="La innegable verdad",cap. 05
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/I%20Know%20This%20Much%20Is%20True/Ver%20I%20Know%20This%20Much%20Is%20True%201x5%20online%20en%20castellano%20latino.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/05/05/08/46/5894249.jpg" group-title="La innegable verdad",cap. 06
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/I%20Know%20This%20Much%20Is%20True/Ver%20I%20Know%20This%20Much%20Is%20True%201x6%20online%20en%20castellano%20latino.mp4
+
 ####################################### L.A.'s Finest Temp 1 Amazon Prime
 #EXTINF:-1 tvg-logo="https://www.pdvg.it/wp-content/uploads/2020/02/amazon-prime-video-pdvg.png" group-title="L.A.'s Finest Temp 1",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
