@@ -4955,6 +4955,23 @@ http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Better%20Than%20Us/15265
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/08/21/16/56/5942452.jpg" group-title="Mejores que Nosotros",Cap.16
 http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Better%20Than%20Us/15266.mp4
 
+####################################### Mentiras ATRESMEDIA
+#EXTINF:-1 tvg-logo="https://fotografias.antena3.com/clipping/cmsimages01/2018/10/18/62DAB998-3AA9-4885-83C5-765A20F97FD3/58.jpg" group-title="Mentiras",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://vertele.eldiario.es/2020/04/01/fotos/Poster-Mentiras_2218588182_14466750_1024x1448.jpg" group-title="Mentiras",cap. 01
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Mentiras/1x1.mp4
+#EXTINF:-1 tvg-logo="https://vertele.eldiario.es/2020/04/01/fotos/Poster-Mentiras_2218588182_14466750_1024x1448.jpg" group-title="Mentiras",cap. 02
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Mentiras/1x2.mp4
+#EXTINF:-1 tvg-logo="https://vertele.eldiario.es/2020/04/01/fotos/Poster-Mentiras_2218588182_14466750_1024x1448.jpg" group-title="Mentiras",cap. 03
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Mentiras/1x3.mp4
+#EXTINF:-1 tvg-logo="https://vertele.eldiario.es/2020/04/01/fotos/Poster-Mentiras_2218588182_14466750_1024x1448.jpg" group-title="Mentiras",cap. 04
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Mentiras/1x4.mp4
+#EXTINF:-1 tvg-logo="https://vertele.eldiario.es/2020/04/01/fotos/Poster-Mentiras_2218588182_14466750_1024x1448.jpg" group-title="Mentiras",cap. 05
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Mentiras/1x5.mp4
+#EXTINF:-1 tvg-logo="https://vertele.eldiario.es/2020/04/01/fotos/Poster-Mentiras_2218588182_14466750_1024x1448.jpg" group-title="Mentiras",cap. 06
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Mentiras/Ver%20Mentiras%201x6%20online%20en%20castellano%20latino%20subtitulado%20esp.mp4
+
 ####################################### Motherland Fort Salem Temp 1 FREEFORM
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/75/8e/1a/758e1a7ae656c3ddb4ac6b677c5fdb16.png" group-title="Motherland Fort Salem Temp 1",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
