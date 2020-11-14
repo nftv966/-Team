@@ -5951,6 +5951,27 @@ http://playtv.tech/html/HTML/series/Orange%20Is%20the%20New%20Black/temporada%20
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TBjAAHRhL._SY445_.jpg" group-title="Orange Is the New Black Temp 6",Cap. 13
 http://playtv.tech/html/HTML/series/Orange%20Is%20the%20New%20Black/temporada%206/Orange%20Is%20the%20New%20Black%206x13.mkv.mp4
 
+####################################### Osmosis Netflix
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Osmosis",Idioma: Subtitulado
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/abandomedia/dbs/foto/dbs_3808_97.jpg" group-title="Osmosis",Cap. 01
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Osmosis/187065.mp4
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/abandomedia/dbs/foto/dbs_3808_97.jpg" group-title="Osmosis",Cap. 02
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Osmosis/187066.mp4
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/abandomedia/dbs/foto/dbs_3808_97.jpg" group-title="Osmosis",Cap. 03
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Osmosis/187067.mp4
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/abandomedia/dbs/foto/dbs_3808_97.jpg" group-title="Osmosis",Cap. 04
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Osmosis/187068.mp4
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/abandomedia/dbs/foto/dbs_3808_97.jpg" group-title="Osmosis",Cap. 05
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Osmosis/187069.mp4
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/abandomedia/dbs/foto/dbs_3808_97.jpg" group-title="Osmosis",Cap. 06
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Osmosis/187070.mp4
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/abandomedia/dbs/foto/dbs_3808_97.jpg" group-title="Osmosis",Cap. 07
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Osmosis/187071.mp4
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/abandomedia/dbs/foto/dbs_3808_97.jpg" group-title="Osmosis",Cap. 08
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Osmosis/187072.mp4
+
 ####################################### Outer Banks Temp 1 Netflix
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Outer Banks Temp 1",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
