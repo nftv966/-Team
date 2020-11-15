@@ -6495,6 +6495,23 @@ http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Reality%20Z%20/Ver%20Rea
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/05/29/13/09/0421228.jpg" group-title="Reality Z",Cap. 10
 http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Reality%20Z%20/Ver%20Reality%20Z%201x10%20online%20en%20castellano%20latino%20subtitulado%20e.mp4
 
+####################################### Requiem BBC
+#EXTINF:-1 tvg-logo="https://www.supertalk.fm/wp-content/uploads/2020/07/bbc.png" group-title="Requiem",Idioma: Subtitulado
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://occ-0-300-299.1.nflxso.net/art/e57ab/96fa0506709cf91f372657d3e1c7d1514fbe57ab.jpg" group-title="Requiem",Cap. 01
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Requiem/174011.mp4
+#EXTINF:-1 tvg-logo="https://occ-0-300-299.1.nflxso.net/art/e57ab/96fa0506709cf91f372657d3e1c7d1514fbe57ab.jpg" group-title="Requiem",Cap. 02
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Requiem/174012.mp4
+#EXTINF:-1 tvg-logo="https://occ-0-300-299.1.nflxso.net/art/e57ab/96fa0506709cf91f372657d3e1c7d1514fbe57ab.jpg" group-title="Requiem",Cap. 03
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Requiem/174013.mp4
+#EXTINF:-1 tvg-logo="https://occ-0-300-299.1.nflxso.net/art/e57ab/96fa0506709cf91f372657d3e1c7d1514fbe57ab.jpg" group-title="Requiem",Cap. 04
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Requiem/174014.mp4
+#EXTINF:-1 tvg-logo="https://occ-0-300-299.1.nflxso.net/art/e57ab/96fa0506709cf91f372657d3e1c7d1514fbe57ab.jpg" group-title="Requiem",Cap. 05
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Requiem/174015.mp4
+#EXTINF:-1 tvg-logo="https://occ-0-300-299.1.nflxso.net/art/e57ab/96fa0506709cf91f372657d3e1c7d1514fbe57ab.jpg" group-title="Requiem",Cap. 06
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Requiem/174016.mp4
+
 ####################################### Servant Temp 1 Apple tv
 #EXTINF:-1 tvg-logo="https://confidencialcolombia.com/wp-content/uploads/2020/04/APPLETV.jpg" group-title="Servant Temp 1",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
