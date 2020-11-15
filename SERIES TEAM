@@ -6864,6 +6864,27 @@ http://playtv.tech/html/HTML/series/Supermax/1x9.mp4
 #EXTINF:-1 tvg-logo="https://media.fstatic.com/gNOdHZoAddcxRmSEkMnkamBOpRM=/290x478/smart/media/movies/covers/2016/11/10414.jpg" group-title="Supermax Temp 1",Cap. 10
 http://playtv.tech/html/HTML/series/Supermax/1x10.mp4
 
+####################################### The Act HULU
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/09/hulu-logo.png" group-title="The Act",Idioma: Subtitulado
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_216_288/pictures/19/03/05/09/31/3039972.jpg" group-title="The Act",cap. 01
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Act/1/196162.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_216_288/pictures/19/03/05/09/31/3039972.jpg" group-title="The Act",cap. 02
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Act/1/196163.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_216_288/pictures/19/03/05/09/31/3039972.jpg" group-title="The Act",cap. 03
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Act/1/196164.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_216_288/pictures/19/03/05/09/31/3039972.jpg" group-title="The Act",cap. 04
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Act/1/196165.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_216_288/pictures/19/03/05/09/31/3039972.jpg" group-title="The Act",cap. 05
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Act/1/196166.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_216_288/pictures/19/03/05/09/31/3039972.jpg" group-title="The Act",cap. 06
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Act/1/196167.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_216_288/pictures/19/03/05/09/31/3039972.jpg" group-title="The Act",cap. 07
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Act/1/196168.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_216_288/pictures/19/03/05/09/31/3039972.jpg" group-title="The Act",cap. 08
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Act/1/196169.mp4
+
 ####################################### The Mandalorian Temp 1 DISNEY PLUS
 #EXTINF:-1 tvg-logo="https://icdn9.digitaltrends.com/image/digitaltrends_es/disney-plus-logo-streaming-topic-500x500.jpg" group-title="The Mandalorian Temp 1",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
