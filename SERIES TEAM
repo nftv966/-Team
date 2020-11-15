@@ -6432,6 +6432,27 @@ http://playtv.tech/html/HTML/series/Queen%20Sono/1x5.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/02/10/14/30/3082656.jpg" group-title="Queen Sono Temp 1",Cap. 06
 http://playtv.tech/html/HTML/series/Queen%20Sono/1x6.mp4
 
+####################################### Ratched Netflix
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Ratched",Idioma: Subtitulado
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/21/c4/88/21c4882d1d299101c0f89319f692bbf0.jpg" group-title="Ratched",Cap. 01
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Ratched/Ver%20Ratched%201x1%20online%20en%20castellano%20latino%20subtitulado%20espa.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/21/c4/88/21c4882d1d299101c0f89319f692bbf0.jpg" group-title="Ratched",Cap. 02
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Ratched/Ver%20Ratched%201x2%20online%20en%20castellano%20latino%20subtitulado%20espa.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/21/c4/88/21c4882d1d299101c0f89319f692bbf0.jpg" group-title="Ratched",Cap. 03
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Ratched/Ver%20Ratched%201x3%20online%20en%20castellano%20latino%20subtitulado%20espa.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/21/c4/88/21c4882d1d299101c0f89319f692bbf0.jpg" group-title="Ratched",Cap. 04
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Ratched/Ver%20Ratched%201x4%20online%20en%20castellano%20latino%20subtitulado%20espa.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/21/c4/88/21c4882d1d299101c0f89319f692bbf0.jpg" group-title="Ratched",Cap. 05
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Ratched/Ver%20Ratched%201x5%20online%20en%20castellano%20latino%20subtitulado%20espa.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/21/c4/88/21c4882d1d299101c0f89319f692bbf0.jpg" group-title="Ratched",Cap. 06
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Ratched/Ver%20Ratched%201x6%20online%20en%20castellano%20latino%20subtitulado%20espa.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/21/c4/88/21c4882d1d299101c0f89319f692bbf0.jpg" group-title="Ratched",Cap. 07
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Ratched/Ver%20Ratched%201x7%20online%20en%20castellano%20latino%20subtitulado%20espa.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/21/c4/88/21c4882d1d299101c0f89319f692bbf0.jpg" group-title="Ratched",Cap. 08
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Ratched/Ver%20Ratched%201x8%20online%20en%20castellano%20latino%20subtitulado%20espa.mp4
+
 ####################################### Ragnarok Temp 1 Netflix
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Ragnarok Temp 1",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
