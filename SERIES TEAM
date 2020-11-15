@@ -6274,6 +6274,23 @@ http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Lost%20in%20Space/2/6328
 #EXTINF:-1 tvg-logo="https://www.mundopeliculas.tv/wp-content/uploads/2019/12/PerdidosEnElEspacio.jpg" group-title="Perdidos en el espacio T2",Cap. 10
 http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Lost%20in%20Space/2/63284.mp4
 
+####################################### Perro Guia DISNEY PLUS
+#EXTINF:-1 tvg-logo="https://icdn9.digitaltrends.com/image/digitaltrends_es/disney-plus-logo-streaming-topic-500x500.jpg" group-title="Perro Guia",Idioma: Subtitulado
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmMzMzZiMDItNTViZC00MDc1LWI5MDYtZWJhN2RmMzA2ZmQ2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="Perro Guia",cap. 01
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Pick%20of%20the%20Litter/1/214464.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmMzMzZiMDItNTViZC00MDc1LWI5MDYtZWJhN2RmMzA2ZmQ2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="Perro Guia",cap. 02
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Pick%20of%20the%20Litter/1/214465.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmMzMzZiMDItNTViZC00MDc1LWI5MDYtZWJhN2RmMzA2ZmQ2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="Perro Guia",cap. 03
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Pick%20of%20the%20Litter/1/214466.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmMzMzZiMDItNTViZC00MDc1LWI5MDYtZWJhN2RmMzA2ZmQ2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="Perro Guia",cap. 04
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Pick%20of%20the%20Litter/1/214467.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmMzMzZiMDItNTViZC00MDc1LWI5MDYtZWJhN2RmMzA2ZmQ2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="Perro Guia",cap. 05
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Pick%20of%20the%20Litter/1/214468.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmMzMzZiMDItNTViZC00MDc1LWI5MDYtZWJhN2RmMzA2ZmQ2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="Perro Guia",cap. 06
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Pick%20of%20the%20Litter/1/214469.mp4
+
 ####################################### Poco Ortodoxa Temp 1 Netflix
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Poco Ortodoxa Temp 1",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
