@@ -6537,6 +6537,25 @@ http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Reverie/107030.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/e9/e2/1d/e9e21de9750b1c7bfac0a6d9a1c9614b.jpg" group-title="Reverie",Cap. 10
 http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Reverie/107031.mp4
 
+####################################### Run HBO GO
+#EXTINF:-1 tvg-logo="https://cdn.iconscout.com/icon/free/png-512/hbo-go-2-569347.png" group-title="Run",Idioma: Subtitulado
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://media.senscritique.com/media/000019261341/source_big/Run.jpg" group-title="Run",cap. 01
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Run/Ver%20Run%20(2020)%201x1%20online%20en%20castellano%20latino%20subtitulado%20e.mp4
+#EXTINF:-1 tvg-logo="https://media.senscritique.com/media/000019261341/source_big/Run.jpg" group-title="Run",cap. 02
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Run/Ver%20Run%20(2020)%201x2%20online%20en%20castellano%20latino%20subtitulado%20e.mp4
+#EXTINF:-1 tvg-logo="https://media.senscritique.com/media/000019261341/source_big/Run.jpg" group-title="Run",cap. 03
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Run/Ver%20Run%20(2020)%201x3%20online%20en%20castellano%20latino%20subtitulado%20e.mp4
+#EXTINF:-1 tvg-logo="https://media.senscritique.com/media/000019261341/source_big/Run.jpg" group-title="Run",cap. 04
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Run/Ver%20Run%20(2020)%201x4%20online%20en%20castellano%20latino%20subtitulado%20e.mp4
+#EXTINF:-1 tvg-logo="https://media.senscritique.com/media/000019261341/source_big/Run.jpg" group-title="Run",cap. 05
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Run/Ver%20Run%20(2020)%201x5%20online%20en%20castellano%20latino%20subtitulado%20e.mp4
+#EXTINF:-1 tvg-logo="https://media.senscritique.com/media/000019261341/source_big/Run.jpg" group-title="Run",cap. 06
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Run/Ver%20Run%20(2020)%201x6%20online%20en%20castellano%20latino%20subtitulado%20e.mp4
+#EXTINF:-1 tvg-logo="https://media.senscritique.com/media/000019261341/source_big/Run.jpg" group-title="Run",cap. 07
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Run/Ver%20Run%20(2020)%201x7%20online%20en%20castellano%20latino%20subtitulado%20e.mp4
+
 ####################################### Servant Temp 1 Apple tv
 #EXTINF:-1 tvg-logo="https://confidencialcolombia.com/wp-content/uploads/2020/04/APPLETV.jpg" group-title="Servant Temp 1",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
