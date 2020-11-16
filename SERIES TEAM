@@ -3104,6 +3104,37 @@ http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/El%20Presidente/Ver%20El
 #EXTINF:-1 tvg-logo="https://www.elseptimoarte.net/carteles/el_presidente_83855.jpg" group-title="El Presidente",cap. 08
 http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/El%20Presidente/Ver%20El%20Presidente%201x8%20online%20en%20castellano%20latino%20subtitulad.mp4
 
+####################################### El Recluso Telemundo
+#EXTINF:-1 tvg-logo="https://www.brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg" group-title="El Recluso",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/18/11/22/20/00/0174413.jpg" group-title="El Recluso",Cap. 01
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/Contenidoangel/SERIE/EL%20RECLUSO/130113.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/18/11/22/20/00/0174413.jpg" group-title="El Recluso",Cap. 02
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/Contenidoangel/SERIE/EL%20RECLUSO/130114.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/18/11/22/20/00/0174413.jpg" group-title="El Recluso",Cap. 03
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/Contenidoangel/SERIE/EL%20RECLUSO/130115.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/18/11/22/20/00/0174413.jpg" group-title="El Recluso",Cap. 04
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/Contenidoangel/SERIE/EL%20RECLUSO/130116.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/18/11/22/20/00/0174413.jpg" group-title="El Recluso",Cap. 05
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/Contenidoangel/SERIE/EL%20RECLUSO/130117.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/18/11/22/20/00/0174413.jpg" group-title="El Recluso",Cap. 06
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/Contenidoangel/SERIE/EL%20RECLUSO/130118.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/18/11/22/20/00/0174413.jpg" group-title="El Recluso",Cap. 07
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/Contenidoangel/SERIE/EL%20RECLUSO/130119.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/18/11/22/20/00/0174413.jpg" group-title="El Recluso",Cap. 08
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/Contenidoangel/SERIE/EL%20RECLUSO/130120.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/18/11/22/20/00/0174413.jpg" group-title="El Recluso",Cap. 09
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/Contenidoangel/SERIE/EL%20RECLUSO/130121.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/18/11/22/20/00/0174413.jpg" group-title="El Recluso",Cap. 10
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/Contenidoangel/SERIE/EL%20RECLUSO/130122.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/18/11/22/20/00/0174413.jpg" group-title="El Recluso",Cap. 11
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/Contenidoangel/SERIE/EL%20RECLUSO/130123.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/18/11/22/20/00/0174413.jpg" group-title="El Recluso",Cap. 12
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/Contenidoangel/SERIE/EL%20RECLUSO/130124.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/18/11/22/20/00/0174413.jpg" group-title="El Recluso",Cap. 13
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/Contenidoangel/SERIE/EL%20RECLUSO/130125.mp4
+
 ####################################### El Robo del Siglo Netflix
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="El Robo del Siglo",Idioma: Español
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
