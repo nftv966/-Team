@@ -2982,6 +2982,23 @@ http://playtv.tech/html/HTML/series/The%20Young%20Pope/2/2x8.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/11/27/09/22/0028991.jpg" group-title="El Joven Papa T2",cap. 09
 http://playtv.tech/html/HTML/series/The%20Young%20Pope/2/2x9.mp4
 
+####################################### El Joven Wallander Netflix
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="El Joven Wallander",Idioma: Subtitulado
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://ic.pics.livejournal.com/t_itanium/14044729/5287881/5287881_original.jpg" group-title="El Joven Wallander",Cap. 01
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Young%20Wallander/Ver%20Young%20Wallander%201x1%20online%20en%20castellano%20latino%20subtitul.mp4
+#EXTINF:-1 tvg-logo="https://ic.pics.livejournal.com/t_itanium/14044729/5287881/5287881_original.jpg" group-title="El Joven Wallander",Cap. 02
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Young%20Wallander/Ver%20Young%20Wallander%201x2%20online%20en%20castellano%20latino%20subtitul.mp4
+#EXTINF:-1 tvg-logo="https://ic.pics.livejournal.com/t_itanium/14044729/5287881/5287881_original.jpg" group-title="El Joven Wallander",Cap. 03
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Young%20Wallander/Ver%20Young%20Wallander%201x3%20online%20en%20castellano%20latino%20subtitul.mp4
+#EXTINF:-1 tvg-logo="https://ic.pics.livejournal.com/t_itanium/14044729/5287881/5287881_original.jpg" group-title="El Joven Wallander",Cap. 04
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Young%20Wallander/Ver%20Young%20Wallander%201x4%20online%20en%20castellano%20latino%20subtitul.mp4
+#EXTINF:-1 tvg-logo="https://ic.pics.livejournal.com/t_itanium/14044729/5287881/5287881_original.jpg" group-title="El Joven Wallander",Cap. 05
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Young%20Wallander/Ver%20Young%20Wallander%201x5%20online%20en%20castellano%20latino%20subtitul.mp4
+#EXTINF:-1 tvg-logo="https://ic.pics.livejournal.com/t_itanium/14044729/5287881/5287881_original.jpg" group-title="El Joven Wallander",Cap. 06
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Young%20Wallander/Ver%20Young%20Wallander%201x6%20online%20en%20castellano%20latino%20subtitul.mp4
+
 ####################################### El Juego de las Victimas Netflix
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="El Juego de las Victimas",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
