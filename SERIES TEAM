@@ -4563,6 +4563,31 @@ http://playtv.tech/html/HTML/series/Lincoln%20Rhym/1x6.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/05/19/18/48/0932506.jpg" group-title="Lincoln Rhyme Temp 1",Cap. 07
 http://playtv.tech/html/HTML/series/Lincoln%20Rhym/1x7.mp4
 
+####################################### Lineas Blancas Netflix
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Lineas Blancas",Idioma: Subtitulado
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/04/22/16/47/5791638.jpg" group-title="Lineas Blancas",Cap. 01
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/White%20Lines/1x1.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/04/22/16/47/5791638.jpg" group-title="Lineas Blancas",Cap. 02
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/White%20Lines/1x2.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/04/22/16/47/5791638.jpg" group-title="Lineas Blancas",Cap. 03
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/White%20Lines/1x3.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/04/22/16/47/5791638.jpg" group-title="Lineas Blancas",Cap. 04
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/White%20Lines/1x4.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/04/22/16/47/5791638.jpg" group-title="Lineas Blancas",Cap. 05
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/White%20Lines/1x5.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/04/22/16/47/5791638.jpg" group-title="Lineas Blancas",Cap. 06
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/White%20Lines/1x6.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/04/22/16/47/5791638.jpg" group-title="Lineas Blancas",Cap. 07
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/White%20Lines/1x7.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/04/22/16/47/5791638.jpg" group-title="Lineas Blancas",Cap. 08
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/White%20Lines/1x8.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/04/22/16/47/5791638.jpg" group-title="Lineas Blancas",Cap. 09
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/White%20Lines/1x9.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/04/22/16/47/5791638.jpg" group-title="Lineas Blancas",Cap. 10
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/White%20Lines/1x10.mp4
+
 ####################################### Little America Temp 1 Apple tv
 #EXTINF:-1 tvg-logo="https://confidencialcolombia.com/wp-content/uploads/2020/04/APPLETV.jpg" group-title="Little America Temp 1",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
