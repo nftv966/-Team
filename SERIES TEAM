@@ -4508,6 +4508,27 @@ http://playtv.tech/html/HTML/series/Little%20America/1x7.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41dKv90lWfL.jpg" group-title="Little America Temp 1",Cap. 08
 http://playtv.tech/html/HTML/series/Little%20America/1x8.mp4
 
+####################################### Los Inocentes Netflix
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Los Inocentes",Idioma: Subtitulado
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/04/19/18/18/4930942.jpg" group-title="Los Inocentes",Cap. 01
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Innocents/13650.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/04/19/18/18/4930942.jpg" group-title="Los Inocentes",Cap. 02
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Innocents/13651.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/04/19/18/18/4930942.jpg" group-title="Los Inocentes",Cap. 03
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Innocents/13652.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/04/19/18/18/4930942.jpg" group-title="Los Inocentes",Cap. 04
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Innocents/13653.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/04/19/18/18/4930942.jpg" group-title="Los Inocentes",Cap. 05
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Innocents/13654.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/04/19/18/18/4930942.jpg" group-title="Los Inocentes",Cap. 06
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Innocents/13655.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/04/19/18/18/4930942.jpg" group-title="Los Inocentes",Cap. 07
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Innocents/13656.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/04/19/18/18/4930942.jpg" group-title="Los Inocentes",Cap. 08
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Innocents/13657.mp4
+
 ####################################### Love Life MAX
 #EXTINF:-1 tvg-logo="https://trollback.com/wp-content/uploads/2019/10/HBO_MAX_Grad_Dark_Horiz-800x0-c-default.png" group-title="Love Life",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
