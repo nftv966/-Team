@@ -2475,6 +2475,24 @@ http://playtv.tech/html/HTML/series/Gold%20Digger/1x5.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91WMqrR5LgL._SY445_.jpg" group-title="El Caza Fortunas T1",cap. 06
 http://playtv.tech/html/HTML/series/Gold%20Digger/1x6.mp4
 
+####################################### El Chalet Netflix
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="El Chalet",Idioma: Subtitulado
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://tv.movizfree.com/wp-content/uploads/2019/08/0000-2401-.jpg" group-title="El Chalet",cap. 0
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Chalet/107875.mp4
+#EXTINF:-1 tvg-logo="https://tv.movizfree.com/wp-content/uploads/2019/08/0000-2401-.jpg" group-title="El Chalet",cap. 0
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Chalet/107876.mp4
+#EXTINF:-1 tvg-logo="https://tv.movizfree.com/wp-content/uploads/2019/08/0000-2401-.jpg" group-title="El Chalet",cap. 0
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Chalet/107877.mp4
+#EXTINF:-1 tvg-logo="https://tv.movizfree.com/wp-content/uploads/2019/08/0000-2401-.jpg" group-title="El Chalet",cap. 0
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Chalet/107878.mp4
+#EXTINF:-1 tvg-logo="https://tv.movizfree.com/wp-content/uploads/2019/08/0000-2401-.jpg" group-title="El Chalet",cap. 0
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Chalet/107879.mp4
+#EXTINF:-1 tvg-logo="https://tv.movizfree.com/wp-content/uploads/2019/08/0000-2401-.jpg" group-title="El Chalet",cap. 0
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Chalet/107880.mp4
+
+
 ####################################### El Chema T1 Telemundo
 #EXTINF:-1 tvg-logo="https://www.brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg" group-title="El Chema T1",Idioma: Español
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
