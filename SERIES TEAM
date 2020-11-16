@@ -6903,6 +6903,31 @@ http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Act/1/196168.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_216_288/pictures/19/03/05/09/31/3039972.jpg" group-title="The Act",cap. 08
 http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Act/1/196169.mp4
 
+####################################### The Great HULU
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/09/hulu-logo.png" group-title="The Great",Idioma: Subtitulado
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/be/38/03/be38035ee8f990411bd75fd99481d0a0.jpg" group-title="The Great",cap. 01
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Great/1x1.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/be/38/03/be38035ee8f990411bd75fd99481d0a0.jpg" group-title="The Great",cap. 02
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Great/1x2.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/be/38/03/be38035ee8f990411bd75fd99481d0a0.jpg" group-title="The Great",cap. 03
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Great/1x3.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/be/38/03/be38035ee8f990411bd75fd99481d0a0.jpg" group-title="The Great",cap. 04
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Great/1x4.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/be/38/03/be38035ee8f990411bd75fd99481d0a0.jpg" group-title="The Great",cap. 05
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Great/1x5.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/be/38/03/be38035ee8f990411bd75fd99481d0a0.jpg" group-title="The Great",cap. 06
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Great/1x6.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/be/38/03/be38035ee8f990411bd75fd99481d0a0.jpg" group-title="The Great",cap. 07
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Great/1x7.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/be/38/03/be38035ee8f990411bd75fd99481d0a0.jpg" group-title="The Great",cap. 08
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Great/1x8.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/be/38/03/be38035ee8f990411bd75fd99481d0a0.jpg" group-title="The Great",cap. 09
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Great/1x9.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/be/38/03/be38035ee8f990411bd75fd99481d0a0.jpg" group-title="The Great",cap. 10
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Great/1x10.mp4
+
 ####################################### The Mandalorian Temp 1 DISNEY PLUS
 #EXTINF:-1 tvg-logo="https://icdn9.digitaltrends.com/image/digitaltrends_es/disney-plus-logo-streaming-topic-500x500.jpg" group-title="The Mandalorian Temp 1",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
