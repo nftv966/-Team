@@ -5692,6 +5692,23 @@ http://playtv.tech/html/HTML/series/The%20Stranger/1x7.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/01/17/09/27/4653623.jpg" group-title="No Hables con Extraños Temp 1",Cap. 08
 http://playtv.tech/html/HTML/series/The%20Stranger/1x8.mp4
 
+####################################### Nosotros Cazamos Juntos BBC
+#EXTINF:-1 tvg-logo="https://www.supertalk.fm/wp-content/uploads/2020/07/bbc.png" group-title="Nosotros Cazamos Juntos",Idioma: Subtitulado
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81sqOWs%2BAsL._SY445_.jpg" group-title="Nosotros Cazamos Juntos",cap. 01
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/We%20Hunt%20Together/Ver%20We%20Hunt%20Together%201x1%20online%20en%20castellano%20latino%20subtitu.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81sqOWs%2BAsL._SY445_.jpg" group-title="Nosotros Cazamos Juntos",cap. 02
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/We%20Hunt%20Together/Ver%20We%20Hunt%20Together%201x2%20online%20en%20castellano%20latino%20subtitu.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81sqOWs%2BAsL._SY445_.jpg" group-title="Nosotros Cazamos Juntos",cap. 03
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/We%20Hunt%20Together/Ver%20We%20Hunt%20Together%201x3%20online%20en%20castellano%20latino%20subtitu.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81sqOWs%2BAsL._SY445_.jpg" group-title="Nosotros Cazamos Juntos",cap. 04
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/We%20Hunt%20Together/Ver%20We%20Hunt%20Together%201x4%20online%20en%20castellano%20latino%20subtitu.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81sqOWs%2BAsL._SY445_.jpg" group-title="Nosotros Cazamos Juntos",cap. 05
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/We%20Hunt%20Together/Ver%20We%20Hunt%20Together%201x5%20online%20en%20castellano%20latino%20subtitu.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81sqOWs%2BAsL._SY445_.jpg" group-title="Nosotros Cazamos Juntos",cap. 06
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/We%20Hunt%20Together/Ver%20We%20Hunt%20Together%201x6%20online%20en%20castellano%20latino%20subtitu.mp4
+
 ####################################### Noughts Crosses Temp 1 BBC
 #EXTINF:-1 tvg-logo="https://www.supertalk.fm/wp-content/uploads/2020/07/bbc.png" group-title="Noughts Crosses Temp 1",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
