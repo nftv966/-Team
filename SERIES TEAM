@@ -2982,6 +2982,27 @@ http://playtv.tech/html/HTML/series/The%20English%20Game/1x5.mp4
 #EXTINF:-1 tvg-logo="https://www.seriemaniac.com/wp-content/uploads/2020/03/Un_juego_de_caballeros_Miniserie_de_TV-188148239-large-214x300.jpg" group-title="El Juego Ingles",cap. 06
 http://playtv.tech/html/HTML/series/The%20English%20Game/1x6.mp4
 
+####################################### El Nombre de la Rosa RAI
+#EXTINF:-1 tvg-logo="https://ilmarcopolo.com/wp-content/uploads/2020/06/1200px-Logo_of_RAI_2016.svg.png" group-title="El Nombre de la Rosa",Idioma: Subtitulado
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://tvguide1.cbsistatic.com/feed/1/524/118956524.jpg" group-title="El Nombre de la Rosa",Cap. 01
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Name%20of%20the%20Rose/21087.mp4
+#EXTINF:-1 tvg-logo="https://tvguide1.cbsistatic.com/feed/1/524/118956524.jpg" group-title="El Nombre de la Rosa",Cap. 02
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Name%20of%20the%20Rose/21088.mp4
+#EXTINF:-1 tvg-logo="https://tvguide1.cbsistatic.com/feed/1/524/118956524.jpg" group-title="El Nombre de la Rosa",Cap. 03
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Name%20of%20the%20Rose/21089.mp4
+#EXTINF:-1 tvg-logo="https://tvguide1.cbsistatic.com/feed/1/524/118956524.jpg" group-title="El Nombre de la Rosa",Cap. 04
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Name%20of%20the%20Rose/21090.mp4
+#EXTINF:-1 tvg-logo="https://tvguide1.cbsistatic.com/feed/1/524/118956524.jpg" group-title="El Nombre de la Rosa",Cap. 05
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Name%20of%20the%20Rose/21091.mp4
+#EXTINF:-1 tvg-logo="https://tvguide1.cbsistatic.com/feed/1/524/118956524.jpg" group-title="El Nombre de la Rosa",Cap. 06
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Name%20of%20the%20Rose/21092.mp4
+#EXTINF:-1 tvg-logo="https://tvguide1.cbsistatic.com/feed/1/524/118956524.jpg" group-title="El Nombre de la Rosa",Cap. 07
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Name%20of%20the%20Rose/21093.mp4
+#EXTINF:-1 tvg-logo="https://tvguide1.cbsistatic.com/feed/1/524/118956524.jpg" group-title="El Nombre de la Rosa",Cap. 08
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Name%20of%20the%20Rose/21094.mp4
+
 ####################################### El Pacifico HBO GO
 #EXTINF:-1 tvg-logo="https://cdn.iconscout.com/icon/free/png-512/hbo-go-2-569347.png" group-title="El Pacifico",Idioma: Español
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
