@@ -4327,6 +4327,23 @@ http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Rein
 #EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 60
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x60.mp4
 
+####################################### La Ultima Palabra Netflix
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="La Ultima Palabra",Idioma: Subtitulado
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://www.movietele.it/files/images/serietv/116278/116279_st1.jpg" group-title="La Ultima Palabra",Cap. 01
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Last%20Word/Ver%20The%20Last%20Word%201x1%20online%20en%20castellano%20latino%20subtitulad.mp4
+#EXTINF:-1 tvg-logo="https://www.movietele.it/files/images/serietv/116278/116279_st1.jpg" group-title="La Ultima Palabra",Cap. 02
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Last%20Word/Ver%20The%20Last%20Word%201x2%20online%20en%20castellano%20latino%20subtitulad.mp4
+#EXTINF:-1 tvg-logo="https://www.movietele.it/files/images/serietv/116278/116279_st1.jpg" group-title="La Ultima Palabra",Cap. 03
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Last%20Word/Ver%20The%20Last%20Word%201x3%20online%20en%20castellano%20latino%20subtitulad.mp4
+#EXTINF:-1 tvg-logo="https://www.movietele.it/files/images/serietv/116278/116279_st1.jpg" group-title="La Ultima Palabra",Cap. 04
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Last%20Word/Ver%20The%20Last%20Word%201x4%20online%20en%20castellano%20latino%20subtitulad.mp4
+#EXTINF:-1 tvg-logo="https://www.movietele.it/files/images/serietv/116278/116279_st1.jpg" group-title="La Ultima Palabra",Cap. 05
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Last%20Word/Ver%20The%20Last%20Word%201x5%20online%20en%20castellano%20latino%20subtitulad.mp4
+#EXTINF:-1 tvg-logo="https://www.movietele.it/files/images/serietv/116278/116279_st1.jpg" group-title="La Ultima Palabra",Cap. 06
+http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Last%20Word/Ver%20The%20Last%20Word%201x6%20online%20en%20castellano%20latino%20subtitulad.mp4
+
 ####################################### La unidad Movistar Plus
 #EXTINF:-1 tvg-logo="https://www.bolsamania.com/seriesadictos/wp-content/uploads/2018/03/1200px-Movistar-.svg_.png" group-title="La unidad",Idioma: Español
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
