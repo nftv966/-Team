@@ -987,6 +987,15 @@ http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Another%20Life/14811.mp4
 #EXTINF:-1 tvg-logo="https://www.seriecanal.com/data/images/rss/4791.jpg" group-title="Another Life T1",cap. 10
 http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Another%20Life/14812.mp4
 
+####################################### Antidisturbios Movistar Plus
+#EXTINF:-1 tvg-logo="https://www.bolsamania.com/seriesadictos/wp-content/uploads/2018/03/1200px-Movistar-.svg_.png" group-title="Antidisturbios",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2100/2186/2_m3.jpg" group-title="Antidisturbios",cap. 01 al 03
+http://144.217.180.154/SERVIDOR_3/ANTIDISTURBIOS%2001%20TEMP%20DVD%2001_CAP.1AL3_ES.mp4
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2100/2186/2_m3.jpg" group-title="Antidisturbios",cap. 04 al 06
+http://144.217.180.154/SERVIDOR_3/ANTIDISTURBIOS%2001%20TEMP%20DVD%2002_CAP.4AL6_ES.mp4
+
 ####################################### Ares T1 Netflix
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Ares T1",Idioma: Español
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
