@@ -7217,6 +7217,102 @@ http://playtv.tech/html/HTML/servidor2/CONTENIDO/CONTENIDO-WILLIAN/serie%20%20Pu
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41D24toMpnL.jpg" group-title="Pure T1",Cap. 06
 http://playtv.tech/html/HTML/servidor2/CONTENIDO/CONTENIDO-WILLIAN/serie%20%20Pure/63214.mp4
 
+####################################### Power T1 STARZ
+#EXTINF:-1 tvg-logo="https://www.starz.com/guides/starzlibrary/logos/stz_2016_wh_rgb.png" group-title="Power T1",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51PsSAkmtuL._AC_.jpg" group-title="Power T1",Cap. 01
+http://144.217.77.218/budtv/series/fer/p/Power/t1.latino-08/p0w3r.1x01.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51PsSAkmtuL._AC_.jpg" group-title="Power T1",Cap. 02
+http://144.217.77.218/budtv/series/fer/p/Power/t1.latino-08/p0w3r.1x02.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51PsSAkmtuL._AC_.jpg" group-title="Power T1",Cap. 03
+http://144.217.77.218/budtv/series/fer/p/Power/t1.latino-08/p0w3r.1x03.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51PsSAkmtuL._AC_.jpg" group-title="Power T1",Cap. 04
+http://144.217.77.218/budtv/series/fer/p/Power/t1.latino-08/p0w3r.1x04.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51PsSAkmtuL._AC_.jpg" group-title="Power T1",Cap. 05
+http://144.217.77.218/budtv/series/fer/p/Power/t1.latino-08/p0w3r.1x05.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51PsSAkmtuL._AC_.jpg" group-title="Power T1",Cap. 06
+http://144.217.77.218/budtv/series/fer/p/Power/t1.latino-08/p0w3r.1x06.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51PsSAkmtuL._AC_.jpg" group-title="Power T1",Cap. 07
+http://144.217.77.218/budtv/series/fer/p/Power/t1.latino-08/p0w3r.1x07.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51PsSAkmtuL._AC_.jpg" group-title="Power T1",Cap. 08
+http://144.217.77.218/budtv/series/fer/p/Power/t1.latino-08/p0w3r.1x08.mp4
+
+####################################### Power T2 STARZ
+#EXTINF:-1 tvg-logo="https://www.starz.com/guides/starzlibrary/logos/stz_2016_wh_rgb.png" group-title="Power T2",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91tuXF4m7RL._SL1500_.jpg" group-title="Power T2",Cap. 01
+http://144.217.77.218/budtv/series/fer/p/Power/t2.latino-10/p0w3r.2x01.lat-1.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91tuXF4m7RL._SL1500_.jpg" group-title="Power T2",Cap. 02
+http://144.217.77.218/budtv/series/fer/p/Power/t2.latino-10/p0w3r.2x2.latino-1.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91tuXF4m7RL._SL1500_.jpg" group-title="Power T2",Cap. 03
+http://144.217.77.218/budtv/series/fer/p/Power/t2.latino-10/p0w3r.2x03.lat-1.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91tuXF4m7RL._SL1500_.jpg" group-title="Power T2",Cap. 04
+http://144.217.77.218/budtv/series/fer/p/Power/t2.latino-10/p0w3r.2x04.lat-1.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91tuXF4m7RL._SL1500_.jpg" group-title="Power T2",Cap. 05
+http://144.217.77.218/budtv/series/fer/p/Power/t2.latino-10/p0w3r.2x05.lat-1.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91tuXF4m7RL._SL1500_.jpg" group-title="Power T2",Cap. 06
+http://144.217.77.218/budtv/series/fer/p/Power/t2.latino-10/p0w3r.2x06.lat-1.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91tuXF4m7RL._SL1500_.jpg" group-title="Power T2",Cap. 07
+http://144.217.77.218/budtv/series/fer/p/Power/t2.latino-10/p0w3r.2x07.lat-1.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91tuXF4m7RL._SL1500_.jpg" group-title="Power T2",Cap. 08
+http://144.217.77.218/budtv/series/fer/p/Power/t2.latino-10/p0w3r.2x08.lat-1.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91tuXF4m7RL._SL1500_.jpg" group-title="Power T2",Cap. 09
+http://144.217.77.218/budtv/series/fer/p/Power/t2.latino-10/p0w3r.2x09.lat-1.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91tuXF4m7RL._SL1500_.jpg" group-title="Power T2",Cap. 10
+http://144.217.77.218/budtv/series/fer/p/Power/t2.latino-10/p0w3r.2x10.lat-1.mp4
+
+####################################### Power T3 STARZ
+#EXTINF:-1 tvg-logo="https://www.starz.com/guides/starzlibrary/logos/stz_2016_wh_rgb.png" group-title="Power T3",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81NZOxc0PkL._SL1448_.jpg" group-title="Power T3",Cap. 01
+http://144.217.77.218/budtv/series/fer/p/Power/t3.latino-10/p0w3r.3x01.720.Lat.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81NZOxc0PkL._SL1448_.jpg" group-title="Power T3",Cap. 02
+http://144.217.77.218/budtv/series/fer/p/Power/t3.latino-10/p0w3r.3x02.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81NZOxc0PkL._SL1448_.jpg" group-title="Power T3",Cap. 03
+http://144.217.77.218/budtv/series/fer/p/Power/t3.latino-10/p0w3r.3x03.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81NZOxc0PkL._SL1448_.jpg" group-title="Power T3",Cap. 04
+http://144.217.77.218/budtv/series/fer/p/Power/t3.latino-10/p0w3r.3x04.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81NZOxc0PkL._SL1448_.jpg" group-title="Power T3",Cap. 05
+http://144.217.77.218/budtv/series/fer/p/Power/t3.latino-10/p0w3r.3x05.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81NZOxc0PkL._SL1448_.jpg" group-title="Power T3",Cap. 06
+http://144.217.77.218/budtv/series/fer/p/Power/t3.latino-10/p0w3r.3x06.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81NZOxc0PkL._SL1448_.jpg" group-title="Power T3",Cap. 07
+http://144.217.77.218/budtv/series/fer/p/Power/t3.latino-10/p0w3r.3x07.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81NZOxc0PkL._SL1448_.jpg" group-title="Power T3",Cap. 08
+http://144.217.77.218/budtv/series/fer/p/Power/t3.latino-10/p0w3r.3x08.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81NZOxc0PkL._SL1448_.jpg" group-title="Power T3",Cap. 09
+http://144.217.77.218/budtv/series/fer/p/Power/t3.latino-10/p0w3r.3x09.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81NZOxc0PkL._SL1448_.jpg" group-title="Power T3",Cap. 10
+http://144.217.77.218/budtv/series/fer/p/Power/t3.latino-10/p0w3r.3x10.mp4
+
+####################################### Power T4 STARZ
+#EXTINF:-1 tvg-logo="https://www.starz.com/guides/starzlibrary/logos/stz_2016_wh_rgb.png" group-title="Power T4",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91QhLtVgT9L._SY445_.jpg" group-title="Power T4",Cap. 01
+http://144.217.77.218/budtv/series/fer/p/Power/t4.latino-10/4x01.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91QhLtVgT9L._SY445_.jpg" group-title="Power T4",Cap. 02
+http://144.217.77.218/budtv/series/fer/p/Power/t4.latino-10/4x02.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91QhLtVgT9L._SY445_.jpg" group-title="Power T4",Cap. 03
+http://144.217.77.218/budtv/series/fer/p/Power/t4.latino-10/4x03.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91QhLtVgT9L._SY445_.jpg" group-title="Power T4",Cap. 04
+http://144.217.77.218/budtv/series/fer/p/Power/t4.latino-10/4x04.720.Lat.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91QhLtVgT9L._SY445_.jpg" group-title="Power T4",Cap. 05
+http://144.217.77.218/budtv/series/fer/p/Power/t4.latino-10/4x05.720.Lat.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91QhLtVgT9L._SY445_.jpg" group-title="Power T4",Cap. 06
+http://144.217.77.218/budtv/series/fer/p/Power/t4.latino-10/4x06.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91QhLtVgT9L._SY445_.jpg" group-title="Power T4",Cap. 07
+http://144.217.77.218/budtv/series/fer/p/Power/t4.latino-10/4x07.720.Lat.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91QhLtVgT9L._SY445_.jpg" group-title="Power T4",Cap. 08
+http://144.217.77.218/budtv/series/fer/p/Power/t4.latino-10/4x08.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91QhLtVgT9L._SY445_.jpg" group-title="Power T4",Cap. 09
+http://144.217.77.218/budtv/series/fer/p/Power/t4.latino-10/4x09.720.Lat.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91QhLtVgT9L._SY445_.jpg" group-title="Power T4",Cap. 10
+http://144.217.77.218/budtv/series/fer/p/Power/t4.latino-10/4x10.720.Lat.mp4
+
 ####################################### P-Valley STARZ
 #EXTINF:-1 tvg-logo="https://www.starz.com/guides/starzlibrary/logos/stz_2016_wh_rgb.png" group-title="P-Valley",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
