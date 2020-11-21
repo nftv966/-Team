@@ -5233,6 +5233,27 @@ http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Innocents/13656.mp
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/04/19/18/18/4930942.jpg" group-title="Los Inocentes",Cap. 08
 http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Innocents/13657.mp4
 
+####################################### Los Pilares de la Tierra STARZ
+#EXTINF:-1 tvg-logo="https://www.starz.com/guides/starzlibrary/logos/stz_2016_wh_rgb.png" group-title="Los Pilares de la Tierra",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/21/ee/a6/21eea600483e69c6dbe545a9536ec46f.jpg" group-title="Los Pilares de la Tierra",Cap. 01
+http://144.217.77.218/budtv/series/fer/l/Los.pilares.de.la.Tierra/1x01.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/21/ee/a6/21eea600483e69c6dbe545a9536ec46f.jpg" group-title="Los Pilares de la Tierra",Cap. 02
+http://144.217.77.218/budtv/series/fer/l/Los.pilares.de.la.Tierra/1x02.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/21/ee/a6/21eea600483e69c6dbe545a9536ec46f.jpg" group-title="Los Pilares de la Tierra",Cap. 03
+http://144.217.77.218/budtv/series/fer/l/Los.pilares.de.la.Tierra/1x03.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/21/ee/a6/21eea600483e69c6dbe545a9536ec46f.jpg" group-title="Los Pilares de la Tierra",Cap. 04
+http://144.217.77.218/budtv/series/fer/l/Los.pilares.de.la.Tierra/1x04.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/21/ee/a6/21eea600483e69c6dbe545a9536ec46f.jpg" group-title="Los Pilares de la Tierra",Cap. 05
+http://144.217.77.218/budtv/series/fer/l/Los.pilares.de.la.Tierra/1x05.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/21/ee/a6/21eea600483e69c6dbe545a9536ec46f.jpg" group-title="Los Pilares de la Tierra",Cap. 06
+http://144.217.77.218/budtv/series/fer/l/Los.pilares.de.la.Tierra/1x06.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/21/ee/a6/21eea600483e69c6dbe545a9536ec46f.jpg" group-title="Los Pilares de la Tierra",Cap. 07
+http://144.217.77.218/budtv/series/fer/l/Los.pilares.de.la.Tierra/1x07.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/21/ee/a6/21eea600483e69c6dbe545a9536ec46f.jpg" group-title="Los Pilares de la Tierra",Cap. 08
+http://144.217.77.218/budtv/series/fer/l/Los.pilares.de.la.Tierra/1x08.mp4
+
 ####################################### Love Life MAX
 #EXTINF:-1 tvg-logo="https://trollback.com/wp-content/uploads/2019/10/HBO_MAX_Grad_Dark_Horiz-800x0-c-default.png" group-title="Love Life",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
