@@ -8524,6 +8524,23 @@ http://playtv.tech/html/HTML/series/White%20House%20Farm/1x5.mp4
 #EXTINF:-1 tvg-logo="https://fr.web.img6.acsta.net/pictures/20/04/01/14/44/4803109.jpg" group-title="White House Farm",Cap. 06 Final
 http://playtv.tech/html/HTML/series/White%20House%20Farm/1x6.mp4
 
+####################################### Years and Years T1 BBC
+#EXTINF:-1 tvg-logo="https://www.supertalk.fm/wp-content/uploads/2020/07/bbc.png" group-title="Years and Years T1",Idioma: Castellano
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/4e/96/06/4e9606a7f386cafa7903e28e94e43627.jpg" group-title="Years and Years T1",cap. 01
+http://fanta.56k.es/series/years_and_years/Years_and_Years-1x01-Spanish_and_English_Subs-Fanta.mkv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/4e/96/06/4e9606a7f386cafa7903e28e94e43627.jpg" group-title="Years and Years T1",cap. 02
+http://fanta.56k.es/series/years_and_years/Years_and_Years-1x02-Spanish_and_English_Subs-Fanta.mkv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/4e/96/06/4e9606a7f386cafa7903e28e94e43627.jpg" group-title="Years and Years T1",cap. 03
+http://fanta.56k.es/series/years_and_years/Years_and_Years-1x03-Spanish_and_English_Subs-Fanta.mkv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/4e/96/06/4e9606a7f386cafa7903e28e94e43627.jpg" group-title="Years and Years T1",cap. 04
+http://fanta.56k.es/series/years_and_years/Years_and_Years-1x04-Spanish_and_English_Subs-Fanta.mkv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/4e/96/06/4e9606a7f386cafa7903e28e94e43627.jpg" group-title="Years and Years T1",cap. 05
+http://fanta.56k.es/series/years_and_years/Years_and_Years-1x05-Spanish_and_English_Subs-Fanta.mkv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/4e/96/06/4e9606a7f386cafa7903e28e94e43627.jpg" group-title="Years and Years T1",cap. 06
+http://fanta.56k.es/series/years_and_years/Years_and_Years-1x06-Spanish_and_English_Subs-Fanta.mkv
+
 ####################################### Yo nunca Netflix
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Yo nunca",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
@@ -8548,7 +8565,4 @@ http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Never%20Have%20I%20Ever/
 http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Never%20Have%20I%20Ever/1/230325.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b7/50/e7/b750e75a7c53dfee99e35f58cf86350c.png" group-title="Yo nunca",Cap. 10
 http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Never%20Have%20I%20Ever/1/230326.mp4
-
-
-
 
