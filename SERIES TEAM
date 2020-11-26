@@ -8057,6 +8057,37 @@ http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Rookie/Ver%20The%2
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1600/1650/1_m1.jpg" group-title="The Rookie Temp 2",Cap. 20
 http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Rookie/Ver%20The%20Rookie%202x20%20online%20en%20castellano%20latino%20subtitulado%20.mp4
 
+####################################### The Wire T1 HBO GO
+#EXTINF:-1 tvg-logo="https://cdn.iconscout.com/icon/free/png-512/hbo-go-2-569347.png" group-title="The Wire T1",Idioma: Castellano
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91x-kxumEHL._AC_SL1500_.jpg" group-title="The Wire T1",cap. 01
+http://fanta.56k.es/series/the_wire/temporada1/The_Wire-1x01-Spanish_English-Fanta.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91x-kxumEHL._AC_SL1500_.jpg" group-title="The Wire T1",cap. 02
+http://fanta.56k.es/series/the_wire/temporada1/The_Wire-1x02-Spanish_English-Fanta.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91x-kxumEHL._AC_SL1500_.jpg" group-title="The Wire T1",cap. 03
+http://fanta.56k.es/series/the_wire/temporada1/The_Wire-1x03-Spanish_English-Fanta.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91x-kxumEHL._AC_SL1500_.jpg" group-title="The Wire T1",cap. 04
+http://fanta.56k.es/series/the_wire/temporada1/The_Wire-1x04-Spanish_English-Fanta.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91x-kxumEHL._AC_SL1500_.jpg" group-title="The Wire T1",cap. 05
+http://fanta.56k.es/series/the_wire/temporada1/The_Wire-1x05-Spanish_English-Fanta.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91x-kxumEHL._AC_SL1500_.jpg" group-title="The Wire T1",cap. 06
+http://fanta.56k.es/series/the_wire/temporada1/The_Wire-1x06-Spanish_English-Fanta.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91x-kxumEHL._AC_SL1500_.jpg" group-title="The Wire T1",cap. 07
+http://fanta.56k.es/series/the_wire/temporada1/The_Wire-1x07-Spanish_English-Fanta.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91x-kxumEHL._AC_SL1500_.jpg" group-title="The Wire T1",cap. 08
+http://fanta.56k.es/series/the_wire/temporada1/The_Wire-1x08-Spanish_English-Fanta.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91x-kxumEHL._AC_SL1500_.jpg" group-title="The Wire T1",cap. 09
+http://fanta.56k.es/series/the_wire/temporada1/The_Wire-1x09-Spanish_English-Fanta.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91x-kxumEHL._AC_SL1500_.jpg" group-title="The Wire T1",cap. 10
+http://fanta.56k.es/series/the_wire/temporada1/The_Wire-1x10-Spanish_English-Fanta.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91x-kxumEHL._AC_SL1500_.jpg" group-title="The Wire T1",cap. 11
+http://fanta.56k.es/series/the_wire/temporada1/The_Wire-1x11-Spanish_English-Fanta.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91x-kxumEHL._AC_SL1500_.jpg" group-title="The Wire T1",cap. 12
+http://fanta.56k.es/series/the_wire/temporada1/The_Wire-1x12-Spanish_English-Fanta.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91x-kxumEHL._AC_SL1500_.jpg" group-title="The Wire T1",cap. 13
+http://fanta.56k.es/series/the_wire/temporada1/The_Wire-1x13-Spanish_English-Fanta.mkv
+
 ####################################### Todo Americano T1 The CW
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/The_CW_Plus.png/440px-The_CW_Plus.png" group-title="Todo Americano T1",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
@@ -8517,6 +8548,7 @@ http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Never%20Have%20I%20Ever/
 http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Never%20Have%20I%20Ever/1/230325.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b7/50/e7/b750e75a7c53dfee99e35f58cf86350c.png" group-title="Yo nunca",Cap. 10
 http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Never%20Have%20I%20Ever/1/230326.mp4
+
 
 
 
