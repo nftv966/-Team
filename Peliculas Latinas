@@ -10,6 +10,8 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 ####################################### 2020
 
+#EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81HDHGiiZ2L._RI_.jpg" group-title="2020",Bloodshot (2020)
+http://5.9.94.182/master/Peliculas%202020/BLOODHOST%202020.mp4
 #EXTINF:0 tvg-logo="https://mx.web.img3.acsta.net/pictures/18/11/26/17/30/2342256.jpg" group-title="2020",Super Monstruos (2020)
 http://62.210.190.73/Movies/INFANTILES/Super%20Monster%20(Dual-2020).mkv
 #EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71fgiaN2-wL._SL1200_.jpg" group-title="2020",Spycies: Dos Espias Rebeldes (2020)
