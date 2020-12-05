@@ -10,6 +10,8 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 ####################################### 2020
 
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/03/16/ab/0316ab9fc566a6d7fa4092b7259fc2b5.jpg" group-title="2020",Emma (2020)
+http://5.9.94.182/master/Peliculas%202020/EMMA%202020.mp4
 #EXTINF:0 tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/31/11/21/3879731.jpg" group-title="2020",Hogar (2020)
 http://5.9.94.182/master/Peliculas%202020/EL%20HOGAR%202020.mp4
 #EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81HDHGiiZ2L._RI_.jpg" group-title="2020",Bloodshot (2020)
