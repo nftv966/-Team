@@ -10,6 +10,8 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 ####################################### 2020
 
+#EXTINF:0 tvg-logo="https://i.pinimg.com/474x/f0/ae/d4/f0aed4491637a4dc6256f6ff588bd267.jpg" group-title="2020",Modo Avión (2020)
+http://5.9.94.182/master/Peliculas%202020/Modo%20avi%c3%b3n%20(2020).mp4
 #EXTINF:0 tvg-logo="https://www.whatscine.es/wp-content/uploads/2020/01/malasa%C3%B1a32.jpg" group-title="2020",Malasaña 32 (2020)
 http://5.9.94.182/master/Peliculas%202020/MALASANA%2032%202020.mp4
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/03/16/ab/0316ab9fc566a6d7fa4092b7259fc2b5.jpg" group-title="2020",Emma (2020)
