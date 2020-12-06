@@ -612,6 +612,23 @@ http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Teenage%20Bounty%20Hunte
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/8a/7a/69/8a7a69e625710ecc7a7d5af3ac2239fe.jpg" group-title="Adolescentes Cazadoras de Recompensas",Cap. 10
 http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Teenage%20Bounty%20Hunters/Ver%20Teenage%20Bounty%20Hunters%201x10%20online%20en%20castellano%20latino%20.mp4
 
+####################################### Agua Seca TV GALICIA
+#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/full/928-9289113_download-television-de-galicia-logo-televisin-de-galicia.png" group-title="Agua Seca",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/17/08/35/4031144.jpg" group-title="Agua Seca",cap. 01
+http://5.9.94.182/master/SERIES%202/AGUA%20SECA/T1/1X01.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/17/08/35/4031144.jpg" group-title="Agua Seca",cap. 02
+http://5.9.94.182/master/SERIES%202/AGUA%20SECA/T1/1X02.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/17/08/35/4031144.jpg" group-title="Agua Seca",cap. 03
+http://5.9.94.182/master/SERIES%202/AGUA%20SECA/T1/1X03.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/17/08/35/4031144.jpg" group-title="Agua Seca",cap. 04
+http://5.9.94.182/master/SERIES%202/AGUA%20SECA/T1/1X04.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/17/08/35/4031144.jpg" group-title="Agua Seca",cap. 05
+http://5.9.94.182/master/SERIES%202/AGUA%20SECA/T1/1X05.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/17/08/35/4031144.jpg" group-title="Agua Seca",cap. 06
+http://5.9.94.182/master/SERIES%202/AGUA%20SECA/T1/1X06.mp4
+
 ####################################### AJ y la Reina T1 Netflix
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="AJ y la Reina T1",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
