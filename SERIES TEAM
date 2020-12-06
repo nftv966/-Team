@@ -4827,6 +4827,23 @@ http://playtv.tech/html/HTML/servidor2/CONTENIDO/CONTENIDO-WILLIAN/L.A.'S%20FINE
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/12/11/43/3558804.jpg" group-title="L.A.'s Finest Temp 1",Cap. 13
 http://playtv.tech/html/HTML/servidor2/CONTENIDO/CONTENIDO-WILLIAN/L.A.'S%20FINEST/11603.mp4
 
+####################################### La Linea Invisible Movistar Plus
+#EXTINF:-1 tvg-logo="https://www.bolsamania.com/seriesadictos/wp-content/uploads/2018/03/1200px-Movistar-.svg_.png" group-title="La Linea Invisible",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/0c/44/e4/0c44e46b6c580b0d6fc5a9e381f7b9af.jpg" group-title="La Linea Invisible",cap. 01
+http://5.9.94.182/master/SERIES%202/LA%20LINEA%20INVISIBLE%202020/T1/1x01%20La%20Li%cc%81nea%20Invisible%20@La_Comunidad.mkv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/0c/44/e4/0c44e46b6c580b0d6fc5a9e381f7b9af.jpg" group-title="La Linea Invisible",cap. 02
+http://5.9.94.182/master/SERIES%202/LA%20LINEA%20INVISIBLE%202020/T1/1x02%20La%20Li%cc%81nea%20Invisible%20@La_Comunidad.mkv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/0c/44/e4/0c44e46b6c580b0d6fc5a9e381f7b9af.jpg" group-title="La Linea Invisible",cap. 03
+http://5.9.94.182/master/SERIES%202/LA%20LINEA%20INVISIBLE%202020/T1/1x03%20La%20Li%cc%81nea%20Invisible%20@La_Comunidad.mkv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/0c/44/e4/0c44e46b6c580b0d6fc5a9e381f7b9af.jpg" group-title="La Linea Invisible",cap. 04
+http://5.9.94.182/master/SERIES%202/LA%20LINEA%20INVISIBLE%202020/T1/1x04%20La%20Li%cc%81nea%20Invisible%20@La_Comunidad.mkv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/0c/44/e4/0c44e46b6c580b0d6fc5a9e381f7b9af.jpg" group-title="La Linea Invisible",cap. 05
+http://5.9.94.182/master/SERIES%202/LA%20LINEA%20INVISIBLE%202020/T1/1x05%20La%20Li%cc%81nea%20Invisible%20@La_Comunidad.mkv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/0c/44/e4/0c44e46b6c580b0d6fc5a9e381f7b9af.jpg" group-title="La Linea Invisible",cap. 06
+http://5.9.94.182/master/SERIES%202/LA%20LINEA%20INVISIBLE%202020/T1/1x06%20La%20Li%cc%81nea%20Invisible%20@La_Comunidad.mkv
+
 ####################################### La mano de Dios T1 Amazon Prime
 #EXTINF:-1 tvg-logo="https://www.pdvg.it/wp-content/uploads/2020/02/amazon-prime-video-pdvg.png" group-title="La mano de Dios T1",Idioma: Español
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
