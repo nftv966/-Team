@@ -4432,6 +4432,27 @@ http://5.9.94.182/master/SERIES%201/HAUNTED/2/05.mkv
 #EXTINF:-1 tvg-logo="https://morningpicker.com/wp-content/uploads/2019/10/Haunted-1200x1800.jpg" group-title="Haunted T2",Cap. 06
 http://5.9.94.182/master/SERIES%201/HAUNTED/2/06.mkv
 
+####################################### Hernan Amazon Prime
+#EXTINF:-1 tvg-logo="https://www.pdvg.it/wp-content/uploads/2020/02/amazon-prime-video-pdvg.png" group-title="Hernan",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/00/78/32/007832ba99868961977f16b936df3e83.jpg" group-title="Hernan",cap. 01
+http://5.9.94.182/master/SERIES%201/hernan/Hernan.1x01.mkv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/00/78/32/007832ba99868961977f16b936df3e83.jpg" group-title="Hernan",cap. 02
+http://5.9.94.182/master/SERIES%201/hernan/Hernan.1x02.mkv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/00/78/32/007832ba99868961977f16b936df3e83.jpg" group-title="Hernan",cap. 03
+http://5.9.94.182/master/SERIES%201/hernan/Hernan.1x03.mkv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/00/78/32/007832ba99868961977f16b936df3e83.jpg" group-title="Hernan",cap. 04
+http://5.9.94.182/master/SERIES%201/hernan/Hernan.1x04.mkv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/00/78/32/007832ba99868961977f16b936df3e83.jpg" group-title="Hernan",cap. 05
+http://5.9.94.182/master/SERIES%201/hernan/Hernan.1x05.mkv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/00/78/32/007832ba99868961977f16b936df3e83.jpg" group-title="Hernan",cap. 06
+http://5.9.94.182/master/SERIES%201/hernan/Hernan.1x06.mkv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/00/78/32/007832ba99868961977f16b936df3e83.jpg" group-title="Hernan",cap. 07
+http://5.9.94.182/master/SERIES%201/hernan/Hernan.1x07.mkv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/00/78/32/007832ba99868961977f16b936df3e83.jpg" group-title="Hernan",cap. 08
+http://5.9.94.182/master/SERIES%201/hernan/Hernan.1x08.mkv
+
 ####################################### Heroes Invisibles Temp 1 CHILEVISION
 #EXTINF:-1 tvg-logo="https://assets.adnradio.cl/images/20180515b0e038b9.png" group-title="Heroes Invisibles Temp 1",Idioma: Español
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
