@@ -7111,6 +7111,25 @@ http://playtv.tech/html/HTML/servidor2/CONTENIDO/CONTENIDO-WILLIAN/Pennyworth/12
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/13/09/32/3633532.jpg" group-title="Pennyworth Temp 1",Cap. 10
 http://playtv.tech/html/HTML/servidor2/CONTENIDO/CONTENIDO-WILLIAN/Pennyworth/12043.mp4
 
+####################################### Pequeñas Mentiras T1 HBO GO
+#EXTINF:-1 tvg-logo="https://cdn.iconscout.com/icon/free/png-512/hbo-go-2-569347.png" group-title="Pequeñas Mentiras T1",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91DfjA-VJDL._SL1500_.jpg" group-title="Pequeñas Mentiras T1",cap. 01
+http://5.9.94.182/master/SERIES%201/BIG%20LITTLE%20LIES/1/01.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91DfjA-VJDL._SL1500_.jpg" group-title="Pequeñas Mentiras T1",cap. 02
+http://5.9.94.182/master/SERIES%201/BIG%20LITTLE%20LIES/1/02.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91DfjA-VJDL._SL1500_.jpg" group-title="Pequeñas Mentiras T1",cap. 03
+http://5.9.94.182/master/SERIES%201/BIG%20LITTLE%20LIES/1/03.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91DfjA-VJDL._SL1500_.jpg" group-title="Pequeñas Mentiras T1",cap. 04
+http://5.9.94.182/master/SERIES%201/BIG%20LITTLE%20LIES/1/04.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91DfjA-VJDL._SL1500_.jpg" group-title="Pequeñas Mentiras T1",cap. 05
+http://5.9.94.182/master/SERIES%201/BIG%20LITTLE%20LIES/1/05.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91DfjA-VJDL._SL1500_.jpg" group-title="Pequeñas Mentiras T1",cap. 06
+http://5.9.94.182/master/SERIES%201/BIG%20LITTLE%20LIES/1/06.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91DfjA-VJDL._SL1500_.jpg" group-title="Pequeñas Mentiras T1",cap. 07
+http://5.9.94.182/master/SERIES%201/BIG%20LITTLE%20LIES/1/07.mkv
+
 ####################################### Pequeños fuegos por todas partes Temp 1 Amazon Prime
 #EXTINF:-1 tvg-logo="https://www.pdvg.it/wp-content/uploads/2020/02/amazon-prime-video-pdvg.png" group-title="Pequeños fuegos por todas partes Temp 1",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
