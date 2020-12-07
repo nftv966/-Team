@@ -1169,6 +1169,40 @@ http://playtv.tech/html/HTML/series/Avenue%205/1x8.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/12/11/11/15/5614301.jpg" group-title="Avenida 5 T1",cap. 09
 http://playtv.tech/html/HTML/series/Avenue%205/1x9.mp4
 
+####################################### Baby T1 Netflix
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Baby T1",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/22/ae/67/22ae675e8012006d68e31d0b20aca9bb.jpg" group-title="Baby T1",Cap. 01
+http://5.9.94.182/master/SERIES%201/baby/01.mkv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/22/ae/67/22ae675e8012006d68e31d0b20aca9bb.jpg" group-title="Baby T1",Cap. 02
+http://5.9.94.182/master/SERIES%201/baby/02.mkv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/22/ae/67/22ae675e8012006d68e31d0b20aca9bb.jpg" group-title="Baby T1",Cap. 03
+http://5.9.94.182/master/SERIES%201/baby/03.mkv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/22/ae/67/22ae675e8012006d68e31d0b20aca9bb.jpg" group-title="Baby T1",Cap. 04
+http://5.9.94.182/master/SERIES%201/baby/04.mkv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/22/ae/67/22ae675e8012006d68e31d0b20aca9bb.jpg" group-title="Baby T1",Cap. 05
+http://5.9.94.182/master/SERIES%201/baby/05.mkv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/22/ae/67/22ae675e8012006d68e31d0b20aca9bb.jpg" group-title="Baby T1",Cap. 06
+http://5.9.94.182/master/SERIES%201/baby/06.mkv
+
+####################################### Baby T2 Netflix
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Baby T2",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/1f/31/4f/1f314fedcb27176c075367d8f977ada8.jpg" group-title="Baby T2",Cap. 01
+http://5.9.94.182/master/SERIES%201/baby/2/01.mkv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/1f/31/4f/1f314fedcb27176c075367d8f977ada8.jpg" group-title="Baby T2",Cap. 02
+http://5.9.94.182/master/SERIES%201/baby/2/02.mkv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/1f/31/4f/1f314fedcb27176c075367d8f977ada8.jpg" group-title="Baby T2",Cap. 03
+http://5.9.94.182/master/SERIES%201/baby/2/03.mkv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/1f/31/4f/1f314fedcb27176c075367d8f977ada8.jpg" group-title="Baby T2",Cap. 04
+http://5.9.94.182/master/SERIES%201/baby/2/04.mkv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/1f/31/4f/1f314fedcb27176c075367d8f977ada8.jpg" group-title="Baby T2",Cap. 05
+http://5.9.94.182/master/SERIES%201/baby/2/05.mkv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/1f/31/4f/1f314fedcb27176c075367d8f977ada8.jpg" group-title="Baby T2",Cap. 06
+http://5.9.94.182/master/SERIES%201/baby/2/06.mkv
+
 ####################################### Bajo Sospecha T1 Atres Media
 #EXTINF:-1 tvg-logo="http://companies4sdgs.org/wp-content/uploads/2017/05/Atresmedia_logo.png" group-title="Bajo Sospecha T1",Idioma: Español
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
