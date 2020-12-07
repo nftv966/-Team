@@ -8166,6 +8166,31 @@ http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Act/1/196168.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_216_288/pictures/19/03/05/09/31/3039972.jpg" group-title="The Act",cap. 08
 http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/The%20Act/1/196169.mp4
 
+####################################### The Feed T1 Amazon Prime
+#EXTINF:-1 tvg-logo="https://www.pdvg.it/wp-content/uploads/2020/02/amazon-prime-video-pdvg.png" group-title="The Feed",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://www.filmtv.it/imgbank/GALLERYXL/R201912/tf.jpg" group-title="The Feed T1",cap. 01
+http://5.9.94.182/master/SERIES%201/the%20feed/The%20Feed%20S01E01.mkv
+#EXTINF:-1 tvg-logo="https://www.filmtv.it/imgbank/GALLERYXL/R201912/tf.jpg" group-title="The Feed T1",cap. 02
+http://5.9.94.182/master/SERIES%201/the%20feed/The%20Feed%20S01E02.mkv
+#EXTINF:-1 tvg-logo="https://www.filmtv.it/imgbank/GALLERYXL/R201912/tf.jpg" group-title="The Feed T1",cap. 03
+http://5.9.94.182/master/SERIES%201/the%20feed/The%20Feed%20S01E03.mkv
+#EXTINF:-1 tvg-logo="https://www.filmtv.it/imgbank/GALLERYXL/R201912/tf.jpg" group-title="The Feed T1",cap. 04
+http://5.9.94.182/master/SERIES%201/the%20feed/The%20Feed%20S01E04.mkv
+#EXTINF:-1 tvg-logo="https://www.filmtv.it/imgbank/GALLERYXL/R201912/tf.jpg" group-title="The Feed T1",cap. 05
+http://5.9.94.182/master/SERIES%201/the%20feed/The%20Feed%20S01E05.mkv
+#EXTINF:-1 tvg-logo="https://www.filmtv.it/imgbank/GALLERYXL/R201912/tf.jpg" group-title="The Feed T1",cap. 06
+http://5.9.94.182/master/SERIES%201/the%20feed/The%20Feed%20S01E06.mkv
+#EXTINF:-1 tvg-logo="https://www.filmtv.it/imgbank/GALLERYXL/R201912/tf.jpg" group-title="The Feed T1",cap. 07
+http://5.9.94.182/master/SERIES%201/the%20feed/The%20Feed%20S01E07.mkv
+#EXTINF:-1 tvg-logo="https://www.filmtv.it/imgbank/GALLERYXL/R201912/tf.jpg" group-title="The Feed T1",cap. 08
+http://5.9.94.182/master/SERIES%201/the%20feed/The%20Feed%20S01E08.mkv
+#EXTINF:-1 tvg-logo="https://www.filmtv.it/imgbank/GALLERYXL/R201912/tf.jpg" group-title="The Feed T1",cap. 09
+http://5.9.94.182/master/SERIES%201/the%20feed/The%20Feed%20S01E09.mkv
+#EXTINF:-1 tvg-logo="https://www.filmtv.it/imgbank/GALLERYXL/R201912/tf.jpg" group-title="The Feed T1",cap. 10
+http://5.9.94.182/master/SERIES%201/the%20feed/The%20Feed%20S01E10.mkv
+
 ####################################### The Good Doctor T1 ABC
 #EXTINF:-1 tvg-logo="https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/31686/article_full%401x.jpg" group-title="The Good Doctor T1",Idioma: Español
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
