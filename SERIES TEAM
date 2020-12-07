@@ -4313,6 +4313,40 @@ http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Hanna/2/Ver%20Hanna%202x
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/04/30/09/37/4183380.jpg" group-title="Hanna Temp 2",cap. 08
 http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Hanna/2/Ver%20Hanna%202x8%20online%20en%20castellano%20latino%20subtitulado%20espa%c3%b1o.mp4
 
+####################################### Haunted T1 Netflix
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Haunted T1",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://fr.web.img3.acsta.net/pictures/18/10/11/09/56/5101329.jpg" group-title="Haunted T1",Cap. 01
+http://5.9.94.182/master/SERIES%201/HAUNTED/1/S01E01.mkv
+#EXTINF:-1 tvg-logo="https://fr.web.img3.acsta.net/pictures/18/10/11/09/56/5101329.jpg" group-title="Haunted T1",Cap. 02
+http://5.9.94.182/master/SERIES%201/HAUNTED/1/S01E02.mkv
+#EXTINF:-1 tvg-logo="https://fr.web.img3.acsta.net/pictures/18/10/11/09/56/5101329.jpg" group-title="Haunted T1",Cap. 03
+http://5.9.94.182/master/SERIES%201/HAUNTED/1/S01E03.mkv
+#EXTINF:-1 tvg-logo="https://fr.web.img3.acsta.net/pictures/18/10/11/09/56/5101329.jpg" group-title="Haunted T1",Cap. 04
+http://5.9.94.182/master/SERIES%201/HAUNTED/1/S01E04.mkv
+#EXTINF:-1 tvg-logo="https://fr.web.img3.acsta.net/pictures/18/10/11/09/56/5101329.jpg" group-title="Haunted T1",Cap. 05
+http://5.9.94.182/master/SERIES%201/HAUNTED/1/S01E05.mkv
+#EXTINF:-1 tvg-logo="https://fr.web.img3.acsta.net/pictures/18/10/11/09/56/5101329.jpg" group-title="Haunted T1",Cap. 06
+http://5.9.94.182/master/SERIES%201/HAUNTED/1/S01E06.mkv
+
+####################################### Haunted T2 Netflix
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Haunted T2",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://morningpicker.com/wp-content/uploads/2019/10/Haunted-1200x1800.jpg" group-title="Haunted T2",Cap. 01
+http://5.9.94.182/master/SERIES%201/HAUNTED/2/01.mkv
+#EXTINF:-1 tvg-logo="https://morningpicker.com/wp-content/uploads/2019/10/Haunted-1200x1800.jpg" group-title="Haunted T2",Cap. 02
+http://5.9.94.182/master/SERIES%201/HAUNTED/2/02.mkv
+#EXTINF:-1 tvg-logo="https://morningpicker.com/wp-content/uploads/2019/10/Haunted-1200x1800.jpg" group-title="Haunted T2",Cap. 03
+http://5.9.94.182/master/SERIES%201/HAUNTED/2/03.mkv
+#EXTINF:-1 tvg-logo="https://morningpicker.com/wp-content/uploads/2019/10/Haunted-1200x1800.jpg" group-title="Haunted T2",Cap. 04
+http://5.9.94.182/master/SERIES%201/HAUNTED/2/04.mkv
+#EXTINF:-1 tvg-logo="https://morningpicker.com/wp-content/uploads/2019/10/Haunted-1200x1800.jpg" group-title="Haunted T2",Cap. 05
+http://5.9.94.182/master/SERIES%201/HAUNTED/2/05.mkv
+#EXTINF:-1 tvg-logo="https://morningpicker.com/wp-content/uploads/2019/10/Haunted-1200x1800.jpg" group-title="Haunted T2",Cap. 06
+http://5.9.94.182/master/SERIES%201/HAUNTED/2/06.mkv
+
 ####################################### Heroes Invisibles Temp 1 CHILEVISION
 #EXTINF:-1 tvg-logo="https://assets.adnradio.cl/images/20180515b0e038b9.png" group-title="Heroes Invisibles Temp 1",Idioma: Español
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
