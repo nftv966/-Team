@@ -7768,6 +7768,31 @@ http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Run/Ver%20Run%20(2020)%2
 #EXTINF:-1 tvg-logo="https://media.senscritique.com/media/000019261341/source_big/Run.jpg" group-title="Run",cap. 07
 http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Run/Ver%20Run%20(2020)%201x7%20online%20en%20castellano%20latino%20subtitulado%20e.mp4
 
+####################################### Runaways T1 HULU
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/09/hulu-logo.png" group-title="Runaways T1",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://popculturethoughts83.files.wordpress.com/2019/01/castle-rock-tall-opt.jpg" group-title="Runaways T1",cap. 01
+http://5.9.94.182/master/SERIES%201/runaway/S01E01.mkv
+#EXTINF:-1 tvg-logo="https://popculturethoughts83.files.wordpress.com/2019/01/castle-rock-tall-opt.jpg" group-title="Runaways T1",cap. 02
+http://5.9.94.182/master/SERIES%201/runaway/S01E02.mkv
+#EXTINF:-1 tvg-logo="https://popculturethoughts83.files.wordpress.com/2019/01/castle-rock-tall-opt.jpg" group-title="Runaways T1",cap. 03
+http://5.9.94.182/master/SERIES%201/runaway/S01E03.mkv
+#EXTINF:-1 tvg-logo="https://popculturethoughts83.files.wordpress.com/2019/01/castle-rock-tall-opt.jpg" group-title="Runaways T1",cap. 04
+http://5.9.94.182/master/SERIES%201/runaway/S01E04.mkv
+#EXTINF:-1 tvg-logo="https://popculturethoughts83.files.wordpress.com/2019/01/castle-rock-tall-opt.jpg" group-title="Runaways T1",cap. 05
+http://5.9.94.182/master/SERIES%201/runaway/S01E05.mkv
+#EXTINF:-1 tvg-logo="https://popculturethoughts83.files.wordpress.com/2019/01/castle-rock-tall-opt.jpg" group-title="Runaways T1",cap. 06
+http://5.9.94.182/master/SERIES%201/runaway/S01E06.mkv
+#EXTINF:-1 tvg-logo="https://popculturethoughts83.files.wordpress.com/2019/01/castle-rock-tall-opt.jpg" group-title="Runaways T1",cap. 07
+http://5.9.94.182/master/SERIES%201/runaway/S01E07.mkv
+#EXTINF:-1 tvg-logo="https://popculturethoughts83.files.wordpress.com/2019/01/castle-rock-tall-opt.jpg" group-title="Runaways T1",cap. 08
+http://5.9.94.182/master/SERIES%201/runaway/S01E08.mkv
+#EXTINF:-1 tvg-logo="https://popculturethoughts83.files.wordpress.com/2019/01/castle-rock-tall-opt.jpg" group-title="Runaways T1",cap. 09
+http://5.9.94.182/master/SERIES%201/runaway/S01E09.mkv
+#EXTINF:-1 tvg-logo="https://popculturethoughts83.files.wordpress.com/2019/01/castle-rock-tall-opt.jpg" group-title="Runaways T1",cap. 10
+http://5.9.94.182/master/SERIES%201/runaway/S01E10.mkv
+
 ####################################### See T1 Apple tv
 #EXTINF:-1 tvg-logo="https://confidencialcolombia.com/wp-content/uploads/2020/04/APPLETV.jpg" group-title="See T1",Idioma: Español
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
