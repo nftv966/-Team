@@ -7560,6 +7560,27 @@ http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Run/Ver%20Run%20(2020)%2
 #EXTINF:-1 tvg-logo="https://media.senscritique.com/media/000019261341/source_big/Run.jpg" group-title="Run",cap. 07
 http://playtv.tech/html/HTML/servidor2/CONTENIDO/SERIES/Run/Ver%20Run%20(2020)%201x7%20online%20en%20castellano%20latino%20subtitulado%20e.mp4
 
+####################################### See T1 Apple tv
+#EXTINF:-1 tvg-logo="https://confidencialcolombia.com/wp-content/uploads/2020/04/APPLETV.jpg" group-title="See T1",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/20/30/1507616.jpg" group-title="See T1",Cap. 01
+http://5.9.94.182/master/SERIES%201/SEE/01.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/20/30/1507616.jpg" group-title="See T1",Cap. 
+http://5.9.94.182/master/SERIES%201/SEE/02.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/20/30/1507616.jpg" group-title="See T1",Cap. 03
+http://5.9.94.182/master/SERIES%201/SEE/03.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/20/30/1507616.jpg" group-title="See T1",Cap. 04
+http://5.9.94.182/master/SERIES%201/SEE/04.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/20/30/1507616.jpg" group-title="See T1",Cap. 05
+http://5.9.94.182/master/SERIES%201/SEE/05.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/20/30/1507616.jpg" group-title="See T1",Cap. 06
+http://5.9.94.182/master/SERIES%201/SEE/06.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/20/30/1507616.jpg" group-title="See T1",Cap. 07
+http://5.9.94.182/master/SERIES%201/SEE/07.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/20/30/1507616.jpg" group-title="See T1",Cap. 08
+http://5.9.94.182/master/SERIES%201/SEE/08.mkv
+
 ####################################### Servant Temp 1 Apple tv
 #EXTINF:-1 tvg-logo="https://confidencialcolombia.com/wp-content/uploads/2020/04/APPLETV.jpg" group-title="Servant Temp 1",Idioma: Subtitulado
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
