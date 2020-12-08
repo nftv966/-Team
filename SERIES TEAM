@@ -5752,129 +5752,260 @@ http://playtv.tech/html/HTML/series/The%20Mind%20of%20Aaron%20Hernandez/1x5.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/02/09/00/0835536.jpg" group-title="La Mente de un Asesino Temp 1",cap. 06
 http://playtv.tech/html/HTML/series/The%20Mind%20of%20Aaron%20Hernandez/1x6.mp4
 
-####################################### La Reina del Sur Temp 2 Telemundo
-#EXTINF:-1 tvg-logo="https://www.brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg" group-title="La Reina del Sur Temp 2",Idioma: Español
+####################################### La Reina del Sur T1 Telemundo
+#EXTINF:-1 tvg-logo="https://www.brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg" group-title="La Reina del Sur T1",Idioma: Español
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 01
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 01
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/01.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 02
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/02.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 03
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/03.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 04
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/04.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 05
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/05.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 06
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/06.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 07
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/07.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 08
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/08.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 09
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/09.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 10
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/10.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 11
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/11.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 12
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/12.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 13
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/13.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 14
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/14.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 15
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/15.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 16
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/16.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 17
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/17.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 18
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/18.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 19
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/19.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 20
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/20.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 21
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/21.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 22
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/22.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 23
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/23.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 24
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/24.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 25
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/25.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 26
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/26.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 27
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/27.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 28
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/28.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 29
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/29.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 30
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/30.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 31
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/31.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 32
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/32.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 33
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/33.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 34
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/34.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 35
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/35.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 36
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/36.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 37
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/37.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 38
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/38.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 39
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/39.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 40
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/40.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 41
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/41.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 42
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/42..mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 43
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/43.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 44
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/44.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 45
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/45.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 46
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/46.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 47
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/47.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 48
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/48.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 49
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/49.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 50
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/50.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 51
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/51.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 52
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/52.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 53
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/53.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 54
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/54.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 55
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/55.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 56
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/56.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 57
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/57.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 58
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/58.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 59
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/59.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 60
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/60.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 61
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/61.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 62
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/62.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41iHopL6dpL.jpg" group-title="La Reina del Sur T1",cap. 63
+http://5.9.94.182/master/series/LA%20REINA%20DEL%20SUR/1/63.mp4
+
+####################################### La Reina del Sur T2 Telemundo
+#EXTINF:-1 tvg-logo="https://www.brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg" group-title="La Reina del Sur T2",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 01
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x01.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 02
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 02
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x02.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 03
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 03
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x03.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 04
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 04
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x04.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 05
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 05
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x05.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 06
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 06
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x06.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 07
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 07
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x07.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 08
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 08
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x08.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 09
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 09
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x09.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 10
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 10
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x10.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 11
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 11
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x11.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 12
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 12
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x12.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 13
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 13
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x13.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 14
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 14
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x14.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 15
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 15
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x15.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 16
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 16
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x16.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 17
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 17
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x17.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 18
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 18
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x18.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 19
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 19
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x19.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 20
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 20
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x20.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 21
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 21
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x21.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 22
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 22
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x22.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 23
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 23
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x23.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 24
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 24
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x24.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 25
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 25
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x25.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 26
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 26
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x26.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 27
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 27
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x27.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 28
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 28
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x28.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 29
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 29
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x29.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 30
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 30
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x30.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 31
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 31
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x31.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 32
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 32
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x32.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 33
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 33
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x33.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 34
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 34
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x34.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 35
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 35
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x35.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 36
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 36
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x36.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 37
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 37
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x37.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 38
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 38
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x38.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 39
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 39
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x39.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 40
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 40
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x40.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 41
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 41
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x41.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 42
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 42
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x42.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 43
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 43
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x43.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 44
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 44
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x44.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 45
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 45
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x45.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 46
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 46
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x46.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 47
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 47
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x47.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 48
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 48
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x48.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 49
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 49
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x49.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 50
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 50
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x50.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 51
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 51
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x51.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 52
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 52
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x52.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 53
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 53
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x53.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 54
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 54
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x54.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 55
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 55
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x55.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 56
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 56
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x56.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 57
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 57
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x57.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 58
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 58
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x58.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 59
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 59
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x59.mp4
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur Temp 2",cap. 60
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/LA%20REINA%20DEL%20SUR%20season%202%20poster.jpg" group-title="La Reina del Sur T2",cap. 60
 http://playtv.tech/html/HTML/series/LA%20REINA%20DEL%20SUR/TEMPORADA%202/La.Reina.del.Sur.2x60.mp4
 
 ####################################### La Ultima Palabra Netflix
