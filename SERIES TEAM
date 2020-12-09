@@ -5182,6 +5182,48 @@ http://playtv.tech/html/HTML/series/Into%20the%20Dark/2/2x6.mp4
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1800/1880/2_m3.jpg" group-title="Into the Dark Temp 2",cap. 07
 http://playtv.tech/html/HTML/series/Into%20the%20Dark/2/2x7.mp4
 
+####################################### Jack Ryan T1 Amazon Prime
+#EXTINF:-1 tvg-logo="https://www.pdvg.it/wp-content/uploads/2020/02/amazon-prime-video-pdvg.png" group-title="Jack Ryan T1",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91Hf6CWFVQL._SL1500_.jpg" group-title="Jack Ryan T1",cap. 01
+http://5.9.94.182/master/series/Tom%20Clancys/1./01.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91Hf6CWFVQL._SL1500_.jpg" group-title="Jack Ryan T1",cap. 02
+http://5.9.94.182/master/series/Tom%20Clancys/1./02.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91Hf6CWFVQL._SL1500_.jpg" group-title="Jack Ryan T1",cap. 03
+http://5.9.94.182/master/series/Tom%20Clancys/1./03.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91Hf6CWFVQL._SL1500_.jpg" group-title="Jack Ryan T1",cap. 04
+http://5.9.94.182/master/series/Tom%20Clancys/1./04.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91Hf6CWFVQL._SL1500_.jpg" group-title="Jack Ryan T1",cap. 05
+http://5.9.94.182/master/series/Tom%20Clancys/1./05.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91Hf6CWFVQL._SL1500_.jpg" group-title="Jack Ryan T1",cap. 06
+http://5.9.94.182/master/series/Tom%20Clancys/1./06.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91Hf6CWFVQL._SL1500_.jpg" group-title="Jack Ryan T1",cap. 07
+http://5.9.94.182/master/series/Tom%20Clancys/1./07.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91Hf6CWFVQL._SL1500_.jpg" group-title="Jack Ryan T1",cap. 08
+http://5.9.94.182/master/series/Tom%20Clancys/1./08.mkv
+
+####################################### Jack Ryan T2 Amazon Prime
+#EXTINF:-1 tvg-logo="https://www.pdvg.it/wp-content/uploads/2020/02/amazon-prime-video-pdvg.png" group-title="Jack Ryan T2",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/jack-ryan-poster-1567712119.jpg" group-title="Jack Ryan T2",cap. 01
+http://5.9.94.182/master/series/Tom%20Clancys/2./01.mkv
+#EXTINF:-1 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/jack-ryan-poster-1567712119.jpg" group-title="Jack Ryan T2",cap. 02
+http://5.9.94.182/master/series/Tom%20Clancys/2./02.mkv
+#EXTINF:-1 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/jack-ryan-poster-1567712119.jpg" group-title="Jack Ryan T2",cap. 03
+http://5.9.94.182/master/series/Tom%20Clancys/2./03.mkv
+#EXTINF:-1 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/jack-ryan-poster-1567712119.jpg" group-title="Jack Ryan T2",cap. 04
+http://5.9.94.182/master/series/Tom%20Clancys/2./04.mkv
+#EXTINF:-1 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/jack-ryan-poster-1567712119.jpg" group-title="Jack Ryan T2",cap. 05
+http://5.9.94.182/master/series/Tom%20Clancys/2./05.mkv
+#EXTINF:-1 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/jack-ryan-poster-1567712119.jpg" group-title="Jack Ryan T2",cap. 06
+http://5.9.94.182/master/series/Tom%20Clancys/2./06.mkv
+#EXTINF:-1 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/jack-ryan-poster-1567712119.jpg" group-title="Jack Ryan T2",cap. 07
+http://5.9.94.182/master/series/Tom%20Clancys/2./07.mkv
+#EXTINF:-1 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/jack-ryan-poster-1567712119.jpg" group-title="Jack Ryan T2",cap. 08
+http://5.9.94.182/master/series/Tom%20Clancys/2./08.mkv
+
 ####################################### Jessica Jones T1 Netflix
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Jessica Jones T1",Idioma: Español
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
