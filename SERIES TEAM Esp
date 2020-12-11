@@ -560,9 +560,9 @@ http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 http://144.217.180.154/SERVIDOR_2/CANDICE%20RENOIR%2001%20TEMP%20DVD%2001_CAP1A4.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/97/19/75/20514656.jpg" group-title="Candice Renoir",T1 cap. 5 al 8
 http://144.217.180.154/SERVIDOR_2/CANDICE%20RENOIR%2001%20TEMP%20DVD%2002_CAP5A8.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/97/19/75/20514656.jpg" group-title="Candice Renoir",T2 cap. 1 al 5
+#EXTINF:-1 tvg-logo="https://www.victoriaide.com/wp-content/uploads/mgid_arc_content_paramountnetwork.jpg" group-title="Candice Renoir",T2 cap. 1 al 5
 http://144.217.180.154/SERVIDOR_2/CANDICE%20RENOIR%2002%20TEMP%20DVD%2001_cap1a5.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/97/19/75/20514656.jpg" group-title="Candice Renoir",T2 cap. 6 al 10
+#EXTINF:-1 tvg-logo="https://www.victoriaide.com/wp-content/uploads/mgid_arc_content_paramountnetwork.jpg" group-title="Candice Renoir",T2 cap. 6 al 10
 http://144.217.180.154/SERVIDOR_2/CANDICE%20RENOIR%2002%20TEMP%20DVD%2002_cap6a10.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/29/f7/1f/29f71f67482f3aae71616902d983f3a4.jpg" group-title="Candice Renoir",T3 cap. 1 al 5
 http://144.217.180.154/SERVIDOR_2/CANDICE%20RENOIR%2003%20TEMP%20DVD%2001_%20CAP1A5.mp4
@@ -3122,6 +3122,19 @@ http://5.9.94.182/master/SERIES%201/BIG%20LITTLE%20LIES/1/06.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91DfjA-VJDL._SL1500_.jpg" group-title="Pequeñas Mentiras T1",cap. 07
 http://5.9.94.182/master/SERIES%201/BIG%20LITTLE%20LIES/1/07.mkv
 
+####################################### Poco Ortodoxa Temp 1 Netflix
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Poco Ortodoxa Temp 1",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/20/08/26/00/57/2239984.jpg" group-title="Poco Ortodoxa Temp 1",Cap. 01
+http://5.9.94.182/master/SERIES%202/UNORTHODOX%202020/1X01.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/20/08/26/00/57/2239984.jpg" group-title="Poco Ortodoxa Temp 1",Cap. 02
+http://5.9.94.182/master/SERIES%202/UNORTHODOX%202020/1X02.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/20/08/26/00/57/2239984.jpg" group-title="Poco Ortodoxa Temp 1",Cap. 03
+http://5.9.94.182/master/SERIES%202/UNORTHODOX%202020/1X03.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/20/08/26/00/57/2239984.jpg" group-title="Poco Ortodoxa Temp 1",Cap. 04
+http://5.9.94.182/master/SERIES%202/UNORTHODOX%202020/1X04.mp4
+
 ####################################### Prison Break T1 Fox
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/fox-tv-logo-png-2.png" group-title="Prison Break T1",Idioma: Español
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
@@ -4121,3 +4134,4 @@ http://5.9.94.182/master/SERIES%201/yoohoo%20and%20friends/21.mkv
 http://5.9.94.182/master/SERIES%201/yoohoo%20and%20friends/22.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/06/03/05/45/5039182.jpg" group-title="YooHoo al Rescate",cap. 23
 http://5.9.94.182/master/SERIES%201/yoohoo%20and%20friends/23.mkv
+
