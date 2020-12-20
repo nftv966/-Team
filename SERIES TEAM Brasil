@@ -2309,6 +2309,47 @@ http://173.212.243.107/netflix/salem1/187033.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/15/12/17/16/18/529416.jpg" group-title="Salem T1",cap. 13
 http://173.212.243.107/netflix/salem1/187034.mp4
 
+####################################### Sansao e Dalila RECORD
+#EXTINF:-1 tvg-logo="https://i1.wp.com/bastidoresdatv.com.br/wp-content/uploads/2016/11/RecordTV-1.jpg" group-title="Sansao e Dalila",Idioma: Portugues
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_693232-MLB25966521029_092017-V.jpg" group-title="Sansao e Dalila",cap. 01
+http://173.212.243.107/novelas/sansaoedalila/150906.avi
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_693232-MLB25966521029_092017-V.jpg" group-title="Sansao e Dalila",cap. 02
+http://173.212.243.107/novelas/sansaoedalila/150907.avi
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_693232-MLB25966521029_092017-V.jpg" group-title="Sansao e Dalila",cap. 03
+http://173.212.243.107/novelas/sansaoedalila/150908.avi
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_693232-MLB25966521029_092017-V.jpg" group-title="Sansao e Dalila",cap. 04
+http://173.212.243.107/novelas/sansaoedalila/150909.avi
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_693232-MLB25966521029_092017-V.jpg" group-title="Sansao e Dalila",cap. 05
+http://173.212.243.107/novelas/sansaoedalila/150910.avi
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_693232-MLB25966521029_092017-V.jpg" group-title="Sansao e Dalila",cap. 06
+http://173.212.243.107/novelas/sansaoedalila/150911.avi
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_693232-MLB25966521029_092017-V.jpg" group-title="Sansao e Dalila",cap. 07
+http://173.212.243.107/novelas/sansaoedalila/150912.avi
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_693232-MLB25966521029_092017-V.jpg" group-title="Sansao e Dalila",cap. 08
+http://173.212.243.107/novelas/sansaoedalila/150913.avi
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_693232-MLB25966521029_092017-V.jpg" group-title="Sansao e Dalila",cap. 09
+http://173.212.243.107/novelas/sansaoedalila/150914.avi
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_693232-MLB25966521029_092017-V.jpg" group-title="Sansao e Dalila",cap. 10
+http://173.212.243.107/novelas/sansaoedalila/150915.avi
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_693232-MLB25966521029_092017-V.jpg" group-title="Sansao e Dalila",cap. 11
+http://173.212.243.107/novelas/sansaoedalila/150916.avi
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_693232-MLB25966521029_092017-V.jpg" group-title="Sansao e Dalila",cap. 12
+http://173.212.243.107/novelas/sansaoedalila/150917.avi
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_693232-MLB25966521029_092017-V.jpg" group-title="Sansao e Dalila",cap. 13
+http://173.212.243.107/novelas/sansaoedalila/150918.avi
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_693232-MLB25966521029_092017-V.jpg" group-title="Sansao e Dalila",cap. 14
+http://173.212.243.107/novelas/sansaoedalila/150919.avi
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_693232-MLB25966521029_092017-V.jpg" group-title="Sansao e Dalila",cap. 15
+http://173.212.243.107/novelas/sansaoedalila/150920.avi
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_693232-MLB25966521029_092017-V.jpg" group-title="Sansao e Dalila",cap. 16
+http://173.212.243.107/novelas/sansaoedalila/150921.avi
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_693232-MLB25966521029_092017-V.jpg" group-title="Sansao e Dalila",cap. 17
+http://173.212.243.107/novelas/sansaoedalila/150922.avi
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_693232-MLB25966521029_092017-V.jpg" group-title="Sansao e Dalila",cap. 18 Final
+http://173.212.243.107/novelas/sansaoedalila/150923.avi
+
 ####################################### Shadowhunters T1 Netflix
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Shadowhunters T1",Idioma: Portugues
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
@@ -2957,8 +2998,6 @@ http://173.212.243.107/netflix/voce2/181481.mp4
 http://173.212.243.107/netflix/voce2/181482.mp4
 #EXTINF:-1 tvg-logo="https://fr.web.img5.acsta.net/pictures/19/11/12/09/11/1193498.jpg" group-title="You T2",cap. 10
 http://173.212.243.107/netflix/voce2/181483.mp4
-
-
 
 
 
