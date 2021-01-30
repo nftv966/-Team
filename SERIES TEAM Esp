@@ -343,7 +343,7 @@ http://5.9.94.182/master/SERIES%202/AVENUE%205%20DE%20HBO/Avenue%205%201x07@peli
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Baby T1",Idioma: Español
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
-
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Baby T1",TRAILER
 https://dl.dropbox.com/s/lrhumero85c4884/Baby%20Trailer.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/22/ae/67/22ae675e8012006d68e31d0b20aca9bb.jpg" group-title="Baby T1",Cap. 01
 http://5.9.94.182/master/SERIES%201/baby/01.mkv
