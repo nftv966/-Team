@@ -723,39 +723,6 @@ http://5.9.94.182/master/series/BreakingBad/T5/15.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/91/08/59/20128690.jpg" group-title="Breaking Bad T5",cap. 16
 http://5.9.94.182/master/series/BreakingBad/T5/16.mkv
 
-####################################### Candice Renoir AXN
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/870/870885.png" group-title="Candice Renoir",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/97/19/75/20514656.jpg" group-title="Candice Renoir",T1 cap. 1 al 4
-http://144.217.180.154/SERVIDOR_2/CANDICE%20RENOIR%2001%20TEMP%20DVD%2001_CAP1A4.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/97/19/75/20514656.jpg" group-title="Candice Renoir",T1 cap. 5 al 8
-http://144.217.180.154/SERVIDOR_2/CANDICE%20RENOIR%2001%20TEMP%20DVD%2002_CAP5A8.mp4
-#EXTINF:-1 tvg-logo="https://www.victoriaide.com/wp-content/uploads/mgid_arc_content_paramountnetwork.jpg" group-title="Candice Renoir",T2 cap. 1 al 5
-http://144.217.180.154/SERVIDOR_2/CANDICE%20RENOIR%2002%20TEMP%20DVD%2001_cap1a5.mp4
-#EXTINF:-1 tvg-logo="https://www.victoriaide.com/wp-content/uploads/mgid_arc_content_paramountnetwork.jpg" group-title="Candice Renoir",T2 cap. 6 al 10
-http://144.217.180.154/SERVIDOR_2/CANDICE%20RENOIR%2002%20TEMP%20DVD%2002_cap6a10.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/29/f7/1f/29f71f67482f3aae71616902d983f3a4.jpg" group-title="Candice Renoir",T3 cap. 1 al 5
-http://144.217.180.154/SERVIDOR_2/CANDICE%20RENOIR%2003%20TEMP%20DVD%2001_%20CAP1A5.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/29/f7/1f/29f71f67482f3aae71616902d983f3a4.jpg" group-title="Candice Renoir",T3 cap. 6 al 10
-http://144.217.180.154/SERVIDOR_2/CANDICE%20RENOIR%2003%20TEMP%20DVD%2002_CAP6A10.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71sckvvD8nL._SL1200_.jpg" group-title="Candice Renoir",T4 cap. 1 al 5
-http://144.217.180.154/SERVIDOR_2/CANDICE%20RENOIR%2004%20TEMP%20DVD%2001_CAP1A5.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71sckvvD8nL._SL1200_.jpg" group-title="Candice Renoir",T4 cap. 6 al 10
-http://144.217.180.154/SERVIDOR_2/CANDICE%20RENOIR%2004%20TEMP%20DVD%2002_CAP.6L10_ES.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91QIw1606HL._AC_SL1500_.jpg" group-title="Candice Renoir",T5 cap. 1 al 5
-http://144.217.180.154/SERVIDOR_2/CANDICE%20RENOIR%2005%20TEMP%20DVD%2001_CAP.1AL5_ES.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91QIw1606HL._AC_SL1500_.jpg" group-title="Candice Renoir",T5 cap. 6 al 10
-http://144.217.180.154/SERVIDOR_2/CANDICE%20RENOIR%2005%20TEMP%20DVD%2002_CAP.6AL10_ES.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71GTe5NDfQL._SY445_.jpg" group-title="Candice Renoir",T6 cap. 1 al 5
-http://144.217.180.154/SERVIDOR_2/CANDICE%20RENOIR%2006%20TEMP%20DVD%2001_CAP.1AL5_ES.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71GTe5NDfQL._SY445_.jpg" group-title="Candice Renoir",T6 cap. 6 al 10
-http://144.217.180.154/SERVIDOR_2/CANDICE%20RENOIR%2006%20TEMP%20DVD%2002_CAP6A10.mp4
-#EXTINF:-1 tvg-logo="https://static.fnac-static.com/multimedia/Images/FR/NR/b9/e6/ba/12248761/1520-1/tsp20201001102310/Coffret-Candice-Renoir-Saison-8-DVD.jpg" group-title="Candice Renoir",T8 cap. 1 al 5
-http://144.217.180.154/SERVIDOR_2/CANDICE%20RENOIR%2008%20TEMP%20DVD%2001_CAP1A5z.mp4
-#EXTINF:-1 tvg-logo="https://static.fnac-static.com/multimedia/Images/FR/NR/b9/e6/ba/12248761/1520-1/tsp20201001102310/Coffret-Candice-Renoir-Saison-8-DVD.jpg" group-title="Candice Renoir",T8 cap. 6 al 7
-http://144.217.180.154/SERVIDOR_2/CANDICE%20RENOIR%2008%20TEMP%20DVD%2002C6%20AL7.mp4
-
 ####################################### Chernobyl T1 HBO GO
 #EXTINF:-1 tvg-logo="https://cdn.iconscout.com/icon/free/png-512/hbo-go-2-569347.png" group-title="Chernobyl T1",Idioma: Español
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
