@@ -1128,7 +1128,7 @@ http://principal.nerdtv.xyz/2019/serie.php?user=juanmanuelan&password=juanmanuel
 #EXTINF:-1 tvg-logo="https://arctouch.com/wp-content/uploads/2017/12/Client_Logo-2.png" group-title="El joven Sheldon T1",Idioma: Español
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
-
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="El joven Sheldon T1",TRAILER
 https://dl.dropbox.com/s/xlzhjahrtf2z1yy/EL%20JOVEN%20Sheldon.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/09/15/23/52/1729197.jpg" group-title="El joven Sheldon T1",cap. 01
 http://5.9.94.182/master/SERIES%201/young%20sheldon/1/S01E01.mkv
