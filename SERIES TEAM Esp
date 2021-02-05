@@ -922,7 +922,7 @@ http://5.9.94.182/master/series/ElBarco/T3/16.avi
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="El Chapo T1",Idioma: Español
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
-
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="El Chapo T1",TRAILER
 https://dl.dropbox.com/s/s3o4qa3f3f5n0wz/El%20Chapo%20Temporada%201%20%20%20Netflix%5B1%5D.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/05/03/09/11/348326.jpg" group-title="El Chapo T1",Cap. 01
 http://5.9.94.182/master/series/EL%20CHAPO/1/01.mkv
