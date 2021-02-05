@@ -819,7 +819,7 @@ http://193.34.144.178/Bryan/series/daredevil/Ver%20Daredevil%202x13%20online%20e
 #EXTINF:-1 tvg-logo="https://i.blogs.es/909401/antena3/450_1000.png" group-title="El Barco T1",Idioma: Español
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
-
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="El Barco T1",TRAILER
 https://dl.dropbox.com/s/b6sj5mlreposueg/EL%20BARCO.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/82/43/74/20314258.jpg" group-title="El Barco T1",Cap. 01
 http://5.9.94.182/master/series/ElBarco/T1/01.avi
