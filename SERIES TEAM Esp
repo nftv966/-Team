@@ -3570,6 +3570,25 @@ http://5.9.94.182/master/series/JESSIE/T4/19.mkv
 #EXTINF:-1 tvg-logo="https://img.reelgood.com/content/show/7afe451b-b104-4bdf-8fae-2940cbc4b0f0/poster-780.jpg" group-title="Jessie T4",cap. 20
 http://5.9.94.182/master/series/JESSIE/T4/20.mkv
 
+####################################### Juana Inés Netflix
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Juana Inés",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://ennetflix.mx/media/15/juana-ines_80123792.jpg" group-title="Juana Inés",Cap. 01
+http://sonicracing.xyz/series/juana%20ines/juana_ines_1x01.mp4
+#EXTINF:-1 tvg-logo="https://ennetflix.mx/media/15/juana-ines_80123792.jpg" group-title="Juana Inés",Cap. 02
+http://sonicracing.xyz/series/juana%20ines/juana_ines_1x02.mp4
+#EXTINF:-1 tvg-logo="https://ennetflix.mx/media/15/juana-ines_80123792.jpg" group-title="Juana Inés",Cap. 03
+http://sonicracing.xyz/series/juana%20ines/juana_ines_1x03.mp4
+#EXTINF:-1 tvg-logo="https://ennetflix.mx/media/15/juana-ines_80123792.jpg" group-title="Juana Inés",Cap. 04
+http://sonicracing.xyz/series/juana%20ines/juana_ines_1x04.mp4
+#EXTINF:-1 tvg-logo="https://ennetflix.mx/media/15/juana-ines_80123792.jpg" group-title="Juana Inés",Cap. 05
+http://sonicracing.xyz/series/juana%20ines/juana_ines_1x05.mp4
+#EXTINF:-1 tvg-logo="https://ennetflix.mx/media/15/juana-ines_80123792.jpg" group-title="Juana Inés",Cap. 06
+http://sonicracing.xyz/series/juana%20ines/juana_ines_1x06.mp4
+#EXTINF:-1 tvg-logo="https://ennetflix.mx/media/15/juana-ines_80123792.jpg" group-title="Juana Inés",Cap. 07
+http://sonicracing.xyz/series/juana%20ines/juana_ines_1x07.mp4
+
 ####################################### Knightfall: La Guerra por el Santo Grial T1 HISTORY
 #EXTINF:-1 tvg-logo="https://canalhistoria.es/microsites/la-biblia/images/main-logo.png" group-title="Knightfall: La Guerra por el Santo Grial T1",Idioma: Español
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
