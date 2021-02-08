@@ -723,6 +723,29 @@ http://5.9.94.182/master/series/BreakingBad/T5/15.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/91/08/59/20128690.jpg" group-title="Breaking Bad T5",cap. 16
 http://5.9.94.182/master/series/BreakingBad/T5/16.mkv
 
+####################################### Britannia T1 Sky Atlantic
+#EXTINF:-1 tvg-logo="https://www.magician-4-hire.co.uk/uploads/3/3/9/8/3398842/5442234_orig.png" group-title="Britannia T1",Idioma: Subtitulado
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/18/01/17/09/31/5478324.png" group-title="Britannia T1",Cap. 01
+http://sonicracing.xyz/series/britania/Britannia%201x01.mkv
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/18/01/17/09/31/5478324.png" group-title="Britannia T1",Cap. 02
+http://sonicracing.xyz/series/britania/Britannia%201x02.mkv
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/18/01/17/09/31/5478324.png" group-title="Britannia T1",Cap. 03
+http://sonicracing.xyz/series/britania/Britannia%201x03.mkv
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/18/01/17/09/31/5478324.png" group-title="Britannia T1",Cap. 04
+http://sonicracing.xyz/series/britania/Britannia%201x04.mkv
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/18/01/17/09/31/5478324.png" group-title="Britannia T1",Cap. 05
+http://sonicracing.xyz/series/britania/Britannia%201x05.mkv
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/18/01/17/09/31/5478324.png" group-title="Britannia T1",Cap. 06
+http://sonicracing.xyz/series/britania/Britannia%201x06.mkv
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/18/01/17/09/31/5478324.png" group-title="Britannia T1",Cap. 07
+http://sonicracing.xyz/series/britania/Britannia%201x07.mkv
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/18/01/17/09/31/5478324.png" group-title="Britannia T1",Cap. 08
+http://sonicracing.xyz/series/britania/Britannia%201x08.mkv
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/18/01/17/09/31/5478324.png" group-title="Britannia T1",Cap. 09
+http://sonicracing.xyz/series/britania/Britannia%201x09.mkv
+
 ####################################### Chambers Netflix
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Chambers",Idioma: Español
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
