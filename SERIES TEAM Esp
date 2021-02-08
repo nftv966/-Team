@@ -6054,27 +6054,61 @@ http://5.9.94.182/master/serie%203/Spartacus/TEMPORADA%203/Spartacus.Vengeance.S
 #EXTINF:-1 tvg-logo="https://d1nslcd7m2225b.cloudfront.net/Pictures/480xAny/4/7/9/1314479_starzplay_616608.jpg" group-title="Spartacus T4",Idioma: Español
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 #######################################
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/86/36/96/20369052.jpg" group-title="Spartacus T4",Cap. 0
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/86/36/96/20369052.jpg" group-title="Spartacus T4",Cap. 01
 http://5.9.94.182/master/serie%203/Spartacus/TEMPORADA%204/Spartacus.War.Of.The.Damned.S03E01.Latino.avi
-
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/86/36/96/20369052.jpg" group-title="Spartacus T4",Cap. 02
 http://5.9.94.182/master/serie%203/Spartacus/TEMPORADA%204/Spartacus.War.Of.The.Damned.S03E02.Latino.avi
-
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/86/36/96/20369052.jpg" group-title="Spartacus T4",Cap. 03
 http://5.9.94.182/master/serie%203/Spartacus/TEMPORADA%204/Spartacus.War.Of.The.Damned.S03E03.Latino.avi
-
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/86/36/96/20369052.jpg" group-title="Spartacus T4",Cap. 04
 http://5.9.94.182/master/serie%203/Spartacus/TEMPORADA%204/Spartacus.War.Of.The.Damned.S03E04.Latino.avi
-
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/86/36/96/20369052.jpg" group-title="Spartacus T4",Cap. 05
 http://5.9.94.182/master/serie%203/Spartacus/TEMPORADA%204/Spartacus.War.Of.The.Damned.S03E05.Latino.avi
-
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/86/36/96/20369052.jpg" group-title="Spartacus T4",Cap. 06
 http://5.9.94.182/master/serie%203/Spartacus/TEMPORADA%204/Spartacus.War.Of.The.Damned.S03E06.Latino.avi
-
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/86/36/96/20369052.jpg" group-title="Spartacus T4",Cap. 07
 http://5.9.94.182/master/serie%203/Spartacus/TEMPORADA%204/Spartacus.War.Of.The.Damned.S03E07.Latino.avi
-
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/86/36/96/20369052.jpg" group-title="Spartacus T4",Cap. 08
 http://5.9.94.182/master/serie%203/Spartacus/TEMPORADA%204/Spartacus.War.Of.The.Damned.S03E08.Latino.avi
-
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/86/36/96/20369052.jpg" group-title="Spartacus T4",Cap. 09
 http://5.9.94.182/master/serie%203/Spartacus/TEMPORADA%204/Spartacus.War.Of.The.Damned.S03E09.Latino.mkv
-
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/86/36/96/20369052.jpg" group-title="Spartacus T4",Cap. 10
 http://5.9.94.182/master/serie%203/Spartacus/TEMPORADA%204/Spartacus.War.Of.The.Damned.S03E10.Latino.mkv
 
+####################################### Súbete a mi moto Amazon Prime
+#EXTINF:-1 tvg-logo="https://www.pdvg.it/wp-content/uploads/2020/02/amazon-prime-video-pdvg.png" group-title="Súbete a mi moto",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/VapZEjj6AvxuRy_TFkGt3FuFwLE=/290x478/smart/media/movies/covers/2020/10/Captura-de-Pantalla-2020-09-17-a-las-14.22.35-750x450_1.png" group-title="Súbete a mi moto",cap. 01
+http://sonicracing.xyz/series/Subete%20A%20Mi%20Moto/1X01.mkv
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/VapZEjj6AvxuRy_TFkGt3FuFwLE=/290x478/smart/media/movies/covers/2020/10/Captura-de-Pantalla-2020-09-17-a-las-14.22.35-750x450_1.png" group-title="Súbete a mi moto",cap. 02
+http://sonicracing.xyz/series/Subete%20A%20Mi%20Moto/1X02.mkv
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/VapZEjj6AvxuRy_TFkGt3FuFwLE=/290x478/smart/media/movies/covers/2020/10/Captura-de-Pantalla-2020-09-17-a-las-14.22.35-750x450_1.png" group-title="Súbete a mi moto",cap. 03
+http://sonicracing.xyz/series/Subete%20A%20Mi%20Moto/1X03.mkv
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/VapZEjj6AvxuRy_TFkGt3FuFwLE=/290x478/smart/media/movies/covers/2020/10/Captura-de-Pantalla-2020-09-17-a-las-14.22.35-750x450_1.png" group-title="Súbete a mi moto",cap. 04
+http://sonicracing.xyz/series/Subete%20A%20Mi%20Moto/1X04.mkv
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/VapZEjj6AvxuRy_TFkGt3FuFwLE=/290x478/smart/media/movies/covers/2020/10/Captura-de-Pantalla-2020-09-17-a-las-14.22.35-750x450_1.png" group-title="Súbete a mi moto",cap. 05
+http://sonicracing.xyz/series/Subete%20A%20Mi%20Moto/1X05.mkv
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/VapZEjj6AvxuRy_TFkGt3FuFwLE=/290x478/smart/media/movies/covers/2020/10/Captura-de-Pantalla-2020-09-17-a-las-14.22.35-750x450_1.png" group-title="Súbete a mi moto",cap. 06
+http://sonicracing.xyz/series/Subete%20A%20Mi%20Moto/1X06.mkv
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/VapZEjj6AvxuRy_TFkGt3FuFwLE=/290x478/smart/media/movies/covers/2020/10/Captura-de-Pantalla-2020-09-17-a-las-14.22.35-750x450_1.png" group-title="Súbete a mi moto",cap. 07
+http://sonicracing.xyz/series/Subete%20A%20Mi%20Moto/1X07.mkv
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/VapZEjj6AvxuRy_TFkGt3FuFwLE=/290x478/smart/media/movies/covers/2020/10/Captura-de-Pantalla-2020-09-17-a-las-14.22.35-750x450_1.png" group-title="Súbete a mi moto",cap. 08
+http://sonicracing.xyz/series/Subete%20A%20Mi%20Moto/1X08.mkv
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/VapZEjj6AvxuRy_TFkGt3FuFwLE=/290x478/smart/media/movies/covers/2020/10/Captura-de-Pantalla-2020-09-17-a-las-14.22.35-750x450_1.png" group-title="Súbete a mi moto",cap. 09
+http://sonicracing.xyz/series/Subete%20A%20Mi%20Moto/1X09.mkv
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/VapZEjj6AvxuRy_TFkGt3FuFwLE=/290x478/smart/media/movies/covers/2020/10/Captura-de-Pantalla-2020-09-17-a-las-14.22.35-750x450_1.png" group-title="Súbete a mi moto",cap. 10
+http://sonicracing.xyz/series/Subete%20A%20Mi%20Moto/1X10.mkv
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/VapZEjj6AvxuRy_TFkGt3FuFwLE=/290x478/smart/media/movies/covers/2020/10/Captura-de-Pantalla-2020-09-17-a-las-14.22.35-750x450_1.png" group-title="Súbete a mi moto",cap. 11
+http://sonicracing.xyz/series/Subete%20A%20Mi%20Moto/1X11.mkv
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/VapZEjj6AvxuRy_TFkGt3FuFwLE=/290x478/smart/media/movies/covers/2020/10/Captura-de-Pantalla-2020-09-17-a-las-14.22.35-750x450_1.png" group-title="Súbete a mi moto",cap. 12
+http://sonicracing.xyz/series/Subete%20A%20Mi%20Moto/1X12.mkv
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/VapZEjj6AvxuRy_TFkGt3FuFwLE=/290x478/smart/media/movies/covers/2020/10/Captura-de-Pantalla-2020-09-17-a-las-14.22.35-750x450_1.png" group-title="Súbete a mi moto",cap. 13
+http://sonicracing.xyz/series/Subete%20A%20Mi%20Moto/1X13.mkv
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/VapZEjj6AvxuRy_TFkGt3FuFwLE=/290x478/smart/media/movies/covers/2020/10/Captura-de-Pantalla-2020-09-17-a-las-14.22.35-750x450_1.png" group-title="Súbete a mi moto",cap. 14
+http://sonicracing.xyz/series/Subete%20A%20Mi%20Moto/1X14.mkv
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/VapZEjj6AvxuRy_TFkGt3FuFwLE=/290x478/smart/media/movies/covers/2020/10/Captura-de-Pantalla-2020-09-17-a-las-14.22.35-750x450_1.png" group-title="Súbete a mi moto",cap. 15
+http://sonicracing.xyz/series/Subete%20A%20Mi%20Moto/1X15.mkv
 
 ####################################### Teen Titans Go Cartoon Network
 #EXTINF:-1 tvg-logo="https://pm1.narvii.com/6466/0ed83137cec9f532e42ddc644eb6bb2614a0ed6e_hq.jpg" group-title="Teen Titans Go",Idioma: Español
