@@ -3767,6 +3767,23 @@ http://5.9.94.182/master/SERIES%201/materia%20oscura/05.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/17/08/32/1695829.jpg" group-title="La materia oscura Temp 1",cap. 06
 http://5.9.94.182/master/SERIES%201/materia%20oscura/La%20Materia%20Oscura%20S01E06.mkv
 
+####################################### La Peste T1 Movistar Plus
+#EXTINF:-1 tvg-logo="https://www.bolsamania.com/seriesadictos/wp-content/uploads/2018/03/1200px-Movistar-.svg_.png" group-title="La Peste T1",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/7c/97/1d/7c971d97c2e67f56262f7ad1b52c3624.jpg" group-title="La Peste T1",cap. 01
+http://sonicracing.xyz/series/la%20peste/La%20Peste%20(T1xEP1).mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/7c/97/1d/7c971d97c2e67f56262f7ad1b52c3624.jpg" group-title="La Peste T1",cap. 02
+http://sonicracing.xyz/series/la%20peste/La%20Peste%20(T1xEP2).mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/7c/97/1d/7c971d97c2e67f56262f7ad1b52c3624.jpg" group-title="La Peste T1",cap. 03
+http://sonicracing.xyz/series/la%20peste/La%20Peste%20(T1xEP3).mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/7c/97/1d/7c971d97c2e67f56262f7ad1b52c3624.jpg" group-title="La Peste T1",cap. 04
+http://sonicracing.xyz/series/la%20peste/La%20Peste%20(T1xEP4).mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/7c/97/1d/7c971d97c2e67f56262f7ad1b52c3624.jpg" group-title="La Peste T1",cap. 05
+http://sonicracing.xyz/series/la%20peste/La%20Peste%20(T1xEP5).mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/7c/97/1d/7c971d97c2e67f56262f7ad1b52c3624.jpg" group-title="La Peste T1",cap. 06
+http://sonicracing.xyz/series/la%20peste/La%20Peste%20(T1xEP6).mp4
+
 ####################################### La Reina del Sur T1 Telemundo
 #EXTINF:-1 tvg-logo="https://www.brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg" group-title="La Reina del Sur T1",Idioma: Español
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
