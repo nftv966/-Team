@@ -1680,6 +1680,27 @@ http://173.212.243.107/netflix/imperioatomo/150047.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/20/10/05/00/01/1545869.jpg" group-title="Imperio Otomano",cap. 06
 http://173.212.243.107/netflix/imperioatomo/150048.mkv
 
+####################################### Irmandade Netflix
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Irmandade",Idioma: Portugues
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://aloalobahia.com/images/p/irmandade_netflix_trailer_alo_alo_bahia.png" group-title="Irmandade",Cap. 01
+http://173.212.243.107/disk2/novo2/irmandade/37164.mkv
+#EXTINF:-1 tvg-logo="https://aloalobahia.com/images/p/irmandade_netflix_trailer_alo_alo_bahia.png" group-title="Irmandade",Cap. 02
+http://173.212.243.107/disk2/novo2/irmandade/37165.mkv
+#EXTINF:-1 tvg-logo="https://aloalobahia.com/images/p/irmandade_netflix_trailer_alo_alo_bahia.png" group-title="Irmandade",Cap. 03
+http://173.212.243.107/disk2/novo2/irmandade/37166.mkv
+#EXTINF:-1 tvg-logo="https://aloalobahia.com/images/p/irmandade_netflix_trailer_alo_alo_bahia.png" group-title="Irmandade",Cap. 04
+http://173.212.243.107/disk2/novo2/irmandade/37167.mkv
+#EXTINF:-1 tvg-logo="https://aloalobahia.com/images/p/irmandade_netflix_trailer_alo_alo_bahia.png" group-title="Irmandade",Cap. 05
+http://173.212.243.107/disk2/novo2/irmandade/37168.mkv
+#EXTINF:-1 tvg-logo="https://aloalobahia.com/images/p/irmandade_netflix_trailer_alo_alo_bahia.png" group-title="Irmandade",Cap. 06
+http://173.212.243.107/disk2/novo2/irmandade/37169.mkv
+#EXTINF:-1 tvg-logo="https://aloalobahia.com/images/p/irmandade_netflix_trailer_alo_alo_bahia.png" group-title="Irmandade",Cap. 07
+http://173.212.243.107/disk2/novo2/irmandade/37170.mkv
+#EXTINF:-1 tvg-logo="https://aloalobahia.com/images/p/irmandade_netflix_trailer_alo_alo_bahia.png" group-title="Irmandade",Cap. 08
+http://173.212.243.107/disk2/novo2/irmandade/37171.mkv
+
 ####################################### Jessica Jones T1 Netflix
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Jessica Jones T1",Idioma: Portugues
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
