@@ -817,27 +817,6 @@ http://201.172.61.81:85/series/noviembre/La%20piloto%201%20y%202/temp%201/La.pil
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/20/05/04/01/53/5955667.jpg" group-title="La Piloto T1",Cap. 80
 http://201.172.61.81:85/series/noviembre/La%20piloto%201%20y%202/temp%201/La.pilotoCaptulo%20-%20s01e80.mp4
 
-####################################### La Revolucion Netflix
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="La Revolucion",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2300/2342/1_m1.jpg" group-title="La Revolucion",Cap. 01
-http://201.172.61.81:85/series/noviembre/La%20Revolucion/La%20Revolucion%20-%20s01e01.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2300/2342/1_m1.jpg" group-title="La Revolucion",Cap. 02
-http://201.172.61.81:85/series/noviembre/La%20Revolucion/La%20Revolucion%20-%20s01e02.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2300/2342/1_m1.jpg" group-title="La Revolucion",Cap. 03
-http://201.172.61.81:85/series/noviembre/La%20Revolucion/La%20Revolucion%20-%20s01e03.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2300/2342/1_m1.jpg" group-title="La Revolucion",Cap. 04
-http://201.172.61.81:85/series/noviembre/La%20Revolucion/La%20Revolucion%20-%20s01e04.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2300/2342/1_m1.jpg" group-title="La Revolucion",Cap. 05
-http://201.172.61.81:85/series/noviembre/La%20Revolucion/La%20Revolucion%20-%20s01e05.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2300/2342/1_m1.jpg" group-title="La Revolucion",Cap. 06
-http://201.172.61.81:85/series/noviembre/La%20Revolucion/La%20Revolucion%20-%20s01e06.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2300/2342/1_m1.jpg" group-title="La Revolucion",Cap. 07
-http://201.172.61.81:85/series/noviembre/La%20Revolucion/La%20Revolucion%20-%20s01e07.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2300/2342/1_m1.jpg" group-title="La Revolucion",Cap. 08
-http://201.172.61.81:85/series/noviembre/La%20Revolucion/La%20Revolucion%20-%20s01e08.mp4
-
 ####################################### Leyendas del Mañana T1 Netflix
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Leyendas del Mañana T1",Idioma: Español
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
@@ -874,6 +853,27 @@ http://201.172.61.81:85/series/noviembre/Legends%20Tomorrow%201%20a%205/season%2
 http://201.172.61.81:85/series/noviembre/Legends%20Tomorrow%201%20a%205/season%201/Legends..Tomorrow%20-%20s01e15.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71I75MOTzmL._AC_SL1000_.jpg" group-title="Leyendas del Mañana T1",Cap. 16
 http://201.172.61.81:85/series/noviembre/Legends%20Tomorrow%201%20a%205/season%201/Legends..Tomorrow%20-%20s01e16.mp4
+
+####################################### La Revolucion Netflix
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="La Revolucion",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2300/2342/1_m1.jpg" group-title="La Revolucion",Cap. 01
+http://201.172.61.81:85/series/noviembre/La%20Revolucion/La%20Revolucion%20-%20s01e01.mp4
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2300/2342/1_m1.jpg" group-title="La Revolucion",Cap. 02
+http://201.172.61.81:85/series/noviembre/La%20Revolucion/La%20Revolucion%20-%20s01e02.mp4
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2300/2342/1_m1.jpg" group-title="La Revolucion",Cap. 03
+http://201.172.61.81:85/series/noviembre/La%20Revolucion/La%20Revolucion%20-%20s01e03.mp4
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2300/2342/1_m1.jpg" group-title="La Revolucion",Cap. 04
+http://201.172.61.81:85/series/noviembre/La%20Revolucion/La%20Revolucion%20-%20s01e04.mp4
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2300/2342/1_m1.jpg" group-title="La Revolucion",Cap. 05
+http://201.172.61.81:85/series/noviembre/La%20Revolucion/La%20Revolucion%20-%20s01e05.mp4
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2300/2342/1_m1.jpg" group-title="La Revolucion",Cap. 06
+http://201.172.61.81:85/series/noviembre/La%20Revolucion/La%20Revolucion%20-%20s01e06.mp4
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2300/2342/1_m1.jpg" group-title="La Revolucion",Cap. 07
+http://201.172.61.81:85/series/noviembre/La%20Revolucion/La%20Revolucion%20-%20s01e07.mp4
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2300/2342/1_m1.jpg" group-title="La Revolucion",Cap. 08
+http://201.172.61.81:85/series/noviembre/La%20Revolucion/La%20Revolucion%20-%20s01e08.mp4
 
 ####################################### Leyendas del Mañana T2 Netflix
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Leyendas del Mañana T2",Idioma: Español
@@ -1383,7 +1383,26 @@ http://201.172.61.81:85/series/Enero/Veneno%20Temporada%201%20HD%20720p%20Castel
 #EXTINF:-1 tvg-logo="https://img.reelgood.com/content/show/521f1be4-0059-4e39-a8aa-a629f6e4ebc3/poster-780.jpg" group-title="Veneno",cap. 08
 http://201.172.61.81:85/series/Enero/Veneno%20Temporada%201%20HD%20720p%20Castellano%20(2020)/Veneno.S01E08.mp4
 
-
+####################################### Utopia Amazon Prime
+#EXTINF:-1 tvg-logo="https://www.pdvg.it/wp-content/uploads/2020/02/amazon-prime-video-pdvg.png" group-title="Utopia",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://www.seriesdatv.pt/wp-content/uploads/2020/08/Utopia-poster.jpg" group-title="Utopia",cap. 01
+http://201.172.61.81:85/series/Enero/Utopia/01.mp4
+#EXTINF:-1 tvg-logo="https://www.seriesdatv.pt/wp-content/uploads/2020/08/Utopia-poster.jpg" group-title="Utopia",cap. 02
+http://201.172.61.81:85/series/Enero/Utopia/02.mp4
+#EXTINF:-1 tvg-logo="https://www.seriesdatv.pt/wp-content/uploads/2020/08/Utopia-poster.jpg" group-title="Utopia",cap. 03
+http://201.172.61.81:85/series/Enero/Utopia/03.mp4
+#EXTINF:-1 tvg-logo="https://www.seriesdatv.pt/wp-content/uploads/2020/08/Utopia-poster.jpg" group-title="Utopia",cap. 04
+http://201.172.61.81:85/series/Enero/Utopia/04.mp4
+#EXTINF:-1 tvg-logo="https://www.seriesdatv.pt/wp-content/uploads/2020/08/Utopia-poster.jpg" group-title="Utopia",cap. 05
+http://201.172.61.81:85/series/Enero/Utopia/05.mp4
+#EXTINF:-1 tvg-logo="https://www.seriesdatv.pt/wp-content/uploads/2020/08/Utopia-poster.jpg" group-title="Utopia",cap. 06
+http://201.172.61.81:85/series/Enero/Utopia/06.mp4
+#EXTINF:-1 tvg-logo="https://www.seriesdatv.pt/wp-content/uploads/2020/08/Utopia-poster.jpg" group-title="Utopia",cap. 07
+http://201.172.61.81:85/series/Enero/Utopia/07.mp4
+#EXTINF:-1 tvg-logo="https://www.seriesdatv.pt/wp-content/uploads/2020/08/Utopia-poster.jpg" group-title="Utopia",cap. 08
+http://201.172.61.81:85/series/Enero/Utopia/08.mp4
 
 
 
