@@ -272,6 +272,37 @@ http://201.172.61.81:85/series/noviembre/De%20brutas%20nada%202020/De%20brutas%2
 #EXTINF:-1 tvg-logo="https://www.compucalitv.com/wp-content/uploads/2020/11/De-Brutas-Nada-Temporada-1-2020-HD-720p-Latino-Portada.jpg" group-title="De brutas nada T1",cap. 09
 http://201.172.61.81:85/series/noviembre/De%20brutas%20nada%202020/De%20brutas%20nada%20-%20s01e09.mp4
 
+####################################### Dragones: Carrera al Borde Netflix
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Dragones: Carrera al Borde",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/bf/3e/c0/bf3ec0f2a2a7f4d840f7f0302d098dbc.jpg" group-title="Dragones: Carrera al Borde",Cap. 01
+http://201.172.61.81:85/series/Enero/The%20Dragon%20Prince/01.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/bf/3e/c0/bf3ec0f2a2a7f4d840f7f0302d098dbc.jpg" group-title="Dragones: Carrera al Borde",Cap. 02
+http://201.172.61.81:85/series/Enero/The%20Dragon%20Prince/02.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/bf/3e/c0/bf3ec0f2a2a7f4d840f7f0302d098dbc.jpg" group-title="Dragones: Carrera al Borde",Cap. 03
+http://201.172.61.81:85/series/Enero/The%20Dragon%20Prince/03.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/bf/3e/c0/bf3ec0f2a2a7f4d840f7f0302d098dbc.jpg" group-title="Dragones: Carrera al Borde",Cap. 04
+http://201.172.61.81:85/series/Enero/The%20Dragon%20Prince/04.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/bf/3e/c0/bf3ec0f2a2a7f4d840f7f0302d098dbc.jpg" group-title="Dragones: Carrera al Borde",Cap. 05
+http://201.172.61.81:85/series/Enero/The%20Dragon%20Prince/05.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/bf/3e/c0/bf3ec0f2a2a7f4d840f7f0302d098dbc.jpg" group-title="Dragones: Carrera al Borde",Cap. 06
+http://201.172.61.81:85/series/Enero/The%20Dragon%20Prince/06.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/bf/3e/c0/bf3ec0f2a2a7f4d840f7f0302d098dbc.jpg" group-title="Dragones: Carrera al Borde",Cap. 07
+http://201.172.61.81:85/series/Enero/The%20Dragon%20Prince/07.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/bf/3e/c0/bf3ec0f2a2a7f4d840f7f0302d098dbc.jpg" group-title="Dragones: Carrera al Borde",Cap. 08
+http://201.172.61.81:85/series/Enero/The%20Dragon%20Prince/08.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/bf/3e/c0/bf3ec0f2a2a7f4d840f7f0302d098dbc.jpg" group-title="Dragones: Carrera al Borde",Cap. 09
+http://201.172.61.81:85/series/Enero/The%20Dragon%20Prince/09.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/bf/3e/c0/bf3ec0f2a2a7f4d840f7f0302d098dbc.jpg" group-title="Dragones: Carrera al Borde",Cap. 10
+http://201.172.61.81:85/series/Enero/The%20Dragon%20Prince/10.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/bf/3e/c0/bf3ec0f2a2a7f4d840f7f0302d098dbc.jpg" group-title="Dragones: Carrera al Borde",Cap. 11
+http://201.172.61.81:85/series/Enero/The%20Dragon%20Prince/11.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/bf/3e/c0/bf3ec0f2a2a7f4d840f7f0302d098dbc.jpg" group-title="Dragones: Carrera al Borde",Cap. 12
+http://201.172.61.81:85/series/Enero/The%20Dragon%20Prince/12.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/bf/3e/c0/bf3ec0f2a2a7f4d840f7f0302d098dbc.jpg" group-title="Dragones: Carrera al Borde",Cap. 13
+http://201.172.61.81:85/series/Enero/The%20Dragon%20Prince/13.mp4
+
 ####################################### El ministerio del tiempo T1 RTVE
 #EXTINF:-1 tvg-logo="https://css2.rtve.es/css/rtve.2019.television/rtve.series/series-TE_PSERIES/i/TE_PSERIES.logo.cab.png" group-title="El ministerio del tiempo T1",Idioma: Español
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
@@ -817,6 +848,154 @@ http://201.172.61.81:85/series/noviembre/La%20piloto%201%20y%202/temp%201/La.pil
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/20/05/04/01/53/5955667.jpg" group-title="La Piloto T1",Cap. 80
 http://201.172.61.81:85/series/noviembre/La%20piloto%201%20y%202/temp%201/La.pilotoCaptulo%20-%20s01e80.mp4
 
+####################################### La Promesa CARACOL
+#EXTINF:-1 tvg-logo="https://www.caracoltvcorporativo.com/sites/default/files/logo-footer_cor/logo_caracol2_0.png" group-title="La Promesa",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 01
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E01.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 02
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E02.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 03
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E03.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 04
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E04.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 05
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E05.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 06
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E06.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 07
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E07.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 08
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E08.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 09
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E09.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 10
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E10.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 11
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E11.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 12
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E12.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 13
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E13.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 14
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E14.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 15
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E15.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 16
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E16.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 17
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E17.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 18
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E18.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 19
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E19.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 20
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E20.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 21
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E21.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 22
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E22.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 23
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E23.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 24
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E24.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 25
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E25.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 26
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E26.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 27
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E27.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 28
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E28.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 29
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E29.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 30
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E30.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 31
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E31.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 32
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E32.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 33
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E33.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 34
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E34.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 35
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E35.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 36
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E36.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 37
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E37.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 38
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E38.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 39
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E39.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 40
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E40.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 41
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E41.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 42
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E42.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 43
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E43.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 44
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E44.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 45
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E45.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 46
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E46.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 47
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E47.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 48
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E48.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 49
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E49.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 50
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E50.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 51
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E51.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 52
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E52.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 53
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E53.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 54
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E54.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 55
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E55.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 56
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E56.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 57
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E57.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 58
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E58.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 59
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E59.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 60
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E60.mp4
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 61
+http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E61.mp4
+
+####################################### La Revolucion Netflix
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="La Revolucion",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2300/2342/1_m1.jpg" group-title="La Revolucion",Cap. 01
+http://201.172.61.81:85/series/noviembre/La%20Revolucion/La%20Revolucion%20-%20s01e01.mp4
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2300/2342/1_m1.jpg" group-title="La Revolucion",Cap. 02
+http://201.172.61.81:85/series/noviembre/La%20Revolucion/La%20Revolucion%20-%20s01e02.mp4
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2300/2342/1_m1.jpg" group-title="La Revolucion",Cap. 03
+http://201.172.61.81:85/series/noviembre/La%20Revolucion/La%20Revolucion%20-%20s01e03.mp4
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2300/2342/1_m1.jpg" group-title="La Revolucion",Cap. 04
+http://201.172.61.81:85/series/noviembre/La%20Revolucion/La%20Revolucion%20-%20s01e04.mp4
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2300/2342/1_m1.jpg" group-title="La Revolucion",Cap. 05
+http://201.172.61.81:85/series/noviembre/La%20Revolucion/La%20Revolucion%20-%20s01e05.mp4
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2300/2342/1_m1.jpg" group-title="La Revolucion",Cap. 06
+http://201.172.61.81:85/series/noviembre/La%20Revolucion/La%20Revolucion%20-%20s01e06.mp4
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2300/2342/1_m1.jpg" group-title="La Revolucion",Cap. 07
+http://201.172.61.81:85/series/noviembre/La%20Revolucion/La%20Revolucion%20-%20s01e07.mp4
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2300/2342/1_m1.jpg" group-title="La Revolucion",Cap. 08
+http://201.172.61.81:85/series/noviembre/La%20Revolucion/La%20Revolucion%20-%20s01e08.mp4
+
 ####################################### Leyendas del Mañana T1 Netflix
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Leyendas del Mañana T1",Idioma: Español
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
@@ -853,27 +1032,6 @@ http://201.172.61.81:85/series/noviembre/Legends%20Tomorrow%201%20a%205/season%2
 http://201.172.61.81:85/series/noviembre/Legends%20Tomorrow%201%20a%205/season%201/Legends..Tomorrow%20-%20s01e15.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71I75MOTzmL._AC_SL1000_.jpg" group-title="Leyendas del Mañana T1",Cap. 16
 http://201.172.61.81:85/series/noviembre/Legends%20Tomorrow%201%20a%205/season%201/Legends..Tomorrow%20-%20s01e16.mp4
-
-####################################### La Revolucion Netflix
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="La Revolucion",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2300/2342/1_m1.jpg" group-title="La Revolucion",Cap. 01
-http://201.172.61.81:85/series/noviembre/La%20Revolucion/La%20Revolucion%20-%20s01e01.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2300/2342/1_m1.jpg" group-title="La Revolucion",Cap. 02
-http://201.172.61.81:85/series/noviembre/La%20Revolucion/La%20Revolucion%20-%20s01e02.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2300/2342/1_m1.jpg" group-title="La Revolucion",Cap. 03
-http://201.172.61.81:85/series/noviembre/La%20Revolucion/La%20Revolucion%20-%20s01e03.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2300/2342/1_m1.jpg" group-title="La Revolucion",Cap. 04
-http://201.172.61.81:85/series/noviembre/La%20Revolucion/La%20Revolucion%20-%20s01e04.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2300/2342/1_m1.jpg" group-title="La Revolucion",Cap. 05
-http://201.172.61.81:85/series/noviembre/La%20Revolucion/La%20Revolucion%20-%20s01e05.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2300/2342/1_m1.jpg" group-title="La Revolucion",Cap. 06
-http://201.172.61.81:85/series/noviembre/La%20Revolucion/La%20Revolucion%20-%20s01e06.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2300/2342/1_m1.jpg" group-title="La Revolucion",Cap. 07
-http://201.172.61.81:85/series/noviembre/La%20Revolucion/La%20Revolucion%20-%20s01e07.mp4
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2300/2342/1_m1.jpg" group-title="La Revolucion",Cap. 08
-http://201.172.61.81:85/series/noviembre/La%20Revolucion/La%20Revolucion%20-%20s01e08.mp4
 
 ####################################### Leyendas del Mañana T2 Netflix
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Leyendas del Mañana T2",Idioma: Español
@@ -1362,6 +1520,93 @@ http://201.172.61.81:85/series/Enero/the%20mandalorian/07.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51OoERvY59L._AC_SY741_.jpg" group-title="The Mandalorian T1",cap. 08
 http://201.172.61.81:85/series/Enero/the%20mandalorian/08.mp4
 
+####################################### Timeless T1 NBC
+#EXTINF:-1 tvg-logo="https://www.wcbi.com/wp-content/uploads/2020/03/nbc-logo-1.jpg" group-title="Timeless T1",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/16/08/09/16/53/200701.jpg" group-title="Timeless T1",cap. 01
+http://201.172.61.81:85/series/Enero/Timeless/T1/01.mp4
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/16/08/09/16/53/200701.jpg" group-title="Timeless T1",cap. 02
+http://201.172.61.81:85/series/Enero/Timeless/T1/02.mp4
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/16/08/09/16/53/200701.jpg" group-title="Timeless T1",cap. 03
+http://201.172.61.81:85/series/Enero/Timeless/T1/03.mp4
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/16/08/09/16/53/200701.jpg" group-title="Timeless T1",cap. 04
+http://201.172.61.81:85/series/Enero/Timeless/T1/04.mp4
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/16/08/09/16/53/200701.jpg" group-title="Timeless T1",cap. 05
+http://201.172.61.81:85/series/Enero/Timeless/T1/05.mp4
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/16/08/09/16/53/200701.jpg" group-title="Timeless T1",cap. 06
+http://201.172.61.81:85/series/Enero/Timeless/T1/06.mp4
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/16/08/09/16/53/200701.jpg" group-title="Timeless T1",cap. 07
+http://201.172.61.81:85/series/Enero/Timeless/T1/07.mp4
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/16/08/09/16/53/200701.jpg" group-title="Timeless T1",cap. 08
+http://201.172.61.81:85/series/Enero/Timeless/T1/08.mp4
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/16/08/09/16/53/200701.jpg" group-title="Timeless T1",cap. 09
+http://201.172.61.81:85/series/Enero/Timeless/T1/09.mp4
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/16/08/09/16/53/200701.jpg" group-title="Timeless T1",cap. 10
+http://201.172.61.81:85/series/Enero/Timeless/T1/10.mp4
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/16/08/09/16/53/200701.jpg" group-title="Timeless T1",cap. 11
+http://201.172.61.81:85/series/Enero/Timeless/T1/11.mp4
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/16/08/09/16/53/200701.jpg" group-title="Timeless T1",cap. 12
+http://201.172.61.81:85/series/Enero/Timeless/T1/12.mp4
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/16/08/09/16/53/200701.jpg" group-title="Timeless T1",cap. 13
+http://201.172.61.81:85/series/Enero/Timeless/T1/13.mp4
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/16/08/09/16/53/200701.jpg" group-title="Timeless T1",cap. 14
+http://201.172.61.81:85/series/Enero/Timeless/T1/14.mp4
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/16/08/09/16/53/200701.jpg" group-title="Timeless T1",cap. 15
+http://201.172.61.81:85/series/Enero/Timeless/T1/15.mp4
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/16/08/09/16/53/200701.jpg" group-title="Timeless T1",cap. 16
+http://201.172.61.81:85/series/Enero/Timeless/T1/16.mp4
+
+####################################### Timeless T2 NBC
+#EXTINF:-1 tvg-logo="https://www.wcbi.com/wp-content/uploads/2020/03/nbc-logo-1.jpg" group-title="Timeless T2",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/18/03/05/11/25/3581252.jpg" group-title="Timeless T2",cap. 01
+http://201.172.61.81:85/series/Enero/Timeless/T2/01.mp4
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/18/03/05/11/25/3581252.jpg" group-title="Timeless T2",cap. 02
+http://201.172.61.81:85/series/Enero/Timeless/T2/02.mp4
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/18/03/05/11/25/3581252.jpg" group-title="Timeless T2",cap. 03
+http://201.172.61.81:85/series/Enero/Timeless/T2/03.mp4
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/18/03/05/11/25/3581252.jpg" group-title="Timeless T2",cap. 04
+http://201.172.61.81:85/series/Enero/Timeless/T2/04.mp4
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/18/03/05/11/25/3581252.jpg" group-title="Timeless T2",cap. 05
+http://201.172.61.81:85/series/Enero/Timeless/T2/05.mp4
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/18/03/05/11/25/3581252.jpg" group-title="Timeless T2",cap. 06
+http://201.172.61.81:85/series/Enero/Timeless/T2/06.mp4
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/18/03/05/11/25/3581252.jpg" group-title="Timeless T2",cap. 07
+http://201.172.61.81:85/series/Enero/Timeless/T2/07.mp4
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/18/03/05/11/25/3581252.jpg" group-title="Timeless T2",cap. 08
+http://201.172.61.81:85/series/Enero/Timeless/T2/08.mp4
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/18/03/05/11/25/3581252.jpg" group-title="Timeless T2",cap. 09
+http://201.172.61.81:85/series/Enero/Timeless/T2/09.mp4
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/18/03/05/11/25/3581252.jpg" group-title="Timeless T2",cap. 10
+http://201.172.61.81:85/series/Enero/Timeless/T2/10.mp4
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/18/03/05/11/25/3581252.jpg" group-title="Timeless T2",cap. 11
+http://201.172.61.81:85/series/Enero/Timeless/T2/11.mp4
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/18/03/05/11/25/3581252.jpg" group-title="Timeless T2",cap. 12
+http://201.172.61.81:85/series/Enero/Timeless/T2/12.mp4
+
+####################################### Truth Seekers T1 Amazon Prime
+#EXTINF:-1 tvg-logo="https://www.pdvg.it/wp-content/uploads/2020/02/amazon-prime-video-pdvg.png" group-title="Truth Seekers T1",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1280_720/pictures/20/09/24/11/54/2673946.png" group-title="Truth Seekers T1",cap. 01
+http://201.172.61.81:85/series/Enero/Truth%20Seekers%20Temporada%201%20(2020)%20HD%20720p%20Latino/01.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1280_720/pictures/20/09/24/11/54/2673946.png" group-title="Truth Seekers T1",cap. 02
+http://201.172.61.81:85/series/Enero/Truth%20Seekers%20Temporada%201%20(2020)%20HD%20720p%20Latino/02.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1280_720/pictures/20/09/24/11/54/2673946.png" group-title="Truth Seekers T1",cap. 03
+http://201.172.61.81:85/series/Enero/Truth%20Seekers%20Temporada%201%20(2020)%20HD%20720p%20Latino/03.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1280_720/pictures/20/09/24/11/54/2673946.png" group-title="Truth Seekers T1",cap. 04
+http://201.172.61.81:85/series/Enero/Truth%20Seekers%20Temporada%201%20(2020)%20HD%20720p%20Latino/04.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1280_720/pictures/20/09/24/11/54/2673946.png" group-title="Truth Seekers T1",cap. 05
+http://201.172.61.81:85/series/Enero/Truth%20Seekers%20Temporada%201%20(2020)%20HD%20720p%20Latino/05.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1280_720/pictures/20/09/24/11/54/2673946.png" group-title="Truth Seekers T1",cap. 06
+http://201.172.61.81:85/series/Enero/Truth%20Seekers%20Temporada%201%20(2020)%20HD%20720p%20Latino/06.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1280_720/pictures/20/09/24/11/54/2673946.png" group-title="Truth Seekers T1",cap. 07
+http://201.172.61.81:85/series/Enero/Truth%20Seekers%20Temporada%201%20(2020)%20HD%20720p%20Latino/07.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1280_720/pictures/20/09/24/11/54/2673946.png" group-title="Truth Seekers T1",cap. 08
+http://201.172.61.81:85/series/Enero/Truth%20Seekers%20Temporada%201%20(2020)%20HD%20720p%20Latino/08.mp4
+
 ####################################### Veneno HBO MAX
 #EXTINF:-1 tvg-logo="https://www.ipodtotal.com/archivos/portada/captura_de_pantalla_2020-05-28_a_las_18.22.42.png" group-title="Veneno",Idioma: Español
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
@@ -1403,12 +1648,6 @@ http://201.172.61.81:85/series/Enero/Utopia/06.mp4
 http://201.172.61.81:85/series/Enero/Utopia/07.mp4
 #EXTINF:-1 tvg-logo="https://www.seriesdatv.pt/wp-content/uploads/2020/08/Utopia-poster.jpg" group-title="Utopia",cap. 08
 http://201.172.61.81:85/series/Enero/Utopia/08.mp4
-
-
-
-
-
-
 
 
 
