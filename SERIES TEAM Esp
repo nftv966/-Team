@@ -526,6 +526,23 @@ http://201.172.61.81:85/series/noviembre/Epidemiy/Epidemiya%20-%20s01e07.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/20/09/24/14/35/0210099.jpg" group-title="Epidemiya: Hacia el lago",Cap. 08
 http://201.172.61.81:85/series/noviembre/Epidemiy/Epidemiya%20-%20s01e08.mp4
 
+####################################### Equinox Netflix
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Equinox",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://cinemalibero.website/wp-content/uploads/Equinox-Serie-TV.jpg" group-title="Equinox",Cap. 01
+http://201.172.61.81:85/series/Enero/Equinox.2020.S01.WEB.DL.720p.Latino/S01E01.mp4
+#EXTINF:-1 tvg-logo="https://cinemalibero.website/wp-content/uploads/Equinox-Serie-TV.jpg" group-title="Equinox",Cap. 02
+http://201.172.61.81:85/series/Enero/Equinox.2020.S01.WEB.DL.720p.Latino/S01E02.mp4
+#EXTINF:-1 tvg-logo="https://cinemalibero.website/wp-content/uploads/Equinox-Serie-TV.jpg" group-title="Equinox",Cap. 03
+http://201.172.61.81:85/series/Enero/Equinox.2020.S01.WEB.DL.720p.Latino/S01E03.mp4
+#EXTINF:-1 tvg-logo="https://cinemalibero.website/wp-content/uploads/Equinox-Serie-TV.jpg" group-title="Equinox",Cap. 04
+http://201.172.61.81:85/series/Enero/Equinox.2020.S01.WEB.DL.720p.Latino/S01E04.mp4
+#EXTINF:-1 tvg-logo="https://cinemalibero.website/wp-content/uploads/Equinox-Serie-TV.jpg" group-title="Equinox",Cap. 05
+http://201.172.61.81:85/series/Enero/Equinox.2020.S01.WEB.DL.720p.Latino/S01E05.mp4
+#EXTINF:-1 tvg-logo="https://cinemalibero.website/wp-content/uploads/Equinox-Serie-TV.jpg" group-title="Equinox",Cap. 06
+http://201.172.61.81:85/series/Enero/Equinox.2020.S01.WEB.DL.720p.Latino/S01E06.mp4
+
 ####################################### Fargo T1 Netflix
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Fargo T1",Idioma: Español
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
@@ -1054,6 +1071,151 @@ http://201.172.61.81:85/series/noviembre/IZOMBIE/TEMP%204/IZ%20-%20S04E11.mp4
 http://201.172.61.81:85/series/noviembre/IZOMBIE/TEMP%204/IZ%20-%20S04E12.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/18/02/19/15/23/4086911.jpg" group-title="iZombie T4",Cap. 13
 http://201.172.61.81:85/series/noviembre/IZOMBIE/TEMP%204/IZ%20-%20S04E13.mp4
+
+####################################### La esquina del diablo UNIMAS
+#EXTINF:-1 tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/I_v/I_v_large.png" group-title="La esquina del diablo",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 01
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/01.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 02
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/02.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 03
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/03.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 04
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/04.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 05
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/05.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 06
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/06.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 07
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/07.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 08
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/08.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 09
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/09.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 10
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/10.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 11
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/11.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 12
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/12.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 13
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/13.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 14
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/14.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 15
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/15.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 16
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/16.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 17
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/17.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 18
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/18.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 19
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/19.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 20
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/20.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 21
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/21.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 22
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/22.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 23
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/23.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 24
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/24.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 25
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/25.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 26
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/26.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 27
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/27.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 28
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/28.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 29
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/29.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 30
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/30.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 31
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/31.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 32
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/32.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 33
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/33.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 34
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/34.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 35
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/35.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 36
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/36.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 37
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/37.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 38
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/38.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 39
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/39.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 40
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/40.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 41
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/41.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 42
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/42.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 43
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/43.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 44
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/44.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 45
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/45.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 46
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/46.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 47
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/47.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 48
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/48.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 49
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/49.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 50
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/50.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 51
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/51.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 52
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/52.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 53
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/53.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 54
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/54.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 55
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/55.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 56
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/56.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 57
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/57.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 58
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/58.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 59
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/59.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 60
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/60.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 61
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/61.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 62
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/62.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 63
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/63.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 64
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/64.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 65
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/65.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 66
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/66.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 67
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/67.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 68
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/68.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 69
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/69.mp4
+#EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 70
+http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/70.mp4
 
 ####################################### La maldición de Bly Manor Netflix
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="La maldición de Bly Manor",Idioma: Español
