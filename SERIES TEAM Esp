@@ -936,6 +936,27 @@ http://201.172.61.81:85/series/Enero/MKV%20grimm%20temporada%201%20latino/T6/12.
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81D7fTf9Q8L._SL1500_.jpg" group-title="Grimm T6",cap. 13
 http://201.172.61.81:85/series/Enero/MKV%20grimm%20temporada%201%20latino/T6/13.mp4
 
+####################################### Inhumans DISNEY PLUS
+#EXTINF:-1 tvg-logo="https://icdn9.digitaltrends.com/image/digitaltrends_es/disney-plus-logo-streaming-topic-500x500.jpg" group-title="Inhumans",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/17/06/27/17/50/363270.jpg" group-title="Inhumans",cap. 01
+http://201.172.61.81:85/series/Enero/1Marvel's%20Inhumans/%5bPorMega.com%5dMarvel's%20Inhumans%20Temp%2001%20Cap%2001.mp4
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/17/06/27/17/50/363270.jpg" group-title="Inhumans",cap. 02
+http://201.172.61.81:85/series/Enero/1Marvel's%20Inhumans/%5bPorMega.com%5dMarvel's%20Inhumans%20Temp%2001%20Cap%2002.mp4
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/17/06/27/17/50/363270.jpg" group-title="Inhumans",cap. 03
+http://201.172.61.81:85/series/Enero/1Marvel's%20Inhumans/%5bPorMega.com%5dMarvel's%20Inhumans%20Temp%2001%20Cap%2003.mp4
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/17/06/27/17/50/363270.jpg" group-title="Inhumans",cap. 04
+http://201.172.61.81:85/series/Enero/1Marvel's%20Inhumans/%5bPorMega.com%5dMarvel's%20Inhumans%20Temp%2001%20Cap%2004.mp4
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/17/06/27/17/50/363270.jpg" group-title="Inhumans",cap. 05
+http://201.172.61.81:85/series/Enero/1Marvel's%20Inhumans/%5bPorMega.com%5dMarvel's%20Inhumans%20Temp%2001%20Cap%2005.mp4
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/17/06/27/17/50/363270.jpg" group-title="Inhumans",cap. 06
+http://201.172.61.81:85/series/Enero/1Marvel's%20Inhumans/%5bPorMega.com%5dMarvel's%20Inhumans%20Temp%2001%20Cap%2006.mp4
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/17/06/27/17/50/363270.jpg" group-title="Inhumans",cap. 07
+http://201.172.61.81:85/series/Enero/1Marvel's%20Inhumans/%5bPorMega.com%5dMarvel's%20Inhumans%20Temp%2001%20Cap%2007.mp4
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/17/06/27/17/50/363270.jpg" group-title="Inhumans",cap. 08
+http://201.172.61.81:85/series/Enero/1Marvel's%20Inhumans/%5bPorMega.com%5dMarvel's%20Inhumans%20Temp%2001%20Cap%2008.mp4
+
 ####################################### iZombie T1 The CW
 #EXTINF:-1 tvg-logo="https://freepikpsd.com/wp-content/uploads/2019/10/cw-live-2-Png-Transparent-Images.png" group-title="iZombie T1",Idioma: Español
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
