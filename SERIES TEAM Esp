@@ -973,6 +973,31 @@ http://201.172.61.81:85/series/Enero/ministerio/T3/12.mp4
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1000/1061/4_m1.jpg" group-title="El ministerio del tiempo T3",cap. 13
 http://201.172.61.81:85/series/Enero/ministerio/T3/13.mp4
 
+####################################### El tren infinito CARTOON NETWORK
+#EXTINF:-1 tvg-logo="https://www.numeroservicioalcliente.com/wp-content/uploads/2017/10/ogLogo.png" group-title="El tren infinito",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91PxUrHkAeL._SL1500_.jpg" group-title="El tren infinito",Cap. 01
+http://201.172.61.81:85/series/Novelas/Infinity%20Train/Infinity%20Train%20-%20s01e01.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91PxUrHkAeL._SL1500_.jpg" group-title="El tren infinito",Cap. 02
+http://201.172.61.81:85/series/Novelas/Infinity%20Train/Infinity%20Train%20-%20s01e02.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91PxUrHkAeL._SL1500_.jpg" group-title="El tren infinito",Cap. 03
+http://201.172.61.81:85/series/Novelas/Infinity%20Train/Infinity%20Train%20-%20s01e03.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91PxUrHkAeL._SL1500_.jpg" group-title="El tren infinito",Cap. 04
+http://201.172.61.81:85/series/Novelas/Infinity%20Train/Infinity%20Train%20-%20s01e04.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91PxUrHkAeL._SL1500_.jpg" group-title="El tren infinito",Cap. 05
+http://201.172.61.81:85/series/Novelas/Infinity%20Train/Infinity%20Train%20-%20s01e05.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91PxUrHkAeL._SL1500_.jpg" group-title="El tren infinito",Cap. 06
+http://201.172.61.81:85/series/Novelas/Infinity%20Train/Infinity%20Train%20-%20s01e06.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91PxUrHkAeL._SL1500_.jpg" group-title="El tren infinito",Cap. 07
+http://201.172.61.81:85/series/Novelas/Infinity%20Train/Infinity%20Train%20-%20s01e07.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91PxUrHkAeL._SL1500_.jpg" group-title="El tren infinito",Cap. 08
+http://201.172.61.81:85/series/Novelas/Infinity%20Train/Infinity%20Train%20-%20s01e08.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91PxUrHkAeL._SL1500_.jpg" group-title="El tren infinito",Cap. 09
+http://201.172.61.81:85/series/Novelas/Infinity%20Train/Infinity%20Train%20-%20s01e09.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91PxUrHkAeL._SL1500_.jpg" group-title="El tren infinito",Cap. 10
+http://201.172.61.81:85/series/Novelas/Infinity%20Train/Infinity%20Train%20-%20s01e10.mp4
+
 ####################################### Epidemiya: Hacia el lago Netflix
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Epidemiya: Hacia el lago",Idioma: Español
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
