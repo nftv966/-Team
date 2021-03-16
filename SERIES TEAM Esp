@@ -518,6 +518,37 @@ http://201.172.61.81:85/series/noviembre/Blood%20of%20Zeus/Blood.of.Zeus%20-%20s
 #EXTINF:-1 tvg-logo="https://img.repelis.id/cover/sangre-de-zeus.png" group-title="Blood of Zeus",Cap. 08
 http://201.172.61.81:85/series/noviembre/Blood%20of%20Zeus/Blood.of.Zeus%20-%20s01e08.mp4
 
+####################################### Bronco TNT
+#EXTINF:-1 tvg-logo="https://blog.canaltnt.es/wp-content/themes/simple-bootstrap-child/images/logo.png" group-title="Bronco",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/19/11/19/06/59/2800363.jpg" group-title="Bronco",Cap. 01
+http://201.172.61.81:85/series/Novelas/Bronco/1.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/19/11/19/06/59/2800363.jpg" group-title="Bronco",Cap. 02
+http://201.172.61.81:85/series/Novelas/Bronco/2.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/19/11/19/06/59/2800363.jpg" group-title="Bronco",Cap. 03
+http://201.172.61.81:85/series/Novelas/Bronco/3.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/19/11/19/06/59/2800363.jpg" group-title="Bronco",Cap. 04
+http://201.172.61.81:85/series/Novelas/Bronco/4.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/19/11/19/06/59/2800363.jpg" group-title="Bronco",Cap. 05
+http://201.172.61.81:85/series/Novelas/Bronco/5.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/19/11/19/06/59/2800363.jpg" group-title="Bronco",Cap. 06
+http://201.172.61.81:85/series/Novelas/Bronco/6.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/19/11/19/06/59/2800363.jpg" group-title="Bronco",Cap. 07
+http://201.172.61.81:85/series/Novelas/Bronco/7.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/19/11/19/06/59/2800363.jpg" group-title="Bronco",Cap. 08
+http://201.172.61.81:85/series/Novelas/Bronco/8.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/19/11/19/06/59/2800363.jpg" group-title="Bronco",Cap. 09
+http://201.172.61.81:85/series/Novelas/Bronco/9.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/19/11/19/06/59/2800363.jpg" group-title="Bronco",Cap. 10
+http://201.172.61.81:85/series/Novelas/Bronco/10.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/19/11/19/06/59/2800363.jpg" group-title="Bronco",Cap. 11
+http://201.172.61.81:85/series/Novelas/Bronco/11.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/19/11/19/06/59/2800363.jpg" group-title="Bronco",Cap. 12
+http://201.172.61.81:85/series/Novelas/Bronco/12.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/19/11/19/06/59/2800363.jpg" group-title="Bronco",Cap. 13
+http://201.172.61.81:85/series/Novelas/Bronco/13.mkv
+
 ####################################### Carmel ¿Quién mató a María Marta? Netflix
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Carmel ¿Quién mató a María Marta?",Idioma: Español
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
