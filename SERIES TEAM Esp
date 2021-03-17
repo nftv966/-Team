@@ -4500,6 +4500,27 @@ http://201.172.61.81:85/series/noviembre/Lore/Lore%2002/Lore.2x05.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/18/07/25/12/54/3667955.jpg" group-title="Lore T2",cap. 06
 http://201.172.61.81:85/series/noviembre/Lore/Lore%2002/Lore.2x06.mp4
 
+####################################### Los internacionales CABLEVISION FLOW
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1357752173015298048/b2RMnPTe.jpg" group-title="Los internacionales",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://mb.cision.com/Public/16563/3245920/b69a7cb92ce5781f_org.jpg" group-title="Los internacionales",cap. 01
+http://201.172.61.81:85/series/Caricaturas/1Los%20internacionales%20(2020)/01.mp4
+#EXTINF:-1 tvg-logo="https://mb.cision.com/Public/16563/3245920/b69a7cb92ce5781f_org.jpg" group-title="Los internacionales",cap. 02
+http://201.172.61.81:85/series/Caricaturas/1Los%20internacionales%20(2020)/02.mp4
+#EXTINF:-1 tvg-logo="https://mb.cision.com/Public/16563/3245920/b69a7cb92ce5781f_org.jpg" group-title="Los internacionales",cap. 03
+http://201.172.61.81:85/series/Caricaturas/1Los%20internacionales%20(2020)/03.mp4
+#EXTINF:-1 tvg-logo="https://mb.cision.com/Public/16563/3245920/b69a7cb92ce5781f_org.jpg" group-title="Los internacionales",cap. 04
+http://201.172.61.81:85/series/Caricaturas/1Los%20internacionales%20(2020)/04.mp4
+#EXTINF:-1 tvg-logo="https://mb.cision.com/Public/16563/3245920/b69a7cb92ce5781f_org.jpg" group-title="Los internacionales",cap. 05
+http://201.172.61.81:85/series/Caricaturas/1Los%20internacionales%20(2020)/05.mp4
+#EXTINF:-1 tvg-logo="https://mb.cision.com/Public/16563/3245920/b69a7cb92ce5781f_org.jpg" group-title="Los internacionales",cap. 06
+http://201.172.61.81:85/series/Caricaturas/1Los%20internacionales%20(2020)/06.mp4
+#EXTINF:-1 tvg-logo="https://mb.cision.com/Public/16563/3245920/b69a7cb92ce5781f_org.jpg" group-title="Los internacionales",cap. 07
+http://201.172.61.81:85/series/Caricaturas/1Los%20internacionales%20(2020)/07.mp4
+#EXTINF:-1 tvg-logo="https://mb.cision.com/Public/16563/3245920/b69a7cb92ce5781f_org.jpg" group-title="Los internacionales",cap. 08
+http://201.172.61.81:85/series/Caricaturas/1Los%20internacionales%20(2020)/08.mp4
+
 ####################################### MacGyver T1 Amazon Prime
 #EXTINF:-1 tvg-logo="https://www.pdvg.it/wp-content/uploads/2020/02/amazon-prime-video-pdvg.png" group-title="MacGyver T1",Idioma: Español
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
