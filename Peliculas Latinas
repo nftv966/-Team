@@ -7,6 +7,10 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
 ####################################### 2021
+#EXTINF:-1 group-title="2021" tvg-logo="https://entrepeliculasyseries.com/Archivos/2021/02/bliss.jpg",Felicidad (2021)
+http://appstv.us:25461/movie/1/2/9244.mp4
+#EXTINF:-1 group-title="2021" tvg-logo="https://www.ecartelera.com/carteles/14200/14232/002_p.jpg",Monster Hunter (2021)
+http://etvhome.com:25461/movie/0105/1234/95374.mp4
 #EXTINF:-1 group-title="2021" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81qnDkWg0jL._SX300_.jpg",Scooby Doo: La espada y Scooby (2021)
 http://etvhome.com:25461/movie/0105/1234/94839.mp4
 #EXTINF:-1 group-title="2021" tvg-logo="http://es.web.img2.acsta.net/pictures/20/12/11/11/45/3446752.jpg",Flora y Ulises (2021)
