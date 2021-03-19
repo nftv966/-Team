@@ -7,7 +7,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
 ####################################### 2021
-#EXTINF:-1 group-title="2021" tvg-logo="https://elifilms.net/wp-content/uploads/2021/02/Punto-rojo-2021.jpg",Punto rojo (2021)
+#EXTINF:-1 tvg-logo="https://elifilms.net/wp-content/uploads/2021/02/Punto-rojo-2021.jpg" group-title="2021",Punto rojo (2021)
 http://stream-panel.club:6375/movie/Junior/QnGjQVvepJ/59089.mp4
 #EXTINF:-1 group-title="2021" tvg-logo="https://entrepeliculasyseries.com/Archivos/2021/02/bliss.jpg",Felicidad (2021)
 http://appstv.us:25461/movie/1/2/9244.mp4
