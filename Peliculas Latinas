@@ -7,6 +7,8 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
 ####################################### 2021
+#EXTINF:-1 group-title="2021" tvg-logo="https://elifilms.net/wp-content/uploads/2021/02/Punto-rojo-2021.jpg",Punto rojo (2021)
+http://stream-panel.club:6375/movie/Junior/QnGjQVvepJ/59089.mp4
 #EXTINF:-1 group-title="2021" tvg-logo="https://entrepeliculasyseries.com/Archivos/2021/02/bliss.jpg",Felicidad (2021)
 http://appstv.us:25461/movie/1/2/9244.mp4
 #EXTINF:-1 group-title="2021" tvg-logo="https://www.ecartelera.com/carteles/14200/14232/002_p.jpg",Monster Hunter (2021)
@@ -25,11 +27,12 @@ http://198.71.50.163:80/Uploads/Fantasia/Raya-y-el-Ultimo-Dragon-2021.lat.mp4
 http://etvhome.com:25461/movie/0105/1234/97864.mkv
 
 ####################################### 2020
+#EXTINF:-1 group-title="2020" tvg-logo="https://media.senscritique.com/media/000019632329/source_big/Half_Brothers.jpg",Medios Hermanos (2020)
+http://vod.tuxchannel.tv/peliculas/720/half%20brothers%202020.mkv
 #EXTINF:-1 group-title="2020" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91OK9hSDehL._SL1500_.jpg",Capturado (2020)
 http://latiniptv.vip:8008/movie/VICTORCHILE12MESES/OSVALDOPRO0902/150014.mp4
 #EXTINF:-1 group-title="2020" tvg-logo="https://www.cinecalidad.is/espana/wp-content/uploads/2021/02/Todos-mis-amigos-estan-muertos-2020.jpg",Todos mis amigos están muertos (2020)
 http://vod.tuxchannel.tv/peliculas/720/wszyscy%20moi%20przyjaciele%20nie%20zyja%202020.mkv
-
 
 ####################################### 2019
 #EXTINF:-1 group-title="2019" tvg-logo="http://es.web.img2.acsta.net/pictures/18/12/28/13/40/0618760.jpg",El niño que pudo ser Rey (2019)
