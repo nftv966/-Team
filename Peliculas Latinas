@@ -135,6 +135,8 @@ http://latiniptv.vip:8008/movie/VICTORCHILE12MESES/OSVALDOPRO0902/150014.mp4
 http://vod.tuxchannel.tv/peliculas/720/wszyscy%20moi%20przyjaciele%20nie%20zyja%202020.mkv
 
 ####################################### 2019
+#EXTINF:-1 tvg-logo="https://www.actionfreunde.de/wp-content/uploads/doom-annihilation-cover.jpg" group-title="2019",Doom Annihilation (2019)
+http://tux-vod.dynu.com/peliculas/720/doom%20annihilation%202019.mkv
 #EXTINF:-1 tvg-logo="https://www.ecartelera.com/carteles/15100/15106/001_p.jpg" group-title="2019",La Escolta (2019)
 http://tux-vod.dynu.com/peliculas/720/close.mkv
 #EXTINF:-1 tvg-logo="https://www.proimagenescolombia.com/photos/57150_6067_imagen__.jpg" group-title="2019",Mamá al volante (2019)
@@ -143,6 +145,8 @@ http://vod.tuxchannel.tv/peliculas/720/mama%20al%20volante%202019.mkv
 http://tux-vod.dynu.com:80/peliculas/720/the%20kid%20who%20would%20be%20king%202018.mkv
 
 ####################################### 2018
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e0/54/3c/e0543cd926fc1ca9d95a1aff8f262d78.jpg" group-title="2018",Rascacielos: rescate en las alturas (2018)
+http://tux-vod.dynu.com/peliculas/720/el%20rascacielos.mkv
 #EXTINF:-1 tvg-logo="https://fr.web.img4.acsta.net/pictures/18/05/03/13/42/0025095.jpg" group-title="2018",Darc (2018)
 http://tux-vod.dynu.com/peliculas/720/darc.mkv
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/18/04/03/11/10/1695640.jpg" group-title="2018",Proyecto Rampage (2018)
@@ -723,6 +727,12 @@ http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C9126
 http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%212732&authkey=AJe5LYBeJ0hKUTA
 
 ####################################### Peliculas Viejas
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/14/02/24/12/47/059672.jpg" group-title="Peliculas Viejas",Náufrago (2000)
+http://tux-vod.dynu.com/peliculas/720/cast%20away.mkv
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/16/02/25/16/01/464057.jpg" group-title="Peliculas Viejas",Prometheus (2012)
+http://tux-vod.dynu.com/peliculas/720/prometheus.mkv
+#EXTINF:-1 tvg-logo="https://www.cinevistablog.com/wp-content/uploads/2012/10/looper-asesinos-del-futuro-resena_opt2_.jpg" group-title="Peliculas Viejas",Looper: asesinos del futuro (2012)
+http://tux-vod.dynu.com/peliculas/720/looper.mkv
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/a9/21/35/a92135a97c357c3f42c89ad7bc8999d3.jpg" group-title="Peliculas Viejas",Que pasó ayer 2 (2011)
 http://vod.tuxchannel.tv/peliculas/720/the%20hangover%20part%20II.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/vtxuPWkdllLNLVyGjKYa267ntuH.jpg" group-title="Peliculas Viejas",Que pasó ayer 3 (2013)
