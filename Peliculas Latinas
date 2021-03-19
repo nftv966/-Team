@@ -27,6 +27,14 @@ http://198.71.50.163:80/Uploads/Fantasia/Raya-y-el-Ultimo-Dragon-2021.lat.mp4
 http://etvhome.com:25461/movie/0105/1234/97864.mkv
 
 ####################################### 2020
+#EXTINF:-1 group-title="2020" tvg-logo="http://es.web.img3.acsta.net/c_310_420/pictures/21/01/15/10/29/5424445.jpg",Confinados (2020)
+http://multicuentastv.com:8000/movie/MiguelPaguay01/1IJYWVD/134818.mp4
+#EXTINF:-1 group-title="2020" tvg-logo="https://mx.web.img2.acsta.net/pictures/20/12/08/19/31/5401315.jpg",Mujer Maravilla 2 (2020)
+http://vod.tuxchannel.tv/peliculas/720/wonder%20woman%202020.mkv
+#EXTINF:-1 group-title="2020" tvg-logo="https://www.miradetodo.site/movies/static/img/w300/9QX6MaN9vMeUPnhkOxhzDmVbJrr.jpg",Cielo de medianoche (2020)
+http://vod.tuxchannel.tv/peliculas/720/the%20midnight%20sky%202020.mkv
+#EXTINF:-1 group-title="2020" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81Fc1oT%2BAOL._SL1500_.jpg",La Portera (2020)
+http://vod.tuxchannel.tv/peliculas/720/the%20doorman%202020.mkv
 #EXTINF:-1 group-title="2020" tvg-logo="http://es.web.img3.acsta.net/pictures/20/03/24/14/59/1973735.jpg",Soul (2020)
 http://vod.tuxchannel.tv/peliculas/720/soul%202020.mkv
 #EXTINF:-1 group-title="2020" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81-SJkvjRiL._SL1500_.jpg",Copper Bill (2020)
@@ -620,6 +628,10 @@ http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C9126
 
 
 ####################################### Peliculas Viejas
+#EXTINF:-1 group-title="Peliculas Viejas" tvg-logo="http://es.web.img3.acsta.net/pictures/14/02/13/13/57/036032.jpg",Click (2006)
+http://tux-vod.dynu.com/peliculas/720/click.mkv
+#EXTINF:-1 group-title="Peliculas Viejas" tvg-logo="http://es.web.img3.acsta.net/medias/nmedia/18/89/65/21/20060271.jpg",Apocalypto (2006)
+http://tux-vod.dynu.com/peliculas/720/apocalypto.mkv
 #EXTINF:-1 group-title="Peliculas Viejas" tvg-logo="https://www.lifeder.com/wp-content/uploads/2018/11/Ralph-el-Demoledor-1-e1541031693298.jpg",Ralph: el demoledor (2012)
 http://tux-vod.dynu.com/peliculas/720/wreck-it%20ralph.mkv
 #EXTINF:-1 group-title="Peliculas Viejas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41CbAA7MLIL._SY445_.jpg",La enfermera (2013)
