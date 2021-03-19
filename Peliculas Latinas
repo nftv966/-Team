@@ -68,7 +68,6 @@ http://vod.tuxchannel.tv/peliculas/720/wszyscy%20moi%20przyjaciele%20nie%20zyja%
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/18/12/28/13/40/0618760.jpg" group-title="2019",El niño que pudo ser Rey (2019)
 http://tux-vod.dynu.com:80/peliculas/720/the%20kid%20who%20would%20be%20king%202018.mkv
 
-
 ####################################### 2018
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/73/56/d8/7356d8c82ff369770814b340947b8ade.jpg" group-title="2018",Máquinas Mortales (2018)
 http://tux-vod.dynu.com/peliculas/720/mortal%20engines%202018.mkv
@@ -395,187 +394,185 @@ http://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
 #EXTINF:-1 tvg-logo="http://destinoarrakis.com/wp-content/uploads/2017/10/tragedy-girls-1.jpg" group-title="2017",Tragedy Girls (2017)
 http://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
 
-
 ####################################### 2016
-#EXTINF:-1 group-title="2016" tvg-logo="http://es.web.img2.acsta.net/pictures/16/05/26/12/07/068755.jpg",Pelé (2016)
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/16/05/26/12/07/068755.jpg" group-title="2016",Pelé (2016)
 http://etvhome.com:25461/movie/0105/1234/94837.mp4
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81O7-q3fD8L._SX342_.jpg",Reina de Katwe (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81O7-q3fD8L._SX342_.jpg" group-title="2016",Reina de Katwe (2016)
 http://onedrive.live.com/download.aspx?cid=BF7055D49F20CAF9&resid=BF7055D49F20CAF9%21199&authkey=AJHkVdEL8J6gqn0
-#EXTINF:-1 group-title="2016" tvg-logo="https://s3-eu-west-1.amazonaws.com/abandomedia/indie/foto/db_48140_78.jpg",Soldado anonimo 3: El asedio (2016)
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/abandomedia/indie/foto/db_48140_78.jpg" group-title="2016",Soldado anonimo 3: El asedio (2016)
 http://onedrive.live.com/download.aspx?resid=79F314CC957B5E45!1974&authkey=!ANzAKfyEfSgZu4s&ithint=video%2cmp4
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51fDlOd14TL.jpg",Invasion al hogar (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51fDlOd14TL.jpg" group-title="2016",Invasion al hogar (2016)
 http://onedrive.live.com/download.aspx?resid=79F314CC957B5E45!1973&authkey=!AEajPp28r5dx3G8&ithint=video%2cmp4
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91SC1HAl8SL._SY445_.jpg",13 Horas: Los soldados secretos de Bengasi (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91SC1HAl8SL._SY445_.jpg" group-title="2016",13 Horas: Los soldados secretos de Bengasi (2016)
 http://onedrive.live.com/download.aspx?resid=C83EA2CEB07B817B!2685&authkey=!AIRApS_3dnfG0Y8&ithint=file%2cmkv
-#EXTINF:-1 group-title="2016" tvg-logo="http://bavaromagazine.net/wp-content/uploads/2018/01/4364-202x300.jpg",Los doble vida (2016)
+#EXTINF:-1 tvg-logo="http://bavaromagazine.net/wp-content/uploads/2018/01/4364-202x300.jpg" group-title="2016",Los doble vida (2016)
 http://onedrive.live.com/download.aspx?resid=C83EA2CEB07B817B!2734&authkey=!ALHLQN2jwgODARA&ithint=video%2cmp4
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51NU5tbbz1L._SY445_.jpg",Calle Cloverfield 10 (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51NU5tbbz1L._SY445_.jpg" group-title="2016",Calle Cloverfield 10 (2016)
 http://onedrive.live.com/download.aspx?resid=C83EA2CEB07B817B!2761&authkey=!ACgyIR5Z-QOF44Q&ithint=file%2cmkv
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/812ZmTTexvL._SY445_.jpg",Londres bajo fuego (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/812ZmTTexvL._SY445_.jpg" group-title="2016",Londres bajo fuego (2016)
 http://onedrive.live.com/download.aspx?resid=C83EA2CEB07B817B!2763&authkey=!AARXXlVAju-FV3k&ithint=video%2cmp4
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91K%2BsDhfOtL._SY445_.jpg",X-Men Apocalipsis (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91K%2BsDhfOtL._SY445_.jpg" group-title="2016",X-Men Apocalipsis (2016)
 http://onedrive.live.com/download.aspx?resid=C83EA2CEB07B817B!3048&authkey=!AEa_bekfOh2CWDI&ithint=file%2cmkv
-#EXTINF:-1 group-title="2016" tvg-logo="https://cd.cinescape.com.pe/cinescape-325x457-133431.jpg",Volando alto (2016)
+#EXTINF:-1 tvg-logo="https://cd.cinescape.com.pe/cinescape-325x457-133431.jpg" group-title="2016",Volando alto (2016)
 http://onedrive.live.com/download.aspx?resid=A77E309F9C912682!114&authkey=!AK7sHKSdTYyoTSk&ithint=video%2cmp4
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A14OTQWHndL._RI_.jpg",Rendirse jamas 3 (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A14OTQWHndL._RI_.jpg" group-title="2016",Rendirse jamas 3 (2016)
 http://onedrive.live.com/download.aspx?resid=A77E309F9C912682!222&authkey=!AD9v100JBTODM_o&ithint=video%2cmp4
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91Wf%2BQJEXjL._SY445_.jpg",Reporteras en guerra (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91Wf%2BQJEXjL._SY445_.jpg" group-title="2016",Reporteras en guerra (2016)
 http://onedrive.live.com/download.aspx?resid=A77E309F9C912682!224&authkey=!AEN8I5Hm0pg9LTk&ithint=video%2cmp4
-#EXTINF:-1 group-title="2016" tvg-logo="https://images4.static-bluray.com/products/20/35137_3_large.jpg",Veteranos al ataque (2016)
+#EXTINF:-1 tvg-logo="https://images4.static-bluray.com/products/20/35137_3_large.jpg" group-title="2016",Veteranos al ataque (2016)
 http://onedrive.live.com/download.aspx?resid=A77E309F9C912682!211&authkey=!ALhGq2IU87Sfbl4&ithint=video%2cmp4
-#EXTINF:-1 group-title="2016" tvg-logo="http://es.web.img3.acsta.net/c_215_290/pictures/16/02/23/10/09/033647.jpg",Divergente Leal 3 (2016)
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/c_215_290/pictures/16/02/23/10/09/033647.jpg" group-title="2016",Divergente Leal 3 (2016)
 http://onedrive.live.com/download.aspx?resid=A77E309F9C912682!353&authkey=!AHm0ObVMUuHgSO0
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91-i8LO9dFL._SY445_.jpg",Caperucita Muerta (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91-i8LO9dFL._SY445_.jpg" group-title="2016",Caperucita Muerta (2016)
 http://onedrive.live.com/download.aspx?resid=A77E309F9C912682!359&authkey=!AFA3vjNaNEt1go8&ithint=video%2cmp4
-#EXTINF:-1 group-title="2016" tvg-logo="http://es.web.img3.acsta.net/pictures/15/11/06/14/17/175782.jpg",Warcraft el Origen (2016)
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/15/11/06/14/17/175782.jpg" group-title="2016",Warcraft el Origen (2016)
 http://onedrive.live.com/download.aspx?resid=A77E309F9C912682!361&authkey=!AI3NS_dhZOLHJ_k
-#EXTINF:-1 group-title="2016" tvg-logo="http://tvcinemax.com/wp-content/uploads/2016/06/Enchufe-sin-visa.jpg",Enchufe sin visa (2016)
+#EXTINF:-1 tvg-logo="http://tvcinemax.com/wp-content/uploads/2016/06/Enchufe-sin-visa.jpg" group-title="2016",Enchufe sin visa (2016)
 http://onedrive.live.com/download.aspx?resid=A77E309F9C912682!355&authkey=!ALb3KWkkSWPtK00&ithint=video%2cmp4
-#EXTINF:-1 group-title="2016" tvg-logo="http://es.web.img3.acsta.net/c_215_290/pictures/16/01/12/13/49/029014.jpg",Milagros del cielo (2016)
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/c_215_290/pictures/16/01/12/13/49/029014.jpg" group-title="2016",Milagros del cielo (2016)
 http://onedrive.live.com/download.aspx?resid=A77E309F9C912682!258&authkey=!AO_jxvNoEwvh_ks&ithint=video%2cmp4
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91zR8nZ7TzL._SY679_.jpg",Tortugas Ninjas 2 fuera de las sombras (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91zR8nZ7TzL._SY679_.jpg" group-title="2016",Tortugas Ninjas 2 fuera de las sombras (2016)
 http://onedrive.live.com/download.aspx?resid=C83EA2CEB07B817B!2817&authkey=!AGA6aDSfX48Ga00&ithint=video%2cavi
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51xwqDF%2BL%2BL.jpg",Los principios del cuidado (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51xwqDF%2BL%2BL.jpg" group-title="2016",Los principios del cuidado (2016)
 http://onedrive.live.com/download.aspx?resid=A77E309F9C912682!367&authkey=!AJU9UYyqWTwM6yE&ithint=video%2cmp4
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91LzBOOaXuL._SY445_.jpg",Triple 9 (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91LzBOOaXuL._SY445_.jpg" group-title="2016",Triple 9 (2016)
 http://onedrive.live.com/download.aspx?resid=A77E309F9C912682!391&authkey=!AOsP8SazWE6FvgE&ithint=video%2cmp4
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71sdc8r-gkL._SY445_.jpg",Todos queremos algo (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71sdc8r-gkL._SY445_.jpg" group-title="2016",Todos queremos algo (2016)
 http://onedrive.live.com/download.aspx?resid=A77E309F9C912682!482&authkey=!AIBn_mBRraqItog&ithint=video%2cmp4
-#EXTINF:-1 group-title="2016" tvg-logo="http://es.web.img2.acsta.net/c_215_290/pictures/16/02/04/15/49/599815.jpg",Yo antes de ti (2016)
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/c_215_290/pictures/16/02/04/15/49/599815.jpg" group-title="2016",Yo antes de ti (2016)
 http://onedrive.live.com/download.aspx?resid=A77E309F9C912682!730&authkey=!AOgZVJgemFCIjlo
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/911RR0tzL2L._SL1500_.jpg",Batman v Superman: el amanecer de la justicia (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/911RR0tzL2L._SL1500_.jpg" group-title="2016",Batman v Superman: el amanecer de la justicia (2016)
 http://onedrive.live.com/download.aspx?resid=A77E309F9C912682!387&authkey=!AH09GxJtt5kRqKs
-#EXTINF:-1 group-title="2016" tvg-logo="https://cd.cinescape.com.pe/cinescape-325x457-157193.png",Mente implacable (2016)
+#EXTINF:-1 tvg-logo="https://cd.cinescape.com.pe/cinescape-325x457-157193.png" group-title="2016",Mente implacable (2016)
 http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%211946&authkey=AF3epz6bK3XnKto
-#EXTINF:-1 group-title="2016" tvg-logo="http://es.web.img3.acsta.net/c_215_290/pictures/16/02/22/13/00/519281.jpg",La Jefa (2016)
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/c_215_290/pictures/16/02/22/13/00/519281.jpg" group-title="2016",La Jefa (2016)
 http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%211942&authkey=AE7rYpgyGiakJMI
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81JW-U93L5L._SY445_.jpg",Jane tomo las armas (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81JW-U93L5L._SY445_.jpg" group-title="2016",Jane tomo las armas (2016)
 http://onedrive.live.com/download.aspx?resid=A77E309F9C912682!719&authkey=!AJrMaFrnALbIRIA&ithint=video%2cmp4
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A12yBw9nTbL._SX300_.jpg",Cien años de perdon (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A12yBw9nTbL._SX300_.jpg" group-title="2016",Cien años de perdon (2016)
 http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%211767&authkey=ABJIOHJ-WpcGS7A
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91riDtB8evL._SY445_.jpg",La barberia 3: El siguiente corte (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91riDtB8evL._SY445_.jpg" group-title="2016",La barberia 3: El siguiente corte (2016)
 http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%211956&authkey=AEu2ATaM25mQE4U
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81moILK-hWL._SY445_.jpg",El Libro de la Selva (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81moILK-hWL._SY445_.jpg" group-title="2016",El Libro de la Selva (2016)
 http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%212787&authkey=AC8rOneCnbQj9Yo
-#EXTINF:-1 group-title="2016" tvg-logo="http://es.web.img3.acsta.net/c_215_290/pictures/16/06/30/15/53/330733.jpg",Tallulah (2016)
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/c_215_290/pictures/16/06/30/15/53/330733.jpg" group-title="2016",Tallulah (2016)
 http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%212779&authkey=ACHOvvqQKJJZX-M
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91TCvdWQAPL._RI_.jpg",Keanu (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91TCvdWQAPL._RI_.jpg" group-title="2016",Keanu (2016)
 http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%212171&authkey=AOxAW3_s9t4KwAk
-#EXTINF:-1 group-title="2016" tvg-logo="http://es.web.img3.acsta.net/c_215_290/pictures/16/05/31/13/33/072749.jpg",Un espia y medio (2016)
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/c_215_290/pictures/16/05/31/13/33/072749.jpg" group-title="2016",Un espia y medio (2016)
 http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%212169&authkey=ACxU6E3TVlvCjZo
-#EXTINF:-1 group-title="2016" tvg-logo="http://es.web.img2.acsta.net/r_1280_720/pictures/16/01/18/16/56/045240.jpg",Elvis y Nixon (2016)
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/r_1280_720/pictures/16/01/18/16/56/045240.jpg" group-title="2016",Elvis y Nixon (2016)
 http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%211940&authkey=AP0XY5je5ePbb-E
-#EXTINF:-1 group-title="2016" tvg-logo="https://cd.cinescape.com.pe/cinescape-325x457-136385.png",El maestro del dinero (2016)
+#EXTINF:-1 tvg-logo="https://cd.cinescape.com.pe/cinescape-325x457-136385.png" group-title="2016",El maestro del dinero (2016)
 http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%212801&authkey=AH3eYGMbaue_CSE
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81MgChmyKzL._RI_.jpg",The Lionwoman (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81MgChmyKzL._RI_.jpg" group-title="2016",The Lionwoman (2016)
 http://onedrive.live.com/download.aspx?cid=5F41D2321DE53EAB&resid=5F41D2321DE53EAB%211188&authkey=ANyFE8ANINKWqCQ
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51uOjQR3kFL.jpg",Invicto IV: Boyka a vuelto (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51uOjQR3kFL.jpg" group-title="2016",Invicto IV: Boyka a vuelto (2016)
 http://onedrive.live.com/download.aspx?cid=5F41D2321DE53EAB&resid=5F41D2321DE53EAB%211173&authkey=APd5PlbMnss8lYY
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81V%2BV80JYDL._SL1433_.jpg",Opening Night (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81V%2BV80JYDL._SL1433_.jpg" group-title="2016",Opening Night (2016)
 http://onedrive.live.com/download.aspx?cid=5F41D2321DE53EAB&resid=5F41D2321DE53EAB%211175&authkey=AJNwzE93T3Ensz4
-#EXTINF:-1 group-title="2016" tvg-logo="http://es.web.img3.acsta.net/c_215_290/pictures/17/10/18/12/04/1856440.jpg",Message from the King (2016)
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/c_215_290/pictures/17/10/18/12/04/1856440.jpg" group-title="2016",Message from the King (2016)
 http://onedrive.live.com/download.aspx?cid=5F41D2321DE53EAB&resid=5F41D2321DE53EAB%211240&authkey=AFBvP29ypz793zg
-#EXTINF:-1 group-title="2016" tvg-logo="http://es.web.img3.acsta.net/c_215_290/pictures/17/05/03/11/53/238106.jpg",Personal Shopper (2016)
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/c_215_290/pictures/17/05/03/11/53/238106.jpg" group-title="2016",Personal Shopper (2016)
 http://onedrive.live.com/download.aspx?cid=5F41D2321DE53EAB&resid=5F41D2321DE53EAB%211235&authkey=ABVGrnesvvA7KRs
-#EXTINF:-1 group-title="2016" tvg-logo="https://miradetodo.co/wp-content/uploads/2017/08/tt4930760.jpg",Diario de Um Exorcista: Zero (2016)
+#EXTINF:-1 tvg-logo="https://miradetodo.co/wp-content/uploads/2017/08/tt4930760.jpg" group-title="2016",Diario de Um Exorcista: Zero (2016)
 http://onedrive.live.com/download.aspx?cid=5F41D2321DE53EAB&resid=5F41D2321DE53EAB%211383&authkey=AJcefeBGQ45JC1I
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81brAI%2BpSQL._SY445_.jpg",La autopsia de Jane Doe (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81brAI%2BpSQL._SY445_.jpg" group-title="2016",La autopsia de Jane Doe (2016)
 http://onedrive.live.com/download.aspx?cid=5F41D2321DE53EAB&resid=5F41D2321DE53EAB%211404&authkey=AOJ3ONgkKkzGtvw
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91Jjf57RDyL._SL1500_.jpg",The Model (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91Jjf57RDyL._SL1500_.jpg" group-title="2016",The Model (2016)
 http://onedrive.live.com/download.aspx?cid=5F41D2321DE53EAB&resid=5F41D2321DE53EAB%211412&authkey=AOmGtC1lzIbTMeg
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91rP49wSSnL._SX342_.jpg",Worry Dolls (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91rP49wSSnL._SX342_.jpg" group-title="2016",Worry Dolls (2016)
 http://onedrive.live.com/download.aspx?cid=0DD842DECA60029C&resid=DD842DECA60029C%21115&authkey=ADnzP0EtfXc15NM
-#EXTINF:-1 group-title="2016" tvg-logo="http://es.web.img3.acsta.net/c_215_290/pictures/17/04/24/09/40/100315.jpg",Born in China (2016)
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/c_215_290/pictures/17/04/24/09/40/100315.jpg" group-title="2016",Born in China (2016)
 http://onedrive.live.com/download.aspx?cid=0DD842DECA60029C&resid=DD842DECA60029C%21135&authkey=APL9dhl6Q5EnHPs
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81Zwlg1gAcL._SL1500_.jpg",A Dark Song (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81Zwlg1gAcL._SL1500_.jpg" group-title="2016",A Dark Song (2016)
 http://onedrive.live.com/download.aspx?cid=0DD842DECA60029C&resid=DD842DECA60029C%21110&authkey=AEQk9eWPItu-q9E
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81FOraB%2BaWL._SL1500_.jpg",Colossal (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81FOraB%2BaWL._SL1500_.jpg" group-title="2016",Colossal (2016)
 http://onedrive.live.com/download.aspx?cid=0DD842DECA60029C&resid=DD842DECA60029C%21164&authkey=AIH4MkXOac3ISv0
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71qrXmOtDWL._SY445_.jpg",Offline: La vida no es un videojuego (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71qrXmOtDWL._SY445_.jpg" group-title="2016",Offline: La vida no es un videojuego (2016)
 http://onedrive.live.com/download.aspx?cid=0DD842DECA60029C&resid=DD842DECA60029C%21261&authkey=ALdDRhJ3DO2pG-4
-#EXTINF:-1 group-title="2016" tvg-logo="http://es.web.img3.acsta.net/c_215_290/pictures/17/02/27/15/33/470938.jpg",Pandora (2016)
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/c_215_290/pictures/17/02/27/15/33/470938.jpg" group-title="2016",Pandora (2016)
 http://onedrive.live.com/download.aspx?cid=0DD842DECA60029C&resid=DD842DECA60029C%21211&authkey=AOXQUCzs_IoXQpQ
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91bTsy%2BLdoL._AC_SY445_.jpg",The Book of Love (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91bTsy%2BLdoL._AC_SY445_.jpg" group-title="2016",The Book of Love (2016)
 http://onedrive.live.com/download.aspx?cid=0DD842DECA60029C&resid=DD842DECA60029C%21213&authkey=ACLpVVhX6rqI6Jo
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91FHSYfjOlL._SY445_.jpg",The Drowning (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91FHSYfjOlL._SY445_.jpg" group-title="2016",The Drowning (2016)
 http://onedrive.live.com/download.aspx?cid=0DD842DECA60029C&resid=DD842DECA60029C%21212&authkey=ANo8sPVV60RIqEI
-#EXTINF:-1 group-title="2016" tvg-logo="http://es.web.img3.acsta.net/c_215_290/pictures/16/12/20/11/56/063882.jpg",Dire tu nombre (2016)
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/c_215_290/pictures/16/12/20/11/56/063882.jpg" group-title="2016",Dire tu nombre (2016)
 http://onedrive.live.com/download.aspx?cid=0DD842DECA60029C&resid=DD842DECA60029C%21216&authkey=AJhdaw31b67V5mc
-#EXTINF:-1 group-title="2016" tvg-logo="http://es.web.img3.acsta.net/c_215_290/pictures/17/04/28/15/19/411644.jpg",Me case con un boludo (2016)
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/c_215_290/pictures/17/04/28/15/19/411644.jpg" group-title="2016",Me case con un boludo (2016)
 http://onedrive.live.com/download.aspx?cid=0DD842DECA60029C&resid=DD842DECA60029C%21484&authkey=AFejuAenIRj0H2o
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81v7qEHVqLL.jpg",Priceless (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81v7qEHVqLL.jpg" group-title="2016",Priceless (2016)
 http://onedrive.live.com/download.aspx?cid=0DD842DECA60029C&resid=DD842DECA60029C%21410&authkey=AN9rpsWN_8MesNE
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91hULrzrDML._AC_SL1500_.jpg",The Bad Batch (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91hULrzrDML._AC_SL1500_.jpg" group-title="2016",The Bad Batch (2016)
 http://onedrive.live.com/download.aspx?cid=0DD842DECA60029C&resid=DD842DECA60029C%21481&authkey=ALDKhhTWDfrS1-Q
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81BfAuEg4pL._SY445_.jpg",El ultimo rey (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81BfAuEg4pL._SY445_.jpg" group-title="2016",El ultimo rey (2016)
 http://onedrive.live.com/download.aspx?cid=0DD842DECA60029C&resid=DD842DECA60029C%21467&authkey=AHPUZi9uLiyb1Tk
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81VoQjPqEPL._SY445_.jpg",El imperio de las sombras (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81VoQjPqEPL._SY445_.jpg" group-title="2016",El imperio de las sombras (2016)
 http://onedrive.live.com/download.aspx?cid=0DD842DECA60029C&resid=DD842DECA60029C%21469&authkey=AH9xi2G9_biUzJo
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/513jE3jXiNL._SY445_.jpg",Adventures in Babysitting (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/513jE3jXiNL._SY445_.jpg" group-title="2016",Adventures in Babysitting (2016)
 http://onedrive.live.com/download.aspx?cid=0DD842DECA60029C&resid=DD842DECA60029C%21471&authkey=AAJmqXYRYZkgHlk
-#EXTINF:-1 group-title="2016" tvg-logo="https://miradetodo.co/wp-content/uploads/2016/11/tt5910280.jpg",Tunnel (2016)
+#EXTINF:-1 tvg-logo="https://miradetodo.co/wp-content/uploads/2016/11/tt5910280.jpg" group-title="2016",Tunnel (2016)
 http://onedrive.live.com/download.aspx?cid=0DD842DECA60029C&resid=DD842DECA60029C%21470&authkey=AHEGPsyqxI6hQNs
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91na0zWHV7L._SY445_.jpg",The Bounce Back (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91na0zWHV7L._SY445_.jpg" group-title="2016",The Bounce Back (2016)
 http://onedrive.live.com/download.aspx?cid=0DD842DECA60029C&resid=DD842DECA60029C%21474&authkey=ANesBgQK5_GBfVQ
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51AxEm9chDL._SY445_.jpg",Una lucha incierta (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51AxEm9chDL._SY445_.jpg" group-title="2016",Una lucha incierta (2016)
 http://onedrive.live.com/download.aspx?cid=0DD842DECA60029C&resid=DD842DECA60029C%21526&authkey=AK_OVNORoSNewQA
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41rZPElJZAL.jpg",Sleight (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41rZPElJZAL.jpg" group-title="2016",Sleight (2016)
 http://onedrive.live.com/download.aspx?cid=0DD842DECA60029C&resid=DD842DECA60029C%21530&authkey=AEKQioPgqkxsEZk
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/51az5BBUOTL.jpg",Su mejor historia (2016)
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/51az5BBUOTL.jpg" group-title="2016",Su mejor historia (2016)
 http://onedrive.live.com/download.aspx?cid=0DD842DECA60029C&resid=DD842DECA60029C%21742&authkey=AGuynTbGaulCx_w
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/819O4e0%2BpZL._SY445_.jpg",From a House on Willow Street: La Posesion (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/819O4e0%2BpZL._SY445_.jpg" group-title="2016",From a House on Willow Street: La Posesion (2016)
 http://onedrive.live.com/download.aspx?cid=0DD842DECA60029C&resid=DD842DECA60029C%21533&authkey=AGs3Y97NYFD0O9o
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51SV-Odvf4L._SY445_.jpg",Amateur Night (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51SV-Odvf4L._SY445_.jpg" group-title="2016",Amateur Night (2016)
 http://onedrive.live.com/download.aspx?cid=0DD842DECA60029C&resid=DD842DECA60029C%21741&authkey=ADsfzgjRt4ebQzw
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91C%2Bg8SaJ9L._SL1500_.jpg",The Resurrection of Gavin Stone (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91C%2Bg8SaJ9L._SL1500_.jpg" group-title="2016",The Resurrection of Gavin Stone (2016)
 http://onedrive.live.com/download.aspx?cid=0DD842DECA60029C&resid=DD842DECA60029C%211063&authkey=APmYZMTHfXTuNMQ
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91ypw%2B0ADTL._SY445_.jpg",Pandemic (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91ypw%2B0ADTL._SY445_.jpg" group-title="2016",Pandemic (2016)
 http://onedrive.live.com/download.aspx?cid=0DD842DECA60029C&resid=DD842DECA60029C%211064&authkey=ABj5zXKvtzp4uwM
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51pZlP2dqgL._AC_SY445_.jpg",El color de la vida (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51pZlP2dqgL._AC_SY445_.jpg" group-title="2016",El color de la vida (2016)
 http://onedrive.live.com/download.aspx?cid=0DD842DECA60029C&resid=DD842DECA60029C%211060&authkey=AKp1c4ulS0Ltw5M
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/811HfkqGOBL._SX300_.jpg",Operacion Avalancha (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/811HfkqGOBL._SX300_.jpg" group-title="2016",Operacion Avalancha (2016)
 http://onedrive.live.com/download.aspx?cid=0DD842DECA60029C&resid=DD842DECA60029C%211174&authkey=ADgWxPnclKPo1ZM
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91tCKshy%2BxL._SY679_.jpg",Operacion Anthropoid (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91tCKshy%2BxL._SY679_.jpg" group-title="2016",Operacion Anthropoid (2016)
 http://onedrive.live.com/download.aspx?cid=0DD842DECA60029C&resid=DD842DECA60029C%211173&authkey=AOoc7GHQPAsg8dk
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A1qRyJbRVGL._SY445_.jpg",Dos tipos peligrosos (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A1qRyJbRVGL._SY445_.jpg" group-title="2016",Dos tipos peligrosos (2016)
 http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%212778&authkey=AFaD7lcemRKHgks
-#EXTINF:-1 group-title="2016" tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/15/11/17/10/10/421623.jpg",El Cazador y la Reina del Hielo (2016)
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/15/11/17/10/10/421623.jpg" group-title="2016",El Cazador y la Reina del Hielo (2016)
 http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%212738&authkey=AOL_rpxYU0Apcsg
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71tKxEPZ6BL._SY445_.jpg",Dia de la Independencia Contraataque (2016)  - Sub
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71tKxEPZ6BL._SY445_.jpg" group-title="2016",Dia de la Independencia Contraataque (2016)  - Sub
 http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%212737&authkey=AP3WCjQt7aroOM0
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71oEuO%2BNv5L._SY445_.jpg",Bedeviled (2016)
+#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71oEuO%2BNv5L._SY445_.jpg" group-title="2016",Bedeviled (2016)
 http://onedrive.live.com/download.aspx?cid=6A63F940BE2A75BA&resid=6A63F940BE2A75BA%21262&authkey=AAdG44mL0CXPHNQ
-#EXTINF:-1 group-title="2016" tvg-logo="http://omegacenter.es/blog/wp-content/uploads/2017/04/portada_your-name-novela_makoto-shinkai_201703091007.jpg",Your Name (2016)
+#EXTINF:-1 tvg-logo="http://omegacenter.es/blog/wp-content/uploads/2017/04/portada_your-name-novela_makoto-shinkai_201703091007.jpg" group-title="2016",Your Name (2016)
 http://archive.org/download/258DocNameRegio/258DocNameRegio.mkv
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81svl1zXjUL._SY445_.jpg",The Monster (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81svl1zXjUL._SY445_.jpg" group-title="2016",The Monster (2016)
 http://onedrive.live.com/download.aspx?cid=6A63F940BE2A75BA&resid=6A63F940BE2A75BA%21251&authkey=AMFbC12HYe81N-g
-#EXTINF:-1 group-title="2016" tvg-logo="https://venusdvd.net/wp-content/uploads/2016/05/Sacrifice-2016-DVD-Cover-CH_1.jpg",El sacrificio (2016)
+#EXTINF:-1 tvg-logo="https://venusdvd.net/wp-content/uploads/2016/05/Sacrifice-2016-DVD-Cover-CH_1.jpg" group-title="2016",El sacrificio (2016)
 http://onedrive.live.com/download.aspx?cid=6A63F940BE2A75BA&resid=6A63F940BE2A75BA%21248&authkey=AGCNlqz3mJQkaMg
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/4169MMVoc%2BL._SY445_.jpg",Proyecto Lazaro (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/4169MMVoc%2BL._SY445_.jpg" group-title="2016",Proyecto Lazaro (2016)
 http://onedrive.live.com/download.aspx?cid=6A63F940BE2A75BA&resid=6A63F940BE2A75BA%21265&authkey=AChe7cWJx4JxAxk
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41UG%2BI4WUqL._SX342_.jpg",Open Water 3 (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41UG%2BI4WUqL._SX342_.jpg" group-title="2016",Open Water 3 (2016)
 http://onedrive.live.com/download.aspx?cid=6A63F940BE2A75BA&resid=6A63F940BE2A75BA%21266&authkey=ANRY03kdxKEEkc4
-#EXTINF:-1 group-title="2016" tvg-logo="https://www.masalladeorion.net/wp-content/2016/08/under-the-shadow-poster.jpg",Bajo la sombra (2016)
+#EXTINF:-1 tvg-logo="https://www.masalladeorion.net/wp-content/2016/08/under-the-shadow-poster.jpg" group-title="2016",Bajo la sombra (2016)
 http://onedrive.live.com/download.aspx?cid=0DD842DECA60029C&resid=DD842DECA60029C%211255&authkey=AANsjSa3fTbW1kw
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/515A%2BhQPcZL.jpg",Testigo (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/515A%2BhQPcZL.jpg" group-title="2016",Testigo (2016)
 http://onedrive.live.com/download.aspx?cid=0DD842DECA60029C&resid=DD842DECA60029C%211243&authkey=AE9U7JWCg7ivkDM
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71R3xJs%2BoVL._SL1500_.jpg",Misconduct (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71R3xJs%2BoVL._SL1500_.jpg" group-title="2016",Misconduct (2016)
 http://onedrive.live.com/download.aspx?cid=0DD842DECA60029C&resid=DD842DECA60029C%211244&authkey=AKApLbp1oY7paFg
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91diUy%2BmkUL._SY445_.jpg",Melanie: The Girl with all the Gifts (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91diUy%2BmkUL._SY445_.jpg" group-title="2016",Melanie: The Girl with all the Gifts (2016)
 http://onedrive.live.com/download.aspx?cid=0DD842DECA60029C&resid=DD842DECA60029C%211256&authkey=ALOwU_LDpeU_pog
-#EXTINF:-1 group-title="2016" tvg-logo="https://imagessl4.casadellibro.com/m/ig/4/5557414.jpg",Mañana empieza todo (2016)
+#EXTINF:-1 tvg-logo="https://imagessl4.casadellibro.com/m/ig/4/5557414.jpg" group-title="2016",Mañana empieza todo (2016)
 http://onedrive.live.com/download.aspx?cid=0DD842DECA60029C&resid=DD842DECA60029C%211169&authkey=AH98lWBcYv_eltA
-#EXTINF:-1 group-title="2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51vHdfdjJAL._SY445_.jpg",La confirmacion (2016)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51vHdfdjJAL._SY445_.jpg" group-title="2016",La confirmacion (2016)
 http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%212788&authkey=ABnY634GcVny9BY
-#EXTINF:-1 group-title="2016" tvg-logo="http://i.imgur.com/SvIBOvW.jpg",Mascota Humana (2016)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/SvIBOvW.jpg" group-title="2016",Mascota Humana (2016)
 http://bit.ly/MASCOTAHUMANA
-#EXTINF:-1 group-title="2016" tvg-logo="https://s3.amazonaws.com/statics3.cinemex.com/movie_posters/5Kh55TmSgsGNafp-182x272.jpg",Mi vida a los 17 (2016)
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/statics3.cinemex.com/movie_posters/5Kh55TmSgsGNafp-182x272.jpg" group-title="2016",Mi vida a los 17 (2016)
 http://bit.ly/2v16m9z
-#EXTINF:-1 group-title="2016" tvg-logo="http://es.web.img3.acsta.net/c_215_290/pictures/16/11/10/12/08/029365.jpg",La Mina (2016)
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/c_215_290/pictures/16/11/10/12/08/029365.jpg" group-title="2016",La Mina (2016)
 http://ia801603.us.archive.org/20/items/24052017Aqc789423784723984/24052017_aqc.mkv?PelixMax1.mkv
-#EXTINF:-1 group-title="2016" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",Deadpool (2016)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg" group-title="2016",Deadpool (2016)
 http://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
-
 
 ####################################### 2015
 #EXTINF:-1 group-title="2015" tvg-logo="http://es.web.img3.acsta.net/c_215_290/pictures/15/02/19/12/33/201370.jpg",El camino del lobo (2015)
