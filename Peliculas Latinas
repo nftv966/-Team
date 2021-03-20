@@ -192,6 +192,22 @@ http://vod.tuxchannel.tv/peliculas/720/wszyscy%20moi%20przyjaciele%20nie%20zyja%
 
 
 
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/19/02/26/08/47/0465597.jpg" group-title="2019",La Tierra errante (2019)
+http://tux-vod.dynu.com/peliculas/720/the%20wandering%20earth%202019.mkv
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/19/10/22/17/52/2684020.jpg" group-title="2019",Frozen 2 (2019)
+http://tux-vod.dynu.com/peliculas/720/frozen%20II%202019.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/03/27/17/50/0789829.jpg" group-title="2019",Toy story 4 (2019)
+http://tux-vod.dynu.com/peliculas/720/toy%20story%204%202019.mkv
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/19/07/09/11/28/0067089.jpg" group-title="2019",Playmobil: la película (2019)
+http://tux-vod.dynu.com/peliculas/720/playmobil%20the%20movie%202019.mkv
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/19/07/09/11/20/1553026.jpg" group-title="2019",A dos metros de ti (2019)
+http://tux-vod.dynu.com/peliculas/720/five%20feet%20apart%202019.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/08/21/01/04/0464883.jpg" group-title="2019",Anna: el peligro tiene nombre (2019)
+http://tux-vod.dynu.com/peliculas/720/anna%202019.mkv
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/19/06/21/07/41/2266043.jpg" group-title="2019",A quemaropa (2019)
+http://tux-vod.dynu.com/peliculas/720/point%20blank%202019.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/19/03/29/00/48/1603054.jpg" group-title="2019",La rebelión (2019)
+http://tux-vod.dynu.com/peliculas/720/captive%20state%202019.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/19/06/06/18/20/1518177.png" group-title="2019",Corgi: un perro real (2019)
 http://tux-vod.dynu.com/peliculas/720/the%20queens%20corgi%202019.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/07/23/19/07/5228635.jpg" group-title="2019",Jugar o morir (2019)
@@ -743,6 +759,9 @@ http://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
 
 
 
+
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/16/04/08/11/10/027190.jpg" group-title="2015",El hombre que conocía el infinito (2015)
+http://tux-vod.dynu.com/peliculas/720/el%20hombre%20que%20conocia%20el%20Infinito.mkv
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/14/02/27/10/51/077833.jpg" group-title="2015",Armageddon (2015)
 http://tux-vod.dynu.com/peliculas/720/armageddon.mkv
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/r_640_600/b_1_d6d6d6/pictures/15/02/16/16/28/231403.jpg" group-title="2015",Chappie (2015)
@@ -810,6 +829,14 @@ http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C9126
 
 
 
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/medias/nmedia/18/92/45/51/20200813.jpg" group-title="Peliculas Viejas",E.T.: el extraterrestre (1982)
+http://tux-vod.dynu.com/peliculas/720/e.t.%20the%20extra-terrestrial.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/08/05/07/05/3012615.jpg" group-title="Peliculas Viejas",Historia sin fin (1984)
+http://tux-vod.dynu.com/peliculas/720/the%20neverending%20story.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/19/06/11/18/46/0820905.jpg" group-title="Peliculas Viejas",Amar te duele (2002)
+http://tux-vod.dynu.com/peliculas/720/amar%20te%20duele%202002.mkv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ae/79/d2/ae79d22a4056acf532996e8a588c06d4--audio.jpg" group-title="Peliculas Viejas",En la oscuridad de la noche (2003)
+http://bit.ly/El_hada_de_los_dientes_PELÍCULAS_JCL
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/14/09/04/13/53/377120.jpg" group-title="Peliculas Viejas",Boxtrolls (2014)
 https://dl.dropboxusercontent.com/s/7wroemeuf596eje/The.Boxtrolls.2014.mp4
 #EXTINF:-1 tvg-logo="https://i.blogs.es/d4f56a/intocable-2011-poster/450_1000.jpg" group-title="Peliculas Viejas",Amigos intocables (2011)
