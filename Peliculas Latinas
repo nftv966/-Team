@@ -28,6 +28,16 @@ http://198.71.50.163:80/Uploads/Fantasia/Raya-y-el-Ultimo-Dragon-2021.lat.mp4
 http://etvhome.com:25461/movie/0105/1234/97864.mkv
 
 
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/20/06/15/09/53/3697568.jpg" group-title="2020",Greyhound: en la mira del enemigo (2020)
+http://vod.tuxchannel.tv/peliculas/720/greyhound%202020.mkv
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/20/08/19/11/02/3386515.jpg" group-title="2020",Crímenes de familia (2020)
+http://vod.tuxchannel.tv/peliculas/720/crimenes%20de%20familia%202020.mkv
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/20/08/11/09/17/3143174.jpg" group-title="2020",En plan estrella de rock (2020)
+http://vod.tuxchannel.tv/peliculas/720/all%20together%20now%202020.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/767iTVV7BV6p7KJ73uH4F2nqdWd.jpg" group-title="2020",Superman: hombre del mañana (2020)
+http://vod.tuxchannel.tv/peliculas/720/superman%20man%20of%20tomorrow%202020.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91EPSjaAZTL._SX300_.jpg" group-title="2020",Escaping My Stalker (2020)
+http://vod.tuxchannel.tv/peliculas/720/escaping%20my%20stalker%202020.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/fKvHADVyUclD1P3rjMlRCegiQaR.jpg" group-title="2020",Escape de Auschwitz (2020)
 http://vod.tuxchannel.tv/peliculas/720/the%20escape%20from%20auschwitz%202020.mkv
 #EXTINF:-1 tvg-logo="https://static.pelispedia.io/storage/4839/conversions/KJ3d6FuWulyAnotI3J3pRUJicSbRuFszKDnBZk3s-thumb.jpg" group-title="2020",Santana (2020)
@@ -168,7 +178,10 @@ http://latiniptv.vip:8008/movie/VICTORCHILE12MESES/OSVALDOPRO0902/150014.mp4
 http://vod.tuxchannel.tv/peliculas/720/wszyscy%20moi%20przyjaciele%20nie%20zyja%202020.mkv
 
 
-
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/19/07/12/17/24/5561658.jpg" group-title="2019",Boda sangrienta (2019)
+http://tux-vod.dynu.com/peliculas/720/ready%20or%20not%202019.mkv
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/19/01/22/16/26/2486964.jpg" group-title="2019",Dumbo (2019)
+http://tux-vod.dynu.com/peliculas/720/dumbo%202019.mkv
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/19/04/12/15/02/0137335.jpg" group-title="2019",UglyDolls: Extraordinariamente Feos (2019)
 http://tux-vod.dynu.com/peliculas/720/uglydolls%202019.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/19/04/15/22/54/3412429.jpg" group-title="2019",Rápidos y furiosos: Hobbs & Shaw (2019)
@@ -775,7 +788,8 @@ http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C9126
 http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%212732&authkey=AJe5LYBeJ0hKUTA
 
 
-
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61UwNqXxQRL._SY606_.jpg" group-title="Peliculas Viejas",Gasparin (1995)
+http://tux-vod.dynu.com/peliculas/720/casper.mkv
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/medias/nmedia/18/70/54/49/20272541.jpg" group-title="Peliculas Viejas",Sector 9 (2009)
 http://tux-vod.dynu.com/peliculas/720/distrit%209.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91Rb0rrQcuL._SY445_.jpg" group-title="Peliculas Viejas",Van Helsing: el cazador de monstruos (2004)
