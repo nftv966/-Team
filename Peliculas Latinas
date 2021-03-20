@@ -29,6 +29,16 @@ http://etvhome.com:25461/movie/0105/1234/97864.mkv
 
 
 
+#EXTINF:-1 tvg-logo="https://pecime.com.mx/wp-content/uploads/2020/09/sE-BUSCA-PAPA-2-731x1024.jpg" group-title="2020",Se busca Papá (2020)
+http://vod.tuxchannel.tv/peliculas/720/se%20busca%20papa%202020.mkv
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/c_310_420/pictures/20/05/27/08/29/4788868.jpg" group-title="2020",Vivo (2020)
+http://vod.tuxchannel.tv/peliculas/720/saraitda%20alive%202020.mkv
+#EXTINF:-1 tvg-logo="https://somosmovies.com/uploads/poster/51v67HYQtDkTiqHbIjq7tT8uCHP.jpg" group-title="2020",Amuleto (2020)
+http://vod.tuxchannel.tv/peliculas/720/amulet%202020.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/20/10/13/19/43/5223733.jpg" group-title="2020",Como Perros y Gatos 3: patas unidas (2020)
+http://vod.tuxchannel.tv/peliculas/720/cats%20and%20dogs%203%20paws%20unite%202020.mkv
+#EXTINF:-1 tvg-logo="https://mascine.org/images/fichas/full/g/Gimnasta_A_El_medico_depredador_chu2271192020.jpg" group-title="2020",Atleta A (2020)
+http://vod.tuxchannel.tv/peliculas/720/atleta%20a%202020.mkv
 #EXTINF:-1 tvg-logo="https://miradetodo.co/wp-content/uploads/2020/10/tt10914452.jpg" group-title="2020",El vinculo (2020)
 http://vod.tuxchannel.tv/peliculas/720/Il%20legame%202020.mkv
 #EXTINF:-1 tvg-logo="https://www.peliculacompleta.ltd/movies/static/img/original/ov1sd4gvHpoVheHuJHCXJjadeIT.jpg" group-title="2020",American Pie Presents: Girls' Rules (2020)
@@ -140,6 +150,10 @@ http://vod.tuxchannel.tv/peliculas/720/wszyscy%20moi%20przyjaciele%20nie%20zyja%
 
 
 
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/19/04/15/22/54/3412429.jpg" group-title="2019",Rápidos y furiosos: Hobbs & Shaw (2019)
+http://tux-vod.dynu.com/peliculas/720/fast%20and%20furious%20presents%20hobbs%20and%20shaw%202019.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/07/09/17/54/2881432.jpg" group-title="2019",Pesadilla al amanecer (2019)
+http://tux-vod.dynu.com/peliculas/720/rassvet%202019.mkv
 #EXTINF:-1 tvg-logo="https://www.actionfreunde.de/wp-content/uploads/doom-annihilation-cover.jpg" group-title="2019",Doom Annihilation (2019)
 http://tux-vod.dynu.com/peliculas/720/doom%20annihilation%202019.mkv
 #EXTINF:-1 tvg-logo="https://www.ecartelera.com/carteles/15100/15106/001_p.jpg" group-title="2019",La Escolta (2019)
@@ -151,6 +165,10 @@ http://tux-vod.dynu.com:80/peliculas/720/the%20kid%20who%20would%20be%20king%202
 
 
 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71Qk7Orp-wL._RI_.jpg" group-title="2018",Zombie a los 17 (2018)
+http://tux-vod.dynu.com/peliculas/720/zombie%20at%2017%202018.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/8ZbJ7bDmcKr8GzqoKI00awhjqyH.jpg" group-title="2018",Tiempo de Tortura (2018)
+http://vod.tuxchannel.tv/peliculas/720/tempus%20tormentum%202018.mkv
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e0/54/3c/e0543cd926fc1ca9d95a1aff8f262d78.jpg" group-title="2018",Rascacielos: rescate en las alturas (2018)
 http://tux-vod.dynu.com/peliculas/720/el%20rascacielos.mkv
 #EXTINF:-1 tvg-logo="https://fr.web.img4.acsta.net/pictures/18/05/03/13/42/0025095.jpg" group-title="2018",Darc (2018)
@@ -737,6 +755,10 @@ http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C9126
 
 
 
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/medias/nmedia/18/70/54/49/20272541.jpg" group-title="Peliculas Viejas",Sector 9 (2009)
+http://tux-vod.dynu.com/peliculas/720/distrit%209.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91Rb0rrQcuL._SY445_.jpg" group-title="Peliculas Viejas",Van Helsing: el cazador de monstruos (2004)
+http://tux-vod.dynu.com/peliculas/720/van%20helsing.mkv
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/14/02/24/12/47/059672.jpg" group-title="Peliculas Viejas",Náufrago (2000)
 http://tux-vod.dynu.com/peliculas/720/cast%20away.mkv
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/16/02/25/16/01/464057.jpg" group-title="Peliculas Viejas",Prometheus (2012)
