@@ -6,6 +6,10 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/yLnnYK9GrMAHf62HTVmtjMQdKYR.jpg" group-title="2021",Dr. Bird's Advice for Sad Poets (2021) LEG
+http://www.nina-sagt.de/filmes/A/Advice.Sad.Poets.2021.mkv
+
+
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/19/12/16/12/16/5667446.jpg" group-title="2020",Mulan (2020)
 http://www.iiss.com.br/downloads/Filmes/Mulan.2020/Mulan.2020.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/9109P6yGniL._RI_.jpg" group-title="2020",2 Minutos de Fama (2020) LEG
@@ -44,9 +48,20 @@ http://www.nina-sagt.de/filmes/A/A.Serial.Killer.2020.mkv
 http://www.nina-sagt.de/filmes/A/A.Sua.Ultima.Vontade.2020.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/20/08/19/21/23/3403624.jpg" group-title="2020",A Caçada (2020) LEG
 http://www.nina-sagt.de/filmes/A/A.cacada.2020.mkv
-
-
-
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/96/88/02/968802b09b86c99b38e478598dda15b5.jpg" group-title="2020",A velha guarda (2020) LEG
+http://www.nina-sagt.de/filmes/A/A.velha.guarda.2020.mp4
+#EXTINF:-1 tvg-logo="https://panicdots.com/wp-content/uploads/2020/12/78493-upcoming-movie-abe.jpg" group-title="2020",Abe (2020) LEG
+http://www.nina-sagt.de/filmes/A/Abe_2020.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/13/7b/db/137bdbc8d24101cee5d450b6de7ca7d3.jpg" group-title="2020",Abigail Haunting (2020) LEG
+http://www.nina-sagt.de/filmes/A/Abigail.Haunting.2020.mkv
+#EXTINF:-1 tvg-logo="https://www.aytoreinosa.es/wp-content/uploads/2020/02/Ad-379791268-large.jpg" group-title="2020",Adu (2020) LEG
+http://www.nina-sagt.de/filmes/A/Adu.2020.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/710p87JTu%2BL._AC_SL1485_.jpg" group-title="2020",After: Depois da verdade (2020) LEG
+http://www.nina-sagt.de/filmes/A/After.Depois.Verdade.2020.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81Bz6qggDAL._UR1200,1600_RI_.jpg" group-title="2020",After Thruth (2020) LEG
+http://www.nina-sagt.de/filmes/A/After.Trush.2020.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/717r8aJClmL._RI_.jpg" group-title="2020",Agente Jade Black (2020) LEG
+http://www.nina-sagt.de/filmes/A/Agent_Jade_Black_2020.mkv
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/87/27/07/872707cc297dc8c141177bfe685f9daf.png" group-title="2019",UglyDolls (2019)
