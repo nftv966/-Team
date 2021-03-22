@@ -8,6 +8,32 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/19/12/16/12/16/5667446.jpg" group-title="2020",Mulan (2020)
 http://www.iiss.com.br/downloads/Filmes/Mulan.2020/Mulan.2020.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/9109P6yGniL._RI_.jpg" group-title="2020",2 Minutos de Fama (2020) LEG
+http://www.nina-sagt.de/filmes/1/2.minutes.of.fame.2020.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81e7H0kqxvL._RI_.jpg" group-title="2020",4 Presidentes (2020) LEG
+http://www.nina-sagt.de/filmes/1/4.Presidents.2020.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91MChAKEAML._RI_.jpg" group-title="2020",Uma Boa História (2020) LEG
+http://www.nina-sagt.de/filmes/1/8.slices.2020.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_310_420/pictures/20/03/06/16/16/4543792.jpg" group-title="2020",10 Coisas que deveríamos fazer antes de nos separar (2020) LEG
+http://www.nina-sagt.de/filmes/1/10.things.break.up.2020.mkv
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/c_310_420/pictures/20/04/24/10/38/5088678.jpg" group-title="2020",18 Presentes (2020) LEG
+http://www.nina-sagt.de/filmes/1/18.regal%c3%ad.2020.mkv
+#EXTINF:-1 tvg-logo="https://pelispop.com/wp-content/uploads/2021/01/100-wolf.jpg" group-title="2020",100% Lobo (2020) LEG
+http://www.nina-sagt.de/filmes/1/100.Wolf.2020.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91M2HnxXEbL._SY550_.jpg" group-title="2020",365 Dias (2020) LEG
+http://www.nina-sagt.de/filmes/1/365_2020.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/akuPc5iMWToEZG4OGZ9coZlIpU7.jpg" group-title="2020",A Fera (2020) LEG
+http://www.nina-sagt.de/filmes/A/A.Besta.2020.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/01/06/08/08/3717977.jpg" group-title="2020",O Limite da Traição (2020) LEG
+http://www.nina-sagt.de/filmes/A/A.Fall.From.Grace.2020.mkv
+#EXTINF:-1 tvg-logo="https://limaomecanico.com.br/wp-content/uploads/2020/07/larva-ilhados.jpg" group-title="2020",A Ilha das Larvas (2020) PT
+http://www.nina-sagt.de/filmes/A/A.Ilha.das.Larvas.2020.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/1fpm3Eu58yg4bUraRMUrE2Wrsk2.jpg" group-title="2020",Cenas de um Homicídio: Uma Família Vizinha (2020) LEG
+http://www.nina-sagt.de/filmes/A/A.Killer.Next.Door.2020.mp4
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/87/27/07/872707cc297dc8c141177bfe685f9daf.png" group-title="2019",UglyDolls (2019)
@@ -285,3 +311,6 @@ http://yorixiriamori.lhmtv.gq/futuro/-lP09cr9Waqw/Xc17o4jYTJI/AAAAAAAAMuo/eXRuWb
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/10/17/10/17/197658.jpg" group-title="2016",Guerra dos Monstros (2016)
 http://yorixiriamori.lhmtv.gq/futuro/-dIyLBuBYGJ4/Xc17o8NGBGI/AAAAAAAAMuo/lXgEargvo4Eqt1W9QGh8uVWvRDf9Ug1SACKgBGAsYHg/m18/Guerra.dos.Monstros.2016.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/14/08/14/20/18/325650.jpg" group-title="Filmes Antigos",O Candidato Honesto (2014)
+https://botusist.com.br/filmes/cdh.mp4
