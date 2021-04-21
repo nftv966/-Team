@@ -6,6 +6,8 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/03/30/16/14/5223967.jpg" group-title="2021",Mortal Kombat (2021)
+http://54.39.157.211/FILMES/Mortal.Kombat.2021.720p.CAMRip.Dublado.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/03/16/14/31/0831115.jpg" group-title="2021",Druk: Mais Uma Rodada (2021)
 http://54.39.157.211/FILMES/Druk.Mais.Uma.Rodada.2021.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/919aAbsEgyL._SL1500_.jpg" group-title="2021",Dificil de Matar (2021)
@@ -344,6 +346,7 @@ http://54.39.157.211/FILMES/Atraves.da.Sombra.2017.mp4
 http://yorixiriamori.lhmtv.gq/futuro/-dIyLBuBYGJ4/Xc17o8NGBGI/AAAAAAAAMuo/lXgEargvo4Eqt1W9QGh8uVWvRDf9Ug1SACKgBGAsYHg/m18/Guerra.dos.Monstros.2016.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/17/05/29/21/42/105337.jpg" group-title="2016",Fala Comigo (2016)
 http://54.39.157.211/FILMES/Fala.Comigo.mp4
+
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a9/9b/2e/a99b2ea6ec91caa5b095c545245c91fe.jpg" group-title="Filmes Antigos",Apocalypto (2006)
