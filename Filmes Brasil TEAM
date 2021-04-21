@@ -6,6 +6,10 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/03/16/14/31/0831115.jpg" group-title="2021",Druk: Mais Uma Rodada (2021)
+http://54.39.157.211/FILMES/Druk.Mais.Uma.Rodada.2021.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/919aAbsEgyL._SL1500_.jpg" group-title="2021",Dificil de Matar (2021)
+http://54.39.157.211/FILMES/Dificil.de.Matar.2021.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/01/13/17/39/1602737.jpg" group-title="2021",Dente por Dente (2021)
 http://54.39.157.211/FILMES/Dente.por.Dente.2021.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/r_1280_720/pictures/21/03/26/19/07/5624704.jpg" group-title="2021",Chorao Marginal Alado (2021)
@@ -301,6 +305,10 @@ http://lh3.googleusercontent.com/vLnaKmsJI0buJE-sYBHpf3CtVZdcuvdf9WPdChaxDZNClqw
 http://54.39.157.211/FILMES/A.Garota.Perfeita.2018.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/18/01/30/13/17/2407124.jpg" group-title="2018",As Leis da Termodinamica (2018)
 http://54.39.157.211/FILMES/As.Leis.da.Termodinamica.2018.mp4
+#EXTINF:-1 tvg-logo="https://cinerela.com.br/wp-content/uploads/2019/11/0399058.jpg" group-title="2018",Dona Flor e Seus Dois Maridos (2018)
+http://54.39.157.211/FILMES/Dona.Flor.e.Seus.Dois.Maridos.2018.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/18/03/16/20/32/2365102.jpg" group-title="2018",Ella e John (2018)
+http://54.39.157.211/FILMES/Ella.e%3b.John.2018.mp4
 
 #EXTINF:-1 tvg-logo="https://www.setcenas.com.br/wp-content/uploads/2017/12/3-8.jpg" group-title="2017",Bye Bye Jaqueline (2017)
 http://54.39.157.211/FILMES/Bye.Bye.Jaqueline.mp4
@@ -311,7 +319,6 @@ http://54.39.157.211/FILMES/Atraves.da.Sombra.2017.mp4
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/10/17/10/17/197658.jpg" group-title="2016",Guerra dos Monstros (2016)
 http://yorixiriamori.lhmtv.gq/futuro/-dIyLBuBYGJ4/Xc17o8NGBGI/AAAAAAAAMuo/lXgEargvo4Eqt1W9QGh8uVWvRDf9Ug1SACKgBGAsYHg/m18/Guerra.dos.Monstros.2016.mp4
-
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a9/9b/2e/a99b2ea6ec91caa5b095c545245c91fe.jpg" group-title="Filmes Antigos",Apocalypto (2006)
@@ -348,4 +355,8 @@ http://54.39.157.211/FILMES/Central.do.Brasil.1998.mp4
 http://54.39.157.211/FILMES/Chef.2014.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91nmxg80Q2L._RI_.jpg" group-title="Filmes Antigos",Contagio (2011)
 http://54.39.157.211/FILMES/Contagio.2011.mp4
+#EXTINF:-1 tvg-logo="https://nonetflix.com.br/media/14/e-a-vida-continua_80076612.jpg" group-title="Filmes Antigos",E a Vida Continua (2012)
+http://54.39.157.211/FILMES/E.a.Vida.Continua.mp4
+#EXTINF:-1 tvg-logo="https://d1aid1ai1ve9l.cloudfront.net/capasm/11420.jpg" group-title="Filmes Antigos",Em Seus Passos (2014)
+http://54.39.157.211/FILMES/Em.Seus.Passos.1.mp4
 
