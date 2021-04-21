@@ -6,6 +6,18 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/01/13/17/39/1602737.jpg" group-title="2021",Dente por Dente (2021)
+http://54.39.157.211/FILMES/Dente.por.Dente.2021.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/r_1280_720/pictures/21/03/26/19/07/5624704.jpg" group-title="2021",Chorao Marginal Alado (2021)
+http://54.39.157.211/FILMES/Chorao.Marginal.Alado.2021.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/11/13/15/54/0111059.jpg" group-title="2021",Chaos Walking (2021) LEG
+http://54.39.157.211/FILMES/Chaos.Walking.2021.LEG.mp4
+#EXTINF:-1 tvg-logo="https://megafilmes.org/wp-content/uploads/2021/04/0978398-240x320.jpg" group-title="2021",Ate o Ceu (2021)
+http://54.39.157.211/FILMES/Ate.o.Ceu.2021.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/02/12/08/23/4137216.jpg" group-title="2021",Assalto ao Banco da Espanha (2021)
+http://54.39.157.211/FILMES/Assalto.ao.Banco.da.Espanha.2021.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/03/18/08/24/3888195.jpg" group-title="2021",Arlo o Menino Jacare (2021)
+http://54.39.157.211/FILMES/Arlo.o.Menino.Jacare.2021.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/21/03/15/15/31/4507767.jpg" group-title="2021",Apenas Diga Sim (2021)
 http://54.39.157.211/FILMES/Apenas.Diga.Sim.2021.mp4
 #EXTINF:-1 tvg-logo="https://engenhariadocinema.com.br/wp-content/uploads/2021/04/Sem-titulo.png" group-title="2021",Amor e Monstros (2021)
@@ -287,14 +299,20 @@ http://lh3.googleusercontent.com/iCeDBW5YwmuH7Paq0IZFP_vJ8FPy9nKUFM4yNQfoR1FwwuZ
 http://lh3.googleusercontent.com/vLnaKmsJI0buJE-sYBHpf3CtVZdcuvdf9WPdChaxDZNClqwU7RUV9LAj26TEitP8z73Kr7q4vkwt33lbCwV4cnQegw79z3ui156WX3qHlP4XCjM-iwa79cmvu1OTx7gsr80QDnvLmg=m22
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81ANfO3b6OL._AC_SL1500_.jpg" group-title="2018",A Garota Perfeita (2018)
 http://54.39.157.211/FILMES/A.Garota.Perfeita.2018.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/18/01/30/13/17/2407124.jpg" group-title="2018",As Leis da Termodinamica (2018)
+http://54.39.157.211/FILMES/As.Leis.da.Termodinamica.2018.mp4
 
-
-
+#EXTINF:-1 tvg-logo="https://www.setcenas.com.br/wp-content/uploads/2017/12/3-8.jpg" group-title="2017",Bye Bye Jaqueline (2017)
+http://54.39.157.211/FILMES/Bye.Bye.Jaqueline.mp4
 #EXTINF:-1 tvg-logo="https://www.bal2ona.com/wp-content/uploads/2020/06/Amar-2017.jpg" group-title="2017",Amar (2017)
 http://54.39.157.211/FILMES/Amar.2017.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/16/01/19/15/38/448286.jpg" group-title="2017",Atraves da Sombra (2017)
+http://54.39.157.211/FILMES/Atraves.da.Sombra.2017.mp4
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/10/17/10/17/197658.jpg" group-title="2016",Guerra dos Monstros (2016)
 http://yorixiriamori.lhmtv.gq/futuro/-dIyLBuBYGJ4/Xc17o8NGBGI/AAAAAAAAMuo/lXgEargvo4Eqt1W9QGh8uVWvRDf9Ug1SACKgBGAsYHg/m18/Guerra.dos.Monstros.2016.mp4
+
+
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a9/9b/2e/a99b2ea6ec91caa5b095c545245c91fe.jpg" group-title="Filmes Antigos",Apocalypto (2006)
 http://54.39.157.211/FILMES/Apocalypto.mp4
@@ -312,4 +330,22 @@ http://54.39.157.211/FILMES/Adrenalina.2.Alta.Voltagem.mp4
 http://54.39.157.211/FILMES/Ali.2001.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51YqCFdjA7L._AC_SY445_.jpg" group-title="Filmes Antigos",Annapolis (2006)
 http://54.39.157.211/FILMES/Annapolis.2006.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/97/04/05/20504446.jpg" group-title="Filmes Antigos",Busca Explosiva (2006)
+http://54.39.157.211/FILMES/Busca.Explosiva.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/94/83/21/20359787.jpg" group-title="Filmes Antigos",Busca Explosiva 2 (2009)
+http://54.39.157.211/FILMES/Busca.Explosiva.2.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/15/06/25/22/37/496529.jpg" group-title="Filmes Antigos",Busca Explosiva 4 (2014)
+http://54.39.157.211/FILMES/Busca.Explosiva.4.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/medias/nmedia/18/81/45/56/19559880.jpg" group-title="Filmes Antigos",As Barreiras do Amor (2010)
+http://54.39.157.211/FILMES/As.Barreiras.do.Amor.2010.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/87/25/98/19873645.jpg" group-title="Filmes Antigos",Ate que a Fuga os Separe (1999)
+http://54.39.157.211/FILMES/Ate.que.a.Fuga.os.Separe.1999.mp4
+#EXTINF:-1 tvg-logo="http://fr.web.img2.acsta.net/c_215_290/pictures/15/04/13/17/31/334984.jpg" group-title="Filmes Antigos",Casa Grande (2014)
+http://54.39.157.211/FILMES/Casa.Grande.mp4
+#EXTINF:-1 tvg-logo="https://nocturnecinephage.blogia.com/upload/20060420085211-cdb.jpg" group-title="Filmes Antigos",Central do Brasil (1998)
+http://54.39.157.211/FILMES/Central.do.Brasil.1998.mp4
+#EXTINF:-1 tvg-logo="https://cameronmoviesandtv.files.wordpress.com/2015/02/chef-poster.jpg" group-title="Filmes Antigos",Chef (2014)
+http://54.39.157.211/FILMES/Chef.2014.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91nmxg80Q2L._RI_.jpg" group-title="Filmes Antigos",Contagio (2011)
+http://54.39.157.211/FILMES/Contagio.2011.mp4
 
