@@ -6,6 +6,8 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://media.elcinema.com/uploads/_640x_bce9b5dee64143fa47a4547ffd3546a86af8f3dbbf467106575d7b564eabd72d.jpg" group-title="2021",Jogos Virtuais O Inicio (2021)
+http://54.39.157.211/FILMES/Jogos.Virtuais.O.Inicio.2021.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/03/30/16/14/5223967.jpg" group-title="2021",Mortal Kombat (2021) CAM
 http://54.39.157.211/FILMES/Mortal.Kombat.2021.720p.CAMRip.Dublado.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/03/16/14/31/0831115.jpg" group-title="2021",Druk: Mais Uma Rodada (2021)
@@ -49,6 +51,8 @@ http://54.39.157.211/FILMES/Estranho.Passageiro.Sputnik.2021.mp4
 http://54.39.157.211/FILMES/Forca.da.Natureza.mp4
 
 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91Ger5KVDXL._RI_.jpg" group-title="2019",Kim Possible (2019)
+http://54.39.157.211/FILMES/Kim.Possible.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/87/27/07/872707cc297dc8c141177bfe685f9daf.png" group-title="2019",UglyDolls (2019)
 http://yorixiriamori.lhmtv.gq/futuro/-N_XtQbZH6So/XWpUcXOAHpI/AAAAAAAAKZ0/pToQhonKroEoY4M9Qg8qlfiZTuk17jogACKgBGAs/m22/UglyDolls.20191010.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c6/e1/4b/c6e14b97433876f123adc46f951f9dc3.jpg" group-title="2019",Patrulha Canina Super Filhotes (2019)
@@ -348,6 +352,8 @@ http://54.39.157.211/FILMES/Hora.Das.Consequencias.2017.mp4
 http://yorixiriamori.lhmtv.gq/futuro/-dIyLBuBYGJ4/Xc17o8NGBGI/AAAAAAAAMuo/lXgEargvo4Eqt1W9QGh8uVWvRDf9Ug1SACKgBGAsYHg/m18/Guerra.dos.Monstros.2016.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/17/05/29/21/42/105337.jpg" group-title="2016",Fala Comigo (2016)
 http://54.39.157.211/FILMES/Fala.Comigo.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/17/06/20/15/03/595870.jpg" group-title="2016",Joao O Maestro (2016)
+http://54.39.157.211/FILMES/Joao.O.Maestro.mp4
 
 
 
@@ -403,4 +409,10 @@ http://54.39.157.211/FILMES/Gigolo.Europeu.por.Acidente.2005.mp4
 http://54.39.157.211/FILMES/Herois.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/2Kh8pwKysLic3iaFvOdKBsDFZG9.jpg" group-title="Filmes Antigos",Jamaica Abaixo de Zero (1993)
 http://54.39.157.211/FILMES/Jamaica.Abaixo.de.Zero.1993.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/87/08/84/19871893.jpg" group-title="Filmes Antigos",Jogo de Amor Em Las Vegas (2008)
+http://54.39.157.211/FILMES/Jogo.de.Amor.Em.Las.Vegas.2008.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/sUKImRHScrjrvaG2FwxCRY5ldtx.jpg" group-title="Filmes Antigos",Jose O Rei dos Sonhos (2000)
+http://54.39.157.211/FILMES/Jose.O.Rei.dos.Sonhos.2000.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/eb/f2/2c/ebf22c84fb1cbe01c9bded9707bf2fa5.jpg" group-title="Filmes Antigos",Laberinto (1986)
+http://54.39.157.211/FILMES/Laby.86.Tetra.BD720p.MemoriadaTV%20(1).mp4
 
