@@ -6,6 +6,8 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/03/15/15/22/1558927.jpg" group-title="2021",Os Segredos de Madame Claude (2021)
+http://54.39.157.211/FILMES/Os.Segredos.de.Madame.Claude.2021.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/21/03/11/15/47/5912394.jpg" group-title="2021",Os Croods 2: Uma Nova Era (2021)
 http://54.39.157.211/FILMES/Os.Croods.2.Uma.Nova.Era.2021.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/03/08/14/44/0329487.jpg" group-title="2021",O Protocolo de Auschwitz (2021)
@@ -481,5 +483,9 @@ http://54.39.157.211/FILMES/O.Ultimo.Samurai.2004.mp4
 http://54.39.157.211/FILMES/O.Vendedor.de.Passados.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/10/05/17/57/273579.jpg" group-title="Filmes Antigos",Operacao Perigosa (2014)
 http://54.39.157.211/FILMES/Operacao.Perigosa.2014.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/210/065/21006526_20130516150907369.jpg" group-title="Filmes Antigos",Os Escolhidos (2013)
+http://54.39.157.211/FILMES/Os.Escolhidos.2013.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/87/32/11/19874288.jpg" group-title="Filmes Antigos",Os Perdedores (2010)
+http://54.39.157.211/FILMES/Os.Perdedores.2010.mp4
  
 
