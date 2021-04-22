@@ -6,6 +6,10 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/21/03/11/15/47/5912394.jpg" group-title="2021",Os Croods 2: Uma Nova Era (2021)
+http://54.39.157.211/FILMES/Os.Croods.2.Uma.Nova.Era.2021.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/03/08/14/44/0329487.jpg" group-title="2021",O Protocolo de Auschwitz (2021)
+http://54.39.157.211/FILMES/O.Protocolo.de.Auschwitz.2021.mp4
 #EXTINF:-1 tvg-logo="https://filmesmega.net/wp-content/uploads/2020/04/O-Gangster-O-Policial-O-Diabo-300x450.jpg" group-title="2021",O Gangster o Policial e o Diabo (2021)
 http://54.39.157.211/FILMES/O.Gangster.o.Policial.e.o.Diabo.2021.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4pb1aY4.png" group-title="2021",O Falcao Manteiga de Amendoim (2021)
@@ -471,5 +475,11 @@ http://54.39.157.211/FILMES/O.Filho.do.Batman.2014.mp4
 http://54.39.157.211/FILMES/O.Filho.do.Maskara.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/97/04/14/20504470.jpg" group-title="Filmes Antigos",O Principe do Egito (1998)
 http://54.39.157.211/FILMES/O.Principe.do.Egito.1998.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/91/70/70/20159112.jpg" group-title="Filmes Antigos",O Ultimo Samurai (2004)
+http://54.39.157.211/FILMES/O.Ultimo.Samurai.2004.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/15/03/05/16/45/305375.jpg" group-title="Filmes Antigos",O Vendedor de Passados (2013)
+http://54.39.157.211/FILMES/O.Vendedor.de.Passados.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/10/05/17/57/273579.jpg" group-title="Filmes Antigos",Operacao Perigosa (2014)
+http://54.39.157.211/FILMES/Operacao.Perigosa.2014.mp4
  
 
