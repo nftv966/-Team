@@ -6,6 +6,12 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/05/19/15/09/2317654.jpg" group-title="2021",Na Batida do Coracao (2021)
+http://54.39.157.211/FILMES/Na.Batida.do.Coracao.2021.mp4
+#EXTINF:-1 tvg-logo="https://engenhariadocinema.com.br/wp-content/uploads/2021/02/fabiana-karla-em-lucicreide-vai-para-marte-2-.jpg" group-title="2021",Lucicreide Vai pra Marte (2021)
+http://54.39.157.211/FILMES/Lucicreide.Vai.pra.Marte.2021.mp4
+#EXTINF:-1 tvg-logo="https://media.filmelier.com/images/filmes/cartaz/luccas-neto-em-duas-babas-muito-esquisitas34849.jpeg" group-title="2021",Luccas Neto: Duas Babas Muito Esquisitas (2021)
+http://54.39.157.211/FILMES/Luccas.Neto.em.Duas.Babas.Muito.Esquisitas.2021.mp4
 #EXTINF:-1 tvg-logo="https://media.elcinema.com/uploads/_640x_bce9b5dee64143fa47a4547ffd3546a86af8f3dbbf467106575d7b564eabd72d.jpg" group-title="2021",Jogos Virtuais O Inicio (2021)
 http://54.39.157.211/FILMES/Jogos.Virtuais.O.Inicio.2021.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/03/30/16/14/5223967.jpg" group-title="2021",Mortal Kombat (2021) CAM
@@ -313,6 +319,10 @@ http://54.39.157.211/FILMES/Em.Busca.da.Vitoria.2019.mp4
 http://54.39.157.211/FILMES/Era.Uma.Vez.Um.Principe.2019.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/57/f8/f1/57f8f10ea9a835c3e479b613b514849c.jpg" group-title="2019",Flutuar (2019)
 http://54.39.157.211/FILMES/Flutuar.2019.mp4
+#EXTINF:-1 tvg-logo="https://verpelis.app/cover/rCMedXWBk9qi-the-car-road-to-revenge.jpg" group-title="2019",Maquina da Vinganca (2019)
+http://54.39.157.211/FILMES/Maquina.da.Vinganca.2019.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/sMRVJ41dihj4pIpJ4UbArK1IXrg.jpg" group-title="2019",Missao Extraordinaria (2019)
+http://54.39.157.211/FILMES/Missao.Extraordinaria.2019.mp4
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/61/95/4d/61954dfb1c517c782a21d972f4255834.jpg" group-title="2018",Juanita (2018)
@@ -415,4 +425,11 @@ http://54.39.157.211/FILMES/Jogo.de.Amor.Em.Las.Vegas.2008.mp4
 http://54.39.157.211/FILMES/Jose.O.Rei.dos.Sonhos.2000.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/eb/f2/2c/ebf22c84fb1cbe01c9bded9707bf2fa5.jpg" group-title="Filmes Antigos",Laberinto (1986)
 http://54.39.157.211/FILMES/Laby.86.Tetra.BD720p.MemoriadaTV%20(1).mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/87/31/76/19874252.jpg" group-title="Filmes Antigos",Jose O Rei dos Sonhos (2001)
+http://54.39.157.211/FILMES/Lavoura.Arcaiaca.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/08/10/19/10/090029.jpg" group-title="Filmes Antigos",Lolo O Filho da Minha Namorada (2015)
+http://54.39.157.211/FILMES/Lolo.O.Filho.da.Minha.Namorada.2015.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/87/14/26/19872445.jpg" group-title="Filmes Antigos",Madrugada dos Mortos (2004)
+http://54.39.157.211/FILMES/Madrugada.dos.Mortos.mp4
+
 
