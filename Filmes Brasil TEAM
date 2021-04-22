@@ -5,6 +5,15 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 #EXTINF:-1 tvg-logo="https://www.lifeder.com/wp-content/uploads/2016/07/pel%C3%ADculas-recomendadas.jpg" group-title="FILMES GRATIS",FILMES GRATIS
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://filmesmega.net/wp-content/uploads/2020/04/O-Gangster-O-Policial-O-Diabo-300x450.jpg" group-title="2021",O Gangster o Policial e o Diabo (2021)
+http://54.39.157.211/FILMES/O.Gangster.o.Policial.e.o.Diabo.2021.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4pb1aY4.png" group-title="2021",O Falcao Manteiga de Amendoim (2021)
+http://54.39.157.211/FILMES/O.Falcao.Manteiga.de.Amendoim.2021.mp4
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/categorias/peliculas/posters/nomadland.jpg" group-title="2021",Nomadland (2021)
+http://54.39.157.211/FILMES/Nomadland.2021.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/dYCWUAidqgakGETwZkfGxU7CWhL.jpg" group-title="2021",Noite no Paraiso (2021)
+http://54.39.157.211/FILMES/Noite.no.Paraiso.2021.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/12/10/18/02/5803944.jpg" group-title="2021",Nobody (2021) LEG
 http://54.39.157.211/FILMES/Nobody.2021.LEG.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/05/19/15/09/2317654.jpg" group-title="2021",Na Batida do Coracao (2021)
@@ -58,6 +67,8 @@ http://54.39.157.211/FILMES/Estranho.Passageiro.Sputnik.2021.mp4
 http://54.39.157.211/FILMES/Forca.da.Natureza.mp4
 
 
+#EXTINF:-1 tvg-logo="http://ksoftgames7.com/wp-content/uploads/2019/07/O.Filho_.Protegido.poster.torrent.2019-min.png" group-title="2019",O Filho Protegido (2019)
+http://54.39.157.211/FILMES/O.Filho.Protegido.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/07/05/14/26/5627101.jpg" group-title="2019",No Coracao do Mundo (2019)
 http://54.39.157.211/FILMES/No.Coracao.do.Mundo.2019.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/10/04/22/36/1749428.jpg" group-title="2019",Na Teia da Conspiracao (2019)
@@ -369,6 +380,8 @@ http://yorixiriamori.lhmtv.gq/futuro/-dIyLBuBYGJ4/Xc17o8NGBGI/AAAAAAAAMuo/lXgEar
 http://54.39.157.211/FILMES/Fala.Comigo.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/17/06/20/15/03/595870.jpg" group-title="2016",Joao O Maestro (2016)
 http://54.39.157.211/FILMES/Joao.O.Maestro.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/16/02/10/20/06/167793.jpg" group-title="2016",O Escaravelho do Diabo (2016)
+http://54.39.157.211/FILMES/O.Escaravelho.do.Diabo.mp4
 
 
 
@@ -436,5 +449,23 @@ http://54.39.157.211/FILMES/Lavoura.Arcaiaca.mp4
 http://54.39.157.211/FILMES/Lolo.O.Filho.da.Minha.Namorada.2015.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/87/14/26/19872445.jpg" group-title="Filmes Antigos",Madrugada dos Mortos (2004)
 http://54.39.157.211/FILMES/Madrugada.dos.Mortos.mp4
-
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/a8/fa/47/a8fa47516066bb39b3246bbf0124e5a1.jpg" group-title="Filmes Antigos",Noe (1980)
+http://54.39.157.211/FILMES/Noe.1980.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71MIu%2Bb34SL._AC_SY741_.jpg" group-title="Filmes Antigos",Nunca Fui Santa (1956)
+http://54.39.157.211/FILMES/Nunca.Fui.Santa.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/44/27/0c/44270c17219f2474f5492f478d73fe1e.jpg" group-title="Filmes Antigos",O Cristal Encantado (1982)
+http://54.39.157.211/FILMES/O.Cristal.Encantado.1982.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ad/61/34/ad6134614c0123347ed7525bda4cae5d.jpg" group-title="Filmes Antigos",O Dia Em Que a Terra Parou (2008)
+http://54.39.157.211/FILMES/O.Dia.Em.Que.a.Terra.Parou.2008.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c0/37/0b/c0370bae33c2abc198832641c1f08700.jpg" group-title="Filmes Antigos",O Dia depois De Amanha (2004)
+http://54.39.157.211/FILMES/O.Dia.depois.De.Amanha.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/15/11/27/16/54/060756.jpg" group-title="Filmes Antigos",O Durao (2015)
+http://54.39.157.211/FILMES/O.Durao.2015.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TfrvdA86L._AC_SY879_.jpg" group-title="Filmes Antigos",O Evangelho Segundo Joao (2003)
+http://54.39.157.211/FILMES/O.Evangelho.Segundo.Joao.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/02/23/15/48/240798.jpg" group-title="Filmes Antigos",O Filho do Batman (2014)
+http://54.39.157.211/FILMES/O.Filho.do.Batman.2014.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/210/208/21020893_2013071814071314.jpg" group-title="Filmes Antigos",O Filho do Maskara (2003)
+http://54.39.157.211/FILMES/O.Filho.do.Maskara.mp4
+ 
 
