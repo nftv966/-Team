@@ -6,6 +6,8 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/21/03/05/14/39/2726998.jpg" group-title="2021",Procura-se (2021)
+http://54.39.157.211/FILMES/Procura-se.2021.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/03/15/15/22/1558927.jpg" group-title="2021",Os Segredos de Madame Claude (2021)
 http://54.39.157.211/FILMES/Os.Segredos.de.Madame.Claude.2021.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/21/03/11/15/47/5912394.jpg" group-title="2021",Os Croods 2: Uma Nova Era (2021)
@@ -505,3 +507,7 @@ http://54.39.157.211/FILMES/Pecado.Original.2001.mp4
 http://54.39.157.211/FILMES/Plano.B.2010.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/90/03/16/20077797.jpg" group-title="Filmes Antigos",Plano de Fuga (2012)
 http://54.39.157.211/FILMES/Plano.de.Fuga.2012.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/87/29/17/19873983.jpg" group-title="Filmes Antigos",Pressagio (2009)
+http://54.39.157.211/FILMES/Pressagio.009.BluRay.720p.Dublado.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/86/98/27/19870781.jpg" group-title="Filmes Antigos",Quatro Irmaos (2005)
+http://54.39.157.211/FILMES/Quatro%20Irmaos.2005.mp4
