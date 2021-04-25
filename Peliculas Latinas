@@ -889,8 +889,6 @@ http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C9126
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/81/8c/75/818c7543374658c095c832bf48e1dd48.png" group-title="Peliculas Viejas",La Gripe (2013)
 http://201.172.61.81:85/peliculas/octubre/*The.Flu.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A17x6-7sD0L._RI_.jpg" group-title="Peliculas Viejas",Nosotros los Nobles (2013)
-http://201.172.61.81:85/peliculas/octubre/*Nosotros%20los%20Nobles.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/43/ee/da/43eeda33f4919690893a1c93ce5637c8.jpg" group-title="Peliculas Viejas",Mi Primer Beso (1991)
 http://201.172.61.81:85/peliculas/octubre/*Mi_Primer_Beso__1991.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/4b/c8/4a/4bc84ac714bc3bc1651f7b5cc943b01e.jpg" group-title="Peliculas Viejas",DragonHeart (1996)
@@ -969,8 +967,10 @@ http://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-
 http://201.172.61.81:85/peliculas/4K/*BACK.TO.THE.FUTURE.1990.4K.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/c_215_290/medias/nmedia/18/78/40/96/20433085.jpg" group-title="Peliculas Viejas",La Fuerza De La Ilusion (1992)
 http://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
-#EXTINF:-1 tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/sites/nbcutelemundo/files/images/movie/nosotros-los-nobles-poster_138116175630_2.jpg" group-title="Peliculas Viejas",Nosotros Los Nobles (2013)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A17x6-7sD0L._RI_.jpg" group-title="Peliculas Viejas",Nosotros los Nobles (2013)
 http://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A17x6-7sD0L._RI_.jpg" group-title="Peliculas Viejas",Nosotros los Nobles (2013) HD
+http://201.172.61.81:85/peliculas/octubre/*Nosotros%20los%20Nobles.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/c_215_290/medias/nmedia/18/92/58/77/20207623.jpg" group-title="Peliculas Viejas",Redada Asesina (2011)
 http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/c_215_290/pictures/16/02/25/16/01/464057.jpg" group-title="Peliculas Viejas",Prometeus (2012)
