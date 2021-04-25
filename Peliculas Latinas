@@ -26,6 +26,10 @@ http://stream-panel.club:6375/movie/Junior/QnGjQVvepJ/59186.mp4
 http://198.71.50.163:80/Uploads/Fantasia/Raya-y-el-Ultimo-Dragon-2021.lat.mp4
 
 
+#EXTINF:-1 tvg-logo="https://www.starburstmagazine.com/wp-content/uploads/2021/10/Ben10vsuniverse_Boxset-Art-440-x-600-copy-2.jpg" group-title="2020",Ben 10 vs The Universe (2020)
+http://201.172.61.81:85/peliculas/octubre/*Ben%2010%20vs%20the%20Universe.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/9f/92/67/9f9267fb9bb588d0ad3308bb4054d8b9.jpg" group-title="2020",Bala Perdida (2020)
+http://201.172.61.81:85/peliculas/octubre/*Bala.Perdida.2020.NF.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/170x/1c/0a/60/1c0a6028b450677fcf7d6cf5cb177aef.jpg" group-title="2020",Arkansas: El Jefe del crimen (2020)
 http://201.172.61.81:85/peliculas/octubre/*Arkansas.2020.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/f9/40/72/f9407261473f0889bd89d1bb6dd51cde.jpg" group-title="2020",El hombre invisible (2020)
@@ -805,7 +809,9 @@ http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C9126
 http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%212732&authkey=AJe5LYBeJ0hKUTA
 
 
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/210/214/21021461_20130720224953933.jpg" group-title="Peliculas Viejas",Getaway:Tiempo en contra (2013)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/36/30/91/3630913c407ebcd1094b47ad3cff6e84.jpg" group-title="Peliculas Viejas",Atrapame si puedes (2002)
+http://201.172.61.81:85/peliculas/octubre/*Atr%c3%a1pame%20si%20puedes%20(2002).mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/210/214/21021461_20130720224953933.jpg" group-title="Peliculas Viejas",Getaway: Tiempo en contra (2013)
 http://201.172.61.81:85/peliculas/octubre/(Getaway).mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/210/033/21003300_20130505014544082.jpg" group-title="Peliculas Viejas",Señalado por la muerte (1990)
 http://201.172.61.81:85/peliculas/4K/*se%c3%b1alado%20por%20la%20muerte%201990.mp4
