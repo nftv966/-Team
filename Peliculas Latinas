@@ -26,6 +26,14 @@ http://stream-panel.club:6375/movie/Junior/QnGjQVvepJ/59186.mp4
 http://198.71.50.163:80/Uploads/Fantasia/Raya-y-el-Ultimo-Dragon-2021.lat.mp4
 
 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81lhDSfmmsL._AC_SL1500_.jpg" group-title="2020",Emma (2020)
+http://201.172.61.81:85/peliculas/octubre/*Emma.2020.mp4.mp4
+#EXTINF:-1 tvg-logo="https://catalogodepeliculas.com/wp-content/uploads/2020/08/EL-MAGNIFICO-IVAN2-600x853.jpg" group-title="2020",El magnifico Ivan (2020)
+http://201.172.61.81:85/peliculas/octubre/*El%20unico%20y%20gran%20Iv%c3%a1n%20(2020).mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/11/04/16/36/2916263.jpg" group-title="2020",El banquero (2020)
+http://201.172.61.81:85/peliculas/octubre/*El.banquero.2020.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91LTiElaCBL._RI_.jpg" group-title="2020",El Atrapasueños (2020)
+http://201.172.61.81:85/peliculas/octubre/*El.Atrapasueos.2020.AMZN.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61C--9XB14L._SY445_.jpg" group-title="2020",Dragonheart Vengeance (2020)
 http://201.172.61.81:85/peliculas/octubre/*Dragonheart.Vengeance.2020.mp4
 #EXTINF:-1 tvg-logo="https://cdn.traileraddict.com/content/netflix/desperados-poster.jpg" group-title="2020",Desperados (2020)
@@ -211,6 +219,11 @@ http://latiniptv.vip:8008/movie/VICTORCHILE12MESES/OSVALDOPRO0902/150014.mp4
 #EXTINF:-1 tvg-logo="https://www.cinecalidad.is/espana/wp-content/uploads/2021/02/Todos-mis-amigos-estan-muertos-2020.jpg" group-title="2020",Todos mis amigos están muertos (2020)
 http://vod.tuxchannel.tv/peliculas/720/wszyscy%20moi%20przyjaciele%20nie%20zyja%202020.mkv
 
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81i7Hfamz6L._RI_.jpg" group-title="2019",En brazos de un asesino (2019)
+http://201.172.61.81:85/peliculas/octubre/*En.Brazos.de.un.Asesino.2019.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c3/c3/a2/c3c3a248aecacbf13e41725100d26c0f.jpg" group-title="2019",El Bosque Maldito (2019)
+http://201.172.61.81:85/peliculas/octubre/*El.Bosque.Maldito.2019.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/02/13/21/02/2921012.jpg" group-title="2019",Buscando Justicia (2019)
 http://201.172.61.81:85/peliculas/octubre/*Buscando%20Justicia%20(2019).mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61B4qVIavHL._RI_.jpg" group-title="2019",Amor Mutante (2019)
