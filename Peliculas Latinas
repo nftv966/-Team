@@ -26,6 +26,10 @@ http://stream-panel.club:6375/movie/Junior/QnGjQVvepJ/59186.mp4
 http://198.71.50.163:80/Uploads/Fantasia/Raya-y-el-Ultimo-Dragon-2021.lat.mp4
 
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/8f/ee/69/8fee691e40667d468e3749c8a0adad3e.jpg" group-title="2020",Ricos de amor (2020)
+http://201.172.61.81:85/peliculas/octubre/*Ricos%20de%20amor%20(2020).mp4
+#EXTINF:-1 tvg-logo="https://dx35vtwkllhj9.cloudfront.net/universalstudios/the-turning/images/regions/mx/onesheet.jpg" group-title="2020",Presencias del mal (2020)
+http://201.172.61.81:85/peliculas/octubre/*Presencias.del.mal.2020.mp4
 #EXTINF:-1 tvg-logo="https://www.bfdistribution.cl/wp-content/uploads/2019/12/Afiche_Web.jpg" group-title="2020",Mujeres arriba (2020)
 http://201.172.61.81:85/peliculas/octubre/*Mujeres.arriba.2020.mp4
 #EXTINF:-1 tvg-logo="https://www.sectorcine.com/wp-content/uploads/2020/04/mentiras-peligrosas-poster.jpg" group-title="2020",Mentiras Peligrosas (2020)
@@ -247,6 +251,11 @@ http://latiniptv.vip:8008/movie/VICTORCHILE12MESES/OSVALDOPRO0902/150014.mp4
 #EXTINF:-1 tvg-logo="https://www.cinecalidad.is/espana/wp-content/uploads/2021/02/Todos-mis-amigos-estan-muertos-2020.jpg" group-title="2020",Todos mis amigos están muertos (2020)
 http://vod.tuxchannel.tv/peliculas/720/wszyscy%20moi%20przyjaciele%20nie%20zyja%202020.mkv
 
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/88/58/cb/8858cbdc2293516e58afa41c005fa5bb.png" group-title="2019",La Posesión de Mercy Black (2019)
+http://201.172.61.81:85/peliculas/octubre/*Posesion.Mercy.Black.2019.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/g210Wx9Imdg4jpgPJgr2Rov30pe.jpg" group-title="2019",Palm Beach (2019)
+http://201.172.61.81:85/peliculas/octubre/*Palm.Beach.2019.mp4
 #EXTINF:-1 tvg-logo="https://ennetflix.mx/media/15/nos-vemos-ayer_80216758.jpg" group-title="2019",Nos vemos ayer (2019)
 http://201.172.61.81:85/peliculas/octubre/*Nos.Vemos.Ayer.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/dc/48/79/dc48791fea02acaadf5227d44fee69a0.jpg" group-title="2019",Negra Navidad (2019)
@@ -874,6 +883,8 @@ http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C9126
 http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%212732&authkey=AJe5LYBeJ0hKUTA
 
 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A17x6-7sD0L._RI_.jpg" group-title="Peliculas Viejas",Nosotros los Nobles (2013)
+http://201.172.61.81:85/peliculas/octubre/*Nosotros%20los%20Nobles.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/43/ee/da/43eeda33f4919690893a1c93ce5637c8.jpg" group-title="Peliculas Viejas",Mi Primer Beso (1991)
 http://201.172.61.81:85/peliculas/octubre/*Mi_Primer_Beso__1991.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/4b/c8/4a/4bc84ac714bc3bc1651f7b5cc943b01e.jpg" group-title="Peliculas Viejas",DragonHeart (1996)
