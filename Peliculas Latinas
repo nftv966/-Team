@@ -26,6 +26,8 @@ http://stream-panel.club:6375/movie/Junior/QnGjQVvepJ/59186.mp4
 http://198.71.50.163:80/Uploads/Fantasia/Raya-y-el-Ultimo-Dragon-2021.lat.mp4
 
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/170x/1c/0a/60/1c0a6028b450677fcf7d6cf5cb177aef.jpg" group-title="2020",Arkansas: El Jefe del crimen (2020)
+http://201.172.61.81:85/peliculas/octubre/*Arkansas.2020.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/f9/40/72/f9407261473f0889bd89d1bb6dd51cde.jpg" group-title="2020",El hombre invisible (2020)
 http://201.172.61.81:85/peliculas/4K/*The.invisible.man.2020.mp4.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91XrJYU10%2BL._SY550_.jpg" group-title="2020",The Swing of Things (2020)
@@ -197,6 +199,8 @@ http://vod.tuxchannel.tv/peliculas/720/wszyscy%20moi%20przyjaciele%20nie%20zyja%
 
 
 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61B4qVIavHL._RI_.jpg" group-title="2019",Amor Mutante (2019)
+http://201.172.61.81:85/peliculas/octubre/*Amor.Mutante.2019.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71oJBngxwxL._SL1200_.jpg" group-title="2019",El mas valiente (2019) HD
 http://201.172.61.81:85/peliculas/4K/*El.mAs.valiente.20194k.MP4
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/19/02/26/08/47/0465597.jpg" group-title="2019",La Tierra errante (2019)
@@ -561,8 +565,6 @@ http://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
 #EXTINF:-1 tvg-logo="http://destinoarrakis.com/wp-content/uploads/2017/10/tragedy-girls-1.jpg" group-title="2017",Tragedy Girls (2017)
 http://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
 
-
-
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/16/05/26/12/07/068755.jpg" group-title="2016",Pelé (2016)
 http://etvhome.com:25461/movie/0105/1234/94837.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81O7-q3fD8L._SX342_.jpg" group-title="2016",Reina de Katwe (2016)
@@ -802,6 +804,9 @@ http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C9126
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/c_215_290/pictures/16/10/07/11/19/054496.png" group-title="2015",Hardcore: Mision extrema (2015)
 http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%212732&authkey=AJe5LYBeJ0hKUTA
 
+
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/210/214/21021461_20130720224953933.jpg" group-title="Peliculas Viejas",Getaway:Tiempo en contra (2013)
+http://201.172.61.81:85/peliculas/octubre/(Getaway).mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/210/033/21003300_20130505014544082.jpg" group-title="Peliculas Viejas",Señalado por la muerte (1990)
 http://201.172.61.81:85/peliculas/4K/*se%c3%b1alado%20por%20la%20muerte%201990.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/medias/nmedia/18/92/45/51/20200813.jpg" group-title="Peliculas Viejas",E.T.: el extraterrestre (1982)
