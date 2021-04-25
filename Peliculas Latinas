@@ -26,6 +26,8 @@ http://stream-panel.club:6375/movie/Junior/QnGjQVvepJ/59186.mp4
 http://198.71.50.163:80/Uploads/Fantasia/Raya-y-el-Ultimo-Dragon-2021.lat.mp4
 
 
+#EXTINF:-1 tvg-logo="https://www.bfdistribution.cl/wp-content/uploads/2019/12/Afiche_Web.jpg" group-title="2020",Mujeres arriba (2020)
+http://201.172.61.81:85/peliculas/octubre/*Mujeres.arriba.2020.mp4
 #EXTINF:-1 tvg-logo="https://www.sectorcine.com/wp-content/uploads/2020/04/mentiras-peligrosas-poster.jpg" group-title="2020",Mentiras Peligrosas (2020)
 http://201.172.61.81:85/peliculas/octubre/*Mentiras.Peligrosas.2020.NF.mp4
 #EXTINF:-1 tvg-logo="http://fotografiacalato.com/wp-content/uploads/2020/01/locos_de_amor_3-150709365-large.jpg" group-title="2020",Locos de Amor 3 (2020)
@@ -245,7 +247,10 @@ http://latiniptv.vip:8008/movie/VICTORCHILE12MESES/OSVALDOPRO0902/150014.mp4
 #EXTINF:-1 tvg-logo="https://www.cinecalidad.is/espana/wp-content/uploads/2021/02/Todos-mis-amigos-estan-muertos-2020.jpg" group-title="2020",Todos mis amigos están muertos (2020)
 http://vod.tuxchannel.tv/peliculas/720/wszyscy%20moi%20przyjaciele%20nie%20zyja%202020.mkv
 
-
+#EXTINF:-1 tvg-logo="https://ennetflix.mx/media/15/nos-vemos-ayer_80216758.jpg" group-title="2019",Nos vemos ayer (2019)
+http://201.172.61.81:85/peliculas/octubre/*Nos.Vemos.Ayer.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/dc/48/79/dc48791fea02acaadf5227d44fee69a0.jpg" group-title="2019",Negra Navidad (2019)
+http://201.172.61.81:85/peliculas/octubre/*Negra.Navidad.2019.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c8/2c/89/c82c893116e552b5ec0f1b49c4d61472.png" group-title="2019",Mujercitas (2019)
 http://201.172.61.81:85/peliculas/octubre/*Mujercitas.2019.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e4/bc/be/e4bcbe7aa5ee8f9914a69a3728f7ea71.jpg" group-title="2019",Kindred Spirits (2019)
