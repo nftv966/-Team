@@ -5,12 +5,15 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 #EXTINF:-1 tvg-logo="https://www.lifeder.com/wp-content/uploads/2016/07/pel%C3%ADculas-recomendadas.jpg" group-title="FILMES GRATIS",FILMES GRATIS
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
-#EXTINF:-1 tvg-logo="   " group-title="2021",   (2021)
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/fciMWczNCEODy1EaII34BNbHdYA.jpg" group-title="2021",Abaixo de Zero (2021)
+http://192.99.18.120/A%c3%87AO/COMANDO.TO%20-%20Abaixo%20de%20Zero%202021%201080p%205.1%20DUAL.mkv
 
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/19/12/16/12/16/5667446.jpg" group-title="2020",Mulan (2020)
 http://www.iiss.com.br/downloads/Filmes/Mulan.2020/Mulan.2020.mkv
 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtOEKVq8UOtendmSO8yxM9i4TUQ.jpg" group-title="2019",Ben 10 Contra o Universo (2019)
+http://192.99.18.120/A%c3%87AO/Ben%2010%20Contra%20o%20Universo-032.mkv
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/54/6a/49/546a4949f8da893cc11557be0c123d1d.jpg" group-title="2019",Anna O Perigo Tem Nome (2019)
 http://192.99.18.120/A%c3%87AO/Anna.O.Perigo.Tem.Nome.2019.720p.BluRay.x264.DUBLADO-LAPUMiA.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E0hVj2l.jpg" group-title="2019",A Ultima Missao (2019)
@@ -205,6 +208,8 @@ http://lh3.googleusercontent.com/G3oNS_j5Z14iqV8476SVw39lBm5JJlhdGnQEaOk7G5xh28I
 http://lh3.googleusercontent.com/_ZTxRYYtedbTL17OyCkINVg8r6EgxqraZz8yvB28iRODQ1qGBrIIj9TH_UawePWQ6V5kJeCBlcIy3yeZx1NNTmSSquhDv1gEmfu5dxPwm5H2VFPyafaiDYn835UGKcaI6aJ1LMBC-A=m22
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/08/23/16/20/0066802.jpg" group-title="2018",Bleach (2018)
+http://192.99.18.120/A%c3%87AO/Bleach.2018.720p.WEB-DL.6CH.x264.DUBLADO-WWW.BLUDV.TV.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/17/11/11/14/59/1402687.jpg" group-title="2018",A Vilã (2018)
 http://192.99.18.120/A%c3%87AO/A.Vil%c3%a3.2018.720p.BluRay.x264.DUAL-WWW.BLUDV.COM.mkv
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/61/95/4d/61954dfb1c517c782a21d972f4255834.jpg" group-title="2018",Juanita (2018)
@@ -215,12 +220,18 @@ http://lh3.googleusercontent.com/vLnaKmsJI0buJE-sYBHpf3CtVZdcuvdf9WPdChaxDZNClqw
 http://192.99.18.120/A%c3%87AO/22%20Milhas.mkv
 
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/27/25/c3/2725c3ba896aa116bab958dc0196602a.jpg" group-title="2017",Bright (2017)
+http://192.99.18.120/A%c3%87AO/Bright.2017.720p.WEB-DL.6CH.x264.DUAL-WWW.BLUDV.COM.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81BwccBofmL._RI_.jpg" group-title="2017",A Torre Negra (2017)
 http://192.99.18.120/A%c3%87AO/A%20Torre%20Negra.mkv
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/61/4c/4d/614c4db903ad6bf77980b6d76f38fde6.jpg" group-title="2017",A Mumia (2017)
 http://192.99.18.120/A%c3%87AO/A.M%c3%bamia.2017.720p.BluRay.6CH.x264.DUAL-WWW.BLUDV.COM.mkv
 
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/51/16/09/511609cf9df8f8db6337afb844568e44.jpg" group-title="2016",Caca Fantasmas (2016)
+http://192.99.18.120/A%c3%87AO/Caca%20Fantasmas%202016%20Bluray%20720p%20Dublado%20-%20WWW.THEPIRATEFILMES.COM.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71tBfeyJSfL._SL1200_.jpg" group-title="2016",Baahubali: O Inicio (2016)
+http://192.99.18.120/A%c3%87AO/Baahubali%20-%20O%20Inicio%20(2016)%205.1%20CH%20Dublado%20720p%20(By-LuanHarper).mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/7184EivA5EL._AC_SX569_.jpg" group-title="2016",As Tartarugas Ninja: Fora das Sombras (2016)
 http://192.99.18.120/A%c3%87AO/As%20Tartarugas%20Ninja%20-%20Fora%20das%20Sombras%20720p%20(2016)%20Dual%20%c3%81udio%20BluRay%205.1%20--%20By%20-%20Lucas%20Firmo.mkv
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/10/07/20/26/295252.jpg" group-title="2016",Anjos da Noite Guerras de Sangue (2016)
@@ -231,6 +242,12 @@ http://192.99.18.120/A%c3%87AO/007%20Contra%20Spectre%20(2016)%205.1%20CH%20Dubl
 http://192.99.18.120/A%c3%87AO/13%20Horas%20Os%20Soldados%20Secretos%20de%20Benghazi.2016.720p.BluRay.5.1.x264.DUAL-WWW.BLUDV.COM.mkv
 
 
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/90/59/41/20103765.jpg" group-title="Filmes Antigos",Busca Implacável (2008)
+http://192.99.18.120/A%c3%87AO/Busca.Implac%c3%a1vel.2008.720p.Bluray.(www.filmesbluraytorrent.com).mkv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/49/ab/75/49ab75e411f3fe54f5432c8364efd523.jpg" group-title="Filmes Antigos",Brinquedo Assassino 3 (1991)
+http://192.99.18.120/A%c3%87AO/Brinquedo%20Assassino%203%20(1991)%20BluRay%20720p%20Dublado.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/92/77/74/20217238.jpg" group-title="Filmes Antigos",Braddock: O Super Comando (1984)
+http://192.99.18.120/A%c3%87AO/Braddock%201%20-%20O%20Super%20Comando.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R2zLHoj.jpg" group-title="Filmes Antigos",As Panteras (2000)
 http://192.99.18.120/A%c3%87AO/As%20Panteras%201.mkv
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/90/67/31/20107705.jpg" group-title="Filmes Antigos",Anjos da Noite - Underworld (2003)
