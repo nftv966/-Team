@@ -420,12 +420,6 @@ http://192.99.18.120/A%c3%87AO/A%20Torre%20Negra.mkv
 http://192.99.18.120/A%c3%87AO/A.M%c3%bamia.2017.720p.BluRay.6CH.x264.DUAL-WWW.BLUDV.COM.mkv
 
 
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/210/184/21018451_20130709170609451.jpg" group-title="2016",30 Minutos ou Menos (2011)
-http://192.99.18.120/COMEDIA/30%20Minutos%20ou%20Menos.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/87/25/01/20028655.jpg" group-title="2016",Viagem Ao Centro da Terra (2008)
-http://192.99.18.120/AVENTURA%2056/Viagem%20Ao%20Centro%20da%20Terra%20(2008)%20720p.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/411NLUUrQqL.jpg" group-title="2016",Uma Historia de Amor e Furia (2013)
-http://192.99.18.120/AVENTURA%2056/Uma%20Historia%20de%20Amor%20e%20Furia.mkv
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/16/09/29/22/31/239318.jpg" group-title="2016",O Lar das Crianças Peculiares (2016)
 http://192.99.18.120/AVENTURA%2056/O%20Lar%20das%20Crian%c3%a7as%20Peculiares%20720p%20(2016)%20Dual%20%c3%81udio%20BluRay%205.1%20--%20By%20-%20Lucas%20Firmo.mkv
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/07/01/17/01/131310.jpg" group-title="2016",Meu Amigo o Dragão (2016)
@@ -471,6 +465,13 @@ http://192.99.18.120/A%c3%87AO/007%20Contra%20Spectre%20(2016)%205.1%20CH%20Dubl
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91SC1HAl8SL._SY445_.jpg" group-title="2016",13 Horas Os Soldados Secretos de Benghazi (2016)
 http://192.99.18.120/A%c3%87AO/13%20Horas%20Os%20Soldados%20Secretos%20de%20Benghazi.2016.720p.BluRay.5.1.x264.DUAL-WWW.BLUDV.COM.mkv
 
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/210/184/21018451_20130709170609451.jpg" group-title="Filmes Antigos",30 Minutos ou Menos (2011)
+http://192.99.18.120/COMEDIA/30%20Minutos%20ou%20Menos.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/87/25/01/20028655.jpg" group-title="Filmes Antigos",Viagem Ao Centro da Terra (2008)
+http://192.99.18.120/AVENTURA%2056/Viagem%20Ao%20Centro%20da%20Terra%20(2008)%20720p.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/411NLUUrQqL.jpg" group-title="Filmes Antigos",Uma Historia de Amor e Furia (2013)
+http://192.99.18.120/AVENTURA%2056/Uma%20Historia%20de%20Amor%20e%20Furia.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81qL5j2vObL._SL1500_.jpg" group-title="Filmes Antigos",Tarzan: A Evolução da Lenda (2014)
 http://192.99.18.120/AVENTURA%2056/Tarzan.A.Evolu%c3%a7%c3%a3o.da.Lenda.2014.1080p.Dual-WOLVERDONFILMES.COM.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51MmKNj5g0L._SY445_.jpg" group-title="Filmes Antigos",Street Fighter: A Última Batalha (1994)
