@@ -6,6 +6,10 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://entreterse.s3.amazonaws.com/wp-content/uploads/2021/02/The-Girl-on-the-Train-682x1024.jpg" group-title="2021",The Girl on the Train (2021)
+http://192.99.18.120/AVENTURA%2056/The%20Girl%20on%20the%20Train.MP4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51a5uRYtyLL._SY445_.jpg" group-title="2021",Raízes do Amor (2021)
+http://192.99.18.120/AVENTURA%2056/Ra%c3%adzes%20do%20Amor.MP4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/p0wb4v02VrqWICwmHhk7yrn7T4B.jpg" group-title="2021",Psych 2: Lassie está de Volta (2021)
 http://192.99.18.120/AVENTURA%2056/Psych%202%20-%20Lassie%20est%c3%a1%20de%20Volta%20WEB-DL%201080p%20DUAL%205.1%20-%20COMANDO.TO%20-.mkv
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/f8/34/6c/f8346c73e8aef258063bd7a760cd3ffc.jpg" group-title="2021",Monster Hunter (2021)
@@ -59,6 +63,10 @@ http://192.99.18.120/A%c3%87AO/Superman.Man.of.Tomorrow.2020.720p.WEB-DL.x264.DU
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/19/12/16/12/16/5667446.jpg" group-title="2020",Mulan (2020)
 http://www.iiss.com.br/downloads/Filmes/Mulan.2020/Mulan.2020.mkv
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/23/14/53/2072268.jpg" group-title="2019",O Mensajeiro (2019)
+http://192.99.18.120/AVENTURA%2056/The.Courier.2019.1080p.WEBRip.Dublado.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/18/11/26/17/30/2342256.jpg" group-title="2019",Super Monstros em Acao (2019)
+http://192.99.18.120/AVENTURA%2056/Super.Monstros.em.Acao.2019.1080p.WEB-DL.DUAL.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/01/07/17/18/4980802.jpg" group-title="2019",Polar (2019)
 http://192.99.18.120/AVENTURA%2056/Polar.MP4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/a5/7c/3f/a57c3f596f25e81133107bcd5dcf34cc.jpg" group-title="2019",O Exterminador do Futuro: Destino Sombrio (2019)
@@ -450,7 +458,24 @@ http://192.99.18.120/A%c3%87AO/007%20Contra%20Spectre%20(2016)%205.1%20CH%20Dubl
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91SC1HAl8SL._SY445_.jpg" group-title="2016",13 Horas Os Soldados Secretos de Benghazi (2016)
 http://192.99.18.120/A%c3%87AO/13%20Horas%20Os%20Soldados%20Secretos%20de%20Benghazi.2016.720p.BluRay.5.1.x264.DUAL-WWW.BLUDV.COM.mkv
 
-
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81qL5j2vObL._SL1500_.jpg" group-title="Filmes Antigos",Tarzan: A Evolução da Lenda (2014)
+http://192.99.18.120/AVENTURA%2056/Tarzan.A.Evolu%c3%a7%c3%a3o.da.Lenda.2014.1080p.Dual-WOLVERDONFILMES.COM.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51MmKNj5g0L._SY445_.jpg" group-title="Filmes Antigos",Street Fighter: A Última Batalha (1994)
+http://192.99.18.120/AVENTURA%2056/Street%20Fighter%20-%20A%20%c3%9altima%20Batalha%20(1994)%20BRRip%20Blu-Ray%20720p%20Dublado%20Dat2014.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/87/90/21/19962720.jpg" group-title="Filmes Antigos",Soldado Universal 3: Regeneração (2010)
+http://192.99.18.120/AVENTURA%2056/Soldado%20Universal%203%20-%20Regenera%c3%a7%c3%a3o%20%5b2010%5d%20-%20BluRay%20720p%20Dual%20%c3%81udio.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/15/07/09/19/30/423655.jpg" group-title="Filmes Antigos",Sob O Domínio Dos Robôs (2015)
+http://192.99.18.120/AVENTURA%2056/Sob.o.Dom%c3%adnio.dos.Rob%c3%b4s.2015.720p.Dublado-JefePsb-WOLVERDONFILMES.COM.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81VEIGdfqrL._SY445_.jpg" group-title="Filmes Antigos",Shaft (2000)
+http://192.99.18.120/AVENTURA%2056/Shaft.2000.720p.BluRay.6CH.DUAL-WwW.LAPUMiAFiLMES.COM.mkv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/21/75/a4/2175a4a42c2c26c7920570b4d08266ae.jpg" group-title="Filmes Antigos",Serenity: A Luta Pelo Amanhã (2005)
+http://192.99.18.120/AVENTURA%2056/Serenity%20-%20A%20Luta%20Pelo%20Amanh%c3%a3%20(2005)%20BluRay%20720p%20Dublado.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51nXm-tW2%2BL._AC_.jpg" group-title="Filmes Antigos",RoboCop 2 (1990)
+http://192.99.18.120/AVENTURA%2056/RoboCop%202%20(1990)%20Bluray%20720p%20Filmes%20M.H.G.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/97/43/48/20528876.jpg" group-title="Filmes Antigos",Risco Total (1993)
+http://192.99.18.120/AVENTURA%2056/Risco%20Total%20%5b1993%5d%20-%20BluRay%20720p%20Dublado.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61-hUIJ6SeL._AC_SX569_.jpg" group-title="Filmes Antigos",Reino Dos Felinos (2011)
+http://192.99.18.120/AVENTURA%2056/Reino%20Dos%20Felinos%20(2011)%20BDrip%201080p%20Dublado%20dat2014.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/05/80/2b/05802b920c11718583ab59ec1ab37391.jpg" group-title="Filmes Antigos",Ponte para Terabítia (2007)
 http://192.99.18.120/AVENTURA%2056/Ponte%20para%20Terab%c3%adtia%20(2007)%20720p%20Dublado%20-%20Alan_680.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/25/b4/97/25b497800dc743c159ad742c8c37b36e.jpg" group-title="Filmes Antigos",Pompeia (2014)
