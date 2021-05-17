@@ -382,7 +382,8 @@ http://vod.tuxchannel.tv/peliculas/720/half%20brothers%202020.mkv
 http://vod.tuxchannel.tv/peliculas/720/wszyscy%20moi%20przyjaciele%20nie%20zyja%202020.mkv
 
 
-
+#EXTINF:-1 tvg-logo="https://www.premiosgoya.com/wp-content/uploads/2019/11/system/uploads/feature_film/poster/1203/Cartel_Taxi_para_gestor.jpg" group-title="2019",Taxi a Gibraltar (2019)
+http://tux-vod.dynu.com/peliculas/720/taxi%20a%20gibraltar%202019.mkv
 #EXTINF:-1 tvg-logo="https://elcontraplano.com/wp-content/uploads/2019/02/feedback.jpg" group-title="2019",Feedback (2019)
 http://201.172.61.81:85/peliculas/octubre/*Salinan%20Feedback.2019.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/88/58/cb/8858cbdc2293516e58afa41c005fa5bb.png" group-title="2019",La Posesión de Mercy Black (2019)
