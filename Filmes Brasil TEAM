@@ -6,6 +6,10 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/01/23/15/51/1681326.jpg" group-title="2021",O Jardim Secreto (2021)
+http://195.154.80.170:7700/O.Jardim.Secreto.2021.BRRip.1080p.x264.DUAL.COMANDO.TO/O.Jardim.Secreto.2021.BRRip.1080p.x264.DUAL.COMANDO.TO.mkv
+#EXTINF:-1 tvg-logo="https://thepiratefilmeshd.com.br/wp-content/uploads/2021/04/baixar-filme-thepiratefilmeshd.com_.br_-1.jpg" group-title="2021",O Informante (2021)
+http://195.154.80.170:7700/O.Informante.2021.BluRay.1080p.DUAL.5.1.COMANDO.TO/O.Informante.2021.BluRay.1080p.DUAL.5.1.COMANDO.TO.mkv
 #EXTINF:-1 tvg-logo="https://www.xpectacular.net/wp-content/uploads/2021/03/3XJshsWa1rorxNILfiJYWqnwNB2-185x278.jpg" group-title="2021",Nao Feche os Olhos (2021)
 http://195.154.80.170:7700/N%C3%A3o.Feche.os.Olhos.2021.BluRay.1080p.DUAL.COMANDO.TO/N%C3%A3o.Feche.os.Olhos.2021.BluRay.1080p.DUAL.COMANDO.TO.mkv
 #EXTINF:-1 tvg-logo="https://amurrio.eus/wp-content/uploads/2021/03/nomadland-118487105-large.jpg" group-title="2021",Nomadland (2021)
@@ -735,6 +739,10 @@ http://192.99.18.120/A%c3%87AO/007%20Contra%20Spectre%20(2016)%205.1%20CH%20Dubl
 http://192.99.18.120/A%c3%87AO/13%20Horas%20Os%20Soldados%20Secretos%20de%20Benghazi.2016.720p.BluRay.5.1.x264.DUAL-WWW.BLUDV.COM.mkv
 
 
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/92/91/32/20224832.jpg" group-title="Filmes Antigos",O Senhor dos Aneis: A Sociedade do Anel (2001)
+http://195.154.80.170:7700/O%20Senhor%20dos%20An%C3%A9is%20-%20A%20Sociedade%20do%20Anel%20%282001%29/O%20Senhor%20dos%20An%C3%A9is%20-%20A%20Sociedade%20do%20Anel%20%282001%29%201080p%20-%20Vers%C3%A3o%20Estendida%20-%20210GJI.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/92/91/47/20224867.jpg" group-title="Filmes Antigos",O Senhor dos Aneis: O Retorno do Rei (2003)
+http://195.154.80.170:7700/O%20Senhor%20dos%20An%C3%A9is%20-%20O%20Retorno%20do%20Rei%20%282003%29/O%20Senhor%20dos%20An%C3%A9is%20-%20O%20Retorno%20do%20Rei%20%282003%29%201080p%20-%20Vers%C3%A3o%20Estendida%20-%20210GJI.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51qdyjmDlxL._SY445_.jpg" group-title="Filmes Antigos",Linterna Verde (2011)
 http://192.99.18.120/FILMES%20INFANTIL/laterna%20verde.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/90/98/38/20123472.jpg" group-title="Filmes Antigos",Os Incríveis (2004)
