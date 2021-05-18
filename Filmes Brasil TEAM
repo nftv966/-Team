@@ -6,6 +6,10 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/02/07/09/37/4344204.jpg" group-title="2021",Marighella (2021)
+http://195.154.80.170:7700/Marighella%20WEB-DL%201080p%20NACIONAL%202.0/Marighella%20WEB-DL%201080p%20NACIONAL%202.0.mkv
+#EXTINF:-1 tvg-logo="https://www.alohacriticon.com/wp-content/uploads/2021/04/invincible-poster-serie-amazon.jpg" group-title="2021",Invencivel (2021)
+http://195.154.80.170:7700/Invincible.2021.S01E07.1080p.WEB-DL.DUAL.COMANDO.TO/Invincible.2021.S01E07.1080p.WEB-DL.DUAL.COMANDO.TO.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZThhNWM2Y2ItMDRkOC00MWEyLTg5YmItMThkMzRjYjA3Mzk4XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg" group-title="2021",Ferry (2021)
 http://195.154.80.170:7700/Ferry.2021.1080p.WEB-DL.DDP5.1.DUAL.COMANDO.TO/Ferry.2021.1080p.WEB-DL.DDP5.1.DUAL.COMANDO.TO.mkv
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/21/04/22/03/37/5640278.jpg" group-title="2021",Eu sou todas as Meninas (2021)
