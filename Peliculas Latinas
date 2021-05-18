@@ -390,6 +390,8 @@ http://vod.tuxchannel.tv/peliculas/720/half%20brothers%202020.mkv
 http://vod.tuxchannel.tv/peliculas/720/wszyscy%20moi%20przyjaciele%20nie%20zyja%202020.mkv
 
 
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_41176_84.jpg" group-title="2019",Morgue (2019)
+http://vod.tuxchannel.tv/peliculas/720/morgue%202019.mkv
 #EXTINF:-1 tvg-logo="https://assets.cinepolisklic.com/cmsklicia/movieimages/la-peor-de-mis-bodas-2/poster_originalsize_250X375.jpg" group-title="2019",La peor de mis bodas 2 (2019)
 http://tux-vod.dynu.com/peliculas/720/la%20peor%20de%20mis%20bodas%202%202019.mkv
 #EXTINF:-1 tvg-logo="https://www.premiosgoya.com/wp-content/uploads/2019/11/system/uploads/feature_film/poster/1203/Cartel_Taxi_para_gestor.jpg" group-title="2019",Taxi a Gibraltar (2019)
