@@ -6,6 +6,12 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vtiPGLXcykcmnNctR2QbOc2aqif.jpg" group-title="2021",Pequeños detalles (2021)
+http://201.172.61.203:88/Peliculas/Danna/The%20Little%20Things%20(2021)%20%5b2160p%20HDR%20HMAX%20WEB-DL%5d%20%5bzgnrips%5d.mkv%20-%20Google%20Drive.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/12/18/10/24/4751126.jpg" group-title="2021",Palmer (2021)
+http://201.172.61.203:88/Peliculas/Danna/Palmer.2021.WEB-DL.1080p.Latino.www.peliculasgoogledrive.info.mkv%20-%20Google%20Drive.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/c_310_420/pictures/20/11/03/17/09/1252050.jpg" group-title="2021",Después de ti (2021)
+http://201.172.61.203:88/Peliculas/MAYO%20JUNIO/Despues.de.ti.2020.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/47/5c/aa/475caa93ee794a06901124b7c206590e.jpg" group-title="2021",Tom & Jerry (2021)
 http://vod.tuxchannel.tv/peliculas/720/tom%20and%20jerry%202021.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/911aPlrT39L._RI_.jpg" group-title="2021",Barb & Star: van a Vista del Mar (2021)
@@ -98,6 +104,10 @@ http://vod.tuxchannel.tv:80/peliculas/720/subtituladas/boss%20level%202021%20sub
 http://vod.tuxchannel.tv/peliculas/720/subtituladas/wrong%20turn%202021%20sub.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/12/14/10/05/3788735.jpg" group-title="2020",Psycho goreman (2020) SUB
+http://vod.tuxchannel.tv:80/peliculas/720/subtituladas/psycho%20goreman%202020%20sub.mkv
+#EXTINF:-1 tvg-logo="http://mozatimes.com/wp-content/uploads/2020/12/zeD4PabP6099gpE0STWJrJrCBCs.jpg" group-title="2020",Venganza implacable (2020)
+http://vod.tuxchannel.tv:80/peliculas/720/honest%20thief%202020.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/11/18/10/4293997.jpg" group-title="2020",Aves de Presa (2020)
 http://vod.tuxchannel.tv/peliculas/720/birds%20of%20prey%202020.mkv
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5782e956ebbd1acae3a7e924/1580267234252-1ZQC2520WVYRZYJK6GB5/ke17ZwdGBToddI8pDm48kDiXQXMxdrQ049JLAgEMw3IUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8PaoYXhp6HxIwZIk7-Mi3Tsic-L2IOPH3Dwrhl-Ne3Z2BxIVIV3FBh8u3eCF3iQcxtoK1x0FX_EuefUnbybCHXPdZR9z9mxWb0yLUToVqwSd/Poster+La+Fortaleza.jpg" group-title="2020",La Fortaleza (2020)
@@ -376,6 +386,8 @@ http://vod.tuxchannel.tv/peliculas/720/the%20midnight%20sky%202020.mkv
 http://vod.tuxchannel.tv/peliculas/720/the%20doorman%202020.mkv
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/20/03/24/14/59/1973735.jpg" group-title="2020",Soul (2020)
 http://vod.tuxchannel.tv/peliculas/720/soul%202020.mkv
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/20/03/24/14/59/1973735.jpg" group-title="2020",Soul (2020)
+http://51.77.66.14/Soul%20(2020)%201080p%20BRrip%20x264%20%5bspa,%20eng%5d.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81-SJkvjRiL._SL1500_.jpg" group-title="2020",Copper Bill (2020)
 http://vod.tuxchannel.tv/peliculas/720/copper%20bill%202020.mkv
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/medias/nmedia/18/80/56/46/20063794.jpg" group-title="2020",Jorge el Curioso (2020)
@@ -392,6 +404,16 @@ http://vod.tuxchannel.tv/peliculas/720/half%20brothers%202020.mkv
 http://vod.tuxchannel.tv/peliculas/720/wszyscy%20moi%20przyjaciele%20nie%20zyja%202020.mkv
 
 
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/19/08/16/18/51/5355313.jpg" group-title="2019",Agente bajo fuego (2019)
+http://tux-vod.dynu.com:80/peliculas/720/angel%20has%20fallen%202019.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71-ErP0t7-L._SL1200_.jpg" group-title="2019",Cold Blood: A sangre fria (2019)
+http://tux-vod.dynu.com:80/peliculas/720/cold%20blood%202019.mkv
+#EXTINF:-1 tvg-logo="https://www.sectorcine.com/wp-content/uploads/2019/12/escuadron-6-poster.jpg" group-title="2019",Escuadrón 6 (2019)
+http://tux-vod.dynu.com:80/peliculas/720/6%20underground%202019.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81H-Apy3B5L._SY445_.jpg" group-title="2019",La Conquista de Siberia (2019)
+http://193.34.144.178/Bryan/Peliculas/Conquest%20(2019)%20LAT.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/912QQeLn6qL._RI_.jpg" group-title="2019",La asistente (2019)
+http://193.34.144.178/Bryan/Peliculas/assintant.mp4
 #EXTINF:-1 tvg-logo="https://images.static-bluray.com/products/20/90704_2_large.jpg" group-title="2019",The Vast of Night (2019)
 https://bit.ly/2Arjjyr
 #EXTINF:-1 tvg-logo="https://decine21.com/img/upload/obras/traicion-a-tres-esposas-41629/src/traicion-a-tres-esposas-41629-c.jpg" group-title="2019",Regla de 3: Traicion a 3 Esposas (2019)
@@ -498,6 +520,12 @@ http://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
 http://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/r_1280_720/pictures/18/05/19/00/23/2775813.jpg" group-title="2017",Enemigo Inmortal (2017)
+http://tux-vod.dynu.com:80/peliculas/720/enemigo%20inmortal.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/18/05/02/00/56/2910094.jpg" group-title="2017",24 horas para vivir (2017)
+http://tux-vod.dynu.com:80/peliculas/720/24%20hours%20to%20live.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/08/02/09/49/298907.jpg" group-title="2017",La chica del tren (2017)
+http://193.34.144.178/Bryan/Peliculas/Ver%20Mira%20la%20chica%20del%20tren%20Online%20Gratis%20HD%20-%20Cuevana3.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A1hFzTczzJL._AC_SL1500_.jpg" group-title="2017",Jumanji: Bienvenidos a la Jungla (2017)
 http://201.172.61.81:85/peliculas/octubre/*JUMANJIWELCOMETOTHEJUNGLE1.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/03/24/11/15/388757.jpg" group-title="2017",Dragonheart 4: Corazón de fuego (2017)
@@ -556,7 +584,9 @@ http://onedrive.live.com/download.aspx?cid=BF7055D49F20CAF9&resid=BF7055D49F20CA
 http://onedrive.live.com/download.aspx?cid=BF7055D49F20CAF9&resid=BF7055D49F20CAF9%211696&authkey=ABwJlV68uFTFUtM
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51REkfKgYgL._SY445_.jpg" group-title="2017",Blame! (2017)
 http://onedrive.live.com/download.aspx?cid=BF7055D49F20CAF9&resid=BF7055D49F20CAF9%211755&authkey=AFGDDOiCYjyi1oM
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81ibOryUrkL._SL1500_.jpg" group-title="2017",Fast & Furious 8 (2017)
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81ibOryUrkL._SL1500_.jpg" group-title="2017",Rápidos y furiosos 8 (2017)
+http://tux-vod.dynu.com:80/peliculas/720/the%20fate%20of%20the%20furious.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81ibOryUrkL._SL1500_.jpg" group-title="2017",Rápidos y furiosos 8 (2017)
 http://onedrive.live.com/download.aspx?cid=5F41D2321DE53EAB&resid=5F41D2321DE53EAB%21162&authkey=AMNFkD8j0zzr2FA
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71lpBl19POL._SX342_.jpg" group-title="2017",John Wick: Chapter 2 (2017)
 http://onedrive.live.com/download.aspx?cid=BF7055D49F20CAF9&resid=BF7055D49F20CAF9%211757&authkey=AE-uNW-66t3uFd4
@@ -774,7 +804,6 @@ http://ia801603.us.archive.org/20/items/24052017Aqc789423784723984/24052017_aqc.
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg" group-title="2016",Deadpool (2016)
 http://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
 
-
 #EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_817575-MLA27180769592_042018-O.jpg" group-title="2015",Jugada Salvaje (2015)
 http://mataocio-cdn-7.mataocio-cdn7.workers.dev/Pack%25202/Jugada%2520salvaje%2520-%2520Wild%2520card%2520-%25202015.mp4
 #EXTINF:-1 tvg-logo="https://goshopmobility.org.uk/wp-content/uploads/2019/12/dragonheart-3-the-sorcerers-curse.jpg" group-title="2015",Dragonheart 3 (2015)
@@ -847,6 +876,24 @@ http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C9126
 http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%212732&authkey=AJe5LYBeJ0hKUTA
 
 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51w2%2BckcDJL.jpg" group-title="Peliculas Viejas",Distrito 13: Adrenalina total (2004)
+http://tux-vod.dynu.com:80/peliculas/720/banlieue%2013.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91KGBseC1FL._SL1500_.jpg" group-title="Peliculas Viejas",Chicas armadas y peligrosas (2013)
+http://tux-vod.dynu.com:80/peliculas/720/the%20heat.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/01/04/02/33/2758260.jpg" group-title="Peliculas Viejas",Armados y peligrosos (2013)
+http://tux-vod.dynu.com:80/peliculas/720/2%20guns.mkv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/0a/e9/72/0ae972137b40a4fbbe8de1ab162437b2.jpg" group-title="Peliculas Viejas",Búsqueda implacable 1 (2008)
+http://tux-vod.dynu.com:80/peliculas/720/taken.mkv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/c3/49/35c3490fcdd6d038a40cc85910c68afd.jpg" group-title="Peliculas Viejas",Búsqueda implacable 2 (2012)
+http://tux-vod.dynu.com:80/peliculas/720/taken%202.mkv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d6/1b/a8/d61ba88e63b940db13f43d27ee1f831e.jpg" group-title="Peliculas Viejas",Búsqueda implacable 3 (2014)
+http://tux-vod.dynu.com:80/peliculas/720/taken%203.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/68/02/00/20531067.jpg" group-title="Peliculas Viejas",Cyborg (1989)
+http://tux-vod.dynu.com:80/peliculas/720/cyborg.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/711op1YNOOL._SY445_.jpg" group-title="Peliculas Viejas",Acción policial (2013)
+http://tux-vod.dynu.com:80/peliculas/720/police%20story.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51lnuPvjWTL._SX258_BO1,204,203,200_.jpg" group-title="Peliculas Viejas",Herbie (2005)
+http://193.34.144.178/Bryan/Peliculas/Herbie%20Fully%20Loaded%20LAT.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/07/01/16/02/123476.jpg" group-title="Peliculas Viejas",La Cueva (2014)
 http://tux-vod.dynu.com/peliculas/720/la%20cueva.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71znQe%2BMyfL._SL1055_.jpg" group-title="Peliculas Viejas",Vaya Navidades (2007)
