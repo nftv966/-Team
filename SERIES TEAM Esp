@@ -4880,6 +4880,29 @@ http://201.172.61.81:85/series/noviembre/Run%20Coyote%20Run%201%20y%202/Run%20Co
 #EXTINF:-1 tvg-logo="https://www.descargatelocorp.com/wp-content/uploads/2020/11/Run-Coyote-Run-Temporada-3-HD-720p-Latino.jpg" group-title="Run Coyote Run T3",cap. 13
 http://201.172.61.81:85/series/noviembre/Run%20Coyote%20Run%201%20y%202/Run%20Coyote%20Run%20S03/Run.Coyote.Run.S03E13.mp4
 
+####################################### Selena T1 Netflix
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Selena T1",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/10/06/16/13/5645928.jpg" group-title="Selena T1",cap. 01
+http://vods.tuxchannel.tv/series/selena_the_series/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/10/06/16/13/5645928.jpg" group-title="Selena T1",cap. 02
+http://vods.tuxchannel.tv/series/selena_the_series/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/10/06/16/13/5645928.jpg" group-title="Selena T1",cap. 03
+http://vods.tuxchannel.tv/series/selena_the_series/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/10/06/16/13/5645928.jpg" group-title="Selena T1",cap. 04
+http://vods.tuxchannel.tv/series/selena_the_series/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/10/06/16/13/5645928.jpg" group-title="Selena T1",cap. 05
+http://vods.tuxchannel.tv/series/selena_the_series/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/10/06/16/13/5645928.jpg" group-title="Selena T1",cap. 06
+http://vods.tuxchannel.tv/series/selena_the_series/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/10/06/16/13/5645928.jpg" group-title="Selena T1",cap. 07
+http://vods.tuxchannel.tv/series/selena_the_series/s_01_e_07.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/10/06/16/13/5645928.jpg" group-title="Selena T1",cap. 08
+http://vods.tuxchannel.tv/series/selena_the_series/s_01_e_08.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/10/06/16/13/5645928.jpg" group-title="Selena T1",cap. 09
+http://vods.tuxchannel.tv/series/selena_the_series/s_01_e_09.mkv
+
 ####################################### Slasher T1 Netflix
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Slasher T1",Idioma: Español
 http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
@@ -5890,3 +5913,26 @@ http://201.172.61.81:85/series/Enero/MKV%20Vis%20a%20Vis/T4/%5bPorMega.com%5dV1s
 http://201.172.61.81:85/series/Enero/MKV%20Vis%20a%20Vis/T4/%5bPorMega.com%5dV1s%204%20V1s%20Temp%2004%20Cap%2007.mp4
 #EXTINF:-1 tvg-logo="https://img.ecartelera.com/noticias/fotos/50200/50283/1.jpg" group-title="Vis a Vis T4",Cap. 08
 http://201.172.61.81:85/series/Enero/MKV%20Vis%20a%20Vis/T4/%5bPorMega.com%5dV1s%204%20V1s%20Temp%2004%20Cap%2008.mp4
+
+####################################### Wandavision DISNEY PLUS
+#EXTINF:-1 tvg-logo="https://icdn9.digitaltrends.com/image/digitaltrends_es/disney-plus-logo-streaming-topic-500x500.jpg" group-title="Wandavision",Idioma: Español
+http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#######################################
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61aIJqEruuL._AC_SX679_.jpg" group-title="Wandavision",Cap. 01
+http://vods.tuxchannel.tv/series/wandavision/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61aIJqEruuL._AC_SX679_.jpg" group-title="Wandavision",Cap. 02
+http://vods.tuxchannel.tv/series/wandavision/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61aIJqEruuL._AC_SX679_.jpg" group-title="Wandavision",Cap. 03
+http://vods.tuxchannel.tv/series/wandavision/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61aIJqEruuL._AC_SX679_.jpg" group-title="Wandavision",Cap. 04
+http://vods.tuxchannel.tv/series/wandavision/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61aIJqEruuL._AC_SX679_.jpg" group-title="Wandavision",Cap. 05
+http://vods.tuxchannel.tv/series/wandavision/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61aIJqEruuL._AC_SX679_.jpg" group-title="Wandavision",Cap. 06
+http://vods.tuxchannel.tv/series/wandavision/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61aIJqEruuL._AC_SX679_.jpg" group-title="Wandavision",Cap. 07
+http://vods.tuxchannel.tv/series/wandavision/s_01_e_07.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61aIJqEruuL._AC_SX679_.jpg" group-title="Wandavision",Cap. 08
+http://vods.tuxchannel.tv/series/wandavision/s_01_e_08.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61aIJqEruuL._AC_SX679_.jpg" group-title="Wandavision",Cap. 09
+http://vods.tuxchannel.tv/series/wandavision/s_01_e_09.mkv
