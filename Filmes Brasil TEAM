@@ -6,6 +6,8 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/r_1280_720/pictures/21/01/15/11/03/0314114.jpg" group-title="2021",Cherry: Inocencia Perdida (2021)
+http://185.148.3.146:6503/COMANDO.TO%20-%20Cherry%20-%20Inoc%C3%AAncia%20Perdida%20WEB-DL%201080p%20DUAL%205.1.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/12/02/15/57/1426320.jpg" group-title="2021",A Vida em um Ano (2021)
 http://185.148.3.146:6503/COMANDO.TO%20-%20A%20Vida%20em%20um%20Ano%202021%20720p%20DUBLADO.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/03/15/15/31/4507767.jpg" group-title="2021",Apenas Diga Sim (2021)
@@ -139,6 +141,12 @@ http://192.99.18.120/AVENTURA/COMANDO.TO%20-%20Batman.A.Alma.do.Drag%c3%a3o.WEB-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/fciMWczNCEODy1EaII34BNbHdYA.jpg" group-title="2021",Abaixo de Zero (2021)
 http://192.99.18.120/A%c3%87AO/COMANDO.TO%20-%20Abaixo%20de%20Zero%202021%201080p%205.1%20DUAL.mkv
 
+
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/10/12/08/12/1442874.jpg" group-title="2020",Bronx (2020)
+http://185.148.3.146:6503/COMANDO.TO%20-%20Bronx.1080p.WEB-DL.6CH.x264-DUAL.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71Fm0nEJ13L._SY606_.jpg" group-title="2020",Attraction 2: A Invasao (2020)
+http://185.148.3.146:6503/COMANDO.TO%20-%20Attraction.2.A.Invasao.2020.720p.BluRay.x264-DUAL.COMANDO.TO.mp4
 #EXTINF:-1 tvg-logo="http://gelkankafilmizleyelim.club/images/movies/thumbnails/tmdb_xLbuMxKORru3oTlItLBWpI5WJxR.jpg" group-title="2020",Assassinos Sadicos (2020)
 http://185.148.3.146:6503/COMANDO.TO%20-%20Assassinos.Sadicos.2020.720p.WEB-DL.H264.DUAL.mp4
 #EXTINF:-1 tvg-logo="https://images.static-bluray.com/products/20/98624_1_front.jpg" group-title="2020",O Ceu Da Meia Noite (2020)
