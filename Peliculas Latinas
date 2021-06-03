@@ -6,6 +6,14 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/cdzSomIRij1EbdetsMvRj4VQoJ8.jpg" group-title="2021",Virgen de San Juan: Cuatro Siglos de Milagros (2021)
+http://201.172.61.203:88/Peliculas/Febrero/Virgen.de.San.Juan.Cuatro.Siglos.de.Milagros.2021.WEB-DL.1080p.Latino..mkv%20-%20Google%20Drive.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/06/16/26/1138210.jpg" group-title="2021",Sin remordimientos (2021)
+http://201.172.61.203:88/Peliculas/Febrero/Tom%20Clancy-%20Sin%20remordimientos%20(2021).mp4
+#EXTINF:-1 tvg-logo="https://www.cliver.fun/movies/static/img/original/kBKKXVbVwIP81u8Bnhguux48Sdn.jpg" group-title="2021",Tentaculos (2021)
+http://201.172.61.203:88/Peliculas/Febrero/Tentacles.(2021).MP4.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81Tcdq%2B8xGL._SY606_.jpg" group-title="2021",Scooby Doo: La espada y Scooby (2021)
+http://201.172.61.203:88/Peliculas/Febrero/Scooby.Doo.The.Sword.And.The.Scoob.2021.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91TcH3HnYaL._SY445_.jpg" group-title="2021",Miedo a la lluvia (2021)
 http://201.172.61.203:88/Peliculas/Febrero/Miedo%20a%20la%20lluvia%20(2021)%20BRRip%201080p%20Latino%20www.peliculasgoogledrive.info.mkv%20-%20Google%20Drive.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/01/09/15/36/5253753.jpg" group-title="2021",Malcolm y Marie (2021)
@@ -554,6 +562,8 @@ http://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
 http://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
 
 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81p9dKwcVNL._RI_.jpg" group-title="2017",Como cortar a tu Patán (2017)
+http://201.172.61.203:88/Peliculas/Febrero/como%20cortar%20a%20tu%20patan.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/r_1280_720/pictures/18/05/19/00/23/2775813.jpg" group-title="2017",Enemigo Inmortal (2017)
 http://tux-vod.dynu.com:80/peliculas/720/enemigo%20inmortal.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/18/05/02/00/56/2910094.jpg" group-title="2017",24 horas para vivir (2017)
@@ -914,6 +924,10 @@ http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C9126
 http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%212732&authkey=AJe5LYBeJ0hKUTA
 
 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/812UGfypUaL._SL1500_.jpg" group-title="Peliculas Viejas",El consejero (2013)
+http://201.172.61.203:88/Peliculas/Febrero/Ver%20El%20consejero%20(2013)%20Online%20Latino%20HD%20-%20Pelisplus.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/11/17/19/05/2112545.jpg" group-title="Peliculas Viejas",Desafío total (1990)
+http://201.172.61.203:88/Peliculas/Febrero/Total.Recall.1990.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91LERpGE7HL._AC_SY679_.jpg" group-title="Peliculas Viejas",Robocop (2014)
 http://201.172.61.203:88/Peliculas/Febrero/Robocop4.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/13/12/48/059033.jpg" group-title="Peliculas Viejas",Querida Agrande Al Bebe (1992)
