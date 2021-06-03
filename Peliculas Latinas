@@ -6,6 +6,18 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/21/11/08/5393301.jpg" group-title="2021",Cruella (2021)
+http://201.172.61.203:88/Peliculas/mkv/Ver%20Cruella%20(2021)%20Online%20Latino%20HD%20-%20Pelisplus.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/21/05/11/09/08/5627374.jpg" group-title="2021",Oslo (2021)
+http://201.172.61.203:88/Peliculas/mkv/Oslo%20(2021)%201080p%20AMZN%20WEB-DL%20Latino.mkv%20-%20Google%20Drive.mp4
+#EXTINF:-1 tvg-logo="https://images.static-bluray.com/movies/uvcovers/42303_large.jpg" group-title="2021",Medicina Mortal (2021)
+http://201.172.61.203:88/Peliculas/mkv/Medicina%20Mortal%20(2021)%20HD%201080P%20Latino.mkv%20-%20Google%20Drive.mp4
+#EXTINF:-1 tvg-logo="https://images.redbox.com/Images/EPC/boxArtVertical/212335.jpg" group-title="2021",Especies en Peligro de Extincion (2021)
+http://201.172.61.203:88/Peliculas/mkv/Endangered.Species.2021.BRRip.1080p.LatinoNET.PGD..mkv%20-%20Google%20Drive.mp4
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/abandomedia/db/poster/db_posters_51846.jpg" group-title="2021",El Experimento Fantasma (2021)
+http://201.172.61.203:88/Peliculas/mkv/El%20Experimento%20Fantasma%20(2021)%20HD%201080P%20Dual%20Audio.mkv%20-%20Google%20Drive.mp4
+#EXTINF:-1 tvg-logo="https://news.newonnetflix.info/wp-content/uploads/2021/04/blue-miracle-poster.jpeg" group-title="2021",Milagro Azul (2021)
+http://201.172.61.203:88/Peliculas/mkv/Blue%20Miracle%20(2021)%20HD%20720P%20Dual%20Audio.mkv%20-%20Google%20Drive.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/cdzSomIRij1EbdetsMvRj4VQoJ8.jpg" group-title="2021",Virgen de San Juan: Cuatro Siglos de Milagros (2021)
 http://201.172.61.203:88/Peliculas/Febrero/Virgen.de.San.Juan.Cuatro.Siglos.de.Milagros.2021.WEB-DL.1080p.Latino..mkv%20-%20Google%20Drive.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/06/16/26/1138210.jpg" group-title="2021",Sin remordimientos (2021)
@@ -444,6 +456,8 @@ http://vod.tuxchannel.tv/peliculas/720/half%20brothers%202020.mkv
 http://vod.tuxchannel.tv/peliculas/720/wszyscy%20moi%20przyjaciele%20nie%20zyja%202020.mkv
 
 
+#EXTINF:-1 tvg-logo="https://www.mixup.com.mx/Mixup/ImgMixup/Mixup_big/7506036096053.jpg" group-title="2019",No Manches Frida 2 (2019)
+http://201.172.61.203:88/Peliculas/mkv/Ver%20No%20Manches%20Frida%202%20(2019)%20Online%20Latino%20HD%20-%20Pelisplus.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/19/08/16/18/51/5355313.jpg" group-title="2019",Agente bajo fuego (2019)
 http://tux-vod.dynu.com:80/peliculas/720/angel%20has%20fallen%202019.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71-ErP0t7-L._SL1200_.jpg" group-title="2019",Cold Blood: A sangre fria (2019)
@@ -751,6 +765,8 @@ http://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
 #EXTINF:-1 tvg-logo="http://destinoarrakis.com/wp-content/uploads/2017/10/tragedy-girls-1.jpg" group-title="2017",Tragedy Girls (2017)
 http://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
 
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/16/08/10/11/08/043634.jpg" group-title="2016",No manches Frida (2016)
+http://201.172.61.203:88/Peliculas/mkv/Ver%20No%20manches%20Frida%20(2016)%20Online%20Latino%20HD%20-%20Pelisplus.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5f/f7/79/5ff779edfdea81e3b2e7592aaf5073a6.jpg" group-title="2016",Ben-Hur (2016)
 http://201.172.61.203:88/Peliculas/Febrero/Ben-Hur%202016%20HD%20%5b1080p%5d%20Latino.mkv%20-%20Google%20Drive.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81O7-q3fD8L._SX342_.jpg" group-title="2016",Reina de Katwe (2016)
