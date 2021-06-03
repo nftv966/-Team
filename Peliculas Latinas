@@ -104,6 +104,18 @@ http://vod.tuxchannel.tv:80/peliculas/720/subtituladas/boss%20level%202021%20sub
 http://vod.tuxchannel.tv/peliculas/720/subtituladas/wrong%20turn%202021%20sub.mkv
 
 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/815gUZRMz+S._RI_.jpg" group-title="2020",El robo del Siglo (2020)
+http://201.172.61.81:85/peliculas/octubre/*el%20robo%20del%20siglo.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/21/03/04/23/25/3620262.jpg" group-title="2020",Clark Sisters: Las hermanas del Gospel (2020)
+http://201.172.61.81:85/peliculas/octubre/*The.Clark.Sisters.2020.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/f5/f9/b4/f5f9b4c5ba031a670b5fc0c4d33b39e7.jpg" group-title="2020",Becoming: Mi Historia (2020)
+http://201.172.61.81:85/peliculas/octubre/*Becoming.2020.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61PhHmaKr6L._SY445_.jpg" group-title="2020",Una Noche Larga (2020)
+http://201.172.61.81:85/peliculas/octubre/*Una.Noche.Larga.2020.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81mSCr4daxL._UR1200,1600_RI_.jpg" group-title="2020",Veinteañera, divorciada y fantastica (2020)
+http://201.172.61.81:85/peliculas/octubre/*Veintea%c3%b1era,%20divorciada%20y%20fant%c3%a1stica%20(2020).mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/04/22/08/16/5968524.jpg" group-title="2020",Todo El dia Y Una Noche (2020)
+http://201.172.61.81:85/peliculas/octubre/*Todo.el.Da.y.una.Noche.2020.NF.mp4
 #EXTINF:-1 tvg-logo="https://images.moviefit.me/t/o/415825-under-the-riccione-sun.jpg" group-title="2020",Bajo el sol de Riccione (2020)
 http://201.172.61.81:85/peliculas/octubre/*Under.the.Riccione.Sun.2020.NF.mp4
 #EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/abandomedia/indie/poster/db_posters_41602.jpg" group-title="2020",Viena y los Fantomes (2020)
@@ -228,7 +240,7 @@ http://201.172.61.81:85/peliculas/octubre/*El.Atrapasueos.2020.AMZN.mp4
 http://201.172.61.81:85/peliculas/octubre/*Dragonheart.Vengeance.2020.mp4
 #EXTINF:-1 tvg-logo="https://cdn.traileraddict.com/content/netflix/desperados-poster.jpg" group-title="2020",Desperados (2020)
 http://201.172.61.81:85/peliculas/octubre/*Desperados.2020.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/95/35/a9/9535a98187976aa6b6bd5b252cd3fedf.jpg" group-title="2020",Los hombres no lloran (2020)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/95/35/a9/9535a98187976aa6b6bd5b252cd3fedf.jpg" group-title="2020",Cosas de hombres (2020)
 http://201.172.61.81:85/peliculas/octubre/*Cosas.de.Hombres.2020.mp4
 #EXTINF:-1 tvg-logo="https://i.gadgets360cdn.com/large/Bulbbul_Vertical_Main_RGB_PRE_1591766949316.jpg" group-title="2020",Bulbbul (2020)
 http://201.172.61.81:85/peliculas/octubre/*Bulbbul.2020.mp4
@@ -812,6 +824,8 @@ http://ia801603.us.archive.org/20/items/24052017Aqc789423784723984/24052017_aqc.
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg" group-title="2016",Deadpool (2016)
 http://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91LQQf4-znL._AC_SL1500_.jpg" group-title="2015",Dragonheart 3: La maldición del brujo (2015)
+http://201.172.61.81:85/peliculas/octubre/*Dragonheart%203%20The%20Sorcerer's%20Curse%20(2015).mp4
 #EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_817575-MLA27180769592_042018-O.jpg" group-title="2015",Jugada Salvaje (2015)
 http://mataocio-cdn-7.mataocio-cdn7.workers.dev/Pack%25202/Jugada%2520salvaje%2520-%2520Wild%2520card%2520-%25202015.mp4
 #EXTINF:-1 tvg-logo="https://goshopmobility.org.uk/wp-content/uploads/2019/12/dragonheart-3-the-sorcerers-curse.jpg" group-title="2015",Dragonheart 3 (2015)
