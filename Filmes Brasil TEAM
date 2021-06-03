@@ -5,7 +5,7 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 #EXTINF:-1 tvg-logo="https://www.lifeder.com/wp-content/uploads/2016/07/pel%C3%ADculas-recomendadas.jpg" group-title="FILMES GRATIS",FILMES GRATIS
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
-
+4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/10/23/11/30/0053083.jpg" group-title="2021",Relatos do Mundo (2021)
 http://185.148.3.146:6503/Relatos_do_Mundo.2021.1080p.WEB-DL.x264.5.1.DUAL.COMANDO.TO.mp4
 #EXTINF:-1 tvg-logo="https://elifilms.net/wp-content/uploads/2021/02/Punto-rojo-2021.jpg" group-title="2021",Ponto Vermelho (2021)
@@ -400,6 +400,8 @@ http://192.99.18.120/FANTASIA/COMANDO.TO%20-%20Mulan.2020.720p.WEBRip.x264-DUAL.
 http://www.iiss.com.br/downloads/Filmes/Mulan.2020/Mulan.2020.mkv
 
 
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/18/12/19/19/48/4177869.jpg" group-title="2019",Tito e os Passaros (2019)
+http://185.148.3.146:6503/Tito.e.os.Passaros.2019.720p.WEB-DL.x264.NACIONAL.WWW.COMANDOTORRENTS.COM.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81y0%2BeGuE%2BL._AC_SY500_.jpg" group-title="2019",Terra dos Bravos (2019)
 http://185.148.3.146:6503/Terra.dos.Bravos.2019.1080p.BluRay.x264.DUAL-COMANDO.TO.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51UO7dxe0-L.jpg" group-title="2019",Terapia de casais para Amantes (2019)
@@ -1004,6 +1006,10 @@ http://lh3.googleusercontent.com/G3oNS_j5Z14iqV8476SVw39lBm5JJlhdGnQEaOk7G5xh28I
 http://lh3.googleusercontent.com/_ZTxRYYtedbTL17OyCkINVg8r6EgxqraZz8yvB28iRODQ1qGBrIIj9TH_UawePWQ6V5kJeCBlcIy3yeZx1NNTmSSquhDv1gEmfu5dxPwm5H2VFPyafaiDYn835UGKcaI6aJ1LMBC-A=m22
 
 
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/18/08/25/01/10/2844364.jpg" group-title="2018",Timber e Mickey: Amigos Especiais (2018)
+http://185.148.3.146:6503/Timber.e.Mickey.Amigos.Especiais.2018.DVDRip.XViD.DUAL.WWW.COMANDOTORRENTS.COM.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/09/19/11/03/357328.jpg" group-title="2018",Tiger (2018)
+http://185.148.3.146:6503/Tiger.2018.720p.WEB-DL.%205.1.x264.DUAL.WWW.COMANDOTORRENTS.COM.mp4
 #EXTINF:-1 tvg-logo="https://mibih.files.wordpress.com/2018/10/damascus_time.jpg" group-title="2018",Terror na Siria (2018)
 http://185.148.3.146:6503/Terror.na.Siria.2018.1080p.WEB-DL.5.1.DUAL.COMANDO.TO.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/03/23/09/33/4671476.jpg" group-title="2018",SuperFly (2018)
