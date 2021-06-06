@@ -4811,6 +4811,23 @@ http://vods.tuxchannel.tv/series/selena_the_series/s_01_e_08.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/10/06/16/13/5645928.jpg" group-title="Selena T1",cap. 09
 http://vods.tuxchannel.tv/series/selena_the_series/s_01_e_09.mkv
 
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/r_1280_720/pictures/21/03/12/14/02/4863679.jpg" group-title="Sky Rojo T1",Cap. 01
+http://201.172.61.203:88/Series/1%20Marzo%20Abril/SKY%20ROJO/01.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/r_1280_720/pictures/21/03/12/14/02/4863679.jpg" group-title="Sky Rojo T1",Cap. 02
+http://201.172.61.203:88/Series/1%20Marzo%20Abril/SKY%20ROJO/02.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/r_1280_720/pictures/21/03/12/14/02/4863679.jpg" group-title="Sky Rojo T1",Cap. 03
+http://201.172.61.203:88/Series/1%20Marzo%20Abril/SKY%20ROJO/03.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/r_1280_720/pictures/21/03/12/14/02/4863679.jpg" group-title="Sky Rojo T1",Cap. 04
+http://201.172.61.203:88/Series/1%20Marzo%20Abril/SKY%20ROJO/04.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/r_1280_720/pictures/21/03/12/14/02/4863679.jpg" group-title="Sky Rojo T1",Cap. 05
+http://201.172.61.203:88/Series/1%20Marzo%20Abril/SKY%20ROJO/05.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/r_1280_720/pictures/21/03/12/14/02/4863679.jpg" group-title="Sky Rojo T1",Cap. 06
+http://201.172.61.203:88/Series/1%20Marzo%20Abril/SKY%20ROJO/06.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/r_1280_720/pictures/21/03/12/14/02/4863679.jpg" group-title="Sky Rojo T1",Cap. 07
+http://201.172.61.203:88/Series/1%20Marzo%20Abril/SKY%20ROJO/07.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/r_1280_720/pictures/21/03/12/14/02/4863679.jpg" group-title="Sky Rojo T1",Cap. 08
+http://201.172.61.203:88/Series/1%20Marzo%20Abril/SKY%20ROJO/08.mp4
+
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/19/05/27/14/24/5510834.jpg" group-title="Slasher T1",Cap. 01
 http://201.172.61.81:85/series/Enero/MKV%20Slasher/T1/%5bPorMega.com%5dSl4sh3r%20Temp%2001%20Cap%2001.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/19/05/27/14/24/5510834.jpg" group-title="Slasher T1",Cap. 02
