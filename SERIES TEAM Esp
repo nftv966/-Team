@@ -6,10 +6,6 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
-####################################### 50m2 Netflix
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="50m2",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/01/08/15/18/3424802.jpg" group-title="50m2",Cap. 01
 http://201.172.61.203:88/Series/1%20FEBRERO/50M2%20S01/50M2%20S01/50.M2.S01E01%20.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/01/08/15/18/3424802.jpg" group-title="50m2",Cap. 02
@@ -27,10 +23,6 @@ http://201.172.61.203:88/Series/1%20FEBRERO/50M2%20S01/50M2%20S01/50.M2.S01E07%2
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/01/08/15/18/3424802.jpg" group-title="50m2",Cap. 08
 http://201.172.61.203:88/Series/1%20FEBRERO/50M2%20S01/50M2%20S01/50.M2.S01E08%20.mp4
 
-####################################### Abismo de pasión TELEVISA
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/1666849.png" group-title="Abismo de pasión",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/14/11/17/09/56/520866.jpg" group-title="Abismo de pasión",Cap. 001
 http://201.172.61.81:85/series/Novelas/ABISMO%20DE%20PASI%c3%93N/ABISMO%20DE%20PASION%20-%2001.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/14/11/17/09/56/520866.jpg" group-title="Abismo de pasión",Cap. 002
@@ -356,10 +348,6 @@ http://201.172.61.81:85/series/Novelas/ABISMO%20DE%20PASI%c3%93N/ABISMO%20DE%20P
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/14/11/17/09/56/520866.jpg" group-title="Abismo de pasión",Cap. 162
 http://201.172.61.81:85/series/Novelas/ABISMO%20DE%20PASI%c3%93N/ABISMO%20DE%20PASION%20-%20162.mp4
 
-####################################### Alguien tiene que morir Netflix
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Alguien tiene que morir",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/20/09/09/16/04/2781600.jpg" group-title="Alguien tiene que morir",Cap. 01
 http://201.172.61.81:85/series/noviembre/Alguien%20tiene%20que%20Morir/Someone.Has.to.Die.S01E01.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/20/09/09/16/04/2781600.jpg" group-title="Alguien tiene que morir",Cap. 02
@@ -367,10 +355,6 @@ http://201.172.61.81:85/series/noviembre/Alguien%20tiene%20que%20Morir/Someone.H
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/20/09/09/16/04/2781600.jpg" group-title="Alguien tiene que morir",Cap. 03
 http://201.172.61.81:85/series/noviembre/Alguien%20tiene%20que%20Morir/Someone.Has.to.Die.S01E03.mp4
 
-####################################### Amor y Anarquía Netflix
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Amor y Anarquía",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/20/11/04/09/04/0691675.jpg" group-title="Amor y Anarquía",Cap. 01
 http://201.172.61.81:85/series/noviembre/Love%20and%20Anarchy/Love.and.Anarchy%20-%20s01e01.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/20/11/04/09/04/0691675.jpg" group-title="Amor y Anarquía",Cap. 02
@@ -388,10 +372,6 @@ http://201.172.61.81:85/series/noviembre/Love%20and%20Anarchy/Love.and.Anarchy%2
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/20/11/04/09/04/0691675.jpg" group-title="Amor y Anarquía",Cap. 08
 http://201.172.61.81:85/series/noviembre/Love%20and%20Anarchy/Love.and.Anarchy%20-%20s01e08.mp4
 
-####################################### Anne con E T1 NETFLIX
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Anne con E T1",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71ONqrPLU6L._SL1500_.jpg" group-title="Anne con E T1",cap. 01
 http://201.172.61.81:85/series/Novelas/Anne/season%201/S01E01.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71ONqrPLU6L._SL1500_.jpg" group-title="Anne con E T1",cap. 02
@@ -407,10 +387,6 @@ http://201.172.61.81:85/series/Novelas/Anne/season%201/S01E06.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71ONqrPLU6L._SL1500_.jpg" group-title="Anne con E T1",cap. 07
 http://201.172.61.81:85/series/Novelas/Anne/season%201/S01E07.mkv
 
-####################################### Anne con E T2 NETFLIX
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Anne con E T2",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71ANLc3yJ-L._SL1500_.jpg" group-title="Anne con E T2",cap. 01
 http://201.172.61.81:85/series/Novelas/Anne/season%202/S02E01.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71ANLc3yJ-L._SL1500_.jpg" group-title="Anne con E T2",cap. 02
@@ -432,10 +408,6 @@ http://201.172.61.81:85/series/Novelas/Anne/season%202/S02E09.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71ANLc3yJ-L._SL1500_.jpg" group-title="Anne con E T2",cap. 10
 http://201.172.61.81:85/series/Novelas/Anne/season%202/S02E10.mkv
 
-####################################### Anne con E T3 NETFLIX
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Anne con E T3",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71p%2BN6qEGBL._SL1500_.jpg" group-title="Anne con E T3",cap. 01
 http://201.172.61.81:85/series/Novelas/Anne/season%203/S03E01.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71p%2BN6qEGBL._SL1500_.jpg" group-title="Anne con E T3",cap. 02
@@ -457,10 +429,6 @@ http://201.172.61.81:85/series/Novelas/Anne/season%203/S03E09.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71p%2BN6qEGBL._SL1500_.jpg" group-title="Anne con E T3",cap. 10
 http://201.172.61.81:85/series/Novelas/Anne/season%203/S03E10.mkv
 
-####################################### Antidisturbios Movistar Plus
-#EXTINF:-1 tvg-logo="https://www.bolsamania.com/seriesadictos/wp-content/uploads/2018/03/1200px-Movistar-.svg_.png" group-title="Antidisturbios",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2100/2186/2_m3.jpg" group-title="Antidisturbios",Cap. 01
 http://201.172.61.81:85/series/noviembre/Antidisturbios/Antidisturbios.720.LatinoS01E01.mp4
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2100/2186/2_m3.jpg" group-title="Antidisturbios",Cap. 02
@@ -474,10 +442,6 @@ http://201.172.61.81:85/series/noviembre/Antidisturbios/Antidisturbios.720.Latin
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2100/2186/2_m3.jpg" group-title="Antidisturbios",Cap. 06
 http://201.172.61.81:85/series/noviembre/Antidisturbios/Antidisturbios.720.LatinoS01E06.mp4
 
-####################################### A Suitable Boy Netflix
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="A Suitable Boy",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51IB7ZAnW7L.jpg" group-title="A Suitable Boy",Cap. 01
 http://201.172.61.81:85/series/noviembre/a%20suitable%20boy/A.Suitable.Boy%20-%20s01e01.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51IB7ZAnW7L.jpg" group-title="A Suitable Boy",Cap. 02
@@ -491,10 +455,6 @@ http://201.172.61.81:85/series/noviembre/a%20suitable%20boy/A.Suitable.Boy%20-%2
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51IB7ZAnW7L.jpg" group-title="A Suitable Boy",Cap. 06
 http://201.172.61.81:85/series/noviembre/a%20suitable%20boy/A.Suitable.Boy%20-%20s01e06.mp4
 
-####################################### Band Of Brothers HBO GO
-#EXTINF:-1 tvg-logo="https://cdn.iconscout.com/icon/free/png-512/hbo-go-2-569347.png" group-title="Band Of Brothers",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61Xj0bztIQL._AC_SL1050_.jpg" group-title="Band Of Brothers",cap. 01
 http://201.172.61.81:85/series/noviembre/BandOfBrothers/Band%20Of%20Brothers%20-%20s01e01.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61Xj0bztIQL._AC_SL1050_.jpg" group-title="Band Of Brothers",cap. 02
@@ -518,10 +478,6 @@ http://201.172.61.81:85/series/noviembre/BandOfBrothers/Band%20Of%20Brothers%20-
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61Xj0bztIQL._AC_SL1050_.jpg" group-title="Band Of Brothers",cap. 11
 http://201.172.61.81:85/series/noviembre/BandOfBrothers/Band%20Of%20Brothers%20-%20s01e11.mp4
 
-####################################### Blood of Zeus Netflix
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Blood of Zeus",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://img.repelis.id/cover/sangre-de-zeus.png" group-title="Blood of Zeus",Cap. 01
 http://201.172.61.81:85/series/noviembre/Blood%20of%20Zeus/Blood.of.Zeus%20-%20s01e01.mp4
 #EXTINF:-1 tvg-logo="https://img.repelis.id/cover/sangre-de-zeus.png" group-title="Blood of Zeus",Cap. 02
@@ -539,10 +495,6 @@ http://201.172.61.81:85/series/noviembre/Blood%20of%20Zeus/Blood.of.Zeus%20-%20s
 #EXTINF:-1 tvg-logo="https://img.repelis.id/cover/sangre-de-zeus.png" group-title="Blood of Zeus",Cap. 08
 http://201.172.61.81:85/series/noviembre/Blood%20of%20Zeus/Blood.of.Zeus%20-%20s01e08.mp4
 
-####################################### Bronco TNT
-#EXTINF:-1 tvg-logo="https://blog.canaltnt.es/wp-content/themes/simple-bootstrap-child/images/logo.png" group-title="Bronco",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/19/11/19/06/59/2800363.jpg" group-title="Bronco",Cap. 01
 http://201.172.61.81:85/series/Novelas/Bronco/1.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/19/11/19/06/59/2800363.jpg" group-title="Bronco",Cap. 02
@@ -570,10 +522,6 @@ http://201.172.61.81:85/series/Novelas/Bronco/12.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/19/11/19/06/59/2800363.jpg" group-title="Bronco",Cap. 13
 http://201.172.61.81:85/series/Novelas/Bronco/13.mkv
 
-####################################### Carmel ¿Quién mató a María Marta? Netflix
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Carmel ¿Quién mató a María Marta?",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/20/10/30/17/48/0303179.jpg" group-title="Carmel ¿Quién mató a María Marta?",Cap. 01
 http://201.172.61.81:85/series/noviembre/Carmel%20%20%c2%bfQui%c3%a9n%20mat%c3%b3%20a%20Mar%c3%ada%20Marta/Carmel_%20%c2%bfQui%c3%a9n%20mat%c3%b3%20a%20Mar%c3%ada%20Marta.(2020).720.Latino.S01E01.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/20/10/30/17/48/0303179.jpg" group-title="Carmel ¿Quién mató a María Marta?",Cap. 02
@@ -583,10 +531,6 @@ http://201.172.61.81:85/series/noviembre/Carmel%20%20%c2%bfQui%c3%a9n%20mat%c3%b
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/20/10/30/17/48/0303179.jpg" group-title="Carmel ¿Quién mató a María Marta?",Cap. 04
 http://201.172.61.81:85/series/noviembre/Carmel%20%20%c2%bfQui%c3%a9n%20mat%c3%b3%20a%20Mar%c3%ada%20Marta/Carmel_%20%c2%bfQui%c3%a9n%20mat%c3%b3%20a%20Mar%c3%ada%20Marta.(2020).720.Latino.S01E04.mp4
 
-####################################### Castle Rock T1 HULU
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/09/hulu-logo.png" group-title="Castle Rock T1",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1593/2_m1.jpg" group-title="Castle Rock T1",cap. 01
 http://201.172.61.81:85/series/noviembre/Castle%20Rock/Castle.Rock.S01E01.mp4
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1593/2_m1.jpg" group-title="Castle Rock T1",cap. 02
@@ -608,10 +552,6 @@ http://201.172.61.81:85/series/noviembre/Castle%20Rock/Castle.Rock.S01E09.mp4
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1593/2_m1.jpg" group-title="Castle Rock T1",cap. 10
 http://201.172.61.81:85/series/noviembre/Castle%20Rock/Castle.Rock.S01E10.mp4
 
-####################################### Chernobyl HBO GO
-#EXTINF:-1 tvg-logo="https://cdn.iconscout.com/icon/free/png-512/hbo-go-2-569347.png" group-title="Chernobyl",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51C3CuyVj6L._AC_SY355_.jpg" group-title="Chernobyl",cap. 01
 http://201.172.61.81:85/series/Enero/Chernobyl/01.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51C3CuyVj6L._AC_SY355_.jpg" group-title="Chernobyl",cap. 02
@@ -623,10 +563,6 @@ http://201.172.61.81:85/series/Enero/Chernobyl/04.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51C3CuyVj6L._AC_SY355_.jpg" group-title="Chernobyl",cap. 05
 http://201.172.61.81:85/series/Enero/Chernobyl/05.mp4
 
-####################################### Ciudad Invisible Netflix
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Ciudad Invisible",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/01/20/17/31/5372090.jpg" group-title="Ciudad Invisible",Cap. 01
 http://201.172.61.203:88/Series/1%20FEBRERO/Ciudad%20Invisible%20(2021)%20T01%20www%20peliculasgoogledrive%20info/01.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/01/20/17/31/5372090.jpg" group-title="Ciudad Invisible",Cap. 02
@@ -642,10 +578,6 @@ http://201.172.61.203:88/Series/1%20FEBRERO/Ciudad%20Invisible%20(2021)%20T01%20
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/01/20/17/31/5372090.jpg" group-title="Ciudad Invisible",Cap. 07
 http://201.172.61.203:88/Series/1%20FEBRERO/Ciudad%20Invisible%20(2021)%20T01%20www%20peliculasgoogledrive%20info/07.mp4
 
-####################################### Continuum T1 SHOWCASE
-#EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2019/05/28141835/logos_tv_may2019_showcase.png" group-title="Continuum T1",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/14/03/04/09/32/226854.jpg" group-title="Continuum T1",Cap. 01
 http://201.172.61.81:85/series/Enero/Contium/T1/01.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/14/03/04/09/32/226854.jpg" group-title="Continuum T1",Cap. 02
@@ -667,10 +599,6 @@ http://201.172.61.81:85/series/Enero/Contium/T1/09.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/14/03/04/09/32/226854.jpg" group-title="Continuum T1",Cap. 10
 http://201.172.61.81:85/series/Enero/Contium/T1/10.mp4
 
-####################################### Continuum T2 SHOWCASE
-#EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2019/05/28141835/logos_tv_may2019_showcase.png" group-title="Continuum T2",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91BvR8%2BzslL._SY500_.jpg" group-title="Continuum T2",Cap. 01
 http://201.172.61.81:85/series/Enero/Contium/T2/01.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91BvR8%2BzslL._SY500_.jpg" group-title="Continuum T2",Cap. 02
@@ -698,10 +626,6 @@ http://201.172.61.81:85/series/Enero/Contium/T2/12.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91BvR8%2BzslL._SY500_.jpg" group-title="Continuum T2",Cap. 13
 http://201.172.61.81:85/series/Enero/Contium/T2/13.mp4
 
-####################################### Continuum T3 SHOWCASE
-#EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2019/05/28141835/logos_tv_may2019_showcase.png" group-title="Continuum T3",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/713c%2BQWJ1SL._SY445_.jpg" group-title="Continuum T3",Cap. 01
 http://201.172.61.81:85/series/Enero/Contium/T3/01.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/713c%2BQWJ1SL._SY445_.jpg" group-title="Continuum T3",Cap. 02
@@ -729,10 +653,6 @@ http://201.172.61.81:85/series/Enero/Contium/T3/12.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/713c%2BQWJ1SL._SY445_.jpg" group-title="Continuum T3",Cap. 13
 http://201.172.61.81:85/series/Enero/Contium/T3/13.mp4
 
-####################################### Continuum T4 SHOWCASE
-#EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2019/05/28141835/logos_tv_may2019_showcase.png" group-title="Continuum T4",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51mSK8YEPCL.jpg" group-title="Continuum T4",Cap. 01
 http://201.172.61.81:85/series/Enero/Contium/T4/01.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51mSK8YEPCL.jpg" group-title="Continuum T4",Cap. 02
@@ -746,10 +666,6 @@ http://201.172.61.81:85/series/Enero/Contium/T4/05.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51mSK8YEPCL.jpg" group-title="Continuum T4",Cap. 06
 http://201.172.61.81:85/series/Enero/Contium/T4/06.mp4
 
-####################################### Country Ever After Netflix
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Country Ever After",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://img.reelgood.com/content/show/218ad968-1ba2-4f50-944a-5aca2590a6c5/poster-780.jpg" group-title="Country Ever After",Cap. 01
 http://201.172.61.81:85/series/Enero/cOUNTRY%20eVER%20aFTER/Country%20Ever%20After..720.Latino.S01E01.mp4
 #EXTINF:-1 tvg-logo="https://img.reelgood.com/content/show/218ad968-1ba2-4f50-944a-5aca2590a6c5/poster-780.jpg" group-title="Country Ever After",Cap. 02
@@ -775,10 +691,6 @@ http://201.172.61.81:85/series/Enero/cOUNTRY%20eVER%20aFTER/Country%20Ever%20Aft
 #EXTINF:-1 tvg-logo="https://img.reelgood.com/content/show/218ad968-1ba2-4f50-944a-5aca2590a6c5/poster-780.jpg" group-title="Country Ever After",Cap. 12
 http://201.172.61.81:85/series/Enero/cOUNTRY%20eVER%20aFTER/Country%20Ever%20After..720.Latino.S01E12.mp4
 
-####################################### Daredevil T1 NETFLIX
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Daredevil T1",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1000/1006/2_m3.jpg" group-title="Daredevil T1",cap. 01
 http://193.34.144.178/Bryan/series/daredevil/Ver%20Cap%c3%adtulo%201%20de%20Daredevil%20Temporada%201%20Online%20Latino%20HD,%20Castellano%20y%20Subtitulado%20-%20PELISPLUS.mp4
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1000/1006/2_m3.jpg" group-title="Daredevil T1",cap. 02
@@ -806,10 +718,6 @@ http://193.34.144.178/Bryan/series/daredevil/Ver%20Daredevil%201x12%20online%20e
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1000/1006/2_m3.jpg" group-title="Daredevil T1",cap. 13
 http://193.34.144.178/Bryan/series/daredevil/Watch%20marvels%20daredevil%20s01e13%20lat%20hdtv%20mkv.mp4
 
-####################################### Daredevil T2 NETFLIX
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Daredevil T2",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://terrigen-cdn-dev.marvel.com/content/prod/1x/daredevil_lob_crd_02.jpg" group-title="Daredevil T2",cap. 01
 http://193.34.144.178/Bryan/series/daredevil/Ver%20Daredevil%202x1%20online%20en%20castellano%20latino%20subtitulado%20espa%c3%b1ol%20temporada%202%20episodio%201%20Daredevil%20castellano%20latino%20subtitulado%20-%20HDFull.tv.mp4
 #EXTINF:-1 tvg-logo="https://terrigen-cdn-dev.marvel.com/content/prod/1x/daredevil_lob_crd_02.jpg" group-title="Daredevil T2",cap. 02
@@ -835,10 +743,6 @@ http://193.34.144.178/Bryan/series/daredevil/Watch%20Daradevil%20Lat%202x11%20la
 #EXTINF:-1 tvg-logo="https://terrigen-cdn-dev.marvel.com/content/prod/1x/daredevil_lob_crd_02.jpg" group-title="Daredevil T2",cap. 13
 http://193.34.144.178/Bryan/series/daredevil/Ver%20Daredevil%202x13%20online%20en%20castellano%20latino%20subtitulado%20espa%c3%b1ol%20temporada%202%20episodio%2013%20Daredevil%20castellano%20latino%20subtitulado%20-%20HDFull.tv.mp4
 
-####################################### De brutas nada T1 Amazon Prime
-#EXTINF:-1 tvg-logo="https://www.pdvg.it/wp-content/uploads/2020/02/amazon-prime-video-pdvg.png" group-title="De brutas nada T1",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://www.compucalitv.com/wp-content/uploads/2020/11/De-Brutas-Nada-Temporada-1-2020-HD-720p-Latino-Portada.jpg" group-title="De brutas nada T1",cap. 01
 http://201.172.61.81:85/series/noviembre/De%20brutas%20nada%202020/De%20brutas%20nada%20-%20s01e01.mp4
 #EXTINF:-1 tvg-logo="https://www.compucalitv.com/wp-content/uploads/2020/11/De-Brutas-Nada-Temporada-1-2020-HD-720p-Latino-Portada.jpg" group-title="De brutas nada T1",cap. 02
@@ -858,10 +762,6 @@ http://201.172.61.81:85/series/noviembre/De%20brutas%20nada%202020/De%20brutas%2
 #EXTINF:-1 tvg-logo="https://www.compucalitv.com/wp-content/uploads/2020/11/De-Brutas-Nada-Temporada-1-2020-HD-720p-Latino-Portada.jpg" group-title="De brutas nada T1",cap. 09
 http://201.172.61.81:85/series/noviembre/De%20brutas%20nada%202020/De%20brutas%20nada%20-%20s01e09.mp4
 
-####################################### Destino: La Saga Winx Netflix
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Destino: La Saga Winx",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/01/22/10/57/0411816.jpg" group-title="Destino: La Saga Winx",Cap. 01
 http://201.172.61.203:88/Series/1%20FEBRERO/Destino,%20La%20Saga%20Winx%20(2021)%20T01%20www%20peliculasgoogledrive%20info/Destino,%20La%20Saga%20Winx%20(2021)%20www.peliculasgoogledrive.info/01.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/01/22/10/57/0411816.jpg" group-title="Destino: La Saga Winx",Cap. 02
@@ -875,10 +775,6 @@ http://201.172.61.203:88/Series/1%20FEBRERO/Destino,%20La%20Saga%20Winx%20(2021)
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/01/22/10/57/0411816.jpg" group-title="Destino: La Saga Winx",Cap. 06
 http://201.172.61.203:88/Series/1%20FEBRERO/Destino,%20La%20Saga%20Winx%20(2021)%20T01%20www%20peliculasgoogledrive%20info/Destino,%20La%20Saga%20Winx%20(2021)%20www.peliculasgoogledrive.info/06.mp4
 
-####################################### Dope T1 Netflix
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Dope T1",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/18/03/22/10/08/4580729.jpg" group-title="Dope T1",Cap. 01
 http://201.172.61.81:85/series/Novelas/Dope/season%201/Dope%20-%20s01e01.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/18/03/22/10/08/4580729.jpg" group-title="Dope T1",Cap. 02
@@ -888,10 +784,6 @@ http://201.172.61.81:85/series/Novelas/Dope/season%201/Dope%20-%20s01e03.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/18/03/22/10/08/4580729.jpg" group-title="Dope T1",Cap. 04
 http://201.172.61.81:85/series/Novelas/Dope/season%201/Dope%20-%20s01e04.mp4
 
-####################################### Dope T2 Netflix
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Dope T2",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://www.compudescarga.com/wp-content/uploads/2018/06/dope-temporada-2-completa-hd-720p-latino-dual-portada.jpg" group-title="Dope T2",Cap. 01
 http://201.172.61.81:85/series/Novelas/Dope/season%202/Dope%20-%20s02e01.mp4
 #EXTINF:-1 tvg-logo="https://www.compudescarga.com/wp-content/uploads/2018/06/dope-temporada-2-completa-hd-720p-latino-dual-portada.jpg" group-title="Dope T2",Cap. 02
@@ -901,10 +793,6 @@ http://201.172.61.81:85/series/Novelas/Dope/season%202/Dope%20-%20s02e03.mp4
 #EXTINF:-1 tvg-logo="https://www.compudescarga.com/wp-content/uploads/2018/06/dope-temporada-2-completa-hd-720p-latino-dual-portada.jpg" group-title="Dope T2",Cap. 04
 http://201.172.61.81:85/series/Novelas/Dope/season%202/Dope%20-%20s02e04.mp4
 
-####################################### Dope T3 Netflix
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Dope T3",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://www.divxtotal.in/wp-content/uploads/2019/07/dope-AZ8ik5Il7Q.png" group-title="Dope T3",Cap. 01
 http://201.172.61.81:85/series/Novelas/Dope/season%203/Dope%20-%20s03e01.mp4
 #EXTINF:-1 tvg-logo="https://www.divxtotal.in/wp-content/uploads/2019/07/dope-AZ8ik5Il7Q.png" group-title="Dope T3",Cap. 02
@@ -914,10 +802,6 @@ http://201.172.61.81:85/series/Novelas/Dope/season%203/Dope%20-%20s03e03.mp4
 #EXTINF:-1 tvg-logo="https://www.divxtotal.in/wp-content/uploads/2019/07/dope-AZ8ik5Il7Q.png" group-title="Dope T3",Cap. 04
 http://201.172.61.81:85/series/Novelas/Dope/season%203/Dope%20-%20s03e04.mp4
 
-####################################### Dragones: Carrera al Borde Netflix
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Dragones: Carrera al Borde",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/bf/3e/c0/bf3ec0f2a2a7f4d840f7f0302d098dbc.jpg" group-title="Dragones: Carrera al Borde",Cap. 01
 http://201.172.61.81:85/series/Enero/The%20Dragon%20Prince/01.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/bf/3e/c0/bf3ec0f2a2a7f4d840f7f0302d098dbc.jpg" group-title="Dragones: Carrera al Borde",Cap. 02
@@ -945,10 +829,6 @@ http://201.172.61.81:85/series/Enero/The%20Dragon%20Prince/12.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/bf/3e/c0/bf3ec0f2a2a7f4d840f7f0302d098dbc.jpg" group-title="Dragones: Carrera al Borde",Cap. 13
 http://201.172.61.81:85/series/Enero/The%20Dragon%20Prince/13.mp4
 
-####################################### El arte del espionaje T1 NETFLIX
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="El arte del espionaje T1",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/01/14/15/36/0031388.jpg" group-title="El arte del espionaje T1",cap. 01
 http://201.172.61.203:88/Series/1%20FEBRERO/El%20arte%20del%20espionaje%20(2021)%20Temporada%201%201080p%20WEB-DL%20Latino/El%20arte%20del%20espionaje%20(2021)%20Temporada%201%201080p%20WEB-DL%20Latino/01.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/01/14/15/36/0031388.jpg" group-title="El arte del espionaje T1",cap. 02
@@ -966,10 +846,6 @@ http://201.172.61.203:88/Series/1%20FEBRERO/El%20arte%20del%20espionaje%20(2021)
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/01/14/15/36/0031388.jpg" group-title="El arte del espionaje T1",cap. 08
 http://201.172.61.203:88/Series/1%20FEBRERO/El%20arte%20del%20espionaje%20(2021)%20Temporada%201%201080p%20WEB-DL%20Latino/El%20arte%20del%20espionaje%20(2021)%20Temporada%201%201080p%20WEB-DL%20Latino/08.mp4
 
-####################################### El Baile de las Luciérnagas NETFLIX
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="El Baile de las Luciérnagas",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51GFy9jHmDL._SX328_BO1,204,203,200_.jpg" group-title="El Baile de las Luciérnagas",cap. 01
 http://201.172.61.203:88/Series/1%20FEBRERO/El%20Baile%20de%20las%20Luci%c3%a9rnagas/El%20Baile%20de%20las%20Luci%c3%a9rnagas%20T01%20www.peliculasgoogledrive.info/01.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51GFy9jHmDL._SX328_BO1,204,203,200_.jpg" group-title="El Baile de las Luciérnagas",cap. 02
@@ -991,10 +867,6 @@ http://201.172.61.203:88/Series/1%20FEBRERO/El%20Baile%20de%20las%20Luci%c3%a9rn
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51GFy9jHmDL._SX328_BO1,204,203,200_.jpg" group-title="El Baile de las Luciérnagas",cap. 10
 http://201.172.61.203:88/Series/1%20FEBRERO/El%20Baile%20de%20las%20Luci%c3%a9rnagas/El%20Baile%20de%20las%20Luci%c3%a9rnagas%20T01%20www.peliculasgoogledrive.info/10.mp4
 
-####################################### El Chapo T1 Netflix
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="El Chapo T1",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/18/11/07/18/13/2582995.jpg" group-title="El Chapo T1",Cap. 01
 http://201.172.61.81:85/series/Novelas/Chapo/TEMPORADA%201/El%20Chapo%201x01.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/18/11/07/18/13/2582995.jpg" group-title="El Chapo T1",Cap. 02
@@ -1012,10 +884,6 @@ http://201.172.61.81:85/series/Novelas/Chapo/TEMPORADA%201/El%20Chapo%201x07.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/18/11/07/18/13/2582995.jpg" group-title="El Chapo T1",Cap. 08
 http://201.172.61.81:85/series/Novelas/Chapo/TEMPORADA%201/El%20Chapo%201x08.mp4
 
-####################################### El Chapo T2 Netflix
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="El Chapo T2",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/06/06/22/25/0254154.jpg" group-title="El Chapo T2",Cap. 01
 http://201.172.61.81:85/series/Novelas/Chapo/TEMPORADA%202/ch-hdl-2x1.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/06/06/22/25/0254154.jpg" group-title="El Chapo T2",Cap. 02
@@ -1041,10 +909,6 @@ http://201.172.61.81:85/series/Novelas/Chapo/TEMPORADA%202/ch-hdl-2x11.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/06/06/22/25/0254154.jpg" group-title="El Chapo T2",Cap. 12
 http://201.172.61.81:85/series/Novelas/Chapo/TEMPORADA%202/ch-hdl-2x12.mp4
 
-####################################### El Chapo T3 Netflix
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="El Chapo T3",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/06/06/22/43/1644779.jpg" group-title="El Chapo T3",Cap. 01
 http://201.172.61.81:85/series/Novelas/Chapo/TEMPORADA%203/CH3x01.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/06/06/22/43/1644779.jpg" group-title="El Chapo T3",Cap. 02
@@ -1072,10 +936,6 @@ http://201.172.61.81:85/series/Novelas/Chapo/TEMPORADA%203/CH3x12.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/06/06/22/43/1644779.jpg" group-title="El Chapo T3",Cap. 13
 http://201.172.61.81:85/series/Novelas/Chapo/TEMPORADA%203/CH3x13.mp4
 
-####################################### El ministerio del tiempo T1 RTVE
-#EXTINF:-1 tvg-logo="https://css2.rtve.es/css/rtve.2019.television/rtve.series/series-TE_PSERIES/i/TE_PSERIES.logo.cab.png" group-title="El ministerio del tiempo T1",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/17/05/03/12/07/484425.jpg" group-title="El ministerio del tiempo T1",cap. 01
 http://201.172.61.81:85/series/Enero/ministerio/T1/m1n1st3r10%20t13mp0%201x01.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/17/05/03/12/07/484425.jpg" group-title="El ministerio del tiempo T1",cap. 02
@@ -1093,10 +953,6 @@ http://201.172.61.81:85/series/Enero/ministerio/T1/m1n1st3r10%20t13mp0%201x07.mp
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/17/05/03/12/07/484425.jpg" group-title="El ministerio del tiempo T1",cap. 08
 http://201.172.61.81:85/series/Enero/ministerio/T1/m1n1st3r10%20t13mp0%201x08.mp4
 
-####################################### El ministerio del tiempo T2 RTVE
-#EXTINF:-1 tvg-logo="https://css2.rtve.es/css/rtve.2019.television/rtve.series/series-TE_PSERIES/i/TE_PSERIES.logo.cab.png" group-title="El ministerio del tiempo T2",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/43/14/c5/4314c52176b40a3b5f525d76fb817374.jpg" group-title="El ministerio del tiempo T2",cap. 01
 http://201.172.61.81:85/series/Enero/ministerio/T2/m1n1st3r10%20t13mp0%202x01.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/43/14/c5/4314c52176b40a3b5f525d76fb817374.jpg" group-title="El ministerio del tiempo T2",cap. 02
@@ -1124,10 +980,6 @@ http://201.172.61.81:85/series/Enero/ministerio/T2/m1n1st3r10%20t13mp0%202x12.mp
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/43/14/c5/4314c52176b40a3b5f525d76fb817374.jpg" group-title="El ministerio del tiempo T2",cap. 13
 http://201.172.61.81:85/series/Enero/ministerio/T2/m1n1st3r10%20t13mp0%202x13.mp4
 
-####################################### El ministerio del tiempo T3 RTVE
-#EXTINF:-1 tvg-logo="https://css2.rtve.es/css/rtve.2019.television/rtve.series/series-TE_PSERIES/i/TE_PSERIES.logo.cab.png" group-title="El ministerio del tiempo T3",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1000/1061/4_m1.jpg" group-title="El ministerio del tiempo T3",cap. 01
 http://201.172.61.81:85/series/Enero/ministerio/T3/01.mp4
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1000/1061/4_m1.jpg" group-title="El ministerio del tiempo T3",cap. 02
@@ -1155,10 +1007,6 @@ http://201.172.61.81:85/series/Enero/ministerio/T3/12.mp4
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1000/1061/4_m1.jpg" group-title="El ministerio del tiempo T3",cap. 13
 http://201.172.61.81:85/series/Enero/ministerio/T3/13.mp4
 
-####################################### El señor de los cielos T1 TELEMUNDO
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a4/5c/04/a45c0452bba4326cae4ae5e8331d36a9.jpg" group-title="El señor de los cielos T1",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/20/03/23/21/58/1009835.jpg" group-title="El señor de los cielos T1",Cap. 01
 http://201.172.61.81:85/series/Novelas/El%20Se%c3%b1o%20D%20e%20los%20Cielos/Temp%2001/%5bPorMega.com%5dEl%20S3%c3%b10r%20D3%20L0s%20Ci3l0s%20Temp%2001%20Cap%2001.mkv
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/20/03/23/21/58/1009835.jpg" group-title="El señor de los cielos T1",Cap. 02
@@ -1308,10 +1156,6 @@ http://201.172.61.81:85/series/Novelas/El%20Se%c3%b1o%20D%20e%20los%20Cielos/Tem
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/20/03/23/21/58/1009835.jpg" group-title="El señor de los cielos T1",Cap. 74
 http://201.172.61.81:85/series/Novelas/El%20Se%c3%b1o%20D%20e%20los%20Cielos/Temp%2001/%5bPorMega.com%5dEl%20S3%c3%b10r%20D3%20L0s%20Ci3l0s%20Temp%2001%20Cap%2074.mkv
 
-####################################### El señor de los cielos T2 TELEMUNDO
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a4/5c/04/a45c0452bba4326cae4ae5e8331d36a9.jpg" group-title="El señor de los cielos T2",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/20/03/23/22/02/1343027.jpg" group-title="El señor de los cielos T2",Cap. 01
 http://201.172.61.81:85/series/Novelas/El%20Se%c3%b1o%20D%20e%20los%20Cielos/Temp%2002/EDL001.mkv
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/20/03/23/22/02/1343027.jpg" group-title="El señor de los cielos T2",Cap. 02
@@ -1481,10 +1325,6 @@ http://201.172.61.81:85/series/Novelas/El%20Se%c3%b1o%20D%20e%20los%20Cielos/Tem
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/20/03/23/22/02/1343027.jpg" group-title="El señor de los cielos T2",Cap. 84
 http://201.172.61.81:85/series/Novelas/El%20Se%c3%b1o%20D%20e%20los%20Cielos/Temp%2002/EDL084.mkv
 
-####################################### El señor de los cielos T3 TELEMUNDO
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a4/5c/04/a45c0452bba4326cae4ae5e8331d36a9.jpg" group-title="El señor de los cielos T3",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/20/03/23/22/19/5837792.jpg" group-title="El señor de los cielos T3",Cap. 001
 http://201.172.61.81:85/series/Novelas/El%20Se%c3%b1o%20D%20e%20los%20Cielos/Temp%2003/%5bPorMega.com%5dEl%20S3%c3%b10r%20D3%20L0s%20Ci3l0s%20Temp%2003%20Cap%2001.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/20/03/23/22/19/5837792.jpg" group-title="El señor de los cielos T3",Cap. 002
@@ -1694,10 +1534,6 @@ http://201.172.61.81:85/series/Novelas/El%20Se%c3%b1o%20D%20e%20los%20Cielos/Tem
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/20/03/23/22/19/5837792.jpg" group-title="El señor de los cielos T3",Cap. 104
 http://201.172.61.81:85/series/Novelas/El%20Se%c3%b1o%20D%20e%20los%20Cielos/Temp%2003/%5bPorMega.com%5dEl%20S3%c3%b10r%20D3%20L0s%20Ci3l0s%20Temp%2003%20Cap%20104.mp4
 
-####################################### El señor de los cielos T4 TELEMUNDO
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a4/5c/04/a45c0452bba4326cae4ae5e8331d36a9.jpg" group-title="El señor de los cielos T4",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/20/03/23/22/21/1994461.jpg" group-title="El señor de los cielos T4",Cap. 01
 http://201.172.61.81:85/series/Novelas/El%20Se%c3%b1o%20D%20e%20los%20Cielos/Temp%2004/EDL4001.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/20/03/23/22/21/1994461.jpg" group-title="El señor de los cielos T4",Cap. 02
@@ -1859,10 +1695,6 @@ http://201.172.61.81:85/series/Novelas/El%20Se%c3%b1o%20D%20e%20los%20Cielos/Tem
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/20/03/23/22/21/1994461.jpg" group-title="El señor de los cielos T4",Cap. 80
 http://201.172.61.81:85/series/Novelas/El%20Se%c3%b1o%20D%20e%20los%20Cielos/Temp%2004/EDL4080.mp4
 
-####################################### El señor de los cielos T5 TELEMUNDO
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a4/5c/04/a45c0452bba4326cae4ae5e8331d36a9.jpg" group-title="El señor de los cielos T5",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/77/42/dc/7742dc111e545faaef7c7d755f9a7c7e.jpg" group-title="El señor de los cielos T5",Cap. 01
 http://201.172.61.81:85/series/Novelas/El%20Se%c3%b1o%20D%20e%20los%20Cielos/Temp%2005/%5bPorMega.com%5dEl%20S3%c3%b10r%20D3%20L0s%20Ci3l0s%20Temp%2005%20Cap%2001.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/77/42/dc/7742dc111e545faaef7c7d755f9a7c7e.jpg" group-title="El señor de los cielos T5",Cap. 02
@@ -2054,10 +1886,6 @@ http://201.172.61.81:85/series/Novelas/El%20Se%c3%b1o%20D%20e%20los%20Cielos/Tem
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/77/42/dc/7742dc111e545faaef7c7d755f9a7c7e.jpg" group-title="El señor de los cielos T5",Cap. 95
 http://201.172.61.81:85/series/Novelas/El%20Se%c3%b1o%20D%20e%20los%20Cielos/Temp%2005/%5bPorMega.com%5dEl%20S3%c3%b10r%20D3%20L0s%20Ci3l0s%20Temp%2005%20Cap%2095.mp4
 
-####################################### El señor de los cielos T6 TELEMUNDO
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a4/5c/04/a45c0452bba4326cae4ae5e8331d36a9.jpg" group-title="El señor de los cielos T6",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/20/03/23/20/17/2980177.jpg" group-title="El señor de los cielos T6",Cap. 01
 http://201.172.61.81:85/series/Novelas/El%20Se%c3%b1o%20D%20e%20los%20Cielos/Temp%2006/%5bPorMega.com%5dEl%20S3%c3%b10r%20D3%20L0s%20Ci3l0s%20Temp%2006%20Cap%2001.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/20/03/23/20/17/2980177.jpg" group-title="El señor de los cielos T6",Cap. 02
@@ -2257,10 +2085,6 @@ http://201.172.61.81:85/series/Novelas/El%20Se%c3%b1o%20D%20e%20los%20Cielos/Tem
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/20/03/23/20/17/2980177.jpg" group-title="El señor de los cielos T6",Cap. 99
 http://201.172.61.81:85/series/Novelas/El%20Se%c3%b1o%20D%20e%20los%20Cielos/Temp%2006/%5bPorMega.com%5dEl%20S3%c3%b10r%20D3%20L0s%20Ci3l0s%20Temp%2006%20Cap%2099.mp4
 
-####################################### El señor de los cielos T7 TELEMUNDO
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a4/5c/04/a45c0452bba4326cae4ae5e8331d36a9.jpg" group-title="El señor de los cielos T7",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/a9/00/2c/a9002c689fd0f325698d4d62b0c9fe0d.jpg" group-title="El señor de los cielos T7",Cap. 01
 http://201.172.61.81:85/series/Novelas/El%20Se%c3%b1o%20D%20e%20los%20Cielos/Temp%2007/%5bPorMega.com%5dEl%20S3%c3%b10r%20D3%20L0s%20Ci3l0s%20Temp%2007%20Cap%2001.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/a9/00/2c/a9002c689fd0f325698d4d62b0c9fe0d.jpg" group-title="El señor de los cielos T7",Cap. 02
@@ -2412,10 +2236,6 @@ http://201.172.61.81:85/series/Novelas/El%20Se%c3%b1o%20D%20e%20los%20Cielos/Tem
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/a9/00/2c/a9002c689fd0f325698d4d62b0c9fe0d.jpg" group-title="El señor de los cielos T7",Cap. 75
 http://201.172.61.81:85/series/Novelas/El%20Se%c3%b1o%20D%20e%20los%20Cielos/Temp%2007/%5bPorMega.com%5dEl%20S3%c3%b10r%20D3%20L0s%20Ci3l0s%20Temp%2007%20Cap%2075.mp4
 
-####################################### El tren infinito CARTOON NETWORK
-#EXTINF:-1 tvg-logo="https://www.numeroservicioalcliente.com/wp-content/uploads/2017/10/ogLogo.png" group-title="El tren infinito",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91PxUrHkAeL._SL1500_.jpg" group-title="El tren infinito",Cap. 01
 http://201.172.61.81:85/series/Novelas/Infinity%20Train/Infinity%20Train%20-%20s01e01.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91PxUrHkAeL._SL1500_.jpg" group-title="El tren infinito",Cap. 02
@@ -2437,10 +2257,6 @@ http://201.172.61.81:85/series/Novelas/Infinity%20Train/Infinity%20Train%20-%20s
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91PxUrHkAeL._SL1500_.jpg" group-title="El tren infinito",Cap. 10
 http://201.172.61.81:85/series/Novelas/Infinity%20Train/Infinity%20Train%20-%20s01e10.mp4
 
-####################################### Epidemiya: Hacia el lago Netflix
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Epidemiya: Hacia el lago",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/20/09/24/14/35/0210099.jpg" group-title="Epidemiya: Hacia el lago",Cap. 01
 http://201.172.61.81:85/series/noviembre/Epidemiy/Epidemiya%20-%20s01e01.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/20/09/24/14/35/0210099.jpg" group-title="Epidemiya: Hacia el lago",Cap. 02
@@ -2458,10 +2274,6 @@ http://201.172.61.81:85/series/noviembre/Epidemiy/Epidemiya%20-%20s01e07.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/20/09/24/14/35/0210099.jpg" group-title="Epidemiya: Hacia el lago",Cap. 08
 http://201.172.61.81:85/series/noviembre/Epidemiy/Epidemiya%20-%20s01e08.mp4
 
-####################################### Equinox Netflix
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Equinox",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://cinemalibero.website/wp-content/uploads/Equinox-Serie-TV.jpg" group-title="Equinox",Cap. 01
 http://201.172.61.81:85/series/Enero/Equinox.2020.S01.WEB.DL.720p.Latino/S01E01.mp4
 #EXTINF:-1 tvg-logo="https://cinemalibero.website/wp-content/uploads/Equinox-Serie-TV.jpg" group-title="Equinox",Cap. 02
@@ -2475,10 +2287,6 @@ http://201.172.61.81:85/series/Enero/Equinox.2020.S01.WEB.DL.720p.Latino/S01E05.
 #EXTINF:-1 tvg-logo="https://cinemalibero.website/wp-content/uploads/Equinox-Serie-TV.jpg" group-title="Equinox",Cap. 06
 http://201.172.61.81:85/series/Enero/Equinox.2020.S01.WEB.DL.720p.Latino/S01E06.mp4
 
-####################################### Fargo T1 Netflix
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Fargo T1",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/710WL7y9KBL._SY445_.jpg" group-title="Fargo T1",Cap. 01
 http://201.172.61.81:85/series/noviembre/Fargo%201%202%203%204%202020/Fargo%20S01/Fargo%20-%20s01e01.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/710WL7y9KBL._SY445_.jpg" group-title="Fargo T1",Cap. 02
@@ -2500,10 +2308,6 @@ http://201.172.61.81:85/series/noviembre/Fargo%201%202%203%204%202020/Fargo%20S0
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/710WL7y9KBL._SY445_.jpg" group-title="Fargo T1",Cap. 10
 http://201.172.61.81:85/series/noviembre/Fargo%201%202%203%204%202020/Fargo%20S01/Fargo%20-%20s01e10.mp4
 
-####################################### Fargo T2 Netflix
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Fargo T2",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://i2.wp.com/www.micropsiacine.com/wp-content/uploads/2015/11/Fargo_Season_2_poster.jpg" group-title="Fargo T2",Cap. 01
 http://201.172.61.81:85/series/noviembre/Fargo%201%202%203%204%202020/Fargo%20S02/Fargo%20-%20s02e01.mp4
 #EXTINF:-1 tvg-logo="https://i2.wp.com/www.micropsiacine.com/wp-content/uploads/2015/11/Fargo_Season_2_poster.jpg" group-title="Fargo T2",Cap. 02
@@ -2525,10 +2329,6 @@ http://201.172.61.81:85/series/noviembre/Fargo%201%202%203%204%202020/Fargo%20S0
 #EXTINF:-1 tvg-logo="https://i2.wp.com/www.micropsiacine.com/wp-content/uploads/2015/11/Fargo_Season_2_poster.jpg" group-title="Fargo T2",Cap. 10
 http://201.172.61.81:85/series/noviembre/Fargo%201%202%203%204%202020/Fargo%20S02/Fargo%20-%20s02e10.mp4
 
-####################################### Fargo T3 Netflix
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Fargo T3",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91A0z8T8o%2BL._SY445_.jpg" group-title="Fargo T3",Cap. 01
 http://201.172.61.81:85/series/noviembre/Fargo%201%202%203%204%202020/Fargo%20S03/Fargo%20-%20s03e01.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91A0z8T8o%2BL._SY445_.jpg" group-title="Fargo T3",Cap. 02
@@ -2550,10 +2350,6 @@ http://201.172.61.81:85/series/noviembre/Fargo%201%202%203%204%202020/Fargo%20S0
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91A0z8T8o%2BL._SY445_.jpg" group-title="Fargo T3",Cap. 10
 http://201.172.61.81:85/series/noviembre/Fargo%201%202%203%204%202020/Fargo%20S03/Fargo%20-%20s03e10.mp4
 
-####################################### Gambito de Dama Netflix
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Gambito de Dama",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/20/09/25/09/06/0492330.jpg" group-title="Gambito de Dama",Cap. 01
 http://201.172.61.81:85/series/noviembre/GAMBITO%20DE%20DAMA/The.Queens.Gamb%20-%20s01e01.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/20/09/25/09/06/0492330.jpg" group-title="Gambito de Dama",Cap. 02
@@ -2569,10 +2365,6 @@ http://201.172.61.81:85/series/noviembre/GAMBITO%20DE%20DAMA/The.Queens.Gamb%20-
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/20/09/25/09/06/0492330.jpg" group-title="Gambito de Dama",Cap. 07
 http://201.172.61.81:85/series/noviembre/GAMBITO%20DE%20DAMA/The.Queens.Gamb%20-%20s01e07.mp4
 
-####################################### Grand Army Netflix
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Grand Army",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/20/10/07/08/15/0947468.jpg" group-title="Grand Army",Cap. 01
 http://201.172.61.81:85/series/noviembre/Grand%20Army/Grand.Army%20-%20s01e01.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/20/10/07/08/15/0947468.jpg" group-title="Grand Army",Cap. 02
@@ -2592,10 +2384,6 @@ http://201.172.61.81:85/series/noviembre/Grand%20Army/Grand.Army%20-%20s01e08.mp
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/20/10/07/08/15/0947468.jpg" group-title="Grand Army",Cap. 09
 http://201.172.61.81:85/series/noviembre/Grand%20Army/Grand.Army%20-%20s01e09.mp4
 
-####################################### Grimm T1 NBC
-#EXTINF:-1 tvg-logo="https://www.wcbi.com/wp-content/uploads/2020/03/nbc-logo-1.jpg" group-title="Grimm T1",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://elfinalde.s3-accelerate.amazonaws.com/2016/05/83D3Obk5yPJrtsMgh72d4C0VgD6-683x1024.jpg" group-title="Grimm T1",cap. 01
 http://201.172.61.81:85/series/Enero/MKV%20grimm%20temporada%201%20latino/T1/01.mp4
 #EXTINF:-1 tvg-logo="https://elfinalde.s3-accelerate.amazonaws.com/2016/05/83D3Obk5yPJrtsMgh72d4C0VgD6-683x1024.jpg" group-title="Grimm T1",cap. 02
@@ -2641,10 +2429,6 @@ http://201.172.61.81:85/series/Enero/MKV%20grimm%20temporada%201%20latino/T1/21.
 #EXTINF:-1 tvg-logo="https://elfinalde.s3-accelerate.amazonaws.com/2016/05/83D3Obk5yPJrtsMgh72d4C0VgD6-683x1024.jpg" group-title="Grimm T1",cap. 22
 http://201.172.61.81:85/series/Enero/MKV%20grimm%20temporada%201%20latino/T1/22.mp4
 
-####################################### Grimm T2 NBC
-#EXTINF:-1 tvg-logo="https://www.wcbi.com/wp-content/uploads/2020/03/nbc-logo-1.jpg" group-title="Grimm T2",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://elfinalde.s3-accelerate.amazonaws.com/2016/05/eD4K8951bEai6bfkN3t5zPI8Iqz-683x1024.jpg" group-title="Grimm T2",cap. 01
 http://201.172.61.81:85/series/Enero/MKV%20grimm%20temporada%201%20latino/T2/01.mp4
 #EXTINF:-1 tvg-logo="https://elfinalde.s3-accelerate.amazonaws.com/2016/05/eD4K8951bEai6bfkN3t5zPI8Iqz-683x1024.jpg" group-title="Grimm T2",cap. 02
@@ -2690,10 +2474,6 @@ http://201.172.61.81:85/series/Enero/MKV%20grimm%20temporada%201%20latino/T2/21.
 #EXTINF:-1 tvg-logo="https://elfinalde.s3-accelerate.amazonaws.com/2016/05/eD4K8951bEai6bfkN3t5zPI8Iqz-683x1024.jpg" group-title="Grimm T2",cap. 22
 http://201.172.61.81:85/series/Enero/MKV%20grimm%20temporada%201%20latino/T2/Grimm.2x22%20uzumaki.mp4
 
-####################################### Grimm T3 NBC
-#EXTINF:-1 tvg-logo="https://www.wcbi.com/wp-content/uploads/2020/03/nbc-logo-1.jpg" group-title="Grimm T3",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c3/c9/dd/c3c9dde9d5ab22d65bca1286bb18ca7d.jpg" group-title="Grimm T3",cap. 01
 http://201.172.61.81:85/series/Enero/MKV%20grimm%20temporada%201%20latino/T3/01.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c3/c9/dd/c3c9dde9d5ab22d65bca1286bb18ca7d.jpg" group-title="Grimm T3",cap. 02
@@ -2739,10 +2519,6 @@ http://201.172.61.81:85/series/Enero/MKV%20grimm%20temporada%201%20latino/T3/21.
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c3/c9/dd/c3c9dde9d5ab22d65bca1286bb18ca7d.jpg" group-title="Grimm T3",cap. 22
 http://201.172.61.81:85/series/Enero/MKV%20grimm%20temporada%201%20latino/T3/22.mp4
 
-####################################### Grimm T4 NBC
-#EXTINF:-1 tvg-logo="https://www.wcbi.com/wp-content/uploads/2020/03/nbc-logo-1.jpg" group-title="Grimm T4",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/2d/fe/ea/2dfeeae9aeac737685c393825b9ee794.jpg" group-title="Grimm T4",cap. 01
 http://201.172.61.81:85/series/Enero/MKV%20grimm%20temporada%201%20latino/T4/01.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/2d/fe/ea/2dfeeae9aeac737685c393825b9ee794.jpg" group-title="Grimm T4",cap. 02
@@ -2788,10 +2564,6 @@ http://201.172.61.81:85/series/Enero/MKV%20grimm%20temporada%201%20latino/T4/21.
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/2d/fe/ea/2dfeeae9aeac737685c393825b9ee794.jpg" group-title="Grimm T4",cap. 22
 http://201.172.61.81:85/series/Enero/MKV%20grimm%20temporada%201%20latino/T4/22.mp4
 
-####################################### Grimm T5 NBC
-#EXTINF:-1 tvg-logo="https://www.wcbi.com/wp-content/uploads/2020/03/nbc-logo-1.jpg" group-title="Grimm T5",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://elfinalde.s3-accelerate.amazonaws.com/2016/05/xzJ7q3Ajw3WD4q5TyxJm7iePJPy.jpg" group-title="Grimm T5",cap. 01
 http://201.172.61.81:85/series/Enero/MKV%20grimm%20temporada%201%20latino/T5/01.mp4
 #EXTINF:-1 tvg-logo="https://elfinalde.s3-accelerate.amazonaws.com/2016/05/xzJ7q3Ajw3WD4q5TyxJm7iePJPy.jpg" group-title="Grimm T5",cap. 02
@@ -2837,10 +2609,6 @@ http://201.172.61.81:85/series/Enero/MKV%20grimm%20temporada%201%20latino/T5/21.
 #EXTINF:-1 tvg-logo="https://elfinalde.s3-accelerate.amazonaws.com/2016/05/xzJ7q3Ajw3WD4q5TyxJm7iePJPy.jpg" group-title="Grimm T5",cap. 22
 http://201.172.61.81:85/series/Enero/MKV%20grimm%20temporada%201%20latino/T5/22.MP4
 
-####################################### Grimm T6 NBC
-#EXTINF:-1 tvg-logo="https://www.wcbi.com/wp-content/uploads/2020/03/nbc-logo-1.jpg" group-title="Grimm T6",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81D7fTf9Q8L._SL1500_.jpg" group-title="Grimm T6",cap. 01
 http://201.172.61.81:85/series/Enero/MKV%20grimm%20temporada%201%20latino/T6/01.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81D7fTf9Q8L._SL1500_.jpg" group-title="Grimm T6",cap. 02
@@ -2868,10 +2636,6 @@ http://201.172.61.81:85/series/Enero/MKV%20grimm%20temporada%201%20latino/T6/12.
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81D7fTf9Q8L._SL1500_.jpg" group-title="Grimm T6",cap. 13
 http://201.172.61.81:85/series/Enero/MKV%20grimm%20temporada%201%20latino/T6/13.mp4
 
-####################################### Inhumans DISNEY PLUS
-#EXTINF:-1 tvg-logo="https://icdn9.digitaltrends.com/image/digitaltrends_es/disney-plus-logo-streaming-topic-500x500.jpg" group-title="Inhumans",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/17/06/27/17/50/363270.jpg" group-title="Inhumans",cap. 01
 http://201.172.61.81:85/series/Enero/1Marvel's%20Inhumans/%5bPorMega.com%5dMarvel's%20Inhumans%20Temp%2001%20Cap%2001.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/17/06/27/17/50/363270.jpg" group-title="Inhumans",cap. 02
@@ -2889,10 +2653,6 @@ http://201.172.61.81:85/series/Enero/1Marvel's%20Inhumans/%5bPorMega.com%5dMarve
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/17/06/27/17/50/363270.jpg" group-title="Inhumans",cap. 08
 http://201.172.61.81:85/series/Enero/1Marvel's%20Inhumans/%5bPorMega.com%5dMarvel's%20Inhumans%20Temp%2001%20Cap%2008.mp4
 
-####################################### iZombie T1 The CW
-#EXTINF:-1 tvg-logo="https://freepikpsd.com/wp-content/uploads/2019/10/cw-live-2-Png-Transparent-Images.png" group-title="iZombie T1",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/900/911/1_m1.jpg" group-title="iZombie T1",Cap. 01
 http://201.172.61.81:85/series/noviembre/IZOMBIE/TEMP%201/IZ%20-%20S01E01.mp4
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/900/911/1_m1.jpg" group-title="iZombie T1",Cap. 02
@@ -2920,10 +2680,6 @@ http://201.172.61.81:85/series/noviembre/IZOMBIE/TEMP%201/IZ%20-%20S01E012.mp4
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/900/911/1_m1.jpg" group-title="iZombie T1",Cap. 13
 http://201.172.61.81:85/series/noviembre/IZOMBIE/TEMP%201/IZ%20-%20S01E013.mp4
 
-####################################### iZombie T2 The CW
-#EXTINF:-1 tvg-logo="https://freepikpsd.com/wp-content/uploads/2019/10/cw-live-2-Png-Transparent-Images.png" group-title="iZombie T2",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/15/09/04/17/53/080621.jpg" group-title="iZombie T2",Cap. 01
 http://201.172.61.81:85/series/noviembre/IZOMBIE/TEMP%202/IZ%20-%20S02E01.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/15/09/04/17/53/080621.jpg" group-title="iZombie T2",Cap. 02
@@ -2963,10 +2719,6 @@ http://201.172.61.81:85/series/noviembre/IZOMBIE/TEMP%202/IZ%20-%20S02E018.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/15/09/04/17/53/080621.jpg" group-title="iZombie T2",Cap. 19
 http://201.172.61.81:85/series/noviembre/IZOMBIE/TEMP%202/IZ%20-%20S02E019.mp4
 
-####################################### iZombie T3 The CW
-#EXTINF:-1 tvg-logo="https://freepikpsd.com/wp-content/uploads/2019/10/cw-live-2-Png-Transparent-Images.png" group-title="iZombie T3",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/17/03/29/11/12/525221.jpg" group-title="iZombie T3",Cap. 01
 http://201.172.61.81:85/series/noviembre/IZOMBIE/TEMP%203/IZ%20-%20S03E01.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/17/03/29/11/12/525221.jpg" group-title="iZombie T3",Cap. 02
@@ -2994,10 +2746,6 @@ http://201.172.61.81:85/series/noviembre/IZOMBIE/TEMP%203/IZ%20-%20S03E12.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/17/03/29/11/12/525221.jpg" group-title="iZombie T3",Cap. 13
 http://201.172.61.81:85/series/noviembre/IZOMBIE/TEMP%203/IZ%20-%20S03E13.mp4
 
-####################################### iZombie T4 The CW
-#EXTINF:-1 tvg-logo="https://freepikpsd.com/wp-content/uploads/2019/10/cw-live-2-Png-Transparent-Images.png" group-title="iZombie T4",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/18/02/19/15/23/4086911.jpg" group-title="iZombie T4",Cap. 01
 http://201.172.61.81:85/series/noviembre/IZOMBIE/TEMP%204/IZ%20-%20S04E01.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/18/02/19/15/23/4086911.jpg" group-title="iZombie T4",Cap. 02
@@ -3025,10 +2773,6 @@ http://201.172.61.81:85/series/noviembre/IZOMBIE/TEMP%204/IZ%20-%20S04E12.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/18/02/19/15/23/4086911.jpg" group-title="iZombie T4",Cap. 13
 http://201.172.61.81:85/series/noviembre/IZOMBIE/TEMP%204/IZ%20-%20S04E13.mp4
 
-####################################### La esquina del diablo UNIMAS
-#EXTINF:-1 tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/I_v/I_v_large.png" group-title="La esquina del diablo",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 01
 http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/01.mp4
 #EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 02
@@ -3170,10 +2914,40 @@ http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/69.mp4
 #EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 70
 http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/70.mp4
 
-####################################### La maldición de Bly Manor Netflix
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="La maldición de Bly Manor",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/6zcP9tBcQdaWhYRFN3ISnWGJPoM.jpg" group-title="La Forense T1",Cap. 01
+http://201.172.61.203:88/Series/1%20Marzo%20Abril/Coroner/T1/01.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/6zcP9tBcQdaWhYRFN3ISnWGJPoM.jpg" group-title="La Forense T1",Cap. 02
+http://201.172.61.203:88/Series/1%20Marzo%20Abril/Coroner/T1/02.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/6zcP9tBcQdaWhYRFN3ISnWGJPoM.jpg" group-title="La Forense T1",Cap. 03
+http://201.172.61.203:88/Series/1%20Marzo%20Abril/Coroner/T1/03.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/6zcP9tBcQdaWhYRFN3ISnWGJPoM.jpg" group-title="La Forense T1",Cap. 04
+http://201.172.61.203:88/Series/1%20Marzo%20Abril/Coroner/T1/04.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/6zcP9tBcQdaWhYRFN3ISnWGJPoM.jpg" group-title="La Forense T1",Cap. 05
+http://201.172.61.203:88/Series/1%20Marzo%20Abril/Coroner/T1/05.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/6zcP9tBcQdaWhYRFN3ISnWGJPoM.jpg" group-title="La Forense T1",Cap. 06
+http://201.172.61.203:88/Series/1%20Marzo%20Abril/Coroner/T1/06.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/6zcP9tBcQdaWhYRFN3ISnWGJPoM.jpg" group-title="La Forense T1",Cap. 07
+http://201.172.61.203:88/Series/1%20Marzo%20Abril/Coroner/T1/07.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/6zcP9tBcQdaWhYRFN3ISnWGJPoM.jpg" group-title="La Forense T1",Cap. 08
+http://201.172.61.203:88/Series/1%20Marzo%20Abril/Coroner/T1/08.mp4
+
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/355066/seasonposter/coroner-5e4c096f13c09.jpg" group-title="La Forense T2",Cap. 01
+http://201.172.61.203:88/Series/1%20Marzo%20Abril/Coroner/T2/01.mp4
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/355066/seasonposter/coroner-5e4c096f13c09.jpg" group-title="La Forense T2",Cap. 02
+http://201.172.61.203:88/Series/1%20Marzo%20Abril/Coroner/T2/02.mp4
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/355066/seasonposter/coroner-5e4c096f13c09.jpg" group-title="La Forense T2",Cap. 03
+http://201.172.61.203:88/Series/1%20Marzo%20Abril/Coroner/T2/03.mp4
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/355066/seasonposter/coroner-5e4c096f13c09.jpg" group-title="La Forense T2",Cap. 04
+http://201.172.61.203:88/Series/1%20Marzo%20Abril/Coroner/T2/04.mp4
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/355066/seasonposter/coroner-5e4c096f13c09.jpg" group-title="La Forense T2",Cap. 05
+http://201.172.61.203:88/Series/1%20Marzo%20Abril/Coroner/T2/05.mp4
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/355066/seasonposter/coroner-5e4c096f13c09.jpg" group-title="La Forense T2",Cap. 06
+http://201.172.61.203:88/Series/1%20Marzo%20Abril/Coroner/T2/06.mp4
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/355066/seasonposter/coroner-5e4c096f13c09.jpg" group-title="La Forense T2",Cap. 07
+http://201.172.61.203:88/Series/1%20Marzo%20Abril/Coroner/T2/07.mp4
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/355066/seasonposter/coroner-5e4c096f13c09.jpg" group-title="La Forense T2",Cap. 08
+http://201.172.61.203:88/Series/1%20Marzo%20Abril/Coroner/T2/08.mp4
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/1b/e7/42/1be7421a99c6ccc668d7135ce71062f4.jpg" group-title="La maldición de Bly Manor",Cap. 01
 http://201.172.61.81:85/series/noviembre/The%20Haunting%20of%20Bly%20Manor/The.Haunting.of.Bly.Manor%20-%20s01e01.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/1b/e7/42/1be7421a99c6ccc668d7135ce71062f4.jpg" group-title="La maldición de Bly Manor",Cap. 02
@@ -3193,10 +2967,6 @@ http://201.172.61.81:85/series/noviembre/The%20Haunting%20of%20Bly%20Manor/The.H
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/1b/e7/42/1be7421a99c6ccc668d7135ce71062f4.jpg" group-title="La maldición de Bly Manor",Cap. 09
 http://201.172.61.81:85/series/noviembre/The%20Haunting%20of%20Bly%20Manor/The.Haunting.of.Bly.Manor%20-%20s01e09.mp4
 
-####################################### La Piloto T1 Netflix
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="La Piloto T1",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/20/05/04/01/53/5955667.jpg" group-title="La Piloto T1",Cap. 01
 http://201.172.61.81:85/series/noviembre/La%20piloto%201%20y%202/temp%201/La.pilotoCaptulo%20-%20s01e01.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/20/05/04/01/53/5955667.jpg" group-title="La Piloto T1",Cap. 02
@@ -3358,10 +3128,6 @@ http://201.172.61.81:85/series/noviembre/La%20piloto%201%20y%202/temp%201/La.pil
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/20/05/04/01/53/5955667.jpg" group-title="La Piloto T1",Cap. 80
 http://201.172.61.81:85/series/noviembre/La%20piloto%201%20y%202/temp%201/La.pilotoCaptulo%20-%20s01e80.mp4
 
-####################################### La prepago RCN
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1238147467654443009/Y5AC1Iya_400x400.png" group-title="La prepago",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="http://www.vermitelenovela.com/wp-content/uploads/la-prepago-200x270.jpg" group-title="La prepago",Cap. 01
 http://201.172.61.81:85/series/Novelas/1%20la%20prepago/La%20Prepago%20-%201x01.mp4
 #EXTINF:-1 tvg-logo="http://www.vermitelenovela.com/wp-content/uploads/la-prepago-200x270.jpg" group-title="La prepago",Cap. 02
@@ -3485,10 +3251,6 @@ http://201.172.61.81:85/series/Novelas/1%20la%20prepago/La%20Prepago%20-%201x60.
 #EXTINF:-1 tvg-logo="http://www.vermitelenovela.com/wp-content/uploads/la-prepago-200x270.jpg" group-title="La prepago",Cap. 61
 http://201.172.61.81:85/series/Novelas/1%20la%20prepago/La%20Prepago%20-%201x61.mp4
 
-####################################### La Promesa CARACOL
-#EXTINF:-1 tvg-logo="https://www.caracoltvcorporativo.com/sites/default/files/logo-footer_cor/logo_caracol2_0.png" group-title="La Promesa",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 01
 http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E01.mp4
 #EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 02
@@ -3612,10 +3374,6 @@ http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E60.mp4
 #EXTINF:-1 tvg-logo="https://art-s.nflximg.net/56423/0c4d78cec72d31313d7b4866f5eb4e64c8556423.jpg" group-title="La Promesa",cap. 61
 http://201.172.61.81:85/series/Enero/Prometo/Prometo/La%20Promesa%20E61.mp4
 
-####################################### La querida del Centauro T1 TELEMUNDO
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a4/5c/04/a45c0452bba4326cae4ae5e8331d36a9.jpg" group-title="La querida del Centauro T1",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/85/ef/fc/85effc7c74f4b87bdf09146b93473f37.jpg" group-title="La querida del Centauro T1",Cap. 01
 http://201.172.61.81:85/series/Novelas/1%20la%20querida%20del%20centauro/season%201/01.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/85/ef/fc/85effc7c74f4b87bdf09146b93473f37.jpg" group-title="La querida del Centauro T1",Cap. 02
@@ -3719,10 +3477,6 @@ http://201.172.61.81:85/series/Novelas/1%20la%20querida%20del%20centauro/season%
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/85/ef/fc/85effc7c74f4b87bdf09146b93473f37.jpg" group-title="La querida del Centauro T1",Cap. 51
 http://201.172.61.81:85/series/Novelas/1%20la%20querida%20del%20centauro/season%201/51.mp4
 
-####################################### La querida del Centauro T2 TELEMUNDO
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a4/5c/04/a45c0452bba4326cae4ae5e8331d36a9.jpg" group-title="La querida del Centauro T2",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/6f/d7/d7/6fd7d7ebbb716920f7a1e0a5fad6e52a.jpg" group-title="La querida del Centauro T2",Cap. 01
 http://201.172.61.81:85/series/Novelas/1%20la%20querida%20del%20centauro/season%202/LQDC2001.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/6f/d7/d7/6fd7d7ebbb716920f7a1e0a5fad6e52a.jpg" group-title="La querida del Centauro T2",Cap. 02
@@ -3904,10 +3658,6 @@ http://201.172.61.81:85/series/Novelas/1%20la%20querida%20del%20centauro/season%
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/6f/d7/d7/6fd7d7ebbb716920f7a1e0a5fad6e52a.jpg" group-title="La querida del Centauro T2",Cap. 90
 http://201.172.61.81:85/series/Novelas/1%20la%20querida%20del%20centauro/season%202/LQRC2090.mp4
 
-####################################### La reina del flow CARACOL
-#EXTINF:-1 tvg-logo="https://www.caracoltvcorporativo.com/sites/default/files/logo-footer_cor/logo_caracol2_0.png" group-title="La reina del flow",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/c_310_420/pictures/19/03/18/11/36/4492917.jpg" group-title="La reina del flow",cap. 01
 http://201.172.61.81:85/series/Novelas/1%20la%20reina%20del%20flow/%5bPorMega.com%5dL4%20R3in4%20D3l%20Fl0w%20Cap%2001.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/c_310_420/pictures/19/03/18/11/36/4492917.jpg" group-title="La reina del flow",cap. 02
@@ -4073,10 +3823,6 @@ http://201.172.61.81:85/series/Novelas/1%20la%20reina%20del%20flow/%5bPorMega.co
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/c_310_420/pictures/19/03/18/11/36/4492917.jpg" group-title="La reina del flow",cap. 82
 http://201.172.61.81:85/series/Novelas/1%20la%20reina%20del%20flow/%5bPorMega.com%5dL4%20R3in4%20D3l%20Fl0w%20Cap%2082.mp4
 
-####################################### La Revolucion Netflix
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="La Revolucion",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2300/2342/1_m1.jpg" group-title="La Revolucion",Cap. 01
 http://201.172.61.81:85/series/noviembre/La%20Revolucion/La%20Revolucion%20-%20s01e01.mp4
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2300/2342/1_m1.jpg" group-title="La Revolucion",Cap. 02
@@ -4094,10 +3840,6 @@ http://201.172.61.81:85/series/noviembre/La%20Revolucion/La%20Revolucion%20-%20s
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2300/2342/1_m1.jpg" group-title="La Revolucion",Cap. 08
 http://201.172.61.81:85/series/noviembre/La%20Revolucion/La%20Revolucion%20-%20s01e08.mp4
 
-####################################### La Ruina HBO GO
-#EXTINF:-1 tvg-logo="https://cdn.iconscout.com/icon/free/png-512/hbo-go-2-569347.png" group-title="La Ruina",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="http://www.elespectadorimaginario.com/assets/the_undoing_cartel.jpg" group-title="La Ruina",cap. 01
 http://201.172.61.203:88/Series/1%20FEBRERO/The%20Undoing/01.mp4
 #EXTINF:-1 tvg-logo="http://www.elespectadorimaginario.com/assets/the_undoing_cartel.jpg" group-title="La Ruina",cap. 02
@@ -4111,10 +3853,6 @@ http://201.172.61.203:88/Series/1%20FEBRERO/The%20Undoing/05.mp4
 #EXTINF:-1 tvg-logo="http://www.elespectadorimaginario.com/assets/the_undoing_cartel.jpg" group-title="La Ruina",cap. 06
 http://201.172.61.203:88/Series/1%20FEBRERO/The%20Undoing/06.mp4
 
-####################################### Las chicas del cable T1 Netflix
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Las chicas del cable T1",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/19/09/03/05/44/1353870.jpg" group-title="Las chicas del cable T1",Cap. 01
 http://201.172.61.81:85/series/Enero/Las%20Chicas%20Del%20Cable/T1/1.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/19/09/03/05/44/1353870.jpg" group-title="Las chicas del cable T1",Cap. 02
@@ -4132,10 +3870,6 @@ http://201.172.61.81:85/series/Enero/Las%20Chicas%20Del%20Cable/T1/7.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/19/09/03/05/44/1353870.jpg" group-title="Las chicas del cable T1",Cap. 08
 http://201.172.61.81:85/series/Enero/Las%20Chicas%20Del%20Cable/T1/8.mp4
 
-####################################### Las chicas del cable T2 Netflix
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Las chicas del cable T2",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1300/1389/2_m3.jpg" group-title="Las chicas del cable T2",Cap. 01
 http://201.172.61.81:85/series/Enero/Las%20Chicas%20Del%20Cable/T2/1.mp4
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1300/1389/2_m3.jpg" group-title="Las chicas del cable T2",Cap. 02
@@ -4153,10 +3887,6 @@ http://201.172.61.81:85/series/Enero/Las%20Chicas%20Del%20Cable/T2/7.mp4
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1300/1389/2_m3.jpg" group-title="Las chicas del cable T2",Cap. 08
 http://201.172.61.81:85/series/Enero/Las%20Chicas%20Del%20Cable/T2/8.mp4
 
-####################################### Las chicas del cable T3 Netflix
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Las chicas del cable T3",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/19/09/03/05/44/5386521.jpg" group-title="Las chicas del cable T3",Cap. 01
 http://201.172.61.81:85/series/Enero/Las%20Chicas%20Del%20Cable/T3/1.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/19/09/03/05/44/5386521.jpg" group-title="Las chicas del cable T3",Cap. 02
@@ -4174,10 +3904,6 @@ http://201.172.61.81:85/series/Enero/Las%20Chicas%20Del%20Cable/T3/7.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/19/09/03/05/44/5386521.jpg" group-title="Las chicas del cable T3",Cap. 08
 http://201.172.61.81:85/series/Enero/Las%20Chicas%20Del%20Cable/T3/8.mp4
 
-####################################### Las chicas del cable T4 Netflix
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Las chicas del cable T4",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/19/07/25/09/49/3282025.jpg" group-title="Las chicas del cable T4",Cap. 01
 http://201.172.61.81:85/series/Enero/Las%20Chicas%20Del%20Cable/T4/1.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/19/07/25/09/49/3282025.jpg" group-title="Las chicas del cable T4",Cap. 02
@@ -4195,10 +3921,6 @@ http://201.172.61.81:85/series/Enero/Las%20Chicas%20Del%20Cable/T4/7.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/19/07/25/09/49/3282025.jpg" group-title="Las chicas del cable T4",Cap. 08
 http://201.172.61.81:85/series/Enero/Las%20Chicas%20Del%20Cable/T4/8.mp4
 
-####################################### Las chicas del cable T5 Netflix
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Las chicas del cable T5",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/20/06/02/12/36/3968000.jpg" group-title="Las chicas del cable T5",Cap. 01
 http://201.172.61.81:85/series/Enero/Las%20Chicas%20Del%20Cable/T5/%5bPorMega.com%5dL4s%20Ch1c4s%20D3l%20C4bl3%20Temp%2005%20Cap%2001.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/20/06/02/12/36/3968000.jpg" group-title="Las chicas del cable T5",Cap. 02
@@ -4210,10 +3932,6 @@ http://201.172.61.81:85/series/Enero/Las%20Chicas%20Del%20Cable/T5/%5bPorMega.co
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/20/06/02/12/36/3968000.jpg" group-title="Las chicas del cable T5",Cap. 05
 http://201.172.61.81:85/series/Enero/Las%20Chicas%20Del%20Cable/T5/%5bPorMega.com%5dL4s%20Ch1c4s%20D3l%20C4bl3%20Temp%2005%20Cap%2005.mp4
 
-####################################### La usurpadora TELEVISA
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/1666849.png" group-title="La usurpadora",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/20/05/26/10/21/2953080.jpg" group-title="La usurpadora",Cap. 01
 http://201.172.61.81:85/series/Novelas/1%20la%20usurpadora%202019/La%20Usurpadora%20-%201x01.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/20/05/26/10/21/2953080.jpg" group-title="La usurpadora",Cap. 02
@@ -4265,10 +3983,6 @@ http://201.172.61.81:85/series/Novelas/1%20la%20usurpadora%202019/La%20Usurpador
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/20/05/26/10/21/2953080.jpg" group-title="La usurpadora",Cap. 25
 http://201.172.61.81:85/series/Novelas/1%20la%20usurpadora%202019/La%20Usurpadora%20-%201x25.mp4
 
-####################################### Leyendas del Mañana T1 Netflix
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Leyendas del Mañana T1",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71I75MOTzmL._AC_SL1000_.jpg" group-title="Leyendas del Mañana T1",Cap. 01
 http://201.172.61.81:85/series/noviembre/Legends%20Tomorrow%201%20a%205/season%201/Legends..Tomorrow%20-%20s01e01.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71I75MOTzmL._AC_SL1000_.jpg" group-title="Leyendas del Mañana T1",Cap. 02
@@ -4302,10 +4016,6 @@ http://201.172.61.81:85/series/noviembre/Legends%20Tomorrow%201%20a%205/season%2
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71I75MOTzmL._AC_SL1000_.jpg" group-title="Leyendas del Mañana T1",Cap. 16
 http://201.172.61.81:85/series/noviembre/Legends%20Tomorrow%201%20a%205/season%201/Legends..Tomorrow%20-%20s01e16.mp4
 
-####################################### Leyendas del Mañana T2 Netflix
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Leyendas del Mañana T2",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71I8oz4-q0L._AC_SY879_.jpg" group-title="Leyendas del Mañana T2",Cap. 01
 http://201.172.61.81:85/series/noviembre/Legends%20Tomorrow%201%20a%205/season%202/Legends..Tomorrow%20-%20s02e01.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71I8oz4-q0L._AC_SY879_.jpg" group-title="Leyendas del Mañana T2",Cap. 02
@@ -4341,10 +4051,6 @@ http://201.172.61.81:85/series/noviembre/Legends%20Tomorrow%201%20a%205/season%2
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71I8oz4-q0L._AC_SY879_.jpg" group-title="Leyendas del Mañana T2",Cap. 17
 http://201.172.61.81:85/series/noviembre/Legends%20Tomorrow%201%20a%205/season%202/Legends..Tomorrow%20-%20s02e17.mp4
 
-####################################### Leyendas del Mañana T3 Netflix
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Leyendas del Mañana T3",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81vfETZfHvL._AC_SL1500_.jpg" group-title="Leyendas del Mañana T3",Cap. 01
 http://201.172.61.81:85/series/noviembre/Legends%20Tomorrow%201%20a%205/season%203/Legends..Tomorrow.S03E01.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81vfETZfHvL._AC_SL1500_.jpg" group-title="Leyendas del Mañana T3",Cap. 02
@@ -4382,10 +4088,6 @@ http://201.172.61.81:85/series/noviembre/Legends%20Tomorrow%201%20a%205/season%2
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81vfETZfHvL._AC_SL1500_.jpg" group-title="Leyendas del Mañana T3",Cap. 18
 http://201.172.61.81:85/series/noviembre/Legends%20Tomorrow%201%20a%205/season%203/Legends..Tomorrow.S03E18.mp4
 
-####################################### Leyendas del Mañana T4 Netflix
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Leyendas del Mañana T4",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f2/c3/b2/f2c3b26298ba166c30794d8e395347ad.jpg" group-title="Leyendas del Mañana T4",Cap. 01
 http://201.172.61.81:85/series/noviembre/Legends%20Tomorrow%201%20a%205/season%204/Legends..Tomorrow%20-%20s04e01.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f2/c3/b2/f2c3b26298ba166c30794d8e395347ad.jpg" group-title="Leyendas del Mañana T4",Cap. 02
@@ -4419,10 +4121,6 @@ http://201.172.61.81:85/series/noviembre/Legends%20Tomorrow%201%20a%205/season%2
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f2/c3/b2/f2c3b26298ba166c30794d8e395347ad.jpg" group-title="Leyendas del Mañana T4",Cap. 16
 http://201.172.61.81:85/series/noviembre/Legends%20Tomorrow%201%20a%205/season%204/Legends..Tomorrow%20-%20s04e16.mp4
 
-####################################### Loquito por ti CARACOL
-#EXTINF:-1 tvg-logo="https://www.caracoltvcorporativo.com/sites/default/files/logo-footer_cor/logo_caracol2_0.png" group-title="Loquito por ti",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="http://www.cinehdencasa.com/wp-content/uploads/2018/10/loquito-por-ti-capitulos-completos-370x562.jpg" group-title="Loquito por ti",cap. 01
 http://201.172.61.81:85/series/Enero/1Loquito%20Por%20Ti/Loquito%20Por%20Ti/Loquito%20Por%20Ti%201x01.mp4
 #EXTINF:-1 tvg-logo="http://www.cinehdencasa.com/wp-content/uploads/2018/10/loquito-por-ti-capitulos-completos-370x562.jpg" group-title="Loquito por ti",cap. 02
@@ -4584,10 +4282,6 @@ http://201.172.61.81:85/series/Enero/1Loquito%20Por%20Ti/Loquito%20Por%20Ti/Loqu
 #EXTINF:-1 tvg-logo="http://www.cinehdencasa.com/wp-content/uploads/2018/10/loquito-por-ti-capitulos-completos-370x562.jpg" group-title="Loquito por ti",cap. 80
 http://201.172.61.81:85/series/Enero/1Loquito%20Por%20Ti/Loquito%20Por%20Ti/Loquito%20Por%20Ti%201x80.MP4
 
-####################################### Lore T1 Amazon Prime
-#EXTINF:-1 tvg-logo="https://www.pdvg.it/wp-content/uploads/2020/02/amazon-prime-video-pdvg.png" group-title="Lore T1",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk0MTk1MTQ0OF5BMl5BanBnXkFtZTgwMjYwOTYzNjM@._V1_.jpg" group-title="Lore T1",cap. 01
 http://201.172.61.81:85/series/noviembre/Lore/Lore%2001/Lore.1x01.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk0MTk1MTQ0OF5BMl5BanBnXkFtZTgwMjYwOTYzNjM@._V1_.jpg" group-title="Lore T1",cap. 02
@@ -4601,10 +4295,6 @@ http://201.172.61.81:85/series/noviembre/Lore/Lore%2001/Lore.1x05.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk0MTk1MTQ0OF5BMl5BanBnXkFtZTgwMjYwOTYzNjM@._V1_.jpg" group-title="Lore T1",cap. 06
 http://201.172.61.81:85/series/noviembre/Lore/Lore%2001/Lore.1x06.mp4
 
-####################################### Lore T2 Amazon Prime
-#EXTINF:-1 tvg-logo="https://www.pdvg.it/wp-content/uploads/2020/02/amazon-prime-video-pdvg.png" group-title="Lore T2",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/18/07/25/12/54/3667955.jpg" group-title="Lore T2",cap. 01
 http://201.172.61.81:85/series/noviembre/Lore/Lore%2002/Lore.2x01.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/18/07/25/12/54/3667955.jpg" group-title="Lore T2",cap. 02
@@ -4618,10 +4308,6 @@ http://201.172.61.81:85/series/noviembre/Lore/Lore%2002/Lore.2x05.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/18/07/25/12/54/3667955.jpg" group-title="Lore T2",cap. 06
 http://201.172.61.81:85/series/noviembre/Lore/Lore%2002/Lore.2x06.mp4
 
-####################################### Los internacionales CABLEVISION FLOW
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1357752173015298048/b2RMnPTe.jpg" group-title="Los internacionales",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://mb.cision.com/Public/16563/3245920/b69a7cb92ce5781f_org.jpg" group-title="Los internacionales",cap. 01
 http://201.172.61.81:85/series/Caricaturas/1Los%20internacionales%20(2020)/01.mp4
 #EXTINF:-1 tvg-logo="https://mb.cision.com/Public/16563/3245920/b69a7cb92ce5781f_org.jpg" group-title="Los internacionales",cap. 02
@@ -4639,10 +4325,6 @@ http://201.172.61.81:85/series/Caricaturas/1Los%20internacionales%20(2020)/07.mp
 #EXTINF:-1 tvg-logo="https://mb.cision.com/Public/16563/3245920/b69a7cb92ce5781f_org.jpg" group-title="Los internacionales",cap. 08
 http://201.172.61.81:85/series/Caricaturas/1Los%20internacionales%20(2020)/08.mp4
 
-####################################### MacGyver T1 Amazon Prime
-#EXTINF:-1 tvg-logo="https://www.pdvg.it/wp-content/uploads/2020/02/amazon-prime-video-pdvg.png" group-title="MacGyver T1",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/16/08/18/14/50/321894.jpg" group-title="MacGyver T1",cap. 01
 http://201.172.61.81:85/series/Enero/Magiver/T1/S01E01.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/16/08/18/14/50/321894.jpg" group-title="MacGyver T1",cap. 02
@@ -4686,10 +4368,6 @@ http://201.172.61.81:85/series/Enero/Magiver/T1/S01E20.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/16/08/18/14/50/321894.jpg" group-title="MacGyver T1",cap. 21
 http://201.172.61.81:85/series/Enero/Magiver/T1/S01E21.mp4
 
-####################################### MacGyver T2 Amazon Prime
-#EXTINF:-1 tvg-logo="https://www.pdvg.it/wp-content/uploads/2020/02/amazon-prime-video-pdvg.png" group-title="MacGyver T2",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51N%2BfMZfQKL._AC_.jpg" group-title="MacGyver T2",cap. 01
 http://201.172.61.81:85/series/Enero/Magiver/T2/S02E01.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51N%2BfMZfQKL._AC_.jpg" group-title="MacGyver T2",cap. 02
@@ -4737,10 +4415,6 @@ http://201.172.61.81:85/series/Enero/Magiver/T2/S02E22.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51N%2BfMZfQKL._AC_.jpg" group-title="MacGyver T2",cap. 23
 http://201.172.61.81:85/series/Enero/Magiver/T2/S02E23.mp4
 
-####################################### Normal People T1 HULU
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/09/hulu-logo.png" group-title="Normal People T1",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/20/04/01/08/09/2027260.jpg" group-title="Normal People T1",cap. 01
 http://201.172.61.203:88/Series/1%20FEBRERO/Normal%20People%20Temporada%201%20(2020)%20HD%201080p%20Latino/Normal%20People%20Temporada%201%20(2020)%20HD%201080p%20Latino/Normal%20People%20S01e01.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/20/04/01/08/09/2027260.jpg" group-title="Normal People T1",cap. 02
@@ -4766,10 +4440,6 @@ http://201.172.61.203:88/Series/1%20FEBRERO/Normal%20People%20Temporada%201%20(2
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/20/04/01/08/09/2027260.jpg" group-title="Normal People T1",cap. 12
 http://201.172.61.203:88/Series/1%20FEBRERO/Normal%20People%20Temporada%201%20(2020)%20HD%201080p%20Latino/Normal%20People%20Temporada%201%20(2020)%20HD%201080p%20Latino/Normal%20People%20S01e12.mp4
 
-####################################### Paranormal Netflix
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Paranormal",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://dailytimes.com.pk/assets/uploads/2020/11/IMG_2062.jpg" group-title="Paranormal",Cap. 01
 http://201.172.61.81:85/series/noviembre/Paranormal/Paranormal%20-%20s01e01.mp4
 #EXTINF:-1 tvg-logo="https://dailytimes.com.pk/assets/uploads/2020/11/IMG_2062.jpg" group-title="Paranormal",Cap. 02
@@ -4783,10 +4453,6 @@ http://201.172.61.81:85/series/noviembre/Paranormal/Paranormal%20-%20s01e05.mp4
 #EXTINF:-1 tvg-logo="https://dailytimes.com.pk/assets/uploads/2020/11/IMG_2062.jpg" group-title="Paranormal",Cap. 06
 http://201.172.61.81:85/series/noviembre/Paranormal/Paranormal%20-%20s01e06.mp4
 
-####################################### Penny Dreadful: City of Angels Showtime
-#EXTINF:-1 tvg-logo="https://my-test-11.slatic.net/p/d665493fc068c1436d301439b34c9688.jpg" group-title="Penny Dreadful: City of Angels",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://www.denofgeek.com/wp-content/uploads/2018/11/penny-dreadful-city-of-angels-poster-showtime.jpg" group-title="Penny Dreadful: City of Angels",Cap. 01
 http://201.172.61.81:85/series/noviembre/Penny%20Dreadful,%20City%20Of%20Angels/Penny.Dreadful,.City.Of.Angels%20-%20s01e01.mp4
 #EXTINF:-1 tvg-logo="https://www.denofgeek.com/wp-content/uploads/2018/11/penny-dreadful-city-of-angels-poster-showtime.jpg" group-title="Penny Dreadful: City of Angels",Cap. 02
@@ -4808,10 +4474,6 @@ http://201.172.61.81:85/series/noviembre/Penny%20Dreadful,%20City%20Of%20Angels/
 #EXTINF:-1 tvg-logo="https://www.denofgeek.com/wp-content/uploads/2018/11/penny-dreadful-city-of-angels-poster-showtime.jpg" group-title="Penny Dreadful: City of Angels",Cap. 10
 http://201.172.61.81:85/series/noviembre/Penny%20Dreadful,%20City%20Of%20Angels/Penny.Dreadful,.City.Of.Angels%20-%20s01e10.mp4
 
-####################################### Perdida Atresmedia
-#EXTINF:-1 tvg-logo="https://fotografias.antena3.com/clipping/cmsimages01/2018/10/18/62DAB998-3AA9-4885-83C5-765A20F97FD3/58.jpg" group-title="Perdida",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/20/01/02/12/03/3540488.jpg" group-title="Perdida",Cap. 01
 http://201.172.61.81:85/series/noviembre/Stolen%20Away/Stolen.Away.S01E01.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/20/01/02/12/03/3540488.jpg" group-title="Perdida",Cap. 02
@@ -4835,10 +4497,6 @@ http://201.172.61.81:85/series/noviembre/Stolen%20Away/Stolen.Away.S01E10.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/20/01/02/12/03/3540488.jpg" group-title="Perdida",Cap. 11
 http://201.172.61.81:85/series/noviembre/Stolen%20Away/Stolen.Away.S01E11.mp4
 
-####################################### Preso No. 1 TELEMUNDO
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/a4/5c/04/a45c0452bba4326cae4ae5e8331d36a9.jpg" group-title="Preso No. 1",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://www.mundonoveseries.com/wp-content/uploads/2019/06/preso-n-1-serie-poster.jpg" group-title="Preso No. 1",Cap. 01
 http://201.172.61.81:85/series/Novelas/Preso%20Numero%201/1.mkv
 #EXTINF:-1 tvg-logo="https://www.mundonoveseries.com/wp-content/uploads/2019/06/preso-n-1-serie-poster.jpg" group-title="Preso No. 1",Cap. 02
@@ -4928,10 +4586,6 @@ http://201.172.61.81:85/series/Novelas/Preso%20Numero%201/43.mkv
 #EXTINF:-1 tvg-logo="https://www.mundonoveseries.com/wp-content/uploads/2019/06/preso-n-1-serie-poster.jpg" group-title="Preso No. 1",Cap. 44
 http://201.172.61.81:85/series/Novelas/Preso%20Numero%201/44.mkv
 
-####################################### Run Coyote Run T1 FOX
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/fox-tv-logo-png-2.png" group-title="Run Coyote Run T1",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a9/0e/d6/a90ed65f2695d828b34d7ae164d81f12.jpg" group-title="Run Coyote Run T1",cap. 01
 http://201.172.61.81:85/series/noviembre/Run%20Coyote%20Run%201%20y%202/Run%20Coyote%20Run%20S01/Coyote%20Run%20-%20s01e01.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a9/0e/d6/a90ed65f2695d828b34d7ae164d81f12.jpg" group-title="Run Coyote Run T1",cap. 02
@@ -4965,10 +4619,6 @@ http://201.172.61.81:85/series/noviembre/Run%20Coyote%20Run%201%20y%202/Run%20Co
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a9/0e/d6/a90ed65f2695d828b34d7ae164d81f12.jpg" group-title="Run Coyote Run T1",cap. 16
 http://201.172.61.81:85/series/noviembre/Run%20Coyote%20Run%201%20y%202/Run%20Coyote%20Run%20S01/Coyote%20Run%20-%20s01e016.mp4
 
-####################################### Run Coyote Run T2 FOX
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/fox-tv-logo-png-2.png" group-title="Run Coyote Run T2",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://images2.imgbox.com/b0/c8/4NCyOoW1_o.jpg" group-title="Run Coyote Run T2",cap. 01
 http://201.172.61.81:85/series/noviembre/Run%20Coyote%20Run%201%20y%202/Run%20Coyote%20Run%20S02/Coyote%20Run%20-%20s02e01.mp4
 #EXTINF:-1 tvg-logo="https://images2.imgbox.com/b0/c8/4NCyOoW1_o.jpg" group-title="Run Coyote Run T2",cap. 02
@@ -4996,10 +4646,6 @@ http://201.172.61.81:85/series/noviembre/Run%20Coyote%20Run%201%20y%202/Run%20Co
 #EXTINF:-1 tvg-logo="https://images2.imgbox.com/b0/c8/4NCyOoW1_o.jpg" group-title="Run Coyote Run T2",cap. 13
 http://201.172.61.81:85/series/noviembre/Run%20Coyote%20Run%201%20y%202/Run%20Coyote%20Run%20S02/Coyote%20Run%20-%20s02e013.mp4
 
-####################################### Run Coyote Run T3 FOX
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/fox-tv-logo-png-2.png" group-title="Run Coyote Run T3",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://www.descargatelocorp.com/wp-content/uploads/2020/11/Run-Coyote-Run-Temporada-3-HD-720p-Latino.jpg" group-title="Run Coyote Run T3",cap. 01
 http://201.172.61.81:85/series/noviembre/Run%20Coyote%20Run%201%20y%202/Run%20Coyote%20Run%20S03/Run.Coyote.Run.S03E01.mp4
 #EXTINF:-1 tvg-logo="https://www.descargatelocorp.com/wp-content/uploads/2020/11/Run-Coyote-Run-Temporada-3-HD-720p-Latino.jpg" group-title="Run Coyote Run T3",cap. 02
@@ -5027,10 +4673,6 @@ http://201.172.61.81:85/series/noviembre/Run%20Coyote%20Run%201%20y%202/Run%20Co
 #EXTINF:-1 tvg-logo="https://www.descargatelocorp.com/wp-content/uploads/2020/11/Run-Coyote-Run-Temporada-3-HD-720p-Latino.jpg" group-title="Run Coyote Run T3",cap. 13
 http://201.172.61.81:85/series/noviembre/Run%20Coyote%20Run%201%20y%202/Run%20Coyote%20Run%20S03/Run.Coyote.Run.S03E13.mp4
 
-####################################### Selena T1 Netflix
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Selena T1",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/10/06/16/13/5645928.jpg" group-title="Selena T1",cap. 01
 http://vods.tuxchannel.tv/series/selena_the_series/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/10/06/16/13/5645928.jpg" group-title="Selena T1",cap. 02
@@ -5050,10 +4692,6 @@ http://vods.tuxchannel.tv/series/selena_the_series/s_01_e_08.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/10/06/16/13/5645928.jpg" group-title="Selena T1",cap. 09
 http://vods.tuxchannel.tv/series/selena_the_series/s_01_e_09.mkv
 
-####################################### Slasher T1 Netflix
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Slasher T1",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/19/05/27/14/24/5510834.jpg" group-title="Slasher T1",Cap. 01
 http://201.172.61.81:85/series/Enero/MKV%20Slasher/T1/%5bPorMega.com%5dSl4sh3r%20Temp%2001%20Cap%2001.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/19/05/27/14/24/5510834.jpg" group-title="Slasher T1",Cap. 02
@@ -5071,10 +4709,6 @@ http://201.172.61.81:85/series/Enero/MKV%20Slasher/T1/%5bPorMega.com%5dSl4sh3r%2
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/19/05/27/14/24/5510834.jpg" group-title="Slasher T1",Cap. 08
 http://201.172.61.81:85/series/Enero/MKV%20Slasher/T1/%5bPorMega.com%5dSl4sh3r%20Temp%2001%20Cap%2008.mp4
 
-####################################### Slasher T2 Netflix
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Slasher T2",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/19/05/27/14/24/5554515.jpg" group-title="Slasher T2",Cap. 01
 http://201.172.61.81:85/series/Enero/MKV%20Slasher/T2/%5bPorMega.com%5dSl4sh3r%20Temp%2002%20Cap%2001.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/19/05/27/14/24/5554515.jpg" group-title="Slasher T2",Cap. 02
@@ -5092,10 +4726,6 @@ http://201.172.61.81:85/series/Enero/MKV%20Slasher/T2/%5bPorMega.com%5dSl4sh3r%2
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/19/05/27/14/24/5554515.jpg" group-title="Slasher T2",Cap. 08
 http://201.172.61.81:85/series/Enero/MKV%20Slasher/T2/%5bPorMega.com%5dSl4sh3r%20Temp%2002%20Cap%2008.mp4
 
-####################################### Slasher T3 Netflix
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Slasher T3",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/19/05/27/14/24/5960123.jpg" group-title="Slasher T3",Cap. 01
 http://201.172.61.81:85/series/Enero/MKV%20Slasher/T3/%5bPorMega.com%5dSl4sh3r%20Temp%2003%20Cap%2001.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/19/05/27/14/24/5960123.jpg" group-title="Slasher T3",Cap. 02
@@ -5113,10 +4743,6 @@ http://201.172.61.81:85/series/Enero/MKV%20Slasher/T3/%5bPorMega.com%5dSl4sh3r%2
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/19/05/27/14/24/5960123.jpg" group-title="Slasher T3",Cap. 08
 http://201.172.61.81:85/series/Enero/MKV%20Slasher/T3/%5bPorMega.com%5dSl4sh3r%20Temp%2003%20Cap%2008.mp4
 
-####################################### Social Distance Netflix
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Social Distance",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/01/9f/02/019f02491c6452758966639fc44f2399.png" group-title="Social Distance",Cap. 01
 http://201.172.61.81:85/series/noviembre/Social%20Distance/Social.Distance%20-%20s01e01.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/01/9f/02/019f02491c6452758966639fc44f2399.png" group-title="Social Distance",Cap. 02
@@ -5134,10 +4760,6 @@ http://201.172.61.81:85/series/noviembre/Social%20Distance/Social.Distance%20-%2
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/01/9f/02/019f02491c6452758966639fc44f2399.png" group-title="Social Distance",Cap. 08
 http://201.172.61.81:85/series/noviembre/Social%20Distance/Social.Distance%20-%20s01e08.mp4
 
-####################################### Spartacus T1 STARZ
-#EXTINF:-1 tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/starz-logo.jpg" group-title="Spartacus T1",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/300/343/2_m1.jpg" group-title="Spartacus T1",Cap. 01
 http://201.172.61.81:85/series/Enero/MKV%20Spartacus/T1/%5bPorMega.com%5dSp4rt4cvs%20Temp%2001%20Cap%2001.mp4
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/300/343/2_m1.jpg" group-title="Spartacus T1",Cap. 02
@@ -5165,10 +4787,6 @@ http://201.172.61.81:85/series/Enero/MKV%20Spartacus/T1/%5bPorMega.com%5dSp4rt4c
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/300/343/2_m1.jpg" group-title="Spartacus T1",Cap. 13
 http://201.172.61.81:85/series/Enero/MKV%20Spartacus/T1/%5bPorMega.com%5dSp4rt4cvs%20Temp%2001%20Cap%2013.mp4
 
-####################################### Spartacus T2 STARZ
-#EXTINF:-1 tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/starz-logo.jpg" group-title="Spartacus T2",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/r_1280_720/pictures/210/616/21061622_20131127201755431.jpg" group-title="Spartacus T2",Cap. 01
 http://201.172.61.81:85/series/Enero/MKV%20Spartacus/T2/%5bPorMega.com%5dSp4rt4cvs%20Temp%2002%20Cap%2001.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/r_1280_720/pictures/210/616/21061622_20131127201755431.jpg" group-title="Spartacus T2",Cap. 02
@@ -5182,10 +4800,6 @@ http://201.172.61.81:85/series/Enero/MKV%20Spartacus/T2/%5bPorMega.com%5dSp4rt4c
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/r_1280_720/pictures/210/616/21061622_20131127201755431.jpg" group-title="Spartacus T2",Cap. 06
 http://201.172.61.81:85/series/Enero/MKV%20Spartacus/T2/%5bPorMega.com%5dSp4rt4cvs%20Temp%2002%20Cap%2006.mp4
 
-####################################### Spartacus T3 STARZ
-#EXTINF:-1 tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/starz-logo.jpg" group-title="Spartacus T3",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/f5/ab/35f5ab2af1a4eaaf8c39e8c93bf8f141.jpg" group-title="Spartacus T3",Cap. 01
 http://201.172.61.81:85/series/Enero/MKV%20Spartacus/T3/%5bPorMega.com%5dSp4rt4cvs%20Temp%2003%20Cap%2001.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/f5/ab/35f5ab2af1a4eaaf8c39e8c93bf8f141.jpg" group-title="Spartacus T3",Cap. 02
@@ -5207,10 +4821,6 @@ http://201.172.61.81:85/series/Enero/MKV%20Spartacus/T3/%5bPorMega.com%5dSp4rt4c
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/f5/ab/35f5ab2af1a4eaaf8c39e8c93bf8f141.jpg" group-title="Spartacus T3",Cap. 10
 http://201.172.61.81:85/series/Enero/MKV%20Spartacus/T3/%5bPorMega.com%5dSp4rt4cvs%20Temp%2003%20Cap%2010.mp4
 
-####################################### Spartacus T4 STARZ
-#EXTINF:-1 tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/starz-logo.jpg" group-title="Spartacus T4",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f0/16/d9/f016d9a70fd1e47c70ff0bfe872fe19a.jpg" group-title="Spartacus T4",Cap. 01
 http://201.172.61.81:85/series/Enero/MKV%20Spartacus/T4/%5bPorMega.com%5dSp4rt4cvs%20Temp%2004%20Cap%2001.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f0/16/d9/f016d9a70fd1e47c70ff0bfe872fe19a.jpg" group-title="Spartacus T4",Cap. 02
@@ -5232,10 +4842,6 @@ http://201.172.61.81:85/series/Enero/MKV%20Spartacus/T4/%5bPorMega.com%5dSp4rt4c
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f0/16/d9/f016d9a70fd1e47c70ff0bfe872fe19a.jpg" group-title="Spartacus T4",Cap. 10
 http://201.172.61.81:85/series/Enero/MKV%20Spartacus/T4/%5bPorMega.com%5dSp4rt4cvs%20Temp%2004%20Cap%2010.mp4
 
-####################################### Súbete a mi moto Amazon Prime
-#EXTINF:-1 tvg-logo="https://www.pdvg.it/wp-content/uploads/2020/02/amazon-prime-video-pdvg.png" group-title="Súbete a mi moto",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://spoiler.bolavip.com/export/sites/bolavip/img/2020/10/10/subete_a_mi_moto_estreno.jpg_1775132406.jpg" group-title="Súbete a mi moto",cap. 01
 http://201.172.61.81:85/series/Novelas/Subete%20a%20mi%20moto/1.mkv
 #EXTINF:-1 tvg-logo="https://spoiler.bolavip.com/export/sites/bolavip/img/2020/10/10/subete_a_mi_moto_estreno.jpg_1775132406.jpg" group-title="Súbete a mi moto",cap. 02
@@ -5267,10 +4873,6 @@ http://201.172.61.81:85/series/Novelas/Subete%20a%20mi%20moto/14.mkv
 #EXTINF:-1 tvg-logo="https://spoiler.bolavip.com/export/sites/bolavip/img/2020/10/10/subete_a_mi_moto_estreno.jpg_1775132406.jpg" group-title="Súbete a mi moto",cap. 15
 http://201.172.61.81:85/series/Novelas/Subete%20a%20mi%20moto/15.mkv
 
-####################################### The Deuce T1 HBO GO
-#EXTINF:-1 tvg-logo="https://cdn.iconscout.com/icon/free/png-512/hbo-go-2-569347.png" group-title="The Deuce T1",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/17/08/17/10/15/035073.jpg" group-title="The Deuce T1",cap. 01
 http://201.172.61.81:85/series/noviembre/The%20Deuce%201%20y%202/temp%201/The.Deuce%20-%20s01e01.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/17/08/17/10/15/035073.jpg" group-title="The Deuce T1",cap. 02
@@ -5288,10 +4890,6 @@ http://201.172.61.81:85/series/noviembre/The%20Deuce%201%20y%202/temp%201/The.De
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/17/08/17/10/15/035073.jpg" group-title="The Deuce T1",cap. 08
 http://201.172.61.81:85/series/noviembre/The%20Deuce%201%20y%202/temp%201/The.Deuce%20-%20s01e08.mp4
 
-####################################### The Deuce T2 HBO GO
-#EXTINF:-1 tvg-logo="https://cdn.iconscout.com/icon/free/png-512/hbo-go-2-569347.png" group-title="The Deuce T2",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81wCuPkfW6L._SL1500_.jpg" group-title="The Deuce T2",cap. 01
 http://201.172.61.81:85/series/noviembre/The%20Deuce%201%20y%202/temp%202/The.Deuce%20-%20s02e01.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81wCuPkfW6L._SL1500_.jpg" group-title="The Deuce T2",cap. 02
@@ -5311,10 +4909,6 @@ http://201.172.61.81:85/series/noviembre/The%20Deuce%201%20y%202/temp%202/The.De
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81wCuPkfW6L._SL1500_.jpg" group-title="The Deuce T2",cap. 09
 http://201.172.61.81:85/series/noviembre/The%20Deuce%201%20y%202/temp%202/The.Deuce%20-%20s02e09.mp4
 
-####################################### The Good Doctor T1 ABC
-#EXTINF:-1 tvg-logo="https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/31686/article_full%401x.jpg" group-title="The Good Doctor T1",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/08/14/11/03/039958.jpg" group-title="The Good Doctor T1",cap. 01
 http://193.34.144.178/Bryan/Arrow_T4/The%20god%20doctor/Ver%20Cap%c3%adtulo%201%20de%20The%20Good%20Doctor%20Temporada%201%20Online%20Latino%20HD,%20Castellano%20y%20Subtitulado%20-%20PELISPLUS.MP4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/08/14/11/03/039958.jpg" group-title="The Good Doctor T1",cap. 02
@@ -5352,10 +4946,6 @@ http://193.34.144.178/Bryan/Arrow_T4/The%20god%20doctor/Ver%20Cap%c3%adtulo%2017
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/08/14/11/03/039958.jpg" group-title="The Good Doctor T1",cap. 18
 http://193.34.144.178/Bryan/Arrow_T4/The%20god%20doctor/Ver%20Cap%c3%adtulo%2018%20de%20The%20Good%20Doctor%20Temporada%201%20Online%20Latino%20HD,%20Castellano%20y%20Subtitulado%20-%20PELISPLUS.MP4
 
-####################################### The Good Doctor T2 ABC
-#EXTINF:-1 tvg-logo="https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/31686/article_full%401x.jpg" group-title="The Good Doctor T2",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1400/1480/2_m3.jpg" group-title="The Good Doctor T2",cap. 01
 http://193.34.144.178/Bryan/Arrow_T4/The%20god%20doctor/t2/Ver%20Cap%c3%adtulo%201%20de%20The%20Good%20Doctor%20Temporada%202%20Online%20Latino%20HD,%20Castellano%20y%20Subtitulado%20-%20PELISPLUS.MP4
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1400/1480/2_m3.jpg" group-title="The Good Doctor T2",cap. 02
@@ -5393,10 +4983,6 @@ http://193.34.144.178/Bryan/Arrow_T4/The%20god%20doctor/t2/Ver%20Cap%c3%adtulo%2
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1400/1480/2_m3.jpg" group-title="The Good Doctor T2",cap. 18
 http://193.34.144.178/Bryan/Arrow_T4/The%20god%20doctor/t2/Ver%20Cap%c3%adtulo%2018%20de%20The%20Good%20Doctor%20Temporada%202%20Online%20Latino%20HD,%20Castellano%20y%20Subtitulado%20-%20PELISPLUS.MP4
 
-####################################### The Mandalorian T1 DISNEY PLUS
-#EXTINF:-1 tvg-logo="https://icdn9.digitaltrends.com/image/digitaltrends_es/disney-plus-logo-streaming-topic-500x500.jpg" group-title="The Mandalorian T1",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51OoERvY59L._AC_SY741_.jpg" group-title="The Mandalorian T1",cap. 01
 http://201.172.61.81:85/series/Enero/the%20mandalorian/01.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51OoERvY59L._AC_SY741_.jpg" group-title="The Mandalorian T1",cap. 02
@@ -5414,10 +5000,6 @@ http://201.172.61.81:85/series/Enero/the%20mandalorian/07.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51OoERvY59L._AC_SY741_.jpg" group-title="The Mandalorian T1",cap. 08
 http://201.172.61.81:85/series/Enero/the%20mandalorian/08.mp4
 
-####################################### Timeless T1 NBC
-#EXTINF:-1 tvg-logo="https://www.wcbi.com/wp-content/uploads/2020/03/nbc-logo-1.jpg" group-title="Timeless T1",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/16/08/09/16/53/200701.jpg" group-title="Timeless T1",cap. 01
 http://201.172.61.81:85/series/Enero/Timeless/T1/01.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/16/08/09/16/53/200701.jpg" group-title="Timeless T1",cap. 02
@@ -5451,10 +5033,6 @@ http://201.172.61.81:85/series/Enero/Timeless/T1/15.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/16/08/09/16/53/200701.jpg" group-title="Timeless T1",cap. 16
 http://201.172.61.81:85/series/Enero/Timeless/T1/16.mp4
 
-####################################### Timeless T2 NBC
-#EXTINF:-1 tvg-logo="https://www.wcbi.com/wp-content/uploads/2020/03/nbc-logo-1.jpg" group-title="Timeless T2",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/18/03/05/11/25/3581252.jpg" group-title="Timeless T2",cap. 01
 http://201.172.61.81:85/series/Enero/Timeless/T2/01.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/18/03/05/11/25/3581252.jpg" group-title="Timeless T2",cap. 02
@@ -5480,10 +5058,6 @@ http://201.172.61.81:85/series/Enero/Timeless/T2/11.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/18/03/05/11/25/3581252.jpg" group-title="Timeless T2",cap. 12
 http://201.172.61.81:85/series/Enero/Timeless/T2/12.mp4
 
-####################################### Truth Seekers T1 Amazon Prime
-#EXTINF:-1 tvg-logo="https://www.pdvg.it/wp-content/uploads/2020/02/amazon-prime-video-pdvg.png" group-title="Truth Seekers T1",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1280_720/pictures/20/09/24/11/54/2673946.png" group-title="Truth Seekers T1",cap. 01
 http://201.172.61.81:85/series/Enero/Truth%20Seekers%20Temporada%201%20(2020)%20HD%20720p%20Latino/01.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1280_720/pictures/20/09/24/11/54/2673946.png" group-title="Truth Seekers T1",cap. 02
@@ -5501,10 +5075,6 @@ http://201.172.61.81:85/series/Enero/Truth%20Seekers%20Temporada%201%20(2020)%20
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1280_720/pictures/20/09/24/11/54/2673946.png" group-title="Truth Seekers T1",cap. 08
 http://201.172.61.81:85/series/Enero/Truth%20Seekers%20Temporada%201%20(2020)%20HD%20720p%20Latino/08.mp4
 
-####################################### Un bandido honrado CARACOL
-#EXTINF:-1 tvg-logo="https://www.caracoltvcorporativo.com/sites/default/files/logo-footer_cor/logo_caracol2_0.png" group-title="Un bandido honrado",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/19/08/21/16/06/5281533.jpg" group-title="Un bandido honrado",cap. 01
 http://201.172.61.81:85/series/Novelas/Un%20Bandido%20Honrado/%5bPorMega.com%5dUn%20B4nd1do%20H0nr4do%20Cap%2001.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/19/08/21/16/06/5281533.jpg" group-title="Un bandido honrado",cap. 02
@@ -5628,10 +5198,6 @@ http://201.172.61.81:85/series/Novelas/Un%20Bandido%20Honrado/%5bPorMega.com%5dU
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/19/08/21/16/06/5281533.jpg" group-title="Un bandido honrado",cap. 61
 http://201.172.61.81:85/series/Novelas/Un%20Bandido%20Honrado/%5bPorMega.com%5dUn%20B4nd1do%20H0nr4do%20Cap%2061.mp4
 
-####################################### Utopia Amazon Prime
-#EXTINF:-1 tvg-logo="https://www.pdvg.it/wp-content/uploads/2020/02/amazon-prime-video-pdvg.png" group-title="Utopia",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://www.seriesdatv.pt/wp-content/uploads/2020/08/Utopia-poster.jpg" group-title="Utopia",cap. 01
 http://201.172.61.81:85/series/Enero/Utopia/01.mp4
 #EXTINF:-1 tvg-logo="https://www.seriesdatv.pt/wp-content/uploads/2020/08/Utopia-poster.jpg" group-title="Utopia",cap. 02
@@ -5649,10 +5215,6 @@ http://201.172.61.81:85/series/Enero/Utopia/07.mp4
 #EXTINF:-1 tvg-logo="https://www.seriesdatv.pt/wp-content/uploads/2020/08/Utopia-poster.jpg" group-title="Utopia",cap. 08
 http://201.172.61.81:85/series/Enero/Utopia/08.mp4
 
-####################################### Veneno HBO MAX
-#EXTINF:-1 tvg-logo="https://www.ipodtotal.com/archivos/portada/captura_de_pantalla_2020-05-28_a_las_18.22.42.png" group-title="Veneno",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://img.reelgood.com/content/show/521f1be4-0059-4e39-a8aa-a629f6e4ebc3/poster-780.jpg" group-title="Veneno",cap. 01
 http://201.172.61.81:85/series/Enero/Veneno%20Temporada%201%20HD%20720p%20Castellano%20(2020)/Veneno.S01E01.mp4
 #EXTINF:-1 tvg-logo="https://img.reelgood.com/content/show/521f1be4-0059-4e39-a8aa-a629f6e4ebc3/poster-780.jpg" group-title="Veneno",cap. 02
@@ -5670,10 +5232,6 @@ http://201.172.61.81:85/series/Enero/Veneno%20Temporada%201%20HD%20720p%20Castel
 #EXTINF:-1 tvg-logo="https://img.reelgood.com/content/show/521f1be4-0059-4e39-a8aa-a629f6e4ebc3/poster-780.jpg" group-title="Veneno",cap. 08
 http://201.172.61.81:85/series/Enero/Veneno%20Temporada%201%20HD%20720p%20Castellano%20(2020)/Veneno.S01E08.mp4
 
-####################################### Viajeros T1 Netflix
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Viajeros T1",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71OP5LcZVDL._AC_SL1500_.jpg" group-title="Viajeros T1",Cap. 01
 http://201.172.61.81:85/series/Enero/MKV%20viajeros/T1/01.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71OP5LcZVDL._AC_SL1500_.jpg" group-title="Viajeros T1",Cap. 02
@@ -5699,10 +5257,6 @@ http://201.172.61.81:85/series/Enero/MKV%20viajeros/T1/11.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71OP5LcZVDL._AC_SL1500_.jpg" group-title="Viajeros T1",Cap. 12
 http://201.172.61.81:85/series/Enero/MKV%20viajeros/T1/12.mp4
 
-####################################### Viajeros T2 Netflix
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Viajeros T2",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ff/e0/1d/ffe01d464c1add200af34aa6facbb41f.jpg" group-title="Viajeros T2",Cap. 01
 http://201.172.61.81:85/series/Enero/MKV%20viajeros/T2/01.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ff/e0/1d/ffe01d464c1add200af34aa6facbb41f.jpg" group-title="Viajeros T2",Cap. 02
@@ -5728,10 +5282,6 @@ http://201.172.61.81:85/series/Enero/MKV%20viajeros/T2/11.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ff/e0/1d/ffe01d464c1add200af34aa6facbb41f.jpg" group-title="Viajeros T2",Cap. 12
 http://201.172.61.81:85/series/Enero/MKV%20viajeros/T2/12.mp4
 
-####################################### Viajeros T3 Netflix
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c529.png" group-title="Viajeros T3",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/20/10/09/06/58/0196220.jpg" group-title="Viajeros T3",Cap. 01
 http://201.172.61.81:85/series/Enero/MKV%20viajeros/T3/01.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/20/10/09/06/58/0196220.jpg" group-title="Viajeros T3",Cap. 02
@@ -5753,10 +5303,6 @@ http://201.172.61.81:85/series/Enero/MKV%20viajeros/T3/09.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/20/10/09/06/58/0196220.jpg" group-title="Viajeros T3",Cap. 10
 http://201.172.61.81:85/series/Enero/MKV%20viajeros/T3/10.mp4
 
-####################################### Vikingos T1 HISTORY
-#EXTINF:-1 tvg-logo="http://becasparatodos.com/wp-content/uploads/2016/07/history-channel-2016-idea.jpg" group-title="Vikingos T1",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81f%2BQD8jMQL._SL1500_.jpg" group-title="Vikingos T1",Cap. 01
 http://201.172.61.81:85/series/Enero/MKV%20Vikings/T1/01.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81f%2BQD8jMQL._SL1500_.jpg" group-title="Vikingos T1",Cap. 02
@@ -5776,10 +5322,6 @@ http://201.172.61.81:85/series/Enero/MKV%20Vikings/T1/08.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81f%2BQD8jMQL._SL1500_.jpg" group-title="Vikingos T1",Cap. 09
 http://201.172.61.81:85/series/Enero/MKV%20Vikings/T1/09.mp4
 
-####################################### Vikingos T2 HISTORY
-#EXTINF:-1 tvg-logo="http://becasparatodos.com/wp-content/uploads/2016/07/history-channel-2016-idea.jpg" group-title="Vikingos T2",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/25/e2/16/25e216837b793fb24dd8965eb77a70f2.jpg" group-title="Vikingos T2",Cap. 01
 http://201.172.61.81:85/series/Enero/MKV%20Vikings/T2/01.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/25/e2/16/25e216837b793fb24dd8965eb77a70f2.jpg" group-title="Vikingos T2",Cap. 02
@@ -5801,10 +5343,6 @@ http://201.172.61.81:85/series/Enero/MKV%20Vikings/T2/09.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/25/e2/16/25e216837b793fb24dd8965eb77a70f2.jpg" group-title="Vikingos T2",Cap. 10
 http://201.172.61.81:85/series/Enero/MKV%20Vikings/T2/10.mp4
 
-####################################### Vikingos T3 HISTORY
-#EXTINF:-1 tvg-logo="http://becasparatodos.com/wp-content/uploads/2016/07/history-channel-2016-idea.jpg" group-title="Vikingos T3",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/9a/19/1a/9a191af2a44c414db8e9d31b2b6af1c4.jpg" group-title="Vikingos T3",Cap. 01
 http://201.172.61.81:85/series/Enero/MKV%20Vikings/T3/01.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/9a/19/1a/9a191af2a44c414db8e9d31b2b6af1c4.jpg" group-title="Vikingos T3",Cap. 02
@@ -5826,10 +5364,6 @@ http://201.172.61.81:85/series/Enero/MKV%20Vikings/T3/09.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/9a/19/1a/9a191af2a44c414db8e9d31b2b6af1c4.jpg" group-title="Vikingos T3",Cap. 10
 http://201.172.61.81:85/series/Enero/MKV%20Vikings/T3/10.mp4
 
-####################################### Vikingos T4 HISTORY
-#EXTINF:-1 tvg-logo="http://becasparatodos.com/wp-content/uploads/2016/07/history-channel-2016-idea.jpg" group-title="Vikingos T4",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/15/02/09/10/07/222911.jpg" group-title="Vikingos T4",Cap. 01
 http://201.172.61.81:85/series/Enero/MKV%20Vikings/T4/01.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/15/02/09/10/07/222911.jpg" group-title="Vikingos T4",Cap. 02
@@ -5871,10 +5405,6 @@ http://201.172.61.81:85/series/Enero/MKV%20Vikings/T4/19.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/15/02/09/10/07/222911.jpg" group-title="Vikingos T4",Cap. 20
 http://201.172.61.81:85/series/Enero/MKV%20Vikings/T4/20.mp4
 
-####################################### Vikingos T5 HISTORY
-#EXTINF:-1 tvg-logo="http://becasparatodos.com/wp-content/uploads/2016/07/history-channel-2016-idea.jpg" group-title="Vikingos T5",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://idolosolvidados.com/wp-content/uploads/2019/02/Vikings.jpg" group-title="Vikingos T5",Cap. 01
 http://201.172.61.81:85/series/Enero/MKV%20Vikings/T5/01.mp4
 #EXTINF:-1 tvg-logo="https://idolosolvidados.com/wp-content/uploads/2019/02/Vikings.jpg" group-title="Vikingos T5",Cap. 02
@@ -5916,10 +5446,6 @@ http://201.172.61.81:85/series/Enero/MKV%20Vikings/T5/19.mp4
 #EXTINF:-1 tvg-logo="https://idolosolvidados.com/wp-content/uploads/2019/02/Vikings.jpg" group-title="Vikingos T5",Cap. 20
 http://201.172.61.81:85/series/Enero/MKV%20Vikings/T5/20.mp4
 
-####################################### Vikingos T6 HISTORY
-#EXTINF:-1 tvg-logo="http://becasparatodos.com/wp-content/uploads/2016/07/history-channel-2016-idea.jpg" group-title="Vikingos T6",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91yFUzjtOuL._SY445_.jpg" group-title="Vikingos T6",Cap. 01
 http://201.172.61.81:85/series/Enero/MKV%20Vikings/T6/01.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91yFUzjtOuL._SY445_.jpg" group-title="Vikingos T6",Cap. 02
@@ -5961,10 +5487,6 @@ http://201.172.61.81:85/series/Enero/MKV%20Vikings/T6/19.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91yFUzjtOuL._SY445_.jpg" group-title="Vikingos T6",Cap. 20
 http://201.172.61.81:85/series/Enero/MKV%20Vikings/T6/20.mp4
 
-####################################### Vis a Vis T1 Antena 3
-#EXTINF:-1 tvg-logo="https://www.deusens.com/wp-content/uploads/2016/08/Antena-3.png" group-title="Vis a Vis T1",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1000/1091/2_m3.jpg" group-title="Vis a Vis T1",Cap. 01
 http://201.172.61.81:85/series/Enero/MKV%20Vis%20a%20Vis/T1/%5bPorMega.com%5dV1s%204%20V1s%20Temp%2001%20Cap%2001.mp4
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1000/1091/2_m3.jpg" group-title="Vis a Vis T1",Cap. 02
@@ -5988,10 +5510,6 @@ http://201.172.61.81:85/series/Enero/MKV%20Vis%20a%20Vis/T1/%5bPorMega.com%5dV1s
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1000/1091/2_m3.jpg" group-title="Vis a Vis T1",Cap. 11
 http://201.172.61.81:85/series/Enero/MKV%20Vis%20a%20Vis/T1/%5bPorMega.com%5dV1s%204%20V1s%20Temp%2001%20Cap%2011.mp4
 
-####################################### Vis a Vis T2 Antena 3
-#EXTINF:-1 tvg-logo="https://www.deusens.com/wp-content/uploads/2016/08/Antena-3.png" group-title="Vis a Vis T2",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://www.bolsamania.com/seriesadictos/wp-content/uploads/2016/03/11.jpg" group-title="Vis a Vis T2",Cap. 01
 http://201.172.61.81:85/series/Enero/MKV%20Vis%20a%20Vis/T2/%5bPorMega.com%5dV1s%204%20V1s%20Temp%2002%20Cap%2001.mp4
 #EXTINF:-1 tvg-logo="https://www.bolsamania.com/seriesadictos/wp-content/uploads/2016/03/11.jpg" group-title="Vis a Vis T2",Cap. 02
@@ -6019,10 +5537,6 @@ http://201.172.61.81:85/series/Enero/MKV%20Vis%20a%20Vis/T2/%5bPorMega.com%5dV1s
 #EXTINF:-1 tvg-logo="https://www.bolsamania.com/seriesadictos/wp-content/uploads/2016/03/11.jpg" group-title="Vis a Vis T2",Cap. 13
 http://201.172.61.81:85/series/Enero/MKV%20Vis%20a%20Vis/T2/%5bPorMega.com%5dV1s%204%20V1s%20Temp%2002%20Cap%2013.mp4
 
-####################################### Vis a Vis T3 FOX
-#EXTINF:-1 tvg-logo="https://www.foxplay.com/assets/foxplay/foxplay.png" group-title="Vis a Vis T3",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/de/f3/25/def3258ad04a306ea1fd17821ac53007.jpg" group-title="Vis a Vis T3",Cap. 01
 http://201.172.61.81:85/series/Enero/MKV%20Vis%20a%20Vis/T3/%5bPorMega.com%5dV1s%204%20V1s%20Temp%2003%20Cap%2001.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/de/f3/25/def3258ad04a306ea1fd17821ac53007.jpg" group-title="Vis a Vis T3",Cap. 02
@@ -6040,10 +5554,6 @@ http://201.172.61.81:85/series/Enero/MKV%20Vis%20a%20Vis/T3/%5bPorMega.com%5dV1s
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/de/f3/25/def3258ad04a306ea1fd17821ac53007.jpg" group-title="Vis a Vis T3",Cap. 08
 http://201.172.61.81:85/series/Enero/MKV%20Vis%20a%20Vis/T3/%5bPorMega.com%5dV1s%204%20V1s%20Temp%2003%20Cap%2008.mp4
 
-####################################### Vis a Vis T4 FOX
-#EXTINF:-1 tvg-logo="https://www.foxplay.com/assets/foxplay/foxplay.png" group-title="Vis a Vis T4",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://img.ecartelera.com/noticias/fotos/50200/50283/1.jpg" group-title="Vis a Vis T4",Cap. 01
 http://201.172.61.81:85/series/Enero/MKV%20Vis%20a%20Vis/T4/%5bPorMega.com%5dV1s%204%20V1s%20Temp%2004%20Cap%2001.mp4
 #EXTINF:-1 tvg-logo="https://img.ecartelera.com/noticias/fotos/50200/50283/1.jpg" group-title="Vis a Vis T4",Cap. 02
@@ -6061,10 +5571,6 @@ http://201.172.61.81:85/series/Enero/MKV%20Vis%20a%20Vis/T4/%5bPorMega.com%5dV1s
 #EXTINF:-1 tvg-logo="https://img.ecartelera.com/noticias/fotos/50200/50283/1.jpg" group-title="Vis a Vis T4",Cap. 08
 http://201.172.61.81:85/series/Enero/MKV%20Vis%20a%20Vis/T4/%5bPorMega.com%5dV1s%204%20V1s%20Temp%2004%20Cap%2008.mp4
 
-####################################### Wandavision DISNEY PLUS
-#EXTINF:-1 tvg-logo="https://icdn9.digitaltrends.com/image/digitaltrends_es/disney-plus-logo-streaming-topic-500x500.jpg" group-title="Wandavision",Idioma: Español
-http://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#######################################
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61aIJqEruuL._AC_SX679_.jpg" group-title="Wandavision",Cap. 01
 http://vods.tuxchannel.tv/series/wandavision/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61aIJqEruuL._AC_SX679_.jpg" group-title="Wandavision",Cap. 02
@@ -6083,42 +5589,7 @@ http://vods.tuxchannel.tv/series/wandavision/s_01_e_07.mkv
 http://vods.tuxchannel.tv/series/wandavision/s_01_e_08.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61aIJqEruuL._AC_SX679_.jpg" group-title="Wandavision",Cap. 09
 http://vods.tuxchannel.tv/series/wandavision/s_01_e_09.mkv
-#EXTM3U
-#EXTINF:-1 ,#EXTINF:0 tvg-id=avi group-title=serie disneywanda vision S01 E01
-http://vods.tuxchannel.tv/series/wandavision/s_01_e_01.mkv
-#EXTINF:-1 ,#EXTINF:0 tvg-id=avi group-title=serie disneywanda vision S01 E02
-http://vods.tuxchannel.tv/series/wandavision/s_01_e_02.mkv
-#EXTINF:-1 ,#EXTINF:0 tvg-id=avi group-title=serie disneywanda vision S01 E03
-http://vods.tuxchannel.tv/series/wandavision/s_01_e_03.mkv
-#EXTINF:-1 ,#EXTINF:0 tvg-id=avi group-title=serie disney wanda vision S01 E04
-http://vods.tuxchannel.tv/series/wandavision/s_01_e_04.mkv
-#EXTINF:-1 ,#EXTINF:0 tvg-id=avi group-title=serie disney wanda visionS01 E05
-http://vods.tuxchannel.tv/series/wandavision/s_01_e_05.mkv
-#EXTINF:-1 ,#EXTINF:0 tvg-id=avi group-title=serie disneywanda vision S01 E06
-http://vods.tuxchannel.tv/series/wandavision/s_01_e_06.mkv
-#EXTINF:-1 ,#EXTINF:0 tvg-id=avi group-title=serie disneywanda vision S01 E07
-http://vods.tuxchannel.tv/series/wandavision/s_01_e_07.mkv
-#EXTINF:-1 ,#EXTINF:0 tvg-id=avi group-title=serie disneywanda vision S01 E08
-http://vods.tuxchannel.tv/series/wandavision/s_01_e_08.mkv
-#EXTINF:-1 ,#EXTINF:0 tvg-id=avi group-title=serie disneywanda vision S01 E09
-http://vods.tuxchannel.tv/series/wandavision/s_01_e_09.mkv
 
 
-#EXTINF:-1 ,#EXTINF:0 tvg-id=avi group-title= serie netflix Selena selenaS01 E01
-http://vods.tuxchannel.tv/series/selena_the_series/s_01_e_01.mkv
-#EXTINF:-1 ,#EXTINF:0 tvg-id=avi group-title= serie netflix Selena selena S01 E02
-http://vods.tuxchannel.tv/series/selena_the_series/s_01_e_02.mkv
-#EXTINF:-1 ,#EXTINF:0 tvg-id=avi group-titleserie netflix Selena selena S01 E03
-http://vods.tuxchannel.tv/series/selena_the_series/s_01_e_03.mkv
-#EXTINF:-1 ,#EXTINF:0 tvg-id=avi group-title=serie netflix Selena selena S01 E04
-http://vods.tuxchannel.tv/series/selena_the_series/s_01_e_04.mkv
-#EXTINF:-1 ,#EXTINF:0 tvg-id=avi group-title=serie netflix Selena selena S01 E05
-http://vods.tuxchannel.tv/series/selena_the_series/s_01_e_05.mkv
-#EXTINF:-1 ,#EXTINF:0 tvg-id=avi group-title=serie netflix Selena selena S01 E06
-http://vods.tuxchannel.tv/series/selena_the_series/s_01_e_06.mkv
-#EXTINF:-1 ,#EXTINF:0 tvg-id=avi group-title=serie netflix Selena selena S01 E07
-http://vods.tuxchannel.tv/series/selena_the_series/s_01_e_07.mkv
-#EXTINF:-1 ,#EXTINF:0 tvg-id=avi group-title=serie netflix Selena selenaS01 E08
-http://vods.tuxchannel.tv/series/selena_the_series/s_01_e_08.mkv
-#EXTINF:-1 ,#EXTINF:0 tvg-id=avi group-title= serie netflix Selena selena S01 E09
-http://vods.tuxchannel.tv/series/selena_the_series/s_01_e_09.mkv
+
+
