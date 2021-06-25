@@ -153,6 +153,8 @@ http://vod.tuxchannel.tv:80/peliculas/720/subtituladas/boss%20level%202021%20sub
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/Nuevo%20pelis/Pel%c3%adcula%20Boss%20Level%20(2021).mp4
 
 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81KIvLpUb4L._SY445_.jpg" group-title="2020",Alerta en lo profundo 3 (2020)
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/pelis/Alerta%20en%20lo%20profundo%203.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/20/10/30/12/17/2951075.jpg" group-title="2020",Érase una vez (2020)
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/pelis/%c3%89rase%20una%20vez.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/lKMh09e1t287fWzdWy0B7OLP9Nf.jpg" group-title="2020",Okay Madam (2020) SUB.
@@ -597,6 +599,8 @@ http://vod.tuxchannel.tv/peliculas/720/mama%20al%20volante%202019.mkv
 http://tux-vod.dynu.com:80/peliculas/720/the%20kid%20who%20would%20be%20king%202018.mkv
 
 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61Lf7-uUH8L._SY445_.jpg" group-title="2018",Alerta en lo profundo 2 (2018)
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/pelis/Alerta%20en%20lo%20profundo%202.mkv
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/19/05/09/20/29/3789879.jpg" group-title="2018",Comprame un Revolver (2018)
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/Nuevo%20pelis/comprame%20un%20revolver.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/08/28/13/04/5848804.jpg" group-title="2018",El escandalo Ted Kennedy (2018)
@@ -1013,6 +1017,10 @@ http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C9126
 http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%212732&authkey=AJe5LYBeJ0hKUTA
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/03/13/12/34/539170.jpg" group-title="Peliculas Viejas",Alerta en lo profundo (1999)
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/pelis/Alerta%20en%20lo%20profundo.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/67/60/46/20085293.jpg" group-title="Peliculas Viejas",60 Segundos (2000)
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/pelis/60%20segundos.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/67/78/89/20068058.jpg" group-title="Peliculas Viejas",La pasion de Cristo (2004)
 http://201.172.61.203:88/Peliculas/Danna/La%20pasi%c3%b3n%20de%20Cristo%20(2004).mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91d4Q5h0uuL._SY445_.jpg" group-title="Peliculas Viejas",Falcon Rising: Venganza fatal (2014)
