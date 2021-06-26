@@ -5,6 +5,8 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 #EXTINF:-1 tvg-logo="https://www.lifeder.com/wp-content/uploads/2016/07/pel%C3%ADculas-recomendadas.jpg" group-title="PELICULAS GRATIS",PELICULAS GRATIS
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/21/06/03/14/09/0506373.jpg" group-title="2021",Seguridad (2021)
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/nuevo%20netflix/Seguridad.mp4
 #EXTINF:-1 tvg-logo="https://www.critic.de/images/fatherhood-poster-21a4b.jpg" group-title="2021",Paternidad (2021)
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/nuevo%20netflix/Paternidad.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/11/13/22/5520699.jpg" group-title="2021",Ejercito de los muertos (2021)
@@ -509,6 +511,8 @@ http://vod.tuxchannel.tv/peliculas/720/half%20brothers%202020.mkv
 http://vod.tuxchannel.tv/peliculas/720/wszyscy%20moi%20przyjaciele%20nie%20zyja%202020.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/11/14/17/3504918.jpg" group-title="2019",Serpiente de cascabel (2019)
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/nuevo%20netflix/Serpiente%20de%20cascabel.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/13/09/35/4216544.jpg" group-title="2019",Criminales en el mar (2019)
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/pelis%203/Copy%20of%20Murder.mystery.2019.1080p.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71qHEnRGOvL._AC_SY741_.jpg" group-title="2019",Miss Bala (2019)
@@ -633,6 +637,12 @@ http://vod.tuxchannel.tv/peliculas/720/mama%20al%20volante%202019.mkv
 http://tux-vod.dynu.com:80/peliculas/720/the%20kid%20who%20would%20be%20king%202018.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/07/17/13/12/3198015.jpg" group-title="2018",Un pequeño favor (2018)
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/nuevo%20netflix/Un%20peque%c3%b1o%20favor.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/27/10/19/4245478.jpg" group-title="2018",Soltera codiciada (2018)
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/nuevo%20netflix/Soltera%20codiciada.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/04/17/11/02/1379055.jpg" group-title="2018",Sicario: Dia del soldado (2018)
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/nuevo%20netflix/Sicario%20D%c3%ada%20del%20soldado.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/18/11/21/18/06/4735671.jpg" group-title="2018",Maquinas mortales (2018)
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/nuevo%20netflix/M%c3%a1quinas%20mortales.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/c_310_420/pictures/18/03/03/02/14/4143944.jpg" group-title="2018",Deseo de matar (2018)
@@ -719,6 +729,10 @@ http://201.172.61.203:88/Peliculas/Marzo%20Abril/WhenWeFirstMet2018.mp4
 http://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/17/01/30/11/31/059557.jpg" group-title="2017",Logan (2017)
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/xmen/logan.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/06/12/10/04/554275.jpg" group-title="2017",Secuestro (2017)
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/nuevo%20netflix/Secuestro.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/17/03/31/12/01/083640.jpg" group-title="2017",Noche de venganza (2017)
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/nuevo%20netflix/Noche%20de%20venganza%20(31).mp4
 #EXTINF:-1 tvg-logo="https://mr.comingsoon.it/imgdb/locandine/big/58201.jpg" group-title="2017",Destruccion: Los Angeles (2017)
@@ -943,6 +957,10 @@ http://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
 http://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/04/14/11/28/136403.jpg" group-title="2016",X Men: Apocalipsis (2016)
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/xmen/X%20Men%20Apocalipsis.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/20/04/28/22/10/0981654.jpg" group-title="2016",Spectral (2016)
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/nuevo%20netflix/Spectral%20(50).mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/16/05/30/10/17/080143.jpg" group-title="2016",Ahora me ves 2 (2016)
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/pelis%203/Copy%20of%20Now.you.see.me.2.2016.1080p.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/01/12/13/49/029014.jpg" group-title="2016",Los milagros del cielo (2016)
@@ -1157,6 +1175,24 @@ http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C9126
 http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%212732&authkey=AJe5LYBeJ0hKUTA
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/04/29/09/43/568750.jpg" group-title="Peliculas Viejas",X MEN (2000)
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/xmen/X%20MEN%201.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/14/05/05/13/49/159182.jpg" group-title="Peliculas Viejas",X MEN 2 (2003)
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/xmen/X%20MEN%202.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/05/08/13/56/547394.jpg" group-title="Peliculas Viejas",X Men 3: La batalla final (2006)
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/xmen/X%20Men%203%20La%20batalla%20final.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51lHYZr-k-L._AC_.jpg" group-title="Peliculas Viejas",X Men: orígenes Wolverine (2009)
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/xmen/X%20men%20or%c3%adgenes%20%20Wolverine.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/02/12/13/17/089447.jpg" group-title="Peliculas Viejas",X Men: Primera generacion (2011)
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/xmen/X%20Men%20Primera%20generaci%c3%b3n.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2c/b4/e9/2cb4e98b8f6b429d05081126447aa80b.jpg" group-title="Peliculas Viejas",Wolverine Inmortal (2013)
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/xmen/Wolverine%20Inmortal.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/04/30/15/56/008969.jpg" group-title="Peliculas Viejas",X Men: Dias del futuro pasado (2014)
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/xmen/X%20Men%20D%c3%adas%20del%20futuro%20pasado.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/07/17/13/59/254371.jpg" group-title="Peliculas Viejas",Step Up: Todos a bailar (2014)
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/nuevo%20netflix/Step%20Up%20Todos%20a%20bailar.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/79/89/44/19690290.jpg" group-title="Peliculas Viejas",Soy el numero cuatro (2011)
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/nuevo%20netflix/Soy%20el%20n%c3%bamero%20cuatro%20(58).mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/14/07/28/12/27/483839.jpg" group-title="Peliculas Viejas",Rango (2011)
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/nuevo%20netflix/Rango.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/02/28/10/54/358865.jpg" group-title="Peliculas Viejas",Peter Pan (2003)
