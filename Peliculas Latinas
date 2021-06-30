@@ -546,6 +546,8 @@ http://vod.tuxchannel.tv/peliculas/720/half%20brothers%202020.mkv
 http://vod.tuxchannel.tv/peliculas/720/wszyscy%20moi%20przyjaciele%20nie%20zyja%202020.mkv
 
 
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/18/12/03/11/56/5027832.jpg" group-title="2019",Capitana Marvel (2019)
+http://contentheinentv.ddns.net/Contenido/Peliculas/Accion/Captain%20Marvel.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/01/22/16/3803876.jpg" group-title="2019",Bajo sospecha (2019) CASTELLANO
 http://contentheinentv.ddns.net/Contenido/Peliculas/Accion/Above%20Suspicion.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/03/16/58/5053583.jpg" group-title="2019",Terminator 6: Destino oculto (2019)
@@ -726,6 +728,8 @@ http://vod.tuxchannel.tv/peliculas/720/mama%20al%20volante%202019.mkv
 http://tux-vod.dynu.com:80/peliculas/720/the%20kid%20who%20would%20be%20king%202018.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/01/24/12/52/1452215.jpg" group-title="2018",Black Panther (2018) SUB
+http://contentheinentv.ddns.net/Contenido/Peliculas/Accion/Black%20Panther.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/01/24/12/52/1452215.jpg" group-title="2018",Titanes del Pacífico 2 : La insurrección (2018)
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Titanes%20del%20Pac%c3%adfico%202%20_%20Pacific%20Rim-%20La%20insurrecci%c3%b3n%20Online%20(2018)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/11/15/13/33/3143776.jpg" group-title="2018",Robin Hood (2018)
@@ -868,6 +872,10 @@ http://201.172.61.203:88/Peliculas/Marzo%20Abril/WhenWeFirstMet2018.mp4
 http://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
 
 
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/17/01/12/09/47/494942.jpg" group-title="2017",CHIPS: Patrulla motorizada (2017)
+http://contentheinentv.ddns.net/Contenido/Peliculas/Accion/CHIPS.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/17/08/23/10/11/199783.jpg" group-title="2017",Prisionero de la Celda 99 (2017)
+http://contentheinentv.ddns.net/Contenido/Peliculas/Accion/Brawl%20in%20Cell%20Block%2099.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/12/05/13/27/3443140.jpg" group-title="2017",Accident man: Matalos a todos Scott (2017) SUB
 http://contentheinentv.ddns.net/Contenido/Peliculas/Accion/Accident%20man.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/10/12/21/55/2311346.jpg" group-title="2017",Mayhem (2017)
@@ -1312,6 +1320,8 @@ http://ia801603.us.archive.org/20/items/24052017Aqc789423784723984/24052017_aqc.
 http://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/15/08/18/11/09/326036.jpg" group-title="2015",Disparo letal (2015)
+http://contentheinentv.ddns.net/Contenido/Peliculas/Accion/Blunt%20Force.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/15/05/11/10/11/517143.jpg" group-title="2015",Ant-Man (2015)
 http://contentheinentv.ddns.net/Contenido/Peliculas/Accion/ANT%20MAN:%20EL%20HOMBRE%20HORMIGA.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/15/05/21/13/06/100425.jpg" group-title="2015",Terminator: Génesis (2015)
@@ -1438,6 +1448,19 @@ http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C9126
 http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%212732&authkey=AJe5LYBeJ0hKUTA
 
 
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/67/82/23/20065390.jpg" group-title="Peliculas Viejas",Cuatro hermanos (2005)
+http://contentheinentv.ddns.net/Contenido/Peliculas/Accion/Cuatro%20hermanos.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/210/457/21045728_20131001173445487.jpg" group-title="Peliculas Viejas",Cuando todo esta perdido (2013)
+http://contentheinentv.ddns.net/Contenido/Peliculas/Accion/Cuando%20todo%20esta%20perdido.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/94/75/31/20488519.jpg" group-title="Peliculas Viejas",Combustion (2013)
+http://contentheinentv.ddns.net/Contenido/Peliculas/Accion/Combustion.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81oPuIi0REL._AC_SL1500_.jpg" group-title="Peliculas Viejas",Cazadores de leyendas (2013)
+http://contentheinentv.ddns.net/Contenido/Peliculas/Accion/Cazadores%20de%20leyendas.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/68/46/31/20058481.jpg" group-title="Peliculas Viejas",Cartas desde Iwo Jima (2006)
+http://contentheinentv.ddns.net/Contenido/Peliculas/Accion/Cartas%20desde%20Iwo%20Jima.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/15/11/05/10/02/222501.jpg" group-title="Peliculas Viejas",Black Hawk derribado (2001)
+http://contentheinentv.ddns.net/Contenido/Peliculas/Accion/Black%20Hawk%20derribado.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/67/20/19/20237425.jpg" group-title="Peliculas Viejas",Alien Vs Depredador 2 (2007)
 http://contentheinentv.ddns.net/Contenido/Peliculas/Accion/Alien%20Vs%20Depredador%202.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/89/99/29/20076255.jpg" group-title="Peliculas Viejas",Abajo el Amor (2003)
