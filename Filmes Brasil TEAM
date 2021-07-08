@@ -6,8 +6,11 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/917xQC2EosS._RI_.jpg" group-title="2021",A Guerra do Amanhã (2021)
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/917xQC2EosS._RI_.jpg" group-title="2021",A Guerra do Amanhã (2021) DUAL
 http://xcui.vitvabc.xyz:8880/movie/287994003567/287994003567/33713.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/06/08/34/4872448.jpg" group-title="2021",Awake (2021) LEG
+http://xcui.vitvabc.xyz:8880/movie/287994003567/287994003567/4872.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/01/07/09/21/5292740.jpg" group-title="2021",Zona de Combate (2021)
 http://185.148.3.146:6503/Zona.de.Combate.2021.720p.WEB-DL.6CH.x264-DUAL.COMANDO.TO.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/20/06/09/07/24/5793886.jpg" group-title="2021",Voce Deveria Ter Partido (2021)
