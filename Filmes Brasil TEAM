@@ -5,10 +5,10 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 #EXTINF:-1 tvg-logo="https://www.lifeder.com/wp-content/uploads/2016/07/pel%C3%ADculas-recomendadas.jpg" group-title="FILMES GRATIS",FILMES GRATIS
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/917xQC2EosS._RI_.jpg" group-title="2021",A Guerra do Amanhã (2021) DUAL
 http://xcui.vitvabc.xyz:8880/movie/287994003567/287994003567/33713.mkv
+#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/el_ascensor-531031150-mmed.jpg" group-title="2021",O Elevador (2021) DUAL
+http://xcui.vitvabc.xyz:8880/movie/287994003567/287994003567/24276.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/06/08/34/4872448.jpg" group-title="2021",Awake (2021) LEG
 http://xcui.vitvabc.xyz:8880/movie/287994003567/287994003567/4872.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/01/07/09/21/5292740.jpg" group-title="2021",Zona de Combate (2021)
