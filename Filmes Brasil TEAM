@@ -5,14 +5,12 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 #EXTINF:-1 tvg-logo="https://www.lifeder.com/wp-content/uploads/2016/07/pel%C3%ADculas-recomendadas.jpg" group-title="FILMES GRATIS",FILMES GRATIS
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
+#EXTINF:-1 tvg-logo="https://qesatt-felem.org/wp-content/uploads/2021/02/The-Evil-Twin.jpg" group-title="2021",A Vida Pode Mudar (2021)
+http://195.154.80.170:7700/A%20Vida%20Pode%20Mudar%202021%20WEB-DL%201080p%20DUAL%205.1/A%20Vida%20Pode%20Mudar%202021%20WEB-DL%201080p%20DUAL%205.1.mkv
+#EXTINF:-1 tvg-logo="https://qesatt-felem.org/wp-content/uploads/2021/02/The-Evil-Twin.jpg" group-title="2021",A Gemea do Mal (2021) DUAL
+http://185.148.3.146:6503/A%20G%C3%AAmea%20do%20Mal%202021%201080p%20WEB-DL%20DUAL.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/917xQC2EosS._RI_.jpg" group-title="2021",A Guerra do Amanhã (2021) DUAL
-http://xcui.vitvabc.xyz:8880/movie/287994003567/287994003567/33713.mkv
-#EXTINF:-1 tvg-logo="https://dvdblumarket.com/images/el_ascensor-531031150-mmed.jpg" group-title="2021",O Elevador (2021) DUAL
-http://xcui.vitvabc.xyz:8880/movie/287994003567/287994003567/24276.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/06/08/34/4872448.jpg" group-title="2021",Awake (2021) LEG
-http://xcui.vitvabc.xyz:8880/movie/287994003567/287994003567/4872.mkv
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/12/22/10/14/2835144.jpg" group-title="2021",O Tigre Branco (2021)
-http://xcui.vitvabc.xyz:8880/movie/287994003567/287994003567/24439.mkv
+http://185.148.3.146:6503/A_Guerra_do_Amanha.2021.1080p.WEB-DL.5.1.DUAL.COMANDO.TO.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/01/07/09/21/5292740.jpg" group-title="2021",Zona de Combate (2021)
 http://185.148.3.146:6503/Zona.de.Combate.2021.720p.WEB-DL.6CH.x264-DUAL.COMANDO.TO.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/20/06/09/07/24/5793886.jpg" group-title="2021",Voce Deveria Ter Partido (2021)
@@ -69,7 +67,7 @@ http://185.148.3.146:6503/Agencia_Secreta_de_Controle_de_Magias.2021.1080p.WEB-D
 http://185.148.3.146:6503/A.M%C3%A1scara.de.Ferro.2021.BluRay.1080p.DUAL.COMANDO.TO.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91FTTr3NBNL._SL1500_.jpg" group-title="2021",A Historia Pessoal de David Copperfield (2021)
 http://185.148.3.146:6503/A.Historia.Pessoal.de.David.Copperfield.2021.1080p.BluRay.x264-DUAL.COMANDO.TO.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/21/02/24/01/41/3165421.jpg" group-title="2021",A Sentinela (2021)
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/21/02/24/01/41/3165421.jpg" group-title="2021",A Sentinela (2021) DUAL
 http://185.148.3.146:6503/A_Sentinela.2021.1080p.x264.5.1.DUAL.COMANDO.TO.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/20/05/19/07/29/1035557.jpg" group-title="2021",A Força da Natureza (2021)
 http://185.148.3.146:6503/A_Forca_da_Natureza.Brazilian_2021.1080p.WEB-DL.5.1.DUAL.COMANDO.TO.mp4
