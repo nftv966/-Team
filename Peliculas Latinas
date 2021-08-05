@@ -18,6 +18,10 @@ http://dl.dropbox.com/s/momi3zzei58zpdq/Jungle%20Cruise.mp4
 https://storage.googleapis.com/tiotv/Peliculas/pig_2021.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/09/18/28/5915477.jpg" group-title="2021",Viuda Negra (2021)
 http://vod.tuxchannel.tv:80/peliculas/720/black%20widow%202021.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mRhFCdIexLi1ww948YyQbHGvYyC.jpg" group-title="2021",Dos sinvergüenzas (2021) DUAL
+http://vod.tuxchannel.tv:80/peliculas/720/os%20salafrarios%202021.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/11/13/22/5520699.jpg" group-title="2021",Ejercito de los muertos (2021) DUAL
+http://vod.tuxchannel.tv:80/peliculas/720/army%20of%20thieves%202021.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/05/13/10/06/4532539.jpg" group-title="2021",Xtremo (2021) CASTELLANO
 http://vod.tuxchannel.tv:80/peliculas/720/xtremo%202021.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/02/16/10/12/0840399.jpg" group-title="2021",Nosotros de nuevo (2021) CORTO
@@ -62,6 +66,8 @@ http://201.172.61.203:88/Peliculas/Marzo%20Abril/Nadie%20(2021)%20AMZN%20WEB-DL%
 http://vod.tuxchannel.tv:80/peliculas/720/the%20unholy%202021.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/03/17/13/18/1808324.jpg" group-title="2021",Ruega por Nosotros (2021)
 http://201.172.61.203:88/Peliculas/mkv/Ruega%20x%20Nosotros%202021.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/21/11/08/5393301.jpg" group-title="2021",Cruella (2021) DUAL
+http://vod.tuxchannel.tv:80/peliculas/720/cruella%202021.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/21/11/08/5393301.jpg" group-title="2021",Cruella (2021)
 http://201.172.61.203:88/Peliculas/mkv/Ver%20Cruella%20(2021)%20Online%20Latino%20HD%20-%20Pelisplus.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/21/05/11/09/08/5627374.jpg" group-title="2021",Oslo (2021)
