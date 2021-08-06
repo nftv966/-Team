@@ -192,6 +192,8 @@ http://vod.tuxchannel.tv/peliculas/720/subtituladas/wrong%20turn%202021%20sub.mk
 http://vod.tuxchannel.tv:80/peliculas/720/subtituladas/boss%20level%202021%20sub.mkv
 
 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91gLlu9wzmL._AC_SY606_.jpg" group-title="2020",Vanguard (2020)
+https://mataocio-cdn5.mataocio-cdn5.workers.dev/Otras%25203/Vanguard%2520-%25202020.mp4
 #EXTINF:-1 tvg-logo="https://www.cartelera.com.uy/imagenes_espectaculos/moviedetail13/29395.jpg" group-title="2020",El juego de las 100 velas (2020)
 https://mataocio-cdn5.mataocio-cdn5.workers.dev/Otras%25203/The%2520100%2520Candles%2520Game%2520-%25202020.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e3/92/56/e392563b2868e723d5c3f3d93b43d5da.jpg" group-title="2020",Miraculous: Nueva York Heroes Unidos (2020)
@@ -530,6 +532,10 @@ http://vod.tuxchannel.tv/peliculas/720/half%20brothers%202020.mkv
 http://vod.tuxchannel.tv/peliculas/720/wszyscy%20moi%20przyjaciele%20nie%20zyja%202020.mkv
 
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/72/61/c8/7261c8be35fb75aea7a4b6275a14b22c.jpg" group-title="2019",Triple Amenaza (2019)
+https://mataocio-cdn5.mataocio-cdn5.workers.dev/Otras%25203/Triple%2520Threat%2520-%25202019.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/12/04/09/48/0873092.jpg" group-title="2019",Togo (2019)
+https://mataocio-cdn5.mataocio-cdn5.workers.dev/Otras%25203/Togo%2520-%25202019.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/28/17/01/2078819.jpg" group-title="2019",Midway (2019)
 https://mataocio-cdn5.mataocio-cdn5.workers.dev/Otras%25203/Midway%2520-%25202019.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/09/03/20/02/3403878.jpg" group-title="2019",Malefica 2: Dueña del mal (2019)
