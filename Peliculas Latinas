@@ -544,6 +544,10 @@ http://vod.tuxchannel.tv/peliculas/720/half%20brothers%202020.mkv
 http://vod.tuxchannel.tv/peliculas/720/wszyscy%20moi%20przyjaciele%20nie%20zyja%202020.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/20/06/17/10/35/4678942.jpg" group-title="2019",La verdadera historia de Ned Kelly (2019) DUAL
+https://mataocio-cdn5.mataocio-cdn5.workers.dev/Otras/La%2520verdadera%2520historia%2520de%2520la%2520Banda%2520de%2520Kelly%2520%2520-%25202019.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/21/03/23/03/41/3944478.jpg" group-title="2019",La rosa venenosa (2019)
+https://mataocio-cdn5.mataocio-cdn5.workers.dev/Otras/La%2520rosa%2520venenosa%2520-%25202019.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/72/61/c8/7261c8be35fb75aea7a4b6275a14b22c.jpg" group-title="2019",Triple Amenaza (2019)
 https://mataocio-cdn5.mataocio-cdn5.workers.dev/Otras%25203/Triple%2520Threat%2520-%25202019.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/12/04/09/48/0873092.jpg" group-title="2019",Togo (2019)
@@ -655,6 +659,8 @@ http://tux-vod.dynu.com:80/peliculas/720/the%20kid%20who%20would%20be%20king%202
 
 
 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81BEktZ0nCL._RI_.jpg" group-title="2018",La deuda (2018) CASTELLANO
+https://mataocio-cdn5.mataocio-cdn5.workers.dev/Otras/La%2520deuda.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/08/28/13/04/5848804.jpg" group-title="2018",El escandalo Ted Kennedy (2018)
 http://201.172.61.203:88/Peliculas/Danna/El%20esc%c3%a1ndalo%20Ted%20Kennedy%20(2018).mp4
 #EXTINF:-1 tvg-logo="http://velocasting.com/wp-content/uploads/2018/11/Cuando-los-a%CC%81ngeles-duermen.png" group-title="2018",Cuando Los Angeles Duermen (2018)
