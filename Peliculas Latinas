@@ -557,6 +557,8 @@ http://vod.tuxchannel.tv/peliculas/720/half%20brothers%202020.mkv
 http://vod.tuxchannel.tv/peliculas/720/wszyscy%20moi%20przyjaciele%20nie%20zyja%202020.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/05/08/16/59/2526525.jpg" group-title="2019",Aladdin (2019)
+https://mataocio-cdn5.mataocio-cdn5.workers.dev/Aladdin%25202019.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/12/16/10/46/3240981.jpg" group-title="2019",Volando Juntos (2019)
 https://mataocio-cdn5.mataocio-cdn5.workers.dev/-%2520%2520Volando%2520Juntos%2520-%25202019.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/17/17/00/0735463.jpg" group-title="2019",El hoyo (2019) CASTELLANO
@@ -678,6 +680,10 @@ http://tux-vod.dynu.com:80/peliculas/720/the%20kid%20who%20would%20be%20king%202
 
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/05/21/12/50/1518397.jpg" group-title="2018",Bohemian Rhapsody (2018)
+https://mataocio-cdn5.mataocio-cdn5.workers.dev/Bohemian%2520rhapsody.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Bc78S2lpL._SX300_SY300_QL70_ML2_.jpg" group-title="2018",Actos de violencia (2018)
+https://mataocio-cdn5.mataocio-cdn5.workers.dev/Actos%2520de%2520violencia%2520-%25202018.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/02/08/16/01/5070457.jpg" group-title="2018",12 Valientes (2018)
 https://mataocio-cdn5.mataocio-cdn5.workers.dev/12%2520valientes.mp4
 #EXTINF:-1 tvg-logo="https://img2.film7.hu/original/f8nvevl9jUOGdvCY8iMrsW00Jv8.jpg" group-title="2018",Escuadron de Lobos: BORU (2018)
@@ -724,6 +730,8 @@ http://201.172.61.203:88/Peliculas/Marzo%20Abril/WhenWeFirstMet2018.mp4
 http://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
 
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51umPihrrkL.jpg" group-title="2017",Altitud mortal (2017)
+https://mataocio-cdn5.mataocio-cdn5.workers.dev/Altitud%2520-%25202017.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/06/12/10/17/319566.jpg" group-title="2017",Transformers: El ultimo caballero (2017)
 https://mataocio-cdn5.mataocio-cdn5.workers.dev/Otras/Transformers%2520-%2520The%2520last%2520knight.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/11/21/16/41/0599228.jpg" group-title="2017",La guerra de las corrientes (2017)
@@ -920,6 +928,8 @@ http://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
 http://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
 
 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/819NFjBk-zL._RI_.jpg" group-title="2016",Anti Materia (2016)
+https://mataocio-cdn5.mataocio-cdn5.workers.dev/Anti%2520Matter%2520-%25202016.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81v7qEHVqLL.jpg" group-title="2016",El Precio del Perdon (2016)
 https://mataocio-cdn5.mataocio-cdn5.workers.dev/Otras/El%2520Precio%2520del%2520Perd%C3%B3n.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/16/08/10/11/08/043634.jpg" group-title="2016",No manches Frida (2016)
