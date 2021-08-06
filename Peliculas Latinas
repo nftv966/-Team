@@ -193,6 +193,8 @@ http://vod.tuxchannel.tv:80/peliculas/720/subtituladas/boss%20level%202021%20sub
 
 
 
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/11/20/17/46/3198892.jpg" group-title="2020",El llamado salvaje (2020)
+https://mataocio-cdn5.mataocio-cdn5.workers.dev/El%2520llamado%2520salvaje.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/03/11/16/18/5517345.jpg" group-title="2020",Cuesta abajo (2020)
 https://mataocio-cdn5.mataocio-cdn5.workers.dev/Cuesta%2520abajo%2520-%25202020.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/11/11/01/23/0805301.jpg" group-title="2020",Navidad Xtraterrestre (2020)
@@ -557,6 +559,8 @@ http://vod.tuxchannel.tv/peliculas/720/half%20brothers%202020.mkv
 http://vod.tuxchannel.tv/peliculas/720/wszyscy%20moi%20przyjaciele%20nie%20zyja%202020.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/19/12/16/10/01/2209007.jpg" group-title="2019",Escuadron de la muerte (2019)
+https://mataocio-cdn5.mataocio-cdn5.workers.dev/El%2520equipo%2520de%2520la%2520muerte%2520-%25202019.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/05/08/16/59/2526525.jpg" group-title="2019",Aladdin (2019)
 https://mataocio-cdn5.mataocio-cdn5.workers.dev/Aladdin%25202019.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/12/16/10/46/3240981.jpg" group-title="2019",Volando Juntos (2019)
