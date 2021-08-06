@@ -192,6 +192,8 @@ http://vod.tuxchannel.tv/peliculas/720/subtituladas/wrong%20turn%202021%20sub.mk
 http://vod.tuxchannel.tv:80/peliculas/720/subtituladas/boss%20level%202021%20sub.mkv
 
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/t9ttLmZ3NJbgtnOsGyQNiF2ngJo.jpg" group-title="2020",Aztech (2020)
+https://mataocio-cdn5.mataocio-cdn5.workers.dev/Otras%25202/Aztech%2520-%25202020.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91gLlu9wzmL._AC_SY606_.jpg" group-title="2020",Vanguard (2020)
 https://mataocio-cdn5.mataocio-cdn5.workers.dev/Otras%25203/Vanguard%2520-%25202020.mp4
 #EXTINF:-1 tvg-logo="https://www.cartelera.com.uy/imagenes_espectaculos/moviedetail13/29395.jpg" group-title="2020",El juego de las 100 velas (2020)
@@ -1060,6 +1062,8 @@ http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C9126
 http://onedrive.live.com/download.aspx?cid=A77E309F9C912682&resid=A77E309F9C912682%212732&authkey=AJe5LYBeJ0hKUTA
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/89/88/13/20071033.jpg" group-title="Peliculas Viejas",El Expreso Polar (2012)
+https://mataocio-cdn5.mataocio-cdn5.workers.dev/Otras%25202/El%2520Expreso%2520Polar.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/89/29/37/20139549.jpg" group-title="Peliculas Viejas",El alucinante mundo de Norman (2012)
 https://mataocio-cdn5.mataocio-cdn5.workers.dev/Otras%25203/Paranormal.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/67/78/89/20068058.jpg" group-title="Peliculas Viejas",La pasion de Cristo (2004)
