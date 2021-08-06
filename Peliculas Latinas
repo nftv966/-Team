@@ -678,6 +678,8 @@ http://tux-vod.dynu.com:80/peliculas/720/the%20kid%20who%20would%20be%20king%202
 
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/07/16/11/40/1384011.jpg" group-title="2018",Christopher Robin (2018)
+https://mataocio-cdn5.mataocio-cdn5.workers.dev/Christopher%2520Robin.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/05/21/12/50/1518397.jpg" group-title="2018",Bohemian Rhapsody (2018)
 https://mataocio-cdn5.mataocio-cdn5.workers.dev/Bohemian%2520rhapsody.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Bc78S2lpL._SX300_SY300_QL70_ML2_.jpg" group-title="2018",Actos de violencia (2018)
@@ -823,6 +825,8 @@ http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
 http://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/09/18/10/47/266847.jpg" group-title="Peliculas Viejas",Coherence (2013) CASTELLANO
+https://mataocio-cdn5.mataocio-cdn5.workers.dev/Coherence.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/02/09/13/22/028575.jpg" group-title="Peliculas Viejas",Tesis (1996) CASTELLANO
 https://mataocio-cdn5.mataocio-cdn5.workers.dev/-%2520%2520%2520%2520%2520Tesis.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/89/88/13/20071033.jpg" group-title="Peliculas Viejas",El Expreso Polar (2012)
