@@ -4786,14 +4786,27 @@ http://201.172.61.81:85/series/Novelas/Preso%20Numero%201/43.mkv
 #EXTINF:-1 tvg-logo="https://www.mundonoveseries.com/wp-content/uploads/2019/06/preso-n-1-serie-poster.jpg" group-title="Preso No. 1",Cap. 44
 http://201.172.61.81:85/series/Novelas/Preso%20Numero%201/44.mkv
 
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/03/15/11/19/5882618.jpg" group-title="Resident Evil: La tiniebla infinita",cap. 0
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/03/15/11/19/5882618.jpg" group-title="Resident Evil: La tiniebla infinita",cap. 01
 http://201.172.61.203:88/Series/JULIO%20AGOSTO/RESIDENT%20EVIL%20Infinite%20Darkness/01.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/03/15/11/19/5882618.jpg" group-title="Resident Evil: La tiniebla infinita",cap. 0
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/03/15/11/19/5882618.jpg" group-title="Resident Evil: La tiniebla infinita",cap. 02
 http://201.172.61.203:88/Series/JULIO%20AGOSTO/RESIDENT%20EVIL%20Infinite%20Darkness/02.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/03/15/11/19/5882618.jpg" group-title="Resident Evil: La tiniebla infinita",cap. 0
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/03/15/11/19/5882618.jpg" group-title="Resident Evil: La tiniebla infinita",cap. 03
 http://201.172.61.203:88/Series/JULIO%20AGOSTO/RESIDENT%20EVIL%20Infinite%20Darkness/03.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/03/15/11/19/5882618.jpg" group-title="Resident Evil: La tiniebla infinita",cap. 0
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/03/15/11/19/5882618.jpg" group-title="Resident Evil: La tiniebla infinita",cap. 04
 http://201.172.61.203:88/Series/JULIO%20AGOSTO/RESIDENT%20EVIL%20Infinite%20Darkness/04.mp4
+
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/09/10/47/2201623.jpg" group-title="Ridley Jones",cap. 01
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/Ridley%20Jones/01.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/09/10/47/2201623.jpg" group-title="Ridley Jones",cap. 02
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/Ridley%20Jones/02.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/09/10/47/2201623.jpg" group-title="Ridley Jones",cap. 03
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/Ridley%20Jones/03.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/09/10/47/2201623.jpg" group-title="Ridley Jones",cap. 04
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/Ridley%20Jones/04.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/09/10/47/2201623.jpg" group-title="Ridley Jones",cap. 05
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/Ridley%20Jones/05.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/09/10/47/2201623.jpg" group-title="Ridley Jones",cap. 06
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/Ridley%20Jones/06.mp4
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a9/0e/d6/a90ed65f2695d828b34d7ae164d81f12.jpg" group-title="Run Coyote Run T1",cap. 01
 http://201.172.61.81:85/series/noviembre/Run%20Coyote%20Run%201%20y%202/Run%20Coyote%20Run%20S01/Coyote%20Run%20-%20s01e01.mp4
