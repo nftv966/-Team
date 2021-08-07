@@ -26,6 +26,8 @@ http://201.172.61.203:88/Peliculas/jul%20agos/Black%20Window.mp4
 http://vod.tuxchannel.tv/peliculas/720/space%20jam%20a%20new%20legacy%202021.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/05/16/42/3751570.jpg" group-title="2021",Space Jam: Nuevas leyendas (2021)
 http://201.172.61.203:88/Peliculas/jul%20agos/Space%20Jam%20-%20A%20New%20Legacy%20(2021).mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/05/27/19/19/3612388.png" group-title="2021",Duro de cuidar 2 (2021)
+http://201.172.61.203:88/Peliculas/mkv/duro%20de%20cuidar%202.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81EK5zblGyL._RI_.jpg" group-title="2021",Operacion Narco (2021)
 http://201.172.61.203:88/Peliculas/jul%20agos/Operaci%c3%b3n.Narco.2021.WEB-DL.1080p.Latino.PGD.mkv%20-%20Google%20Drive.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/04/29/08/04/4838933.jpg" group-title="2021",Los Renegados (2021)
@@ -626,6 +628,8 @@ http://vod.tuxchannel.tv/peliculas/720/half%20brothers%202020.mkv
 http://vod.tuxchannel.tv/peliculas/720/wszyscy%20moi%20przyjaciele%20nie%20zyja%202020.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/20/14/41/3517999.jpg" group-title="2019",Pinocho (2019)
+http://201.172.61.203:88/Peliculas/mkv/Ver%20Pinocho%20(2019)%20Online%20Latino%20HD%20-%20Pelisplus.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/19/12/16/10/01/2209007.jpg" group-title="2019",Escuadron de la muerte (2019)
 https://mataocio-cdn5.mataocio-cdn5.workers.dev/El%2520equipo%2520de%2520la%2520muerte%2520-%25202019.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/05/08/16/59/2526525.jpg" group-title="2019",Aladdin (2019)
@@ -902,6 +906,8 @@ http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
 http://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/medias/nmedia/18/89/75/94/20065409.jpg" group-title="Peliculas Viejas",El secreto de los hermanos Grimm (2005)
+http://201.172.61.203:88/Peliculas/mkv/grimm.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/15/11/13/09/29/567064.jpg" group-title="Peliculas Viejas",Space Jam (1996)
 http://201.172.61.203:88/Peliculas/jul%20agos/Ver%20Space%20Jam%20(1996)%20Online%20Latino%20HD%20-%20Pelisplus.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/09/18/10/47/266847.jpg" group-title="Peliculas Viejas",Coherence (2013) CASTELLANO
