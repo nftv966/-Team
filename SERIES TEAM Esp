@@ -455,6 +455,19 @@ http://201.172.61.81:85/series/noviembre/a%20suitable%20boy/A.Suitable.Boy%20-%2
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51IB7ZAnW7L.jpg" group-title="A Suitable Boy",Cap. 06
 http://201.172.61.81:85/series/noviembre/a%20suitable%20boy/A.Suitable.Boy%20-%20s01e06.mp4
 
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/21/07/09/21/05/5324444.jpg" group-title="Atracos: Robos magistrales",Cap. 01
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/Atracos/01.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/21/07/09/21/05/5324444.jpg" group-title="Atracos: Robos magistrales",Cap. 02
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/Atracos/02.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/21/07/09/21/05/5324444.jpg" group-title="Atracos: Robos magistrales",Cap. 03
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/Atracos/03.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/21/07/09/21/05/5324444.jpg" group-title="Atracos: Robos magistrales",Cap. 04
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/Atracos/04.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/21/07/09/21/05/5324444.jpg" group-title="Atracos: Robos magistrales",Cap. 05
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/Atracos/05.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/21/07/09/21/05/5324444.jpg" group-title="Atracos: Robos magistrales",Cap. 06
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/Atracos/06.mp4
+
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61Xj0bztIQL._AC_SL1050_.jpg" group-title="Band Of Brothers",cap. 01
 http://201.172.61.81:85/series/noviembre/BandOfBrothers/Band%20Of%20Brothers%20-%20s01e01.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61Xj0bztIQL._AC_SL1050_.jpg" group-title="Band Of Brothers",cap. 02
@@ -2431,6 +2444,23 @@ http://201.172.61.81:85/series/noviembre/GAMBITO%20DE%20DAMA/The.Queens.Gamb%20-
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/20/09/25/09/06/0492330.jpg" group-title="Gambito de Dama",Cap. 07
 http://201.172.61.81:85/series/noviembre/GAMBITO%20DE%20DAMA/The.Queens.Gamb%20-%20s01e07.mp4
 
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/21/06/30/13/11/0957058.jpg" group-title="Generacion 56K T1",Cap. 01
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/Generation%2056K%20S01/01.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/21/06/30/13/11/0957058.jpg" group-title="Generacion 56K T1",Cap. 02
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/Generation%2056K%20S01/02.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/21/06/30/13/11/0957058.jpg" group-title="Generacion 56K T1",Cap. 03
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/Generation%2056K%20S01/03.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/21/06/30/13/11/0957058.jpg" group-title="Generacion 56K T1",Cap. 04
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/Generation%2056K%20S01/04.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/21/06/30/13/11/0957058.jpg" group-title="Generacion 56K T1",Cap. 05
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/Generation%2056K%20S01/05.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/21/06/30/13/11/0957058.jpg" group-title="Generacion 56K T1",Cap. 06
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/Generation%2056K%20S01/06.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/21/06/30/13/11/0957058.jpg" group-title="Generacion 56K T1",Cap. 07
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/Generation%2056K%20S01/07.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/21/06/30/13/11/0957058.jpg" group-title="Generacion 56K T1",Cap. 08
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/Generation%2056K%20S01/08.mp4
+
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/20/10/07/08/15/0947468.jpg" group-title="Grand Army",Cap. 01
 http://201.172.61.81:85/series/noviembre/Grand%20Army/Grand.Army%20-%20s01e01.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/20/10/07/08/15/0947468.jpg" group-title="Grand Army",Cap. 02
@@ -2701,6 +2731,27 @@ http://201.172.61.81:85/series/Enero/MKV%20grimm%20temporada%201%20latino/T6/11.
 http://201.172.61.81:85/series/Enero/MKV%20grimm%20temporada%201%20latino/T6/12.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81D7fTf9Q8L._SL1500_.jpg" group-title="Grimm T6",cap. 13
 http://201.172.61.81:85/series/Enero/MKV%20grimm%20temporada%201%20latino/T6/13.mp4
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/29/18/00/2941226.jpg" group-title="Hacks",cap. 01
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/Hacks%20Temporada%201/01.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/29/18/00/2941226.jpg" group-title="Hacks",cap. 02
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/Hacks%20Temporada%201/02.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/29/18/00/2941226.jpg" group-title="Hacks",cap. 03
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/Hacks%20Temporada%201/03.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/29/18/00/2941226.jpg" group-title="Hacks",cap. 04
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/Hacks%20Temporada%201/04.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/29/18/00/2941226.jpg" group-title="Hacks",cap. 05
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/Hacks%20Temporada%201/05.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/29/18/00/2941226.jpg" group-title="Hacks",cap. 06
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/Hacks%20Temporada%201/06.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/29/18/00/2941226.jpg" group-title="Hacks",cap. 07
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/Hacks%20Temporada%201/07.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/29/18/00/2941226.jpg" group-title="Hacks",cap. 08
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/Hacks%20Temporada%201/08.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/29/18/00/2941226.jpg" group-title="Hacks",cap. 09
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/Hacks%20Temporada%201/09.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/29/18/00/2941226.jpg" group-title="Hacks",cap. 10
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/Hacks%20Temporada%201/10.mp4
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71nrbkOgIQS._AC_SY445_.jpg" group-title="Hudson & Rex T1",cap. 01
 http://201.172.61.203:88/Series/1%20Marzo%20Abril/Hudson%20Rex/T1/01.mp4
@@ -3098,6 +3149,23 @@ http://201.172.61.81:85/series/noviembre/The%20Haunting%20of%20Bly%20Manor/The.H
 http://201.172.61.81:85/series/noviembre/The%20Haunting%20of%20Bly%20Manor/The.Haunting.of.Bly.Manor%20-%20s01e08.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/1b/e7/42/1be7421a99c6ccc668d7135ce71062f4.jpg" group-title="La maldición de Bly Manor",Cap. 09
 http://201.172.61.81:85/series/noviembre/The%20Haunting%20of%20Bly%20Manor/The.Haunting.of.Bly.Manor%20-%20s01e09.mp4
+
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/21/05/25/00/44/3516341.jpg" group-title="La Muchacha que Limpia",Cap. 01
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/La%20Muchacha%20Que%20Limpia/01.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/21/05/25/00/44/3516341.jpg" group-title="La Muchacha que Limpia",Cap. 02
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/La%20Muchacha%20Que%20Limpia/02.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/21/05/25/00/44/3516341.jpg" group-title="La Muchacha que Limpia",Cap. 03
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/La%20Muchacha%20Que%20Limpia/03.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/21/05/25/00/44/3516341.jpg" group-title="La Muchacha que Limpia",Cap. 04
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/La%20Muchacha%20Que%20Limpia/04.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/21/05/25/00/44/3516341.jpg" group-title="La Muchacha que Limpia",Cap. 05
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/La%20Muchacha%20Que%20Limpia/05.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/21/05/25/00/44/3516341.jpg" group-title="La Muchacha que Limpia",Cap. 06
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/La%20Muchacha%20Que%20Limpia/06.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/21/05/25/00/44/3516341.jpg" group-title="La Muchacha que Limpia",Cap. 07
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/La%20Muchacha%20Que%20Limpia/07.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/21/05/25/00/44/3516341.jpg" group-title="La Muchacha que Limpia",Cap. 08
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/La%20Muchacha%20Que%20Limpia/08.mp4
 
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/20/05/04/01/53/5955667.jpg" group-title="La Piloto T1",Cap. 01
 http://201.172.61.81:85/series/noviembre/La%20piloto%201%20y%202/temp%201/La.pilotoCaptulo%20-%20s01e01.mp4
@@ -4717,6 +4785,15 @@ http://201.172.61.81:85/series/Novelas/Preso%20Numero%201/42.mkv
 http://201.172.61.81:85/series/Novelas/Preso%20Numero%201/43.mkv
 #EXTINF:-1 tvg-logo="https://www.mundonoveseries.com/wp-content/uploads/2019/06/preso-n-1-serie-poster.jpg" group-title="Preso No. 1",Cap. 44
 http://201.172.61.81:85/series/Novelas/Preso%20Numero%201/44.mkv
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/03/15/11/19/5882618.jpg" group-title="Resident Evil: La tiniebla infinita",cap. 0
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/RESIDENT%20EVIL%20Infinite%20Darkness/01.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/03/15/11/19/5882618.jpg" group-title="Resident Evil: La tiniebla infinita",cap. 0
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/RESIDENT%20EVIL%20Infinite%20Darkness/02.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/03/15/11/19/5882618.jpg" group-title="Resident Evil: La tiniebla infinita",cap. 0
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/RESIDENT%20EVIL%20Infinite%20Darkness/03.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/03/15/11/19/5882618.jpg" group-title="Resident Evil: La tiniebla infinita",cap. 0
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/RESIDENT%20EVIL%20Infinite%20Darkness/04.mp4
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a9/0e/d6/a90ed65f2695d828b34d7ae164d81f12.jpg" group-title="Run Coyote Run T1",cap. 01
 http://201.172.61.81:85/series/noviembre/Run%20Coyote%20Run%201%20y%202/Run%20Coyote%20Run%20S01/Coyote%20Run%20-%20s01e01.mp4
