@@ -754,7 +754,12 @@ http://vod.tuxchannel.tv/peliculas/720/mama%20al%20volante%202019.mkv
 http://tux-vod.dynu.com:80/peliculas/720/the%20kid%20who%20would%20be%20king%202018.mkv
 
 
-
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/04/05/10/50/0307472.jpg" group-title="2018",Verdad o reto (2018)
+https://mataocio-cdn5.mataocio-cdn5.workers.dev/Verdad%2520o%2520reto%2520-%25202018.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/c_310_420/pictures/18/06/23/00/03/3150250.jpg" group-title="2018",Un viaje en el tiempo (2018)
+https://mataocio-cdn5.mataocio-cdn5.workers.dev/Un%2520viaje%2520en%2520el%2520tiempo%2520-%25202018.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/17/12/27/10/18/0196300.jpg" group-title="2018",Tomb Raider (2018)
+https://mataocio-cdn5.mataocio-cdn5.workers.dev/Tomb%2520Raider%2520-%25202018.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/07/16/11/40/1384011.jpg" group-title="2018",Christopher Robin (2018)
 https://mataocio-cdn5.mataocio-cdn5.workers.dev/Christopher%2520Robin.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/05/21/12/50/1518397.jpg" group-title="2018",Bohemian Rhapsody (2018)
@@ -807,6 +812,12 @@ http://201.172.61.203:88/Peliculas/Marzo%20Abril/WhenWeFirstMet2018.mp4
 http://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/03/24/13/00/443679.jpg" group-title="2017",Un refugio inesperado (2017)
+https://mataocio-cdn5.mataocio-cdn5.workers.dev/Un%2520refugio%2520inesperado.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/c_310_420/pictures/17/08/25/03/39/292477.jpg" group-title="2017",Todo todo (2017)
+https://mataocio-cdn5.mataocio-cdn5.workers.dev/Todo%2520todo.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/17/03/31/18/46/271475.jpg" group-title="2017",El efecto sombra (2017)
+https://mataocio-cdn5.mataocio-cdn5.workers.dev/The%2520shadow%2520effect%2520-%25202017.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/17/01/30/11/31/059557.jpg" group-title="2017",Logan (2017)
 http://201.172.61.203:88/Peliculas/jul%20agos/Ver%20Logan%20(2017).mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/05/04/13/26/494587.jpg" group-title="2017",Despertando a Zodiac (2017)
@@ -879,7 +890,8 @@ http://ia801603.us.archive.org/20/items/24052017Aqc789423784723984/24052017_aqc.
 http://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
 
 
-
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/15/05/05/11/56/026812.jpg" group-title="2015",Terremoto: La falla de San Andrés (2015)
+https://mataocio-cdn5.mataocio-cdn5.workers.dev/San%2520Andreas.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/27/c8/f4/27c8f4c072b718825bf0c4f763811a71.jpg" group-title="2015",Maze Runner: Prueba De Fuego (2015)
 http://201.172.61.203:88/Peliculas/Danna/Maze%20Runner-%20Prueba%20De%20Fuego%20(2015).mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/8d/29/57/8d2957ef483e2d9521bc8bb8915ffe9c.jpg" group-title="2015",Solteros en el Tiempo 2 (2015)
@@ -906,6 +918,12 @@ http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
 http://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/78/07/83/19794685.jpg" group-title="Peliculas Viejas",Super 8 (2011)
+https://mataocio-cdn5.mataocio-cdn5.workers.dev/Super%25208%2520-%25202011.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/69/52/53/20051673.jpg" group-title="Peliculas Viejas",Soy Leyenda (2007)
+https://mataocio-cdn5.mataocio-cdn5.workers.dev/Soy%2520leyenda%2520-%25202007.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/86/53/18/19846084.jpg" group-title="Peliculas Viejas",Red Tails: Escuadron Rojo (2012)
+https://mataocio-cdn5.mataocio-cdn5.workers.dev/RedTails.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/medias/nmedia/18/89/75/94/20065409.jpg" group-title="Peliculas Viejas",El secreto de los hermanos Grimm (2005)
 http://201.172.61.203:88/Peliculas/mkv/grimm.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/15/11/13/09/29/567064.jpg" group-title="Peliculas Viejas",Space Jam (1996)
