@@ -2471,6 +2471,45 @@ http://201.172.61.81:85/series/noviembre/Fargo%201%202%203%204%202020/Fargo%20S0
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91A0z8T8o%2BL._SY445_.jpg" group-title="Fargo T3",Cap. 10
 http://201.172.61.81:85/series/noviembre/Fargo%201%202%203%204%202020/Fargo%20S03/Fargo%20-%20s03e10.mp4
 
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1200/1215/dest_1.jpg" group-title="Frontier T1 DUAL",Cap. 01
+http://201.172.61.203:88/Series/Frontier/T1/01.mp4
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1200/1215/dest_1.jpg" group-title="Frontier T1 DUAL",Cap. 02
+http://201.172.61.203:88/Series/Frontier/T1/02.mp4
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1200/1215/dest_1.jpg" group-title="Frontier T1 DUAL",Cap. 03
+http://201.172.61.203:88/Series/Frontier/T1/03.mp4
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1200/1215/dest_1.jpg" group-title="Frontier T1 DUAL",Cap. 04
+http://201.172.61.203:88/Series/Frontier/T1/04.mp4
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1200/1215/dest_1.jpg" group-title="Frontier T1 DUAL",Cap. 05
+http://201.172.61.203:88/Series/Frontier/T1/05.mp4
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1200/1215/dest_1.jpg" group-title="Frontier T1 DUAL",Cap. 06
+http://201.172.61.203:88/Series/Frontier/T1/06.mp4
+
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1200/1215/2_m3.jpg" group-title="Frontier T2 DUAL",Cap. 01
+http://201.172.61.203:88/Series/Frontier/T2/01.mp4
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1200/1215/2_m3.jpg" group-title="Frontier T2 DUAL",Cap. 02
+http://201.172.61.203:88/Series/Frontier/T2/02.mp4
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1200/1215/2_m3.jpg" group-title="Frontier T2 DUAL",Cap. 03
+http://201.172.61.203:88/Series/Frontier/T2/03.mp4
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1200/1215/2_m3.jpg" group-title="Frontier T2 DUAL",Cap. 04
+http://201.172.61.203:88/Series/Frontier/T2/04.mp4
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1200/1215/2_m3.jpg" group-title="Frontier T2 DUAL",Cap. 05
+http://201.172.61.203:88/Series/Frontier/T2/05.mp4
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1200/1215/2_m3.jpg" group-title="Frontier T2 DUAL",Cap. 06
+http://201.172.61.203:88/Series/Frontier/T2/06.mp4
+
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1200/1215/3_m3.jpg" group-title="Frontier T3 DUAL",Cap. 01
+http://201.172.61.203:88/Series/Frontier/T3/01.mp4
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1200/1215/3_m3.jpg" group-title="Frontier T3 DUAL",Cap. 02
+http://201.172.61.203:88/Series/Frontier/T3/02.mp4
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1200/1215/3_m3.jpg" group-title="Frontier T3 DUAL",Cap. 03
+http://201.172.61.203:88/Series/Frontier/T3/03.mp4
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1200/1215/3_m3.jpg" group-title="Frontier T3 DUAL",Cap. 04
+http://201.172.61.203:88/Series/Frontier/T3/04.mp4
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1200/1215/3_m3.jpg" group-title="Frontier T3 DUAL",Cap. 05
+http://201.172.61.203:88/Series/Frontier/T3/05.mp4
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/1200/1215/3_m3.jpg" group-title="Frontier T3 DUAL",Cap. 06
+http://201.172.61.203:88/Series/Frontier/T3/06.mp4
+
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/20/09/25/09/06/0492330.jpg" group-title="Gambito de Dama",Cap. 01
 http://201.172.61.81:85/series/noviembre/GAMBITO%20DE%20DAMA/The.Queens.Gamb%20-%20s01e01.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/20/09/25/09/06/0492330.jpg" group-title="Gambito de Dama",Cap. 02
