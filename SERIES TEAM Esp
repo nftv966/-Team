@@ -2956,6 +2956,23 @@ http://201.172.61.81:85/series/noviembre/IZOMBIE/TEMP%204/IZ%20-%20S04E12.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/18/02/19/15/23/4086911.jpg" group-title="iZombie T4",Cap. 13
 http://201.172.61.81:85/series/noviembre/IZOMBIE/TEMP%204/IZ%20-%20S04E13.mp4
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/06/18/16/58/1247889.jpg" group-title="Katla",Cap. 01
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/katla%20s01e01/01.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/06/18/16/58/1247889.jpg" group-title="Katla",Cap. 02
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/katla%20s01e01/02.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/06/18/16/58/1247889.jpg" group-title="Katla",Cap. 03
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/katla%20s01e01/03.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/06/18/16/58/1247889.jpg" group-title="Katla",Cap. 04
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/katla%20s01e01/04.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/06/18/16/58/1247889.jpg" group-title="Katla",Cap. 05
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/katla%20s01e01/05.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/06/18/16/58/1247889.jpg" group-title="Katla",Cap. 06
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/katla%20s01e01/06.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/06/18/16/58/1247889.jpg" group-title="Katla",Cap. 07
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/katla%20s01e01/07.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/06/18/16/58/1247889.jpg" group-title="Katla",Cap. 08
+http://201.172.61.203:88/Series/JULIO%20AGOSTO/katla%20s01e01/08.mp4
+
 #EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 01
 http://201.172.61.81:85/series/Enero/1La%20Esquina%20Del%20Diablo/01.mp4
 #EXTINF:-1 tvg-logo="https://tvguide3.cbsistatic.com/catalog/provider/1/1/1-9006185980.jpg" group-title="La esquina del diablo",Cap. 02
