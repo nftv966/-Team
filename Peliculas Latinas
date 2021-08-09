@@ -755,6 +755,8 @@ http://tux-vod.dynu.com:80/peliculas/720/the%20kid%20who%20would%20be%20king%202
 
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/17/12/11/16/27/3406097.jpg" group-title="2018",Pantera Negra (2018)
+https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520Pantera%2520Negra%2520-%25202018.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/07/03/13/52/3276833.jpg" group-title="2018",Ant-Man y La Avispa (2018)
 https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520Ant-Man%2520Y%2520La%2520Avispa%2520-%25202018.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/07/16/11/40/1384011.jpg" group-title="2018",Christopher Robin (2018)
@@ -809,6 +811,8 @@ http://201.172.61.203:88/Peliculas/Marzo%20Abril/WhenWeFirstMet2018.mp4
 http://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/03/09/14/11/154943.jpg" group-title="2017",Guardianes De La Galaxia Vol 2 (2017)
+https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520Guardianes%2520De%2520La%2520Galaxia%2520Vol%25202%2520-%25202017.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/17/01/30/11/31/059557.jpg" group-title="2017",Logan (2017)
 http://201.172.61.203:88/Peliculas/jul%20agos/Ver%20Logan%20(2017).mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/05/04/13/26/494587.jpg" group-title="2017",Despertando a Zodiac (2017)
@@ -924,6 +928,8 @@ https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2
 https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520El%2520Sorprendente%2520Hombre%2520Ara%C3%B1a%2520-%25202012.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/03/28/10/25/215446.jpg" group-title="Peliculas Viejas",El Sorprendente Hombre Araña: El Poder de Electro (2014)
 https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520El%2520Sorprendente%2520Hombre%2520Ara%C3%B1a%25202%2520El%2520Poder%2520de%2520Electro%2520-%25202014.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/05/05/12/48/358728.jpg" group-title="Peliculas Viejas",Hulk (2003)
+https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520Hulk%2520-%25202003.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/66/73/18/20350674.jpg" group-title="Peliculas Viejas",El Increible Hulk (2008)
 https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520El%2520Incre%C3%ADble%2520Hulk%2520-%25202008.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/medias/nmedia/18/89/75/94/20065409.jpg" group-title="Peliculas Viejas",El secreto de los hermanos Grimm (2005)
