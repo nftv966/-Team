@@ -863,6 +863,8 @@ http://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
 http://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/16/10/26/08/45/139966.jpg" group-title="2016",Doctor Strange (2016)
+https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520Doctor%2520Strange%2520-%25202016.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/03/14/17/21/324829.jpg" group-title="2016",Capitan America: Civil War (2016)
 https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520America%2520Civil%2520War%2520-%25202016.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/819NFjBk-zL._RI_.jpg" group-title="2016",Anti Materia (2016)
@@ -912,6 +914,12 @@ http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
 http://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/90/04/41/20078157.jpg" group-title="Peliculas Viejas",El Hombre Araña (2002)
+https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520El%2520Hombre%2520Ara%C3%B1a%2520-%25202002.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/06/20/13/56/179267.jpg" group-title="Peliculas Viejas",El Hombre Araña 2 (2004)
+https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520El%2520Hombre%2520Ara%C3%B1a%25202%2520-%25202004.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/67/67/65/20054918.jpg" group-title="Peliculas Viejas",El Hombre Araña 3 (2007)
+https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520El%2520Hombre%2520Ara%C3%B1a%25203%2520-%25202007.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/medias/nmedia/18/89/75/94/20065409.jpg" group-title="Peliculas Viejas",El secreto de los hermanos Grimm (2005)
 http://201.172.61.203:88/Peliculas/mkv/grimm.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/15/11/13/09/29/567064.jpg" group-title="Peliculas Viejas",Space Jam (1996)
