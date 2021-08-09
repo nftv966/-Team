@@ -755,6 +755,8 @@ http://tux-vod.dynu.com:80/peliculas/720/the%20kid%20who%20would%20be%20king%202
 
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/04/26/11/50/5029006.jpg" group-title="2018",Deadpoool 2 (2018)
+https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520Deadpoool%25202.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/17/12/11/16/27/3406097.jpg" group-title="2018",Pantera Negra (2018)
 https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520Pantera%2520Negra%2520-%25202018.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/07/03/13/52/3276833.jpg" group-title="2018",Ant-Man y La Avispa (2018)
@@ -871,6 +873,8 @@ http://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
 http://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/04/14/11/28/136403.jpg" group-title="2016",X-Men: Apocalipsis (2016)
+https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520X%2520Men%2520Apocalipsis%2520-%25202016.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/16/10/26/08/45/139966.jpg" group-title="2016",Doctor Strange (2016)
 https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520Doctor%2520Strange%2520-%25202016.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/03/14/17/21/324829.jpg" group-title="2016",Capitan America: Civil War (2016)
@@ -922,6 +926,14 @@ http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
 http://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/05/08/13/56/547394.jpg" group-title="Peliculas Viejas",X-Men 3: La batalla final (2006)
+https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520X%2520Men%2520III%2520La%2520batalla%2520final%2520(2006).mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/06/17/14/04/353959.jpg" group-title="Peliculas Viejas",Guardianes de la galaxia (2014)
+https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520Guardianes%2520de%2520la%2520galaxia%2520-%25202014.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/84/79/82/20099009.jpg" group-title="Peliculas Viejas",Capitan America: El primer vengador (2011)
+https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520Capitan%2520america%2520-%2520El%2520primer%2520vengador%2520-%25202011.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/01/31/16/12/220933.jpg" group-title="Peliculas Viejas",Capitan America: El soldado de invierno (2014)
+https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520Capitan%2520america%2520-%2520El%2520soldado%2520de%2520invierno%2520-%25202014.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/91/23/41/20535996.jpg" group-title="Peliculas Viejas",Wolverine: Inmortal (2013)
 https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520Wolverine%2520-%2520Inmortal%2520-%25202013.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/79/89/52/19711203.jpg" group-title="Peliculas Viejas",Thor (2011)
