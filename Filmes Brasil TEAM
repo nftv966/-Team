@@ -5,7 +5,14 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 #EXTINF:-1 tvg-logo="https://www.lifeder.com/wp-content/uploads/2016/07/pel%C3%ADculas-recomendadas.jpg" group-title="FILMES GRATIS",FILMES GRATIS
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/07/07/00/23/1802515.jpg" group-title="2021",Um Lugar Silencioso: Parte 2 (2021)
+http://185.148.3.146:6503/Um%20Lugar%20Silencioso%20-%20Parte%20II%202021%20WEB-DL%201080p%20DUAL%205.1.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/06/28/15/53/0645594.jpg" group-title="2021",Rua do Medo: Parte 1 1994 (2021)
+http://185.148.3.146:6503/Rua.do.Medo.1994_Parte.1.2021.1080p.WEB-DL.5.1.DUAL.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/07/07/16/37/0992833.jpg" group-title="2021",Rua do Medo: Parte 2 1978 (2021)
+http://185.148.3.146:6503/Rua%20do%20Medo%20-%201978%20%E2%80%93%20Parte%202%202021%20WEB-DL%201080p%20DUAL%205.1.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/21/07/14/16/08/3726160.jpg" group-title="2021",Rua do Medo: Parte 3 1666 (2021)
+http://185.148.3.146:6503/Fear.Street.Part.3.1666.2021.1080p.DUAL.5.1.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/06/21/12/39/2290548.jpg" group-title="2021",Um Classico Filme de Terror (2021)
 http://185.148.3.146:6503/Um%20Classico%20Filme%20de%20Terror%202021%201080p%20DUAL%205.1.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/05/02/16/26/3114498.jpg" group-title="2021",O Gangster Nomade (2021)
@@ -18,6 +25,8 @@ http://195.154.80.170:7700/Jungle%20Cruise%202021%20WEB-DL%201080p%20DUAL%205.1/
 http://195.154.80.170:7700/Vi%C3%BAva.Negra.2021.1080p.WEB-DL.DDP5.1.DUAL/Vi%C3%BAva.Negra.2021.1080p.WEB-DL.DDP5.1.DUAL.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/05/16/42/3751570.jpg" group-title="2021",Space Jam: Um Novo Legado (2021) DUAL
 http://195.154.80.170:7700/Space%20Jam%20-%20Um%20Novo%20Legado%202021%201080p%20WEBRip%20DUAL%205.1/Space%20Jam%20-%20Um%20Novo%20Legado%202021%201080p%20WEBRip%20DUAL%205.1_.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/05/16/42/3751570.jpg" group-title="2021",Space Jam: Um Novo Legado (2021)
+http://185.148.3.146:6503/Space%20Jam%20-%20Um%20Novo%20Legado%202021%201080p%20WEBRip%20DUAL%205.1_.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/03/11/21/37/5359097.jpg" group-title="2021",Rogai por Nos (2021) DUAL
 http://185.148.3.146:6503/Rogai.por.Nos.2021.1080p.BluRay.DUAL.5.1.COMANDO.TO.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/30/08/10/1385971.jpg" group-title="2021",Jolt: Furia Fatal (2021) DUAL
