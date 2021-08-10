@@ -7,7 +7,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
 
-https://dl.dropbox.com/s/ems0pzs37y3b77y/The%20Rodeo%20Thief.flv
+
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/07/09/20/39/3407185.jpg" group-title="2021",Mudanza mortal (2021) FLV
 https://dl.dropbox.com/s/y2sanqz5m0v4w2y/Mudanza%20mortal.flv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/01/18/17/01/1201090.jpg" group-title="2021",Mama María (2021) CASTELLANO
@@ -264,6 +264,8 @@ http://vod.tuxchannel.tv/peliculas/720/subtituladas/wrong%20turn%202021%20sub.mk
 http://vod.tuxchannel.tv:80/peliculas/720/subtituladas/boss%20level%202021%20sub.mkv
 
 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/8bd3b87f14f780ef45b7fef4a2f83d21f5d963a8213096df971005bf4d6ec031._RI_V_TTW_.jpg" group-title="2020",El ladrón de Rodeo (2020) FLV
+https://dl.dropbox.com/s/ems0pzs37y3b77y/The%20Rodeo%20Thief.flv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81rUXIRxPBL._SY445_.jpg" group-title="2020",Liga de la Justicia Oscura: Guerra en Apokolips (2020)
 https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/DC/Justice%2520League%2520Dark%2520-%2520Apokolips%2520War%2520-%25202020.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/05/24/09/47/1334868.jpg" group-title="2020",Selva Trágica (2020)
