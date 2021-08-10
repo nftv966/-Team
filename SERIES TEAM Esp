@@ -5965,6 +5965,19 @@ http://201.172.61.81:85/series/Enero/Timeless/T2/11.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/18/03/05/11/25/3581252.jpg" group-title="Timeless T2",cap. 12
 http://201.172.61.81:85/series/Enero/Timeless/T2/12.mp4
 
+#EXTINF:-1 tvg-logo="hhttps://es.web.img2.acsta.net/pictures/21/01/27/09/14/3690442.jpg" group-title="Tribus De Europa",cap. 01
+http://201.172.61.203:88/Series/1miguel/Tribus%20De%20Europa/T1/01.mp4
+#EXTINF:-1 tvg-logo="hhttps://es.web.img2.acsta.net/pictures/21/01/27/09/14/3690442.jpg" group-title="Tribus De Europa",cap. 02
+http://201.172.61.203:88/Series/1miguel/Tribus%20De%20Europa/T1/02.mp4
+#EXTINF:-1 tvg-logo="hhttps://es.web.img2.acsta.net/pictures/21/01/27/09/14/3690442.jpg" group-title="Tribus De Europa",cap. 03
+http://201.172.61.203:88/Series/1miguel/Tribus%20De%20Europa/T1/03.mp4
+#EXTINF:-1 tvg-logo="hhttps://es.web.img2.acsta.net/pictures/21/01/27/09/14/3690442.jpg" group-title="Tribus De Europa",cap. 04
+http://201.172.61.203:88/Series/1miguel/Tribus%20De%20Europa/T1/04.mp4
+#EXTINF:-1 tvg-logo="hhttps://es.web.img2.acsta.net/pictures/21/01/27/09/14/3690442.jpg" group-title="Tribus De Europa",cap. 05
+http://201.172.61.203:88/Series/1miguel/Tribus%20De%20Europa/T1/05.mp4
+#EXTINF:-1 tvg-logo="hhttps://es.web.img2.acsta.net/pictures/21/01/27/09/14/3690442.jpg" group-title="Tribus De Europa",cap. 06
+http://201.172.61.203:88/Series/1miguel/Tribus%20De%20Europa/T1/06.mp4
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e9/1e/3a/e91e3ad7b726ea6325e6687339642e03.jpg" group-title="True Detective T1 DUAL",cap. 01
 http://201.172.61.203:88/Series/true%20detective/T1/01.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e9/1e/3a/e91e3ad7b726ea6325e6687339642e03.jpg" group-title="True Detective T1 DUAL",cap. 02
