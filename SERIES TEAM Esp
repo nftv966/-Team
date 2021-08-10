@@ -4791,6 +4791,32 @@ http://201.172.61.81:85/series/noviembre/Lore/Lore%2002/Lore.2x05.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/18/07/25/12/54/3667955.jpg" group-title="Lore T2",cap. 06
 http://201.172.61.81:85/series/noviembre/Lore/Lore%2002/Lore.2x06.mp4
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/16/02/10/22/15/084977.jpg" group-title="Los asesinatos de frankenstein T1",cap. 01
+http://201.172.61.203:88/Series/1miguel/The%20Frankenstein%20Chronicles/T1/01.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/16/02/10/22/15/084977.jpg" group-title="Los asesinatos de frankenstein T1",cap. 02
+http://201.172.61.203:88/Series/1miguel/The%20Frankenstein%20Chronicles/T1/02.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/16/02/10/22/15/084977.jpg" group-title="Los asesinatos de frankenstein T1",cap. 03
+http://201.172.61.203:88/Series/1miguel/The%20Frankenstein%20Chronicles/T1/03.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/16/02/10/22/15/084977.jpg" group-title="Los asesinatos de frankenstein T1",cap. 04
+http://201.172.61.203:88/Series/1miguel/The%20Frankenstein%20Chronicles/T1/04.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/16/02/10/22/15/084977.jpg" group-title="Los asesinatos de frankenstein T1",cap. 05
+http://201.172.61.203:88/Series/1miguel/The%20Frankenstein%20Chronicles/T1/05.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/16/02/10/22/15/084977.jpg" group-title="Los asesinatos de frankenstein T1",cap. 06
+http://201.172.61.203:88/Series/1miguel/The%20Frankenstein%20Chronicles/T1/06.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81w0lITwH1L._SL1500_.jpg" group-title="Los asesinatos de frankenstein T2",cap. 01
+http://201.172.61.203:88/Series/1miguel/The%20Frankenstein%20Chronicles/T2/S02E01.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81w0lITwH1L._SL1500_.jpg" group-title="Los asesinatos de frankenstein T2",cap. 02
+http://201.172.61.203:88/Series/1miguel/The%20Frankenstein%20Chronicles/T2/S02E02.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81w0lITwH1L._SL1500_.jpg" group-title="Los asesinatos de frankenstein T2",cap. 03
+http://201.172.61.203:88/Series/1miguel/The%20Frankenstein%20Chronicles/T2/S02E03.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81w0lITwH1L._SL1500_.jpg" group-title="Los asesinatos de frankenstein T2",cap. 04
+http://201.172.61.203:88/Series/1miguel/The%20Frankenstein%20Chronicles/T2/S02E04.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81w0lITwH1L._SL1500_.jpg" group-title="Los asesinatos de frankenstein T2",cap. 05
+http://201.172.61.203:88/Series/1miguel/The%20Frankenstein%20Chronicles/T2/S02E05.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81w0lITwH1L._SL1500_.jpg" group-title="Los asesinatos de frankenstein T2",cap. 06
+http://201.172.61.203:88/Series/1miguel/The%20Frankenstein%20Chronicles/T2/S02E06.mp4
+
 #EXTINF:-1 tvg-logo="https://serialhd.top/uploads/posts/2020-12/1606928130_internacionalisty.jpg" group-title="Los internacionales",cap. 01
 http://201.172.61.81:85/series/Caricaturas/1Los%20internacionales%20(2020)/01.mp4
 #EXTINF:-1 tvg-logo="https://serialhd.top/uploads/posts/2020-12/1606928130_internacionalisty.jpg" group-title="Los internacionales",cap. 02
