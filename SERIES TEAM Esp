@@ -551,6 +551,19 @@ http://201.172.61.81:85/series/noviembre/Antidisturbios/Antidisturbios.720.Latin
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/2100/2186/2_m3.jpg" group-title="Antidisturbios",Cap. 06
 http://201.172.61.81:85/series/noviembre/Antidisturbios/Antidisturbios.720.LatinoS01E06.mp4
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71bwxs4ZBdL._SL1200_.jpg" group-title="Ascension CASTELLANO",Cap. 01
+http://fina.dyndns.tv/Series/Ascension/01x01.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71bwxs4ZBdL._SL1200_.jpg" group-title="Ascension CASTELLANO",Cap. 02
+http://fina.dyndns.tv/Series/Ascension/01x02.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71bwxs4ZBdL._SL1200_.jpg" group-title="Ascension CASTELLANO",Cap. 03
+http://fina.dyndns.tv/Series/Ascension/01x03.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71bwxs4ZBdL._SL1200_.jpg" group-title="Ascension CASTELLANO",Cap. 04
+http://fina.dyndns.tv/Series/Ascension/01x04.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71bwxs4ZBdL._SL1200_.jpg" group-title="Ascension CASTELLANO",Cap. 05
+http://fina.dyndns.tv/Series/Ascension/01x05.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71bwxs4ZBdL._SL1200_.jpg" group-title="Ascension CASTELLANO",Cap. 06
+http://fina.dyndns.tv/Series/Ascension/01x06.mkv
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51IB7ZAnW7L.jpg" group-title="A Suitable Boy",Cap. 01
 http://201.172.61.81:85/series/noviembre/a%20suitable%20boy/A.Suitable.Boy%20-%20s01e01.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51IB7ZAnW7L.jpg" group-title="A Suitable Boy",Cap. 02
