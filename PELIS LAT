@@ -6,6 +6,8 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81JTLD+V5uL._SL1500_.jpg" group-title="2021",El Rescate: Día de redención (2021) CASTELLANO
+http://144.217.83.240:999/PELISSD/redemption-day-2021-Castellano.mkv
 #EXTINF:-1 tvg-logo="https://optimizespirit.com/wp-content/uploads/2021/04/The-Last-Mercenary.jpg" group-title="2021",El último mercenario (2021)
 http://51.222.153.30:9000/rombwgshgfhgdsjr/85455532potroxvix/Pel%C3%ADculas/El%20%C3%9Altimo%20Mercenario%202021.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/30/08/10/1385971.jpg" group-title="2021",Jolt: Impacto (2021)
@@ -74,13 +76,14 @@ http://201.172.61.203:88/Peliculas/mkv/Awake.2021.mp4
 http://201.172.61.203:88/Peliculas/mkv/Samur%c3%a1i%20X%20El%20Fin%20(2021)%20NF%20WEB-DL%201080p%20Latino%20PGD.mkv%20-%20Google%20Drive.mp4
 #EXTINF:-1 tvg-logo="https://entrepeliculasyseries.io/Archivos/2021/06/rurouni-kenshin-the-final.jpg" group-title="2021",Samurai X: El Fin (2021) MKV
 http://vod.tuxchannel.tv:80/peliculas/720/ruroni%20kenshin%20sai%20shusho%20the%20beginning%202021.mkv
-
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/21/05/13/22/58/3273608.jpg" group-title="2021",Chica skater (2021)
 http://201.172.61.203:88/Peliculas/mkv/Chica%20skater%20(2021).mp4
 #EXTINF:-1 tvg-logo="https://entrepeliculasyseries.io/Archivos/2021/06/a-cinderella-story-starstruck.jpg" group-title="2021",La nueva Cenicienta: Superestrella (2021)
 http://201.172.61.203:88/Peliculas/mkv/A.Cinderella.Story.Starstruck.2021.1080p.PGD..mkv%20-%20Google%20Drive.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/24/13/04/5583280.jpg" group-title="2021",El hombre agua (2021)
 http://201.172.61.203:88/Peliculas/jul%20agos/The.Water.Man.2021.1080p.NF.WEB-DL.Www.PeliculasGoogleDrive.Info.mkv%20-%20Google%20Drive.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/24/13/04/5583280.jpg" group-title="2021",El hombre agua (2021) MKV
+http://158.69.62.23:999/PELISSD/the-water-man-2021-Latino.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/20/05/27/03/22/0534950.jpg" group-title="2021",El Exorcismo de Carmen Farias (2021)
 http://201.172.61.203:88/Peliculas/jul%20agos/El%20Exorcismo%20de%20Carmen%20Far%c3%adas%20(2021)%201080p%20WEB-DL%20Latino.mkv%20-%20Google%20Drive.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/08/21/18/08/0443653.jpg" group-title="2021",La paloma y el Lobo (2021)
@@ -141,6 +144,8 @@ http://vod.tuxchannel.tv:80/peliculas/720/spiral%20from%20the%20book%20of%20saw%
 http://vod.tuxchannel.tv:80/peliculas/720/peter%20rabbit%202%20the%20runaway%202021.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/30/10/52/3410936.jpg" group-title="2021",Cielo rojo sangre (2021)
 http://ytv.plus:25461/movie/mercedes/1234/15164.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/30/10/52/3410936.jpg" group-title="2021",Cielo rojo sangre (2021) MKV
+http://51.222.158.233:999/PELISSD/blood-red-sky-2021-Latino.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/15/16/20/0042851.jpg" group-title="2021",Trollhunters: El despertar de los titanes (2021)
 https://archive.org/download/trollhunters-el-despertar-de-los-titanes/Trollhunters%20El%20despertar%20de%20los%20titanes.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/25/13/44/0609737.jpg" group-title="2021",La purga infinita (2021)
@@ -284,6 +289,8 @@ http://vod.tuxchannel.tv:80/peliculas/720/subtituladas/boss%20level%202021%20sub
 
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/12/28/09/31/5306224.jpg" group-title="2020",Más allá de la onda expansiva (2020)
+http://ytv.plus:25461/movie/mercedes/1234/15095.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jw1t6uZz8g68HxRwJqigPjfn6qu.jpg" group-title="2020",Spare Parts: A mano armada (2020)
 http://51.79.66.173:999/PELISSD/spare-parts-2021-Latino.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/20/11/03/22/26/4901334.jpg" group-title="2020",Todo lo invisible (2020)
@@ -774,6 +781,8 @@ http://tux-vod.dynu.com/peliculas/720/anna%202019.mkv
 http://tux-vod.dynu.com/peliculas/720/point%20blank%202019.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/19/03/29/00/48/1603054.jpg" group-title="2019",La rebelión (2019)
 http://tux-vod.dynu.com/peliculas/720/captive%20state%202019.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/19/03/29/00/48/1603054.jpg" group-title="2019",La rebelión (2019) MKV
+http://54.39.50.140:80/movies/Afabetico/captive%20state%202019%20lat/captive_state_2019_lat.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/19/06/06/18/20/1518177.png" group-title="2019",Corgi: un perro real (2019)
 http://tux-vod.dynu.com/peliculas/720/the%20queens%20corgi%202019.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/07/23/19/07/5228635.jpg" group-title="2019",Jugar o morir (2019)
@@ -869,6 +878,8 @@ https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2
 https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520Guardianes%2520De%2520La%2520Galaxia%2520Vol%25202%2520-%25202017.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/17/01/30/11/31/059557.jpg" group-title="2017",Logan (2017)
 http://201.172.61.203:88/Peliculas/jul%20agos/Ver%20Logan%20(2017).mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/17/01/30/11/31/059557.jpg" group-title="2017",Logan (2017) DUAL
+http://tux-vod.dynu.com:80/peliculas/720/logan.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/05/04/13/26/494587.jpg" group-title="2017",Despertando a Zodiac (2017)
 https://mataocio-cdn5.mataocio-cdn5.workers.dev/Despertando%2520a%2520Zodiac%2520-%25202017.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51umPihrrkL.jpg" group-title="2017",Altitud mortal (2017)
@@ -976,6 +987,8 @@ http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
 http://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/79/70/91/19514464.jpg" group-title="Peliculas Viejas",El nucleo (2006)
+http://51.222.153.30:9000/rombwgshgfhgdsjr/homeend-d3728.appspot.com/Peliculas/Latino/Ver%20Pelicula%20El%20nucleo2003.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/35/78/09/18647167.jpg" group-title="Peliculas Viejas",Superman Regresa (2006)
 https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/DC/Superman%2520Regresa%2520-%25202006.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/67/07/51/20134041.gif" group-title="Peliculas Viejas",Batman Regresa (1992)
