@@ -6,6 +6,10 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.peliculas1mega.com/wp-content/uploads/2021/07/Como-Hackear-a-tu-Jefe-2021.jpg" group-title="2021",Como Hackear a tu Jefe (2021)
+http://vod.tuxchannel.tv:80/peliculas/720/como%20hackear%20seu%20chefe%202021.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/10/09/08/36/1175673.jpg" group-title="2021",Igor Grom contra el Doctor Peste (2021)
+http://vod.tuxchannel.tv:80/peliculas/720/mayor%20grom%20chumnoy%20doktor%202021.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81JTLD+V5uL._SL1500_.jpg" group-title="2021",El Rescate: Día de redención (2021) CASTELLANO
 http://144.217.83.240:999/PELISSD/redemption-day-2021-Castellano.mkv
 #EXTINF:-1 tvg-logo="https://optimizespirit.com/wp-content/uploads/2021/04/The-Last-Mercenary.jpg" group-title="2021",El último mercenario (2021)
@@ -110,6 +114,8 @@ http://201.172.61.203:88/Peliculas/mkv/Horario%20Estelar%202021%20NF%20WEB-DL%20
 http://201.172.61.203:88/Peliculas/mkv/Ver%20Luca%20(2021)%20Online%20Latino%20HD%20-%20Pelisplus.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/28/10/22/4789003.jpg" group-title="2021",Un jefe en pañales: Negocios de familia (2021)
 http://201.172.61.203:88/Peliculas/jul%20agos/The.Boss.Baby.Family.Business.2021.WEB-DL.1080P-Www.PeliculasGoogleDrive.Info.mkv%20-%20Google%20Drive.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/28/10/22/4789003.jpg" group-title="2021",Un jefe en pañales: Negocios de familia (2021) MKV
+http://51.79.68.14:999/PELISSD/the-boss-baby-family-business-2021-Latino.mkv
 #EXTINF:-1 tvg-logo="https://cdn.hmv.com/r/w-640/hmv/files/17/171f0909-825b-4951-8a1c-ebab41de99b3.jpg" group-title="2021",Jovenes Titanes en accion ven Space Jam (2021)
 http://201.172.61.203:88/Peliculas/jul%20agos/Teen.Titans.Go.See.Space.Jam.2021.WEBDL.1080p.Latino.PGD..mkv%20-%20Google%20Drive.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/09/04/20/42/1784745.jpg" group-title="2021",Un disfraz para Nicolas (2021)
@@ -679,6 +685,10 @@ http://vod.tuxchannel.tv/peliculas/720/half%20brothers%202020.mkv
 http://vod.tuxchannel.tv/peliculas/720/wszyscy%20moi%20przyjaciele%20nie%20zyja%202020.mkv
 
 
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/abandomedia/indie/foto/db_65581.jpg" group-title="2019",La batalla de Leningrado (2019) CASTELLANO
+http://144.217.4.25:999/PELISSD/spasti-leningrad-2019-Castellano.mkv
+#EXTINF:-1 tvg-logo="https://www.sssb.si/files/2019/11/poster-preboj.jpg" group-title="2019",Preboj: Infierno en Hielo (2019)
+http://51.79.66.173:999/PELISSD/preboj-2019-Latino.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/20/14/41/3517999.jpg" group-title="2019",Pinocho (2019)
 http://201.172.61.203:88/Peliculas/mkv/Ver%20Pinocho%20(2019)%20Online%20Latino%20HD%20-%20Pelisplus.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/19/12/16/10/01/2209007.jpg" group-title="2019",Escuadron de la muerte (2019)
@@ -808,6 +818,8 @@ http://tux-vod.dynu.com:80/peliculas/720/the%20kid%20who%20would%20be%20king%202
 
 
 
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/02/21/04/06/0735048.jpg" group-title="2018",Descarga siniestra (2018)
+http://ultraplay.org:80/movie/raquel/raquel/77028.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/18/06/07/23/49/5880929.jpg" group-title="2018",Oceans 8: Las estafadoras (2018)
 https://storage.googleapis.com/tiotv/Peliculas/Ocean%E2%80%99s%208_las_estafadoras_(2018).mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/07/16/18/15/5598953.jpg" group-title="2018",Aquaman (2018)
