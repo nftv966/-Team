@@ -8,8 +8,6 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/15/15/27/5921452.jpg" group-title="2021",La abeja Maya: El orbe dorado (2021) DUAL
 http://vod.tuxchannel.tv:80/peliculas/720/maya%20the%20bee%203%20the%20golden%20orb%202021.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81gBb8Cz8vL._SL1500_.jpg" group-title="2021",Vanquish: Otra forma de Vencer (2021)
-http://149.56.15.246:999/PELISSD/vanquish-2021-Lastino.mkv
 #EXTINF:-1 tvg-logo="https://www.proimagenescolombia.com/photos/57150_6730_imagen__.jpg" group-title="2021",Diavlo (2021) SUB
 https://www.mediafire.com/file/2p52lx1efqfsq54/st23_diavlo_0.mp4/file
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/sOvkpcdGgJnIwl7d8YcUuQ2d4bQ.jpg" group-title="2021",Blue Call (2021) SUB
@@ -242,8 +240,10 @@ http://201.172.61.203:88/Peliculas/Marzo%20Abril/Zack%20Snyder's%20Justice%20Lea
 http://vod.tuxchannel.tv:80/peliculas/720/the%20marksman%202021.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/12/28/10/26/5942577.jpg" group-title="2021",El protector (2021)
 http://201.172.61.203:88/Peliculas/Marzo%20Abril/Ver%20The%20Marksman%20(El%20protector)%20(2021).mp4
-#EXTINF:-1 tvg-logo="https://www.miradetodo.fun/movies/static/img/original/AoWY1gkcNzabh229Icboa1Ff0BM.jpg" group-title="2021",Otra forma de Vencer (2021)
+#EXTINF:-1 tvg-logo="https://www.miradetodo.fun/movies/static/img/original/AoWY1gkcNzabh229Icboa1Ff0BM.jpg" group-title="2021",Vanquish: Otra forma de Vencer (2021)
 http://201.172.61.203:88/Peliculas/Marzo%20Abril/Vanquish%20(2021).mp4
+#EXTINF:-1 tvg-logo="https://www.miradetodo.fun/movies/static/img/original/AoWY1gkcNzabh229Icboa1Ff0BM.jpg" group-title="2021",Vanquish: Otra forma de Vencer (2021) MKV
+http://149.56.15.246:999/PELISSD/vanquish-2021-Lastino.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/510A0fILIsL._SX324_BO1,204,203,200_.jpg" group-title="2021",Twist (2021)
 http://201.172.61.203:88/Peliculas/Marzo%20Abril/Twist.2021.WEB-DL.1080P.www.peliculasgoogledrive.info.mp4
 #EXTINF:-1 tvg-logo="https://openpelis.net/imagenes/pelis/2021-04-08-8699928255.jpg" group-title="2021",Silk Road: El camino oculto (2021)
