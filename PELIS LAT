@@ -24,12 +24,8 @@ http://51.222.153.30:9000/rombwgshgfhgdsjr/85455532potroxvix/Pel%C3%ADculas/El%2
 http://vod.tuxchannel.tv:80/peliculas/720/jolt%202021.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/07/02/11/47/1576324.jpg" group-title="2021",El stand de los besos 3 (2021)
 https://storage.googleapis.com/tiotv/Peliculas/Stand_de_los_besos_3_2021.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/11/24/09/22/4044266.jpg" group-title="2021",Boss Level: Un dia mas para morir (2021)
-http://149.56.13.137:999/PELISSD/boss-level-2021-Latino-web.mkv
 #EXTINF:-1 tvg-logo="https://www.sinpeli.com/wp-content/uploads/2021/06/expansivas-2021-30077-poster.jpg" group-title="2021",Expansivas (2021)
 http://51.79.64.226:999/PELISSD/expansivas-2021-Latino.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/h7nK2qbF9jm5unkC6TppfoUVy3k.jpg" group-title="2021",Un destello en la niebla (2021)
-http://vod.tuxchannel.tv:80/peliculas/720/v%20c%20andrews%20pearl%20in%20the%20mist%202021.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/10/10/03/0580430.jpg" group-title="2021",Infinite (2021)
 https://dl.dropbox.com/s/at7u3dl3w87eyod/Infinite.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/14/11/47/2960546.jpg" group-title="2021",Free Guy (2021) BAJA CALIDAD
@@ -38,8 +34,6 @@ https://dl.dropbox.com/s/0siiu5uwflb2bsz/Free%20Guy.mkv
 https://dl.dropbox.com/s/y2sanqz5m0v4w2y/Mudanza%20mortal.flv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/01/18/17/01/1201090.jpg" group-title="2021",Mama María (2021) CASTELLANO
 https://dl.dropbox.com/s/kn623veagp4qslp/Mam%C3%A1%20Mar%C3%ADa.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/31/18/08/3921546.jpg" group-title="2021",El otro guardaespaldas 2 (2021) FLV
-https://dl.dropbox.com/s/qjt4v413z8jbq3x/El%20otro%20guardaespaldas%202.flv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51W5QCzBvsL.jpg" group-title="2021",El efecto Marcus: Los casos del Departamento Q (2021) CASTELLANO
 https://dl.dropbox.com/s/ce20ekurjro0a8o/El%20efecto%20Marcus%20-%20Los%20casos%20del%20Departamento%20Q.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/03/30/15/41/3645913.jpg" group-title="2021",Escuadrón Suicida (2021) FLV
@@ -66,7 +60,9 @@ http://201.172.61.203:88/Peliculas/jul%20agos/Black%20Window.mp4
 http://vod.tuxchannel.tv/peliculas/720/space%20jam%20a%20new%20legacy%202021.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/05/16/42/3751570.jpg" group-title="2021",Space Jam: Nuevas leyendas (2021)
 http://201.172.61.203:88/Peliculas/jul%20agos/Space%20Jam%20-%20A%20New%20Legacy%20(2021).mp4
-#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/05/27/19/19/3612388.png" group-title="2021",Duro de cuidar 2 (2021)
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/31/18/08/3921546.jpg" group-title="2021",El otro guardaespaldas 2: Duro de cuidar (2021) FLV
+https://dl.dropbox.com/s/qjt4v413z8jbq3x/El%20otro%20guardaespaldas%202.flv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/31/18/08/3921546.jpg" group-title="2021",El otro guardaespaldas 2: Duro de cuidar (2021)
 http://201.172.61.203:88/Peliculas/mkv/duro%20de%20cuidar%202.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81EK5zblGyL._RI_.jpg" group-title="2021",Operacion Narco (2021)
 http://201.172.61.203:88/Peliculas/jul%20agos/Operaci%c3%b3n.Narco.2021.WEB-DL.1080p.Latino.PGD.mkv%20-%20Google%20Drive.mp4
@@ -74,6 +70,10 @@ http://201.172.61.203:88/Peliculas/jul%20agos/Operaci%c3%b3n.Narco.2021.WEB-DL.1
 http://201.172.61.203:88/Peliculas/jul%20agos/Los.Renegados.2021.WEB-DL.1080p.Latino.PGD.mkv%20-%20Google%20Drive.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/22/10/55/4996970.jpg" group-title="2021",Tiburon blanco (2021)
 http://201.172.61.203:88/Peliculas/jul%20agos/Tibur%c3%b3n.Blanco.2021.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/h7nK2qbF9jm5unkC6TppfoUVy3k.jpg" group-title="2021",Un destello en la niebla (2021) MKV
+http://vod.tuxchannel.tv:80/peliculas/720/v%20c%20andrews%20pearl%20in%20the%20mist%202021.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/h7nK2qbF9jm5unkC6TppfoUVy3k.jpg" group-title="2021",Un destello en la niebla (2021)
+http://201.172.61.203:88/Peliculas/jul%20agos/Destello.en.la.niebla.2020.1080p.Latino.PGD..mkv%20-%20Google%20Drive.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/05/28/12/00/4866790.jpg" group-title="2021",La casa de las flores: La pelicula (2021)
 http://201.172.61.203:88/Peliculas/mkv/Casa.Flores.La.Pelicula.2021.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/06/02/19/02/1826863.jpg" group-title="2021",El conjuro 3: El Diablo me obligó a hacerlo (2021)
@@ -298,7 +298,9 @@ http://201.172.61.203:88/Peliculas/Marzo%20Abril/Mortal%20Kombat%20(2021).mp4
 http://archive.org/download/mkombt-021/mkombt-021.mp4
 #EXTINF:-1 tvg-logo="https://moviehaku.com/thumbs/films/400x590/Wrong-Turn.jpg" group-title="2021",Camino Hacia el Terror (2021) SUB.
 http://vod.tuxchannel.tv/peliculas/720/subtituladas/wrong%20turn%202021%20sub.mkv
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91DaqhhJv5L._SL1500_.jpg" group-title="2021",Muere otra vez (2021) SUB.
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/11/24/09/22/4044266.jpg" group-title="2021",Boss Level: Un dia mas para morir (2021)
+http://149.56.13.137:999/PELISSD/boss-level-2021-Latino-web.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/11/24/09/22/4044266.jpg" group-title="2021",Boss Level: Un dia mas para morir (2021) SUB.
 http://vod.tuxchannel.tv:80/peliculas/720/subtituladas/boss%20level%202021%20sub.mkv
 
 
@@ -338,8 +340,6 @@ https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2
 http://201.172.61.203:88/Peliculas/mkv/Selva.tr%c3%a1gica.2020.WEB-DL.1080p.Latino.Www.PeliculasGoogleDrive.Info.mkv%20-%20Google%20Drive.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d9/84/70/d98470298f11476e503a162ea99b215b.jpg" group-title="2020",Occupation: Rainfall (2020)
 http://201.172.61.203:88/Peliculas/mkv/Occupation.Rainfall.2020.mp4
-#EXTINF:-1 tvg-logo="https://images.moviefit.me/t/o/499178-pearl-in-the-mist.jpg" group-title="2020",Destello en la niebla (2020)
-http://201.172.61.203:88/Peliculas/jul%20agos/Destello.en.la.niebla.2020.1080p.Latino.PGD..mkv%20-%20Google%20Drive.mp4
 #EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2021/04/BEN-10-BEN-10-010-2020.jpg" group-title="2020",Ben 10: 1010 (2020)
 http://201.172.61.203:88/Peliculas/jul%20agos/Ben.10.010.2020.HMAX.1080p.Latino.PGD..mkv%20-%20Google%20Drive.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/11/20/17/46/3198892.jpg" group-title="2020",El llamado salvaje (2020)
