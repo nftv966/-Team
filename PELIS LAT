@@ -818,6 +818,8 @@ http://tux-vod.dynu.com:80/peliculas/720/the%20kid%20who%20would%20be%20king%202
 
 
 
+#EXTINF:-1 tvg-logo="https://www.goldengirls.at/wp-content/uploads/2019/02/GRID-COPS-2.jpg" group-title="2018",Policias (2018) CASTELLANO
+http://51.79.68.173:999/PELISSD/cops-2018-Castellano.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/02/21/04/06/0735048.jpg" group-title="2018",Descarga siniestra (2018)
 http://ultraplay.org:80/movie/raquel/raquel/77028.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/18/06/07/23/49/5880929.jpg" group-title="2018",Oceans 8: Las estafadoras (2018)
@@ -944,6 +946,8 @@ http://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
 http://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
 
 
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/16/06/23/11/33/397130.jpg" group-title="2016",Al final del túnel (2016)
+http://tux-vod.dynu.com:80/peliculas/720/al%20final%20del%20tunel.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/16/03/04/15/47/480948.jpg" group-title="2016",Batman vs Superman: El origen de la Justicia (2016)
 https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/DC/Batman%2520v%2520Superman%2520Dawn%2520of%2520Justice%2520-%25202016.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/04/14/11/28/136403.jpg" group-title="2016",X-Men: Apocalipsis (2016)
