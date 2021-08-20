@@ -920,6 +920,8 @@ http://201.172.61.203:88/Peliculas/Marzo%20Abril/WhenWeFirstMet2018.mp4
 http://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/18/08/14/10/49/5884930.jpg" group-title="2017",Ana y Bruno (2017)
+http://tux-vod.dynu.com/peliculas/720/ana%20y%20bruno.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/09/28/13/26/2109045.jpg" group-title="2017",Actos de venganza (2017) DUAL
 http://tux-vod.dynu.com:80/peliculas/720/acts%20of%20vengeance.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/17/08/25/09/36/103601.jpg" group-title="2017",Thor Ragnarok (2017)
@@ -984,6 +986,8 @@ http://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
 http://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/16/09/27/14/15/310705.jpg" group-title="2016",31 (2016)
+http://tux-vod.dynu.com/peliculas/720/31.mkv
 #EXTINF:-1 tvg-logo="https://i0.wp.com/cinetux.nu/wp-content/uploads/2021/04/s1mw65E5Qhg6jxtflRovjLSzYF8.jpg" group-title="2016",Bleed (2016)
 http://player.lerload.xyz:80/movie/terror/Ver%20Bleed%20(2016)%20Online%20%E2%9C%85%20RePelis24%20%C2%BB%20Gratis.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/16/06/23/11/33/397130.jpg" group-title="2016",Al final del túnel (2016)
@@ -1043,6 +1047,18 @@ http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
 http://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/67/27/92/20355847.jpg" group-title="Peliculas Viejas",Death Race: Carrera de la muerte (2008)
+http://vod.tuxchannel.tv/peliculas/720/death%20race.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/82/49/78/19659448.jpg" group-title="Peliculas Viejas",Death Race 2: La leyenda de Frankenstein (2010)
+http://vod.tuxchannel.tv/peliculas/720/death%20race%202.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/210/541/21054172_20131030175145444.jpg" group-title="Peliculas Viejas",Death Race 3: Infierno (2013)
+http://vod.tuxchannel.tv/peliculas/720/death%20race%20inferno.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/95/64/92/20420650.jpg" group-title="Peliculas Viejas",El exorcista 3 (1990)
+http://tux-vod.dynu.com/peliculas/720/the%20exorcist%20III.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/89/87/60/20070880.jpg" group-title="Peliculas Viejas",El exorcista: El comienzo (2004)
+http://tux-vod.dynu.com/peliculas/720/exorcist%20the%20beginning.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/16/07/01/17/16/068188.jpg" group-title="Peliculas Viejas",Un sueño posible (2009)
+http://player.lerload.xyz/movie/accion/Ver%20Un%20sue%C3%B1o%20posible%20(2009)%20Online%20Latino%20HD%20-%20PelisPlay.tv.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/05/07/11/50/511600.jpg" group-title="Peliculas Viejas",Rambo 4: Regreso al infierno (2008)
 http://mataocio-cdn-7.mataocio-cdn7.workers.dev/Pack%25201/RAMBO%25204.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/93/83/13/20421082.jpg" group-title="Peliculas Viejas",Duro de matar 5: Un buen dIa para morir (2013)
