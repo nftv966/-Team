@@ -6,6 +6,8 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.proimagenescolombia.com/photos/57150_6730_imagen__.jpg" group-title="2021",Diavlo (2021) SUB
+https://www.mediafire.com/file/2p52lx1efqfsq54/st23_diavlo_0.mp4/file
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/sOvkpcdGgJnIwl7d8YcUuQ2d4bQ.jpg" group-title="2021",Blue Call (2021) SUB
 http://149.56.12.230:999/PELISSD/blue-call-2021-Ingles-sub.mkv
 #EXTINF:-1 tvg-logo="https://www.peliculas1mega.com/wp-content/uploads/2021/07/Como-Hackear-a-tu-Jefe-2021.jpg" group-title="2021",Como Hackear a tu Jefe (2021)
@@ -296,6 +298,20 @@ http://vod.tuxchannel.tv/peliculas/720/subtituladas/wrong%20turn%202021%20sub.mk
 http://vod.tuxchannel.tv:80/peliculas/720/subtituladas/boss%20level%202021%20sub.mkv
 
 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91a9gTCIOrL._RI_.jpg" group-title="2020",Francotirador: El fin del asesino (2020) DUAL
+http://vod.tuxchannel.tv:80/peliculas/720/sniper%20assassins%20end%202020.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/01/20/12/40/3877033.jpg" group-title="2020",Sola (2020) DUAL
+http://vod.tuxchannel.tv:80/peliculas/720/alone%202020.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/31/15/10/0251908.jpg" group-title="2020",4 Chicos y Esto: Pide un deseo (2020) DUAL
+http://vod.tuxchannel.tv:80/peliculas/720/four%20kids%20and%20it%202018.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/01/26/20/16/1745441.jpg" group-title="2020",Relic: Herencia maldita (2020) DUAL
+http://vod.tuxchannel.tv:80/peliculas/720/relic%202020.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/01/22/02/31/1306528.jpg" group-title="2020",Los intrusos (2020) DUAL
+http://vod.tuxchannel.tv:80/peliculas/720/the%20owners%202020.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/10/01/10/37/5061463.jpg" group-title="2020",De amor y monstruos (2020) DUAL
+http://vod.tuxchannel.tv:80/peliculas/720/love%20and%20monsters%202020.mkv
+#EXTINF:-1 tvg-logo="https://www.cinehdencasa.com/wp-content/uploads/2021/05/Sin-rastro-2020.jpg" group-title="2020",Sin rastro (2020)
+http://vod.tuxchannel.tv:80/peliculas/720/the%20vanished%202020.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91S678mGyBL._RI_.jpg" group-title="2020",I Am Vengeance: Retaliation (2020) SUB
 http://vod.tuxchannel.tv:80/peliculas/720/subtituladas/i%20am%20vengeance%20retaliation%202020%20sub.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/12/28/09/31/5306224.jpg" group-title="2020",Más allá de la onda expansiva (2020)
@@ -828,7 +844,8 @@ http://vod.tuxchannel.tv/peliculas/720/mama%20al%20volante%202019.mkv
 http://tux-vod.dynu.com:80/peliculas/720/the%20kid%20who%20would%20be%20king%202018.mkv
 
 
-
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/11/06/11/50/5314517.jpg" group-title="2018",La mula (2018)
+http://player.lerload.xyz:80/movie/drama/Ver%20Mula%20(2018)%20Online%20Latino%20HD%20-%20PelisPlay.tv.mp4
 #EXTINF:-1 tvg-logo="https://www.goldengirls.at/wp-content/uploads/2019/02/GRID-COPS-2.jpg" group-title="2018",Policias (2018) CASTELLANO
 http://51.79.68.173:999/PELISSD/cops-2018-Castellano.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/02/21/04/06/0735048.jpg" group-title="2018",Descarga siniestra (2018)
