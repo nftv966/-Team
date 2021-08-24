@@ -6,6 +6,8 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/08/02/14/32/3817770.jpg" group-title="2021",Vivo (2021)
+http://archive.org/download/vivo.-2021/VIVO.2021.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/11/10/45/1311045.jpg" group-title="2021",La 8ª noche (2021)
 http://archive.org/download/la-octava-noche/La%20octava%20noche.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/21/07/06/20/48/0430456.jpg" group-title="2021",Bartkowiak (2021)
@@ -52,6 +54,8 @@ https://dl.dropbox.com/s/y2sanqz5m0v4w2y/Mudanza%20mortal.flv
 https://dl.dropbox.com/s/kn623veagp4qslp/Mam%C3%A1%20Mar%C3%ADa.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51W5QCzBvsL.jpg" group-title="2021",El efecto Marcus: Los casos del Departamento Q (2021) CASTELLANO
 https://dl.dropbox.com/s/ce20ekurjro0a8o/El%20efecto%20Marcus%20-%20Los%20casos%20del%20Departamento%20Q.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/03/30/15/41/3645913.jpg" group-title="2021",Escuadrón Suicida (2021) H264
+http://archive.org/download/el-escuadron-suicida-2021_202108/El%20Escuadr%C3%B3n%20Suicida%202021.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/03/30/15/41/3645913.jpg" group-title="2021",Escuadrón Suicida (2021) FLV
 https://dl.dropbox.com/s/fd704796r0mmq8e/El%20Escuadr%C3%B3n%20Suicida.flv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/03/30/15/41/3645913.jpg" group-title="2021",Escuadrón Suicida (2021)
@@ -78,6 +82,8 @@ http://vod.tuxchannel.tv/peliculas/720/space%20jam%20a%20new%20legacy%202021.mkv
 http://201.172.61.203:88/Peliculas/jul%20agos/Space%20Jam%20-%20A%20New%20Legacy%20(2021).mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/31/18/08/3921546.jpg" group-title="2021",El otro guardaespaldas 2: Duro de cuidar (2021) FLV
 https://dl.dropbox.com/s/qjt4v413z8jbq3x/El%20otro%20guardaespaldas%202.flv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/31/18/08/3921546.jpg" group-title="2021",El otro guardaespaldas 2: Duro de cuidar (2021) H264
+http://archive.org/download/duro-de-cuidar-2./CUIDAR.2..mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/31/18/08/3921546.jpg" group-title="2021",El otro guardaespaldas 2: Duro de cuidar (2021)
 http://201.172.61.203:88/Peliculas/mkv/duro%20de%20cuidar%202.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81EK5zblGyL._RI_.jpg" group-title="2021",Operacion Narco (2021)
@@ -948,6 +954,8 @@ http://201.172.61.203:88/Peliculas/Marzo%20Abril/WhenWeFirstMet2018.mp4
 http://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
 
 
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/17/08/23/07/36/172837.jpg" group-title="2017",El otro guardaespaldas: Duro de cuidar (2017)
+http://archive.org/download/duro-de-cuidar./CUIDAR..mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/717ks9feNML._SX300_.jpg" group-title="2017",Natacha: La película (2017)
 http://tux-vod.dynu.com/peliculas/720/natacha%20la%20pelicula%202017.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/18/08/14/10/49/5884930.jpg" group-title="2017",Ana y Bruno (2017)
