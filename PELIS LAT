@@ -6,6 +6,10 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/04/22/08/14/2493300.jpg" group-title="2021",El nieto de Sardar (2021)
+http://archive.org/download/el-nieto-de-sardar/El%20nieto%20de%20Sardar.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/01/11/10/26/3446335.jpg" group-title="2021",Ohana: El tesoro de Hawai (2021)
+http://archive.org/download/el-tesoro-de-hawai/El%20Tesoro%20De%20Haw%C3%A1i.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/08/02/14/32/3817770.jpg" group-title="2021",Vivo (2021)
 http://archive.org/download/vivo.-2021/VIVO.2021.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/11/10/45/1311045.jpg" group-title="2021",La 8ª noche (2021)
@@ -326,6 +330,14 @@ http://149.56.13.137:999/PELISSD/boss-level-2021-Latino-web.mkv
 http://vod.tuxchannel.tv:80/peliculas/720/subtituladas/boss%20level%202021%20sub.mkv
 
 
+#EXTINF:-1 tvg-logo="http://videoclubsanjose.com/wp-content/uploads/2021/05/CLUB-DE-PADRES.jpg" group-title="2020",Club de Padres (2020) CASTELLANO
+http://archive.org/download/club-de-padres-parents-deleves/Club%20de%20padres%20%28Parents%20deleves%29.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w185/83TGw9qcqywfnjM9dsWG1sSZziQ.jpg" group-title="2020",Colegio De Magia Y Hechicería (2020) CASTELLANO
+http://archive.org/download/colegio-de-magia-y-hechiceria/Colegio%20de%20magia%20y%20hechicer%C3%ADa.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/01/06/15/33/2468389.jpg" group-title="2020",Barrenderos espaciales (2020)
+http://archive.org/download/barrenderos-espaciales_202106/Barrenderos%20espaciales.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/12/22/18/05/2278977.jpg" group-title="2020",Vacaciones Contigo… Y Tu Mujer (2020)
+http://archive.org/download/vacaciones-contigo...-y-tu-mujer/Vacaciones%20contigo%E2%80%A6%20Y%20tu%20mujer.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/07/27/17/34/5405617.jpg" group-title="2020",Ella Bella Bingo (2020) DUAL
 http://vod.tuxchannel.tv/peliculas/720/elleville%20elfrid%202020.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/19/06/15/02/13/5434224.jpg" group-title="2020",La liga de los 5 (2020)
@@ -1059,6 +1071,9 @@ http://ia801603.us.archive.org/20/items/24052017Aqc789423784723984/24052017_aqc.
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg" group-title="2016",Deadpool (2016)
 http://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
 
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51ZKkZuli-L.jpg" group-title="2015",Corona Navideña (2015)
+http://archive.org/download/corona-navidena_202106/Corona%20Navide%C3%B1a.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/15/02/11/12/48/026971.jpg" group-title="2015",Una noche para sobrevivir (2015)
 http://player.lerload.xyz:80/movie/Ver%20Una%20noche%20para%20sobrevivir%20Online%20(2015)%20RePelis24%20Gratis.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/15/05/11/10/11/517143.jpg" group-title="2015",Ant-Man (2015)
@@ -1277,8 +1292,10 @@ http://tux-vod.dynu.com:80/peliculas/720/the%20heat.mkv
 http://tux-vod.dynu.com:80/peliculas/720/2%20guns.mkv
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/0a/e9/72/0ae972137b40a4fbbe8de1ab162437b2.jpg" group-title="Peliculas Viejas",Búsqueda implacable 1 (2008)
 http://tux-vod.dynu.com:80/peliculas/720/taken.mkv
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/c3/49/35c3490fcdd6d038a40cc85910c68afd.jpg" group-title="Peliculas Viejas",Búsqueda implacable 2 (2012)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/c3/49/35c3490fcdd6d038a40cc85910c68afd.jpg" group-title="Peliculas Viejas",Búsqueda implacable 2 (2012) MKV
 http://tux-vod.dynu.com:80/peliculas/720/taken%202.mkv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/c3/49/35c3490fcdd6d038a40cc85910c68afd.jpg" group-title="Peliculas Viejas",Búsqueda implacable 2 (2012)
+http://archive.org/download/busqueda-implacable_202106/Busqueda%20implacable.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d6/1b/a8/d61ba88e63b940db13f43d27ee1f831e.jpg" group-title="Peliculas Viejas",Búsqueda implacable 3 (2014)
 http://tux-vod.dynu.com:80/peliculas/720/taken%203.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/68/02/00/20531067.jpg" group-title="Peliculas Viejas",Cyborg (1989)
