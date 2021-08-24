@@ -330,6 +330,8 @@ http://149.56.13.137:999/PELISSD/boss-level-2021-Latino-web.mkv
 http://vod.tuxchannel.tv:80/peliculas/720/subtituladas/boss%20level%202021%20sub.mkv
 
 
+#EXTINF:-1 tvg-logo="https://fr.web.img2.acsta.net/pictures/20/10/28/09/55/5827367.jpg" group-title="2020",Cosmoball (2020)
+http://archive.org/download/Cosmoball/Cosmoball.mp4
 #EXTINF:-1 tvg-logo="http://videoclubsanjose.com/wp-content/uploads/2021/05/CLUB-DE-PADRES.jpg" group-title="2020",Club de Padres (2020) CASTELLANO
 http://archive.org/download/club-de-padres-parents-deleves/Club%20de%20padres%20%28Parents%20deleves%29.mp4
 #EXTINF:-1 tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w185/83TGw9qcqywfnjM9dsWG1sSZziQ.jpg" group-title="2020",Colegio De Magia Y Hechicería (2020) CASTELLANO
