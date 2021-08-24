@@ -6,6 +6,8 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/03/15/16/27/5268203.jpg" group-title="2021",Contigo a muerte (2021)
+http://archive.org/download/contigo-a-muerte-2021/Contigo%20a%20muerte%20%282021%29.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/15/15/27/5921452.jpg" group-title="2021",La abeja Maya: El orbe dorado (2021) DUAL
 http://vod.tuxchannel.tv:80/peliculas/720/maya%20the%20bee%203%20the%20golden%20orb%202021.mkv
 #EXTINF:-1 tvg-logo="https://www.proimagenescolombia.com/photos/57150_6730_imagen__.jpg" group-title="2021",Diavlo (2021) SUB
@@ -17,7 +19,7 @@ http://vod.tuxchannel.tv:80/peliculas/720/como%20hackear%20seu%20chefe%202021.mk
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/10/09/08/36/1175673.jpg" group-title="2021",Igor Grom contra el Doctor Peste (2021)
 http://vod.tuxchannel.tv:80/peliculas/720/mayor%20grom%20chumnoy%20doktor%202021.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/10/09/08/36/1175673.jpg" group-title="2021",Igor Grom contra el Doctor Peste (2021)
-https://archive.org/download/ver-igor-grom-contra-el-doctor-peste-2021/Ver%20Igor%20Grom%20contra%20el%20Doctor%20Peste%20%282021%29.mp4
+http://archive.org/download/ver-igor-grom-contra-el-doctor-peste-2021/Ver%20Igor%20Grom%20contra%20el%20Doctor%20Peste%20%282021%29.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81JTLD+V5uL._SL1500_.jpg" group-title="2021",El Rescate: Día de redención (2021) CASTELLANO
 http://144.217.83.240:999/PELISSD/redemption-day-2021-Castellano.mkv
 #EXTINF:-1 tvg-logo="https://optimizespirit.com/wp-content/uploads/2021/04/The-Last-Mercenary.jpg" group-title="2021",El último mercenario (2021)
