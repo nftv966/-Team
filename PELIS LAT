@@ -330,6 +330,8 @@ http://149.56.13.137:999/PELISSD/boss-level-2021-Latino-web.mkv
 http://vod.tuxchannel.tv:80/peliculas/720/subtituladas/boss%20level%202021%20sub.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/04/02/09/20/3931365.jpg" group-title="2020",Amor Boda Azar (2020)
+http://archive.org/download/love_20200821/Amor%20Boda%20Azar.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/12/17/14/14/2196860.jpg" group-title="2020",El Padre (2020) CASTELLANO
 http://archive.org/download/el-padre-2020/El%20Padre%20%282020%29.mp4
 #EXTINF:-1 tvg-logo="https://fr.web.img2.acsta.net/pictures/20/10/28/09/55/5827367.jpg" group-title="2020",Cosmoball (2020)
