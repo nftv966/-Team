@@ -6,6 +6,8 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/03/16/10/0435148.jpg" group-title="2021",Reminiscencia (2021)
+http://archive.org/download/ottmty_reminiscencia/Reminiscencia.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/04/22/08/14/2493300.jpg" group-title="2021",El nieto de Sardar (2021)
 http://archive.org/download/el-nieto-de-sardar/El%20nieto%20de%20Sardar.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/01/11/10/26/3446335.jpg" group-title="2021",Ohana: El tesoro de Hawai (2021)
