@@ -6,6 +6,10 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/03/15/15/22/1558927.jpg" group-title="2021",Madame Claude (2021)
+http://archive.org/download/madame-claude-2021-online-latino-hd-720p-gratis/Madame%20Claude%20%282021%29%20_%20Online%20Latino%20HD%20720p%20_%20gratis.mp4
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/21/02/18/19/54/1466329.jpg" group-title="2021",Doors (2021) SUB
+http://archive.org/download/ver-doors-2021-online-subtitulado-hd-720p-gratis/Ver%20Doors%20%282021%29%20_%20Online%20Subtitulado%20HD%20720p%20_%20gratis.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/03/16/10/0435148.jpg" group-title="2021",Reminiscencia (2021)
 http://archive.org/download/ottmty_reminiscencia/Reminiscencia.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/04/22/08/14/2493300.jpg" group-title="2021",El nieto de Sardar (2021)
@@ -778,6 +782,8 @@ http://vod.tuxchannel.tv/peliculas/720/half%20brothers%202020.mkv
 http://vod.tuxchannel.tv/peliculas/720/wszyscy%20moi%20przyjaciele%20nie%20zyja%202020.mkv
 
 
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/06/17/17/51/4494228.jpg" group-title="2019",Misterio a bordo (2019)
+http://archive.org/download/la-boda-de-mi-ex_202104/Misterio%20bordo.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/12/23/09/37/1494466.jpg" group-title="2019",Mi amigo Pony (2019) CASTELLANO
 http://archive.org/download/migo-pony/%E2%81%AEmigo%20Pony.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/08/19/09/34/0907820.jpg" group-title="2019",10 minutos o menos (2019)
@@ -920,6 +926,8 @@ http://vod.tuxchannel.tv/peliculas/720/mama%20al%20volante%202019.mkv
 http://tux-vod.dynu.com:80/peliculas/720/the%20kid%20who%20would%20be%20king%202018.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/03/22/14/20/0916537.jpg" group-title="2018",La boda de mi ex (2018)
+http://archive.org/download/la-boda-de-mi-ex_202104/La%20boda%20de%20mi%20ex.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/11/06/11/50/5314517.jpg" group-title="2018",La mula (2018)
 http://player.lerload.xyz:80/movie/drama/Ver%20Mula%20(2018)%20Online%20Latino%20HD%20-%20PelisPlay.tv.mp4
 #EXTINF:-1 tvg-logo="https://www.goldengirls.at/wp-content/uploads/2019/02/GRID-COPS-2.jpg" group-title="2018",Policias (2018) CASTELLANO
@@ -1133,7 +1141,18 @@ http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
 #EXTINF:-1 tvg-logo="https://cdn.atomix.vg/wp-content/uploads/2015/06/unnamed1.png" group-title="2015",Intensamente (2015)
 http://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 
-
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/91MkB5AslRL._SL1500_.jpg" group-title="Peliculas Viejas",Bajo el mismo techo (2013)
+http://archive.org/download/busqueda-implacable-1/Bajo%20el%20mismo%20techo.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51PBZlvu4+L._AC_.jpg" group-title="Peliculas Viejas",Comando (1985)
+http://archive.org/download/carrie.-br.-lat.-www.-hackstore.-net/Comando.mp4
+#EXTINF:-1 tvg-logo="https://t1.salir.ltmcdn.com/es/movies/9/6/4/conan_el_barbaro_0_orig.jpg" group-title="Peliculas Viejas",Conan El Barbaro (1982)
+http://archive.org/download/carrie.-br.-lat.-www.-hackstore.-net/CONAN%20EL%20B%C3%81RBARO%201982.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51LQrlGGAGL._AC_.jpg" group-title="Peliculas Viejas",Conan El Destructor (1984)
+http://archive.org/download/carrie.-br.-lat.-www.-hackstore.-net/conan%20el%20destructor%201984.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/210/038/21003890_20130507112915793.jpg" group-title="Peliculas Viejas",Carrie (2013)
+http://archive.org/download/carrie.-br.-lat.-www.-hackstore.-net/CARRIE.BR.LAT.Www.Hackstore.Net.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51gwfFQj4BL._AC_.jpg" group-title="Peliculas Viejas",Constantine (2005)
+http://archive.org/download/constantine_202104/constantine.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/210/165/21016575_201306281613149.jpg" group-title="Peliculas Viejas",Elysium (2013)
 http://archive.org/download/el-quinto-elemento/Elysium.2013.hdrip.lat.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/78/65/72/20136946.jpg" group-title="Peliculas Viejas",El Quinto Elemento (1997)
