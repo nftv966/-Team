@@ -6,6 +6,8 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/07/12/11/38/1972167.jpg" group-title="2021",Sweet Girl (2021)
+http://archive.org/download/sw-33-t-g-1-rl_202108/SW33T%20G1RL.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/08/03/10/49/2612269.jpg" group-title="2021",Till Death: Hasta que la muerte nos separe (2021) SUB
 http://archive.org/download/89543217-td/89543217Td.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/21/07/13/11/35/4610105.jpg" group-title="2021",El resort del amor (2021)
@@ -814,6 +816,10 @@ http://vod.tuxchannel.tv/peliculas/720/half%20brothers%202020.mkv
 http://vod.tuxchannel.tv/peliculas/720/wszyscy%20moi%20przyjaciele%20nie%20zyja%202020.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/07/18/09/47/4657986.jpg" group-title="2019",Rescate en el Mar Rojo (2019)
+http://archive.org/download/rescate-en-el-mar-rojo/Rescate_En_El_Mar_Rojo.MP4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/21/07/41/2266043.jpg" group-title="2019",Point Blank: Cuenta atrás (2019)
+http://archive.org/download/point.blank.-2019.1080p-dual-lat-cinecalidad.to_202102/Point.blank.2019.1080p-dual-lat-cinecalidad.to.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/c_310_420/pictures/21/06/02/21/58/0547997.png" group-title="2019",Gully (2019)
 http://archive.org/download/oxigeno_20210805_1018/GULLY.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/11/01/21/04/2150442.jpg" group-title="2019",Codigo 8 (2019)
