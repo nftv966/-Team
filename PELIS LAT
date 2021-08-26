@@ -6,8 +6,6 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/01/04/17/47/4463952.jpg" group-title="2021",Juega conmigo (2021)
-http://archive.org/download/conmigo.-2021.-br.-lat.-www.-hackstore.-net/CONMIGO.2021.BR.LAT.Www.Hackstore.Net.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/07/27/12/08/3794473.jpg" group-title="2021",Ice Road (2021) SUB
 http://archive.org/download/the.-ice.-road.-2021..1080-p.-ingl.-subt..-cine-calidad.-com/The.Ice.Road.2021..1080P.Ingl.Subt..Cine-Calidad.Com.ia.mp4
 #EXTINF:-1 tvg-logo="https://i2.wp.com/cinetux.nu/wp-content/uploads/2021/07/40PXaS0hERIbRuw9W3Deh3KgQI9-185x278.jpg" group-title="2021",Sugar Daddy (2021)
@@ -150,6 +148,8 @@ http://201.172.61.203:88/Peliculas/mkv/Fatherhood%20(2021)%201080p%20NF%20WEB-DL
 http://201.172.61.203:88/Peliculas/mkv/Medicina%20Mortal%20(2021)%20HD%201080P%20Latino.mkv%20-%20Google%20Drive.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/01/04/17/47/4463952.jpg" group-title="2021",Juega Conmigo (2021)
 http://201.172.61.203:88/Peliculas/mkv/Juega%20Conmigo%20(2021)%20BRRip%201080p%20Latino%20PGD.mkv%20-%20Google%20Drive.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/01/04/17/47/4463952.jpg" group-title="2021",Juega conmigo (2021)
+http://archive.org/download/conmigo.-2021.-br.-lat.-www.-hackstore.-net/CONMIGO.2021.BR.LAT.Www.Hackstore.Net.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/05/02/16/26/3114498.jpg" group-title="2021",Jagame Thandhiram (2021)
 http://201.172.61.203:88/Peliculas/mkv/Jagame.Thandhiram.2021.WEBDL.1080p.Latino.PGD..mkv%20-%20Google%20Drive.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/03/15/18/23/5302682.jpg" group-title="2021",En un barrio de Nueva York (2021)
