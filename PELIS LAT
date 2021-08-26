@@ -816,6 +816,8 @@ http://vod.tuxchannel.tv/peliculas/720/half%20brothers%202020.mkv
 http://vod.tuxchannel.tv/peliculas/720/wszyscy%20moi%20przyjaciele%20nie%20zyja%202020.mkv
 
 
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/18/12/03/11/56/5027832.jpg" group-title="2019",Capitana Marvel (2019)
+http://archive.org/download/capitana-marvel-2019_202107/Capitana%20Marvel%20%282019%29.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/07/18/09/47/4657986.jpg" group-title="2019",Rescate en el Mar Rojo (2019)
 http://archive.org/download/rescate-en-el-mar-rojo/Rescate_En_El_Mar_Rojo.MP4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/21/07/41/2266043.jpg" group-title="2019",Point Blank: Cuenta atrás (2019)
@@ -1042,6 +1044,8 @@ http://201.172.61.203:88/Peliculas/Marzo%20Abril/WhenWeFirstMet2018.mp4
 http://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/03/27/17/40/153012.jpg" group-title="2017",Piratas del Caribe: La venganza de Salazar (2017)
+http://archive.org/download/piratas.-5.-br.-lat.-www.-hackstore.-net/PIRATAS.5.BR.LAT.Www.Hackstore.Net.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/05/12/14/55/272246.jpg" group-title="2017",Baby Driver (2017)
 http://archive.org/download/apocalypto.-2006/BABY.BR.LAT.Www.Hackstore.Net.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/12/18/13/03/2907151.jpg" group-title="2017",Profesor en Groenlandia (2017) CASTELLANO
@@ -1192,6 +1196,12 @@ http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
 http://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/03/20/13/55/247396.jpg" group-title="Peliculas Viejas",El Transportador (2002)
+http://archive.org/download/el-transportador/El%20Transportador.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/89/76/05/20065466.jpg" group-title="Peliculas Viejas",El Transportador 2 (2005)
+http://archive.org/download/el-transportador-2-lat-1080/El%20transportador%202%20lat%201080.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/68/31/26/20388650.jpg" group-title="Peliculas Viejas",Transporter 3 (2008)
+http://archive.org/download/el-transportador-3-lat-1080/El%20Transportador%203%20lat%201080.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/r_1280_720/medias/nmedia/18/65/69/43/18982720.jpg" group-title="Peliculas Viejas",Ember: La ciudad perdida (2008)
 http://archive.org/download/b614aaf4efa26906c4484081c1320edb-480p/b614aaf4efa26906c4484081c1320edb-480p.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/14/03/17/11/57/271829.jpg" group-title="Peliculas Viejas",Destino Final 2 (2002)
