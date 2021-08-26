@@ -6,6 +6,20 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/21/07/13/11/35/4610105.jpg" group-title="2021",El resort del amor (2021)
+http://archive.org/download/kenshin-el-guerrero-samurai-el-origen/El%20resort%20del%20amor%20.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/21/08/18/16/36/1634924.jpg" group-title="2021",Terapia del Miedo (2021)
+http://archive.org/download/oxigeno_20210805_1018/terapia%20del%20miedo.mp4
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_41915_69.jpg" group-title="2021",Woe: Calamidad (2021) SUB
+http://archive.org/download/oxigeno_20210805_1018/Woe%20subtitulada.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/03/02/10/05/1337385.jpg" group-title="2021",Exorcismo en el séptimo día (2021)
+http://archive.org/download/oxigeno_20210805_1018/The%20Seventh%20Day.mp4
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/the-boy-behind-the-door-2-1628000885.jpg" group-title="2021",El chico detras de la puerta (2021) SUB
+http://archive.org/download/oxigeno_20210805_1018/The%20Boy%20Behind%20the%20Door%20%28sub%29.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/04/22/12/02/2540935.jpg" group-title="2021",Oxígeno (2021)
+http://archive.org/download/oxigeno_20210805_1018/Ox%C3%ADgeno.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/07/13/09/05/3843496.jpg" group-title="2021",Shiny Flakes: El cibernarco adolescente (2021)
+http://archive.org/download/oxigeno_20210805_1018/El%20Cibernarco%20Adolescente.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/07/27/12/08/3794473.jpg" group-title="2021",Ice Road (2021) SUB
 http://archive.org/download/the.-ice.-road.-2021..1080-p.-ingl.-subt..-cine-calidad.-com/The.Ice.Road.2021..1080P.Ingl.Subt..Cine-Calidad.Com.ia.mp4
 #EXTINF:-1 tvg-logo="https://i2.wp.com/cinetux.nu/wp-content/uploads/2021/07/40PXaS0hERIbRuw9W3Deh3KgQI9-185x278.jpg" group-title="2021",Sugar Daddy (2021)
@@ -352,6 +366,10 @@ http://149.56.13.137:999/PELISSD/boss-level-2021-Latino-web.mkv
 http://vod.tuxchannel.tv:80/peliculas/720/subtituladas/boss%20level%202021%20sub.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/03/23/12/34/3912865.jpg" group-title="2020",Hijos del Sol (2020) SUB
+http://archive.org/download/kenshin-el-guerrero-samurai-el-origen/hijos%20del%20sol.mp4.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/21/02/26/11/41/1969723.jpg" group-title="2020",Los Estados Unidos contra Billie Holiday (2020)
+http://archive.org/download/kenshin-el-guerrero-samurai-el-origen/Los%20Estados%20Unidos%20contra%20Billie%20Holiday.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/02/17/23/29/1942327.jpg" group-title="2020",Descuida yo te cuido (2020)
 http://archive.org/download/descuida-yo-te-cuido/descuida%20yo%20te%20cuido.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/07/10/01/29/0344506.jpg" group-title="2020",La lista de Al Carajo (2020) DUAL
@@ -794,6 +812,8 @@ http://vod.tuxchannel.tv/peliculas/720/half%20brothers%202020.mkv
 http://vod.tuxchannel.tv/peliculas/720/wszyscy%20moi%20przyjaciele%20nie%20zyja%202020.mkv
 
 
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/c_310_420/pictures/21/06/02/21/58/0547997.png" group-title="2019",Gully (2019)
+http://archive.org/download/oxigeno_20210805_1018/GULLY.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/11/01/21/04/2150442.jpg" group-title="2019",Codigo 8 (2019)
 http://archive.org/download/code.-8.2019.lati-quicktime/Code.8.2019.lati-quicktime.mp4
 #EXTINF:-1 tvg-logo="https://peliculas-hd.net/storage/movies_tumbl/diablo-la-ultima-carrera-cover-r2y.jpg" group-title="2019",Diablo: La Última Carrera (2019)
