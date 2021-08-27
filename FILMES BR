@@ -5,6 +5,8 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 #EXTINF:-1 tvg-logo="https://www.lifeder.com/wp-content/uploads/2016/07/pel%C3%ADculas-recomendadas.jpg" group-title="FILMES GRATIS",FILMES GRATIS
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81gX7hQjHIS._SL1500_.jpg" group-title="2021",Grande Tubarao Branco (2021) LEG
+https://archive.org/download/grande.-tubarao.-branco.-720p.-mp-4/Grande.Tubarao.Branco.720p.MP4.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/07/12/11/38/1972167.jpg" group-title="2021",Justiça em Familia (2021) LEG
 https://archive.org/download/justica-em-familia/Justi%C3%A7a%20em%20Fam%C3%ADlia.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/10/10/03/0580430.jpg" group-title="2021",Infinito (2021) LEG
@@ -1475,8 +1477,12 @@ http://185.148.3.146:6503/Ponto.De.Decis%C3%A3o.Gospel.DVDRip.XviD.Dublado.lendi
 http://185.148.3.146:6503/Peter%20Pan%202015%20720p%20BluRay%20Dublado%20-%20WWW.THEPIRATEFILMES.COM.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/89/43/82/20052140.jpg" group-title="Filmes Antigos",Os Vingadores (2012)
 http://185.148.3.146:6503/Os.Vingadores.BDRip.XviD.Dual.Audio-3LT0N.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/87/30/13/20028673.jpg" group-title="Filmes Antigos",Os Mercenarios (2010) LEG
+https://archive.org/download/mercenario_202108/mercenario.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2b/fc/2f/2bfc2fae4ebb9610e881801be19c9865.jpg" group-title="Filmes Antigos",Os Mercenarios 2 (2012)
 http://185.148.3.146:6503/Os.Mercenarios.2.2012.720p.BluRay.x264-DUAL-WWW.COMANDOTORRENTS.COM.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/14/07/10/20/37/421670.jpg" group-title="Filmes Antigos",Os Mercenarios 3 (2014) LEG
+https://archive.org/download/mercenario_202108/Os%20Mercen%C3%A1rios%203.ia.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/210/259/21025942_20130809010733221.jpg" group-title="Filmes Antigos",Os Instrumentos Mortais: Cidade dos Ossos (2013)
 http://185.148.3.146:6503/Os%20Instrumentos%20Mortais%20-%20Cidade%20dos%20Ossos.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/87/84/14/20028635.jpg" group-title="Filmes Antigos",Orgulho e Preconceito (2005)
