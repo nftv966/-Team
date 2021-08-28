@@ -444,6 +444,9 @@ http://185.148.3.146:6503/Archive.2021.BluRay.1080p.DUAL.COMANDO.TO.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/19/12/16/12/16/5667446.jpg" group-title="2020",Mulan (2020)
 http://www.iiss.com.br/downloads/Filmes/Mulan.2020/Mulan.2020.mkv
 
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/07/22/21/32/3137290.jpg" group-title="2019",Assassinos Anonimos (2019) MKV
+https://archive.org/download/assassinos-anonimos-2019-1080p-dublado/Assassinos%20Anonimos%202019%201080p%20Dublado.mkv
 #EXTINF:-1 tvg-logo="https://www.dvdsreleasedates.com/posters/800/T/The-Legion-2020-movie-poster.jpg" group-title="2019",O Legionario (2019)
 https://archive.org/download/o-legendario-2021/O%20Legendario%202021.mp4
 #EXTINF:-1 tvg-logo="https://www.dvdsreleasedates.com/posters/800/T/The-Legion-2020-movie-poster.jpg" group-title="2019",O Legionario (2019) HD
@@ -962,6 +965,10 @@ http://lh3.googleusercontent.com/G3oNS_j5Z14iqV8476SVw39lBm5JJlhdGnQEaOk7G5xh28I
 http://lh3.googleusercontent.com/_ZTxRYYtedbTL17OyCkINVg8r6EgxqraZz8yvB28iRODQ1qGBrIIj9TH_UawePWQ6V5kJeCBlcIy3yeZx1NNTmSSquhDv1gEmfu5dxPwm5H2VFPyafaiDYn835UGKcaI6aJ1LMBC-A=m22
 
 
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/17/10/20/17/25/5860902.jpg" group-title="2018",Depois daquela Montanha (2018)
+https://archive.org/download/depois-daquela-montanha-2018-720p-dub/Depois%20Daquela%20Montanha%202018%20720p%20DUB.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/18/10/02/14/59/3147085.jpg" group-title="2018",22 de Julho (2018)
+https://archive.org/download/22-de-julho-1080p-2018-dublado/22%20De%20Julho%201080p%20%282018%29%20Dublado.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/18/04/23/22/54/2750594.jpg" group-title="2018",Arranha Céu: Coragem sem limite (2018)
 https://archive.org/download/arranha-ceu-coragem-sem-limite-2018-1080p-dublado/Arranha-C%C3%A9u%20Coragem%20Sem%20Limite%202018%201080p%20Dublado.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/18/03/28/18/30/1610624.jpg" group-title="2018",No Olho do Furacão (2018)
@@ -1284,6 +1291,8 @@ http://185.148.3.146:6503/A.Dama.do.Espelho.O.Ritual.das.Trevas.2017.1080p.BluRa
 http://185.148.3.146:6503/A.Qualquer.Custo.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4
 
 
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/17/04/13/13/31/216062.jpg" group-title="2016",Guerreira de Sangue (2016)
+https://archive.org/download/viuva.-negra.-2021.1080p.-web-dl.-ddp-5.1.-dual/Guerreira.de.Sangue.2018.1080p.BluRay.x264.DUAL.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/515xIl9C6TL._AC_SY445_.jpg" group-title="2016",Um Tira no Jardim da Infancia 2 (2016)
 https://archive.org/download/um-tira-no-jardim-de-infancia-2/Um%20Tira%20no%20Jardim%20de%20Infancia%202.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/15/09/08/18/20/470611.jpg" group-title="2016",Boi Neon (2016)
@@ -1392,6 +1401,18 @@ http://185.148.3.146:6503/A.Infancia.de.um.Lider.2017.720p.BluRay.x264.DUBLADO-T
 https://archive.org/download/vingadores-era-de-ultron/Vingadores%20-%20Era%20De%20Ultron.mp4
 
 
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/86/95/09/19870442.jpg" group-title="Filmes Antigos",Batman Begins (2005)
+https://archive.org/download/viuva.-negra.-2021.1080p.-web-dl.-ddp-5.1.-dual/1%20Batman%20-%20Begins%201080p%20%282005%29%20Dual%20%C3%81udio%20BluRay%205.1%20--%20By%20-%20Lucas%20Firmo.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/86/98/32/19870786.jpg" group-title="Filmes Antigos",Batman: O Cavaleiro das Trevas (2008)
+https://archive.org/download/viuva.-negra.-2021.1080p.-web-dl.-ddp-5.1.-dual/2%20Batman%20-%20O%20Cavaleiro%20das%20Trevas%201080p%20%282008%29%20Dual%20%C3%81udio%20BluRay%205.1%20--%20Lucas%20Firmo.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/90/57/96/20121842.jpg" group-title="Filmes Antigos",Batman: O Cavaleiro das Trevas Ressurge (2012)
+https://archive.org/download/viuva.-negra.-2021.1080p.-web-dl.-ddp-5.1.-dual/3%20Batman%20-%20O%20Cavaleiro%20das%20Trevas%20Ressurge%201080p%20%282012%29%20Dual%20%C3%81udio%20BluRay%205.1%20--%20Lucas%20Firmo.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/210/335/21033541_20130830224455231.jpg" group-title="Filmes Antigos",É o Fim (2013)
+https://archive.org/download/eofim2013bdrip720pdubladoandretpf/%C3%89%20o%20Fim%20%282013%29%20BDrip%20720p%20Dublado%20-%20AndreTPF.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/14/06/20/23/27/478475.jpg" group-title="Filmes Antigos",Transformers: A Era da Extinção (2014)
+https://archive.org/download/transformers-a-era-da-extincao/Transformers%20-%20A%20Era%20da%20Extin%C3%A7%C3%A3o.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/medias/nmedia/18/87/33/30/20028710.jpg" group-title="Filmes Antigos",127 Horas (2010)
+https://archive.org/download/127-horas/127%20Horas.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500//rp3ogBoHqRPAIJ9AObqOb6eP2Ru.jpg" group-title="Filmes Antigos",Bruna Surfistinha (2011)
 https://archive.org/download/bruna-surfistinha-2011-1080p-br/Bruna%20Surfistinha%202011%201080p%20BR.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/14/12/02/19/31/398428.jpg" group-title="Filmes Antigos",O Chamado (2002)
