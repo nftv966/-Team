@@ -442,7 +442,8 @@ http://185.148.3.146:6503/Archive.2021.BluRay.1080p.DUAL.COMANDO.TO.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/19/12/16/12/16/5667446.jpg" group-title="2020",Mulan (2020)
 http://www.iiss.com.br/downloads/Filmes/Mulan.2020/Mulan.2020.mkv
 
-
+#EXTINF:-1 tvg-logo="https://www.dvdsreleasedates.com/posters/800/T/The-Legion-2020-movie-poster.jpg" group-title="2019",O Legionario (2019)
+https://archive.org/download/o-legendario-2021/O%20Legendario%202021.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/03/15/10/35/4177435.jpg" group-title="2019",Vingadores: Ultimato (2019)
 https://archive.org/download/vingadores-ultimato_202105/Vingadores%20Ultimato.mp4
 #EXTINF:-1 tvg-logo="https://ottvsimg.ottvs.com.br/cov/so.067638/0067638_335.jpg" group-title="2019",A espera do amanha (2019)
@@ -1235,6 +1236,8 @@ http://lh3.googleusercontent.com/iCeDBW5YwmuH7Paq0IZFP_vJ8FPy9nKUFM4yNQfoR1FwwuZ
 http://lh3.googleusercontent.com/vLnaKmsJI0buJE-sYBHpf3CtVZdcuvdf9WPdChaxDZNClqwU7RUV9LAj26TEitP8z73Kr7q4vkwt33lbCwV4cnQegw79z3ui156WX3qHlP4XCjM-iwa79cmvu1OTx7gsr80QDnvLmg=m22
 
 
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/r_1280_720/pictures/16/12/06/10/48/214852.jpg" group-title="2017",Te Pego na Saída (2017)
+https://archive.org/download/A.espia.que.sabia.de.menos.sem.cortes.2015.DUB.BaixarerieMP4.com/Te.Pego.na.Sa%C3%ADda.2017.MP4.DUB.BaixarSeriesMP4.Com.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/18/07/24/22/09/4949197.jpg" group-title="2017",Yonlu (2017)
 http://185.148.3.146:6503/Yonlu.2019.720p.WEB-DL.6CH.x264.WWW.COMANDOTORRENTS.COM.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/18/03/09/01/17/5703373.jpg" group-title="2017",Uma Razao para Vencer (2017)
@@ -1271,7 +1274,8 @@ http://185.148.3.146:6503/A.Dama.do.Espelho.O.Ritual.das.Trevas.2017.1080p.BluRa
 http://185.148.3.146:6503/A.Qualquer.Custo.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4
 
 
-
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/515xIl9C6TL._AC_SY445_.jpg" group-title="2016",Um Tira no Jardim da Infancia 2 (2016)
+https://archive.org/download/um-tira-no-jardim-de-infancia-2/Um%20Tira%20no%20Jardim%20de%20Infancia%202.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/15/09/08/18/20/470611.jpg" group-title="2016",Boi Neon (2016)
 http://185.148.3.146:6503/Boi_neon.2016.1080p.WEB-DL.5.1.COMANDO.TO.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/210/155/21015527_20130626144044337.jpg" group-title="2016",A Salva-vidas (2016)
@@ -1378,6 +1382,16 @@ http://185.148.3.146:6503/A.Infancia.de.um.Lider.2017.720p.BluRay.x264.DUBLADO-T
 https://archive.org/download/vingadores-era-de-ultron/Vingadores%20-%20Era%20De%20Ultron.mp4
 
 
+#EXTINF:-1 tvg-logo="https://universosesquecidos.files.wordpress.com/2016/10/ladyhawke-32.jpg" group-title="Filmes Antigos",O Feitiço de Áquila (1985)
+https://archive.org/download/feitico-de-aquila.-1985/Feitic%CC%A7o%20de%20Aquila.1985.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71hUpKJtimL._RI_.jpg" group-title="Filmes Antigos",Um Tira no Jardim da Infancia (1990)
+https://archive.org/download/um.-tira.-no.-jardim.-da.-infancia.-1990./Um.Tira.No.Jardim.Da.Infancia.1990..mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/87/32/06/19874283.jpg" group-title="Filmes Antigos",Vírus (2009)
+https://archive.org/download/virus-2009/V%C3%ADrus%20%282009%29.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/87/32/11/19874288.jpg" group-title="Filmes Antigos",Os Perdedores (2010)
+https://archive.org/download/os-perdedores-2010/Os%20Perdedores%202010.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/15/05/20/14/20/080698.jpg" group-title="Filmes Antigos",A Espiã que Sabia de Menos (2015)
+https://archive.org/download/A.espia.que.sabia.de.menos.sem.cortes.2015.DUB.BaixarerieMP4.com/A.espia.que.sabia.de.menos.sem.cortes.2015.DUB.BaixarerieMP4.com.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/05/05/11/43/394729.jpg" group-title="Filmes Antigos",xXx 2: Estado de Emergencia (2005)
 http://185.148.3.146:6503/xXx%202%20-%20Estado%20de%20Emerg%C3%AAncia.2005.720p.BluRay.5.1.x264.Dublado.TDF.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/91/cd/72/91cd72cf349677c0437de0dcc903de63.jpg" group-title="Filmes Antigos",A pele que habito (2011)
