@@ -5,6 +5,19 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 #EXTINF:-1 tvg-logo="https://www.lifeder.com/wp-content/uploads/2016/07/pel%C3%ADculas-recomendadas.jpg" group-title="FILMES GRATIS",FILMES GRATIS
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://images.moviefit.me/t/o/477271-out-of-death.jpg" group-title="2021",Out of death (2021) LEG
+https://archive.org/download/agerra/Out.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/05/17/20/05/5122165.jpg" group-title="2021",Dupla Explosiva 2 (2021) LEG
+https://archive.org/download/agerra/DUPLA.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/21/01/28/09/54/1375499.jpg" group-title="2021",The Courier (2021) LEG
+https://archive.org/download/agerra/CORREIO.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/18/07/55/3847741.jpg" group-title="2021",Pig (2021) LEG
+https://archive.org/download/pig_20210830/Pig.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/02/26/19/12/3037508.png" group-title="2021",Cabras da Peste (2021)
+https://archive.org/download/caasd-pst-2021_202108/CaasdPst2021.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/22/10/28/5967935.jpg" group-title="2021",A Protegida (2021) LEG
+https://archive.org/download/a-protegida/A%20PROTEGIDA.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/812p6m8WpiL._SY445_.jpg" group-title="2021",Cidade sob ameaça (2021)
 https://archive.org/download/cidade.-sob.-ameaca.-2021.-bruray.-720p.-x-265.-dublado/Cidade.Sob.Amea%C3%A7a.2021.Bruray.720p.X265.Dublado.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/04/29/08/04/4838933.jpg" group-title="2021",Os Renegados (2021) LEG
