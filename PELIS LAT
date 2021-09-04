@@ -6,6 +6,8 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/01/07/09/21/5292740.jpg" group-title="2021",A descubierto (2021)
+http://archive.org/download/a-descubierto/A%20descubierto.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/05/25/13/09/2198547.jpg" group-title="2021",Cuestión de Sangre (2021)
 http://archive.org/download/ver-stillwater-2021-cuestion-de-sangre/Ver%20Stillwater%20%282021%29%20Cuesti%C3%B3n%20de%20Sangre.mp4
 #EXTINF:-1 tvg-logo="https://seetorrent.org/wp-content/uploads/2021/07/8l9zU9932kjrJqrTVEVSm4Zfyne-1.jpg" group-title="2021",El Traficante (2021)
@@ -992,6 +994,8 @@ http://vod.tuxchannel.tv/peliculas/720/mama%20al%20volante%202019.mkv
 http://tux-vod.dynu.com:80/peliculas/720/the%20kid%20who%20would%20be%20king%202018.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/08/28/16/58/4634287.jpg" group-title="2018",Peppermint: Matar o morir (2018) BAJA RESOLUCION
+http://archive.org/download/videoplayback_20200904_1918/videoplayback.mp4
 #EXTINF:-1 tvg-logo="https://www.filmtv.it/imgbank/GALLERYXL/R202005/the-jurassic-games-cover.jpg" group-title="2018",Juegos Jurasicos (2018) CASTELLANO
 https://archive.org/download/ver-the-jurassic-games/Ver%20The%20Jurassic%20Games.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/03/22/14/20/0916537.jpg" group-title="2018",La boda de mi ex (2018)
@@ -1106,6 +1110,8 @@ http://201.172.61.203:88/Peliculas/Marzo%20Abril/Como%20ser%20un%20latin%20lover
 http://201.172.61.203:88/Peliculas/Febrero/como%20cortar%20a%20tu%20patan.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/r_1280_720/pictures/18/05/19/00/23/2775813.jpg" group-title="2017",Enemigo Inmortal (2017)
 http://tux-vod.dynu.com:80/peliculas/720/enemigo%20inmortal.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/r_1280_720/pictures/18/05/19/00/23/2775813.jpg" group-title="2017",Enemigo Inmortal (2017) CASTELLANO
+http://archive.org/download/peliculas-completas-en-espanol-latino-castellano-enemigo-inmortal-jackie-chan-ci/--%20Pel%C3%ADculas%20completas%20en%20espa%C3%B1ol%20Latino%20%28castellano%29_EnemigoInmortal%20_Jackie%20Chan_Ciencia%20Ficcion%28480P%29_1.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/18/05/02/00/56/2910094.jpg" group-title="2017",24 horas para vivir (2017)
 http://tux-vod.dynu.com:80/peliculas/720/24%20hours%20to%20live.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/08/02/09/49/298907.jpg" group-title="2017",La chica del tren (2017)
@@ -1144,6 +1150,8 @@ http://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
 http://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
 
 
+#EXTINF:-1 tvg-logo="https://portal.andina.pe/EDPfotografia3/Thumbnail/2016/01/12/000335057W.jpg" group-title="2016",No Estamos Solos (2016) BAJA RESOLUCION
+http://archive.org/download/super-pelicula-no-estoy-solo-terror-suspenso-e-intriga-hd-240-p-1/SUPER%20PELICULA%20%20NO%20ESTOY%20SOLO%20%E2%9C%85--%20TERROR%20SUSPENSO%20E%20INTRIGA%20%20HD%28240P%29_1.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/11/30/17/44/581119.jpg" group-title="2016",La La Land (2016)
 http://archive.org/download/8919a-8466559fd-4eb-4c-12670fbaef-95c-720p/8919a8466559fd4eb4c12670fbaef95c-720p.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51NONFCG7cL.jpg" group-title="2016",Boyka: El imbatible (2016) DUAL 4K
@@ -1220,6 +1228,22 @@ http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
 http://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/12/91/7d/12917df059910ad4c783586da6ab9328.jpg" group-title="Peliculas Viejas",Escape a la Victoria (1981) CASTELLANO
+http://archive.org/download/evasion-o-victoria/Evasi%C3%B3n-o-victoria.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/78/40/97/20427678.jpg" group-title="Peliculas Viejas",Asesinos (1995) CASTELLANO
+http://archive.org/download/asesinos_202104/Asesinos.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/94/48/75/20333105.jpg" group-title="Peliculas Viejas",XXL (2004) CASTELLANO
+http://archive.org/download/xxl_20210504/XXL.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/91/66/71/20157014.jpg" group-title="Peliculas Viejas",Fugitivas (2000) CASTELLANO
+http://archive.org/download/Fugitivas/Fugitivas.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61XgmkqP0rL.jpg" group-title="Peliculas Viejas",Alone in the Dark II: El regreso de las sombras (2008) CASTELLANO
+http://archive.org/download/videoplayback_20200903_2207/videoplayback.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/15/02/04/11/27/147367.jpg" group-title="Peliculas Viejas",6 Balas (2012) BAJA RESOLUCION
+http://archive.org/download/pelicula-seis-balas-en-latino-completa-240-p-1/PELICULA%20SEIS%20BALAS%20EN%20LATINO%20COMPLETA%28240P%29_1.ia.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/79/44/73/20420618.jpg" group-title="Peliculas Viejas",Pájaros de fuego (1990) CASTELLANO
+http://archive.org/download/peliculas-de-accion-completas-gratis-2018-peliculas-en-espanol-latino-hd-2018-480-p/Peliculas%20De%20Accion%20Completas%20Gratis%202018%20%20%20Peliculas%20En%20Espa%C3%B1ol%20Latino%20HD%202018%28480P%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71zCfLCQvLL._SL1120_.jpg" group-title="Peliculas Viejas",Harry: El sucio (1976) CASTELLANO
+http://archive.org/download/harry-el-ejecutor-1976/Harry%20El%20Ejecutor%20%281976%29.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/04/22/11/34/511568.jpg" group-title="Peliculas Viejas",Ip Man: La leyenda (2010)
 http://archive.org/download/ip-man-01/Ip%20man%2001.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71l23ILr4BL._SL1084_.jpg" group-title="Peliculas Viejas",Ip Man 2 (2010)
