@@ -828,10 +828,12 @@ http://vod.tuxchannel.tv/peliculas/720/half%20brothers%202020.mkv
 http://vod.tuxchannel.tv/peliculas/720/wszyscy%20moi%20przyjaciele%20nie%20zyja%202020.mkv
 
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81pMnrzmFGL._SY606_.jpg" group-title="2019",Ip Man 4: El final (2019)
+http://archive.org/download/ip-man-04/Ip%20man%2004.mp4
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/palapadata/peliculas/el-ojo-del-demonio.jpg" group-title="2019",Ojo del Demonio (2019)
-https://archive.org/download/ver-mientras-la-ciudad-duerme-2019/Ver%20Demon%20Eye%20%282019%29.mp4
+http://archive.org/download/ver-mientras-la-ciudad-duerme-2019/Ver%20Demon%20Eye%20%282019%29.mp4
 #EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/19/10/17/09/22/3838240.jpg" group-title="2019",Mientras la ciudad duerme (2019)
-https://archive.org/download/ver-mientras-la-ciudad-duerme-2019/Ver%20Mientras%20la%20ciudad%20duerme%20%282019%29.mp4
+http://archive.org/download/ver-mientras-la-ciudad-duerme-2019/Ver%20Mientras%20la%20ciudad%20duerme%20%282019%29.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/18/12/03/11/56/5027832.jpg" group-title="2019",Capitana Marvel (2019)
 http://archive.org/download/capitana-marvel-2019_202107/Capitana%20Marvel%20%282019%29.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/07/18/09/47/4657986.jpg" group-title="2019",Rescate en el Mar Rojo (2019)
@@ -1180,6 +1182,8 @@ http://ia801603.us.archive.org/20/items/24052017Aqc789423784723984/24052017_aqc.
 http://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
 
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f4/a2/0e/f4a20e002430c6b463fbe8bf3a2f1023.jpg" group-title="2015",Ip Man 3 (2015)
+http://archive.org/download/ip-man-03/Ip%20man%2003.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ef/06/04/ef0604c7493075c705c763924aa952fe.jpg" group-title="2015",Spy: Una Espía Despistada (2015)
 http://archive.org/download/www.mega-1080.com-spyhd-1080-p/%5Bwww.mega1080.com%5DSPYHD1080P.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/18/01/16/21/48/4413870.jpg" group-title="2015",El último cazador de brujas (2015)
@@ -1216,6 +1220,10 @@ http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
 http://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/04/22/11/34/511568.jpg" group-title="Peliculas Viejas",Ip Man: La leyenda (2010)
+http://archive.org/download/ip-man-01/Ip%20man%2001.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71l23ILr4BL._SL1084_.jpg" group-title="Peliculas Viejas",Ip Man 2 (2010)
+http://archive.org/download/ip-man-02/Ip%20man%2002.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71pnWjYRcPL._SL1500_.jpg" group-title="Peliculas Viejas",Freddy contra Jason (2003)
 http://archive.org/download/freddy-contra-jason-2003/Freddy%20contra%20Jason%20%282003%29.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/68/02/19/20439352.jpg" group-title="Peliculas Viejas",Soldado Universal (1992)
