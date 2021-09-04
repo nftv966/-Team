@@ -376,6 +376,12 @@ http://149.56.13.137:999/PELISSD/boss-level-2021-Latino-web.mkv
 http://vod.tuxchannel.tv:80/peliculas/720/subtituladas/boss%20level%202021%20sub.mkv
 
 
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/20/09/11/23/31/5841171.jpg" group-title="2020",Sputnik: Extraño pasajero (2020)
+http://archive.org/download/estacion-zombie-2-peninsula-2020-480/Sputnik.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/20/07/23/19/04/5409405.jpg" group-title="2020",Estación Zombie 2: Península (2020)
+http://archive.org/download/estacion-zombie-2-peninsula-2020-480/Estaci%C3%B3n%20Zombie%202-%20Pen%C3%ADnsula%20%282020%29%20480.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/09/30/07/28/0926795.jpg" group-title="2020",Amor de calendario (2020)
+http://archive.org/download/estacion-zombie-2-peninsula-2020-480/Amor%20de%20Calendario.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/c_310_420/pictures/20/01/16/17/45/2704520.png" group-title="2020",Rebelión de los Godínez (2020)
 https://archive.org/download/rebelion-de-los-godinez-2020/Rebeli%C3%B3n%20de%20los%20God%C3%ADnez%20%282020%29.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/05/07/09/48/2420643.jpg" group-title="2020",No andaba muerto estaba de parranda (2020)
@@ -1150,6 +1156,10 @@ http://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
 http://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/16/05/30/10/17/080143.jpg" group-title="2016",Ahora me ves 2 (2016)
+http://archive.org/download/guardianes-de-la-galaxia-vol.-2_202104/Los%20Ilusionistas%202.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/11/07/12/58/541167.jpg" group-title="2016",Tren a Busan (2016)
+http://archive.org/download/tren-a-busan/tren%20a%20busan.mp4
 #EXTINF:-1 tvg-logo="https://portal.andina.pe/EDPfotografia3/Thumbnail/2016/01/12/000335057W.jpg" group-title="2016",No Estamos Solos (2016) BAJA RESOLUCION
 http://archive.org/download/super-pelicula-no-estoy-solo-terror-suspenso-e-intriga-hd-240-p-1/SUPER%20PELICULA%20%20NO%20ESTOY%20SOLO%20%E2%9C%85--%20TERROR%20SUSPENSO%20E%20INTRIGA%20%20HD%28240P%29_1.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/11/30/17/44/581119.jpg" group-title="2016",La La Land (2016)
@@ -1228,6 +1238,28 @@ http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
 http://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/73/47/80/19216789.jpg" group-title="Peliculas Viejas",El libro de Eli (2010)
+http://archive.org/download/el-quinto-elemento/EL_LIBRO_DE_ELI.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/95/64/64/20540469.jpg" group-title="Peliculas Viejas",Ahora me ves (2013)
+http://archive.org/download/guardianes-de-la-galaxia-vol.-2_202104/Los%20Ilusionistas%201.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71-AEweF8dL._RI_.jpg" group-title="Peliculas Viejas",La Mujer de mis Pesadillas (2007)
+http://archive.org/download/guardianes-de-la-galaxia-vol.-2_202104/La%20Mujer%20De%20Mis%20Pesadillas.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81BCeySq7YL._SY445_.jpg" group-title="Peliculas Viejas",Papá por accidente (2010)
+http://archive.org/download/estacion-zombie-2-peninsula-2020-480/Papa%20por%20Accidente%20The%20Switch.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41QyfwJ+y6L.jpg" group-title="Peliculas Viejas",El hombre bicentenario (1999)
+http://archive.org/download/estacion-zombie-2-peninsula-2020-480/Hombre%20bicentenario.ia.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51ARBQJD5WL._SY445_.jpg" group-title="Peliculas Viejas",Rocky (1976)
+http://archive.org/download/rocky-6/Rocky%201.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/05/12/10/38/231381.jpg" group-title="Peliculas Viejas",Rocky 2 (1979)
+http://archive.org/download/rocky-6/Rocky%202.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/210/582/21058253_20131115155115957.jpg" group-title="Peliculas Viejas",Rocky 3 (1982)
+http://archive.org/download/rocky-6/Rocky%203.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/97/48/25/20531815.jpg" group-title="Peliculas Viejas",Rocky 4 (1985)
+http://archive.org/download/rocky-6/Rocky%204.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/95/64/88/20420627.jpg" group-title="Peliculas Viejas",Rocky 5 (1990)
+http://archive.org/download/rocky-6/Rocky%205.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/89/65/40/20060317.jpg" group-title="Peliculas Viejas",Rocky 6 (2006)
+http://archive.org/download/rocky-6/Rocky%206.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/12/91/7d/12917df059910ad4c783586da6ab9328.jpg" group-title="Peliculas Viejas",Escape a la Victoria (1981) CASTELLANO
 http://archive.org/download/evasion-o-victoria/Evasi%C3%B3n-o-victoria.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/78/40/97/20427678.jpg" group-title="Peliculas Viejas",Asesinos (1995) CASTELLANO
