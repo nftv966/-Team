@@ -6,6 +6,10 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/02/15/09/58/1192251.jpg" group-title="2021",SAS: El Ascenso del Cisne Negro (2021)
+http://archive.org/download/sas-el-ascenso-del-cisne-negro/SAS-%20El%20ascenso%20del%20Cisne%20Negro.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/08/04/09/24/2258349.jpg" group-title="2021",Cenicienta (2021)
+http://archive.org/download/cenicienta-2021/Cenicienta%20%282021%29.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/01/07/09/21/5292740.jpg" group-title="2021",A descubierto (2021)
 http://archive.org/download/a-descubierto/A%20descubierto.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/05/25/13/09/2198547.jpg" group-title="2021",Cuestión de Sangre (2021)
@@ -230,8 +234,10 @@ http://ytv.plus:25461/movie/mercedes/1234/15164.mkv
 http://51.222.158.233:999/PELISSD/blood-red-sky-2021-Latino.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/15/16/20/0042851.jpg" group-title="2021",Trollhunters: El despertar de los titanes (2021)
 https://archive.org/download/trollhunters-el-despertar-de-los-titanes/Trollhunters%20El%20despertar%20de%20los%20titanes.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/25/13/44/0609737.jpg" group-title="2021",La purga infinita (2021)
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/25/13/44/0609737.jpg" group-title="2021",La purga infinita (2021) MKV
 http://vod.tuxchannel.tv:80/peliculas/720/the%20forever%20purge%202021.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/25/13/44/0609737.jpg" group-title="2021",La purga infinita (2021)
+http://archive.org/download/la-purga-por-siempre-2021/La%20purga%20por%20siempre%20%282021%29.mp4
 #EXTINF:-1 tvg-logo="https://img.reelgood.com/content/movie/3b35db84-6bd8-485e-9f2f-428880b6ff0e/poster-780.jpg" group-title="2021",Secuestro en el Paraiso (2021)
 http://201.172.61.203:88/Peliculas/MAYO%20JUNIO/Secuestro.en.el.Paraiso.1080.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/tmghT8HaddVIS9hEXIOI9GuDchi.jpg" group-title="2021",La Momia asciende (2021)
@@ -598,8 +604,10 @@ http://vod.tuxchannel.tv/peliculas/720/hard%20kill%202020.mkv
 http://vod.tuxchannel.tv:80/peliculas/720/lavaperros%202020.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/08/12/10/54/4688007.jpg" group-title="2020",El Mundo Entero (2020)
 http://vod.tuxchannel.tv:80/peliculas/720/und%20morgen%20die%20ganze%20welt%202020.mkv
-#EXTINF:-1 tvg-logo="https://pelismart.com/wp-content/uploads/2021/05/UNA-SOMBRA-EN-LA-NUBE.jpg" group-title="2020",Una Sombra en la Nube (2020)
+#EXTINF:-1 tvg-logo="https://pelismart.com/wp-content/uploads/2021/05/UNA-SOMBRA-EN-LA-NUBE.jpg" group-title="2020",Una Sombra en la Nube (2020) MKV
 http://vod.tuxchannel.tv:80/peliculas/720/shadow%20in%20the%20cloud%202020.mkv
+#EXTINF:-1 tvg-logo="https://pelismart.com/wp-content/uploads/2021/05/UNA-SOMBRA-EN-LA-NUBE.jpg" group-title="2020",Una Sombra en la Nube (2020)
+http://archive.org/download/pasajero-oculto-2020/Pasajero%20oculto%20%282020%29.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/20/11/12/11/18/0234850.jpg" group-title="2020",Super Inteligente (2020)
 http://vod.tuxchannel.tv:80/peliculas/720/superintelligence%202020.mkv
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/2d/a5/fc/2da5fca02ae95668e0e74539ebf4810c.jpg" group-title="2020",2067 (2020)
@@ -1000,6 +1008,8 @@ http://vod.tuxchannel.tv/peliculas/720/mama%20al%20volante%202019.mkv
 http://tux-vod.dynu.com:80/peliculas/720/the%20kid%20who%20would%20be%20king%202018.mkv
 
 
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/18/04/13/04/18/3621760.jpg" group-title="2018",La Purga: El Inicio (2018)
+http://archive.org/download/12-horas-para-sobrevivir-el-inicio-2018/12%20Horas%20Para%20Sobrevivir-%20El%20Inicio%20%282018%29.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/08/28/16/58/4634287.jpg" group-title="2018",Peppermint: Matar o morir (2018) BAJA RESOLUCION
 http://archive.org/download/videoplayback_20200904_1918/videoplayback.mp4
 #EXTINF:-1 tvg-logo="https://www.filmtv.it/imgbank/GALLERYXL/R202005/the-jurassic-games-cover.jpg" group-title="2018",Juegos Jurasicos (2018) CASTELLANO
@@ -1160,6 +1170,8 @@ http://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
 http://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/05/23/15/15/158290.jpg" group-title="2016",La Purga: El Año de la Elección (2016)
+http://archive.org/download/the-purge-el-ano-de-la-eleccion-2016/The%20Purge-%20el%20a%C3%B1o%20de%20la%20elecci%C3%B3n%20%282016%29.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/16/06/23/16/32/588757.jpg" group-title="2016",Los siete magníficos (2016)
 http://archive.org/download/4-vt-0-d-3-st-7-ucc-10-n-lat/7%20magnificos%20HD.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/16/05/30/10/17/080143.jpg" group-title="2016",Ahora me ves 2 (2016)
@@ -1244,6 +1256,12 @@ http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
 http://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/06/18/15/53/188108.jpg" group-title="Peliculas Viejas",La Purga: La Noche de las Bestias (2014)
+http://archive.org/download/anarchy-la-noche-de-las-bestias-2014/Anarchy-%20La%20noche%20de%20las%20bestias%20%282014%29.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/66/64/01/20168724.jpg" group-title="Peliculas Viejas",Iron Man (2008)
+http://archive.org/download/iron-man_202109/Iron%20Man.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/77/46/75/20134299.jpg" group-title="Peliculas Viejas",Iron Man 2 (2010)
+http://archive.org/download/iron-man-2_202109/Iron%20Man%202.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/05/05/12/46/010208.jpg" group-title="Peliculas Viejas",Al filo del mañana (2014)
 http://archive.org/download/4-vt-0-d-3-st-7-ucc-10-n-lat/Al%20Filo%20del%20Ma%C3%B1ana.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/04/15/12/05/460057.jpg" group-title="Peliculas Viejas",El Rey Escorpión (2002)
