@@ -6,6 +6,10 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/07/08/18/19/1303273.jpg" group-title="2021",No Respires 2 (2021)
+http://archive.org/download/ver-no-respires-2-2021/Ver%20No%20Respires%202%20%282021%29.mp4
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_42200_67.jpg" group-title="2021",Megalodon Rising (2021) SUB
+http://archive.org/download/ver-megalodon-rising-2021/Ver%20Megalodon%20Rising%202021.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/01/10/40/5886715.jpg" group-title="2021",Los Mitchell contra las máquinas (2021)
 http://archive.org/download/ver-los-mitchell-contra-las-maquinas-2021-online-latino-hd-pelisplus-1/Ver%20Los%20Mitchell%20contra%20las%20m%C3%A1quinas%20%282021%29%20Online%20Latino%20HD%20-%20Pelisplus_1.mp4
 #EXTINF:-1 tvg-logo="https://entrepeliculasyseries.io/Archivos/2021/07/trigger-point.jpg" group-title="2021",Trigger Point: El silencio de los espias (2021) CASTELLANO
