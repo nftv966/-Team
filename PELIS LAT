@@ -6,6 +6,8 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/21/01/26/18/58/5357844.jpg" group-title="2021",Raya y el último dragón (2021)
+http://archive.org/download/infantiles_20210310/Raya-y-el-ultimo-dragon-2021.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzBiZDcyYTgtMDYxMC00MjU0LThmMzgtYTkxNjVkNWMxYjAxXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_.jpg" group-title="2021",Jurassic Hunt: Caceria Jurasica (2021)
 http://archive.org/download/ver-jurassic-hunt-2021/Ver%20Jurassic%20Hunt%20%282021%29.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/07/08/18/19/1303273.jpg" group-title="2021",No Respires 2 (2021)
@@ -396,6 +398,8 @@ http://149.56.13.137:999/PELISSD/boss-level-2021-Latino-web.mkv
 http://vod.tuxchannel.tv:80/peliculas/720/subtituladas/boss%20level%202021%20sub.mkv
 
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/jqd6lBtyfyJf5X8B0T94C9w9DAS.jpg" group-title="2020",Fearless: Nivel intrepido (2020)
+http://archive.org/download/infantiles_20210310/fearless.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/03/05/14/08/2811747.jpg" group-title="2020",Digimon Adventure: Last Evolution Kizuna (2020) CASTELLANO
 http://archive.org/download/ver-digimon-adventure-last-evolution-kizuna-2020-online-re-pelis-24-gratis/Ver%20Digimon%20Adventure-%20Last%20Evolution%20Kizuna%20%282020%29%20Online%20%E2%9C%85%20-%20RePelis24%20%C2%BB%20Gratis.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/04/21/17/15/0297294.jpg" group-title="2020",La otra Missy (2020)
@@ -866,6 +870,8 @@ http://vod.tuxchannel.tv/peliculas/720/half%20brothers%202020.mkv
 http://vod.tuxchannel.tv/peliculas/720/wszyscy%20moi%20przyjaciele%20nie%20zyja%202020.mkv
 
 
+#EXTINF:-1 tvg-logo="https://fr.web.img4.acsta.net/c_310_420/pictures/20/01/08/15/35/1713889.jpg" group-title="2019",Robo: Mi amigo robot (2019)
+http://archive.org/download/infantiles_20210310/Robo-2019.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/07/30/09/09/0763744.jpg" group-title="2019",It 2 (2019)
 http://archive.org/download/ghostbusters.-2016.1080p.extended-dual-lat/It%20Cap%C3%ADtulo%202.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/03/11/09/01/4673291.jpg" group-title="2019",El silencio (2019)
