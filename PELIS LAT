@@ -400,6 +400,9 @@ http://149.56.13.137:999/PELISSD/boss-level-2021-Latino-web.mkv
 http://vod.tuxchannel.tv:80/peliculas/720/subtituladas/boss%20level%202021%20sub.mkv
 
 
+
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/01/21/06/05/5039668.jpg" group-title="2020",Baba Yaga: El regreso del demonio (2020)
+http://archive.org/download/nino-44/el%20regreso%20del%20demon.mp4
 #EXTINF:-1 tvg-logo="https://de.web.img2.acsta.net/pictures/21/02/10/16/07/4679693.jpg" group-title="2020",Jiu Jitsu (2020)
 http://archive.org/download/of-0tnwf-6rz-fb-xh-zwi-bjr.mp-4/OF0tnwf6rzFbXhZWiBjr.mp4.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/11/19/07/25/4540853.jpg" group-title="2020",Una noche en Miami (2020)
@@ -532,8 +535,10 @@ https://mataocio-cdn5.mataocio-cdn5.workers.dev/Otras/Ava%2520-%25202020.mp4
 https://mataocio-cdn5.mataocio-cdn5.workers.dev/Otras/Amadrinadas%2520(Godmothered).mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/t9ttLmZ3NJbgtnOsGyQNiF2ngJo.jpg" group-title="2020",Aztech (2020)
 https://mataocio-cdn5.mataocio-cdn5.workers.dev/Otras%25202/Aztech%2520-%25202020.mp4
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91gLlu9wzmL._AC_SY606_.jpg" group-title="2020",Vanguard (2020)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/91415BMkZEL._SY445_.jpg" group-title="2020",Vanguardia (2020)
 https://mataocio-cdn5.mataocio-cdn5.workers.dev/Otras%25203/Vanguard%2520-%25202020.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/91415BMkZEL._SY445_.jpg" group-title="2020",Vanguardia (2020)
+http://archive.org/download/nino-44/vanguardia.mp4
 #EXTINF:-1 tvg-logo="https://www.cartelera.com.uy/imagenes_espectaculos/moviedetail13/29395.jpg" group-title="2020",El juego de las 100 velas (2020)
 https://mataocio-cdn5.mataocio-cdn5.workers.dev/Otras%25203/The%2520100%2520Candles%2520Game%2520-%25202020.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e3/92/56/e392563b2868e723d5c3f3d93b43d5da.jpg" group-title="2020",Miraculous: Nueva York Heroes Unidos (2020)
@@ -1320,6 +1325,8 @@ http://ia801603.us.archive.org/20/items/24052017Aqc789423784723984/24052017_aqc.
 http://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/15/03/16/17/23/226364.jpg" group-title="2015",El niño 44 (2015)
+http://archive.org/download/nino-44/nino%2044.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/15/01/19/11/49/274619.jpg" group-title="2015",El gurú de las bodas (2015)
 http://archive.org/download/guru-de-bodas/guru%20de%20bodas.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/15/06/08/11/21/306027.jpg" group-title="2015",Everest (2015)
