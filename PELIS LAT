@@ -6,6 +6,8 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/05/13/12/41/2028452.jpg" group-title="2021",Despierta la furia: Justicia implacable (2021)
+https://archive.org/download/ver-despierta-la-furia-2021-online-latino-pelis-plus/Ver%20Despierta%20la%20furia%20%282021%29%20Online%20Latino%20-%20PelisPlus.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/21/01/26/18/58/5357844.jpg" group-title="2021",Raya y el último dragón (2021)
 http://archive.org/download/infantiles_20210310/Raya-y-el-ultimo-dragon-2021.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzBiZDcyYTgtMDYxMC00MjU0LThmMzgtYTkxNjVkNWMxYjAxXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_.jpg" group-title="2021",Jurassic Hunt: Caceria Jurasica (2021)
@@ -1077,8 +1079,6 @@ https://archive.org/download/no-manches-frida-2_202106/Mission%20Impossible%20-%
 https://archive.org/download/no-manches-frida-2_202106/Mile%2022%20%282018%29%20Dual%201080p%20%5BwWw.PelisMEGAHD.Pe%5D.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/18/12/12/18/48/1027094.jpg" group-title="2018",Junto A Los Dioses 2: Los Ultimos 49 Dias (2018)
 https://archive.org/download/no-manches-frida-2_202106/Junto%20a%20los%20dioses%202.mp4
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/18/09/18/17/31/0319741.jpg" group-title="2018",Johnny English: De nuevo en acción (2018)
-https://archive.org/download/no-manches-frida-2_202106/Johnny%20English%20Strikes%20Again%20%282018%29%20Dual%201080p%20%5BwWw.PelisMEGAHD.Pe%5D.mp4
 #EXTINF:-1 tvg-logo="https://fr.web.img6.acsta.net/pictures/18/04/20/11/52/5596223.jpg" group-title="2018",Incoming (2018)
 https://archive.org/download/no-manches-frida-2_202106/Incoming%20%282018%29%20Dual%201080p%20%5BwWw.PelisMEGAHD.Pe%5D.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51xui3G0q5L.jpg" group-title="2018",¿Entrenando a tu esposo? (2018)
@@ -1161,8 +1161,10 @@ http://tux-vod.dynu.com/peliculas/720/mortal%20engines%202018.mkv
 http://movie.lerload.xyz/storage/streamable/videos/wNFTtd6nwJzquhqgINWCSOx5opcbSyjYAvT6I5Lz_0_350.m3u8
 #EXTINF:-1 tvg-logo="https://illescas.es/wp-content/uploads/2019/01/ralp.jpg" group-title="2018",Ralph rompe internet (2018)
 http://tux-vod.dynu.com/peliculas/720/wifi%20ralph.mkv
-#EXTINF:-1 tvg-logo="http://www.cailegdl.com/wp-content/uploads/2018/09/JOHNNY_ENGLISH_ALTA.jpg" group-title="2018",Jhonny English 3.0 (2018)
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/18/09/18/17/31/0319741.jpg" group-title="2018",Johnny English: De nuevo en acción (2018)
 http://archive.org/download/0231564654SRREGIO/0231564654SRREGIO.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/18/09/18/17/31/0319741.jpg" group-title="2018",Johnny English: De nuevo en acción (2018) FHD
+https://archive.org/download/no-manches-frida-2_202106/Johnny%20English%20Strikes%20Again%20%282018%29%20Dual%201080p%20%5BwWw.PelisMEGAHD.Pe%5D.mp4
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/c_215_290/pictures/18/08/15/14/17/1408074.jpg" group-title="2018",Next Gen (2018)
 http://archive.org/download/n3xSRR3610/n3xSRR3610.mkv
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1d/dd/30/1ddd309be6ade7da544614337400d6b6.jpg" group-title="2018",Cuando nos Conocimos (2018)
