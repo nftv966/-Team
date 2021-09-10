@@ -6,8 +6,6 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/17/12/24/2379588.jpg" group-title="2021",Cómo me convertí en superhéroe (2021)
-http://es.web.img3.acsta.net/pictures/21/06/17/12/24/2379588.jpg
 #EXTINF:-1 tvg-logo="https://amariemagazine.com/wp-content/uploads/2021/03/Poster-25-de-marzo.png" group-title="2021",Plantados (2021)
 http://archive.org/download/plantados/PLANTADOS%20%28Peli%CC%81cula%20Cubana%20Completa%20HD%29%202021%202020.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/08/31/11/36/2465071.jpg" group-title="2021",¿Cuánto vale la vida? (2021)
@@ -902,6 +900,8 @@ http://vod.tuxchannel.tv/peliculas/720/half%20brothers%202020.mkv
 http://vod.tuxchannel.tv/peliculas/720/wszyscy%20moi%20przyjaciele%20nie%20zyja%202020.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/19/09/16/10/59/2369381.jpg" group-title="2019",Eli (2019)
+http://archive.org/download/eli_20210428/eli.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/15/08/57/1315853.jpg" group-title="2019",Estafadoras de Wall Street (2019)
 http://archive.org/download/estafadoras/estafadoras.mp4
 #EXTINF:-1 tvg-logo="https://i0.wp.com/cinetux.nu/wp-content/uploads/2021/04/fvFVsIO73JmVTPlFCT2eeKHH72k.jpg" group-title="2019",La Porrista perfecta (2019)
@@ -1290,6 +1290,8 @@ http://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
 http://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/05/31/14/00/014966.jpg" group-title="2016",Infierno Azul (2016)
+http://archive.org/download/infierno-azul/Infierno%20azul.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/04/22/09/02/1137018.jpg" group-title="2016",Moana: Un mar de aventuras (2016)
 http://archive.org/download/m-04-n-4_20210521/M04N4.mp4
 #EXTINF:-1 tvg-logo="https://decine21.com/img/upload/obras/rescate-suicida-36691/src/rescate-suicida-36691-c.jpg" group-title="2016",Rescate Suicida (2016)
@@ -1428,6 +1430,12 @@ http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
 http://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/90/16/81/20084032.jpg" group-title="Peliculas Viejas",Cellular (2004)
+http://archive.org/download/www.cinepelis.club_20210422/cellular_1.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/70/38/37/20094227.jpg" group-title="Peliculas Viejas",Expediente 39 (2009)
+http://archive.org/download/www.cinepelis.club_20210422_0124/caso-39_1.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/67/82/30/20079603.jpg" group-title="Peliculas Viejas",La tormenta perfecta (2000)
+http://archive.org/download/www.cinepelis.club_20210422_0203/la-tormenta-perfecta_1.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/70/57/70/19255639.jpg" group-title="Peliculas Viejas",Tiana y el sapo (2009)
 http://archive.org/download/la-princesa-y-el-sapo_202105/La%20Princesa%20y%20el%20Sapo.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/79/96/30/19541005.jpg" group-title="Peliculas Viejas",Enredados (2010)
