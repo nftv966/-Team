@@ -900,6 +900,8 @@ http://vod.tuxchannel.tv/peliculas/720/half%20brothers%202020.mkv
 http://vod.tuxchannel.tv/peliculas/720/wszyscy%20moi%20przyjaciele%20nie%20zyja%202020.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/05/27/12/05/3089180.jpg" group-title="2019",John Wick 3: Parabellum (2019)
+http://archive.org/download/john-wick-3_202107/John%20Wick%203.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/20/08/05/01/13/5131124.jpg" group-title="2019",Maldición en el tercer piso (2019)
 http://archive.org/download/www.sinepelis.club/Maldici%C3%B3n%20en%20el%20tercer%20piso.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/19/06/24/19/42/4857107.jpg" group-title="2019",A 47 metros: El segundo ataque (2019)
@@ -1194,6 +1196,8 @@ http://201.172.61.203:88/Peliculas/Marzo%20Abril/WhenWeFirstMet2018.mp4
 http://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/10/26/08/50/198471.jpg" group-title="2017",John Wick 2: Pacto de sangre (2017)
+http://archive.org/download/john-wick-2_202107/John%20Wick%202.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/06/08/12/57/135752.jpg" group-title="2017",A 47 metros (2017)
 http://archive.org/download/a-47-metros/a%2047%20metros.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/17/11/16/08/59/5444629.jpg" group-title="2017",Skylines 2 (2017)
@@ -1436,6 +1440,8 @@ http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
 http://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/10/01/14/18/135831.jpg" group-title="Peliculas Viejas",John Wick: Un buen día para matar (2014)
+http://archive.org/download/john-wick-1_202107/John%20Wick%201.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/02/24/15/34/466376.jpg" group-title="Peliculas Viejas",Zombieland (2009)
 http://archive.org/download/tt1156398_LAT_HD/tt1156398_LAT_HD.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/90/16/81/20084032.jpg" group-title="Peliculas Viejas",Cellular (2004)
