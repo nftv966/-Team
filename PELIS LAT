@@ -6,6 +6,10 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://images.moviefit.me/t/o/535312-el-cuartito.jpg" group-title="2021",El cuartito (2021)
+http://archive.org/download/el-cuartito-2021/el%20cuartito%202021.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/08/24/13/12/2719539.jpg" group-title="2021",El último guerrero: Las raíces del mal (2021) CASTELLANO
+http://archive.org/download/ver-el-ultimo-guerrero.-las-raices-del-mal-2021/Ver%20El%20%C3%BAltimo%20guerrero.%20Las%20ra%C3%ADces%20del%20mal%20%282021%29.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/24/12/20/5197271.jpg" group-title="2021",Escape Room 2: Mueres por salir (2021)
 http://archive.org/download/ver-escape-room-2-mueres-por-salir-2021/Ver%20Escape%20Room%202%20Mueres%20por%20salir%20%282021%29.mp4
 #EXTINF:-1 tvg-logo="https://fyine.com/wp-content/uploads/2021/02/smpp.png" group-title="2021",Mission Possible (2021) CASTELLANO
