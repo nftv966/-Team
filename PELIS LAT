@@ -6,6 +6,12 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/nightjarprod/content/uploads/sites/3/2021/08/10075907/cry-macho-poster.jpg" group-title="2021",Cry Macho (2021)
+http://archive.org/download/cry-macho/Cry%20Macho.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/85mrZBPfRXYd0Qs1Cc8o9q4WLOf.jpg" group-title="2021",El Baile de las Locas (2021)
+http://archive.org/download/el-baile-de-las-locas/El%20Baile%20de%20las%20Locas.mp4
+#EXTINF:-1 tvg-logo="https://www.aventurasnerd.com/wp-content/uploads/2021/09/Birds-of-Paradise.jpg" group-title="2021",Aves del Paraíso (2021)
+http://archive.org/download/aves-del-paraiso/Aves%20del%20Para%C3%ADso.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/20/02/28/22/33/0238940.jpg" group-title="2021",La chica que mató a sus padres (2021)
 http://archive.org/download/la-chica-que-mato-a-sus-padres/La%20chica%20que%20mat%C3%B3%20a%20sus%20padres.mp4
 #EXTINF:-1 tvg-logo="https://www.eldiario.net/noticias/2021/2021_04/nt210418/t_2021-04-18_14.jpg" group-title="2021",Posesion Diabolica (2021)
