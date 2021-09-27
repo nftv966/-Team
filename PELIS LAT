@@ -5,7 +5,12 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 #EXTINF:-1 tvg-logo="https://www.lifeder.com/wp-content/uploads/2016/07/pel%C3%ADculas-recomendadas.jpg" group-title="PELICULAS GRATIS",PELICULAS GRATIS
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/07/21/10/24/1216702.jpg" group-title="2021",El Rey del Fin del Mundo (2021)
+https://archive.org/download/el-rey-del-fin-del-mundo/El%20Rey%20del%20Fin%20del%20Mundo.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/21/08/12/09/32/0815126.jpg" group-title="2021",Presas de caza (2021)
+http://archive.org/download/Presas/Presas.mp4
+#EXTINF:-1 tvg-logo="https://www.wellgousa.com/sites/default/files/2021-07/CrazyFist_WellGoUSA_KeyArt_HomeEnt_812x1200.jpg" group-title="2021",Puños de Venganza (2021)
+http://archive.org/download/crazy-fist/Crazy%20Fist.mp4
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/nightjarprod/content/uploads/sites/3/2021/08/10075907/cry-macho-poster.jpg" group-title="2021",Cry Macho (2021)
 http://archive.org/download/cry-macho/Cry%20Macho.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/85mrZBPfRXYd0Qs1Cc8o9q4WLOf.jpg" group-title="2021",El Baile de las Locas (2021)
@@ -457,7 +462,8 @@ http://149.56.13.137:999/PELISSD/boss-level-2021-Latino-web.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/11/24/09/22/4044266.jpg" group-title="2021",Boss Level: Un dia mas para morir (2021) SUB.
 http://vod.tuxchannel.tv:80/peliculas/720/subtituladas/boss%20level%202021%20sub.mkv
 
-
+#EXTINF:-1 tvg-logo="https://images.moviefit.me/t/o/427325-caleb.jpg" group-title="2020",Caleb (2020)
+http://archive.org/download/caleb_202109/Caleb.mp4
 #EXTINF:-1 tvg-logo="https://banda-sonora.com/storage/covers/9601220-black-bear.jpg" group-title="2020",Oso negro (2020) SUB
 https://archive.org/download/black-bear-hd-720p-1364001/Black_Bear_HD__720p___1364001.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/412JcLXzsTL.jpg" group-title="2020",Miradas que matan (2020) SUB
