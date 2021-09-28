@@ -6,6 +6,14 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://cdn.kinocheck.com/images/w350/36xkk83ymx.jpg" group-title="2021",Iniciación (2021)
+http://archive.org/download/iniciacion-2021/Iniciacio%CC%81n%20%282021%29.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/21/02/02/08/10/2965695.jpg" group-title="2021",Pánico en casa (2021)
+http://archive.org/download/safer-at-home-2021/Safer%20at%20Home%20%282021%29.mp4
+#EXTINF:-1 tvg-logo="https://cfm.yidio.com/images/movie/231268/poster-180x270.jpg" group-title="2021",Swim: Invitado sangriento (2021)
+http://archive.org/download/swim-2021/Swim%20%282021%29.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/08/27/10/54/2531640.jpg" group-title="2021",Intrusion (2021)
+http://archive.org/download/intrusion-2021/Intrusio%CC%81n%20%282021%29.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71TsVoeVm4L._SL1500_.jpg" group-title="2021",Infeccion (2021)
 http://archive.org/download/721625/721625.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/06/17/12/34/4687328.jpg" group-title="2021",Kingdom: La historia de Ashin (2021)
