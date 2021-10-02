@@ -1004,6 +1004,10 @@ http://vod.tuxchannel.tv/peliculas/720/half%20brothers%202020.mkv
 http://vod.tuxchannel.tv/peliculas/720/wszyscy%20moi%20przyjaciele%20nie%20zyja%202020.mkv
 
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/bsgs5bi0P0cHp5sdGfzoomMKYmK.jpg" group-title="2019",Hacker (2019)
+http://201.172.61.81:82/peliculas/19%2010%2019/*Hacker.2019.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/03/15/12/13/3261063.jpg" group-title="2019",Chicos buenos (2019)
+http://201.172.61.81:82/peliculas/19%2010%2019/*Good%20Boys%20(2019).mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/19/10/29/03/38/1223323.jpg" group-title="2019",Paradise en llamas (2019)
 http://201.172.61.81:82/peliculas/19%2010%2019/*Fire.in.Paradise.2019.NF.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/11/10/18/0614173.jpg" group-title="2019",Estafadores (2019)
@@ -1242,6 +1246,8 @@ http://vod.tuxchannel.tv/peliculas/720/mama%20al%20volante%202019.mkv
 http://tux-vod.dynu.com:80/peliculas/720/the%20kid%20who%20would%20be%20king%202018.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/30/16/48/5382640.jpg" group-title="2018",Grace (2018)
+http://201.172.61.81:82/peliculas/19%2010%2019/*Grace%20(2018).mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/11/20/18/34/1856210.jpg" group-title="2018",El regreso de Mary Poppins (2018)
 http://201.172.61.81:82/peliculas/19%2010%2019/*El%20Regreso%20de%20Mary%20Poppins.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TYeo0XYlL._RI_.jpg" group-title="2018",Deadsight (2018)
