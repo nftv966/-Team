@@ -496,6 +496,8 @@ http://149.56.13.137:999/PELISSD/boss-level-2021-Latino-web.mkv
 http://vod.tuxchannel.tv:80/peliculas/720/subtituladas/boss%20level%202021%20sub.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/20/02/12/13/25/0170479.jpg" group-title="2020",Countdown: La hora de tu muerte (2020)
+http://201.172.61.81:82/peliculas/022020/Countdown%20(2019).mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91mA8lY5voL._RI_.jpg" group-title="2020",En modo asesino (2020)
 http://archive.org/download/en.-modo.-asesino.-2021.1080-p-dual-lat-cine-calidad.-com/En.Modo.Asesino.2021.1080P-Dual-Lat-Cine-Calidad.Com.mp4
 #EXTINF:-1 tvg-logo="https://images.moviefit.me/t/o/427325-caleb.jpg" group-title="2020",Caleb (2020)
@@ -844,8 +846,10 @@ http://201.172.61.81:85/peliculas/4K/*Artemis.Fowl.2020.mp4
 http://vod.tuxchannel.tv/peliculas/720/nadie%20sabe%20que%20estoy%20aqui%202020.mkv
 #EXTINF:-1 tvg-logo="https://www.ftp-impact.net/wp-content/uploads/2020/07/El-Medallon-De-La-Llorona-2020-Poster-V2.jpg" group-title="2020",El medallón de la llorona (2020)
 http://vod.tuxchannel.tv/peliculas/720/el%20medallon%20de%20la%20llorona%202020.mkv
-#EXTINF:-1 tvg-logo="https://cinetux.nu/wp-content/uploads/2020/08/qptLj4WxATqp3MZq97JmhYjtc9B.jpg" group-title="2020",Solterisima (2020)
+#EXTINF:-1 tvg-logo="https://cinetux.nu/wp-content/uploads/2020/08/qptLj4WxATqp3MZq97JmhYjtc9B.jpg" group-title="2020",Solterisima (2020) MKV
 http://vod.tuxchannel.tv/peliculas/720/seriously%20single%202020.mkv
+#EXTINF:-1 tvg-logo="https://cinetux.nu/wp-content/uploads/2020/08/qptLj4WxATqp3MZq97JmhYjtc9B.jpg" group-title="2020",Solterisima (2020)
+http://201.172.61.81:82/peliculas/022020/Solter%c3%adsima%20(2020).mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/07/15/16/50/4979729.jpg" group-title="2020",Proyecto power (2020)
 http://vod.tuxchannel.tv/peliculas/720/project%20power%202020.mkv
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/20/06/15/09/53/3697568.jpg" group-title="2020",Greyhound: en la mira del enemigo (2020)
@@ -1000,6 +1004,40 @@ http://vod.tuxchannel.tv/peliculas/720/half%20brothers%202020.mkv
 http://vod.tuxchannel.tv/peliculas/720/wszyscy%20moi%20przyjaciele%20nie%20zyja%202020.mkv
 
 
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/19/03/07/17/41/4449901.jpg" group-title="2019",El Complot Mongol (2019)
+http://201.172.61.81:82/peliculas/19%2010%2019/*El%20Complot%20Mongol%20(2019)S.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/09/02/18/31/3645736.jpg" group-title="2019",El convento (2019)
+http://201.172.61.81:82/peliculas/19%2010%2019/*El.convento.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71aXt8YAxjL._RI_.jpg" group-title="2019",Dos mejor que una (2019)
+http://201.172.61.81:82/peliculas/19%2010%2019/*Dos.mejor.que.una.2019.AMZNe.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/19/07/15/12/18/0447886.jpg" group-title="2019",Dora y la Ciudad Perdida (2019)
+http://201.172.61.81:82/peliculas/19%2010%2019/*Dora.y.la.Ciudad.Perdida.2019.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/07/30/09/10/3010010.jpg" group-title="2019",Don't Let Go (2019)
+http://201.172.61.81:82/peliculas/19%2010%2019/*Don't.Let.Go.2019.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/19/09/31/5727477.jpg" group-title="2019",Yo soy Dolemite (2019)
+http://201.172.61.81:82/peliculas/19%2010%2019/*Dolemite.Is.My.Name.2019.NFe.mp4
+#EXTINF:-1 tvg-logo="https://d1aid1ai1ve9l.cloudfront.net/capasm/42188969.jpg" group-title="2019",Desenmascarando A Jihadi John (2019)
+http://201.172.61.81:82/peliculas/19%2010%2019/*Desenmascarando.A.Jihadi.John_.Anatoma.De.Un.ista.2019e.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/12/03/10/18/0854632.jpg" group-title="2019",Crypto (2019)
+http://201.172.61.81:82/peliculas/19%2010%2019/*Crypto.2019.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/07/06/00/47/2576310.jpg" group-title="2019",Brian Banks (2019)
+http://201.172.61.81:82/peliculas/19%2010%2019/*Brian%20Banks%20(2019).mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/c_310_420/pictures/19/10/28/10/04/5423320.jpg" group-title="2019",Banlieusards: Flow callejero (2019)
+http://201.172.61.81:82/peliculas/19%2010%2019/*Banlieusards.2019.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/09/30/18/36/1959343.jpg" group-title="2019",Assimilate: La invasión (2019)
+http://201.172.61.81:82/peliculas/19%2010%2019/*Assimilate%20(2019).mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/05/15/09/49/4838661.jpg" group-title="2019",Asesinos anónimos (2019)
+http://201.172.61.81:82/peliculas/19%2010%2019/*Asesinos%20An%c3%b3nimos%20(2019)e.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/07/30/11/37/2253538.jpg" group-title="2019",Objetivo: Washington D.C. (2019)
+http://201.172.61.81:82/peliculas/19%2010%2019/*Angel.Has.Fallen.2019.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/11/04/09/09/3692068.jpg" group-title="2019",American Son (2019)
+http://201.172.61.81:82/peliculas/19%2010%2019/*American.Son.2019.NFve.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/10/28/22/01/0818170.jpg" group-title="2019",Al volante (2019)
+http://201.172.61.81:82/peliculas/19%2010%2019/*Al%20Volante%20(2019).mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/09/17/17/14/1920156.jpg" group-title="2019",Secretos de Estado (2019)
+http://201.172.61.81:82/peliculas/022020/Secretos%20de%20Estado%20(2019).mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/20/03/13/01/11/3264230.jpg" group-title="2019",Mientras dure la guerra (2019) CASTELLANO
+http://201.172.61.81:82/peliculas/022020/Mientras%20dure%20la%20guerra%20(2019).mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/09/18/15/14/2665937.jpg" group-title="2019",La habitación (2019)
 http://tioflix.com:80/carpeta1/The.room.2019.1080p-dual-lat-cinecalidad.is.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51Ut9YRw79L.jpg" group-title="2019",Acceleration: Aceleracion maxima (2019)
@@ -1198,6 +1236,14 @@ http://vod.tuxchannel.tv/peliculas/720/mama%20al%20volante%202019.mkv
 http://tux-vod.dynu.com:80/peliculas/720/the%20kid%20who%20would%20be%20king%202018.mkv
 
 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TYeo0XYlL._RI_.jpg" group-title="2018",Deadsight (2018)
+http://201.172.61.81:82/peliculas/19%2010%2019/*Deadsight%20(2018).mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/07/29/14/17/3258878.jpg" group-title="2018",Driven: El origen de la leyenda (2018)
+http://201.172.61.81:82/peliculas/022020/Driven_%20El%20origen%20de%20la%20leyenda%20(2018).mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/01/28/20/01/1295824.jpg" group-title="2018",Dos veces tú (2018)
+http://201.172.61.81:82/peliculas/022020/Dos%20veces%20t%c3%ba%20(2018).mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/18/12/12/18/26/1366491.jpg" group-title="2018",Eliminar amigo 2 (2018)
+http://201.172.61.81:82/peliculas/012020/*Eliminado%20Amigo%202%20(2018).mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/05/08/19/41/4913760.jpg" group-title="2018",Killerman (2018)
 http://archive.org/download/killerman_20210623/killerman.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/05/23/11/47/5274268.jpg" group-title="2018",Misión Imposible: Fallout (2018)
@@ -1302,6 +1348,10 @@ http://201.172.61.203:88/Peliculas/Marzo%20Abril/WhenWeFirstMet2018.mp4
 http://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
 
 
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/c_310_420/pictures/17/11/10/13/58/4846994.jpg" group-title="2017",Thi Mai: Rumbo a Vietnam (2017) CASTELLANO
+http://201.172.61.81:82/peliculas/022020/Thi%20Mai%20rumbo%20a%20Vietnam%20(2017).mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/16/06/03/10/37/384098.jpg" group-title="2017",La cabaña (2017)
+http://201.172.61.81:82/peliculas/012020/*The%20Shack%20(2017).mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/10/26/08/50/198471.jpg" group-title="2017",John Wick 2: Pacto de sangre (2017)
 http://archive.org/download/john-wick-2_202107/John%20Wick%202.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/06/08/12/57/135752.jpg" group-title="2017",A 47 metros (2017)
@@ -1406,6 +1456,12 @@ http://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
 http://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
 
 
+#EXTINF:-1 tvg-logo="https://mega-mkv.com/wp-content/uploads/2017/11/asesino-2016.jpg" group-title="2016",Un asesino entre nosotros (2016)
+http://201.172.61.81:82/peliculas/19%2010%2019/*El%20Asesino%20est%c3%a1%20entre%20Nosotros%20(2016)S.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/02/04/15/49/599815.jpg" group-title="2016",Antes de ti (2016)
+http://201.172.61.81:82/peliculas/19%2010%2019/*Antes%20de%20ti%20(2016).mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/20/02/02/04/44/3004870.jpg" group-title="2016",Un amor muy conveniente (2016)
+http://201.172.61.81:82/peliculas/022020/Un%20amor%20muy%20conveniente%20(2016).mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/05/31/14/00/014966.jpg" group-title="2016",Infierno Azul (2016)
 http://archive.org/download/infierno-azul/Infierno%20azul.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/04/22/09/02/1137018.jpg" group-title="2016",Moana: Un mar de aventuras (2016)
@@ -1490,7 +1546,10 @@ http://ia801603.us.archive.org/20/items/24052017Aqc789423784723984/24052017_aqc.
 http://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
 
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6dRdw20BUiiiOP9pdkkTMYzSWrD.jpg" group-title="2015",Amigo Zombie (2015)
+http://201.172.61.81:82/peliculas/19%2010%2019/*Amigo.Undead.2015.mp4
+#EXTINF:-1 tvg-logo="https://peliculascristianas.es/wp-content/uploads/2018/09/5QlSqu03pABknlQtbJkHiAnzHrS-200x300.jpg" group-title="2015",Cuarto de Guerra (2015)
+http://201.172.61.81:82/peliculas/012020/*War%20Room%20(2015).mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81TRv9OP0ZL._SL1500_.jpg" group-title="2015",Escupire sobre tu tumba 3 (2015)
 http://archive.org/download/escupire-sobre-tu-tumba-3.-scor-pion-s-093/Escupire%20Sobre%20Tu%20Tumba%203.%20SCorPIonS093.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/15/09/01/10/52/518696.jpg" group-title="2015",El Becario (2015)
@@ -1547,6 +1606,12 @@ http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
 http://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/88/71/56/20001247.jpg" group-title="Peliculas Viejas",Chronicle (2012)
+http://201.172.61.81:82/peliculas/19%2010%2019/*Chronicle__2012.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/91/34/61/20140977.jpg" group-title="Peliculas Viejas",Bowfinger: El pícaro (1999)
+http://201.172.61.81:82/peliculas/19%2010%2019/*Bowfinger.1999.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81olqXoz3eL._SY445_.jpg" group-title="Peliculas Viejas",Ace Ventura: Un detective diferente (1994)
+http://201.172.61.81:82/peliculas/19%2010%2019/*Ace%20Ventura,%20Detective%20de%20Mascotas%20(1994).mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/medias/nmedia/18/67/20/19/20237425.jpg" group-title="Peliculas Viejas",Alien vs Depredador 2 (2007)
 http://mataocio-cdn-7.mataocio-cdn7.workers.dev/Pack%25201/ALIEN%2520VS%2520DEPREDAROR%25202.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/14/12/09/12/33/043889.jpg" group-title="Peliculas Viejas",Mi Amigo Fluke (1995)
@@ -1669,6 +1734,8 @@ http://archive.org/download/rocky-6/Rocky%205.mp4
 http://archive.org/download/rocky-6/Rocky%206.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/12/91/7d/12917df059910ad4c783586da6ab9328.jpg" group-title="Peliculas Viejas",Escape a la Victoria (1981) CASTELLANO
 http://archive.org/download/evasion-o-victoria/Evasi%C3%B3n-o-victoria.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/78/40/97/20427678.jpg" group-title="Peliculas Viejas",Asesinos (1995)
+http://201.172.61.81:82/peliculas/19%2010%2019/*Asesinos%20(1995.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/78/40/97/20427678.jpg" group-title="Peliculas Viejas",Asesinos (1995) CASTELLANO
 http://archive.org/download/asesinos_202104/Asesinos.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/94/48/75/20333105.jpg" group-title="Peliculas Viejas",XXL (2004) CASTELLANO
