@@ -1250,6 +1250,10 @@ http://vod.tuxchannel.tv/peliculas/720/mama%20al%20volante%202019.mkv
 http://tux-vod.dynu.com:80/peliculas/720/the%20kid%20who%20would%20be%20king%202018.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/12/09/00/3812207.jpg" group-title="2018",La horca 2 (2018)
+http://201.172.61.81:82/peliculas/19%2010%2019/*La%20Horca%202%20(2019).mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/10/02/08/25/4579421.jpg" group-title="2018",Jinn (2018)
+http://201.172.61.81:82/peliculas/19%2010%2019/*Jinn%20(2018.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/18/09/04/22/57/0957679.jpg" group-title="2018",Hasta los dientes (2018)
 http://201.172.61.81:82/peliculas/19%2010%2019/*Hasta%20los%20Dientes%20(2018)S.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/30/16/48/5382640.jpg" group-title="2018",Grace (2018)
