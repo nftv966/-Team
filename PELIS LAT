@@ -1236,6 +1236,8 @@ http://vod.tuxchannel.tv/peliculas/720/mama%20al%20volante%202019.mkv
 http://tux-vod.dynu.com:80/peliculas/720/the%20kid%20who%20would%20be%20king%202018.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/11/20/18/34/1856210.jpg" group-title="2018",El regreso de Mary Poppins (2018)
+http://201.172.61.81:82/peliculas/19%2010%2019/*El%20Regreso%20de%20Mary%20Poppins.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TYeo0XYlL._RI_.jpg" group-title="2018",Deadsight (2018)
 http://201.172.61.81:82/peliculas/19%2010%2019/*Deadsight%20(2018).mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/07/29/14/17/3258878.jpg" group-title="2018",Driven: El origen de la leyenda (2018)
@@ -1546,6 +1548,8 @@ http://ia801603.us.archive.org/20/items/24052017Aqc789423784723984/24052017_aqc.
 http://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/04/20/12/29/383253.jpg" group-title="2015",El bosque de los sueños (2015)
+http://201.172.61.81:82/peliculas/19%2010%2019/*El%20bosque%20de%20los%20sue%c3%b1os%20(2015.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6dRdw20BUiiiOP9pdkkTMYzSWrD.jpg" group-title="2015",Amigo Zombie (2015)
 http://201.172.61.81:82/peliculas/19%2010%2019/*Amigo.Undead.2015.mp4
 #EXTINF:-1 tvg-logo="https://peliculascristianas.es/wp-content/uploads/2018/09/5QlSqu03pABknlQtbJkHiAnzHrS-200x300.jpg" group-title="2015",Cuarto de Guerra (2015)
@@ -1606,6 +1610,8 @@ http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
 http://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/04/15/10/46/568345.jpg" group-title="Peliculas Viejas",El Resplandor (1980)
+http://201.172.61.81:82/peliculas/19%2010%2019/*El%20Resplandor%20(1980.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/88/71/56/20001247.jpg" group-title="Peliculas Viejas",Chronicle (2012)
 http://201.172.61.81:82/peliculas/19%2010%2019/*Chronicle__2012.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/91/34/61/20140977.jpg" group-title="Peliculas Viejas",Bowfinger: El pícaro (1999)
