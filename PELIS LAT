@@ -1004,6 +1004,10 @@ http://vod.tuxchannel.tv/peliculas/720/half%20brothers%202020.mkv
 http://vod.tuxchannel.tv/peliculas/720/wszyscy%20moi%20przyjaciele%20nie%20zyja%202020.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/11/14/17/3504918.jpg" group-title="2019",Serpiente de cascavel (2019)
+http://201.172.61.81:82/peliculas/19%2010%2019/*Rattlesnake.2019.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81365WDk-mL._RI_.jpg" group-title="2019",Phil (2019)
+http://201.172.61.81:82/peliculas/19%2010%2019/*Phil.2019.AMZN2.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/19/10/28/22/37/5117528.jpg" group-title="2019",Paradise Beach (2019)
 http://201.172.61.81:82/peliculas/19%2010%2019/*Paradise%20Beach%202019%20NF.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/23/15/57/0534463.jpg" group-title="2019",Noelle (2019)
