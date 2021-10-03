@@ -496,6 +496,8 @@ http://149.56.13.137:999/PELISSD/boss-level-2021-Latino-web.mkv
 http://vod.tuxchannel.tv:80/peliculas/720/subtituladas/boss%20level%202021%20sub.mkv
 
 
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/01/06/08/08/3717977.jpg" group-title="2020",A Traicion (2020)
+http://201.172.61.81:82/peliculas/19%2011%2019/*A%20Fall%20from%20Grace%20(2020).mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/20/02/12/13/25/0170479.jpg" group-title="2020",Countdown: La hora de tu muerte (2020)
 http://201.172.61.81:82/peliculas/022020/Countdown%20(2019).mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91mA8lY5voL._RI_.jpg" group-title="2020",En modo asesino (2020)
@@ -1004,6 +1006,10 @@ http://vod.tuxchannel.tv/peliculas/720/half%20brothers%202020.mkv
 http://vod.tuxchannel.tv/peliculas/720/wszyscy%20moi%20przyjaciele%20nie%20zyja%202020.mkv
 
 
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/11/14/05/48/2021239.jpg" group-title="2019",Abigail y la ciudad perdida (2019)
+http://201.172.61.81:82/peliculas/19%2011%2019/*Abigail.y.La.Ciudad.Perdida.2019.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/2a/53/74/2a5374f0baff83486d7e932dfc26e18d.jpg" group-title="2019",Una violenta separacion (2019)
+http://201.172.61.81:82/peliculas/19%2011%2019/*A%20Violent%20Separation.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/66/69/82/20350782.jpg" group-title="2019",10.000 A.C. (2019)
 http://201.172.61.81:82/peliculas/19%2011%2019/*10,000.BC.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/02/14/12/4489731.jpg" group-title="2019",Embarazo Alien (2019)
