@@ -1004,6 +1004,12 @@ http://vod.tuxchannel.tv/peliculas/720/half%20brothers%202020.mkv
 http://vod.tuxchannel.tv/peliculas/720/wszyscy%20moi%20przyjaciele%20nie%20zyja%202020.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/66/69/82/20350782.jpg" group-title="2019",10.000 A.C. (2019)
+http://201.172.61.81:82/peliculas/19%2011%2019/*10,000.BC.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/02/14/12/4489731.jpg" group-title="2019",Embarazo Alien (2019)
+http://201.172.61.81:82/peliculas/19%2011%2019/*9Snatchers.2019.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/11/14/15/48/4049173.jpg" group-title="2019",6 en la sombra (2019)
+http://201.172.61.81:82/peliculas/19%2011%2019/*6.Underground.2019.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/05/08/14/59/0625763.jpg" group-title="2019",La influencia (2019) CASTELLANO
 http://201.172.61.81:82/peliculas/19%2010%2019/*la%20influencia.2019.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/10/09/14/16/5654336.jpg" group-title="2019",Upstarts (2019)
@@ -1678,6 +1684,8 @@ http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
 http://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 
 
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/c_310_420/pictures/18/10/05/00/01/1103522.jpg" group-title="Peliculas Viejas",Como si fuera la primera vez (2004)
+http://201.172.61.81:82/peliculas/19%2011%2019/*50%20primeras%20citas%20(2004).mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61G-bVvGpkL._AC_SY741_.jpg" group-title="Peliculas Viejas",El Club de los cinco (1985)
 http://201.172.61.81:82/peliculas/19%2010%2019/*The_Breakfast_Club__1985.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/86/81/04/19957025.jpg" group-title="Peliculas Viejas",El coleccionista (2009)
