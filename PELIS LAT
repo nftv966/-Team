@@ -1004,6 +1004,8 @@ http://vod.tuxchannel.tv/peliculas/720/half%20brothers%202020.mkv
 http://vod.tuxchannel.tv/peliculas/720/wszyscy%20moi%20przyjaciele%20nie%20zyja%202020.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/19/10/28/22/37/5117528.jpg" group-title="2019",Paradise Beach (2019)
+http://201.172.61.81:82/peliculas/19%2010%2019/*Paradise%20Beach%202019%20NF.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/23/15/57/0534463.jpg" group-title="2019",Noelle (2019)
 http://201.172.61.81:82/peliculas/19%2010%2019/*Noelle.2019e.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/07/12/01/19/4900063.jpg" group-title="2019",Mi amigo Enzo (2019)
@@ -1648,6 +1650,8 @@ http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
 http://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/89/70/21/20062737.jpg" group-title="Peliculas Viejas",Orgullo y Prejuicio (2005)
+http://201.172.61.81:82/peliculas/19%2010%2019/*Orgullo%20y%20prejuicio%20(2005).mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/90/19/77/20085362.jpg" group-title="Peliculas Viejas",Los Angeles de Charlie (2000)
 http://201.172.61.81:82/peliculas/19%2010%2019/*Los.Angeles.de.Charlie.2000.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/67/26/03/20168548.jpg" group-title="Peliculas Viejas",Las hermanas Bolena (2008)
