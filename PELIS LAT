@@ -496,6 +496,8 @@ http://149.56.13.137:999/PELISSD/boss-level-2021-Latino-web.mkv
 http://vod.tuxchannel.tv:80/peliculas/720/subtituladas/boss%20level%202021%20sub.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/29/10/48/2864793.jpg" group-title="2020",Isi y Ossi (2020)
+http://201.172.61.81:82/peliculas/19%2011%2019/*Isi%20&%20Ossi%20(2020).mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/22/09/02/0356928.jpg" group-title="2020",Horse Girl (2020)
 http://201.172.61.81:82/peliculas/19%2011%2019/*Horse%20Girl%20(2020).mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/11/22/00/39/4534283.jpg" group-title="2020",Cindy La Regia (2020)
@@ -1012,6 +1014,18 @@ http://vod.tuxchannel.tv/peliculas/720/half%20brothers%202020.mkv
 http://vod.tuxchannel.tv/peliculas/720/wszyscy%20moi%20przyjaciele%20nie%20zyja%202020.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/08/01/10/23/4884537.jpg" group-title="2019",Jugando con fuego (2019)
+http://201.172.61.81:82/peliculas/19%2011%2019/*Jugando%20con%20fuego.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/19/12/23/16/22/5381874.jpg" group-title="2019",Jexi: un celular sin filtro (2019)
+http://201.172.61.81:82/peliculas/19%2011%2019/*Jexi.2019.1080.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/11/26/11/37/1446452.jpg" group-title="2019",Inherit The Viper (2019)
+http://201.172.61.81:82/peliculas/19%2011%2019/*Inherit.the.Viper.2019.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81INmaTzmqL._RI_.jpg" group-title="2019",Incriminando a John DeLorean (2019)
+http://201.172.61.81:82/peliculas/19%2011%2019/*Incriminando%20a%20John%20DeLorean.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/10/31/00/12/2962466.jpg" group-title="2019",Cómo Entrenar a tu Dragón: Regreso a Casa (2019)
+http://201.172.61.81:82/peliculas/19%2011%2019/*How.To.Train.Your.Dragon.Homecoming.2019.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/11/07/12/37/3731749.jpg" group-title="2019",Prisionero en casa (2019)
+http://201.172.61.81:82/peliculas/19%2011%2019/*House.Arrest.2019.NF.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/19/09/18/09/12/3255514.jpg" group-title="2019",Harriet (2019)
 http://201.172.61.81:82/peliculas/19%2011%2019/*Harriet.2019..mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/08/19/09/46/4750800.jpg" group-title="2019",Guadalupe Reyes (2019)
@@ -1159,6 +1173,8 @@ http://201.172.61.81:82/peliculas/19%2010%2019/*Eli%20(2019)%20NFe.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/19/09/16/10/59/2369381.jpg" group-title="2019",Eli (2019)
 http://archive.org/download/eli_20210428/eli.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/15/08/57/1315853.jpg" group-title="2019",Estafadoras de Wall Street (2019)
+http://201.172.61.81:82/peliculas/19%2011%2019/*Hustlers.2019.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/15/08/57/1315853.jpg" group-title="2019",Estafadoras de Wall Street (2019)
 http://archive.org/download/estafadoras/estafadoras.mp4
 #EXTINF:-1 tvg-logo="https://i0.wp.com/cinetux.nu/wp-content/uploads/2021/04/fvFVsIO73JmVTPlFCT2eeKHH72k.jpg" group-title="2019",La Porrista perfecta (2019)
 http://archive.org/download/porrista/porrista.mp4
@@ -1170,6 +1186,8 @@ http://archive.org/download/telnet_202104/siervos%20de%20guerra.mp4
 http://archive.org/download/te-veo-i-see-you-2019/Te%20veo%20-%20I%20See%20You%20%282019%29.mp4
 #EXTINF:-1 tvg-logo="https://fr.web.img4.acsta.net/c_310_420/pictures/20/01/08/15/35/1713889.jpg" group-title="2019",Robo: Mi amigo robot (2019)
 http://archive.org/download/infantiles_20210310/Robo-2019.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/07/30/09/09/0763744.jpg" group-title="2019",It 2 (2019)
+http://201.172.61.81:82/peliculas/19%2011%2019/*IT2.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/07/30/09/09/0763744.jpg" group-title="2019",It 2 (2019)
 http://archive.org/download/ghostbusters.-2016.1080p.extended-dual-lat/It%20Cap%C3%ADtulo%202.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/03/11/09/01/4673291.jpg" group-title="2019",El silencio (2019)
