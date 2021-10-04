@@ -1010,6 +1010,18 @@ http://vod.tuxchannel.tv/peliculas/720/half%20brothers%202020.mkv
 http://vod.tuxchannel.tv/peliculas/720/wszyscy%20moi%20przyjaciele%20nie%20zyja%202020.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/22/14/58/3824767.jpg" group-title="2019",El juego más frío (2019)
+http://201.172.61.81:82/peliculas/19%2011%2019/*El%20juego%20mas%20frio%20(2019).mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/16/18/04/3205974.jpg" group-title="2019",El irlandés (2019)
+http://201.172.61.81:82/peliculas/19%2011%2019/*El%20irland%c3%a9s%20(2019).mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/18/19/1219867.jpg" group-title="2019",Elcano y Magallanes (2019) CASTELLANO
+http://201.172.61.81:82/peliculas/19%2011%2019/*Elcano_y_Magallanes__la_primera_vuelta_al_mundo__2019.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71hW01U9uWL._RI_.jpg" group-title="2019",El Equipito (2019)
+http://201.172.61.81:82/peliculas/19%2011%2019/*Elcano_y_Magallanes__la_primera_vuelta_al_mundo__2019.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71hW01U9uWL._RI_.jpg" group-title="2019",El Equipito (2019)
+http://201.172.61.81:82/peliculas/19%2011%2019/*El%20Equipito%20(2019).mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/05/30/10/06/0948049.jpg" group-title="2019",El jilguero (2019)
+http://201.172.61.81:82/peliculas/19%2011%2019/*El.jilguero.2019.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/05/27/12/17/3568868.jpg" group-title="2019",Downton Abbey (2019)
 http://201.172.61.81:82/peliculas/19%2011%2019/*Downton%20Abbey%20(2019).mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91gVNKMFSbS._RI_.jpg" group-title="2019",Amistad mortal (2019)
@@ -1322,6 +1334,8 @@ http://vod.tuxchannel.tv/peliculas/720/mama%20al%20volante%202019.mkv
 http://tux-vod.dynu.com:80/peliculas/720/the%20kid%20who%20would%20be%20king%202018.mkv
 
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81hZU5Npc4L._SY445_.jpg" group-title="2018",El caso Willingham (2018)
+http://201.172.61.81:82/peliculas/19%2011%2019/*El%20cazo%20de%20willingham.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61E1NrSRCXL._SL1000_.jpg" group-title="2018",Asilo del miedo (2018)
 http://201.172.61.81:82/peliculas/19%2011%2019/*Asylum.of.Fear.2018.mp4
 #EXTINF:-1 tvg-logo="https://openpelis.net/imagenes/pelis/2019-10-31-5599109020.jpg" group-title="2018",El cuarto blanco (2018)
