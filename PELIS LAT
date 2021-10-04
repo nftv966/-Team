@@ -1010,6 +1010,14 @@ http://vod.tuxchannel.tv/peliculas/720/half%20brothers%202020.mkv
 http://vod.tuxchannel.tv/peliculas/720/wszyscy%20moi%20przyjaciele%20nie%20zyja%202020.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/05/27/12/17/3568868.jpg" group-title="2019",Downton Abbey (2019)
+http://201.172.61.81:82/peliculas/19%2011%2019/*Downton%20Abbey%20(2019).mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91gVNKMFSbS._RI_.jpg" group-title="2019",Amistad mortal (2019)
+http://201.172.61.81:82/peliculas/19%2011%2019/*Deadly%20Influencer%20(2019).mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91EuzPJOhQL._RI_.jpg" group-title="2019",Aguas mortales (2019)
+http://201.172.61.81:82/peliculas/19%2011%2019/*Dead%20Water%20(2019).mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/19/11/25/12/45/2762070.jpg" group-title="2019",Dead Kids (2019)
+http://201.172.61.81:82/peliculas/19%2011%2019/*Dead.Kids.2019.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/c_310_420/pictures/19/11/18/17/42/1365190.jpg" group-title="2019",Como caído del cielo (2019)
 http://201.172.61.81:82/peliculas/19%2011%2019/*Como.Cado.Del.Cielo.2019.N.mp4
 #EXTINF:-1 tvg-logo="https://openpelis.net/imagenes/pelis/2019-11-29-7533503985.jpg" group-title="2019",Boonie Bears: El Rescate (2019)
@@ -1714,6 +1722,10 @@ http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
 http://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/83/07/00/20435993.jpg" group-title="Peliculas Viejas",Daniel el travieso (1993)
+http://201.172.61.81:82/peliculas/19%2011%2019/*%20Daniel%20el%20travieso%20(1993)s.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51QD1S0ARQL.jpg" group-title="Peliculas Viejas",Daniel el travieso: Sálvese quien pueda (1998)
+http://201.172.61.81:82/peliculas/19%2011%2019/*Daniel%20el%20travieso%20ataca%20de%20nuevo.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/c_310_420/pictures/18/10/05/00/01/1103522.jpg" group-title="Peliculas Viejas",Como si fuera la primera vez (2004)
 http://201.172.61.81:82/peliculas/19%2011%2019/*50%20primeras%20citas%20(2004).mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61G-bVvGpkL._AC_SY741_.jpg" group-title="Peliculas Viejas",El Club de los cinco (1985)
