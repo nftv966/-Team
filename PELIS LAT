@@ -1014,6 +1014,22 @@ http://vod.tuxchannel.tv/peliculas/720/half%20brothers%202020.mkv
 http://vod.tuxchannel.tv/peliculas/720/wszyscy%20moi%20przyjaciele%20nie%20zyja%202020.mkv
 
 
+#EXTINF:-1 tvg-logo="https://fr.web.img6.acsta.net/pictures/19/07/10/15/57/3153324.jpg" group-title="2019",Jugar o morir (2019)
+http://201.172.61.81:82/peliculas/19%2011%2019/*Play.or.Die.2019.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/09/06/21/57/2660464.png" group-title="2019",Placa de Acero (2019)
+http://201.172.61.81:82/peliculas/19%2011%2019/*Placa.de.Acero.mp4
+#EXTINF:-1 tvg-logo="https://cdn.colombia.com/cine/2019/2/537d6338e09b41af9376c583ab209c00.jpg" group-title="2019",Palau (2019)
+http://201.172.61.81:82/peliculas/19%2011%2019/*Palau.2019.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/img/d6/7e/d67e91377a52b564b8e106b7c6b70a8b.jpg" group-title="2019",Vencedores (2019)
+http://201.172.61.81:82/peliculas/19%2011%2019/*Overcomer.2019.mp4
+#EXTINF:-1 tvg-logo="https://www.tuconcierto.net/wp-content/uploads/2019/10/32526-837394-20190909062437.jpg" group-title="2019",Nada que Perder: 2 (2019)
+http://201.172.61.81:82/peliculas/19%2011%2019/*Nothing.to.Lose.2.2019.NF.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/22/17/36/3324673.jpg" group-title="2019",Mr Link: El origen perdido (2019)
+http://201.172.61.81:82/peliculas/19%2011%2019/*Mr.%20Link_%20El%20origen%20perdido%20(2019).mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/77/18/df/7718df98de3e3c94f057d603e3153296.jpg" group-title="2019",Minusculos 2 (2019)
+http://201.172.61.81:82/peliculas/19%2011%2019/*Minusculos.2.2019.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/21/14/22/1409242.jpg" group-title="2019",Midsommar (2019)
+http://201.172.61.81:82/peliculas/19%2011%2019/*Midsommar%20(2019).mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/18/09/47/2461540.jpg" group-title="2019",Historia de un matrimonio (2019)
 http://201.172.61.81:82/peliculas/19%2011%2019/*Marriage.Story.2019.NF.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/03/06/16/56/5700976.jpg" group-title="2019",Mamá se fue de viaje (2019)
@@ -1728,6 +1744,8 @@ http://ia801603.us.archive.org/20/items/24052017Aqc789423784723984/24052017_aqc.
 http://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
 
 
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/abandomedia/indie/poster/db_posters_39505.jpg" group-title="2015",Secretos de una ciudad pequeña (2015)
+http://201.172.61.81:82/peliculas/19%2011%2019/*Nowhere.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/15/01/21/10/16/138096.jpg" group-title="2015",Focus (2015)
 http://201.172.61.81:82/peliculas/19%2010%2019/*Focus.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/04/20/12/29/383253.jpg" group-title="2015",El bosque de los sueños (2015)
@@ -1792,6 +1810,8 @@ http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
 http://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 
 
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/18/11/08/04/34/4593233.jpg" group-title="Peliculas Viejas",Mi pobre angelito 2: Perdido en Nueva York (1992)
+http://201.172.61.81:82/peliculas/19%2011%2019/*Mi%20pobre%20Angelito%202%20(1992).mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/04/24/13/00/353804.jpg" group-title="Peliculas Viejas",Enemigo a las puertas (2001)
 http://201.172.61.81:82/peliculas/19%2011%2019/*Enemigo%20a%20las%20puertas%20(2001).mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/83/07/00/20435993.jpg" group-title="Peliculas Viejas",Daniel el travieso (1993)
