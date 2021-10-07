@@ -49,6 +49,8 @@ https://archive.org/download/crazy.-fist/Crazy.Fist.mp4
 #EXTINF:-1 tvg-logo="https://www.wellgousa.com/sites/default/files/2021-07/CrazyFist_WellGoUSA_KeyArt_HomeEnt_812x1200.jpg" group-title="2021",Puños de Venganza (2021)
 https://archive.org/download/crazy-fist_202109/Crazy%20Fist.mp4
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/nightjarprod/content/uploads/sites/3/2021/08/10075907/cry-macho-poster.jpg" group-title="2021",Cry Macho (2021)
+https://archive.org/download/cry.-macho.-2021.lati_202110/Cry.Macho.2021.lati.mp4
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/nightjarprod/content/uploads/sites/3/2021/08/10075907/cry-macho-poster.jpg" group-title="2021",Cry Macho (2021)
 https://archive.org/download/cry.-macho.-2021.lati/Cry.Macho.2021.lati.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/85mrZBPfRXYd0Qs1Cc8o9q4WLOf.jpg" group-title="2021",El Baile de las Locas (2021)
 https://archive.org/download/el-baile-de-las-locas-2021/El%20baile%20de%20las%20locas%20%282021%29.mp4
@@ -88,8 +90,6 @@ http://51.222.153.30:9000/rombwgshgfhgdsjr/85455532potroxvix/Pel%C3%ADculas/Esca
 http://archive.org/download/ver-escape-room-2-mueres-por-salir-2021/Ver%20Escape%20Room%202%20Mueres%20por%20salir%20%282021%29.mp4
 #EXTINF:-1 tvg-logo="https://fyine.com/wp-content/uploads/2021/02/smpp.png" group-title="2021",Mission Possible (2021) CASTELLANO
 http://archive.org/download/ver-mision-posible-2021/Ver%20Misi%C3%B3n%20posible%20%282021%29.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/r_1280_720/pictures/21/06/25/10/29/2887393.jpg" group-title="2021",Beckett (2021)
-https://archive.org/download/beckett_202108/BECKETT.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/r_1280_720/pictures/21/06/25/10/29/2887393.jpg" group-title="2021",Beckett (2021)
 https://archive.org/download/beckett_202109/Beckett.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/08/05/23/59/1076697.jpg" group-title="2021",Peligro en tu mirada (2021)
@@ -1258,6 +1258,8 @@ http://archive.org/download/porrista/porrista.mp4
 http://archive.org/download/geo-tormenta/Dedicada%20a%20mi%20ex.mp4
 #EXTINF:-1 tvg-logo="https://newpelis.nl/wp-content/uploads/2021/04/ybiMxJGJNIStlB4kZdpMAQlzMsJ.jpg" group-title="2019",Siervos de la guerra (2019)
 http://archive.org/download/telnet_202104/siervos%20de%20guerra.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/22/11/39/3058557.jpg" group-title="2019",Te veo (2019)
+https://archive.org/download/te-veo-2019/Te%20veo%20%282019%29.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/22/11/39/3058557.jpg" group-title="2019",Te veo (2019)
 http://archive.org/download/te-veo-i-see-you-2019/Te%20veo%20-%20I%20See%20You%20%282019%29.mp4
 #EXTINF:-1 tvg-logo="https://fr.web.img4.acsta.net/c_310_420/pictures/20/01/08/15/35/1713889.jpg" group-title="2019",Robo: Mi amigo robot (2019)
