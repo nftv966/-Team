@@ -6,8 +6,13 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/10/08/20/32/2896131.jpg" group-title="2021",Te llevo conmigo (2021)
-https://archive.org/download/te-llevo-conmigo/Te%20llevo%20conmigo.mp4
+
+#EXTINF:-1 tvg-logo="https://images.moviefit.me/t/o/394769-ria.jpg" group-title="2021",R.I.A.: Programada para matar (2021)
+https://archive.org/download/r.-i.-a.-lat.-720p-mx/R.I.A.LAT.720p%20-%20MX.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/21/09/10/19/06/0202266.jpg" group-title="2021",Aislados (2021)
+https://archive.org/download/ilhados-movie-x/Ilhados%20-%20MovieX.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/08/25/10/55/2823897.jpg" group-title="2021",Schumacher (2021)
+https://archive.org/download/schumacher-movie-x/Schumacher%20-%20MovieX.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/02/10/18/17/2264937.png" group-title="2021",A Writer's Odyssey (2021)
 https://archive.org/download/a-writers-odyssey-480p/A%20Writer%27s%20Odyssey%20480p.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/07/01/10/41/2900966.jpg" group-title="2021",Demonic: En la mente del Demonio (2021)
@@ -515,6 +520,9 @@ http://149.56.13.137:999/PELISSD/boss-level-2021-Latino-web.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/11/24/09/22/4044266.jpg" group-title="2021",Boss Level: Un dia mas para morir (2021)
 https://archive.org/download/ver-muere-otra-vez/Ver%20Muere%20otra%20vez.mp4
 
+
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/10/08/20/32/2896131.jpg" group-title="2020",Te llevo conmigo (2020)
+https://archive.org/download/te-llevo-conmigo/Te%20llevo%20conmigo.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/12/22/12/18/0709079.jpg" group-title="2020",El olvido que seremos (2020)
 https://archive.org/download/el-olvido-que-seremos-720p/El%20olvido%20que%20seremos%20720p.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/FVU9HZ87VfYMe5vIJvM3hFTG5i.jpg" group-title="2020",Superman: Hijo rojo (2020)
