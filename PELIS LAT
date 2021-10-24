@@ -6,6 +6,8 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/08/10/12/37/3505433.jpg" group-title="2021",Duna (2021)
+https://archive.org/download/duna_20211023/Duna.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/06/01/12/28/3719099.jpg" group-title="2021",La casa de la noche (2021)
 https://archive.org/download/la-casa-de-la-noche-2021-1080p-104/la%20casa%20de%20la%20noche%202021%201080p_104.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/07/18/15/5260004.jpg" group-title="2021",La Familia Addams 2: La gran escapada (2021)
