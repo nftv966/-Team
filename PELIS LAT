@@ -6,8 +6,18 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://images.moviefit.me/t/o/573312-shark-beach-with-chris-hemsworth.jpg" group-title="2021",Playa de tiburones con Chris Hemsworth
+http://vod.tuxchannel.tv:80/peliculas/720/shark%20beach%20with%20chris%20hemsworth%202021.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/21/08/24/11/03/3661805.png" group-title="2021",Prisioneros del Ghostland  (2021) SUB
+http://vod.tuxchannel.tv:80/peliculas/720/subtituladas/prisoners%20of%20the%20ghostland%202021%20sub.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/21/08/24/11/03/3661805.png" group-title="2021",Barbie: Gran ciudad, Grandes sueños (2021)
+http://vod.tuxchannel.tv:80/peliculas/720/barbie%20big%20city%20big%20dreams%202021.mkv
+#EXTINF:-1 tvg-logo="https://www.soundtrack.net/img/movie/60345.jpg" group-title="2021",Dead in the Water: Aguas negras (2021)
+http://vod.tuxchannel.tv:80/peliculas/720/dead%20in%20the%20water%202021.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/08/10/12/37/3505433.jpg" group-title="2021",Duna (2021)
 https://archive.org/download/duna_20211023/Duna.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/08/10/12/37/3505433.jpg" group-title="2021",Duna (2021)
+http://51.222.153.30:9000/rombwgshgfhgdsjr/85455532potroxvix/Pel%C3%ADculas/Dune%202021HD.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/06/01/12/28/3719099.jpg" group-title="2021",La casa de la noche (2021)
 https://archive.org/download/la-casa-de-la-noche-2021-1080p-104/la%20casa%20de%20la%20noche%202021%201080p_104.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/07/18/15/5260004.jpg" group-title="2021",La Familia Addams 2: La gran escapada (2021)
@@ -82,6 +92,8 @@ https://archive.org/download/candyman-2021/Candyman%20%282021%29.mp4
 https://archive.org/download/old-2021-dual-hq/Old%20%282021%29%20DUAL%20-%20HQ.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/05/31/14/52/2386237.jpg" group-title="2021",Tiempo (2021)
 https://archive.org/download/tiempo-2021/Tiempo%20%282021%29.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/05/31/14/52/2386237.jpg" group-title="2021",Tiempo (2021) MKV
+http://vod.tuxchannel.tv:80/peliculas/720/old%202021.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_multi_faces//1bkcOEt4zvc5tBl6xFxTbkSqhEQ.jpg" group-title="2021",La fiesta del más allá (2021)
 https://archive.org/download/la-fiesta-del-mas-alla-2021-movie-x/La%20fiesta%20del%20m%C3%A1s%20all%C3%A1%20%282021%29%20-%20MovieX.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/07/21/10/24/1216702.jpg" group-title="2021",El Rey del Fin del Mundo (2021)
@@ -92,6 +104,8 @@ https://archive.org/download/presas-de-caza-movie-x/Presas%20de%20caza%20-%20Mov
 https://archive.org/download/crazy.-fist/Crazy.Fist.mp4
 #EXTINF:-1 tvg-logo="https://www.wellgousa.com/sites/default/files/2021-07/CrazyFist_WellGoUSA_KeyArt_HomeEnt_812x1200.jpg" group-title="2021",Puños de Venganza (2021)
 https://archive.org/download/crazy-fist_202109/Crazy%20Fist.mp4
+#EXTINF:-1 tvg-logo="https://www.wellgousa.com/sites/default/files/2021-07/CrazyFist_WellGoUSA_KeyArt_HomeEnt_812x1200.jpg" group-title="2021",Puños de Venganza (2021) MKV
+http://vod.tuxchannel.tv:80/peliculas/720/crazy%20fist%202021.mkv
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/nightjarprod/content/uploads/sites/3/2021/08/10075907/cry-macho-poster.jpg" group-title="2021",Cry Macho (2021)
 https://archive.org/download/cry.-m-4ch-0.2021/Cry.M4ch0.2021.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/85mrZBPfRXYd0Qs1Cc8o9q4WLOf.jpg" group-title="2021",El Baile de las Locas (2021)
@@ -668,6 +682,8 @@ http://51.79.66.173:999/PELISSD/spare-parts-2021-Latino.mkv
 http://vod.tuxchannel.tv:80/peliculas/720/todo%20lo%20invisible%202021.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/07/07/16/35/3325113.jpg" group-title="2020",Contra el fuego (2020) CASTELANO
 http://51.79.65.232:999/PELISSD/ogon-2020-Castellano.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/8bd3b87f14f780ef45b7fef4a2f83d21f5d963a8213096df971005bf4d6ec031._RI_V_TTW_.jpg" group-title="2020",El ladrón de Rodeo (2020)
+http://vod.tuxchannel.tv:80/peliculas/720/the%20rodeo%20thief%202021.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/8bd3b87f14f780ef45b7fef4a2f83d21f5d963a8213096df971005bf4d6ec031._RI_V_TTW_.jpg" group-title="2020",El ladrón de Rodeo (2020) FLV
 https://dl.dropbox.com/s/ems0pzs37y3b77y/The%20Rodeo%20Thief.flv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81rUXIRxPBL._SY445_.jpg" group-title="2020",Liga de la Justicia Oscura: Guerra en Apokolips (2020)
