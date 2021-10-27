@@ -6,11 +6,15 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://playmax.xyz/img/c/400/331/1628725504/165320.jpg" group-title="2021",Lokillo: nada es igual  (2021)
+#EXTINF:-1 tvg-logo="https://bloghorror.com/wp-content/uploads/2021/03/The-Toll-2021-pelicula-de-terror_4.jpg" group-title="2021",The Toll (2021)
+http://51.222.153.30:9000/rombwgshgfhgdsjr/85455532potroxvix/Pel%C3%ADculas/The%20Toll%202021.mp4
+#EXTINF:-1 tvg-logo="https://img.reelgood.com/content/movie/7189b460-3c00-43e5-b3af-f296ece04aaa/poster-342.jpg" group-title="2021",Spin (2021) CASTELLANO
+http://51.222.153.30:9000/rombwgshgfhgdsjr/85455532potroxvix/Pel%C3%ADculas/Spin%202021.mp4
+#EXTINF:-1 tvg-logo="https://playmax.xyz/img/c/400/331/1628725504/165320.jpg" group-title="2021",Lokillo: nada es igual (2021)
 http://vod.tuxchannel.tv:80/peliculas/720/lokillo%20nada%20es%20igual%202021.mkv
-#EXTINF:-1 tvg-logo="https://images.moviefit.me/t/o/573312-shark-beach-with-chris-hemsworth.jpg" group-title="2021",Playa de tiburones con Chris Hemsworth  (2021)
+#EXTINF:-1 tvg-logo="https://images.moviefit.me/t/o/573312-shark-beach-with-chris-hemsworth.jpg" group-title="2021",Playa de tiburones con Chris Hemsworth (2021)
 http://vod.tuxchannel.tv:80/peliculas/720/shark%20beach%20with%20chris%20hemsworth%202021.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/08/23/09/45/0820487.jpg" group-title="2021",Prisioneros del Ghostland  (2021) SUB
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/08/23/09/45/0820487.jpg" group-title="2021",Prisioneros del Ghostland (2021) SUB
 http://vod.tuxchannel.tv:80/peliculas/720/subtituladas/prisoners%20of%20the%20ghostland%202021%20sub.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/21/08/24/11/03/3661805.png" group-title="2021",Barbie: Gran ciudad, Grandes sueños (2021)
 http://vod.tuxchannel.tv:80/peliculas/720/barbie%20big%20city%20big%20dreams%202021.mkv
@@ -1928,6 +1932,9 @@ http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
 http://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 
 
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/91/34/72/20140997.jpg" group-title="Peliculas Viejas",Anastasia (1997)
+http://74.208.251.230/Contenido/Peliculas/Infantil/ANASTASIA.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/18/11/08/04/34/4593233.jpg" group-title="Peliculas Viejas",Mi pobre angelito 2: Perdido en Nueva York (1992)
 http://201.172.61.81:82/peliculas/19%2011%2019/*Mi%20pobre%20Angelito%202%20(1992).mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/04/24/13/00/353804.jpg" group-title="Peliculas Viejas",Enemigo a las puertas (2001)
