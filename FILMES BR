@@ -6,6 +6,14 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/tgnp1_fPQvfKrfENwePe9VERwK8=/290x478/smart/media/movies/covers/2021/04/Batman_The_Long_Halloween.jpg" group-title="2021",Batman: O longo dia das Bruxas 1 (2021)
+http://195.154.80.170:7700/Batman%20-%20O%20Longo%20Dia%20das%20Bruxas%20%E2%80%93%20Parte%201%202021%20BluRay%201080p%20DUAL%205.1/Batman%20-%20O%20Longo%20Dia%20das%20Bruxas%20%E2%80%93%20Parte%201%202021%20BluRay%201080p%20DUAL%205.1.mkv
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/cQ-hxIH6n6_Dpy4uoJfsA97rU5g=/290x478/smart/media/movies/covers/2021/05/E10hQbCVEAAP6Sc.jpg" group-title="2021",Batman: O longo dia das Bruxas 2 (2021)
+http://195.154.80.170:7700/Batman%20-%20O%20Longo%20Dia%20das%20Bruxas%20%E2%80%93%20Parte%202%202021%20BluRay%201080p%20DUAL%205.1/Batman%20-%20O%20Longo%20Dia%20das%20Bruxas%20%E2%80%93%20Parte%202%202021%20BluRay%201080p%20DUAL%205.1.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/06/07/13/11/2832970.jpg" group-title="2021",BAC Nord: Sob Pressao (2021)
+http://195.154.80.170:7700/BAC%20Nord%20-%20Sob%20Press%C3%A3o%202021%20WEB-DL%201080p%20DUAL%205.1/BAC%20Nord%20-%20Sob%20Press%C3%A3o%202021%20WEB-DL%201080p%20DUAL%205.1.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/08/27/17/14/4132685.jpg" group-title="2021",Amizade de ferias (2021)
+http://195.154.80.170:7700/Amizade%20de%20F%C3%A9rias%202021%20WEB-DL%201080p%20DUAL%205.1/Amizade%20de%20F%C3%A9rias%202021%20WEB-DL%201080p%20DUAL%205.1.mkv
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/02/28/22/33/0238940.jpg" group-title="2021",A menina que matou os pais (2021)
 http://dl.dropbox.com/s/4fs3cnudiag3tue/4%20m3n1n4%20qu3%20m4t0u%200s%20p41s.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/07/28/20/24/2524693.jpg" group-title="2021",Dança Fatal (2021)
@@ -40,8 +48,6 @@ http://archive.org/download/dont-breathe-2021/%20Dont%20Breathe%202021.mp4
 http://archive.org/download/escape-room-2-tensao-maxima/Escape%20Room%202-%20Tens%C3%A3o%20M%C3%A1xima.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/02/23/11/55/5426424.jpg" group-title="2021",SAS: Ascensão do Cisne Negro (2021)
 http://195.154.80.170:7700/Ascensao%20do%20Cisne%20Negro%202021%201080p%20WEB-DL%20DUAL%205.1/Ascensao%20do%20Cisne%20Negro%202021%201080p%20WEB-DL%20DUAL%205.1.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/02/23/11/55/5426424.jpg" group-title="2021",SAS: Ascensão do Cisne Negro (2021) LEG
-http://archive.org/download/sas-red-notice/SAS-%20Red%20Notice.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/17/11/11/5648054.jpg" group-title="2021",The Voyeurs: Observadores (2021) LEG
 http://archive.org/download/the-voyeurs-2021/The%20Voyeurs%202021.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/21/06/22/22/11/5426265.jpg" group-title="2021",Annette (2021) LEG
@@ -143,9 +149,9 @@ http://185.148.3.146:6503/Rogai.por.Nos.2021.1080p.BluRay.DUAL.5.1.COMANDO.TO.mp
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/30/08/10/1385971.jpg" group-title="2021",Jolt: Furia Fatal (2021) DUAL
 http://185.148.3.146:6503/Jolt%20-%20F%C3%BAria%20Fatal%202021%20WEB-DL%201080p%20DUAL%205.1.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/21/01/28/19/41/0681785.jpg" group-title="2021",Anonimo (2021) DUAL
-http://185.148.3.146:6503/Anonimo.2021.720p.BluRay.DUAL.5.1.COMANDO.TO.mp4
+http://195.154.80.170:7700/Anonimo.2021.1080p.BluRay.DUAL.5.1.COMANDO.TO/Anonimo.2021.1080p.BluRay.DUAL.5.1.COMANDO.TO.mkv
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/r_1280_720/pictures/21/04/05/18/06/0685012.jpg" group-title="2021",Doce Vinganca (2021)
-http://185.148.3.146:6503/Doce%20Vingan%C3%A7a.mp4
+http://195.154.80.170:7700/Bela%20Vingan%C3%A7a%202020%20BluRay%201080p%20DUAL%202.0/Bela%20Vingan%C3%A7a%202020%20BluRay%201080p%20DUAL%202.0.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/05/13/10/06/4532539.jpg" group-title="2021",Xtremo (2021) DUAL
 http://195.154.80.170:7700/Xtremo.2021.1080p.WEB-DL.DUAL.5.1.COMANDO.TO/Xtremo.2021.1080p.WEB-DL.DUAL.5.1.COMANDO.TO.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81JTLD+V5uL._AC_SL1500_.jpg" group-title="2021",O Resgate: O Dia da Redencao (2021) DUAL
@@ -181,7 +187,7 @@ http://195.154.80.170:7700/A%20Vida%20Pode%20Mudar%202021%20WEB-DL%201080p%20DUA
 #EXTINF:-1 tvg-logo="https://qesatt-felem.org/wp-content/uploads/2021/02/The-Evil-Twin.jpg" group-title="2021",A Gemea do Mal (2021) DUAL
 http://185.148.3.146:6503/A%20G%C3%AAmea%20do%20Mal%202021%201080p%20WEB-DL%20DUAL.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/917xQC2EosS._RI_.jpg" group-title="2021",A Guerra do Amanhã (2021) DUAL
-http://185.148.3.146:6503/A_Guerra_do_Amanha.2021.1080p.WEB-DL.5.1.DUAL.COMANDO.TO.mp4
+http://195.154.80.170:7700/A_Guerra_do_Amanha.2021.1080p.WEB-DL.5.1.DUAL/A_Guerra_do_Amanha.2021.1080p.WEB-DL.5.1.DUAL.COMANDO.TO.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/01/07/09/21/5292740.jpg" group-title="2021",Zona de Combate (2021)
 http://185.148.3.146:6503/Zona.de.Combate.2021.720p.WEB-DL.6CH.x264-DUAL.COMANDO.TO.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/20/06/09/07/24/5793886.jpg" group-title="2021",Voce Deveria Ter Partido (2021)
@@ -320,8 +326,6 @@ http://195.154.80.170:7700/COMANDO.TO%20-%20Em%20busca%20de%20Ohana%202021%20108
 http://195.154.80.170:7700/COMANDO.TO%20-%20A%20Escava%C3%A7%C3%A3o%202021%201080p%205.1%20DUAL/COMANDO.TO%20-%20A%20Escava%C3%A7%C3%A3o%202021%201080p%205.1%20DUAL.mkv
 #EXTINF:-1 tvg-logo="https://torrentool.org/imagens/assalto-ao-banco-da-espanha-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg" group-title="2021",Assalto ao Banco da Espanha (2021) FHD
 http://195.154.80.170:7700/Assalto.Ao.Banco.da.Espanha.2021.1080p.WEB.x264-DUAL.COMANDO.TO/Assalto.Ao.Banco.da.Espanha.2021.1080p.WEB.x264-DUAL.COMANDO.TO.mkv
-#EXTINF:-1 tvg-logo="https://torrentool.org/imagens/assalto-ao-banco-da-espanha-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg" group-title="2021",Assalto ao Banco da Espanha (2021)
-http://185.148.3.146:6503/Assalto.Ao.Banco.da.Espanha.2021.1080p.WEB.x264-DUAL.COMANDO.TO.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/10/01/10/37/5061463.jpg" group-title="2021",Amor e Monstros (2021)
 http://195.154.80.170:7700/Amor_e_Monstros.2021.1080p.WEB-DL.DUAL.5.1.COMANDO.TO/Amor_e_Monstros.2021.1080p.WEB-DL.DUAL.5.1.COMANDO.TO.mkv
 #EXTINF:-1 tvg-logo="https://media.filmelier.com/images/filmes/cartaz/ashfall69775.jpeg" group-title="2021",Alerta Vermelho (2021)
@@ -330,14 +334,12 @@ http://195.154.80.170:7700/Alerta.Vermelho.2021.1080p.BluRay.x264-DUAL.COMANDO.T
 http://195.154.80.170:7700/A_Semana_da_Minha_vida_2021.1080p.WEB-DL.x264.DUAL.COMANDO.TO/A_Semana_da_Minha_Vida_2021.1080p.WEB-DL.x264.DUAL.COMANDO.TO.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/01/10/40/5886715.jpg" group-title="2021",A Familia Mitchell e a Revolta das Maquinas (2021) FHD
 http://195.154.80.170:7700/A_Familia_Mitchell_e_a_Revolta_das_Maquinas.2021.1080p.WEB-DL.DUAL.5.1.COMANDO.TO/A_Familia_Mitchell_e_a_Revolta_das_Maquinas.2021.1080p.WEB-DL.DUAL.5.1.COMANDO.TO.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/01/10/40/5886715.jpg" group-title="2021",A Familia Mitchell e a Revolta das Maquinas (2021)
-http://185.148.3.146:6503/A_Familia_Mitchell_e_a_Revolta_das_Maquinas.2021.1080p.WEB-DL.DUAL.5.1.COMANDO.TO.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/f8/34/6c/f8346c73e8aef258063bd7a760cd3ffc.jpg" group-title="2021",Monster Hunter (2021) HD
-http://185.148.3.146:6503/Monster.Hunter.2021.BluRay.720p.DUAL.5.1.COMANDO.TO.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/f8/34/6c/f8346c73e8aef258063bd7a760cd3ffc.jpg" group-title="2021",Monster Hunter (2021)
-http://archive.org/download/monster-hunter_202107/Monster%20Hunter.mp4
+https://archive.org/download/monster-hunter_202107/Monster%20Hunter.mp4
 
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/91N4uE-cv0L._AC_SY550_.jpg" group-title="2020",O caminho de volta (2020)
+http://195.154.80.170:7700/COMANDO.TO%20-%20O.Caminho.de.Volta.2020.1080p/O.Caminho.de.Volta.2020.1080p.BluRay.x265.DUAL-COMANDO.TO.mkv
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/20/03/13/17/10/0681853.jpg" group-title="2020",Mulher-Maravilha 1984 (2020)
 http://archive.org/download/m-m-84/M-M84.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/01/28/22/12/4169305.jpg" group-title="2020",Jumanji: Proxima fase (2020)
@@ -353,7 +355,7 @@ http://185.148.3.146:6503/Um%20Milagre%20Inesperado%202020%20BluRay%201080p%20DU
 #EXTINF:-1 tvg-logo="https://images.moviefit.me/t/o/465074-what-happened-to-mr-cha.jpg" group-title="2020",O Perfeito Sr Cha (2020)
 http://185.148.3.146:6503/O_Perfeito_Sr_Cha_1080p.WEB-DL.DUAL.COMANDO.TO.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/r_1280_720/pictures/20/11/06/10/49/1875632.jpg" group-title="2020",Alice e Peter: Onde Nascem os Sonhos (2020)
-http://185.148.3.146:6503/Alice%20e%20Peter%20-%20Onde%20Nascem%20os%20Sonhos%202020%20BluRay%201080p%20DUAL%205.1.mp4
+http://195.154.80.170:7700/Alice%20e%20Peter%20-%20Onde%20Nascem%20os%20Sonhos%202020%20BluRay%201080p%20DUAL%205.1/Alice%20e%20Peter%20-%20Onde%20Nascem%20os%20Sonhos%202020%20BluRay%201080p%20DUAL%205.1.mkv
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/21/05/11/20/02/3968627.jpg" group-title="2020",Em Guerra com o Vovo (2020) DUAL
 http://195.154.80.170:7700/Em_Guerra_Com_o_Vovo.2021.1080p.WEB-DL.DUAL.5.1.COMANDO.TO/Em_Guerra_Com_o_Vovo.2021.1080p.WEB-DL.DUAL.5.1.COMANDO.TO.mkv
 #EXTINF:-1 tvg-logo="https://poltronanerd.com.br/wp-content/uploads/2021/02/poltrona-um-tio-quase-perfeito-2.jpg" group-title="2020",Um Tio Quase Perfeito 2 (2020)
@@ -526,8 +528,6 @@ http://195.154.80.170:7700/COMANDO.TO%20-%20O%20Som%20Do%20Sil%C3%AAncio%202020%
 http://195.154.80.170:7700/Bad.Trip.2020.1080p.WEB.5.1.DUAL.COMANDO.TO/Bad.Trip.2020.1080p.WEB.5.1.DUAL.COMANDO.TO.mkv
 #EXTINF:-1 tvg-logo="https://media.filmelier.com/images/filmes/cartaz/coda51029.jpeg" group-title="2020",A Ultima Nota (2020) FHD
 http://195.154.80.170:7700/A_Ultima_Nota.2021.1080p.BluRay.DUAL.COMANDO.TO/A_Ultima_Nota.2021.1080p.BluRay.DUAL.COMANDO.TO.mkv
-#EXTINF:-1 tvg-logo="https://media.filmelier.com/images/filmes/cartaz/coda51029.jpeg" group-title="2020",A Ultima Nota (2020)
-http://185.148.3.146:6503/A_Ultima_Nota.2021.1080p.BluRay.DUAL.COMANDO.TO.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/20/10/06/18/20/0630056.jpg" group-title="2020",Mortal (2020) FHD
 http://185.148.3.146:6503/Mortal%20BluRay%201080p%20DUAL%20COMANDO.TO.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YzeJyDvxL._SY445_.jpg" group-title="2020",Archive (2020) FHD
@@ -868,8 +868,6 @@ http://195.154.80.170:7700/Sincr%C3%B4nico.2021.1080p.BluRay.DUAL.COMANDO.TO/Sin
 http://195.154.80.170:7700/A.Hora.do.Descarrego.2019.BluRay.1080p.x264.DUAL.COMANDO.TO/A.Hora.do.Descarrego.2019.BluRay.1080p.x264.DUAL.COMANDO.TO.mkv
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/21/04/01/18/11/5786055.jpg" group-title="2019",A Espreita do Mal (2019) FHD
 http://195.154.80.170:7700/A.Espreita.do.Mal.2021.BluRay.1080p.DUAL.5.1.COMANDO.TO/A.Espreita.do.Mal.2021.BluRay.1080p.DUAL.5.1.COMANDO.TO.mkv
-#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/21/04/01/18/11/5786055.jpg" group-title="2019",A Espreita do Mal (2019)
-http://185.148.3.146:6503/A.Espreita.do.Mal.2021.BluRay.1080p.DUAL.5.1.COMANDO.TO.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/19/04/23/09/30/5397825.jpg" group-title="2019",A Gente Se Vê Ontem (2019)
 http://185.148.3.146:6503/A.gente.se.v%C3%AA.ontem.2019.720p.WEB-DL.x264.DUBLADO-WWW.BLUDV.TV.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/04/02/18/47/3717581.jpg" group-title="2019",1964: O Brasil Entre Armas e Livros (2019)
