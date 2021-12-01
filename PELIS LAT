@@ -5,6 +5,8 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 #EXTINF:-1 tvg-logo="https://www.lifeder.com/wp-content/uploads/2016/07/pel%C3%ADculas-recomendadas.jpg" group-title="PELICULAS GRATIS",PELICULAS GRATIS
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/08/16/18/07/0847748.jpg" group-title="2021",After: almas perdidas (2021)
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/140573.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/08/19/10/48/2250523.jpg" group-title="2021",Eternals (2021) CAM
 http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/136749.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/09/29/16/57/5761354.jpg" group-title="2021",Encanto (2021) CAM
