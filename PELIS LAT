@@ -5,6 +5,15 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 #EXTINF:-1 tvg-logo="https://www.lifeder.com/wp-content/uploads/2016/07/pel%C3%ADculas-recomendadas.jpg" group-title="PELICULAS GRATIS",PELICULAS GRATIS
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/08/19/10/48/2250523.jpg" group-title="2021",Eternals (2021) CAM
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/136749.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/09/29/16/57/5761354.jpg" group-title="2021",Encanto (2021) CAM
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/140920.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/08/31/16/11/0282026.jpg" group-title="2021",Venom: Carnage Liberado (2021)
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/140577.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/08/31/16/11/0282026.jpg" group-title="2021",Venom: Carnage Liberado (2021) CAM
+https://archive.org/download/v-3-n-0-m.-h-4-br-4.-m-4-t-4-nz-4/V3N0M.H4BR4.M4T4NZ4.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/17/20/12/3943163.jpg" group-title="2021",Ainbo la guerrera del Amazonas (2021)
 https://archive.org/download/ainbo-2021.720p/AINBO2021.720p.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/08/19/19/58/5674347.jpg" group-title="2021",Shang-Chi y la leyenda de los diez anillos (2021)
@@ -93,8 +102,6 @@ https://archive.org/download/ver-la-patrulla-canina-la-pelicula-2021-online-cuev
 https://archive.org/download/historia-de-una-traici-n-hd-720p-1364023/Historia_de_una_traici_n_HD__720p___1364023.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/28/08/22/5119546.jpg" group-title="2021",Historia de una traicion (2021) CASTELLANO
 https://archive.org/download/h-15-t-0-r-14.-d-3.-un-4.-tr-41510-n/H15T0R14.D3.UN4.TR41510N.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/31/16/41/4145554.jpg" group-title="2021",Venom: Habrá Matanza (2021) HD CAM
-https://archive.org/download/v-3-n-0-m.-h-4-br-4.-m-4-t-4-nz-4/V3N0M.H4BR4.M4T4NZ4.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/04/09/13/35/2586318.jpg" group-title="2021",La apariencia de las cosas (2021)
 https://archive.org/download/l-4.4-p-4-r-13-nc-14.-d-3.-l-45.-c-0545.2021/L4.4P4R13NC14.D3.L45.C0545.2021.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71yrTk9XM3L._RI_.jpg" group-title="2021",El ascenso de Sir Longbotton (2021) SUB
