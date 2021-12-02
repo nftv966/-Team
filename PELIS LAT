@@ -5,6 +5,21 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 #EXTINF:-1 tvg-logo="https://www.lifeder.com/wp-content/uploads/2016/07/pel%C3%ADculas-recomendadas.jpg" group-title="PELICULAS GRATIS",PELICULAS GRATIS
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/08/02/14/21/4351695.jpg" group-title="2021",Ejercito de los ladrones (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/136355.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/11/11/01/14/4433698.jpg" group-title="2021",Rock Dog 2: Renace Una Estrella (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/136356.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/09/28/03/13/3785541.jpg" group-title="2021",Matando Cabos 2: La Máscara del Máscara (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/134126.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/06/11/10/19/2073812.jpg" group-title="2021",The Birthday Cake (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/136360.mkv
+#EXTINF:-1 tvg-logo="https://media.filmelier.com/images/tit/16444/poster/le-bal-des-folles81239.jpeg" group-title="2021",El baile de las locas (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/124843.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/27/13/54/0977448.jpg" group-title="2021",Campo secreto: Nazis en EE.UU. (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/136362.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/09/40/3609539.jpg" group-title="2021",Más dura será la caída (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/136361.mkv
 #EXTINF:-1 tvg-logo="https://www.cinevistablog.com/wp-content/uploads/2021/06/lanto-maldito-de-andres-beltran-poster-y-primeras-imagenes_opt2_.jpg" group-title="2021",Llanto Maldito (2021) MKV
 http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/136364.mkv
 #EXTINF:-1 tvg-logo="https://pelisenhd.net/wp-content/uploads/2021/11/gII53HAH7UA1yx189vROMzWA5ib.jpg" group-title="2021",Amina: La Reina de Guerra (2021) MKV
@@ -147,6 +162,8 @@ https://ia802309.us.archive.org/0/items/ripper.-untold.-2021.1080p.dual-lat-cine
 https://archive.org/download/halloween-kills/Halloween%20Kills%20%282021%29.mp4
 #EXTINF:-1 tvg-logo="https://images.moviefit.me/t/o/394769-ria.jpg" group-title="2021",R.I.A.: Programada para matar (2021)
 https://archive.org/download/r.-i.-a.-lat.-720p-mx/R.I.A.LAT.720p%20-%20MX.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/21/09/10/19/06/0202266.jpg" group-title="2021",Aislados (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/124841.mkv
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/21/09/10/19/06/0202266.jpg" group-title="2021",Aislados (2021)
 https://archive.org/download/ilhados-movie-x/Ilhados%20-%20MovieX.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/08/25/10/55/2823897.jpg" group-title="2021",Schumacher (2021)
@@ -640,7 +657,8 @@ http://149.56.13.137:999/PELISSD/boss-level-2021-Latino-web.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/11/24/09/22/4044266.jpg" group-title="2021",Boss Level: Un dia mas para morir (2021)
 https://archive.org/download/ver-muere-otra-vez/Ver%20Muere%20otra%20vez.mp4
 
-
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/14/21/52/3669209.jpg" group-title="2020",Flashback (2020) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/136365.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/02/14/15/25/4746037.jpg" group-title="2020",Operación Camarón (2020) CASTELLANO
 https://archive.org/download/ComediaWeffgttfdfghhMonoComediaGddhgFgjGff/Operaci%C3%B3n%20camaron.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/19/12/29/3194366.jpg" group-title="2020",Bad Boys for Life (2020)
