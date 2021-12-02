@@ -5,6 +5,15 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 #EXTINF:-1 tvg-logo="https://www.lifeder.com/wp-content/uploads/2016/07/pel%C3%ADculas-recomendadas.jpg" group-title="PELICULAS GRATIS",PELICULAS GRATIS
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/21/11/15/17/21/4280489.jpg" group-title="2021",El método Williams (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/140570.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/21/09/15/22/43/3160208.jpg" group-title="2021",La chica de la moto (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/140578.mkv
+#EXTINF:-1 tvg-logo="https://verpeliculasonline.org/wp-content/uploads/2021/11/wmh1likQEetSLIUs5MAvfWjEayY.jpg" group-title="2021",Motherly: La maternal (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/140919.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/16/12/35/4355865.jpg" group-title="2021",Un Castillo por Navidad (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/140918.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/21/11/26/16/56/4214225.jpg" group-title="2021",Herida (2021) MKV
 http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/140915.mkv
 #EXTINF:-1 tvg-logo="https://decine21.com/img/upload/obras/ricos-y-mimados-44720/src/ricos-y-mimados-44720-c.jpg" group-title="2021",Ricos y mimados (2021) MKV
@@ -179,7 +188,9 @@ https://archive.org/download/ComediaWeffgttfdfghhMonoComediaGddhgFgjGff/Gracias%
 https://archive.org/download/caged-2021/CAGED%20%282021%29.mp4
 #EXTINF:-1 tvg-logo="https://amariemagazine.com/wp-content/uploads/2021/05/Poster-No-Es-Lo-Que-Parece-Copy.png" group-title="2021",No es lo que parece (2021)
 http://vod.tuxchannel.tv:80/peliculas/720/no%20es%20lo%20que%20parece%202021.mkv
-#EXTINF:-1 tvg-logo="https://www.biosagenda.nl/poster/extinct_31263_600_0_90.jpg" group-title="2021",Extinct (2021) SUB
+#EXTINF:-1 tvg-logo="https://www.biosagenda.nl/poster/extinct_31263_600_0_90.jpg" group-title="2021",Extinct: ¡Nos hemos extinguido! (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/140567.mkv
+#EXTINF:-1 tvg-logo="https://www.biosagenda.nl/poster/extinct_31263_600_0_90.jpg" group-title="2021",Extinct: ¡Nos hemos extinguido! (2021) SUB
 http://51.222.153.30:9000/rombwgshgfhgdsjr/85455532potroxvix/Pel%C3%ADculas/Extinct%202021%20sub.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/07/21/10/02/4825275.jpg" group-title="2021",Maligno (2021)
 https://archive.org/download/maligno.2021.1080p-dual-lat/maligno.2021.1080p-dual-lat.mp4
