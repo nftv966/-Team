@@ -5,7 +5,16 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 #EXTINF:-1 tvg-logo="https://www.lifeder.com/wp-content/uploads/2016/07/pel%C3%ADculas-recomendadas.jpg" group-title="PELICULAS GRATIS",PELICULAS GRATIS
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://www.cinevistablog.com/wp-content/uploads/2021/06/lanto-maldito-de-andres-beltran-poster-y-primeras-imagenes_opt2_.jpg" group-title="2021",Llanto Maldito (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/136364.mkv
+#EXTINF:-1 tvg-logo="https://pelisenhd.net/wp-content/uploads/2021/11/gII53HAH7UA1yx189vROMzWA5ib.jpg" group-title="2021",Amina: La Reina de Guerra (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/136359.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/xo7iHAtB3ysPlkea8bT6OT8KuN3.jpg" group-title="2021",Casi Separados (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/136358.mkv
+#EXTINF:-1 tvg-logo="https://media.filmelier.com/tit/0uTwKY/poster/la-felicidad-es-para-siempre_-_AaEYo.jpeg" group-title="2021",La felicidad es para siempre (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/136991.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/29/10/47/3471200.jpg" group-title="2021",Claroscuro (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/136990.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/07/17/33/5668785.jpg" group-title="2021",Una pelicula de policias (2021) MKV
 http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/136989.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/07/27/12/08/3794473.jpg" group-title="2021",Ice Road (2021) MKV
@@ -62,6 +71,8 @@ https://archive.org/download/ainbo-2021.720p/AINBO2021.720p.mp4
 http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/136982.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/08/19/19/58/5674347.jpg" group-title="2021",Shang-Chi y la leyenda de los diez anillos (2021)
 https://archive.org/download/1-4931465738276831830/1_4931465738276831830.mp4
+#EXTINF:-1 tvg-logo="https://uploads-ssl.webflow.com/5ed80f2ac70db098b0ea9000/6167016a552b70e7e69a9e15_211022---Pec%CC%A7anha-Contra-o-Animal---poster_01.jpg" group-title="2021",Peçanha contra el Animal (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/136357.mkv
 #EXTINF:-1 tvg-logo="https://uploads-ssl.webflow.com/5ed80f2ac70db098b0ea9000/6167016a552b70e7e69a9e15_211022---Pec%CC%A7anha-Contra-o-Animal---poster_01.jpg" group-title="2021",Peçanha contra el Animal (2021) DUAL
 https://archive.org/download/pecanha.-contra.-el.-animal/Pecanha.Contra.El.Animal.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/10/21/15/51/3458190.jpg" group-title="2021",Alerta Roja (2021)
