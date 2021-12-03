@@ -5,6 +5,16 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 #EXTINF:-1 tvg-logo="https://www.lifeder.com/wp-content/uploads/2016/07/pel%C3%ADculas-recomendadas.jpg" group-title="PELICULAS GRATIS",PELICULAS GRATIS
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/09/01/18/33/3906115.jpg" group-title="2021",Survive the Game (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/134133.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/10/19/17/07/4556417.jpg" group-title="2021",Santos criminales (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/134134.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/21/09/29/12/04/5417599.jpg" group-title="2021",Mi hermano mi hermana (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/134135.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/18/09/46/5843005.jpg" group-title="2021",Madres (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/134136.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/23/10/28/1404307.jpg" group-title="2021",Acción Jacinto (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/134132.mkv
 #EXTINF:-1 tvg-logo="https://pelisenhd.net/wp-content/uploads/2021/11/7OoFWIv9RzPhcKspB10wnW2gKgM.jpg" group-title="2021",Diego: El último adiós (2021)
 http://201.172.61.203:88/Peliculas/1%20Nov%20Dic%20Ene/diego%20el%20ultimo%20adios.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/10/28/11/35/0036055.jpg" group-title="2021",El ultimo duelo (2021)
@@ -35,8 +45,6 @@ http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/121984.mkv
 http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/121983.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/08/31/11/36/2465071.jpg" group-title="2021",Worth (2021) MKV
 http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/122484.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/28/10/22/4789003.jpg" group-title="2021",El bebé jefazo 2: Negocios de familia (2021) MKV
-http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/124844.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/09/01/23/12/1119233.jpg" group-title="2021",El padre que mueve montañas (2021) MKV
 http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/124842.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/07/09/04/28/4671924.jpg" group-title="2021",Bajo el hechizo del Amor (2021) MKV
@@ -527,6 +535,8 @@ http://201.172.61.203:88/Peliculas/mkv/In%20The%20Heights%20(2021)%201080p%20HMA
 http://201.172.61.203:88/Peliculas/mkv/Horario%20Estelar%202021%20NF%20WEB-DL%201080p%20Www.PeliculasGoogleDrive.Info.mkv%20-%20Google%20Drive.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/29/11/03/3538359.jpg" group-title="2021",Luca (2021)
 http://201.172.61.203:88/Peliculas/mkv/Ver%20Luca%20(2021)%20Online%20Latino%20HD%20-%20Pelisplus.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/28/10/22/4789003.jpg" group-title="2021",Un jefe en pañales: Negocios de familia (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/124844.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/28/10/22/4789003.jpg" group-title="2021",Un jefe en pañales: Negocios de familia (2021)
 http://201.172.61.203:88/Peliculas/jul%20agos/The.Boss.Baby.Family.Business.2021.WEB-DL.1080P-Www.PeliculasGoogleDrive.Info.mkv%20-%20Google%20Drive.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/28/10/22/4789003.jpg" group-title="2021",Un jefe en pañales: Negocios de familia (2021) MKV
