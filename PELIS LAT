@@ -5,6 +5,14 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 #EXTINF:-1 tvg-logo="https://www.lifeder.com/wp-content/uploads/2016/07/pel%C3%ADculas-recomendadas.jpg" group-title="PELICULAS GRATIS",PELICULAS GRATIS
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/07/26/12/32/5723105.jpg" group-title="2021",Amigos pasajeros (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/121914.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/20/04/21/20/10/5801506.jpg" group-title="2021",Un rescate de huevitos (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/121909.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/21/08/12/19/57/5231437.jpg" group-title="2021",The Witcher: La pesadilla del lobo (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/121908.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/07/29/23/12/3127737.jpg" group-title="2021",Una casa de locos: La película (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/121906.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/08/05/10/09/3049342.jpg" group-title="2021",Alguien como él (2021) MKV
 http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/121913.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/04/19/11/15/1958505.jpg" group-title="2021",Doce huérfanos (2021) MKV
@@ -2039,7 +2047,6 @@ http://ia801603.us.archive.org/20/items/24052017Aqc789423784723984/24052017_aqc.
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg" group-title="2016",Deadpool (2016)
 http://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
 
-
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/15/02/25/10/37/363909.jpg" group-title="2015",Vengadores: La era de Ultrón (2015)
 https://archive.org/download/vengadores-endgame_monopeliculasR/Vengadores%20La%20era%20de%20Ultr%C3%B3n.mp4
 #EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/abandomedia/indie/poster/db_posters_39505.jpg" group-title="2015",Secretos de una ciudad pequeña (2015)
@@ -2686,4 +2693,5 @@ http://201.172.61.81:85/peliculas/octubre/*Nosotros%20los%20Nobles.mp4
 http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/c_215_290/pictures/16/02/25/16/01/464057.jpg" group-title="Peliculas Viejas",Prometeus (2012)
 http://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
+
 
