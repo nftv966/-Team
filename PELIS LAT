@@ -5,6 +5,12 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 #EXTINF:-1 tvg-logo="https://www.lifeder.com/wp-content/uploads/2016/07/pel%C3%ADculas-recomendadas.jpg" group-title="PELICULAS GRATIS",PELICULAS GRATIS
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/07/01/19/57/2209666.jpg" group-title="2021",Evangelion: 3.0 + 1.0 (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/121694.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/05/25/13/09/2198547.jpg" group-title="2021",Cuestión de sangre (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/121916.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/pkammOak2515Fq4mAsB7gGmRyFK.jpg" group-title="2021",El Quinto Set (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/121915.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/07/26/12/32/5723105.jpg" group-title="2021",Amigos pasajeros (2021) MKV
 http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/121914.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/20/04/21/20/10/5801506.jpg" group-title="2021",Un rescate de huevitos (2021) MKV
