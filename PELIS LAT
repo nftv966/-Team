@@ -6,6 +6,12 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 #EXTINF:-1 tvg-logo="https://www.lifeder.com/wp-content/uploads/2016/07/pel%C3%ADculas-recomendadas.jpg" group-title="PELICULAS GRATIS",PELICULAS GRATIS
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
+#EXTINF:-1 tvg-logo="https://flxt.tmsimg.com/assets/p20388625_b_v13_ab.jpg" group-title="2021",Untold: Crimes and Penalties (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/121984.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/08/18/09/08/3389941.jpg" group-title="2021",Bob Ross Happy Accidents: Betrayal y Greed (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/121983.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/08/31/11/36/2465071.jpg" group-title="2021",Worth (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/122484.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/28/10/22/4789003.jpg" group-title="2021",El bebé jefazo 2: Negocios de familia (2021) MKV
 http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/124844.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/09/01/23/12/1119233.jpg" group-title="2021",El padre que mueve montañas (2021) MKV
@@ -328,6 +334,8 @@ https://archive.org/download/ver-los-mitchell-contra-las-maquinas-2021-online-la
 https://archive.org/download/abismo_202110/ABISMO.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/02/15/09/58/1192251.jpg" group-title="2021",SAS: El Ascenso del Cisne Negro (2021)
 http://archive.org/download/sas.-el-ascenso-del-cisne-negrocinecine/Sas.El%20ascenso%20del%20cisne%20negro%40cine%2Bcine.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/08/04/09/24/2258349.jpg" group-title="2021",Cenicienta (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/122485.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/08/04/09/24/2258349.jpg" group-title="2021",Cenicienta (2021)
 http://vod.tuxchannel.tv:80/peliculas/720/cinderella%202021.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/08/04/09/24/2258349.jpg" group-title="2021",Cenicienta (2021)
