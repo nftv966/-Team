@@ -5,6 +5,10 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 #EXTINF:-1 tvg-logo="https://www.lifeder.com/wp-content/uploads/2016/07/pel%C3%ADculas-recomendadas.jpg" group-title="PELICULAS GRATIS",PELICULAS GRATIS
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
+#EXTINF:-1 tvg-logo="https://pelisenhd.net/wp-content/uploads/2021/11/7OoFWIv9RzPhcKspB10wnW2gKgM.jpg" group-title="2021",Diego: El último adiós (2021)
+http://201.172.61.203:88/Peliculas/1%20Nov%20Dic%20Ene/diego%20el%20ultimo%20adios.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/10/28/11/35/0036055.jpg" group-title="2021",El ultimo duelo (2021)
+http://201.172.61.203:88/Peliculas/1%20Nov%20Dic%20Ene/el%20ultimo%20duelo.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/07/01/19/57/2209666.jpg" group-title="2021",Evangelion: 3.0 + 1.0 (2021) MKV
 http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/121694.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/05/25/13/09/2198547.jpg" group-title="2021",Cuestión de sangre (2021) MKV
@@ -2699,5 +2703,4 @@ http://201.172.61.81:85/peliculas/octubre/*Nosotros%20los%20Nobles.mp4
 http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/c_215_290/pictures/16/02/25/16/01/464057.jpg" group-title="Peliculas Viejas",Prometeus (2012)
 http://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
-
 
