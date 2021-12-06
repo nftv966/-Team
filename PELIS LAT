@@ -5,7 +5,22 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 #EXTINF:-1 tvg-logo="https://www.lifeder.com/wp-content/uploads/2016/07/pel%C3%ADculas-recomendadas.jpg" group-title="PELICULAS GRATIS",PELICULAS GRATIS
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/03/31/13/10/3571973.jpg" group-title="2021",En busca de Sheela (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/117734.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/02/10/18/14/0693859.jpg" group-title="2021",El Día del Sí (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/119682.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/05/12/08/24/0256374.jpg" group-title="2021",Dancing Queens (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/119677.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/21/05/02/16/26/3114498.jpg" group-title="2021",Un mundo complicado (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/119803.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/21/06/08/20/40/5570588.jpg" group-title="2021",Ni un paso en falso (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/120655.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/04/10/46/3483667.jpg" group-title="2021",Estados Unidos: La Película (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/120652.mkv
+#EXTINF:-1 tvg-logo="https://i1.wp.com/tuxplay.com/wp-content/uploads/2021/05/iUxadKYbRH5zt1yg1cf54zIu5qm.jpg" group-title="2021",Cada respiro que das (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/120889.mkv
+#EXTINF:-1 tvg-logo="https://best.egybest.film:2053/wp-content/uploads/2021/07/This-Little-Love-of-Mine-1.jpg" group-title="2021",La magia de la Isla (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/120885.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/19/17/25/4485085.jpg" group-title="2021",La familia Bloom (2021) MKV
 http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/120883.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71PJLAcgKCL._RI_.jpg" group-title="2021",Infinitum: Subject Unknown (2021) MKV
@@ -608,6 +623,8 @@ http://201.172.61.203:88/Peliculas/mkv/Spirit.Untamed.2021.mp4
 http://201.172.61.203:88/Peliculas/mkv/El%20drag%c3%b3n%20de%20la%20tetera%20(2021)%201080p%20WEB-DL%20Latino%20Www.PeliculasGoogleDrive.Info.mkv%20-%20Google%20Drive.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/21/05/06/13/54/5302395.jpg" group-title="2021",Ferry (2021) DUAL
 http://vod.tuxchannel.tv:80/peliculas/720/ferry%202021.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mRhFCdIexLi1ww948YyQbHGvYyC.jpg" group-title="2021",Dos sinvergüenzas (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/118346.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mRhFCdIexLi1ww948YyQbHGvYyC.jpg" group-title="2021",Dos sinvergüenzas (2021) DUAL
 http://vod.tuxchannel.tv:80/peliculas/720/os%20salafrarios%202021.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/11/13/22/5520699.jpg" group-title="2021",Ejercito de los muertos (2021) DUAL
