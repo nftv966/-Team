@@ -5,6 +5,13 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 #EXTINF:-1 tvg-logo="https://www.lifeder.com/wp-content/uploads/2016/07/pel%C3%ADculas-recomendadas.jpg" group-title="PELICULAS GRATIS",PELICULAS GRATIS
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
+
+
+
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/21/09/23/07/24/2004304.jpg" group-title="2021",CODA: Señales Del Corazón (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/121673.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/jjV1DY1SlGI1eUJAXSdre8bpw7t.jpg" group-title="2021",Daisy Quokka: Ciudad santuario (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/121692.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/03/31/13/10/3571973.jpg" group-title="2021",En busca de Sheela (2021) MKV
 http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/117734.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/02/10/18/14/0693859.jpg" group-title="2021",El Día del Sí (2021) MKV
@@ -89,8 +96,10 @@ http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/121913.mkv
 http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/122034.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/21/08/16/19/11/2455543.jpg" group-title="2021",Más allá de la Fiesta (2021) MKV
 http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/122032.mkv
-#EXTINF:-1 tvg-logo="https://flxt.tmsimg.com/assets/p20388625_b_v13_ab.jpg" group-title="2021",Untold: Crimes and Penalties (2021) MKV
+#EXTINF:-1 tvg-logo="https://flxt.tmsimg.com/assets/p20388625_b_v13_ab.jpg" group-title="2021",Al descubierto: Crimenes y Penalidades (2021) MKV
 http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/121984.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/21/07/30/21/14/4660347.png" group-title="2021",Al descubierto: Pacto con el diablo (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/121697.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/08/18/09/08/3389941.jpg" group-title="2021",Bob Ross Happy Accidents: Betrayal y Greed (2021) MKV
 http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/121983.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/08/31/11/36/2465071.jpg" group-title="2021",Worth (2021) MKV
@@ -403,12 +412,16 @@ http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/124847.mkv
 http://51.222.153.30:9000/rombwgshgfhgdsjr/85455532potroxvix/Pel%C3%ADculas/Escape%20Room%202%20Reto%20Mortal%20lat.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/24/12/20/5197271.jpg" group-title="2021",Escape Room 2: Mueres por salir (2021) DUAL
 https://archive.org/download/escape-room-2-2021-esp/Escape%20Room2%202021%20ESP.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/r_1280_720/pictures/21/06/25/10/29/2887393.jpg" group-title="2021",Beckett (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/121671.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/r_1280_720/pictures/21/06/25/10/29/2887393.jpg" group-title="2021",Beckett (2021)
 https://archive.org/download/beckett_202109/Beckett.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/08/05/23/59/1076697.jpg" group-title="2021",Peligro en tu mirada (2021)
 http://archive.org/download/ver-peligro-en-tu-mirada/Ver%20Peligro%20en%20tu%20mirada.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/07/13/31/0829075.jpg" group-title="2021",El cover (2021) CASTELLANO
 http://archive.org/download/ver-el-cover/Ver%20El%20cover.ia.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/02/03/11/46/0960847.jpg" group-title="2021",El espía inglés (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/121698.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/02/03/11/46/0960847.jpg" group-title="2021",El espía inglés (2021)
 http://archive.org/download/ver-ironbark-el-espia-ingles/Ver%20Ironbark%20El%20esp%C3%ADa%20ingl%C3%A9s.ia.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/07/09/04/30/1037005.jpg" group-title="2021",La última carta de amor (2021)
@@ -475,6 +488,8 @@ http://archive.org/download/ver-doors-2021-online-subtitulado-hd-720p-gratis/Ver
 http://51.222.153.30:9000/rombwgshgfhgdsjr/85455532potroxvix/Pel%C3%ADculas/Reminiscencia%202021.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/03/16/10/0435148.jpg" group-title="2021",Reminiscencia (2021)
 https://archive.org/download/reminiscence.-2021.lati/Reminiscence.2021.lati.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/08/02/14/32/3817770.jpg" group-title="2021",Vivo (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/121569.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/08/02/14/32/3817770.jpg" group-title="2021",Vivo (2021)
 http://archive.org/download/vivo.-2021/VIVO.2021.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/11/10/45/1311045.jpg" group-title="2021",La 8ª noche (2021)
@@ -505,6 +520,8 @@ http://51.222.153.30:9000/rombwgshgfhgdsjr/85455532potroxvix/Pel%C3%ADculas/El%2
 https://archive.org/download/elultimomercenario-le-dernier-mercenaire-2021/El%2B%C3%BAltimo%2Bmercenario%2B-%2BLe%2BDernier%2BMercenaire%2B%282021%29.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/30/08/10/1385971.jpg" group-title="2021",Jolt: Impacto (2021)
 http://vod.tuxchannel.tv:80/peliculas/720/jolt%202021.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/07/02/11/47/1576324.jpg" group-title="2021",El stand de los besos 3 (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/121674.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/07/02/11/47/1576324.jpg" group-title="2021",El stand de los besos 3 (2021)
 https://archive.org/download/ver-el-stand-de-los-besos-3-2021-online-latino-hd-pelisp_202109/Ver%20El%20Stand%20de%20los%20Besos%203%20%282021%29%20Online%20Latino%20HD%20-%20Pelisp.mp4
 #EXTINF:-1 tvg-logo="https://www.sinpeli.com/wp-content/uploads/2021/06/expansivas-2021-30077-poster.jpg" group-title="2021",Expansivas (2021)
@@ -523,6 +540,8 @@ https://archive.org/download/free.-guy.-2021.lati/Free.Guy.2021.lati.mp4
 https://archive.org/download/free.-guy.-sub/Free.Guy.Sub.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/07/09/20/39/3407185.jpg" group-title="2021",Mudanza mortal (2021)
 https://archive.org/download/mudanza-mortal_202109/Mudanza%20mortal.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/03/30/15/41/3645913.jpg" group-title="2021",Escuadrón Suicida (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/121566.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/03/30/15/41/3645913.jpg" group-title="2021",Escuadrón Suicida (2021) H264
 http://archive.org/download/el-escuadron-suicida-2021_202108/El%20Escuadr%C3%B3n%20Suicida%202021.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/03/30/15/41/3645913.jpg" group-title="2021",Escuadrón Suicida (2021)
@@ -553,6 +572,8 @@ http://archive.org/download/duro-de-cuidar-2./CUIDAR.2..mp4
 http://201.172.61.203:88/Peliculas/mkv/duro%20de%20cuidar%202.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81EK5zblGyL._RI_.jpg" group-title="2021",Operacion Narco (2021)
 http://201.172.61.203:88/Peliculas/jul%20agos/Operaci%c3%b3n.Narco.2021.WEB-DL.1080p.Latino.PGD.mkv%20-%20Google%20Drive.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/04/29/08/04/4838933.jpg" group-title="2021",Los Renegados (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/121567.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/04/29/08/04/4838933.jpg" group-title="2021",Los Renegados (2021)
 http://201.172.61.203:88/Peliculas/jul%20agos/Los.Renegados.2021.WEB-DL.1080p.Latino.PGD.mkv%20-%20Google%20Drive.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/22/10/55/4996970.jpg" group-title="2021",Tiburon blanco (2021)
@@ -805,6 +826,8 @@ http://201.172.61.203:88/Peliculas/Marzo%20Abril/Mortal%20Kombat%20(2021).mp4
 https://archive.org/download/mortal-kombat_20211022/MORTAL%20KOMBAT.mp4
 #EXTINF:-1 tvg-logo="https://moviehaku.com/thumbs/films/400x590/Wrong-Turn.jpg" group-title="2021",Camino Hacia el Terror (2021) SUB.
 http://vod.tuxchannel.tv/peliculas/720/subtituladas/wrong%20turn%202021%20sub.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/11/24/09/22/4044266.jpg" group-title="2021",Boss Level: Un dia mas para morir (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/121616.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/11/24/09/22/4044266.jpg" group-title="2021",Boss Level: Un dia mas para morir (2021)
 http://149.56.13.137:999/PELISSD/boss-level-2021-Latino-web.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/11/24/09/22/4044266.jpg" group-title="2021",Boss Level: Un dia mas para morir (2021)
@@ -1114,6 +1137,8 @@ http://vod.tuxchannel.tv/peliculas/720/hard%20kill%202020.mkv
 http://vod.tuxchannel.tv:80/peliculas/720/lavaperros%202020.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/08/12/10/54/4688007.jpg" group-title="2020",El Mundo Entero (2020)
 http://vod.tuxchannel.tv:80/peliculas/720/und%20morgen%20die%20ganze%20welt%202020.mkv
+#EXTINF:-1 tvg-logo="https://pelismart.com/wp-content/uploads/2021/05/UNA-SOMBRA-EN-LA-NUBE.jpg" group-title="2020",Una Sombra en la Nube (2020) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/121618.mkv
 #EXTINF:-1 tvg-logo="https://pelismart.com/wp-content/uploads/2021/05/UNA-SOMBRA-EN-LA-NUBE.jpg" group-title="2020",Una Sombra en la Nube (2020) MKV
 http://vod.tuxchannel.tv:80/peliculas/720/shadow%20in%20the%20cloud%202020.mkv
 #EXTINF:-1 tvg-logo="https://pelismart.com/wp-content/uploads/2021/05/UNA-SOMBRA-EN-LA-NUBE.jpg" group-title="2020",Una Sombra en la Nube (2020)
