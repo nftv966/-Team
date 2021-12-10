@@ -6,8 +6,10 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
-
-
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/03/23/13/52/0117868.jpg" group-title="2021",Dolly Parton: A MusiCares Tribute (2021)
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/120877.mkv
+#EXTINF:-1 tvg-logo="https://enlineahd.com/wp-content/uploads/2021/07/batman-el-largo-halloween-parte-2-1521-poster-scaled.jpg" group-title="2021",Batman: El Largo Halloween Parte 2 (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/121420.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/21/09/23/07/24/2004304.jpg" group-title="2021",CODA: Señales Del Corazón (2021) MKV
 http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/121673.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/jjV1DY1SlGI1eUJAXSdre8bpw7t.jpg" group-title="2021",Daisy Quokka: Ciudad santuario (2021) MKV
@@ -518,6 +520,8 @@ http://vod.tuxchannel.tv:80/peliculas/720/maya%20the%20bee%203%20the%20golden%20
 http://149.56.12.230:999/PELISSD/blue-call-2021-Ingles-sub.mkv
 #EXTINF:-1 tvg-logo="https://www.peliculas1mega.com/wp-content/uploads/2021/07/Como-Hackear-a-tu-Jefe-2021.jpg" group-title="2021",Como Hackear a tu Jefe (2021)
 http://vod.tuxchannel.tv:80/peliculas/720/como%20hackear%20seu%20chefe%202021.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/10/09/08/36/1175673.jpg" group-title="2021",Igor Grom contra el Doctor Peste (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/120875.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/10/09/08/36/1175673.jpg" group-title="2021",Igor Grom contra el Doctor Peste (2021)
 http://vod.tuxchannel.tv:80/peliculas/720/mayor%20grom%20chumnoy%20doktor%202021.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81JTLD+V5uL._SL1500_.jpg" group-title="2021",El Rescate: Día de redención (2021) CASTELLANO
@@ -566,10 +570,14 @@ http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/121429.mkv
 https://archive.org/download/juunng-13-cru-153/Juunng13%20%C3%87ru153.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/16/dd/4d/16dd4d2371b7e23b21a51159d383f111.png" group-title="2021",Jungle Cruise (2021) CASTELLANO
 http://dl.dropbox.com/s/momi3zzei58zpdq/Jungle%20Cruise.mp4
+#EXTINF:-1 tvg-logo="https://cdn.colombia.com/cine/2019/8/ecb2404aa67549348d6c92c41b0f9bbc.jpg" group-title="2021",Rápidos y Furiosos 9 (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/121422.mkv
 #EXTINF:-1 tvg-logo="https://cdn.colombia.com/cine/2019/8/ecb2404aa67549348d6c92c41b0f9bbc.jpg" group-title="2021",Rápidos y Furiosos 9 (2021)
 https://archive.org/download/monopeliculas_20211103/index-v1-a1.mp4
 #EXTINF:-1 tvg-logo="https://cdn.colombia.com/cine/2019/8/ecb2404aa67549348d6c92c41b0f9bbc.jpg" group-title="2021",Rápidos y Furiosos 9 (2021)
 https://archive.org/download/rapidos-y-furiosos-9_202109/Rapidos%20y%20Furiosos%209.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/09/18/28/5915477.jpg" group-title="2021",Viuda Negra (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/120871.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/09/18/28/5915477.jpg" group-title="2021",Viuda Negra (2021) DUAL
 http://vod.tuxchannel.tv:80/peliculas/720/black%20widow%202021.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/09/18/28/5915477.jpg" group-title="2021",Viuda Negra (2021)
@@ -646,6 +654,8 @@ http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/124844.mkv
 http://201.172.61.203:88/Peliculas/jul%20agos/The.Boss.Baby.Family.Business.2021.WEB-DL.1080P-Www.PeliculasGoogleDrive.Info.mkv%20-%20Google%20Drive.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/28/10/22/4789003.jpg" group-title="2021",Un jefe en pañales: Negocios de familia (2021) MKV
 http://51.79.68.14:999/PELISSD/the-boss-baby-family-business-2021-Latino.mkv
+#EXTINF:-1 tvg-logo="https://latampelis.com/wp-content/uploads/2021/07/rMoVOCw6DF3zC6hS76ZhQMWiXNX.jpg" group-title="2021",Jovenes Titanes en accion ven Space Jam (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/121421.mkv
 #EXTINF:-1 tvg-logo="https://latampelis.com/wp-content/uploads/2021/07/rMoVOCw6DF3zC6hS76ZhQMWiXNX.jpg" group-title="2021",Jovenes Titanes en accion ven Space Jam (2021)
 http://201.172.61.203:88/Peliculas/jul%20agos/Teen.Titans.Go.See.Space.Jam.2021.WEBDL.1080p.Latino.PGD..mkv%20-%20Google%20Drive.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/09/04/20/42/1784745.jpg" group-title="2021",Un disfraz para Nicolas (2021)
@@ -680,6 +690,8 @@ http://archive.org/download/la-calle-del-terror-parte-1/La%20Calle%20del%20Terro
 http://archive.org/download/la-calle-del-terror-parte-2/La%20Calle%20del%20Terror%20%28Parte%202%29.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/c_310_420/pictures/21/07/09/03/49/3258685.jpg" group-title="2021",La calle del terror: Parte 2 1978 (2021) MKV
 http://vod.tuxchannel.tv:80/peliculas/720/fear%20street%20part%20two%201978%202021.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/21/07/13/16/17/0255729.jpg" group-title="2021",La calle del terror: Parte 3 1666 (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/120918.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/21/07/13/16/17/0255729.jpg" group-title="2021",La calle del terror: Parte 3 1666 (2021)
 http://archive.org/download/la-calle-del-terror-parte-3/La%20Calle%20del%20Terror%20%28Parte%203%29.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/11/13/32/5298328.jpg" group-title="2021",Espiral: Saw (2021)
@@ -696,6 +708,8 @@ http://ytv.plus:25461/movie/mercedes/1234/15164.mkv
 http://51.222.158.233:999/PELISSD/blood-red-sky-2021-Latino.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/15/16/20/0042851.jpg" group-title="2021",Trollhunters: El despertar de los titanes (2021)
 https://archive.org/download/trollhunters-el-despertar-de-los-titanes/Trollhunters%20El%20despertar%20de%20los%20titanes.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/25/13/44/0609737.jpg" group-title="2021",La purga infinita (2021) MKV
+http://tv2.plus20.xyz:25461/movie/yagocordoba/zT5HhBvMs5/120919.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/25/13/44/0609737.jpg" group-title="2021",La purga infinita (2021) MKV
 http://vod.tuxchannel.tv:80/peliculas/720/the%20forever%20purge%202021.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/25/13/44/0609737.jpg" group-title="2021",La purga infinita (2021)
