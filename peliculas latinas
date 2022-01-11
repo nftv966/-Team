@@ -5,6 +5,12 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 #EXTINF:-1 tvg-logo="https://www.lifeder.com/wp-content/uploads/2016/07/pel%C3%ADculas-recomendadas.jpg" group-title="PELICULAS GRATIS",PELICULAS GRATIS
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/04/10/46/3483667.jpg" group-title="2021",Estados Unidos: El peliculón (2021)
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/NUEVO%20CONTENIDO/Estados%20Unidos%20La%20pel%c3%adcula.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/10/27/13/35/0415516.jpg" group-title="2021",El jinete del dragón (2021)
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/NUEVO%20CONTENIDO/El%20jinete%20del%20drag%c3%b3n.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/20/08/26/1442753.jpg" group-title="2021",Cuentos al caer la noche (2021)
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/NUEVO%20CONTENIDO/Cuentos%20al%20caer%20la%20noche.mp4
 #EXTINF:-1 tvg-logo="https://starwarsblog.starwars.com/wp-content/uploads/2021/09/leg-star-wars-terrifying-tales-poster-3578.jpg" group-title="2021",LEGO Star Wars: Cuentos Escalofriantes (2021) FHD
 http://51.77.66.14/Lego.Star.Wars.Terrifying.Tales-LEGO.Star.Wars.Cuentos.Escalofriantes.2021.WEB-DL.1080p.ChileBT.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/08/19/19/58/5674347.jpg" group-title="2021",Shang-Chi y la leyenda de los diez anillos (2021)
@@ -436,7 +442,6 @@ http://vod.tuxchannel.tv:80/peliculas/720/lavaperros%202020.mkv
 http://vod.tuxchannel.tv:80/peliculas/720/und%20morgen%20die%20ganze%20welt%202020.mkv
 #EXTINF:-1 tvg-logo="https://pelismart.com/wp-content/uploads/2021/05/UNA-SOMBRA-EN-LA-NUBE.jpg" group-title="2020",Una Sombra en la Nube (2020) MKV
 http://vod.tuxchannel.tv:80/peliculas/720/shadow%20in%20the%20cloud%202020.mkv
-
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/20/11/12/11/18/0234850.jpg" group-title="2020",Super Inteligente (2020)
 http://vod.tuxchannel.tv:80/peliculas/720/superintelligence%202020.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91LTiElaCBL._RI_.jpg" group-title="2020",El Atrapasueños (2020) FLV
@@ -599,7 +604,6 @@ http://vod.tuxchannel.tv/peliculas/720/half%20brothers%202020.mkv
 http://vod.tuxchannel.tv/peliculas/720/wszyscy%20moi%20przyjaciele%20nie%20zyja%202020.mkv
 
 
-
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/02/17/11/06/2843510.jpg" group-title="2019",La Candidata Perfecta (2019) CASTELLANO
 http://archive.org/download/la-candidata-perfecta-2020-blu-ray-rip-ac-3-5.1-castellanowww.-pctreload.-com/La%20Candidata%20Perfecta%20%282020%29%20%5BBluRay%20RIP%5D%5BAC3%205.1%20Castellano%5D%5Bwww.PCTRELOAD.COM%5D.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/20/08/05/01/13/5131124.jpg" group-title="2019",Maldición en el tercer piso (2019)
@@ -608,7 +612,6 @@ http://archive.org/download/www.sinepelis.club/Maldici%C3%B3n%20en%20el%20tercer
 http://archive.org/download/www.cinepelis.club_20210421_0253/a%2047%20metros%20-%20El%20Segundo%20Ataque.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/19/09/16/10/59/2369381.jpg" group-title="2019",Eli (2019)
 http://archive.org/download/eli_20210428/eli.mp4
-
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/15/08/57/1315853.jpg" group-title="2019",Estafadoras de Wall Street (2019)
 http://archive.org/download/estafadoras/estafadoras.mp4
 #EXTINF:-1 tvg-logo="https://i0.wp.com/cinetux.nu/wp-content/uploads/2021/04/fvFVsIO73JmVTPlFCT2eeKHH72k.jpg" group-title="2019",La Porrista perfecta (2019)
@@ -725,6 +728,8 @@ http://vod.tuxchannel.tv/peliculas/720/mama%20al%20volante%202019.mkv
 http://tux-vod.dynu.com:80/peliculas/720/the%20kid%20who%20would%20be%20king%202018.mkv
 
 
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/06/02/07/42/5623344.jpg" group-title="2018",Isla Larva: La película (2018)
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/NUEVO%20CONTENIDO/Isla%20Larva%20La%20pel%c3%adcula.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51xui3G0q5L.jpg" group-title="2018",¿Entrenando a tu esposo? (2018)
 http://archive.org/download/como-entrenar-a-tu-cachorro-esposo/C%C3%B3mo%20Entrenar%20a%20tu%20CachorroEsposo.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/18/12/02/06/45/5001803.jpg" group-title="2018",Mi pequeño gran hombre (2018)
@@ -943,6 +948,8 @@ http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
 http://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/04/14/12/53/368430.jpg" group-title="Peliculas Viejas",El planeta del tesoro (2002)
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/NUEVO%20CONTENIDO/El%20planeta%20del%20tesoro.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/03/25/11/14/498694.jpg" group-title="Peliculas Viejas",Piratas del Caribe: El cofre del hombre muerto (2006)
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/pelis/Piratas%20del%20Caribe%20El%20cofre%20de%20la%20muerte.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/18/09/26/00/19/1273486.jpg" group-title="Peliculas Viejas",Sé lo que hicieron el verano pasado (1997) CASTELLANO
