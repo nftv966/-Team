@@ -6,6 +6,12 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/iFj811q3NMMlvvuuyILegttemJQ.jpg" group-title="2022",Atividade Paranormal: Ente Proximo (2022)
+http://54.39.157.211/FILMES/Atividade.Paranormal.Ente.Proximo.2022.mp4
+
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/21/03/12/15/13/2689883.png" group-title="2021",Amarracao do Amor (2021)
+http://54.39.157.211/FILMES/Amarracao.do.Amor.2021.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/21/09/27/20/19/2539364.jpg" group-title="2021",Ainbo: A guerreira da Amazonia (2021)
 http://54.39.157.211/FILMES/Ainbo.A.Guerreira.da.Amazonia.2021.mp4
 #EXTINF:-1 tvg-logo="https://filmspot.com.pt/images/filmes/posters/big/559907_pt.jpg" group-title="2021",A lenda do Cavaleiro Verde (2021)
