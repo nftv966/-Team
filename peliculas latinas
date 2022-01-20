@@ -1284,6 +1284,10 @@ http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/221806.mkv
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/220302.mkv
 
 
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/21/02/05/15/07/1291652.jpg" group-title="2021",La chica del tren (2021)
+http://vod.tuxchannel.tv:80/peliculas/720/the%20girl%20on%20the%20train%202021.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71tsGbfT90L._SL1500_.jpg" group-title="2021",El Cazador de recompensas (2021)
+http://vod.tuxchannel.tv/peliculas/720/a%20soldiers%20revenge%202020.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/03/18/08/24/3888195.jpg" group-title="2021",Arlo el chico Caiman (2021)
 http://vod.tuxchannel.tv:80/peliculas/720/arlo%20the%20alligator%20boy%202021.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/14/14/35/2412453.jpg" group-title="2021",El efecto Marcus: Los casos del departamento Q (2021)
@@ -1465,6 +1469,7 @@ http://vod.tuxchannel.tv:80/peliculas/720/the%20suicide%20squad%202021.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/05/26/17/45/4238572.jpg" group-title="2021",La guerra del mañana (2021) DUAL
 http://vod.tuxchannel.tv:80/peliculas/720/the%20tomorrow%20war%202021.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/05/26/17/45/4238572.jpg" group-title="2021",La guerra del mañana (2021)
+https://dl.dropboxusercontent.com/s/re221mzlmbkp5l2/%20La%20Guerra%20Del%20Mañana%20(2021).mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/16/dd/4d/16dd4d2371b7e23b21a51159d383f111.png" group-title="2021",Jungle Cruise (2021)
 http://51.77.66.14/%5b2160%5d%20Jungle%20Cruise%20(2021)%20Latino/Jungle%20Cruise%20(2021).mkv
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/16/dd/4d/16dd4d2371b7e23b21a51159d383f111.png" group-title="2021",Jungle Cruise (2021) LAT
@@ -1559,6 +1564,12 @@ http://vod.tuxchannel.tv:80/peliculas/720/land%202021.mkv
 http://vod.tuxchannel.tv:80/peliculas/720/godzilla%20vs%20kong%202021.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/03/26/11/31/2110582.jpg" group-title="2020",Heroes: Silencio y Rock & Roll (2020)
+http://vod.tuxchannel.tv:80/peliculas/720/heroes%20silence%20and%20rock%20and%20roll%202021.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/21/04/28/18/35/4018534.jpg" group-title="2020",El niño de Medellín (2020)
+http://vod.tuxchannel.tv:80/peliculas/720/the%20boy%20from%20medellin%202020.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/20/09/10/09/48/2079319.jpg" group-title="2020",Charm city kings: Los Reyes de Baltimore (2020)
+http://vod.tuxchannel.tv/peliculas/720/charm%20city%20kings%202020.mkv
 #EXTINF:-1 tvg-logo="https://images.moviefit.me/t/o/425063-aliens-stole-my-body.jpg" group-title="2020",Los aliens me robaron el cuerpo (2020)
 http://vod.tuxchannel.tv:80/peliculas/720/aliens%20stole%20my%20body%202020.mkv
 #EXTINF:-1 tvg-logo="https://media.filmelier.com/images/tit/tit_15239/poster/tales-from-the-hood-349586.jpeg" group-title="2020",Historias del Barrio Negro 3 (2020)
@@ -2112,6 +2123,8 @@ http://archive.org/download/el.-inocente.-1955/Attraction_%20La%20guerra%20ha%20
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/03/27/17/40/153012.jpg" group-title="2017",Piratas del Caribe: La venganza de Salazar (2017)
 http://archive.org/download/piratas.-5.-br.-lat.-www.-hackstore.-net/PIRATAS.5.BR.LAT.Www.Hackstore.Net.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/05/12/14/55/272246.jpg" group-title="2017",Baby Driver (2017)
+http://tux-vod.dynu.com:80/peliculas/720/baby%20driver.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/05/12/14/55/272246.jpg" group-title="2017",Baby Driver (2017)
 http://archive.org/download/apocalypto.-2006/BABY.BR.LAT.Www.Hackstore.Net.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/17/08/23/07/36/172837.jpg" group-title="2017",El otro guardaespaldas 1: Duro de cuidar (2017)
 http://archive.org/download/duro-de-cuidar./CUIDAR..mp4
@@ -2253,6 +2266,8 @@ http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
 http://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/15/11/11/08/23/358565.jpg" group-title="Peliculas Viejas",Amanecer de los muertos (2004)
+http://tux-vod.dynu.com:80/peliculas/720/dawn of the dead.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/19/06/11/18/46/0820905.jpg" group-title="Peliculas Viejas",Amar te duele (2002)
 http://tux-vod.dynu.com/peliculas/720/amar%20te%20duele%202002.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/68/01/52/20051612.jpg" group-title="Peliculas Viejas",Los Simpson: La película (2007)
@@ -2393,6 +2408,8 @@ http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/pelis/Pirat
 http://archive.org/download/la-vida-es-bella/La%20vida%20es%20bella.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81K7jHPy7RL._RI_.jpg" group-title="Peliculas Viejas",Calles de fuego (1984)
 http://archive.org/download/calles.-de.-fuego/Calles.De.Fuego.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f5/df/21/f5df21aadf7dd93012719a9e3bf52f34.jpg" group-title="Peliculas Viejas",Invasión a la Tierra: Batalla Los Angeles (2011)
+http://tux-vod.dynu.com:80/peliculas/720/invancion%20del%20mundo%20batalla%20los%20angeles.mkv
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f5/df/21/f5df21aadf7dd93012719a9e3bf52f34.jpg" group-title="Peliculas Viejas",Invasión a la Tierra: Batalla Los Angeles (2011)
 http://archive.org/download/busqueda-implacable-1/Batalla%20en%20Los%20Angeles.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/91MkB5AslRL._SL1500_.jpg" group-title="Peliculas Viejas",Bajo el mismo techo (2013)
