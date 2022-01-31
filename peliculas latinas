@@ -5,6 +5,22 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 #EXTINF:-1 tvg-logo="https://www.lifeder.com/wp-content/uploads/2016/07/pel%C3%ADculas-recomendadas.jpg" group-title="PELICULAS GRATIS",PELICULAS GRATIS
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/05/09/48/4964345.jpg" group-title="2022 Serv 51",Ice Age: Las aventuras de Buck (2022)
+http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/232232.mkv
+#EXTINF:-1 tvg-logo="https://images.moviefit.me/t/o/669506-tom-jerry-cowboy-up.jpg" group-title="2022 Serv 51",Tom & Jerry: Arriba vaquero! (2022)
+http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/232199.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/12/15/07/35/3334858.jpg" group-title="2022 Serv 51",Jugar en casa (2022)
+http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/232196.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/daeVrgyj0ue8qb3AHyU3UeCwoZz.jpg" group-title="2022 Serv 51",American Siege (2022)
+http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/231609.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/27/20/40/4695150.jpg" group-title="2022 Serv 51",El violín de mi padre (2022)
+http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/230135.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/12/22/10/45/1093017.jpg" group-title="2022 Serv 51",Tratamiento real (2022)
+http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/230032.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/21/11/23/09/49/1154871.jpg" group-title="2022 Serv 51",Ray Donovan: La pelicula (2022)
+http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/229579.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/12/16/10/24/5929121.jpg" group-title="2022 Serv 51",Sin pudor (2022)
+http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/229470.mkv
 #EXTINF:-1 tvg-logo="https://estaticos-cdn.sport.es/clip/9867e46c-f5fe-4ff5-ae8a-41604d7e180a_alta-libre-aspect-ratio_default_0.jpg" group-title="2022 Serv 51",20º Aniversario: Regreso a Hogwarts (2022)
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/226092.mkv
 #EXTINF:-1 tvg-logo="https://estaticos-cdn.sport.es/clip/9867e46c-f5fe-4ff5-ae8a-41604d7e180a_alta-libre-aspect-ratio_default_0.jpg" group-title="2022 Serv 51",20º Aniversario: Regreso a Hogwarts (2022) LATINO
@@ -570,6 +586,8 @@ http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/182458.mkv
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/210796.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/18/13/22/0727455.jpg" group-title="2021 Serv 51",Hotel Transilvania 4 (2021)
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/183905.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/18/13/22/0727455.jpg" group-title="2021 Serv 51",Hotel Transilvania 4 (2021)
+http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/229447.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/05/18/21/1434252.jpg" group-title="2021 Serv 51",I Care a Lot (2021)
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/172725.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/05/18/21/1434252.jpg" group-title="2021 Serv 51",I Care a Lot (2021)
