@@ -49,6 +49,13 @@ http://vods.tuxchannel.tv/series/absentia/s_02_e_09.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/06/19/03/09/0765522.jpg" group-title="Absentia T2",Cap. 10
 http://vods.tuxchannel.tv/series/absentia/s_02_e_10.mkv
 
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/09/09/16/04/2781600.jpg" group-title="Alguien tiene que morir",Cap. 01
+http://vods.tuxchannel.tv/series/alguien_tiene_que_morir/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/09/09/16/04/2781600.jpg" group-title="Alguien tiene que morir",Cap. 02
+http://vods.tuxchannel.tv/series/alguien_tiene_que_morir/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/09/09/16/04/2781600.jpg" group-title="Alguien tiene que morir",Cap. 03
+http://vods.tuxchannel.tv/series/alguien_tiene_que_morir/s_01_e_03.mkv
+
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/11/25/07/30/3603199.jpg" group-title="Alta mar T1",Cap. 01
 http://vods.tuxchannel.tv/series/alta_mar/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/11/25/07/30/3603199.jpg" group-title="Alta mar T1",Cap. 02
@@ -2048,14 +2055,24 @@ http://vods.tuxchannel.tv/series/wu_assassins/s_01_e_10.mkv
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 http://vods.tuxchannel.tv/series/el_marginal/s_01_e_01.mkv
 http://vods.tuxchannel.tv/series/de_brutas_nada/s_01_e_01.mkv
 
-
-
 http://vods.tuxchannel.tv/series/chicago_med/s_01_e_01.mkv
 
-http://vods.tuxchannel.tv/series/alguien_tiene_que_morir/s_01_e_01.mkv
+
 
 http://vods.tuxchannel.tv/series/el_dragon/s_01_e_01.mkv
 
