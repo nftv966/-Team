@@ -7,6 +7,48 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/06/19/02/48/5347624.jpg" group-title="Absentia T1",Cap. 01
+http://vods.tuxchannel.tv/series/absentia/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/06/19/02/48/5347624.jpg" group-title="Absentia T1",Cap. 02
+http://vods.tuxchannel.tv/series/absentia/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/06/19/02/48/5347624.jpg" group-title="Absentia T1",Cap. 03
+http://vods.tuxchannel.tv/series/absentia/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/06/19/02/48/5347624.jpg" group-title="Absentia T1",Cap. 04
+http://vods.tuxchannel.tv/series/absentia/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/06/19/02/48/5347624.jpg" group-title="Absentia T1",Cap. 05
+http://vods.tuxchannel.tv/series/absentia/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/06/19/02/48/5347624.jpg" group-title="Absentia T1",Cap. 06
+http://vods.tuxchannel.tv/series/absentia/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/06/19/02/48/5347624.jpg" group-title="Absentia T1",Cap. 07
+http://vods.tuxchannel.tv/series/absentia/s_01_e_07.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/06/19/02/48/5347624.jpg" group-title="Absentia T1",Cap. 08
+http://vods.tuxchannel.tv/series/absentia/s_01_e_08.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/06/19/02/48/5347624.jpg" group-title="Absentia T1",Cap. 09
+http://vods.tuxchannel.tv/series/absentia/s_01_e_09.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/06/19/02/48/5347624.jpg" group-title="Absentia T1",Cap. 10
+http://vods.tuxchannel.tv/series/absentia/s_01_e_10.mkv
+
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/06/19/03/09/0765522.jpg" group-title="Absentia T2",Cap. 01
+http://vods.tuxchannel.tv/series/absentia/s_02_e_01.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/06/19/03/09/0765522.jpg" group-title="Absentia T2",Cap. 02
+http://vods.tuxchannel.tv/series/absentia/s_02_e_02.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/06/19/03/09/0765522.jpg" group-title="Absentia T2",Cap. 03
+http://vods.tuxchannel.tv/series/absentia/s_02_e_03.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/06/19/03/09/0765522.jpg" group-title="Absentia T2",Cap. 04
+http://vods.tuxchannel.tv/series/absentia/s_02_e_04.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/06/19/03/09/0765522.jpg" group-title="Absentia T2",Cap. 05
+http://vods.tuxchannel.tv/series/absentia/s_02_e_05.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/06/19/03/09/0765522.jpg" group-title="Absentia T2",Cap. 06
+http://vods.tuxchannel.tv/series/absentia/s_02_e_06.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/06/19/03/09/0765522.jpg" group-title="Absentia T2",Cap. 07
+http://vods.tuxchannel.tv/series/absentia/s_02_e_07.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/06/19/03/09/0765522.jpg" group-title="Absentia T2",Cap. 08
+http://vods.tuxchannel.tv/series/absentia/s_02_e_08.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/06/19/03/09/0765522.jpg" group-title="Absentia T2",Cap. 09
+http://vods.tuxchannel.tv/series/absentia/s_02_e_09.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/06/19/03/09/0765522.jpg" group-title="Absentia T2",Cap. 10
+http://vods.tuxchannel.tv/series/absentia/s_02_e_10.mkv
+
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/21/09/58/0668101.jpg" group-title="Black Summer",Cap. 01
 http://vods.tuxchannel.tv/series/black_summer/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/21/09/58/0668101.jpg" group-title="Black Summer",Cap. 02
@@ -1688,11 +1730,6 @@ http://vods.tuxchannel.tv/series/wu_assassins/s_01_e_10.mkv
 
 
 
-
-
-
-
-
 http://vods.tuxchannel.tv/series/el_marginal/s_01_e_01.mkv
 http://vods.tuxchannel.tv/series/de_brutas_nada/s_01_e_01.mkv
 
@@ -1704,7 +1741,7 @@ http://vods.tuxchannel.tv/series/truth_seekers/s_01_e_01.mkv
 
 http://vods.tuxchannel.tv/series/good_omens/s_01_e_01.mkv
 
-http://vods.tuxchannel.tv/series/absentia/s_01_e_01.mkv
+
 
 http://vods.tuxchannel.tv/series/el_cid/s_01_e_01.mkv
 
