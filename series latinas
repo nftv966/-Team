@@ -2825,6 +2825,21 @@ http://vods.tuxchannel.tv/series/manifest/s_03_e_12.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/02/19/10/37/2512632.jpg" group-title="Manifest T3 (SUB)",Cap. 13
 http://vods.tuxchannel.tv/series/manifest/s_03_e_13.mkv
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/09/09/08/34/1223657.jpg" group-title="Misa de medianoche",Cap. 01
+http://vods.tuxchannel.tv/series/midnight_mass/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/09/09/08/34/1223657.jpg" group-title="Misa de medianoche",Cap. 02
+http://vods.tuxchannel.tv/series/midnight_mass/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/09/09/08/34/1223657.jpg" group-title="Misa de medianoche",Cap. 03
+http://vods.tuxchannel.tv/series/midnight_mass/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/09/09/08/34/1223657.jpg" group-title="Misa de medianoche",Cap. 04
+http://vods.tuxchannel.tv/series/midnight_mass/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/09/09/08/34/1223657.jpg" group-title="Misa de medianoche",Cap. 05
+http://vods.tuxchannel.tv/series/midnight_mass/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/09/09/08/34/1223657.jpg" group-title="Misa de medianoche",Cap. 06
+http://vods.tuxchannel.tv/series/midnight_mass/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/09/09/08/34/1223657.jpg" group-title="Misa de medianoche",Cap. 07
+http://vods.tuxchannel.tv/series/midnight_mass/s_01_e_07.mkv
+
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/06/17/14/31/4362440.jpg" group-title="Oscuro Deseo T1",Cap. 01
 http://vods.tuxchannel.tv/series/oscuro_deseo/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/06/17/14/31/4362440.jpg" group-title="Oscuro Deseo T1",Cap. 02
@@ -4299,9 +4314,6 @@ http://vods.tuxchannel.tv/series/wu_assassins/s_01_e_08.mkv
 http://vods.tuxchannel.tv/series/wu_assassins/s_01_e_09.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/19/07/25/10/50/0860353.jpg" group-title="Wu Assassins",Cap. 10
 http://vods.tuxchannel.tv/series/wu_assassins/s_01_e_10.mkv
-
-
-
 
 
 
