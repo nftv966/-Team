@@ -40,3 +40,16 @@ http://ccdnblck.xyz:80/Andre2022/2022Andre/49283
 http://ccdnblck.xyz:80/Andre2022/2022Andre/49284
 #EXTINF:-1 tvg-logo="https://jhnoticias.com.br/wp-content/uploads/2022/01/BBB-22-tera-botao-de-eliminacao-na-sala-de-estar.jpg" group-title="BBB Ccdn",BBB 08
 http://ccdnblck.xyz:80/Andre2022/2022Andre/49285
+
+#EXTINF:-1 tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2021/12/12184118/BBB22-1024x576.jpeg" group-title="BBB B5vc",BBB Mosaico SD
+http://b5.vc:80/Jhonleno/102030/147209.ts
+#EXTINF:-1 tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2021/12/12184118/BBB22-1024x576.jpeg" group-title="BBB B5vc",BBB Mosaico HD
+http://b5.vc:80/Jhonleno/102030/147208.ts
+#EXTINF:-1 tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2021/12/12184118/BBB22-1024x576.jpeg" group-title="BBB B5vc",BBB SD 1
+http://b5.vc:80/Jhonleno/102030/147203.ts
+#EXTINF:-1 tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2021/12/12184118/BBB22-1024x576.jpeg" group-title="BBB B5vc",BBB 1 HD
+http://b5.vc:80/Jhonleno/102030/147202.ts
+#EXTINF:-1 tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2021/12/12184118/BBB22-1024x576.jpeg" group-title="BBB B5vc",BBB SD 2
+http://b5.vc:80/Jhonleno/102030/147206.ts
+#EXTINF:-1 tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2021/12/12184118/BBB22-1024x576.jpeg" group-title="BBB B5vc",BBB HD 2
+http://b5.vc:80/Jhonleno/102030/147205.ts
