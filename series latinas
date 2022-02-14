@@ -2057,6 +2057,25 @@ http://vods.tuxchannel.tv/series/fringe/s_04_e_21.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/01/17/19/56/258898.jpg" group-title="Fringe: Al limite T4",Cap. 22
 http://vods.tuxchannel.tv/series/fringe/s_04_e_22.mkv
 
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/10/01/17/02/0432191.jpg" group-title="Gangs of London T1 (SUB)",Cap. 01
+http://vods.tuxchannel.tv/series/gangs_of_london/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/10/01/17/02/0432191.jpg" group-title="Gangs of London T1 (SUB)",Cap. 02
+http://vods.tuxchannel.tv/series/gangs_of_london/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/10/01/17/02/0432191.jpg" group-title="Gangs of London T1 (SUB)",Cap. 03
+http://vods.tuxchannel.tv/series/gangs_of_london/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/10/01/17/02/0432191.jpg" group-title="Gangs of London T1 (SUB)",Cap. 04
+http://vods.tuxchannel.tv/series/gangs_of_london/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/10/01/17/02/0432191.jpg" group-title="Gangs of London T1 (SUB)",Cap. 05
+http://vods.tuxchannel.tv/series/gangs_of_london/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/10/01/17/02/0432191.jpg" group-title="Gangs of London T1 (SUB)",Cap. 06
+http://vods.tuxchannel.tv/series/gangs_of_london/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/10/01/17/02/0432191.jpg" group-title="Gangs of London T1 (SUB)",Cap. 07
+http://vods.tuxchannel.tv/series/gangs_of_london/s_01_e_07.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/10/01/17/02/0432191.jpg" group-title="Gangs of London T1 (SUB)",Cap. 08
+http://vods.tuxchannel.tv/series/gangs_of_london/s_01_e_08.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/10/01/17/02/0432191.jpg" group-title="Gangs of London T1 (SUB)",Cap. 09
+http://vods.tuxchannel.tv/series/gangs_of_london/s_01_e_09.mkv
+
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/11/08/21/22/2802623.jpg" group-title="Good Omens: Buenos presagios",Cap. 01
 http://vods.tuxchannel.tv/series/good_omens/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/11/08/21/22/2802623.jpg" group-title="Good Omens: Buenos presagios",Cap. 02
@@ -3081,6 +3100,19 @@ http://vods.tuxchannel.tv/series/next/s_01_e_08.mkv
 http://vods.tuxchannel.tv/series/next/s_01_e_09.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/08/05/11/23/5226600.jpg" group-title="Next: Siguiente",Cap. 10
 http://vods.tuxchannel.tv/series/next/s_01_e_10.mkv
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/20/01/28/20/34/0330597.jpg" group-title="Omnisciente",Cap. 01
+http://vods.tuxchannel.tv/series/omniscient/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/20/01/28/20/34/0330597.jpg" group-title="Omnisciente",Cap. 02
+http://vods.tuxchannel.tv/series/omniscient/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/20/01/28/20/34/0330597.jpg" group-title="Omnisciente",Cap. 03
+http://vods.tuxchannel.tv/series/omniscient/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/20/01/28/20/34/0330597.jpg" group-title="Omnisciente",Cap. 04
+http://vods.tuxchannel.tv/series/omniscient/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/20/01/28/20/34/0330597.jpg" group-title="Omnisciente",Cap. 05
+http://vods.tuxchannel.tv/series/omniscient/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/20/01/28/20/34/0330597.jpg" group-title="Omnisciente",Cap. 06
+http://vods.tuxchannel.tv/series/omniscient/s_01_e_06.mkv
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/06/17/14/31/4362440.jpg" group-title="Oscuro Deseo T1",Cap. 01
 http://vods.tuxchannel.tv/series/oscuro_deseo/s_01_e_01.mkv
@@ -4489,6 +4521,48 @@ http://vods.tuxchannel.tv/series/truth_seekers/s_01_e_06.mkv
 http://vods.tuxchannel.tv/series/truth_seekers/s_01_e_07.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/09/24/11/54/2673946.png" group-title="Truth Seekers: Investigadores de la verdad",Cap. 08
 http://vods.tuxchannel.tv/series/truth_seekers/s_01_e_08.mkv
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/02/19/42/1961632.jpg" group-title="Undercover: Operacion Extasis T1",Cap. 01
+http://vods.tuxchannel.tv/series/undercover/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/02/19/42/1961632.jpg" group-title="Undercover: Operacion Extasis T1",Cap. 02
+http://vods.tuxchannel.tv/series/undercover/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/02/19/42/1961632.jpg" group-title="Undercover: Operacion Extasis T1",Cap. 03
+http://vods.tuxchannel.tv/series/undercover/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/02/19/42/1961632.jpg" group-title="Undercover: Operacion Extasis T1",Cap. 04
+http://vods.tuxchannel.tv/series/undercover/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/02/19/42/1961632.jpg" group-title="Undercover: Operacion Extasis T1",Cap. 05
+http://vods.tuxchannel.tv/series/undercover/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/02/19/42/1961632.jpg" group-title="Undercover: Operacion Extasis T1",Cap. 06
+http://vods.tuxchannel.tv/series/undercover/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/02/19/42/1961632.jpg" group-title="Undercover: Operacion Extasis T1",Cap. 07
+http://vods.tuxchannel.tv/series/undercover/s_01_e_07.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/02/19/42/1961632.jpg" group-title="Undercover: Operacion Extasis T1",Cap. 08
+http://vods.tuxchannel.tv/series/undercover/s_01_e_08.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/02/19/42/1961632.jpg" group-title="Undercover: Operacion Extasis T1",Cap. 09
+http://vods.tuxchannel.tv/series/undercover/s_01_e_09.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/02/19/42/1961632.jpg" group-title="Undercover: Operacion Extasis T1",Cap. 10
+http://vods.tuxchannel.tv/series/undercover/s_01_e_10.mkv
+
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/20/09/07/09/50/4041654.jpg" group-title="Undercover: Operacion Extasis T2",Cap. 01
+http://vods.tuxchannel.tv/series/undercover/s_02_e_01.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/20/09/07/09/50/4041654.jpg" group-title="Undercover: Operacion Extasis T2",Cap. 02
+http://vods.tuxchannel.tv/series/undercover/s_02_e_02.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/20/09/07/09/50/4041654.jpg" group-title="Undercover: Operacion Extasis T2",Cap. 03
+http://vods.tuxchannel.tv/series/undercover/s_02_e_03.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/20/09/07/09/50/4041654.jpg" group-title="Undercover: Operacion Extasis T2",Cap. 04
+http://vods.tuxchannel.tv/series/undercover/s_02_e_04.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/20/09/07/09/50/4041654.jpg" group-title="Undercover: Operacion Extasis T2",Cap. 05
+http://vods.tuxchannel.tv/series/undercover/s_02_e_05.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/20/09/07/09/50/4041654.jpg" group-title="Undercover: Operacion Extasis T2",Cap. 06
+http://vods.tuxchannel.tv/series/undercover/s_02_e_06.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/20/09/07/09/50/4041654.jpg" group-title="Undercover: Operacion Extasis T2",Cap. 07
+http://vods.tuxchannel.tv/series/undercover/s_02_e_07.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/20/09/07/09/50/4041654.jpg" group-title="Undercover: Operacion Extasis T2",Cap. 08
+http://vods.tuxchannel.tv/series/undercover/s_02_e_08.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/20/09/07/09/50/4041654.jpg" group-title="Undercover: Operacion Extasis T2",Cap. 09
+http://vods.tuxchannel.tv/series/undercover/s_02_e_09.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/20/09/07/09/50/4041654.jpg" group-title="Undercover: Operacion Extasis T2",Cap. 10
+http://vods.tuxchannel.tv/series/undercover/s_02_e_10.mkv
 
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/17/07/27/1660652.jpg" group-title="Upload",Cap. 01
 http://vods.tuxchannel.tv/series/upload/s_01_e_01.mkv
