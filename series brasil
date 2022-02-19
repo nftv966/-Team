@@ -6,6 +6,9 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
+
+
+
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg" group-title="Cobra Kai T4",Cap. 01
 http://54.39.157.211/SERIES/COBRAKAI/4/Cobra.Kai.S04E01.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg" group-title="Cobra Kai T4",Cap. 02
@@ -27,6 +30,34 @@ http://54.39.157.211/SERIES/COBRAKAI/4/Cobra.Kai.S04E09.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg" group-title="Cobra Kai T4",Cap. 10
 http://54.39.157.211/SERIES/COBRAKAI/4/Cobra.Kai.S04E10.mp4
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/15/09/54/5190078.jpg" group-title="Depois da festa",Cap. 01
+http://54.39.157.211/SERIES/DEPOISDAFESTA/1/The.Afterparty.S01E01.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/15/09/54/5190078.jpg" group-title="Depois da festa",Cap. 02
+http://54.39.157.211/SERIES/DEPOISDAFESTA/1/The.Afterparty.S01E02.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/15/09/54/5190078.jpg" group-title="Depois da festa",Cap. 03
+http://54.39.157.211/SERIES/DEPOISDAFESTA/1/The.Afterparty.S01E03.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/15/09/54/5190078.jpg" group-title="Depois da festa",Cap. 04
+http://54.39.157.211/SERIES/DEPOISDAFESTA/1/The.Afterparty.S01E04.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/15/09/54/5190078.jpg" group-title="Depois da festa",Cap. 05
+http://54.39.157.211/SERIES/DEPOISDAFESTA/1/The.Afterparty.S01E05.mp4
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/03/03/11/49/1544318.png" group-title="DOTA: Sangue do dragao T2",Cap. 01
+http://54.39.157.211/SERIES/DOTA/2/DOTA.Dragons.Blood.S02E01.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/03/03/11/49/1544318.png" group-title="DOTA: Sangue do dragao T2",Cap. 02
+http://54.39.157.211/SERIES/DOTA/2/DOTA.Dragons.Blood.S02E02.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/03/03/11/49/1544318.png" group-title="DOTA: Sangue do dragao T2",Cap. 03
+http://54.39.157.211/SERIES/DOTA/2/DOTA.Dragons.Blood.S02E03.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/03/03/11/49/1544318.png" group-title="DOTA: Sangue do dragao T2",Cap. 04
+http://54.39.157.211/SERIES/DOTA/2/DOTA.Dragons.Blood.S02E04.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/03/03/11/49/1544318.png" group-title="DOTA: Sangue do dragao T2",Cap. 05
+http://54.39.157.211/SERIES/DOTA/2/DOTA.Dragons.Blood.S02E05.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/03/03/11/49/1544318.png" group-title="DOTA: Sangue do dragao T2",Cap. 06
+http://54.39.157.211/SERIES/DOTA/2/DOTA.Dragons.Blood.S02E06.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/03/03/11/49/1544318.png" group-title="DOTA: Sangue do dragao T2",Cap. 07
+http://54.39.157.211/SERIES/DOTA/2/DOTA.Dragons.Blood.S02E07.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/03/03/11/49/1544318.png" group-title="DOTA: Sangue do dragao T2",Cap. 08
+http://54.39.157.211/SERIES/DOTA/2/DOTA.Dragons.Blood.S02E08.mp4
+
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/12/03/10/36/5987829.jpg" group-title="Estacao Once T1",Cap. 01
 http://54.39.157.211/SERIES/ESTACAO/1/Station.Eleven.S01E01.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/12/03/10/36/5987829.jpg" group-title="Estacao Once T1",Cap. 02
@@ -47,6 +78,19 @@ http://54.39.157.211/SERIES/ESTACAO/1/Station.Eleven.S01E08.mp4
 http://54.39.157.211/SERIES/ESTACAO/1/Station.Eleven.S01E09.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/12/03/10/36/5987829.jpg" group-title="Estacao Once T1",Cap. 10
 http://54.39.157.211/SERIES/ESTACAO/1/Station.Eleven.S01E10.mp4
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/12/01/12/10/4941822.jpg" group-title="Fora de orbita",Cap. 01
+http://54.39.157.211/SERIES/FORADEOBITA/1/The.Orbital.Children.S01E01.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/12/01/12/10/4941822.jpg" group-title="Fora de orbita",Cap. 02
+http://54.39.157.211/SERIES/FORADEOBITA/1/The.Orbital.Children.S01E02.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/12/01/12/10/4941822.jpg" group-title="Fora de orbita",Cap. 03
+http://54.39.157.211/SERIES/FORADEOBITA/1/The.Orbital.Children.S01E03.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/12/01/12/10/4941822.jpg" group-title="Fora de orbita",Cap. 04
+http://54.39.157.211/SERIES/FORADEOBITA/1/The.Orbital.Children.S01E04.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/12/01/12/10/4941822.jpg" group-title="Fora de orbita",Cap. 05
+http://54.39.157.211/SERIES/FORADEOBITA/1/The.Orbital.Children.S01E05.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/12/01/12/10/4941822.jpg" group-title="Fora de orbita",Cap. 06
+http://54.39.157.211/SERIES/FORADEOBITA/1/The.Orbital.Children.S01E06.mp4
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/01/16/20/1863514.jpg" group-title="O Livro de Boba Fett T1",Cap. 01
 http://54.39.157.211/SERIES/BOBAFETT/1/O.Livro.de.Boba.Fett.S01E01.mp4
@@ -83,18 +127,42 @@ http://54.39.157.211/SERIES/PACIFICADOR/1/Pacificador.S01E03.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/12/06/10/52/1598963.jpg" group-title="O Pacificador T1",Cap. 04
 http://54.39.157.211/SERIES/PACIFICADOR/1/Pacificador.S01E04.mp4
 
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/01/07/14/03/5774540.jpg" group-title="Pam & Tommy",Cap. 01
+http://54.39.157.211/SERIES/PAMETOMMY/1/Pam.And.Tommy.S01E01.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/01/07/14/03/5774540.jpg" group-title="Pam & Tommy",Cap. 02
+http://54.39.157.211/SERIES/PAMETOMMY/1/Pam.And.Tommy.S01E02.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/01/07/14/03/5774540.jpg" group-title="Pam & Tommy",Cap. 03
+http://54.39.157.211/SERIES/PAMETOMMY/1/Pam.And.Tommy.S01E03.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/01/07/14/03/5774540.jpg" group-title="Pam & Tommy",Cap. 04
+http://54.39.157.211/SERIES/PAMETOMMY/1/Pam.And.Tommy.S01E04.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/01/07/14/03/5774540.jpg" group-title="Pam & Tommy",Cap. 05
+http://54.39.157.211/SERIES/PAMETOMMY/1/Pam.And.Tommy.S01E05.mp4
 
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/21/09/20/01/39/3649807.jpg" group-title="The Good Karma Hospital T2",Cap. 01
+http://54.39.157.211/SERIES/KARMA/2/The.Good.Karma.Hospital.S02E01.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/21/09/20/01/39/3649807.jpg" group-title="The Good Karma Hospital T2",Cap. 02
+http://54.39.157.211/SERIES/KARMA/2/The.Good.Karma.Hospital.S02E02.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/21/09/20/01/39/3649807.jpg" group-title="The Good Karma Hospital T2",Cap. 03
+http://54.39.157.211/SERIES/KARMA/2/The.Good.Karma.Hospital.S02E03.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/21/09/20/01/39/3649807.jpg" group-title="The Good Karma Hospital T2",Cap. 04
+http://54.39.157.211/SERIES/KARMA/2/The.Good.Karma.Hospital.S02E04.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/21/09/20/01/39/3649807.jpg" group-title="The Good Karma Hospital T2",Cap. 05
+http://54.39.157.211/SERIES/KARMA/2/The.Good.Karma.Hospital.S02E05.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/21/09/20/01/39/3649807.jpg" group-title="The Good Karma Hospital T2",Cap. 06
+http://54.39.157.211/SERIES/KARMA/2/The.Good.Karma.Hospital.S02E06.mp4
 
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81iFJPzM2rL._AC_SY606_.jpg" group-title="The Good Karma Hospital T3",Cap. 01
+http://54.39.157.211/SERIES/KARMA/3/The.Good.Karma.Hospital.S03E01.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81iFJPzM2rL._AC_SY606_.jpg" group-title="The Good Karma Hospital T3",Cap. 02
+http://54.39.157.211/SERIES/KARMA/3/The.Good.Karma.Hospital.S03E02.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81iFJPzM2rL._AC_SY606_.jpg" group-title="The Good Karma Hospital T3",Cap. 03
+http://54.39.157.211/SERIES/KARMA/3/The.Good.Karma.Hospital.S03E03.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81iFJPzM2rL._AC_SY606_.jpg" group-title="The Good Karma Hospital T3",Cap. 04
+http://54.39.157.211/SERIES/KARMA/3/The.Good.Karma.Hospital.S03E04.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81iFJPzM2rL._AC_SY606_.jpg" group-title="The Good Karma Hospital T3",Cap. 05
+http://54.39.157.211/SERIES/KARMA/3/The.Good.Karma.Hospital.S03E05.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81iFJPzM2rL._AC_SY606_.jpg" group-title="The Good Karma Hospital T3",Cap. 06
+http://54.39.157.211/SERIES/KARMA/3/The.Good.Karma.Hospital.S03E06.mp4
 
 
 
