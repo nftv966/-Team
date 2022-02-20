@@ -5,6 +5,29 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 #EXTINF:-1 tvg-logo="https://www.lifeder.com/wp-content/uploads/2016/07/pel%C3%ADculas-recomendadas.jpg" group-title="PELICULAS GRATIS",PELICULAS GRATIS
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/22/01/28/00/52/0888734.jpg" group-title="2022 Serv 192",Erax (2022)
+http://192.64.86.228/%5ba%5d/Erax.2022.1080p-dual-lat-cinecalidad.lat.mp4
+#EXTINF:-1 tvg-logo="https://moviehaku.com/thumbs/films/400x590/Fistful-of-Vengeance.jpg" group-title="2022 Serv 192",Fistful of Vengeance (2022)
+http://192.64.86.228/%5ba%5d/Fistful.of.Vengeance.2022.lati.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/22/01/18/00/09/2113102.jpg" group-title="2022 Serv 192",Into the wind (2022)
+http://192.64.86.228/%5ba%5d/Into.the.Wind.2022.lati.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/27/09/57/4248015.jpg" group-title="2022 Serv 192",Kimi (2022)
+http://192.64.86.228/%5ba%5d/Kimi.2022.1080P.Latino.Cinecalidad.Lat.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/19/17/00/5182594.jpg" group-title="2022 Serv 192",Amarrados al amor (2022)
+http://192.64.86.228/%5ba%5d/Love.And.Leashes.2022.Web-Dl.1080P.Latino.Cinecalidad.Lat.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/22/01/26/01/51/4944793.jpg" group-title="2022 Serv 192",Tácticas de amor (2022)
+http://192.64.86.228/%5ba%5d/Love.Tactics.2022.1080p.Latino.Cinecalidad.lat.mp4
+#EXTINF:-1 tvg-logo="https://elfarandi.com/wp-content/uploads/2022/02/IMG_3081-688x1024.jpeg" group-title="2022 Serv 192",TQM (2022)
+http://192.64.86.228/%5ba%5d/TQM.2022.lati.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/20/10/37/5137053.jpg" group-title="2022 Serv 192",Tall Girl 2 (2022)
+http://192.64.86.228/%5ba%5d/Tall.Girl.2.2022.Web-Dl.1080P.Latino.Cinecalidad.Lat.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/31/10/28/0410704.jpg" group-title="2022 Serv 192",La matanza de Texas (2022)
+http://192.64.86.228/%5ba%5d/Texas.chainsaw.massacre.2022.1080p-dual-lat-cinecalidad.lat.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/12/18/16/0246390.jpg" group-title="2022 Serv 192",La hija del rey (2022)
+http://192.64.86.228/%5ba%5d/The.Kings.Daughter.2022.lati.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/22/01/12/09/52/4464656.jpg" group-title="2022 Serv 192",The sky is everywhere (2022)
+http://192.64.86.228/%5ba%5d/The.Sky.Is.Everywhere.2022.lati.mp4
+
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/21/12/10/22/46/3336792.png" group-title="2022 Serv 51",4 mitades (2022)
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/226878.mkv
 #EXTINF:-1 tvg-logo="https://estaticos-cdn.sport.es/clip/9867e46c-f5fe-4ff5-ae8a-41604d7e180a_alta-libre-aspect-ratio_default_0.jpg" group-title="2022 Serv 51",20º Aniversario: Regreso a Hogwarts (2022)
@@ -44,6 +67,29 @@ http://vod.tuxchannel.tv/peliculas/720/tom%20and%20jerry%20cowboy%20up%202022.mk
 http://vod.tuxchannel.tv/peliculas/720/the%20royal%20treatment%202022.mkv
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/21/11/23/09/49/1154871.jpg" group-title="2022 TUX",Ray Donovan: La pelicula (2022)
 http://vod.tuxchannel.tv/peliculas/720/ray%20donovan%20the%20movie.mkv
+
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/22/01/21/11/17/3553390.jpg" group-title="2021 Serv 192",AI Love you (2021)
+http://192.64.86.228/%5ba%5d/AI.Love.You.2021.lati.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/21/12/25/4775272.jpg" group-title="2021 Serv 192",Eiffel (2021)
+http://192.64.86.228/%5ba%5d/Eiffel.2021.1080p-dual-lat-cinecalidad.lat.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/11/18/00/22/2824117.jpg" group-title="2021 Serv 192",Hide And Seek (2021)
+http://192.64.86.228/%5ba%5d/Hide.and.Seek.2021.lati.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/09/11/05/3181703.jpg" group-title="2021 Serv 192",El callejón de las almas perdidas (2021)
+http://192.64.86.228/%5ba%5d/Nightmare.Alley.2021.lati.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/07/11/06/4600976.jpg" group-title="2021 Serv 192",Poliamor para principiantes (2021)
+http://192.64.86.228/%5ba%5d/Poliamor.para.principiantes.(2021).mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/510GBIzeq+L.jpg" group-title="2021 Serv 192",The Gateway (2021)
+http://192.64.86.228/%5ba%5d/The.Gateway.2021.lati.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/21/11/10/21/21/1425722.jpg" group-title="2021 Serv 192",The Hating Game (2021)
+http://192.64.86.228/%5ba%5d/The.Hating.Game.2021.lati.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/07/02/11/47/1576324.jpg" group-title="2021 Serv 192",Mi primer beso 3 (2021)
+http://192.64.86.228/%5ba%5d/The.Kissing.Booth.3.2021.dual.lat.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/17/11/11/5648054.jpg" group-title="2021 Serv 192",The voyeurs (2021)
+http://192.64.86.228/%5ba%5d/The.Voyeurs.2021.lati.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/22/01/10/21/52/4950603.jpg" group-title="2021 Serv 192",La primera ola (2021)
+http://192.64.86.228/%5ba%5d/The.first.wave.2021.1080p-dual-lat-cinecalidad.lat.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5p5SW2L3AcL64UHBLs6vRHXmrgp.jpg" group-title="2021 Serv 192",Traición y deseo (2021)
+http://192.64.86.228/%5ba%5d/Trust.2021.lati.mp4
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/09/10/40/0885856.jpg" group-title="2021 Serv 51",007: Sin Tiempo Para Morir (2021)
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/219400.mkv
@@ -3112,4 +3158,3 @@ http://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
 http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/c_215_290/pictures/16/02/25/16/01/464057.jpg" group-title="Peliculas Viejas",Prometeus (2012)
 http://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
-
