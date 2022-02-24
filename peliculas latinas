@@ -7,9 +7,9 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/22/01/28/00/52/0888734.jpg" group-title="2022 Serv 192",Erax (2022)
 http://192.64.86.228/%5ba%5d/Erax.2022.1080p-dual-lat-cinecalidad.lat.mp4
-#EXTINF:-1 tvg-logo="https://moviehaku.com/thumbs/films/400x590/Fistful-of-Vengeance.jpg" group-title="2022 Serv 192",Venganza a golpes (2022)
+#EXTINF:-1 tvg-logo="https://moviehaku.com/thumbs/films/400x590/Fistful-of-Vengeance.jpg" group-title="2022 Serv 192",Fistful of Vengeance (2022)
 http://192.64.86.228/%5ba%5d/Fistful.of.Vengeance.2022.lati.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/22/01/18/00/09/2113102.jpg" group-title="2022 Serv 192",En el viento (2022)
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/22/01/18/00/09/2113102.jpg" group-title="2022 Serv 192",Into the wind (2022)
 http://192.64.86.228/%5ba%5d/Into.the.Wind.2022.lati.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/27/09/57/4248015.jpg" group-title="2022 Serv 192",Kimi (2022)
 http://192.64.86.228/%5ba%5d/Kimi.2022.1080P.Latino.Cinecalidad.Lat.mp4
@@ -25,7 +25,7 @@ http://192.64.86.228/%5ba%5d/Tall.Girl.2.2022.Web-Dl.1080P.Latino.Cinecalidad.La
 http://192.64.86.228/%5ba%5d/Texas.chainsaw.massacre.2022.1080p-dual-lat-cinecalidad.lat.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/12/18/16/0246390.jpg" group-title="2022 Serv 192",La hija del rey (2022)
 http://192.64.86.228/%5ba%5d/The.Kings.Daughter.2022.lati.mp4
-#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/22/01/12/09/52/4464656.jpg" group-title="2022 Serv 192",El cielo está en todas partes (2022)
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/22/01/12/09/52/4464656.jpg" group-title="2022 Serv 192",The sky is everywhere (2022)
 http://192.64.86.228/%5ba%5d/The.Sky.Is.Everywhere.2022.lati.mp4
 
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/21/12/10/22/46/3336792.png" group-title="2022 Serv 51",4 mitades (2022)
@@ -53,6 +53,8 @@ http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/229470.mkv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/WWE_Day_1_%282022%29_poster.jpg/220px-WWE_Day_1_%282022%29_poster.jpg" group-title="2022 Serv 51",WWE Day 1 (2022)
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/226125.mkv
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/27/23/19/3798574.jpg" group-title="2022 TUX",Torn (2022)
+http://vod.tuxchannel.tv/peliculas/720/torn%202022.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/daeVrgyj0ue8qb3AHyU3UeCwoZz.jpg" group-title="2022 TUX",American Siege: Emboscada (2022)
 http://vod.tuxchannel.tv/peliculas/720/american%20siege%202022.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/12/09/46/2351700.jpg" group-title="2022 TUX",El timador de Tinder (2022)
@@ -72,15 +74,15 @@ http://vod.tuxchannel.tv/peliculas/720/ray%20donovan%20the%20movie.mkv
 http://192.64.86.228/%5ba%5d/AI.Love.You.2021.lati.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/21/12/25/4775272.jpg" group-title="2021 Serv 192",Eiffel (2021)
 http://192.64.86.228/%5ba%5d/Eiffel.2021.1080p-dual-lat-cinecalidad.lat.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/11/18/00/22/2824117.jpg" group-title="2021 Serv 192",El mundo de los olvidados (2021)
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/11/18/00/22/2824117.jpg" group-title="2021 Serv 192",Hide And Seek (2021)
 http://192.64.86.228/%5ba%5d/Hide.and.Seek.2021.lati.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/09/11/05/3181703.jpg" group-title="2021 Serv 192",El callejón de las almas perdidas (2021)
 http://192.64.86.228/%5ba%5d/Nightmare.Alley.2021.lati.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/07/11/06/4600976.jpg" group-title="2021 Serv 192",Poliamor para principiantes (2021)
 http://192.64.86.228/%5ba%5d/Poliamor.para.principiantes.(2021).mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/510GBIzeq+L.jpg" group-title="2021 Serv 192",La salida (2021)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/510GBIzeq+L.jpg" group-title="2021 Serv 192",The Gateway (2021)
 http://192.64.86.228/%5ba%5d/The.Gateway.2021.lati.mp4
-#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/21/11/10/21/21/1425722.jpg" group-title="2021 Serv 192",Cariño cuanto te odio (2021)
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/21/11/10/21/21/1425722.jpg" group-title="2021 Serv 192",The Hating Game (2021)
 http://192.64.86.228/%5ba%5d/The.Hating.Game.2021.lati.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/07/02/11/47/1576324.jpg" group-title="2021 Serv 192",Mi primer beso 3 (2021)
 http://192.64.86.228/%5ba%5d/The.Kissing.Booth.3.2021.dual.lat.mp4
@@ -91,9 +93,9 @@ http://192.64.86.228/%5ba%5d/The.first.wave.2021.1080p-dual-lat-cinecalidad.lat.
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5p5SW2L3AcL64UHBLs6vRHXmrgp.jpg" group-title="2021 Serv 192",Traición y deseo (2021)
 http://192.64.86.228/%5ba%5d/Trust.2021.lati.mp4
 
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/09/10/40/0885856.jpg" group-title="2021 Serv 51",007: Sin tiempo para morir (2021)
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/09/10/40/0885856.jpg" group-title="2021 Serv 51",007: Sin Tiempo Para Morir (2021)
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/219400.mkv
-#EXTINF:-1 tvg-logo="https://www.cultture.com/pics/2021/12/16/7-days-dvd-reino-unido-42686.jpg" group-title="2021 Serv 51",7 días (2021)
+#EXTINF:-1 tvg-logo="https://www.cultture.com/pics/2021/12/16/7-days-dvd-reino-unido-42686.jpg" group-title="2021 Serv 51",7 Days (2021)
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/177245.avi
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/09/16/07/45/4555817.jpg" group-title="2021 Serv 51",7 prisioneros (2021)
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/219709.mkv
@@ -101,15 +103,15 @@ http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/219709.mkv
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/217609.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/10/05/03/12/2442248.jpg" group-title="2021 Serv 51",10 palomas (2021)
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/224320.mkv
-#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/21/04/19/11/15/1958505.jpg" group-title="2021 Serv 51",Espíritu de lucha (2021)
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/21/04/19/11/15/1958505.jpg" group-title="2021 Serv 51",12 Mighty Orphans (2021)
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/215675.mkv
-#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/a-choice-of-weapons-inspired-by-gordon-parks-2-1640487639.jpg" group-title="2021 Serv 51",Elección de armas: Inspirado en Gordon Parks (2021)
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/a-choice-of-weapons-inspired-by-gordon-parks-2-1640487639.jpg" group-title="2021 Serv 51",A Choice of Weapons: Inspired by Gordon Parks (2021)
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/224319.mkv
-#EXTINF:-1 tvg-logo="https://www.elozetes.hu/img/w300/9yG4utptSiN4sa8esR7pXyRN8kh.jpg" group-title="2021 Serv 51",La nueva Cenicienta: Superestrella (2021)
+#EXTINF:-1 tvg-logo="https://www.elozetes.hu/img/w300/9yG4utptSiN4sa8esR7pXyRN8kh.jpg" group-title="2021 Serv 51",A Cinderella Story: Starstruck (2021)
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/210649.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/01/07/09/21/5292740.jpg" group-title="2021 Serv 51",A descubierto (2021)
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/172780.mkv
-#EXTINF:-1 tvg-logo="https://cinecalidad.la/wp-content/uploads/2021/12/yVkqDVsoBgLwHNwx8L9BS5aD6GS.jpg" group-title="2021 Serv 51",Aventuras de un Matemático (2021)
+#EXTINF:-1 tvg-logo="https://cinecalidad.la/wp-content/uploads/2021/12/yVkqDVsoBgLwHNwx8L9BS5aD6GS.jpg" group-title="2021 Serv 51",Adventures of a Mathematician (2021)
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/216961.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/09/03/16/16/2713075.jpg" group-title="2021 Serv 51",After: almas perdidas (2021)
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/220548.mkv
@@ -123,7 +125,7 @@ http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/216433.mkv
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/219707.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/08/05/10/09/3049342.jpg" group-title="2021 Serv 51",Alguien como él (2021)
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/215644.mkv
-#EXTINF:-1 tvg-logo="https://assets.cinepolisklic.com/cmsklicia/movieimages/el-asesino-americano/poster_originalsize_250X375.jpg" group-title="2021 Serv 51",American Badger: Asesino Americano (2021)
+#EXTINF:-1 tvg-logo="https://assets.cinepolisklic.com/cmsklicia/movieimages/el-asesino-americano/poster_originalsize_250X375.jpg" group-title="2021 Serv 51",American Badger (2021)
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/217605.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/07/26/12/32/5723105.jpg" group-title="2021 Serv 51",Amigos de las vacaciones (2021)
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/215645.mkv
@@ -175,9 +177,9 @@ http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/210841.mkv
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/216186.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/03/01/08/53/1822182.jpg" group-title="2021 Serv 51",Azor (2021)
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/222961.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/21/05/06/08/34/4872448.jpg" group-title="2021 Serv 51",Awake: Disomnia (2021)
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/21/05/06/08/34/4872448.jpg" group-title="2021 Serv 51",Awake (2021)
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/181891.mkv
-#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/02/10/18/17/2264937.png" group-title="2021 Serv 51",A Writer's Odyssey: Heroe de dos mundos (2021)
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/02/10/18/17/2264937.png" group-title="2021 Serv 51",A Writer's Odyssey (2021)
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/215828.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/26/11/46/1267959.jpg" group-title="2021 Serv 51",Bahía de invierno (2021)
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/215763.mkv
@@ -185,7 +187,7 @@ http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/215763.mkv
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/205902.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/03/17/10/35/0228383.jpg" group-title="2021 Serv 51",Bajo las estrellas de Paris (2021)
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/220128.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/03/16/11/06/5465611.jpg" group-title="2021 Serv 51",Barb y Star van a Vista del Mar (2021)
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/03/16/11/06/5465611.jpg" group-title="2021 Serv 51",Barb and Star Go to Vista Del Mar (2021)
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/172692.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/01/06/15/33/2468389.jpg" group-title="2021 Serv 51",Barrenderos espaciales (2021)
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/206479.mkv
@@ -205,7 +207,7 @@ http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/214263.mkv
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/181936.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/21/02/04/22/51/3123513.jpg" group-title="2021 Serv 51",BIA: Un Mundo al Revés (2021)
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/170179.mp4
-#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/12/16/10/57/0453044.jpg" group-title="2021 Serv 51",Billie Eilish: El mundo es un poco borroso (2021) SUB
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/12/16/10/57/0453044.jpg" group-title="2021 Serv 51",Billie Eilish: The World's a Little Blurry (2021) SUB
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/222966.mkv
 #EXTINF:-1 tvg-logo="https://img.openloading.com/black-friday-2021-movie-poster-123movies.jpg" group-title="2021 Serv 51",Black Friday (2021)
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/221094.mkv
@@ -217,9 +219,9 @@ http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/178494.mp4
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/216267.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/mDrUIKP3I1QkUieImwpo3verZPj.jpg" group-title="2021 Serv 51",Bordertown: Murales de sangre (2021)
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/222133.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/11/24/09/22/4044266.jpg" group-title="2021 Serv 51",Boss Level: Muere otra vez (2021)
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/11/24/09/22/4044266.jpg" group-title="2021 Serv 51",Boss Level (2021)
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/204704.mkv
-#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/09/15/09/01/1837790.jpg" group-title="2021 Serv 51",Bright: Alma Samurai (2021)
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/09/15/09/01/1837790.jpg" group-title="2021 Serv 51",Bright: Samurai Soul (2021)
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/216623.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qhWkxLGzc5J7j3neP0I3XYTdMWT.jpg" group-title="2021 Serv 51",Cacería Jurásica (2021)
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/215666.mkv
@@ -237,7 +239,7 @@ http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/215830.mkv
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/215831.mkv
 #EXTINF:-1 tvg-logo="https://www.peliculas1mega.com/wp-content/uploads/2021/10/Catalina-la-Catrina-especial-Dia-de-Muertos-2021.jpg" group-title="2021 Serv 51",Catalina la Catrina: especial Día de Muertos (2021)
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/216266.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81VbKMBnFUL._SL1500_.jpg" group-title="2021 Serv 51",Catch the Bullet: Atrapa la bala (2021)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81VbKMBnFUL._SL1500_.jpg" group-title="2021 Serv 51",Catch the Bullet (2021)
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/215799.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/11/23/16/57/4236593.png" group-title="2021 Serv 51",Causalidad (2021)
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/224317.mkv
@@ -253,9 +255,9 @@ http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/226141.mp4
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/209286.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/02/24/01/41/3165421.jpg" group-title="2021 Serv 51",Centinela (2021)
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/172699.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzExOWM3YWYtODUzNy00MDQwLWIzZGUtMDRlODY1ODgxODdiXkEyXkFqcGdeQXVyMzExODEzNDA@._V1_.jpg" group-title="2021 Serv 51",Chadwick Boseman: Portaretrato de un artista (2021)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzExOWM3YWYtODUzNy00MDQwLWIzZGUtMDRlODY1ODgxODdiXkEyXkFqcGdeQXVyMzExODEzNDA@._V1_.jpg" group-title="2021 Serv 51",Chadwick Boseman: Portrait of an Artist (2021)
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/170181.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/11/13/15/54/0111059.jpg" group-title="2021 Serv 51",Chaos Walking: Caos el inicio (2021)
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/11/13/15/54/0111059.jpg" group-title="2021 Serv 51",Chaos Walking (2021)
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/208594.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/aV2DF67GM08meqf4zoEYMRW0krk.jpg" group-title="2021 Serv 51",Chernobyl: Abyss (2021)
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/220129.mkv
@@ -265,9 +267,9 @@ http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/169799.mp4
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/172700.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/01/15/11/03/0314114.jpg" group-title="2021 Serv 51",Cherry (2021)
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/205904.mkv
-#EXTINF:-1 tvg-logo="https://cimapelicula.com/poster/film/ChiefDaddy2GoingforBroke.jpg" group-title="2021 Serv 51",Chief Daddy 2: Jefe Papi la quiebra (2021)
+#EXTINF:-1 tvg-logo="https://cimapelicula.com/poster/film/ChiefDaddy2GoingforBroke.jpg" group-title="2021 Serv 51",Chief Daddy 2: Going for Broke (2021)
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/226091.mkv
-#EXTINF:-1 tvg-logo="https://cimapelicula.com/poster/film/ChiefDaddy2GoingforBroke.jpg" group-title="2021 Serv 51",Chief Daddy 2: Jefe Papi la quiebra (2021)
+#EXTINF:-1 tvg-logo="https://cimapelicula.com/poster/film/ChiefDaddy2GoingforBroke.jpg" group-title="2021 Serv 51",Chief Daddy 2: Going for Broke (2021)
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/226877.mkv
 #EXTINF:-1 tvg-logo="https://static.cinepolis.com/img/peliculas/36727/1/1/36727.jpg" group-title="2021 Serv 51",Chilangolandia (2021)
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/222964.mkv
@@ -289,7 +291,7 @@ http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/211416.mkv
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/213923.mkv
 #EXTINF:-1 tvg-logo="https://akwam.link/uploads/3quyG.jpg" group-title="2021 Serv 51",Copshop (2021)
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/217474.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/02/03/10/10/4997446.jpg" group-title="2021 Serv 51",Cosmic Sin: Invasión cósmica (2021)
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/02/03/10/10/4997446.jpg" group-title="2021 Serv 51",Cosmic Sin (2021)
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/215881.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71GBXLXCOFS._SY445_.jpg" group-title="2021 Serv 51",Cowboys (2021)
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/216434.mkv
@@ -1716,8 +1718,6 @@ http://vod.tuxchannel.tv/peliculas/720/the%20harder%20they%20fall%202021.mkv
 http://vod.tuxchannel.tv/peliculas/720/cabras%20da%20peste%202021.mkv
 #EXTINF:-1 tvg-logo="https://images.moviefit.me/t/o/571149-masquerade.jpg" group-title="2021 TUX",Masquerade (2021)
 http://vod.tuxchannel.tv/peliculas/720/masquerade%202021.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/11/17/17/16/1338846.jpg" group-title="2021 TUX",Matrix Resurrections (2021)
-http://vod.tuxchannel.tv/peliculas/720/the%20matrix%20resurrections%202021.mkv
 #EXTINF:-1 tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w300/riCdT52PTtKPXmlMknlIFWPGacs.jpg" group-title="2021 TUX",Mickey y las dos brujas (2021)
 http://vod.tuxchannel.tv/peliculas/720/mickeys%20tale%20of%20two%20witches%202021.mkv
 #EXTINF:-1 tvg-logo="https://images.moviefit.me/t/o/458457-midnight-in-the-switchgrass.jpg" group-title="2021 TUX",Midnight in the Switchgrass (2021)
@@ -2086,9 +2086,9 @@ http://archive.org/download/sueno-mortal/Sue%C3%B1o%20mortal.mp4
 http://archive.org/download/medianoche-en-switchgrass/Medianoche%20en%20Switchgrass.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/03/15/16/27/5268203.jpg" group-title="2021",Contigo a muerte (2021)
 http://archive.org/download/contigo-a-muerte-2021/Contigo%20a%20muerte%20%282021%29.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/08/09/54/3296562.jpg" group-title="2021",El último mercenario (2021)
+#EXTINF:-1 tvg-logo="https://optimizespirit.com/wp-content/uploads/2021/04/The-Last-Mercenary.jpg" group-title="2021",El último mercenario (2021)
 http://51.222.153.30:9000/rombwgshgfhgdsjr/85455532potroxvix/Pel%C3%ADculas/El%20%C3%9Altimo%20Mercenario%202021.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/08/09/54/3296562.jpg" group-title="2021",El último mercenario (2021)
+#EXTINF:-1 tvg-logo="https://optimizespirit.com/wp-content/uploads/2021/04/The-Last-Mercenary.jpg" group-title="2021",El último mercenario (2021)
 https://archive.org/download/elultimomercenario-le-dernier-mercenaire-2021/El%2B%C3%BAltimo%2Bmercenario%2B-%2BLe%2BDernier%2BMercenaire%2B%282021%29.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/07/02/11/47/1576324.jpg" group-title="2021",El stand de los besos 3 (2021)
 https://archive.org/download/ver-el-stand-de-los-besos-3-2021-online-latino-hd-pelisp_202109/Ver%20El%20Stand%20de%20los%20Besos%203%20%282021%29%20Online%20Latino%20HD%20-%20Pelisp.mp4
