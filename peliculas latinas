@@ -53,6 +53,9 @@ http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/229470.mkv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/WWE_Day_1_%282022%29_poster.jpg/220px-WWE_Day_1_%282022%29_poster.jpg" group-title="2022 Serv 51",WWE Day 1 (2022)
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/226125.mkv
 
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/13/17/32/3629040.jpg" group-title="2022 TUX",Scream (2022)
+http://vod.tuxchannel.tv/peliculas/720/scream%202022.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/12/17/11/48/2016336.jpg" group-title="2022 TUX",Quiero que vuelvas (2022)
 http://vod.tuxchannel.tv/peliculas/720/i%20want%20you%20back%202022.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/01/12/10/52/5594958.jpg" group-title="2022 TUX",Un bucle sin fin (2022)
