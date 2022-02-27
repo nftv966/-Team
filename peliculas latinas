@@ -7,9 +7,9 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/22/01/28/00/52/0888734.jpg" group-title="2022 Serv 192",Erax (2022)
 http://192.64.86.228/%5ba%5d/Erax.2022.1080p-dual-lat-cinecalidad.lat.mp4
-#EXTINF:-1 tvg-logo="https://moviehaku.com/thumbs/films/400x590/Fistful-of-Vengeance.jpg" group-title="2022 Serv 192",Fistful of Vengeance (2022)
+#EXTINF:-1 tvg-logo="https://moviehaku.com/thumbs/films/400x590/Fistful-of-Vengeance.jpg" group-title="2022 Serv 192",Venganza a golpes (2022)
 http://192.64.86.228/%5ba%5d/Fistful.of.Vengeance.2022.lati.mp4
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/22/01/18/00/09/2113102.jpg" group-title="2022 Serv 192",Into the wind (2022)
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/22/01/18/00/09/2113102.jpg" group-title="2022 Serv 192",Al viento (2022)
 http://192.64.86.228/%5ba%5d/Into.the.Wind.2022.lati.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/27/09/57/4248015.jpg" group-title="2022 Serv 192",Kimi (2022)
 http://192.64.86.228/%5ba%5d/Kimi.2022.1080P.Latino.Cinecalidad.Lat.mp4
@@ -19,7 +19,7 @@ http://192.64.86.228/%5ba%5d/Love.And.Leashes.2022.Web-Dl.1080P.Latino.Cinecalid
 http://192.64.86.228/%5ba%5d/Love.Tactics.2022.1080p.Latino.Cinecalidad.lat.mp4
 #EXTINF:-1 tvg-logo="https://elfarandi.com/wp-content/uploads/2022/02/IMG_3081-688x1024.jpeg" group-title="2022 Serv 192",TQM (2022)
 http://192.64.86.228/%5ba%5d/TQM.2022.lati.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/20/10/37/5137053.jpg" group-title="2022 Serv 192",Tall Girl 2 (2022)
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/20/10/37/5137053.jpg" group-title="2022 Serv 192",A mi altura 2 (2022)
 http://192.64.86.228/%5ba%5d/Tall.Girl.2.2022.Web-Dl.1080P.Latino.Cinecalidad.Lat.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/31/10/28/0410704.jpg" group-title="2022 Serv 192",La matanza de Texas (2022)
 http://192.64.86.228/%5ba%5d/Texas.chainsaw.massacre.2022.1080p-dual-lat-cinecalidad.lat.mp4
@@ -54,6 +54,18 @@ http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/229470.mkv
 http://51.222.105.31:8080/movie/Mk7Mx5Wbgd/kwzZUnjrNm/226125.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/12/15/07/35/3334858.jpg" group-title="2022 TUX",Jugar en casa (2022)
+http://vod.tuxchannel.tv/peliculas/720/home%20team%202022.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/25/12/04/3975634.jpg" group-title="2022 TUX",BigBug (2022)
+http://vod.tuxchannel.tv/peliculas/720/bigbug%202022.mkv
+#EXTINF:-1 tvg-logo="https://moviehaku.com/thumbs/films/400x590/Fistful-of-Vengeance.jpg" group-title="2022 TUX",Venganza a golpes (2022)
+http://vod.tuxchannel.tv/peliculas/720/fistful%20of%20vengeance%202022.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/22/01/18/00/09/2113102.jpg" group-title="2022 TUX",Al viento (2022)
+http://vod.tuxchannel.tv/peliculas/720/pod%20wiatr%202022.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/22/01/26/01/51/4944793.jpg" group-title="2022 TUX",Tácticas de amor (2022)
+http://vod.tuxchannel.tv/peliculas/720/ask%20taktikleri%202022.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/31/10/28/0410704.jpg" group-title="2022 TUX",La matanza de Texas (2022)
+http://vod.tuxchannel.tv/peliculas/720/texas%20chainsaw%20massacre%202022.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/13/17/32/3629040.jpg" group-title="2022 TUX",Scream (2022)
 http://vod.tuxchannel.tv/peliculas/720/scream%202022.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/12/17/11/48/2016336.jpg" group-title="2022 TUX",Quiero que vuelvas (2022)
