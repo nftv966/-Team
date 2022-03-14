@@ -6,28 +6,833 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
+#EXTINF:-1 tvg-logo="https://quintacapa.com.br/wp-content/uploads/2020/09/Cartaz-A-Bencao-cred-Leo-Lage-1-scaled.jpg" group-title="A Bênção",Cap. 01
+http://appcliente.com:8880/series/than123/than123/25791.mp4
+#EXTINF:-1 tvg-logo="https://quintacapa.com.br/wp-content/uploads/2020/09/Cartaz-A-Bencao-cred-Leo-Lage-1-scaled.jpg" group-title="A Bênção",Cap. 02
+http://appcliente.com:8880/series/than123/than123/25792.mp4
+#EXTINF:-1 tvg-logo="https://quintacapa.com.br/wp-content/uploads/2020/09/Cartaz-A-Bencao-cred-Leo-Lage-1-scaled.jpg" group-title="A Bênção",Cap. 03
+http://appcliente.com:8880/series/than123/than123/25793.mp4
+#EXTINF:-1 tvg-logo="https://quintacapa.com.br/wp-content/uploads/2020/09/Cartaz-A-Bencao-cred-Leo-Lage-1-scaled.jpg" group-title="A Bênção",Cap. 04
+http://appcliente.com:8880/series/than123/than123/25794.mp4
+#EXTINF:-1 tvg-logo="https://quintacapa.com.br/wp-content/uploads/2020/09/Cartaz-A-Bencao-cred-Leo-Lage-1-scaled.jpg" group-title="A Bênção",Cap. 05
+http://appcliente.com:8880/series/than123/than123/25795.mp4
+#EXTINF:-1 tvg-logo="https://quintacapa.com.br/wp-content/uploads/2020/09/Cartaz-A-Bencao-cred-Leo-Lage-1-scaled.jpg" group-title="A Bênção",Cap. 06
+http://appcliente.com:8880/series/than123/than123/25796.mp4
+#EXTINF:-1 tvg-logo="https://quintacapa.com.br/wp-content/uploads/2020/09/Cartaz-A-Bencao-cred-Leo-Lage-1-scaled.jpg" group-title="A Bênção",Cap. 07
+http://appcliente.com:8880/series/than123/than123/25797.mp4
+#EXTINF:-1 tvg-logo="https://quintacapa.com.br/wp-content/uploads/2020/09/Cartaz-A-Bencao-cred-Leo-Lage-1-scaled.jpg" group-title="A Bênção",Cap. 08
+http://appcliente.com:8880/series/than123/than123/25798.mp4
 
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/13/12/04/14/43/368247.jpg" group-title="A Bíblia",Cap. 01
+http://appcliente.com:8880/series/than123/than123/12729.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/13/12/04/14/43/368247.jpg" group-title="A Bíblia",Cap. 02
+http://appcliente.com:8880/series/than123/than123/12730.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/13/12/04/14/43/368247.jpg" group-title="A Bíblia",Cap. 03
+http://appcliente.com:8880/series/than123/than123/12731.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/13/12/04/14/43/368247.jpg" group-title="A Bíblia",Cap. 04
+http://appcliente.com:8880/series/than123/than123/12732.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/13/12/04/14/43/368247.jpg" group-title="A Bíblia",Cap. 05
+http://appcliente.com:8880/series/than123/than123/12733.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/13/12/04/14/43/368247.jpg" group-title="A Bíblia",Cap. 06
+http://appcliente.com:8880/series/than123/than123/12734.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/13/12/04/14/43/368247.jpg" group-title="A Bíblia",Cap. 07
+http://appcliente.com:8880/series/than123/than123/12735.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/13/12/04/14/43/368247.jpg" group-title="A Bíblia",Cap. 08
+http://appcliente.com:8880/series/than123/than123/12736.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/13/12/04/14/43/368247.jpg" group-title="A Bíblia",Cap. 09
+http://appcliente.com:8880/series/than123/than123/12737.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/13/12/04/14/43/368247.jpg" group-title="A Bíblia",Cap. 10
+http://appcliente.com:8880/series/than123/than123/12738.mp4
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/06/19/02/48/5347624.jpg" group-title="Absentia T1",Cap. 01
+http://appcliente.com:8880/series/than123/than123/7795.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/06/19/02/48/5347624.jpg" group-title="Absentia T1",Cap. 02
+http://appcliente.com:8880/series/than123/than123/7796.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/06/19/02/48/5347624.jpg" group-title="Absentia T1",Cap. 03
+http://appcliente.com:8880/series/than123/than123/7797.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/06/19/02/48/5347624.jpg" group-title="Absentia T1",Cap. 04
+http://appcliente.com:8880/series/than123/than123/7798.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/06/19/02/48/5347624.jpg" group-title="Absentia T1",Cap. 05
+http://appcliente.com:8880/series/than123/than123/7799.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/06/19/02/48/5347624.jpg" group-title="Absentia T1",Cap. 06
+http://appcliente.com:8880/series/than123/than123/7800.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/06/19/02/48/5347624.jpg" group-title="Absentia T1",Cap. 07
+http://appcliente.com:8880/series/than123/than123/7801.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/06/19/02/48/5347624.jpg" group-title="Absentia T1",Cap. 08
+http://appcliente.com:8880/series/than123/than123/7802.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/06/19/02/48/5347624.jpg" group-title="Absentia T1",Cap. 09
+http://appcliente.com:8880/series/than123/than123/7803.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/06/19/02/48/5347624.jpg" group-title="Absentia T1",Cap. 10
+http://appcliente.com:8880/series/than123/than123/7804.mkv
+
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/06/19/03/09/0765522.jpg" group-title="Absentia T2",Cap. 01
+http://appcliente.com:8880/series/than123/than123/7805.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/06/19/03/09/0765522.jpg" group-title="Absentia T2",Cap. 02
+http://appcliente.com:8880/series/than123/than123/7806.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/06/19/03/09/0765522.jpg" group-title="Absentia T2",Cap. 03
+http://appcliente.com:8880/series/than123/than123/7807.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/06/19/03/09/0765522.jpg" group-title="Absentia T2",Cap. 04
+http://appcliente.com:8880/series/than123/than123/7808.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/06/19/03/09/0765522.jpg" group-title="Absentia T2",Cap. 05
+http://appcliente.com:8880/series/than123/than123/7809.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/06/19/03/09/0765522.jpg" group-title="Absentia T2",Cap. 06
+http://appcliente.com:8880/series/than123/than123/7810.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/06/19/03/09/0765522.jpg" group-title="Absentia T2",Cap. 07
+http://appcliente.com:8880/series/than123/than123/7811.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/06/19/03/09/0765522.jpg" group-title="Absentia T2",Cap. 08
+http://appcliente.com:8880/series/than123/than123/7812.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/06/19/03/09/0765522.jpg" group-title="Absentia T2",Cap. 09
+http://appcliente.com:8880/series/than123/than123/7813.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/06/19/03/09/0765522.jpg" group-title="Absentia T2",Cap. 10
+http://appcliente.com:8880/series/than123/than123/7814.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41tYCpzxctL.jpg" group-title="Absentia T3",Cap. 01
+http://appcliente.com:8880/series/than123/than123/23722.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41tYCpzxctL.jpg" group-title="Absentia T3",Cap. 02
+http://appcliente.com:8880/series/than123/than123/23723.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41tYCpzxctL.jpg" group-title="Absentia T3",Cap. 03
+http://appcliente.com:8880/series/than123/than123/23724.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41tYCpzxctL.jpg" group-title="Absentia T3",Cap. 04
+http://appcliente.com:8880/series/than123/than123/23725.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41tYCpzxctL.jpg" group-title="Absentia T3",Cap. 05
+http://appcliente.com:8880/series/than123/than123/23726.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41tYCpzxctL.jpg" group-title="Absentia T3",Cap. 06
+http://appcliente.com:8880/series/than123/than123/23727.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41tYCpzxctL.jpg" group-title="Absentia T3",Cap. 07
+http://appcliente.com:8880/series/than123/than123/23728.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41tYCpzxctL.jpg" group-title="Absentia T3",Cap. 08
+http://appcliente.com:8880/series/than123/than123/24410.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41tYCpzxctL.jpg" group-title="Absentia T3",Cap. 09
+http://appcliente.com:8880/series/than123/than123/24411.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41tYCpzxctL.jpg" group-title="Absentia T3",Cap. 10
+http://appcliente.com:8880/series/than123/than123/24412.mkv
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/20/12/15/10/25/3479948.jpg" group-title="A Desordem que Ficou",Cap. 01
+http://appcliente.com:8880/series/than123/than123/29133.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/20/12/15/10/25/3479948.jpg" group-title="A Desordem que Ficou",Cap. 02
+http://appcliente.com:8880/series/than123/than123/29134.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/20/12/15/10/25/3479948.jpg" group-title="A Desordem que Ficou",Cap. 03
+http://appcliente.com:8880/series/than123/than123/29135.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/20/12/15/10/25/3479948.jpg" group-title="A Desordem que Ficou",Cap. 04
+http://appcliente.com:8880/series/than123/than123/29136.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/20/12/15/10/25/3479948.jpg" group-title="A Desordem que Ficou",Cap. 05
+http://appcliente.com:8880/series/than123/than123/29137.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/20/12/15/10/25/3479948.jpg" group-title="A Desordem que Ficou",Cap. 06
+http://appcliente.com:8880/series/than123/than123/29138.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/20/12/15/10/25/3479948.jpg" group-title="A Desordem que Ficou",Cap. 07
+http://appcliente.com:8880/series/than123/than123/29139.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/20/12/15/10/25/3479948.jpg" group-title="A Desordem que Ficou",Cap. 08
+http://appcliente.com:8880/series/than123/than123/29140.mkv
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/19/07/19/14/05/4674168.jpg" group-title="A Divisão T1",Cap. 01
+http://appcliente.com:8880/series/than123/than123/7789.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/19/07/19/14/05/4674168.jpg" group-title="A Divisão T1",Cap. 02
+http://appcliente.com:8880/series/than123/than123/7790.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/19/07/19/14/05/4674168.jpg" group-title="A Divisão T1",Cap. 03
+http://appcliente.com:8880/series/than123/than123/7791.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/19/07/19/14/05/4674168.jpg" group-title="A Divisão T1",Cap. 04
+http://appcliente.com:8880/series/than123/than123/7792.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/19/07/19/14/05/4674168.jpg" group-title="A Divisão T1",Cap. 05
+http://appcliente.com:8880/series/than123/than123/7793.mkv
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/VXgzOU3w4dwXmMsO5mia8pSZi70=/210x312/smart/media/movies/covers/2020/09/cats_SW2VCJx.jpg" group-title="A Divisão T2",Cap. 01
+http://appcliente.com:8880/series/than123/than123/23373.mkv
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/VXgzOU3w4dwXmMsO5mia8pSZi70=/210x312/smart/media/movies/covers/2020/09/cats_SW2VCJx.jpg" group-title="A Divisão T2",Cap. 02
+http://appcliente.com:8880/series/than123/than123/23374.mkv
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/VXgzOU3w4dwXmMsO5mia8pSZi70=/210x312/smart/media/movies/covers/2020/09/cats_SW2VCJx.jpg" group-title="A Divisão T2",Cap. 03
+http://appcliente.com:8880/series/than123/than123/23375.mkv
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/VXgzOU3w4dwXmMsO5mia8pSZi70=/210x312/smart/media/movies/covers/2020/09/cats_SW2VCJx.jpg" group-title="A Divisão T2",Cap. 04
+http://appcliente.com:8880/series/than123/than123/23376.mkv
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/VXgzOU3w4dwXmMsO5mia8pSZi70=/210x312/smart/media/movies/covers/2020/09/cats_SW2VCJx.jpg" group-title="A Divisão T2",Cap. 05
+http://appcliente.com:8880/series/than123/than123/23377.mkv
+
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/20/07/14/15/27/5166296.jpg" group-title="Alex Rider T1",Cap. 01
+http://appcliente.com:8880/series/than123/than123/27324.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/20/07/14/15/27/5166296.jpg" group-title="Alex Rider T1",Cap. 02
+http://appcliente.com:8880/series/than123/than123/27325.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/20/07/14/15/27/5166296.jpg" group-title="Alex Rider T1",Cap. 03
+http://appcliente.com:8880/series/than123/than123/27326.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/20/07/14/15/27/5166296.jpg" group-title="Alex Rider T1",Cap. 04
+http://appcliente.com:8880/series/than123/than123/27327.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/20/07/14/15/27/5166296.jpg" group-title="Alex Rider T1",Cap. 05
+http://appcliente.com:8880/series/than123/than123/27328.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/20/07/14/15/27/5166296.jpg" group-title="Alex Rider T1",Cap. 06
+http://appcliente.com:8880/series/than123/than123/27329.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/20/07/14/15/27/5166296.jpg" group-title="Alex Rider T1",Cap. 07
+http://appcliente.com:8880/series/than123/than123/27330.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/20/07/14/15/27/5166296.jpg" group-title="Alex Rider T1",Cap. 08
+http://appcliente.com:8880/series/than123/than123/27331.mkv
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/07/12/24/5451530.jpg" group-title="Alex Rider T2",Cap. 01
+http://appcliente.com:8880/series/than123/than123/47131.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/07/12/24/5451530.jpg" group-title="Alex Rider T2",Cap. 02
+http://appcliente.com:8880/series/than123/than123/47132.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/07/12/24/5451530.jpg" group-title="Alex Rider T2",Cap. 03
+http://appcliente.com:8880/series/than123/than123/47133.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/07/12/24/5451530.jpg" group-title="Alex Rider T2",Cap. 04
+http://appcliente.com:8880/series/than123/than123/47134.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/07/12/24/5451530.jpg" group-title="Alex Rider T2",Cap. 05
+http://appcliente.com:8880/series/than123/than123/47135.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/07/12/24/5451530.jpg" group-title="Alex Rider T2",Cap. 06
+http://appcliente.com:8880/series/than123/than123/47136.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/07/12/24/5451530.jpg" group-title="Alex Rider T2",Cap. 07
+http://appcliente.com:8880/series/than123/than123/47137.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/07/12/24/5451530.jpg" group-title="Alex Rider T2",Cap. 08
+http://appcliente.com:8880/series/than123/than123/47138.mkv
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/20/09/10/15/16/1959954.jpg" group-title="Alguém tem que morrer",Cap. 01
+http://appcliente.com:8880/series/than123/than123/25676.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/20/09/10/15/16/1959954.jpg" group-title="Alguém tem que morrer",Cap. 02
+http://appcliente.com:8880/series/than123/than123/25677.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/20/09/10/15/16/1959954.jpg" group-title="Alguém tem que morrer",Cap. 03
+http://appcliente.com:8880/series/than123/than123/25678.mkv
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/01/12/11/18/5517426.jpg" group-title="Altered Carbon T1",Cap. 01
+http://appcliente.com:8880/series/than123/than123/30225.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/01/12/11/18/5517426.jpg" group-title="Altered Carbon T1",Cap. 02
+http://appcliente.com:8880/series/than123/than123/30226.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/01/12/11/18/5517426.jpg" group-title="Altered Carbon T1",Cap. 03
+http://appcliente.com:8880/series/than123/than123/30227.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/01/12/11/18/5517426.jpg" group-title="Altered Carbon T1",Cap. 04
+http://appcliente.com:8880/series/than123/than123/30228.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/01/12/11/18/5517426.jpg" group-title="Altered Carbon T1",Cap. 05
+http://appcliente.com:8880/series/than123/than123/30229.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/01/12/11/18/5517426.jpg" group-title="Altered Carbon T1",Cap. 06
+http://appcliente.com:8880/series/than123/than123/30230.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/01/12/11/18/5517426.jpg" group-title="Altered Carbon T1",Cap. 07
+http://appcliente.com:8880/series/than123/than123/30231.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/01/12/11/18/5517426.jpg" group-title="Altered Carbon T1",Cap. 08
+http://appcliente.com:8880/series/than123/than123/30232.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/01/12/11/18/5517426.jpg" group-title="Altered Carbon T1",Cap. 09
+http://appcliente.com:8880/series/than123/than123/30233.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/01/12/11/18/5517426.jpg" group-title="Altered Carbon T1",Cap. 10
+http://appcliente.com:8880/series/than123/than123/30234.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/03/04/11/23/1560575.jpg" group-title="Altered Carbon T2",Cap. 01
+http://appcliente.com:8880/series/than123/than123/30235.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/03/04/11/23/1560575.jpg" group-title="Altered Carbon T2",Cap. 02
+http://appcliente.com:8880/series/than123/than123/30236.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/03/04/11/23/1560575.jpg" group-title="Altered Carbon T2",Cap. 03
+http://appcliente.com:8880/series/than123/than123/30237.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/03/04/11/23/1560575.jpg" group-title="Altered Carbon T2",Cap. 04
+http://appcliente.com:8880/series/than123/than123/30238.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/03/04/11/23/1560575.jpg" group-title="Altered Carbon T2",Cap. 05
+http://appcliente.com:8880/series/than123/than123/30239.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/03/04/11/23/1560575.jpg" group-title="Altered Carbon T2",Cap. 06
+http://appcliente.com:8880/series/than123/than123/30240.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/03/04/11/23/1560575.jpg" group-title="Altered Carbon T2",Cap. 07
+http://appcliente.com:8880/series/than123/than123/30241.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/03/04/11/23/1560575.jpg" group-title="Altered Carbon T2",Cap. 08
+http://appcliente.com:8880/series/than123/than123/30242.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/09/14/17/17/0370276.jpg" group-title="A Maldição da Mansão Bly",Cap. 01
+http://appcliente.com:8880/series/than123/than123/25827.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/09/14/17/17/0370276.jpg" group-title="A Maldição da Mansão Bly",Cap. 02
+http://appcliente.com:8880/series/than123/than123/25828.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/09/14/17/17/0370276.jpg" group-title="A Maldição da Mansão Bly",Cap. 03
+http://appcliente.com:8880/series/than123/than123/25829.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/09/14/17/17/0370276.jpg" group-title="A Maldição da Mansão Bly",Cap. 04
+http://appcliente.com:8880/series/than123/than123/25830.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/09/14/17/17/0370276.jpg" group-title="A Maldição da Mansão Bly",Cap. 05
+http://appcliente.com:8880/series/than123/than123/25831.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/09/14/17/17/0370276.jpg" group-title="A Maldição da Mansão Bly",Cap. 06
+http://appcliente.com:8880/series/than123/than123/25832.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/09/14/17/17/0370276.jpg" group-title="A Maldição da Mansão Bly",Cap. 07
+http://appcliente.com:8880/series/than123/than123/25833.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/09/14/17/17/0370276.jpg" group-title="A Maldição da Mansão Bly",Cap. 08
+http://appcliente.com:8880/series/than123/than123/25834.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/09/14/17/17/0370276.jpg" group-title="A Maldição da Mansão Bly",Cap. 09
+http://appcliente.com:8880/series/than123/than123/25835.mkv
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/18/09/19/18/09/2669292.jpg" group-title="A Maldição da Residência Hill",Cap. 01
+http://appcliente.com:8880/series/than123/than123/6134.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/18/09/19/18/09/2669292.jpg" group-title="A Maldição da Residência Hill",Cap. 02
+http://appcliente.com:8880/series/than123/than123/6135.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/18/09/19/18/09/2669292.jpg" group-title="A Maldição da Residência Hill",Cap. 03
+http://appcliente.com:8880/series/than123/than123/6136.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/18/09/19/18/09/2669292.jpg" group-title="A Maldição da Residência Hill",Cap. 04
+http://appcliente.com:8880/series/than123/than123/6137.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/18/09/19/18/09/2669292.jpg" group-title="A Maldição da Residência Hill",Cap. 05
+http://appcliente.com:8880/series/than123/than123/6138.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/18/09/19/18/09/2669292.jpg" group-title="A Maldição da Residência Hill",Cap. 06
+http://appcliente.com:8880/series/than123/than123/6139.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/18/09/19/18/09/2669292.jpg" group-title="A Maldição da Residência Hill",Cap. 07
+http://appcliente.com:8880/series/than123/than123/6140.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/18/09/19/18/09/2669292.jpg" group-title="A Maldição da Residência Hill",Cap. 08
+http://appcliente.com:8880/series/than123/than123/6141.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/18/09/19/18/09/2669292.jpg" group-title="A Maldição da Residência Hill",Cap. 09
+http://appcliente.com:8880/series/than123/than123/6142.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/18/09/19/18/09/2669292.jpg" group-title="A Maldição da Residência Hill",Cap. 10
+http://appcliente.com:8880/series/than123/than123/6143.mkv
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/18/12/19/11/26/4769726.jpg" group-title="American Gods T1",Cap. 01
+http://appcliente.com:8880/series/than123/than123/18912.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/18/12/19/11/26/4769726.jpg" group-title="American Gods T1",Cap. 02
+http://appcliente.com:8880/series/than123/than123/18913.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/18/12/19/11/26/4769726.jpg" group-title="American Gods T1",Cap. 03
+http://appcliente.com:8880/series/than123/than123/18914.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/18/12/19/11/26/4769726.jpg" group-title="American Gods T1",Cap. 04
+http://appcliente.com:8880/series/than123/than123/18915.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/18/12/19/11/26/4769726.jpg" group-title="American Gods T1",Cap. 05
+http://appcliente.com:8880/series/than123/than123/18916.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/18/12/19/11/26/4769726.jpg" group-title="American Gods T1",Cap. 06
+http://appcliente.com:8880/series/than123/than123/18917.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/18/12/19/11/26/4769726.jpg" group-title="American Gods T1",Cap. 07
+http://appcliente.com:8880/series/than123/than123/18918.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/18/12/19/11/26/4769726.jpg" group-title="American Gods T1",Cap. 08
+http://appcliente.com:8880/series/than123/than123/18919.mkv
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/12/10/13/59/5800663.jpg" group-title="American Gods T2",Cap. 01
+http://appcliente.com:8880/series/than123/than123/23714.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/12/10/13/59/5800663.jpg" group-title="American Gods T2",Cap. 02
+http://appcliente.com:8880/series/than123/than123/23715.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/12/10/13/59/5800663.jpg" group-title="American Gods T2",Cap. 03
+http://appcliente.com:8880/series/than123/than123/23716.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/12/10/13/59/5800663.jpg" group-title="American Gods T2",Cap. 04
+http://appcliente.com:8880/series/than123/than123/23717.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/12/10/13/59/5800663.jpg" group-title="American Gods T2",Cap. 05
+http://appcliente.com:8880/series/than123/than123/23718.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/12/10/13/59/5800663.jpg" group-title="American Gods T2",Cap. 06
+http://appcliente.com:8880/series/than123/than123/23719.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/12/10/13/59/5800663.jpg" group-title="American Gods T2",Cap. 07
+http://appcliente.com:8880/series/than123/than123/23720.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/12/10/13/59/5800663.jpg" group-title="American Gods T2",Cap. 08
+http://appcliente.com:8880/series/than123/than123/23721.mkv
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/04/04/23/18/233693.jpg" group-title="Anne com um E T1",Cap. 01
+http://appcliente.com:8880/series/than123/than123/8435.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/04/04/23/18/233693.jpg" group-title="Anne com um E T1",Cap. 02
+http://appcliente.com:8880/series/than123/than123/8436.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/04/04/23/18/233693.jpg" group-title="Anne com um E T1",Cap. 03
+http://appcliente.com:8880/series/than123/than123/8437.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/04/04/23/18/233693.jpg" group-title="Anne com um E T1",Cap. 04
+http://appcliente.com:8880/series/than123/than123/8438.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/04/04/23/18/233693.jpg" group-title="Anne com um E T1",Cap. 05
+http://appcliente.com:8880/series/than123/than123/8439.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/04/04/23/18/233693.jpg" group-title="Anne com um E T1",Cap. 06
+http://appcliente.com:8880/series/than123/than123/8440.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/04/04/23/18/233693.jpg" group-title="Anne com um E T1",Cap. 07
+http://appcliente.com:8880/series/than123/than123/8441.mkv
+
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/18/06/18/14/50/4868875.jpg" group-title="Anne com um E T2",Cap. 01
+http://appcliente.com:8880/series/than123/than123/8442.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/18/06/18/14/50/4868875.jpg" group-title="Anne com um E T2",Cap. 02
+http://appcliente.com:8880/series/than123/than123/8443.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/18/06/18/14/50/4868875.jpg" group-title="Anne com um E T2",Cap. 03
+http://appcliente.com:8880/series/than123/than123/8444.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/18/06/18/14/50/4868875.jpg" group-title="Anne com um E T2",Cap. 04
+http://appcliente.com:8880/series/than123/than123/8445.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/18/06/18/14/50/4868875.jpg" group-title="Anne com um E T2",Cap. 05
+http://appcliente.com:8880/series/than123/than123/8446.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/18/06/18/14/50/4868875.jpg" group-title="Anne com um E T2",Cap. 06
+http://appcliente.com:8880/series/than123/than123/8447.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/18/06/18/14/50/4868875.jpg" group-title="Anne com um E T2",Cap. 07
+http://appcliente.com:8880/series/than123/than123/8448.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/18/06/18/14/50/4868875.jpg" group-title="Anne com um E T2",Cap. 08
+http://appcliente.com:8880/series/than123/than123/8449.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/18/06/18/14/50/4868875.jpg" group-title="Anne com um E T2",Cap. 09
+http://appcliente.com:8880/series/than123/than123/8450.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/18/06/18/14/50/4868875.jpg" group-title="Anne com um E T2",Cap. 10
+http://appcliente.com:8880/series/than123/than123/8451.mkv
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/19/11/26/09/09/5380589.jpg" group-title="Anne com um E T3",Cap. 01
+http://appcliente.com:8880/series/than123/than123/8452.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/19/11/26/09/09/5380589.jpg" group-title="Anne com um E T3",Cap. 02
+http://appcliente.com:8880/series/than123/than123/8453.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/19/11/26/09/09/5380589.jpg" group-title="Anne com um E T3",Cap. 03
+http://appcliente.com:8880/series/than123/than123/8454.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/19/11/26/09/09/5380589.jpg" group-title="Anne com um E T3",Cap. 04
+http://appcliente.com:8880/series/than123/than123/8455.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/19/11/26/09/09/5380589.jpg" group-title="Anne com um E T3",Cap. 05
+http://appcliente.com:8880/series/than123/than123/8456.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/19/11/26/09/09/5380589.jpg" group-title="Anne com um E T3",Cap. 06
+http://appcliente.com:8880/series/than123/than123/8457.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/19/11/26/09/09/5380589.jpg" group-title="Anne com um E T3",Cap. 07
+http://appcliente.com:8880/series/than123/than123/8458.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/19/11/26/09/09/5380589.jpg" group-title="Anne com um E T3",Cap. 08
+http://appcliente.com:8880/series/than123/than123/8459.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/19/11/26/09/09/5380589.jpg" group-title="Anne com um E T3",Cap. 09
+http://appcliente.com:8880/series/than123/than123/8460.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/19/11/26/09/09/5380589.jpg" group-title="Anne com um E T3",Cap. 10
+http://appcliente.com:8880/series/than123/than123/8461.mkv
+
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/11/25/16/49/0602709.jpg" group-title="Anitta: Made in Honório",Cap. 01
+http://appcliente.com:8880/series/than123/than123/29184.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/11/25/16/49/0602709.jpg" group-title="Anitta: Made in Honório",Cap. 02
+http://appcliente.com:8880/series/than123/than123/29185.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/11/25/16/49/0602709.jpg" group-title="Anitta: Made in Honório",Cap. 03
+http://appcliente.com:8880/series/than123/than123/29186.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/11/25/16/49/0602709.jpg" group-title="Anitta: Made in Honório",Cap. 04
+http://appcliente.com:8880/series/than123/than123/29187.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/11/25/16/49/0602709.jpg" group-title="Anitta: Made in Honório",Cap. 05
+http://appcliente.com:8880/series/than123/than123/29188.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/11/25/16/49/0602709.jpg" group-title="Anitta: Made in Honório",Cap. 06
+http://appcliente.com:8880/series/than123/than123/29189.mp4
+
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/19/02/18/10/03/5980391.jpg" group-title="A Ordem T1",Cap. 01
+http://appcliente.com:8880/series/than123/than123/15523.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/19/02/18/10/03/5980391.jpg" group-title="A Ordem T1",Cap. 02
+http://appcliente.com:8880/series/than123/than123/15524.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/19/02/18/10/03/5980391.jpg" group-title="A Ordem T1",Cap. 03
+http://appcliente.com:8880/series/than123/than123/15525.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/19/02/18/10/03/5980391.jpg" group-title="A Ordem T1",Cap. 04
+http://appcliente.com:8880/series/than123/than123/15526.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/19/02/18/10/03/5980391.jpg" group-title="A Ordem T1",Cap. 05
+http://appcliente.com:8880/series/than123/than123/15527.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/19/02/18/10/03/5980391.jpg" group-title="A Ordem T1",Cap. 06
+http://appcliente.com:8880/series/than123/than123/15528.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/19/02/18/10/03/5980391.jpg" group-title="A Ordem T1",Cap. 07
+http://appcliente.com:8880/series/than123/than123/15529.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/19/02/18/10/03/5980391.jpg" group-title="A Ordem T1",Cap. 08
+http://appcliente.com:8880/series/than123/than123/15530.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/19/02/18/10/03/5980391.jpg" group-title="A Ordem T1",Cap. 09
+http://appcliente.com:8880/series/than123/than123/15531.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/19/02/18/10/03/5980391.jpg" group-title="A Ordem T1",Cap. 10
+http://appcliente.com:8880/series/than123/than123/15532.mkv
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/06/18/11/57/5430475.jpg" group-title="A Ordem T2",Cap. 01
+http://appcliente.com:8880/series/than123/than123/15533.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/06/18/11/57/5430475.jpg" group-title="A Ordem T2",Cap. 02
+http://appcliente.com:8880/series/than123/than123/15534.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/06/18/11/57/5430475.jpg" group-title="A Ordem T2",Cap. 03
+http://appcliente.com:8880/series/than123/than123/15535.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/06/18/11/57/5430475.jpg" group-title="A Ordem T2",Cap. 04
+http://appcliente.com:8880/series/than123/than123/15536.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/06/18/11/57/5430475.jpg" group-title="A Ordem T2",Cap. 05
+http://appcliente.com:8880/series/than123/than123/15537.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/06/18/11/57/5430475.jpg" group-title="A Ordem T2",Cap. 06
+http://appcliente.com:8880/series/than123/than123/15538.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/06/18/11/57/5430475.jpg" group-title="A Ordem T2",Cap. 07
+http://appcliente.com:8880/series/than123/than123/15539.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/06/18/11/57/5430475.jpg" group-title="A Ordem T2",Cap. 08
+http://appcliente.com:8880/series/than123/than123/15540.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/06/18/11/57/5430475.jpg" group-title="A Ordem T2",Cap. 09
+http://appcliente.com:8880/series/than123/than123/15541.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/06/18/11/57/5430475.jpg" group-title="A Ordem T2",Cap. 10
+http://appcliente.com:8880/series/than123/than123/15542.mkv
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/20/02/19/19/58/0350732.jpg" group-title="Arcanjo Renegado",Cap. 01
+http://appcliente.com:8880/series/than123/than123/28207.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/20/02/19/19/58/0350732.jpg" group-title="Arcanjo Renegado",Cap. 02
+http://appcliente.com:8880/series/than123/than123/28208.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/20/02/19/19/58/0350732.jpg" group-title="Arcanjo Renegado",Cap. 03
+http://appcliente.com:8880/series/than123/than123/28209.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/20/02/19/19/58/0350732.jpg" group-title="Arcanjo Renegado",Cap. 04
+http://appcliente.com:8880/series/than123/than123/28210.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/20/02/19/19/58/0350732.jpg" group-title="Arcanjo Renegado",Cap. 05
+http://appcliente.com:8880/series/than123/than123/28211.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/20/02/19/19/58/0350732.jpg" group-title="Arcanjo Renegado",Cap. 06
+http://appcliente.com:8880/series/than123/than123/28212.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/20/02/19/19/58/0350732.jpg" group-title="Arcanjo Renegado",Cap. 07
+http://appcliente.com:8880/series/than123/than123/28213.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/20/02/19/19/58/0350732.jpg" group-title="Arcanjo Renegado",Cap. 08
+http://appcliente.com:8880/series/than123/than123/28214.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/20/02/19/19/58/0350732.jpg" group-title="Arcanjo Renegado",Cap. 09
+http://appcliente.com:8880/series/than123/than123/28215.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/20/02/19/19/58/0350732.jpg" group-title="Arcanjo Renegado",Cap. 10
+http://appcliente.com:8880/series/than123/than123/28216.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/16/06/15/18/20/546802.jpg" group-title="A Rebelião dos Barbaros",Cap. 01
+http://appcliente.com:8880/series/than123/than123/23056.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/16/06/15/18/20/546802.jpg" group-title="A Rebelião dos Barbaros",Cap. 02
+http://appcliente.com:8880/series/than123/than123/23057.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/16/06/15/18/20/546802.jpg" group-title="A Rebelião dos Barbaros",Cap. 03
+http://appcliente.com:8880/series/than123/than123/23058.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/16/06/15/18/20/546802.jpg" group-title="A Rebelião dos Barbaros",Cap. 04
+http://appcliente.com:8880/series/than123/than123/23059.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/16/06/15/18/20/546802.jpg" group-title="A Rebelião dos Barbaros",Cap. 05
+http://appcliente.com:8880/series/than123/than123/23060.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/16/06/15/18/20/546802.jpg" group-title="A Rebelião dos Barbaros",Cap. 06
+http://appcliente.com:8880/series/than123/than123/23061.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/16/06/15/18/20/546802.jpg" group-title="A Rebelião dos Barbaros",Cap. 07
+http://appcliente.com:8880/series/than123/than123/23062.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/16/06/15/18/20/546802.jpg" group-title="A Rebelião dos Barbaros",Cap. 08
+http://appcliente.com:8880/series/than123/than123/23063.mkv
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/23/12/37/2549126.jpg" group-title="Ares",Cap. 01
+http://appcliente.com:8880/series/than123/than123/32652.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/23/12/37/2549126.jpg" group-title="Ares",Cap. 02
+http://appcliente.com:8880/series/than123/than123/32653.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/23/12/37/2549126.jpg" group-title="Ares",Cap. 03
+http://appcliente.com:8880/series/than123/than123/32654.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/23/12/37/2549126.jpg" group-title="Ares",Cap. 04
+http://appcliente.com:8880/series/than123/than123/32655.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/23/12/37/2549126.jpg" group-title="Ares",Cap. 05
+http://appcliente.com:8880/series/than123/than123/32656.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/23/12/37/2549126.jpg" group-title="Ares",Cap. 06
+http://appcliente.com:8880/series/than123/than123/32657.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/23/12/37/2549126.jpg" group-title="Ares",Cap. 07
+http://appcliente.com:8880/series/than123/than123/32658.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/23/12/37/2549126.jpg" group-title="Ares",Cap. 08
+http://appcliente.com:8880/series/than123/than123/32659.mkv
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/20/05/11/17/29/3311478.jpg" group-title="Aruanas T1",Cap. 01
+http://appcliente.com:8880/series/than123/than123/12576.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/20/05/11/17/29/3311478.jpg" group-title="Aruanas T1",Cap. 02
+http://appcliente.com:8880/series/than123/than123/12577.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/20/05/11/17/29/3311478.jpg" group-title="Aruanas T1",Cap. 03
+http://appcliente.com:8880/series/than123/than123/12578.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/20/05/11/17/29/3311478.jpg" group-title="Aruanas T1",Cap. 04
+http://appcliente.com:8880/series/than123/than123/12579.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/20/05/11/17/29/3311478.jpg" group-title="Aruanas T1",Cap. 05
+http://appcliente.com:8880/series/than123/than123/12580.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/20/05/11/17/29/3311478.jpg" group-title="Aruanas T1",Cap. 06
+http://appcliente.com:8880/series/than123/than123/12581.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/20/05/11/17/29/3311478.jpg" group-title="Aruanas T1",Cap. 07
+http://appcliente.com:8880/series/than123/than123/12582.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/20/05/11/17/29/3311478.jpg" group-title="Aruanas T1",Cap. 08
+http://appcliente.com:8880/series/than123/than123/12583.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/20/05/11/17/29/3311478.jpg" group-title="Aruanas T1",Cap. 09
+http://appcliente.com:8880/series/than123/than123/12584.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/20/05/11/17/29/3311478.jpg" group-title="Aruanas T1",Cap. 10
+http://appcliente.com:8880/series/than123/than123/12585.mp4
+
+#EXTINF:-1 tvg-logo="https://mff.com.br/wp-content/uploads/2021/12/Cartaz-Aruanas-S02.png" group-title="Aruanas T2",Cap. 01
+http://appcliente.com:8880/series/than123/than123/45502.mkv
+#EXTINF:-1 tvg-logo="https://mff.com.br/wp-content/uploads/2021/12/Cartaz-Aruanas-S02.png" group-title="Aruanas T2",Cap. 02
+http://appcliente.com:8880/series/than123/than123/45503.mkv
+#EXTINF:-1 tvg-logo="https://mff.com.br/wp-content/uploads/2021/12/Cartaz-Aruanas-S02.png" group-title="Aruanas T2",Cap. 03
+http://appcliente.com:8880/series/than123/than123/45504.mkv
+#EXTINF:-1 tvg-logo="https://mff.com.br/wp-content/uploads/2021/12/Cartaz-Aruanas-S02.png" group-title="Aruanas T2",Cap. 04
+http://appcliente.com:8880/series/than123/than123/45505.mkv
+#EXTINF:-1 tvg-logo="https://mff.com.br/wp-content/uploads/2021/12/Cartaz-Aruanas-S02.png" group-title="Aruanas T2",Cap. 05
+http://appcliente.com:8880/series/than123/than123/45506.mkv
+#EXTINF:-1 tvg-logo="https://mff.com.br/wp-content/uploads/2021/12/Cartaz-Aruanas-S02.png" group-title="Aruanas T2",Cap. 06
+http://appcliente.com:8880/series/than123/than123/45507.mkv
+#EXTINF:-1 tvg-logo="https://mff.com.br/wp-content/uploads/2021/12/Cartaz-Aruanas-S02.png" group-title="Aruanas T2",Cap. 07
+http://appcliente.com:8880/series/than123/than123/45508.mkv
+#EXTINF:-1 tvg-logo="https://mff.com.br/wp-content/uploads/2021/12/Cartaz-Aruanas-S02.png" group-title="Aruanas T2",Cap. 08
+http://appcliente.com:8880/series/than123/than123/45509.mkv
+#EXTINF:-1 tvg-logo="https://mff.com.br/wp-content/uploads/2021/12/Cartaz-Aruanas-S02.png" group-title="Aruanas T2",Cap. 09
+http://appcliente.com:8880/series/than123/than123/45510.mkv
+#EXTINF:-1 tvg-logo="https://mff.com.br/wp-content/uploads/2021/12/Cartaz-Aruanas-S02.png" group-title="Aruanas T2",Cap. 10
+http://appcliente.com:8880/series/than123/than123/45511.mkv
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/11/06/20/18/4657436.jpg" group-title="As Five",Cap. 01
+http://appcliente.com:8880/series/than123/than123/29143.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/11/06/20/18/4657436.jpg" group-title="As Five",Cap. 02
+http://appcliente.com:8880/series/than123/than123/29144.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/11/06/20/18/4657436.jpg" group-title="As Five",Cap. 03
+http://appcliente.com:8880/series/than123/than123/29145.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/11/06/20/18/4657436.jpg" group-title="As Five",Cap. 04
+http://appcliente.com:8880/series/than123/than123/29146.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/11/06/20/18/4657436.jpg" group-title="As Five",Cap. 05
+http://appcliente.com:8880/series/than123/than123/29147.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/11/06/20/18/4657436.jpg" group-title="As Five",Cap. 06
+http://appcliente.com:8880/series/than123/than123/29294.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/11/06/20/18/4657436.jpg" group-title="As Five",Cap. 07
+http://appcliente.com:8880/series/than123/than123/29295.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/11/06/20/18/4657436.jpg" group-title="As Five",Cap. 08
+http://appcliente.com:8880/series/than123/than123/29956.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/11/06/20/18/4657436.jpg" group-title="As Five",Cap. 09
+http://appcliente.com:8880/series/than123/than123/31475.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/11/06/20/18/4657436.jpg" group-title="As Five",Cap. 10
+http://appcliente.com:8880/series/than123/than123/35589.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/91rrud8LHZL._SY445_.jpg" group-title="Ash vs Evil Dead T1",Cap. 01
+http://appcliente.com:8880/series/than123/than123/17868.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/91rrud8LHZL._SY445_.jpg" group-title="Ash vs Evil Dead T1",Cap. 02
+http://appcliente.com:8880/series/than123/than123/17869.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/91rrud8LHZL._SY445_.jpg" group-title="Ash vs Evil Dead T1",Cap. 03
+http://appcliente.com:8880/series/than123/than123/17870.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/91rrud8LHZL._SY445_.jpg" group-title="Ash vs Evil Dead T1",Cap. 04
+http://appcliente.com:8880/series/than123/than123/17871.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/91rrud8LHZL._SY445_.jpg" group-title="Ash vs Evil Dead T1",Cap. 05
+http://appcliente.com:8880/series/than123/than123/17872.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/91rrud8LHZL._SY445_.jpg" group-title="Ash vs Evil Dead T1",Cap. 06
+http://appcliente.com:8880/series/than123/than123/17873.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/91rrud8LHZL._SY445_.jpg" group-title="Ash vs Evil Dead T1",Cap. 07
+http://appcliente.com:8880/series/than123/than123/17874.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/91rrud8LHZL._SY445_.jpg" group-title="Ash vs Evil Dead T1",Cap. 08
+http://appcliente.com:8880/series/than123/than123/17875.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/91rrud8LHZL._SY445_.jpg" group-title="Ash vs Evil Dead T1",Cap. 09
+http://appcliente.com:8880/series/than123/than123/17876.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/91rrud8LHZL._SY445_.jpg" group-title="Ash vs Evil Dead T1",Cap. 10
+http://appcliente.com:8880/series/than123/than123/17877.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81YYslKbGEL._SL1500_.jpg" group-title="Ash vs Evil Dead T2",Cap. 01
+http://appcliente.com:8880/series/than123/than123/17878.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81YYslKbGEL._SL1500_.jpg" group-title="Ash vs Evil Dead T2",Cap. 02
+http://appcliente.com:8880/series/than123/than123/17879.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81YYslKbGEL._SL1500_.jpg" group-title="Ash vs Evil Dead T2",Cap. 03
+http://appcliente.com:8880/series/than123/than123/17880.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81YYslKbGEL._SL1500_.jpg" group-title="Ash vs Evil Dead T2",Cap. 04
+http://appcliente.com:8880/series/than123/than123/17881.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81YYslKbGEL._SL1500_.jpg" group-title="Ash vs Evil Dead T2",Cap. 05
+http://appcliente.com:8880/series/than123/than123/17882.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81YYslKbGEL._SL1500_.jpg" group-title="Ash vs Evil Dead T2",Cap. 06
+http://appcliente.com:8880/series/than123/than123/17883.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81YYslKbGEL._SL1500_.jpg" group-title="Ash vs Evil Dead T2",Cap. 07
+http://appcliente.com:8880/series/than123/than123/17884.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81YYslKbGEL._SL1500_.jpg" group-title="Ash vs Evil Dead T2",Cap. 08
+http://appcliente.com:8880/series/than123/than123/17885.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81YYslKbGEL._SL1500_.jpg" group-title="Ash vs Evil Dead T2",Cap. 09
+http://appcliente.com:8880/series/than123/than123/17886.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81YYslKbGEL._SL1500_.jpg" group-title="Ash vs Evil Dead T2",Cap. 10
+http://appcliente.com:8880/series/than123/than123/17887.mkv
+
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/08/07/00/17/4205927.jpg" group-title="Ash vs Evil Dead T3",Cap. 01
+http://appcliente.com:8880/series/than123/than123/17898.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/08/07/00/17/4205927.jpg" group-title="Ash vs Evil Dead T3",Cap. 02
+http://appcliente.com:8880/series/than123/than123/17899.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/08/07/00/17/4205927.jpg" group-title="Ash vs Evil Dead T3",Cap. 03
+http://appcliente.com:8880/series/than123/than123/17900.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/08/07/00/17/4205927.jpg" group-title="Ash vs Evil Dead T3",Cap. 04
+http://appcliente.com:8880/series/than123/than123/17901.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/08/07/00/17/4205927.jpg" group-title="Ash vs Evil Dead T3",Cap. 05
+http://appcliente.com:8880/series/than123/than123/17902.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/08/07/00/17/4205927.jpg" group-title="Ash vs Evil Dead T3",Cap. 06
+http://appcliente.com:8880/series/than123/than123/17903.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/08/07/00/17/4205927.jpg" group-title="Ash vs Evil Dead T3",Cap. 07
+http://appcliente.com:8880/series/than123/than123/17904.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/08/07/00/17/4205927.jpg" group-title="Ash vs Evil Dead T3",Cap. 08
+http://appcliente.com:8880/series/than123/than123/17905.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/08/07/00/17/4205927.jpg" group-title="Ash vs Evil Dead T3",Cap. 09
+http://appcliente.com:8880/series/than123/than123/17906.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/08/07/00/17/4205927.jpg" group-title="Ash vs Evil Dead T3",Cap. 10
+http://appcliente.com:8880/series/than123/than123/17907.mkv
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/09/03/05/44/1353870.jpg" group-title="As Telefonistas T1",Cap. 01
+http://appcliente.com:8880/series/than123/than123/31438.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/09/03/05/44/1353870.jpg" group-title="As Telefonistas T1",Cap. 02
+http://appcliente.com:8880/series/than123/than123/31439.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/09/03/05/44/1353870.jpg" group-title="As Telefonistas T1",Cap. 03
+http://appcliente.com:8880/series/than123/than123/31440.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/09/03/05/44/1353870.jpg" group-title="As Telefonistas T1",Cap. 04
+http://appcliente.com:8880/series/than123/than123/31441.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/09/03/05/44/1353870.jpg" group-title="As Telefonistas T1",Cap. 05
+http://appcliente.com:8880/series/than123/than123/31442.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/09/03/05/44/1353870.jpg" group-title="As Telefonistas T1",Cap. 06
+http://appcliente.com:8880/series/than123/than123/31443.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/09/03/05/44/1353870.jpg" group-title="As Telefonistas T1",Cap. 07
+http://appcliente.com:8880/series/than123/than123/31444.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/09/03/05/44/1353870.jpg" group-title="As Telefonistas T1",Cap. 08
+http://appcliente.com:8880/series/than123/than123/31445.mp4
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/11/29/15/30/4300713.jpg" group-title="As Telefonistas T2",Cap. 01
+http://appcliente.com:8880/series/than123/than123/31446.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/11/29/15/30/4300713.jpg" group-title="As Telefonistas T2",Cap. 02
+http://appcliente.com:8880/series/than123/than123/31447.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/11/29/15/30/4300713.jpg" group-title="As Telefonistas T2",Cap. 03
+http://appcliente.com:8880/series/than123/than123/31448.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/11/29/15/30/4300713.jpg" group-title="As Telefonistas T2",Cap. 04
+http://appcliente.com:8880/series/than123/than123/31449.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/11/29/15/30/4300713.jpg" group-title="As Telefonistas T2",Cap. 05
+http://appcliente.com:8880/series/than123/than123/31450.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/11/29/15/30/4300713.jpg" group-title="As Telefonistas T2",Cap. 06
+http://appcliente.com:8880/series/than123/than123/31451.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/11/29/15/30/4300713.jpg" group-title="As Telefonistas T2",Cap. 07
+http://appcliente.com:8880/series/than123/than123/31452.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/11/29/15/30/4300713.jpg" group-title="As Telefonistas T2",Cap. 08
+http://appcliente.com:8880/series/than123/than123/31453.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/09/03/05/44/5386521.jpg" group-title="As Telefonistas T3",Cap. 01
+http://appcliente.com:8880/series/than123/than123/31454.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/09/03/05/44/5386521.jpg" group-title="As Telefonistas T3",Cap. 02
+http://appcliente.com:8880/series/than123/than123/31455.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/09/03/05/44/5386521.jpg" group-title="As Telefonistas T3",Cap. 03
+http://appcliente.com:8880/series/than123/than123/31456.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/09/03/05/44/5386521.jpg" group-title="As Telefonistas T3",Cap. 04
+http://appcliente.com:8880/series/than123/than123/31457.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/09/03/05/44/5386521.jpg" group-title="As Telefonistas T3",Cap. 05
+http://appcliente.com:8880/series/than123/than123/31458.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/09/03/05/44/5386521.jpg" group-title="As Telefonistas T3",Cap. 06
+http://appcliente.com:8880/series/than123/than123/31459.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/09/03/05/44/5386521.jpg" group-title="As Telefonistas T3",Cap. 07
+http://appcliente.com:8880/series/than123/than123/31460.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/09/03/05/44/5386521.jpg" group-title="As Telefonistas T3",Cap. 08
+http://appcliente.com:8880/series/than123/than123/31461.mp4
+
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/09/03/05/59/3035776.jpg" group-title="As Telefonistas T4",Cap. 01
+http://appcliente.com:8880/series/than123/than123/31462.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/09/03/05/59/3035776.jpg" group-title="As Telefonistas T4",Cap. 02
+http://appcliente.com:8880/series/than123/than123/31463.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/09/03/05/59/3035776.jpg" group-title="As Telefonistas T4",Cap. 03
+http://appcliente.com:8880/series/than123/than123/31464.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/09/03/05/59/3035776.jpg" group-title="As Telefonistas T4",Cap. 04
+http://appcliente.com:8880/series/than123/than123/31465.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/09/03/05/59/3035776.jpg" group-title="As Telefonistas T4",Cap. 05
+http://appcliente.com:8880/series/than123/than123/31466.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/09/03/05/59/3035776.jpg" group-title="As Telefonistas T4",Cap. 06
+http://appcliente.com:8880/series/than123/than123/31467.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/09/03/05/59/3035776.jpg" group-title="As Telefonistas T4",Cap. 07
+http://appcliente.com:8880/series/than123/than123/31468.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/09/03/05/59/3035776.jpg" group-title="As Telefonistas T4",Cap. 08
+http://appcliente.com:8880/series/than123/than123/31469.mp4
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/06/02/12/36/3968000.jpg" group-title="As Telefonistas T5",Cap. 01
+http://appcliente.com:8880/series/than123/than123/31470.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/06/02/12/36/3968000.jpg" group-title="As Telefonistas T5",Cap. 02
+http://appcliente.com:8880/series/than123/than123/31471.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/06/02/12/36/3968000.jpg" group-title="As Telefonistas T5",Cap. 03
+http://appcliente.com:8880/series/than123/than123/31472.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/06/02/12/36/3968000.jpg" group-title="As Telefonistas T5",Cap. 04
+http://appcliente.com:8880/series/than123/than123/31473.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/06/02/12/36/3968000.jpg" group-title="As Telefonistas T5",Cap. 05
+http://appcliente.com:8880/series/than123/than123/31474.mp4
+
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/17/07/19/09/32/127765.jpg" group-title="Atypical T1",Cap. 01
+http://appcliente.com:8880/series/than123/than123/30197.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/17/07/19/09/32/127765.jpg" group-title="Atypical T1",Cap. 02
+http://appcliente.com:8880/series/than123/than123/30198.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/17/07/19/09/32/127765.jpg" group-title="Atypical T1",Cap. 03
+http://appcliente.com:8880/series/than123/than123/30199.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/17/07/19/09/32/127765.jpg" group-title="Atypical T1",Cap. 04
+http://appcliente.com:8880/series/than123/than123/30200.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/17/07/19/09/32/127765.jpg" group-title="Atypical T1",Cap. 05
+http://appcliente.com:8880/series/than123/than123/30201.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/17/07/19/09/32/127765.jpg" group-title="Atypical T1",Cap. 06
+http://appcliente.com:8880/series/than123/than123/30202.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/17/07/19/09/32/127765.jpg" group-title="Atypical T1",Cap. 07
+http://appcliente.com:8880/series/than123/than123/30203.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/17/07/19/09/32/127765.jpg" group-title="Atypical T1",Cap. 08
+http://appcliente.com:8880/series/than123/than123/30204.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/10/21/14/58/4891368.jpg" group-title="Atypical T2",Cap. 01
+http://appcliente.com:8880/series/than123/than123/30215.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/10/21/14/58/4891368.jpg" group-title="Atypical T2",Cap. 02
+http://appcliente.com:8880/series/than123/than123/30216.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/10/21/14/58/4891368.jpg" group-title="Atypical T2",Cap. 03
+http://appcliente.com:8880/series/than123/than123/30217.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/10/21/14/58/4891368.jpg" group-title="Atypical T2",Cap. 04
+http://appcliente.com:8880/series/than123/than123/30218.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/10/21/14/58/4891368.jpg" group-title="Atypical T2",Cap. 05
+http://appcliente.com:8880/series/than123/than123/30219.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/10/21/14/58/4891368.jpg" group-title="Atypical T2",Cap. 06
+http://appcliente.com:8880/series/than123/than123/30220.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/10/21/14/58/4891368.jpg" group-title="Atypical T2",Cap. 07
+http://appcliente.com:8880/series/than123/than123/30221.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/10/21/14/58/4891368.jpg" group-title="Atypical T2",Cap. 08
+http://appcliente.com:8880/series/than123/than123/30222.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/10/21/14/58/4891368.jpg" group-title="Atypical T2",Cap. 09
+http://appcliente.com:8880/series/than123/than123/30223.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/10/21/14/58/4891368.jpg" group-title="Atypical T2",Cap. 10
+http://appcliente.com:8880/series/than123/than123/30224.mp4
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/08/20/23/43/1977695.jpg" group-title="Atypical T3",Cap. 01
+http://appcliente.com:8880/series/than123/than123/30205.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/08/20/23/43/1977695.jpg" group-title="Atypical T3",Cap. 02
+http://appcliente.com:8880/series/than123/than123/30206.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/08/20/23/43/1977695.jpg" group-title="Atypical T3",Cap. 03
+http://appcliente.com:8880/series/than123/than123/30207.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/08/20/23/43/1977695.jpg" group-title="Atypical T3",Cap. 04
+http://appcliente.com:8880/series/than123/than123/30208.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/08/20/23/43/1977695.jpg" group-title="Atypical T3",Cap. 05
+http://appcliente.com:8880/series/than123/than123/30209.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/08/20/23/43/1977695.jpg" group-title="Atypical T3",Cap. 06
+http://appcliente.com:8880/series/than123/than123/30210.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/08/20/23/43/1977695.jpg" group-title="Atypical T3",Cap. 07
+http://appcliente.com:8880/series/than123/than123/30211.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/08/20/23/43/1977695.jpg" group-title="Atypical T3",Cap. 08
+http://appcliente.com:8880/series/than123/than123/30212.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/08/20/23/43/1977695.jpg" group-title="Atypical T3",Cap. 09
+http://appcliente.com:8880/series/than123/than123/30213.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/08/20/23/43/1977695.jpg" group-title="Atypical T3",Cap. 10
+http://appcliente.com:8880/series/than123/than123/30214.mp4
+
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/03/23/14/14/0512926.jpg" group-title="Cobra Kai T1",Cap. 01
+http://appcliente.com:8880/series/than123/than123/8138.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/03/23/14/14/0512926.jpg" group-title="Cobra Kai T1",Cap. 02
+http://appcliente.com:8880/series/than123/than123/8139.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/03/23/14/14/0512926.jpg" group-title="Cobra Kai T1",Cap. 03
+http://appcliente.com:8880/series/than123/than123/8140.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/03/23/14/14/0512926.jpg" group-title="Cobra Kai T1",Cap. 04
+http://appcliente.com:8880/series/than123/than123/8141.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/03/23/14/14/0512926.jpg" group-title="Cobra Kai T1",Cap. 05
+http://appcliente.com:8880/series/than123/than123/8142.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/03/23/14/14/0512926.jpg" group-title="Cobra Kai T1",Cap. 06
+http://appcliente.com:8880/series/than123/than123/8143.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/03/23/14/14/0512926.jpg" group-title="Cobra Kai T1",Cap. 07
+http://appcliente.com:8880/series/than123/than123/8144.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/03/23/14/14/0512926.jpg" group-title="Cobra Kai T1",Cap. 08
+http://appcliente.com:8880/series/than123/than123/8145.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/03/23/14/14/0512926.jpg" group-title="Cobra Kai T1",Cap. 09
+http://appcliente.com:8880/series/than123/than123/8146.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/03/23/14/14/0512926.jpg" group-title="Cobra Kai T1",Cap. 10
+http://appcliente.com:8880/series/than123/than123/8147.mkv
+
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/04/28/08/47/1066665.jpg" group-title="Cobra Kai T2",Cap. 01
+http://appcliente.com:8880/series/than123/than123/8148.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/04/28/08/47/1066665.jpg" group-title="Cobra Kai T2",Cap. 02
+http://appcliente.com:8880/series/than123/than123/8149.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/04/28/08/47/1066665.jpg" group-title="Cobra Kai T2",Cap. 03
+http://appcliente.com:8880/series/than123/than123/8150.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/04/28/08/47/1066665.jpg" group-title="Cobra Kai T2",Cap. 04
+http://appcliente.com:8880/series/than123/than123/8151.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/04/28/08/47/1066665.jpg" group-title="Cobra Kai T2",Cap. 05
+http://appcliente.com:8880/series/than123/than123/8152.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/04/28/08/47/1066665.jpg" group-title="Cobra Kai T2",Cap. 06
+http://appcliente.com:8880/series/than123/than123/8153.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/04/28/08/47/1066665.jpg" group-title="Cobra Kai T2",Cap. 07
+http://appcliente.com:8880/series/than123/than123/8154.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/04/28/08/47/1066665.jpg" group-title="Cobra Kai T2",Cap. 08
+http://appcliente.com:8880/series/than123/than123/8155.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/04/28/08/47/1066665.jpg" group-title="Cobra Kai T2",Cap. 09
+http://appcliente.com:8880/series/than123/than123/8156.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/04/28/08/47/1066665.jpg" group-title="Cobra Kai T2",Cap. 10
+http://appcliente.com:8880/series/than123/than123/8157.mkv
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/12/28/10/21/2413552.jpg" group-title="Cobra Kai T3",Cap. 01
+http://appcliente.com:8880/series/than123/than123/30437.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/12/28/10/21/2413552.jpg" group-title="Cobra Kai T3",Cap. 02
+http://appcliente.com:8880/series/than123/than123/30438.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/12/28/10/21/2413552.jpg" group-title="Cobra Kai T3",Cap. 03
+http://appcliente.com:8880/series/than123/than123/30439.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/12/28/10/21/2413552.jpg" group-title="Cobra Kai T3",Cap. 04
+http://appcliente.com:8880/series/than123/than123/30440.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/12/28/10/21/2413552.jpg" group-title="Cobra Kai T3",Cap. 05
+http://appcliente.com:8880/series/than123/than123/30441.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/12/28/10/21/2413552.jpg" group-title="Cobra Kai T3",Cap. 06
+http://appcliente.com:8880/series/than123/than123/30442.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/12/28/10/21/2413552.jpg" group-title="Cobra Kai T3",Cap. 07
+http://appcliente.com:8880/series/than123/than123/30443.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/12/28/10/21/2413552.jpg" group-title="Cobra Kai T3",Cap. 08
+http://appcliente.com:8880/series/than123/than123/30444.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/12/28/10/21/2413552.jpg" group-title="Cobra Kai T3",Cap. 09
+http://appcliente.com:8880/series/than123/than123/30445.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/12/28/10/21/2413552.jpg" group-title="Cobra Kai T3",Cap. 10
+http://appcliente.com:8880/series/than123/than123/30446.mkv
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg" group-title="Cobra Kai T4",Cap. 01
-http://54.39.157.211/SERIES/COBRAKAI/4/Cobra.Kai.S04E01.mp4
+http://appcliente.com:8880/series/than123/than123/48637.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg" group-title="Cobra Kai T4",Cap. 02
-http://54.39.157.211/SERIES/COBRAKAI/4/Cobra.Kai.S04E02.mp4
+http://appcliente.com:8880/series/than123/than123/48638.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg" group-title="Cobra Kai T4",Cap. 03
-http://54.39.157.211/SERIES/COBRAKAI/4/Cobra.Kai.S04E03.mp4
+http://appcliente.com:8880/series/than123/than123/48639.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg" group-title="Cobra Kai T4",Cap. 04
-http://54.39.157.211/SERIES/COBRAKAI/4/Cobra.Kai.S04E04.mp4
+http://appcliente.com:8880/series/than123/than123/48640.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg" group-title="Cobra Kai T4",Cap. 05
-http://54.39.157.211/SERIES/COBRAKAI/4/Cobra.Kai.S04E05.mp4
+http://appcliente.com:8880/series/than123/than123/48641.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg" group-title="Cobra Kai T4",Cap. 06
-http://54.39.157.211/SERIES/COBRAKAI/4/Cobra.Kai.S04E06.mp4
+http://appcliente.com:8880/series/than123/than123/48642.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg" group-title="Cobra Kai T4",Cap. 07
-http://54.39.157.211/SERIES/COBRAKAI/4/Cobra.Kai.S04E07.mp4
+http://appcliente.com:8880/series/than123/than123/48643.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg" group-title="Cobra Kai T4",Cap. 08
-http://54.39.157.211/SERIES/COBRAKAI/4/Cobra.Kai.S04E08.mp4
+http://appcliente.com:8880/series/than123/than123/48644.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg" group-title="Cobra Kai T4",Cap. 09
-http://54.39.157.211/SERIES/COBRAKAI/4/Cobra.Kai.S04E09.mp4
+http://appcliente.com:8880/series/than123/than123/48645.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg" group-title="Cobra Kai T4",Cap. 10
+http://appcliente.com:8880/series/than123/than123/48646.mkv
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg" group-title="Cobra Kai T4 -MP4",Cap. 01
+http://54.39.157.211/SERIES/COBRAKAI/4/Cobra.Kai.S04E01.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg" group-title="Cobra Kai T4 -MP4",Cap. 02
+http://54.39.157.211/SERIES/COBRAKAI/4/Cobra.Kai.S04E02.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg" group-title="Cobra Kai T4 -MP4",Cap. 03
+http://54.39.157.211/SERIES/COBRAKAI/4/Cobra.Kai.S04E03.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg" group-title="Cobra Kai T4 -MP4",Cap. 04
+http://54.39.157.211/SERIES/COBRAKAI/4/Cobra.Kai.S04E04.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg" group-title="Cobra Kai T4 -MP4",Cap. 05
+http://54.39.157.211/SERIES/COBRAKAI/4/Cobra.Kai.S04E05.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg" group-title="Cobra Kai T4 -MP4",Cap. 06
+http://54.39.157.211/SERIES/COBRAKAI/4/Cobra.Kai.S04E06.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg" group-title="Cobra Kai T4 -MP4",Cap. 07
+http://54.39.157.211/SERIES/COBRAKAI/4/Cobra.Kai.S04E07.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg" group-title="Cobra Kai T4 -MP4",Cap. 08
+http://54.39.157.211/SERIES/COBRAKAI/4/Cobra.Kai.S04E08.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg" group-title="Cobra Kai T4 -MP4",Cap. 09
+http://54.39.157.211/SERIES/COBRAKAI/4/Cobra.Kai.S04E09.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg" group-title="Cobra Kai T4 -MP4",Cap. 10
 http://54.39.157.211/SERIES/COBRAKAI/4/Cobra.Kai.S04E10.mp4
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/15/09/54/5190078.jpg" group-title="Depois da festa",Cap. 01
@@ -78,6 +883,19 @@ http://54.39.157.211/SERIES/ESTACAO/1/Station.Eleven.S01E08.mp4
 http://54.39.157.211/SERIES/ESTACAO/1/Station.Eleven.S01E09.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/12/03/10/36/5987829.jpg" group-title="Estacao Once T1",Cap. 10
 http://54.39.157.211/SERIES/ESTACAO/1/Station.Eleven.S01E10.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/05/11/17/50/5581633.jpg" group-title="Eu a Vó e a Boi",Cap. 01
+http://appcliente.com:8880/series/than123/than123/28274.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/05/11/17/50/5581633.jpg" group-title="Eu a Vó e a Boi",Cap. 02
+http://appcliente.com:8880/series/than123/than123/28275.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/05/11/17/50/5581633.jpg" group-title="Eu a Vó e a Boi",Cap. 03
+http://appcliente.com:8880/series/than123/than123/28276.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/05/11/17/50/5581633.jpg" group-title="Eu a Vó e a Boi",Cap. 04
+http://appcliente.com:8880/series/than123/than123/28277.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/05/11/17/50/5581633.jpg" group-title="Eu a Vó e a Boi",Cap. 05
+http://appcliente.com:8880/series/than123/than123/28278.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/05/11/17/50/5581633.jpg" group-title="Eu a Vó e a Boi",Cap. 06
+http://appcliente.com:8880/series/than123/than123/28279.mkv
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/12/01/12/10/4941822.jpg" group-title="Fora de orbita",Cap. 01
 http://54.39.157.211/SERIES/FORADEOBITA/1/The.Orbital.Children.S01E01.mp4
