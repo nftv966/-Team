@@ -2840,6 +2840,23 @@ http://appcliente.com:8880/series/than123/than123/45519.mp4
 #EXTINF:-1 tvg-logo="https://www.vitalthrills.com/wp-content/uploads/2021/11/hanna3poster.jpg" group-title="Hanna T3",Cap. 06
 http://appcliente.com:8880/series/than123/than123/45520.mp4
 
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/22/02/28/17/32/5002276.jpg" group-title="Harina",Cap. 01
+http://appcliente.com:8880/series/than123/than123/50708.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/22/02/28/17/32/5002276.jpg" group-title="Harina",Cap. 02
+http://appcliente.com:8880/series/than123/than123/50709.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/22/02/28/17/32/5002276.jpg" group-title="Harina",Cap. 03
+http://appcliente.com:8880/series/than123/than123/50710.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/22/02/28/17/32/5002276.jpg" group-title="Harina",Cap. 04
+http://appcliente.com:8880/series/than123/than123/50711.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/22/02/28/17/32/5002276.jpg" group-title="Harina",Cap. 05
+http://appcliente.com:8880/series/than123/than123/50712.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/22/02/28/17/32/5002276.jpg" group-title="Harina",Cap. 06
+http://appcliente.com:8880/series/than123/than123/50713.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/22/02/28/17/32/5002276.jpg" group-title="Harina",Cap. 07
+http://appcliente.com:8880/series/than123/than123/50714.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/22/02/28/17/32/5002276.jpg" group-title="Harina",Cap. 08
+http://appcliente.com:8880/series/than123/than123/50715.mkv
+
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/07/03/18/26/1483360.jpg" group-title="Hebe",Cap. 01
 http://appcliente.com:8880/series/than123/than123/18782.mkv
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/07/03/18/26/1483360.jpg" group-title="Hebe",Cap. 02
@@ -2877,6 +2894,27 @@ http://appcliente.com:8880/series/than123/than123/43033.mkv
 http://appcliente.com:8880/series/than123/than123/43889.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/08/06/13/24/1447316.jpg" group-title="Heels",Cap. 08
 http://appcliente.com:8880/series/than123/than123/43890.mkv
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/21/07/22/11/08/2248048.jpg" group-title="He-Man e os Mestres do Universo",Cap. 01
+http://appcliente.com:8880/series/than123/than123/42982.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/21/07/22/11/08/2248048.jpg" group-title="He-Man e os Mestres do Universo",Cap. 02
+http://appcliente.com:8880/series/than123/than123/42983.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/21/07/22/11/08/2248048.jpg" group-title="He-Man e os Mestres do Universo",Cap. 03
+http://appcliente.com:8880/series/than123/than123/42984.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/21/07/22/11/08/2248048.jpg" group-title="He-Man e os Mestres do Universo",Cap. 04
+http://appcliente.com:8880/series/than123/than123/42985.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/21/07/22/11/08/2248048.jpg" group-title="He-Man e os Mestres do Universo",Cap. 05
+http://appcliente.com:8880/series/than123/than123/42986.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/21/07/22/11/08/2248048.jpg" group-title="He-Man e os Mestres do Universo",Cap. 06
+http://appcliente.com:8880/series/than123/than123/42987.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/21/07/22/11/08/2248048.jpg" group-title="He-Man e os Mestres do Universo",Cap. 07
+http://appcliente.com:8880/series/than123/than123/42988.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/21/07/22/11/08/2248048.jpg" group-title="He-Man e os Mestres do Universo",Cap. 08
+http://appcliente.com:8880/series/than123/than123/42989.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/21/07/22/11/08/2248048.jpg" group-title="He-Man e os Mestres do Universo",Cap. 09
+http://appcliente.com:8880/series/than123/than123/42990.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/21/07/22/11/08/2248048.jpg" group-title="He-Man e os Mestres do Universo",Cap. 10
+http://appcliente.com:8880/series/than123/than123/42991.mkv
 
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/11/02/10/56/5206961.jpg" group-title="Hernán",Cap. 01
 http://appcliente.com:8880/series/than123/than123/13142.mkv
@@ -2932,6 +2970,29 @@ http://appcliente.com:8880/series/than123/than123/29153.mkv
 http://appcliente.com:8880/series/than123/than123/29154.mkv
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/10/18/17/04/1499622.jpg" group-title="His Dark Materials: Fronteiras do Universo",Cap. 08
 http://appcliente.com:8880/series/than123/than123/29155.mkv
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/22/01/31/22/45/1533466.jpg" group-title="Historias de Verão",Cap. 01
+http://appcliente.com:8880/series/than123/than123/50338.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/22/01/31/22/45/1533466.jpg" group-title="Historias de Verão",Cap. 02
+http://appcliente.com:8880/series/than123/than123/50339.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/22/01/31/22/45/1533466.jpg" group-title="Historias de Verão",Cap. 03
+http://appcliente.com:8880/series/than123/than123/50340.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/22/01/31/22/45/1533466.jpg" group-title="Historias de Verão",Cap. 04
+http://appcliente.com:8880/series/than123/than123/50341.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/22/01/31/22/45/1533466.jpg" group-title="Historias de Verão",Cap. 05
+http://appcliente.com:8880/series/than123/than123/50342.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/22/01/31/22/45/1533466.jpg" group-title="Historias de Verão",Cap. 06
+http://appcliente.com:8880/series/than123/than123/50343.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/22/01/31/22/45/1533466.jpg" group-title="Historias de Verão",Cap. 07
+http://appcliente.com:8880/series/than123/than123/50344.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/22/01/31/22/45/1533466.jpg" group-title="Historias de Verão",Cap. 08
+http://appcliente.com:8880/series/than123/than123/50345.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/22/01/31/22/45/1533466.jpg" group-title="Historias de Verão",Cap. 09
+http://appcliente.com:8880/series/than123/than123/50346.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/22/01/31/22/45/1533466.jpg" group-title="Historias de Verão",Cap. 10
+http://appcliente.com:8880/series/than123/than123/50347.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/22/01/31/22/45/1533466.jpg" group-title="Historias de Verão",Cap. 11
+http://appcliente.com:8880/series/than123/than123/50348.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/fWqy4ApCHnRrMPkhUPII3yjJZN3.jpg" group-title="Histórias Maravilhosas",Cap. 01
 http://appcliente.com:8880/series/than123/than123/31250.mp4
