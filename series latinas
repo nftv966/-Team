@@ -65,12 +65,47 @@ http://vods.tuxchannel.tv/series/absentia/s_02_e_09.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/06/19/03/09/0765522.jpg" group-title="Absentia T2",Cap. 10
 http://vods.tuxchannel.tv/series/absentia/s_02_e_10.mkv
 
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/20/07/14/15/27/5166296.jpg" group-title="Alex Rider T1",Cap. 01
+http://vods.tuxchannel.tv/series/alex_rider/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/20/07/14/15/27/5166296.jpg" group-title="Alex Rider T1",Cap. 02
+http://vods.tuxchannel.tv/series/alex_rider/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/20/07/14/15/27/5166296.jpg" group-title="Alex Rider T1",Cap. 03
+http://vods.tuxchannel.tv/series/alex_rider/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/20/07/14/15/27/5166296.jpg" group-title="Alex Rider T1",Cap. 04
+http://vods.tuxchannel.tv/series/alex_rider/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/20/07/14/15/27/5166296.jpg" group-title="Alex Rider T1",Cap. 05
+http://vods.tuxchannel.tv/series/alex_rider/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/20/07/14/15/27/5166296.jpg" group-title="Alex Rider T1",Cap. 06
+http://vods.tuxchannel.tv/series/alex_rider/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/20/07/14/15/27/5166296.jpg" group-title="Alex Rider T1",Cap. 07
+http://vods.tuxchannel.tv/series/alex_rider/s_01_e_07.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/20/07/14/15/27/5166296.jpg" group-title="Alex Rider T1",Cap. 08
+http://vods.tuxchannel.tv/series/alex_rider/s_01_e_08.mkv
+
+
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/09/09/16/04/2781600.jpg" group-title="Alguien tiene que morir",Cap. 01
 http://vods.tuxchannel.tv/series/alguien_tiene_que_morir/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/09/09/16/04/2781600.jpg" group-title="Alguien tiene que morir",Cap. 02
 http://vods.tuxchannel.tv/series/alguien_tiene_que_morir/s_01_e_02.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/09/09/16/04/2781600.jpg" group-title="Alguien tiene que morir",Cap. 03
 http://vods.tuxchannel.tv/series/alguien_tiene_que_morir/s_01_e_03.mkv
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/12/10/09/47/3988792.jpg" group-title="Alice in Borderland",Cap. 01
+http://vods.tuxchannel.tv/series/alice_in_borderland/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/12/10/09/47/3988792.jpg" group-title="Alice in Borderland",Cap. 02
+http://vods.tuxchannel.tv/series/alice_in_borderland/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/12/10/09/47/3988792.jpg" group-title="Alice in Borderland",Cap. 03
+http://vods.tuxchannel.tv/series/alice_in_borderland/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/12/10/09/47/3988792.jpg" group-title="Alice in Borderland",Cap. 04
+http://vods.tuxchannel.tv/series/alice_in_borderland/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/12/10/09/47/3988792.jpg" group-title="Alice in Borderland",Cap. 05
+http://vods.tuxchannel.tv/series/alice_in_borderland/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/12/10/09/47/3988792.jpg" group-title="Alice in Borderland",Cap. 06
+http://vods.tuxchannel.tv/series/alice_in_borderland/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/12/10/09/47/3988792.jpg" group-title="Alice in Borderland",Cap. 07
+http://vods.tuxchannel.tv/series/alice_in_borderland/s_01_e_07.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/12/10/09/47/3988792.jpg" group-title="Alice in Borderland",Cap. 08
+http://vods.tuxchannel.tv/series/alice_in_borderland/s_01_e_08.mkv
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/11/25/07/30/3603199.jpg" group-title="Alta mar T1",Cap. 01
 http://vods.tuxchannel.tv/series/alta_mar/s_01_e_01.mkv
@@ -488,6 +523,27 @@ http://vods.tuxchannel.tv/series/castle_rock/s_02_e_08.mkv
 http://vods.tuxchannel.tv/series/castle_rock/s_02_e_09.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/15/09/22/1126373.jpg" group-title="Castle Rock T2",Cap. 10
 http://vods.tuxchannel.tv/series/castle_rock/s_02_e_10.mkv
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/03/27/09/07/5066854.jpg" group-title="Chambers",Cap. 01
+http://vods.tuxchannel.tv/series/chambers/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/03/27/09/07/5066854.jpg" group-title="Chambers",Cap. 02
+http://vods.tuxchannel.tv/series/chambers/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/03/27/09/07/5066854.jpg" group-title="Chambers",Cap. 03
+http://vods.tuxchannel.tv/series/chambers/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/03/27/09/07/5066854.jpg" group-title="Chambers",Cap. 04
+http://vods.tuxchannel.tv/series/chambers/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/03/27/09/07/5066854.jpg" group-title="Chambers",Cap. 05
+http://vods.tuxchannel.tv/series/chambers/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/03/27/09/07/5066854.jpg" group-title="Chambers",Cap. 06
+http://vods.tuxchannel.tv/series/chambers/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/03/27/09/07/5066854.jpg" group-title="Chambers",Cap. 07
+http://vods.tuxchannel.tv/series/chambers/s_01_e_07.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/03/27/09/07/5066854.jpg" group-title="Chambers",Cap. 08
+http://vods.tuxchannel.tv/series/chambers/s_01_e_08.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/03/27/09/07/5066854.jpg" group-title="Chambers",Cap. 09
+http://vods.tuxchannel.tv/series/chambers/s_01_e_09.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/03/27/09/07/5066854.jpg" group-title="Chambers",Cap. 10
+http://vods.tuxchannel.tv/series/chambers/s_01_e_10.mkv
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/29/08/21/1692162.jpg" group-title="Chernobyl",Cap. 01
 http://vods.tuxchannel.tv/series/chernobyl/s_01_e_01.mkv
@@ -947,6 +1003,27 @@ http://vods.tuxchannel.tv/series/curon/s_01_e_06.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/05/26/16/43/3144869.jpg" group-title="Curon",Cap. 07
 http://vods.tuxchannel.tv/series/curon/s_01_e_07.mkv
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/05/07/16/03/4883751.jpg" group-title="Cursed: Maldita",Cap. 01
+http://vods.tuxchannel.tv/series/cursed/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/05/07/16/03/4883751.jpg" group-title="Cursed: Maldita",Cap. 02
+http://vods.tuxchannel.tv/series/cursed/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/05/07/16/03/4883751.jpg" group-title="Cursed: Maldita",Cap. 03
+http://vods.tuxchannel.tv/series/cursed/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/05/07/16/03/4883751.jpg" group-title="Cursed: Maldita",Cap. 04
+http://vods.tuxchannel.tv/series/cursed/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/05/07/16/03/4883751.jpg" group-title="Cursed: Maldita",Cap. 05
+http://vods.tuxchannel.tv/series/cursed/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/05/07/16/03/4883751.jpg" group-title="Cursed: Maldita",Cap. 06
+http://vods.tuxchannel.tv/series/cursed/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/05/07/16/03/4883751.jpg" group-title="Cursed: Maldita",Cap. 07
+http://vods.tuxchannel.tv/series/cursed/s_01_e_07.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/05/07/16/03/4883751.jpg" group-title="Cursed: Maldita",Cap. 08
+http://vods.tuxchannel.tv/series/cursed/s_01_e_08.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/05/07/16/03/4883751.jpg" group-title="Cursed: Maldita",Cap. 09
+http://vods.tuxchannel.tv/series/cursed/s_01_e_09.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/05/07/16/03/4883751.jpg" group-title="Cursed: Maldita",Cap. 10
+http://vods.tuxchannel.tv/series/cursed/s_01_e_10.mkv
+
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/20/11/25/16/34/5110082.png" group-title="De brutas nada T1",Cap. 01
 http://vods.tuxchannel.tv/series/de_brutas_nada/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/20/11/25/16/34/5110082.png" group-title="De brutas nada T1",Cap. 02
@@ -1051,6 +1128,23 @@ http://vods.tuxchannel.tv/series/doom_patrol/s_02_e_07.mkv
 http://vods.tuxchannel.tv/series/doom_patrol/s_02_e_08.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/05/29/10/01/0373135.jpg" group-title="Doom Patrol: Patrulla condenada T2",Cap. 09
 http://vods.tuxchannel.tv/series/doom_patrol/s_02_e_09.mkv
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/16/05/3732520.jpg" group-title="Dublin Murders",Cap. 01
+http://vods.tuxchannel.tv/series/dublin_murders/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/16/05/3732520.jpg" group-title="Dublin Murders",Cap. 02
+http://vods.tuxchannel.tv/series/dublin_murders/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/16/05/3732520.jpg" group-title="Dublin Murders",Cap. 03
+http://vods.tuxchannel.tv/series/dublin_murders/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/16/05/3732520.jpg" group-title="Dublin Murders",Cap. 04
+http://vods.tuxchannel.tv/series/dublin_murders/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/16/05/3732520.jpg" group-title="Dublin Murders",Cap. 05
+http://vods.tuxchannel.tv/series/dublin_murders/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/16/05/3732520.jpg" group-title="Dublin Murders",Cap. 06
+http://vods.tuxchannel.tv/series/dublin_murders/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/16/05/3732520.jpg" group-title="Dublin Murders",Cap. 07
+http://vods.tuxchannel.tv/series/dublin_murders/s_01_e_07.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/16/05/3732520.jpg" group-title="Dublin Murders",Cap. 08
+http://vods.tuxchannel.tv/series/dublin_murders/s_01_e_08.mkv
 
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/05/17/17/26/5007043.jpg" group-title="Dulcero",Cap. 01
 http://vods.tuxchannel.tv/series/sweet_tooth/s_01_e_01.mkv
@@ -2168,6 +2262,27 @@ http://vods.tuxchannel.tv/series/gangs_of_london/s_01_e_08.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/10/01/17/02/0432191.jpg" group-title="Gangs of London T1 (SUB)",Cap. 09
 http://vods.tuxchannel.tv/series/gangs_of_london/s_01_e_09.mkv
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/01/27/10/04/5014842.jpg" group-title="Ginny y Georgia",Cap. 01
+http://vods.tuxchannel.tv/series/ginny_and_georgia/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/01/27/10/04/5014842.jpg" group-title="Ginny y Georgia",Cap. 02
+http://vods.tuxchannel.tv/series/ginny_and_georgia/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/01/27/10/04/5014842.jpg" group-title="Ginny y Georgia",Cap. 03
+http://vods.tuxchannel.tv/series/ginny_and_georgia/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/01/27/10/04/5014842.jpg" group-title="Ginny y Georgia",Cap. 04
+http://vods.tuxchannel.tv/series/ginny_and_georgia/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/01/27/10/04/5014842.jpg" group-title="Ginny y Georgia",Cap. 05
+http://vods.tuxchannel.tv/series/ginny_and_georgia/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/01/27/10/04/5014842.jpg" group-title="Ginny y Georgia",Cap. 06
+http://vods.tuxchannel.tv/series/ginny_and_georgia/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/01/27/10/04/5014842.jpg" group-title="Ginny y Georgia",Cap. 07
+http://vods.tuxchannel.tv/series/ginny_and_georgia/s_01_e_07.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/01/27/10/04/5014842.jpg" group-title="Ginny y Georgia",Cap. 08
+http://vods.tuxchannel.tv/series/ginny_and_georgia/s_01_e_08.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/01/27/10/04/5014842.jpg" group-title="Ginny y Georgia",Cap. 09
+http://vods.tuxchannel.tv/series/ginny_and_georgia/s_01_e_09.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/01/27/10/04/5014842.jpg" group-title="Ginny y Georgia",Cap. 10
+http://vods.tuxchannel.tv/series/ginny_and_georgia/s_01_e_10.mkv
+
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/11/08/21/22/2802623.jpg" group-title="Good Omens: Buenos presagios",Cap. 01
 http://vods.tuxchannel.tv/series/good_omens/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/11/08/21/22/2802623.jpg" group-title="Good Omens: Buenos presagios",Cap. 02
@@ -2390,6 +2505,21 @@ http://vods.tuxchannel.tv/series/hernan/s_01_e_07.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/19/11/02/10/56/5206961.jpg" group-title="Hernan",Cap. 08
 http://vods.tuxchannel.tv/series/hernan/s_01_e_08.mkv
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/20/02/20/16/20/3885422.jpg" group-title="Hollywood",Cap. 01
+http://vods.tuxchannel.tv/series/hollywood/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/20/02/20/16/20/3885422.jpg" group-title="Hollywood",Cap. 02
+http://vods.tuxchannel.tv/series/hollywood/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/20/02/20/16/20/3885422.jpg" group-title="Hollywood",Cap. 03
+http://vods.tuxchannel.tv/series/hollywood/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/20/02/20/16/20/3885422.jpg" group-title="Hollywood",Cap. 04
+http://vods.tuxchannel.tv/series/hollywood/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/20/02/20/16/20/3885422.jpg" group-title="Hollywood",Cap. 05
+http://vods.tuxchannel.tv/series/hollywood/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/20/02/20/16/20/3885422.jpg" group-title="Hollywood",Cap. 06
+http://vods.tuxchannel.tv/series/hollywood/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/20/02/20/16/20/3885422.jpg" group-title="Hollywood",Cap. 07
+http://vods.tuxchannel.tv/series/hollywood/s_01_e_07.mkv
+
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/04/11/07/2745518.jpg" group-title="Hunters: Cazadores",Cap. 01
 http://vods.tuxchannel.tv/series/hunters/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/04/11/07/2745518.jpg" group-title="Hunters: Cazadores",Cap. 02
@@ -2427,6 +2557,11 @@ http://vods.tuxchannel.tv/series/unbelievable/s_01_e_06.mkv
 http://vods.tuxchannel.tv/series/unbelievable/s_01_e_07.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/07/19/09/22/2582740.jpg" group-title="Inconcebible",Cap. 08
 http://vods.tuxchannel.tv/series/unbelievable/s_01_e_08.mkv
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/11/10/10/23/3495315.jpg" group-title="Industry: Empresa",Cap. 01
+http://vods.tuxchannel.tv/series/industry/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/11/10/10/23/3495315.jpg" group-title="Industry: Empresa",Cap. 02
+http://vods.tuxchannel.tv/series/industry/s_01_e_02.mkv
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/07/24/20/57/3405849.jpg" group-title="La rueda del tiempo",Cap. 01
 http://vods.tuxchannel.tv/series/the_wheel_of_time/s_01_e_01.mkv
@@ -2736,6 +2871,44 @@ http://vods.tuxchannel.tv/series/killing_eve/s_02_e_07.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/819Qfw0p5sL._SY550_.jpg" group-title="Killing Eve T2",Cap. 08
 http://vods.tuxchannel.tv/series/killing_eve/s_02_e_08.mkv
 
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/17/06/08/12/28/237349.jpg" group-title="Knightfall T1",Cap. 01
+http://vods.tuxchannel.tv/series/knightfall/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/17/06/08/12/28/237349.jpg" group-title="Knightfall T1",Cap. 02
+http://vods.tuxchannel.tv/series/knightfall/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/17/06/08/12/28/237349.jpg" group-title="Knightfall T1",Cap. 03
+http://vods.tuxchannel.tv/series/knightfall/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/17/06/08/12/28/237349.jpg" group-title="Knightfall T1",Cap. 04
+http://vods.tuxchannel.tv/series/knightfall/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/17/06/08/12/28/237349.jpg" group-title="Knightfall T1",Cap. 05
+http://vods.tuxchannel.tv/series/knightfall/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/17/06/08/12/28/237349.jpg" group-title="Knightfall T1",Cap. 06
+http://vods.tuxchannel.tv/series/knightfall/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/17/06/08/12/28/237349.jpg" group-title="Knightfall T1",Cap. 07
+http://vods.tuxchannel.tv/series/knightfall/s_01_e_07.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/17/06/08/12/28/237349.jpg" group-title="Knightfall T1",Cap. 08
+http://vods.tuxchannel.tv/series/knightfall/s_01_e_08.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/17/06/08/12/28/237349.jpg" group-title="Knightfall T1",Cap. 09
+http://vods.tuxchannel.tv/series/knightfall/s_01_e_09.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/17/06/08/12/28/237349.jpg" group-title="Knightfall T1",Cap. 10
+http://vods.tuxchannel.tv/series/knightfall/s_01_e_10.mkv
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/05/09/59/1759325.jpg" group-title="Knightfall T2",Cap. 01
+http://vods.tuxchannel.tv/series/knightfall/s_02_e_01.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/05/09/59/1759325.jpg" group-title="Knightfall T2",Cap. 02
+http://vods.tuxchannel.tv/series/knightfall/s_02_e_02.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/05/09/59/1759325.jpg" group-title="Knightfall T2",Cap. 03
+http://vods.tuxchannel.tv/series/knightfall/s_02_e_03.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/05/09/59/1759325.jpg" group-title="Knightfall T2",Cap. 04
+http://vods.tuxchannel.tv/series/knightfall/s_02_e_04.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/05/09/59/1759325.jpg" group-title="Knightfall T2",Cap. 05
+http://vods.tuxchannel.tv/series/knightfall/s_02_e_05.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/05/09/59/1759325.jpg" group-title="Knightfall T2",Cap. 06
+http://vods.tuxchannel.tv/series/knightfall/s_02_e_06.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/05/09/59/1759325.jpg" group-title="Knightfall T2",Cap. 07
+http://vods.tuxchannel.tv/series/knightfall/s_02_e_07.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/05/09/59/1759325.jpg" group-title="Knightfall T2",Cap. 08
+http://vods.tuxchannel.tv/series/knightfall/s_02_e_08.mkv
+
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/01/03/12/35/5809463.jpg" group-title="La Forense T1",Cap. 01
 http://vods.tuxchannel.tv/series/coroner/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/01/03/12/35/5809463.jpg" group-title="La Forense T1",Cap. 02
@@ -2848,6 +3021,31 @@ http://vods.tuxchannel.tv/series/the_mysterious_benedict_society/s_01_e_06.mkv
 http://vods.tuxchannel.tv/series/the_mysterious_benedict_society/s_01_e_07.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/05/21/09/10/1625980.jpg" group-title="La misteriosa Sociedad Benedict",Cap. 08
 http://vods.tuxchannel.tv/series/the_mysterious_benedict_society/s_01_e_08.mkv
+
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/02/17/00/08/0570917.jpg" group-title="La Negociadora",Cap. 01
+http://vods.tuxchannel.tv/series/la_negociadora/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/02/17/00/08/0570917.jpg" group-title="La Negociadora",Cap. 02
+http://vods.tuxchannel.tv/series/la_negociadora/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/02/17/00/08/0570917.jpg" group-title="La Negociadora",Cap. 03
+http://vods.tuxchannel.tv/series/la_negociadora/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/02/17/00/08/0570917.jpg" group-title="La Negociadora",Cap. 04
+http://vods.tuxchannel.tv/series/la_negociadora/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/02/17/00/08/0570917.jpg" group-title="La Negociadora",Cap. 05
+http://vods.tuxchannel.tv/series/la_negociadora/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/02/17/00/08/0570917.jpg" group-title="La Negociadora",Cap. 06
+http://vods.tuxchannel.tv/series/la_negociadora/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/02/17/00/08/0570917.jpg" group-title="La Negociadora",Cap. 07
+http://vods.tuxchannel.tv/series/la_negociadora/s_01_e_07.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/02/17/00/08/0570917.jpg" group-title="La Negociadora",Cap. 08
+http://vods.tuxchannel.tv/series/la_negociadora/s_01_e_08.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/02/17/00/08/0570917.jpg" group-title="La Negociadora",Cap. 09
+http://vods.tuxchannel.tv/series/la_negociadora/s_01_e_09.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/02/17/00/08/0570917.jpg" group-title="La Negociadora",Cap. 10
+http://vods.tuxchannel.tv/series/la_negociadora/s_01_e_10.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/02/17/00/08/0570917.jpg" group-title="La Negociadora",Cap. 11
+http://vods.tuxchannel.tv/series/la_negociadora/s_01_e_11.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/02/17/00/08/0570917.jpg" group-title="La Negociadora",Cap. 12
+http://vods.tuxchannel.tv/series/la_negociadora/s_01_e_12.mkv
 
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/21/09/15/12/08/0523796.jpg" group-title="Las cosas por limpiar",Cap. 01
 http://vods.tuxchannel.tv/series/maid/s_01_e_01.mkv
