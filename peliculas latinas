@@ -1488,6 +1488,8 @@ http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
 http://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/210/440/21044006_20130925165451535.jpg" group-title="Peliculas Viejas",Frozen (2013)
+http://vod.tuxchannel.tv/peliculas/720/frozen.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/05/05/12/46/010208.jpg" group-title="Peliculas Viejas",Al filo del mañana (2014)
 http://vod.tuxchannel.tv/peliculas/720/edge%20of%20tomorrow.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/09/18/11/01/191001.jpg" group-title="Peliculas Viejas",Los pingüinos de Madagascar (2014)
