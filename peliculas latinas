@@ -1488,6 +1488,14 @@ http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
 http://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/04/30/15/56/008969.jpg" group-title="Peliculas Viejas",X-Men: Días del futuro pasado (2014)
+http://vod.tuxchannel.tv/peliculas/720/x%20men%20days%20of%20future%20past.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/91ymtfhVqIL._AC_SY679_.jpg" group-title="Peliculas Viejas",Malefica (2014)
+http://vod.tuxchannel.tv/peliculas/720/maleficent.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/10/17/13/10/188874.jpg" group-title="Peliculas Viejas",El Hobbit: la batalla de los cinco ejércitos (2014)
+http://vod.tuxchannel.tv/peliculas/720/the%20hobbit%20the%20battle%20of%20the%20five%20armies.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/06/23/11/40/441402.jpg" group-title="Peliculas Viejas",Transformers: La era de la extincion (2014)
+http://vod.tuxchannel.tv/peliculas/720/transformers%20age%20of%20extinction.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/15/11/11/08/23/358565.jpg" group-title="Peliculas Viejas",Amanecer de los muertos (2004)
 http://vod.tuxchannel.tv/peliculas/720/dawn of the dead.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/19/06/11/18/46/0820905.jpg" group-title="Peliculas Viejas",Amar te duele (2002)
@@ -1658,7 +1666,6 @@ http://vod.tuxchannel.tv/peliculas/720/exorcist%20the%20beginning.mkv
 http://mataocio-cdn-7.mataocio-cdn7.workers.dev/Pack%25201/RAMBO%25204.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/69/48/15/20054805.jpg" group-title="Peliculas Viejas",El despertar del diablo 2 (1987)
 http://vod.tuxchannel.tv/peliculas/720/el%20despertar%20del%20diablo%202.mkv
-
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/79/70/91/19514464.jpg" group-title="Peliculas Viejas",El nucleo (2003)
 http://51.222.153.30:9000/rombwgshgfhgdsjr/homeend-d3728.appspot.com/Peliculas/Latino/Ver%20Pelicula%20El%20nucleo2003.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/35/78/09/18647167.jpg" group-title="Peliculas Viejas",Superman Regresa (2006)
