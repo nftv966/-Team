@@ -7,6 +7,8 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 #EXTINF:-1 tvg-logo="https://de.web.img3.acsta.net/pictures/22/01/06/15/18/3434449.jpg" group-title="2022 Serv 192",Persecusion (2022)
 http://192.64.86.228/%5ba%5d/Pursuit.2022.lati.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/22/02/11/20/46/5014541.jpg" group-title="2022 Serv 192",El hilo invisibile (2022)
+http://192.64.86.228/%5ba%5d/Il.filo.invisibile.2022.lati.mp4
 
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/12/15/07/35/3334858.jpg" group-title="2022 TUX",Jugar en casa (2022)
 http://vod.tuxchannel.tv/peliculas/720/home%20team%202022.mkv
