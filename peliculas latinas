@@ -1324,15 +1324,34 @@ http://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
 #EXTINF:-1 tvg-logo="https://thearrowhead.net/wp-content/uploads/2018/02/Cloverfield-Paradox-714x900.jpg" group-title="2018",The Cloverfield Paradox (2018)
 http://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
 
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/04/03/10/39/232280.jpg" group-title="2017",La guerra del Planeta de los Simios (2017)
+http://vod.tuxchannel.tv/peliculas/720/war%20for%20the%20planet%20of%20the%20apes.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/06/09/12/52/190097.jpg" group-title="2017",Dunkerque (2017)
+http://vod.tuxchannel.tv/peliculas/720/dunkirk.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/10/18/09/30/315303.jpg" group-title="2017",El bebé jefazo: Un jefe en pañales (2017)
+http://vod.tuxchannel.tv/peliculas/720/the%20boss%20baby.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/11/18/11/21/315675.jpg" group-title="2017",Kong: La Isla Calavera (2017)
+http://vod.tuxchannel.tv/peliculas/720/kong%20skull%20island.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/06/12/10/17/319566.jpg" group-title="2017",Transformers: El último caballero (2017) MKV
+http://vod.tuxchannel.tv/peliculas/720/transformers%20the%20last%20knight.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/06/12/10/17/319566.jpg" group-title="2017",Transformers: El ultimo caballero (2017)
+https://mataocio-cdn5.mataocio-cdn5.workers.dev/Otras/Transformers%2520-%2520The%2520last%2520knight.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/17/01/30/11/31/059557.jpg" group-title="2017",Logan (2017)
+http://vod.tuxchannel.tv/peliculas/720/logan.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/11/08/09/46/1315249.jpg" group-title="2017",Liga de la Justicia (2017)
+http://vod.tuxchannel.tv/peliculas/720/justice%20league.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/04/07/12/58/197841.jpg" group-title="2017",It (2017) MKV
+http://vod.tuxchannel.tv/peliculas/720/it%202017.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/04/07/12/58/197841.jpg" group-title="2017",It (2017)
+http://archive.org/download/ghostbusters.-2016.1080p.extended-dual-lat/It%20%28Eso%29.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/03/27/17/40/153012.jpg" group-title="2017",Piratas del Caribe: La venganza de Salazar (2017) MKV
+http://vod.tuxchannel.tv/peliculas/720/pirates%20of%20the%20caribbean%20dead%20men%20tell%20no%20tales.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/03/27/17/40/153012.jpg" group-title="2017",Piratas del Caribe: La venganza de Salazar (2017)
+http://archive.org/download/piratas.-5.-br.-lat.-www.-hackstore.-net/PIRATAS.5.BR.LAT.Www.Hackstore.Net.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/17/09/14/10/49/2019727.jpg" group-title="2017",Coco (2017) MKV
+http://vod.tuxchannel.tv/peliculas/720/coco.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/17/09/14/10/49/2019727.jpg" group-title="2017",Coco (2017)
+http://archive.org/download/constantine_202104/C0C0.1080.www.Mega-Mkv.com.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/17/08/05/18/38/025504.jpg" group-title="2017",Mujer Maravilla (2017)
 http://vod.tuxchannel.tv/peliculas/720/wonder%20woman%202017.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/17/08/25/09/36/103601.jpg" group-title="2017",Thor: Ragnarok (2017) MKV
@@ -1363,28 +1382,18 @@ http://archive.org/download/a-47-metros/a%2047%20metros.mp4
 http://archive.org/download/geo-tormenta/Geo-Tormenta.ia.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/08/30/10/00/088381.jpg" group-title="2017",Mi prima Rachel (2017)
 http://archive.org/download/ghostbusters.-2016.1080p.extended-dual-lat/Mi%20Prima%20Rachel.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/04/07/12/58/197841.jpg" group-title="2017",It (2017)
-http://archive.org/download/ghostbusters.-2016.1080p.extended-dual-lat/It%20%28Eso%29.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/12/12/16/47/000977.jpg" group-title="2017",50 sombras más oscuras (2017)
 http://archive.org/download/ghostbusters.-2016.1080p.extended-dual-lat/Cincuenta%20Sombras%20M%C3%A1s%20Oscuras.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/17/09/14/10/49/2019727.jpg" group-title="2017",Coco (2017)
-http://archive.org/download/constantine_202104/C0C0.1080.www.Mega-Mkv.com.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/814y6gR9UVL._RI_.jpg" group-title="2017",Attraction: La Guerra ha Comenzado (2017)
 http://archive.org/download/el.-inocente.-1955/Attraction_%20La%20guerra%20ha%20comenzado.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/03/27/17/40/153012.jpg" group-title="2017",Piratas del Caribe: La venganza de Salazar (2017)
-http://archive.org/download/piratas.-5.-br.-lat.-www.-hackstore.-net/PIRATAS.5.BR.LAT.Www.Hackstore.Net.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/05/12/14/55/272246.jpg" group-title="2017",Baby Driver (2017)
 http://vod.tuxchannel.tv/peliculas/720/baby%20driver.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/05/12/14/55/272246.jpg" group-title="2017",Baby Driver (2017)
 http://archive.org/download/apocalypto.-2006/BABY.BR.LAT.Www.Hackstore.Net.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/17/08/23/07/36/172837.jpg" group-title="2017",El otro guardaespaldas 1: Duro de cuidar (2017)
 http://archive.org/download/duro-de-cuidar./CUIDAR..mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/17/01/30/11/31/059557.jpg" group-title="2017",Logan (2017) DUAL
-http://vod.tuxchannel.tv/peliculas/720/logan.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51umPihrrkL.jpg" group-title="2017",Altitud mortal (2017)
 https://mataocio-cdn5.mataocio-cdn5.workers.dev/Altitud%2520-%25202017.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/06/12/10/17/319566.jpg" group-title="2017",Transformers: El ultimo caballero (2017)
-https://mataocio-cdn5.mataocio-cdn5.workers.dev/Otras/Transformers%2520-%2520The%2520last%2520knight.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/r_1280_720/pictures/18/05/19/00/23/2775813.jpg" group-title="2017",Enemigo Inmortal (2017)
 http://vod.tuxchannel.tv/peliculas/720/enemigo%20inmortal.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/r_1280_720/pictures/18/05/19/00/23/2775813.jpg" group-title="2017",Enemigo Inmortal (2017) CASTELLANO
