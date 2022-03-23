@@ -5,11 +5,10 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 #EXTINF:-1 tvg-logo="https://www.lifeder.com/wp-content/uploads/2016/07/pel%C3%ADculas-recomendadas.jpg" group-title="PELICULAS GRATIS",PELICULAS GRATIS
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
-#EXTINF:-1 tvg-logo="https://de.web.img3.acsta.net/pictures/22/01/06/15/18/3434449.jpg" group-title="2022 Serv 192",Persecusion (2022)
-http://192.64.86.228/%5ba%5d/Pursuit.2022.lati.mp4
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/22/02/11/20/46/5014541.jpg" group-title="2022 Serv 192",El hilo invisibile (2022)
-http://192.64.86.228/%5ba%5d/Il.filo.invisibile.2022.lati.mp4
-
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/01/27/09/52/5827561.jpg" group-title="2022 TUX",El regreso a casa de Madea (2022)
+http://vod.tuxchannel.tv/peliculas/720/a%20madea%20homecoming%202022.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/22/02/01/11/23/4105599.jpg" group-title="2022 TUX",OVNI (2022)
+http://vod.tuxchannel.tv/peliculas/720/ufo%202022.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/12/15/07/35/3334858.jpg" group-title="2022 TUX",Jugar en casa (2022)
 http://vod.tuxchannel.tv/peliculas/720/home%20team%202022.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/25/12/04/3975634.jpg" group-title="2022 TUX",BigBug (2022)
@@ -47,8 +46,10 @@ http://vod.tuxchannel.tv/peliculas/720/the%20royal%20treatment%202022.mkv
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/21/11/23/09/49/1154871.jpg" group-title="2022 TUX",Ray Donovan: La pelicula (2022)
 http://vod.tuxchannel.tv/peliculas/720/ray%20donovan%20the%20movie.mkv
 
-#EXTINF:-1 tvg-logo="https://pelistorrent.org/wp-content/uploads/2022/02/2lgk6WHLGAuQzvD0OpoSvdZEXBJ.jpg" group-title="2021 Serv 192",Later days (2021)
-http://192.64.86.228/%5ba%5d/Later.Days.2021.lati.mp4
+#EXTINF:-1 tvg-logo="https://de.web.img3.acsta.net/pictures/22/01/06/15/18/3434449.jpg" group-title="2022 Serv 192",Persecusion (2022)
+http://192.64.86.228/%5ba%5d/Pursuit.2022.lati.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/22/02/11/20/46/5014541.jpg" group-title="2022 Serv 192",El hilo invisibile (2022)
+http://192.64.86.228/%5ba%5d/Il.filo.invisibile.2022.lati.mp4
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/18/18/12/1999528.jpg" group-title="2021 TUX",Matrix Resurrections (2021)
 http://vod.tuxchannel.tv:80/peliculas/720/the%20matrix%20resurrections%202021.mkv
@@ -662,6 +663,12 @@ http://vod.tuxchannel.tv/peliculas/720/i%20am%20all%20girls%202021.mkv
 http://vod.tuxchannel.tv/peliculas/720/zone%20414%202021.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/08/17/36/3167579.jpg" group-title="2021 TUX",Zeros and Ones (2021)
 http://vod.tuxchannel.tv/peliculas/720/zeros%20and%20ones%202021.mkv
+#EXTINF:-1 tvg-logo="https://subtituladas.com/wp-content/uploads/2021/10/uR5zLDJeBCKCo4QP1VfKDS6WIhC.jpg" group-title="2021 TUX",Women: desaparecidas (2021)
+http://vod.tuxchannel.tv/peliculas/720/women%202021.mkv
+
+
+#EXTINF:-1 tvg-logo="https://pelistorrent.org/wp-content/uploads/2022/02/2lgk6WHLGAuQzvD0OpoSvdZEXBJ.jpg" group-title="2021 Serv 192",Later days (2021)
+http://192.64.86.228/%5ba%5d/Later.Days.2021.lati.mp4
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/14/14/35/2412453.jpg" group-title="2021",El efecto Marcus: Los casos del departamento Q (2021)
 http://51.222.153.30:9000/rombwgshgfhgdsjr/85455532potroxvix/Películas/El%20Efecto%20Marcus%20Los%20Casos%20del%20Departamento%20Q.mp4
@@ -669,8 +676,6 @@ http://51.222.153.30:9000/rombwgshgfhgdsjr/85455532potroxvix/Películas/El%20Efe
 http://51.77.66.14/Lego.Star.Wars.Terrifying.Tales-LEGO.Star.Wars.Cuentos.Escalofriantes.2021.WEB-DL.1080p.ChileBT.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/08/19/19/58/5674347.jpg" group-title="2021",Shang-Chi y la leyenda de los diez anillos (2021)
 https://archive.org/download/1-4931465738276831830/1_4931465738276831830.mp4
-#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/21/10/14/11/35/5324295.jpg" group-title="2021",Apex (2021)
-http://vod.tuxchannel.tv/peliculas/720/apex%202021.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9147t-DEgZL._SL1500_.jpg" group-title="2021",Potters Ground: Tierra de alfareros (2021)
 http://51.222.153.30:9000/rombwgshgfhgdsjr/85455532potroxvix/Pel%C3%ADculas/Potter%27s%20Ground%202021%20sub.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/09/13/11/15/4816011.jpg" group-title="2021",Injustice (2021)
@@ -695,10 +700,6 @@ https://archive.org/download/r.-i.-a.-lat.-720p-mx/R.I.A.LAT.720p%20-%20MX.mp4
 https://archive.org/download/ilhados-movie-x/Ilhados%20-%20MovieX.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/08/25/10/55/2823897.jpg" group-title="2021",Schumacher (2021)
 https://archive.org/download/schumacher-movie-x/Schumacher%20-%20MovieX.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/07/01/10/41/2900966.jpg" group-title="2021",Demonic: En la mente del Demonio (2021)
-http://vod.tuxchannel.tv/peliculas/720/demonic%202021.mkv
-#EXTINF:-1 tvg-logo="https://subtituladas.com/wp-content/uploads/2021/10/uR5zLDJeBCKCo4QP1VfKDS6WIhC.jpg" group-title="2021",Women: desaparecidas (2021)
-http://vod.tuxchannel.tv/peliculas/720/women%202021.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/09/10/21/2852302.jpg" group-title="2021",A un paso de mi (2021)
 https://archive.org/download/a-un-paso-de-mi-720p/A%20un%20paso%20de%20m%C3%AD%20-%20720p.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tomLeVaBlUTG8OBzaLfq5mhiK5w.jpg" group-title="2021",Solitary: Prisionero Espacial (2021)
@@ -713,8 +714,6 @@ https://archive.org/download/a-writers-odyssey-480p/A%20Writer%27s%20Odyssey%204
 https://archive.org/download/como-me-converti-en-superheroe/C%C3%B3mo%20me%20convert%C3%AD%20en%20superh%C3%A9roe.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81Hq2k6TgKL._SY445_.jpg" group-title="2021",Invasion cosmica (2021)
 https://archive.org/download/cosmic-sin-2021_202109/Cosmic%20Sin%20%282021%29.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/17/11/11/5648054.jpg" group-title="2021",Los Voyeristas (2021)
-http://vod.tuxchannel.tv/peliculas/720/the%20voyeurs%202021.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_multi_faces//1bkcOEt4zvc5tBl6xFxTbkSqhEQ.jpg" group-title="2021",Más allá de la fiesta (2021)
 https://archive.org/download/la-fiesta-del-mas-alla-2021-movie-x/La%20fiesta%20del%20m%C3%A1s%20all%C3%A1%20%282021%29%20-%20MovieX.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/07/21/10/24/1216702.jpg" group-title="2021",El Rey del Fin del Mundo (2021)
@@ -729,8 +728,6 @@ https://archive.org/download/o.menino.que.matou.meus.pais.-2020.720p/O.menino.qu
 https://archive.org/download/l-4-ch-1c-4-q-3-mato-4-5-p-4dr-35-2021/L4%20Ch1c4%20Q3%20Mato%204%205%20P4dr35%20(2021).mp4
 #EXTINF:-1 tvg-logo="https://www.biosagenda.nl/poster/extinct_31263_600_0_90.jpg" group-title="2021",Extinct: ¡Nos hemos extinguido! (2021) SUB
 http://51.222.153.30:9000/rombwgshgfhgdsjr/85455532potroxvix/Pel%C3%ADculas/Extinct%202021%20sub.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/07/21/10/02/4825275.jpg" group-title="2021",Maligno (2021)
-http://vod.tuxchannel.tv/peliculas/720/malignant%202021.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/24/12/20/5197271.jpg" group-title="2021",Escape Room 2: Mueres por salir (2021)
 http://51.222.153.30:9000/rombwgshgfhgdsjr/85455532potroxvix/Pel%C3%ADculas/Escape%20Room%202%20Reto%20Mortal%20lat.mp4
 #EXTINF:-1 tvg-logo="https://amariemagazine.com/wp-content/uploads/2021/03/Poster-25-de-marzo.png" group-title="2021",Plantados (2021)
@@ -759,8 +756,6 @@ http://archive.org/download/madame-claude-2021-online-latino-hd-720p-gratis/Mada
 http://archive.org/download/ver-doors-2021-online-subtitulado-hd-720p-gratis/Ver%20Doors%20%282021%29%20_%20Online%20Subtitulado%20HD%20720p%20_%20gratis.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/03/16/10/0435148.jpg" group-title="2021",Reminiscencia (2021)
 http://51.222.153.30:9000/rombwgshgfhgdsjr/85455532potroxvix/Pel%C3%ADculas/Reminiscencia%202021.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/03/16/10/0435148.jpg" group-title="2021",Reminiscencia (2021)
-http://vod.tuxchannel.tv/peliculas/720/reminiscence%202021.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/08/02/14/32/3817770.jpg" group-title="2021",Vivo (2021)
 http://archive.org/download/vivo.-2021/VIVO.2021.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/11/10/45/1311045.jpg" group-title="2021",La 8ª noche (2021)
