@@ -1582,7 +1582,8 @@ http://bit.ly/2v16m9z
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/c_215_290/pictures/16/11/10/12/08/029365.jpg" group-title="2016",La Mina (2016)
 http://ia801603.us.archive.org/20/items/24052017Aqc789423784723984/24052017_aqc.mkv?PelixMax1.mkv
 
-
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/15/12/02/11/13/319712.jpg" group-title="2015",Point Break: Sin límites (2015)
+http://vod.tuxchannel.tv/peliculas/720/point%20break.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/15/11/13/09/13/470988.jpg" group-title="2015",Alvin y las ardillas: Fiesta sobre ruedas (2015)
 http://vod.tuxchannel.tv/peliculas/720/alvin%20and%20the%20chipmunks%20the%20road%20chip.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/15/02/06/14/05/242395.jpg" group-title="2015",Home: Hogar dulce hogar (2015)
@@ -1640,6 +1641,42 @@ http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
 #EXTINF:-1 tvg-logo="https://cdn.atomix.vg/wp-content/uploads/2015/06/unnamed1.png" group-title="2015",Intensamente (2015)
 http://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51iOANjtCQL._SY445_.jpg" group-title="Peliculas Viejas",El club de la pelea (1999)
+http://vod.tuxchannel.tv/peliculas/720/fight%20club.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/819W-dzB7gL._AC_SL1334_.jpg" group-title="Peliculas Viejas",El show de Truman (1998)
+http://vod.tuxchannel.tv/peliculas/720/the%20truman%20show.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/03/05/09/42/163621.jpg" group-title="Peliculas Viejas",Salvando al soldado Ryan (1998)
+http://vod.tuxchannel.tv/peliculas/720/saving%20private%20ryan.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/86/91/41/19870073.jpg" group-title="Peliculas Viejas",Titanic (1997)
+http://vod.tuxchannel.tv/peliculas/720/titanic.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/69/04/89/19757783.jpg" group-title="Peliculas Viejas",Seven (1995)
+http://vod.tuxchannel.tv/peliculas/720/seven.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/03/17/10/20/509771.jpg" group-title="Peliculas Viejas",Toy Story (1995)
+http://vod.tuxchannel.tv/peliculas/720/toy%20story.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/74/26/88/20133359.jpg" group-title="Peliculas Viejas",Cadena perpetua: Sueños de fuga (1994)
+http://vod.tuxchannel.tv/peliculas/720/the%20shawshank%20redemption.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/93/24/15/20244789.jpg" group-title="Peliculas Viejas",Forrest Gump (1994)
+http://vod.tuxchannel.tv/peliculas/720/forrest%20gump.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/r_1280_720/newsv7/18/05/22/06/13/26874480.jpg" group-title="Peliculas Viejas",Los imperdonables (1992)
+http://vod.tuxchannel.tv/peliculas/720/unforgiven.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/18/06/06/05/32/2991042.jpg" group-title="Peliculas Viejas",Perros de reserva (1992)
+http://vod.tuxchannel.tv/peliculas/720/reservoir%20dogs.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/02/12/15/14/218373.jpg" group-title="Peliculas Viejas",Exterminador del futuro (1984)
+http://vod.tuxchannel.tv/peliculas/720/terminator.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/17/08/15/03/36/174874.jpg" group-title="Peliculas Viejas",El silencio de los inocentes (1991)
+http://vod.tuxchannel.tv/peliculas/720/the%20silence%20of%20the%20lambs.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/78/67/59/20409335.jpg" group-title="Peliculas Viejas",Mujer bonita (1990)
+http://vod.tuxchannel.tv/peliculas/720/pretty%20woman.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/18/11/08/04/02/2311032.jpg" group-title="Peliculas Viejas",Mi pobre angelito (1990)
+http://vod.tuxchannel.tv/peliculas/720/home%20alone.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/03/25/09/25/346980.jpg" group-title="Peliculas Viejas",Jurassic Park (1993)
+http://vod.tuxchannel.tv/peliculas/720/jurassic%20park.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/91/11/60/20130324.jpg" group-title="Peliculas Viejas",Apolo 13 (1995)
 http://vod.tuxchannel.tv/peliculas/720/apollo%2013.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/15/11/23/08/35/134606.jpg" group-title="Peliculas Viejas",La armadura de Dios (1986)
