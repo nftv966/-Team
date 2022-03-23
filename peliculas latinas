@@ -1641,12 +1641,22 @@ http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
 #EXTINF:-1 tvg-logo="https://cdn.atomix.vg/wp-content/uploads/2015/06/unnamed1.png" group-title="2015",Intensamente (2015)
 http://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/02/27/10/51/077833.jpg" group-title="Peliculas Viejas",Armageddon (1998)
+http://vod.tuxchannel.tv/peliculas/720/armageddon.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/03/27/12/23/470760.jpg" group-title="Peliculas Viejas",El Fugitivo (1993)
+http://vod.tuxchannel.tv/peliculas/720/the%20fugitive.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/18/10/01/06/08/2542886.jpg" group-title="Peliculas Viejas",Máxima velocidad (1994)
+http://vod.tuxchannel.tv/peliculas/720/speed.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/79/44/57/20134021.jpg" group-title="Peliculas Viejas",La Roca (1996)
+http://vod.tuxchannel.tv/peliculas/720/the%20rock.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/68/00/67/20141592.jpg" group-title="Peliculas Viejas",Dia de la independencia (1996)
+http://vod.tuxchannel.tv/peliculas/720/independence%20day.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/medias/04/34/49/043449_af.jpg" group-title="Peliculas Viejas",Matrix (1999)
+http://vod.tuxchannel.tv/peliculas/720/matrix.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/10/09/31/318628.jpg" group-title="Peliculas Viejas",La momia (1999)
+http://vod.tuxchannel.tv/peliculas/720/the%20mummy.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/78/64/91/20081772.jpg" group-title="Peliculas Viejas",La momia regresa (2001)
+http://vod.tuxchannel.tv/peliculas/720/the%20mummy%20returns.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51iOANjtCQL._SY445_.jpg" group-title="Peliculas Viejas",El club de la pelea (1999)
 http://vod.tuxchannel.tv/peliculas/720/fight%20club.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/819W-dzB7gL._AC_SL1334_.jpg" group-title="Peliculas Viejas",El show de Truman (1998)
