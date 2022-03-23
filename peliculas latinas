@@ -1641,6 +1641,8 @@ http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
 #EXTINF:-1 tvg-logo="https://cdn.atomix.vg/wp-content/uploads/2015/06/unnamed1.png" group-title="2015",Intensamente (2015)
 http://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/70/92/02/20149073.jpg" group-title="Peliculas Viejas",Gladiador (2000)
+http://vod.tuxchannel.tv/peliculas/720/gladiator.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/02/27/10/51/077833.jpg" group-title="Peliculas Viejas",Armageddon (1998)
 http://vod.tuxchannel.tv/peliculas/720/armageddon.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/03/27/12/23/470760.jpg" group-title="Peliculas Viejas",El Fugitivo (1993)
