@@ -1588,6 +1588,8 @@ http://bit.ly/2v16m9z
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/c_215_290/pictures/16/11/10/12/08/029365.jpg" group-title="2016",La Mina (2016)
 http://ia801603.us.archive.org/20/items/24052017Aqc789423784723984/24052017_aqc.mkv?PelixMax1.mkv
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/15/04/06/12/54/095278.jpg" group-title="2015",Mad Max: Furia en la carretera (2015)
+http://vod.tuxchannel.tv/peliculas/720/mad%20max%20fury%20road.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/15/12/02/11/13/319712.jpg" group-title="2015",Point Break: Sin límites (2015)
 http://vod.tuxchannel.tv/peliculas/720/point%20break.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/15/11/13/09/13/470988.jpg" group-title="2015",Alvin y las ardillas: Fiesta sobre ruedas (2015)
@@ -1647,7 +1649,16 @@ http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
 #EXTINF:-1 tvg-logo="https://cdn.atomix.vg/wp-content/uploads/2015/06/unnamed1.png" group-title="2015",Intensamente (2015)
 http://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 
-
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/85/83/31/19814105.jpg" group-title="Peliculas Viejas",Drive (2011)
+http://vod.tuxchannel.tv/peliculas/720/drive.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/82/49/41/19634717.jpg" group-title="Peliculas Viejas",Cisne negro (2010)
+http://vod.tuxchannel.tv/peliculas/720/black%20swan.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/18/11/23/01/27/2619276.jpg" group-title="Peliculas Viejas",Qué pasó ayer? (2009)
+http://vod.tuxchannel.tv/peliculas/720/the%20hangover.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/710aT3+oGIL._AC_SY741_.jpg" group-title="Peliculas Viejas",Qué pasó ayer? 2 (2011)
+http://vod.tuxchannel.tv/peliculas/720/the%20hangover%20part%20II.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/516qQF4ijGL._SY445_.jpg" group-title="Peliculas Viejas",Qué pasó ayer? 3 (2013)
+http://vod.tuxchannel.tv/peliculas/720/the%20hangover%20part%20III.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/07/01/13/37/581497.jpg" group-title="Peliculas Viejas",Fury: Corazones de Hierro (2014)
 http://vod.tuxchannel.tv/peliculas/720/fury.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/03/24/07/45/2705868.png" group-title="Peliculas Viejas",Bastardos sin gloria (2009)
