@@ -1646,10 +1646,14 @@ http://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 
 
 
-
-
-
-
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/82/88/82/20076276.jpg" group-title="Peliculas Viejas",Identidad (2003)
+http://vod.tuxchannel.tv/peliculas/720/identity.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71t50J4PCTL._AC_SY606_.jpg" group-title="Peliculas Viejas",Bad Boys (1995)
+http://vod.tuxchannel.tv/peliculas/720/bad%20boys.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51LrXC6NuIL._SY445_.jpg" group-title="Peliculas Viejas",Bad Boys 2 (2003)
+http://vod.tuxchannel.tv/peliculas/720/bad%20boys%20II.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/76/85/32/20151582.jpg" group-title="Peliculas Viejas",Waterworld: Mundo acuatico (1995)
+http://vod.tuxchannel.tv/peliculas/720/waterworld.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/78/58/59/20134443.jpg" group-title="Peliculas Viejas",Blade (1998)
 http://vod.tuxchannel.tv/peliculas/720/blade.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/02/12/13/16/027152.jpg" group-title="Peliculas Viejas",Blade 2 (2002)
@@ -1694,6 +1698,8 @@ http://vod.tuxchannel.tv/peliculas/720/lethal%20weapon%202.mkv
 http://vod.tuxchannel.tv/peliculas/720/lethal%20weapon%203.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/14/02/25/09/57/210468.jpg" group-title="Peliculas Viejas",Arma mortal 4 (1998)
 http://vod.tuxchannel.tv/peliculas/720/lethal%20weapon%204.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/03/17/01/2834543.jpg" group-title="Peliculas Viejas",Rambo (1982)
+http://vod.tuxchannel.tv/peliculas/720/rambo%201.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/79/16/41/20148237.jpg" group-title="Peliculas Viejas",Rambo 2 (1985)
 http://vod.tuxchannel.tv/peliculas/720/rambo%202.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/79/16/35/20148228.jpg" group-title="Peliculas Viejas",Rambo 3 (1988)
