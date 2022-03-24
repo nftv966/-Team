@@ -1651,10 +1651,17 @@ http://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 
 
 
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/02/26/13/43/492816.jpg" group-title="Peliculas Viejas",Pearl Harbor (2001)
+http://vod.tuxchannel.tv/peliculas/720/pearl%20harbor.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/19/11/01/01/25/1372528.jpg" group-title="Peliculas Viejas",Día de entrenamiento (2001)
+http://vod.tuxchannel.tv/peliculas/720/training%20day.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/02/26/12/01/379555.jpg" group-title="Peliculas Viejas",Ocean's Eleven (2001)
+http://vod.tuxchannel.tv/peliculas/720/oceans%20eleven.mkv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/ba/87/3f/ba873f079d122bf57b035a042cd2fb2d.jpg" group-title="Peliculas Viejas",Miss Simpatia (2000)
+http://vod.tuxchannel.tv/peliculas/720/miss%20congeniality.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/72/16/80/20080976.jpg" group-title="Peliculas Viejas",El protegido (2000)
 http://vod.tuxchannel.tv/peliculas/720/unbreakable.mkv
-
-
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/07/01/23/05/1320135.jpg" group-title="Peliculas Viejas",Contra/Cara (1997)
 http://vod.tuxchannel.tv/peliculas/720/face%20off.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/82/88/82/20076276.jpg" group-title="Peliculas Viejas",Identidad (2003)
