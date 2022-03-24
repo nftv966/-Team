@@ -51,6 +51,8 @@ http://192.64.86.228/%5ba%5d/Pursuit.2022.lati.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/22/02/11/20/46/5014541.jpg" group-title="2022 Serv 192",El hilo invisibile (2022)
 http://192.64.86.228/%5ba%5d/Il.filo.invisibile.2022.lati.mp4
 
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/10/19/10/35/4358534.jpg" group-title="2021 TUX",Way Down (2021)
+http://vod.tuxchannel.tv/peliculas/720/way%20down%202021.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/18/18/12/1999528.jpg" group-title="2021 TUX",Matrix Resurrections (2021)
 http://vod.tuxchannel.tv:80/peliculas/720/the%20matrix%20resurrections%202021.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/10/16/36/1262092.jpg" group-title="2021 TUX",El contador de cartas (2021)
