@@ -1644,8 +1644,14 @@ http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
 http://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 
 
-
-
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/90/19/91/20085390.jpg" group-title="Peliculas Viejas",Tootsie (1982)
+http://vod.tuxchannel.tv/peliculas/720/tootsie.mkv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b7/ff/97/b7ff97bd82a7972008b7f7d65a87bf35.jpg" group-title="Peliculas Viejas",La mujer de rojo (1984)
+http://vod.tuxchannel.tv/peliculas/720/the%20woman%20in%20red.mkv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/8e/7c/c5/8e7cc56da1389962ec99886ced9156a8.png" group-title="Peliculas Viejas",Platoon (1986)
+http://vod.tuxchannel.tv/peliculas/720/peloton.mkv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/fa/99/92/fa999299279c7f89126ce859a0d541f0.jpg" group-title="Peliculas Viejas",G.I.Jane: Hasta el limite (1997)
+http://vod.tuxchannel.tv/peliculas/720/gi%20jane.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/04/02/10/39/105294.jpg" group-title="Peliculas Viejas",Deseo de matar (1974)
 http://vod.tuxchannel.tv/peliculas/720/death%20wish.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51T2hUogzLL.jpg" group-title="Peliculas Viejas",Deseo de matar 2 (1982)
