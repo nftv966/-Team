@@ -1650,7 +1650,14 @@ http://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 
 
 
-
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/35/48/68/18418751.jpg" group-title="Peliculas Viejas",Charlie y la fabrica de chocolate (2005)
+http://vod.tuxchannel.tv/peliculas/720/charlie%20and%20the%20chocolate%20factory.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/04/14/10/10/502236.jpg" group-title="Peliculas Viejas",El numero 23: La revelacion (2007)
+http://vod.tuxchannel.tv/peliculas/720/the%20number%2023.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/10/01/21/12/5480743.jpg" group-title="Peliculas Viejas",Hombre en llamas (2004)
+http://vod.tuxchannel.tv/peliculas/720/man%20on%20fire.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51WUvr7akxL._AC_.jpg" group-title="Peliculas Viejas",La Pasion de Cristo (2004)
+http://vod.tuxchannel.tv/peliculas/720/the%20passion%20of%20the%20christ.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/67/78/13/20066706.jpg" group-title="Peliculas Viejas",El ultimo Samurai (2003)
 http://vod.tuxchannel.tv/peliculas/720/the%20last%20samurai.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81KOaTWSHQL._AC_SY445_.jpg" group-title="Peliculas Viejas",Piratas del Caribe: La maldición de la Perla Negra (2003)
