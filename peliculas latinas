@@ -1648,8 +1648,14 @@ http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
 http://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 
 
-
-
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/07/01/13/37/581497.jpg" group-title="Peliculas Viejas",Fury: Corazones de Hierro (2014)
+http://vod.tuxchannel.tv/peliculas/720/fury.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/03/24/07/45/2705868.png" group-title="Peliculas Viejas",Bastardos sin gloria (2009)
+http://vod.tuxchannel.tv/peliculas/720/inglourious%20basterds.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/69/52/53/20051673.jpg" group-title="Peliculas Viejas",Soy leyenda (2007)
+http://vod.tuxchannel.tv/peliculas/720/i%20am%20legend.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/67/82/22/20026978.jpg" group-title="Peliculas Viejas",Infiltrados (2006)
+http://vod.tuxchannel.tv/peliculas/720/the%20departed.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/35/48/68/18418751.jpg" group-title="Peliculas Viejas",Charlie y la fabrica de chocolate (2005)
 http://vod.tuxchannel.tv/peliculas/720/charlie%20and%20the%20chocolate%20factory.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/04/14/10/10/502236.jpg" group-title="Peliculas Viejas",El numero 23: La revelacion (2007)
