@@ -1646,8 +1646,16 @@ http://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 
 
 
+
+
+
+
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/78/58/59/20134443.jpg" group-title="Peliculas Viejas",Blade (1998)
 http://vod.tuxchannel.tv/peliculas/720/blade.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/02/12/13/16/027152.jpg" group-title="Peliculas Viejas",Blade 2 (2002)
+http://vod.tuxchannel.tv/peliculas/720/blade%202.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/14/02/12/13/33/075117.jpg" group-title="Peliculas Viejas",Blade Trinity (2004)
+http://vod.tuxchannel.tv/peliculas/720/blade%203.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/69/04/90/20126595.jpg" group-title="Peliculas Viejas",Doce monos (1995)
 http://vod.tuxchannel.tv/peliculas/720/12%20monkeys.mkv
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/91/1a/e9/911ae9b30a3612f70f68e202ecc30350.jpg" group-title="Peliculas Viejas",Una propuesta indecente (1993)
