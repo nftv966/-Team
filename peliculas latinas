@@ -1644,8 +1644,22 @@ http://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/04/02/10/39/105294.jpg" group-title="Peliculas Viejas",Deseo de matar (1974)
+http://vod.tuxchannel.tv/peliculas/720/death%20wish.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51T2hUogzLL.jpg" group-title="Peliculas Viejas",Deseo de matar 2 (1982)
+http://vod.tuxchannel.tv/peliculas/720/death%20wish%202.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/710LdK+IODL._RI_.jpg" group-title="Peliculas Viejas",Deseo de matar 3 (1987)
+http://vod.tuxchannel.tv/peliculas/720/death%20wish%203.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51SK7ZAS6EL._AC_.jpg" group-title="Peliculas Viejas",McQuade: El lobo solitario (1983)
+http://vod.tuxchannel.tv/peliculas/720/lone%20wolf%20mcquade.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81Hdxm-GpGL._SL1500_.jpg" group-title="Peliculas Viejas",La pistola desnuda (1988)
+http://vod.tuxchannel.tv/peliculas/720/the%20naked%20gun.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/18/11/07/08/50/5690982.jpg" group-title="Peliculas Viejas",Querida encogí a los niños (1989)
+http://vod.tuxchannel.tv/peliculas/720/honey%20i%20shrunk%20the%20kids.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/img/7b/84/7b843e46f50f43dd04dd61ad68ce920e.jpg" group-title="Peliculas Viejas",Mad Max 2: El Guerrero de la Carretera (1981)
+http://vod.tuxchannel.tv/peliculas/720/mad%20max%202.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/74/25/67/20531852.jpg" group-title="Peliculas Viejas",Mad Max 3: Más allá de la cúpula del trueno (1985)
+http://vod.tuxchannel.tv/peliculas/720/mad%20max%203.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/67/73/64/20146911.jpg" group-title="Peliculas Viejas",Arma mortal (1987)
 http://vod.tuxchannel.tv/peliculas/720/lethal%20weapon.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/03/05/10/10/478427.jpg" group-title="Peliculas Viejas",Arma mortal 2 (1989)
