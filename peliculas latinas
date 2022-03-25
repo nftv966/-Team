@@ -1651,7 +1651,16 @@ http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
 #EXTINF:-1 tvg-logo="https://cdn.atomix.vg/wp-content/uploads/2015/06/unnamed1.png" group-title="2015",Intensamente (2015)
 http://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 
-
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91-qnlA15AL._RI_.jpg" group-title="Peliculas Viejas",El Codigo (2011)
+http://vod.tuxchannel.tv/peliculas/720/source%20code.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/83/21/33/20122172.jpg" group-title="Peliculas Viejas",Llevame a casa esta noche (2011)
+http://vod.tuxchannel.tv/peliculas/720/take%20me%20home%20tonight.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/91AGQ4Y2iCL._SL1500_.jpg" group-title="Peliculas Viejas",Los Agentes del Destino (2011)
+http://vod.tuxchannel.tv/peliculas/720/the%20adjustment%20bureau.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51WyO7XHYiL._SY445_.jpg" group-title="Peliculas Viejas",Pase libre (2011)
+http://vod.tuxchannel.tv/peliculas/720/hall%20pass.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/82/30/13/19603566.jpg" group-title="Peliculas Viejas",Soy el numero cuatro (2011)
+http://vod.tuxchannel.tv/peliculas/720/i%20am%20number%20four.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81knv50rIyL._RI_.jpg" group-title="Peliculas Viejas",El Aguila de la Legion perdida (2011)
 http://vod.tuxchannel.tv/peliculas/720/the%20eagle.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/81/93/76/19679330.jpg" group-title="Peliculas Viejas",El mecanico (2011)
