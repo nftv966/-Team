@@ -1649,6 +1649,18 @@ http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
 #EXTINF:-1 tvg-logo="https://cdn.atomix.vg/wp-content/uploads/2015/06/unnamed1.png" group-title="2015",Intensamente (2015)
 http://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/73/29/98/20333854.jpg" group-title="Peliculas Viejas",Furia de titanes (2010)
+http://vod.tuxchannel.tv/peliculas/720/clash%20of%20the%20titans.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/70/33/62/20122901.jpg" group-title="Peliculas Viejas",Alicia en el Pais de las Maravillas (2010)
+http://vod.tuxchannel.tv/peliculas/720/alice%20in%20wonderland.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/85/83/31/19814105.jpg" group-title="Peliculas Viejas",Drive (2011)
 http://vod.tuxchannel.tv/peliculas/720/drive.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/82/49/41/19634717.jpg" group-title="Peliculas Viejas",Cisne negro (2010)
@@ -1799,6 +1811,10 @@ http://vod.tuxchannel.tv/peliculas/720/titanic.mkv
 http://vod.tuxchannel.tv/peliculas/720/seven.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/03/17/10/20/509771.jpg" group-title="Peliculas Viejas",Toy Story (1995)
 http://vod.tuxchannel.tv/peliculas/720/toy%20story.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/17/08/09/11/26/105383.jpg" group-title="Peliculas Viejas",Toy Story 2 (1999)
+http://vod.tuxchannel.tv/peliculas/720/toy%20story%202.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/72/55/90/20125635.jpg" group-title="Peliculas Viejas",Toy Story 3 (2010)
+http://vod.tuxchannel.tv/peliculas/720/toy%20story%203.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/74/26/88/20133359.jpg" group-title="Peliculas Viejas",Cadena perpetua: Sueños de fuga (1994)
 http://vod.tuxchannel.tv/peliculas/720/the%20shawshank%20redemption.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/93/24/15/20244789.jpg" group-title="Peliculas Viejas",Forrest Gump (1994)
