@@ -1497,6 +1497,8 @@ http://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
 #EXTINF:-1 tvg-logo="http://destinoarrakis.com/wp-content/uploads/2017/10/tragedy-girls-1.jpg" group-title="2017",Tragedy Girls (2017)
 http://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81nngryvMtL._AC_SY445_.jpg" group-title="2016",Resident Evil 6: Capitulo Final (2016)
+http://vod.tuxchannel.tv/peliculas/720/resident%20evil%20the%20final%20chapter.mkv
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e8/7a/a5/e87aa5bc1dfbe77e1e530a7a6e45e062.jpg" group-title="2016",Fragmentado (2016)
 http://vod.tuxchannel.tv/peliculas/720/split.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71piRwndhtL._AC_SY606_.jpg" group-title="2016",La Era del Hielo: Choque de mundos (2016)
@@ -1651,12 +1653,24 @@ http://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 
 
 
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/r_1280_720/medias/nmedia/00/02/41/82/affresident.jpg" group-title="Peliculas Viejas",Resident Evil 1 (2002)
+http://vod.tuxchannel.tv/peliculas/720/resident%20evil.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51OOnZbMkNL._AC_.jpg" group-title="Peliculas Viejas",Resident Evil 2: Apocalipsis (2004)
+http://vod.tuxchannel.tv/peliculas/720/resident%20evil%20apocalypse.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61wOcJVPNoS._SL1200_.jpg" group-title="Peliculas Viejas",Resident Evil 3: Extinction (2007)
+http://vod.tuxchannel.tv/peliculas/720/resident%20evil%20extinction.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71YVGlqLt4L._SY445_.jpg" group-title="Peliculas Viejas",Resident Evil 4: La resureccion (2010)
+http://vod.tuxchannel.tv/peliculas/720/resident%20evil%20afterlife.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51iQwiOzhpL._AC_.jpg" group-title="Peliculas Viejas",Resident Evil 5: la venganza (2012)
+http://vod.tuxchannel.tv/peliculas/720/resident%20evil%20retribution.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/bzp/03/121780.jpg" group-title="Peliculas Viejas",El experimento (2010)
+http://vod.tuxchannel.tv/peliculas/720/the%20experiment.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/08/29/20/08/5212827.jpg" group-title="Peliculas Viejas",Encuentro explosivo (2010)
+http://vod.tuxchannel.tv/peliculas/720/knight%20and%20day.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/73/45/19/19250142.jpg" group-title="Peliculas Viejas",Son como niños (2010)
+http://vod.tuxchannel.tv/peliculas/720/grown%20ups.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/07/07/00/55/1740448.jpg" group-title="Peliculas Viejas",Son como niños 2 (2013)
+http://vod.tuxchannel.tv/peliculas/720/grown%20ups%202.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/73/29/98/20333854.jpg" group-title="Peliculas Viejas",Furia de titanes (2010)
 http://vod.tuxchannel.tv/peliculas/720/clash%20of%20the%20titans.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/70/33/62/20122901.jpg" group-title="Peliculas Viejas",Alicia en el Pais de las Maravillas (2010)
