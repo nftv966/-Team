@@ -1184,7 +1184,14 @@ http://vod.tuxchannel.tv/peliculas/720/wszyscy%20moi%20przyjaciele%20nie%20zyja%
 
 
 
-
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81KIcKgoosL._RI_.jpg" group-title="2019",Intruso (2019)
+http://vod.tuxchannel.tv/peliculas/720/the%20intruder%202019.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/91qwQBM8ERL._SL1500_.jpg" group-title="2019",Lo que esconde Silver Lake (2019)
+http://vod.tuxchannel.tv/peliculas/720/under%20the%20silver%20lake%202019.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/02/25/13/00/0265979.jpg" group-title="2019",La Llorona (2019)
+http://vod.tuxchannel.tv/peliculas/720/the%20curse%20of%20la%20llorona%202019.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81PnZVIBbJL._SL1500_.jpg" group-title="2019",Pequeña otra vez (2019)
+http://vod.tuxchannel.tv/peliculas/720/little%202019.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/01/16/12/25/3230288.jpg" group-title="2019",After: Aquí empieza todo (2019)
 http://vod.tuxchannel.tv/peliculas/720/after%202019.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/91n60VcMffL._SL1500_.jpg" group-title="2019",Hellboy (2019)
