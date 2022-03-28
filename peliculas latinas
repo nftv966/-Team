@@ -8,6 +8,17 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 #EXTINF:-1 tvg-logo="https://de.web.img3.acsta.net/pictures/22/01/06/15/18/3434449.jpg" group-title="2022",Persecusion (2022)
 http://192.64.86.228/%5ba%5d/Pursuit.2022.lati.mp4
+
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/22/01/31/19/18/4796749.jpg" group-title="2022",Quiero que vuelvas (2022)
+http://vod.tuxchannel.tv/peliculas/720/i%20want%20you%20back%202022.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/22/02/16/23/01/0567806.jpg" group-title="2022",Luz negra (2022)
+http://vod.tuxchannel.tv/peliculas/720/blacklight%202022.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/27/09/57/4248015.jpg" group-title="2022",Kimi (2022)
+http://vod.tuxchannel.tv/peliculas/720/kimi%202022.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/20/10/37/5137053.jpg" group-title="2022",Tall Girl 2 (2022)
+http://vod.tuxchannel.tv/peliculas/720/tallgirl%202%202022.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/22/01/12/18/16/0246390.jpg" group-title="2022",La hija del Rey (2022)
+http://vod.tuxchannel.tv/peliculas/720/the%20kings%20daughter%202022.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/01/27/09/52/5827561.jpg" group-title="2022",El regreso a casa de Madea (2022)
 http://vod.tuxchannel.tv/peliculas/720/a%20madea%20homecoming%202022.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/22/02/01/11/23/4105599.jpg" group-title="2022",OVNI (2022)
