@@ -1955,14 +1955,6 @@ http://vod.tuxchannel.tv/peliculas/720/minions.mkv
 http://vod.tuxchannel.tv/peliculas/720/avengers%20age%20of%20ultron.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/15/03/09/12/33/510089.jpg" group-title="2015",Rápidos y furiosos 7 (2015)
 http://vod.tuxchannel.tv/peliculas/720/fast%20and%20furious%207.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51lmxWyOVRL._AC_.jpg" group-title="2015",Robocop (1987)
-http://vod.tuxchannel.tv/peliculas/720/robocop%201.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/79/70/85/19514449.jpg" group-title="2015",Robocop 2 (1990)
-http://vod.tuxchannel.tv/peliculas/720/robocop%202.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/79/72/20/19515133.jpg" group-title="2015",Robocop 3 (1993)
-http://vod.tuxchannel.tv/peliculas/720/robocop%203.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/210/576/21057631_20131114100038965.jpg" group-title="2015",Robocop (2014)
-http://vod.tuxchannel.tv/peliculas/720/robocop%202014.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/15/03/16/17/23/226364.jpg" group-title="2015",El niño 44 (2015)
 http://archive.org/download/nino-44/nino%2044.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/15/01/19/11/49/274619.jpg" group-title="2015",El gurú de las bodas (2015)
@@ -2530,6 +2522,14 @@ http://vod.tuxchannel.tv/peliculas/720/resident%20evil%20retribution.mkv
 http://vod.tuxchannel.tv/peliculas/720/rio.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/13/12/26/09/57/548572.jpg" group-title="Peliculas Viejas",Rio 2 (2014)
 http://vod.tuxchannel.tv/peliculas/720/rio%202.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51lmxWyOVRL._AC_.jpg" group-title="Peliculas Viejas",Robocop (1987)
+http://vod.tuxchannel.tv/peliculas/720/robocop%201.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/79/70/85/19514449.jpg" group-title="Peliculas Viejas",Robocop 2 (1990)
+http://vod.tuxchannel.tv/peliculas/720/robocop%202.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/79/72/20/19515133.jpg" group-title="Peliculas Viejas",Robocop 3 (1993)
+http://vod.tuxchannel.tv/peliculas/720/robocop%203.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/210/576/21057631_20131114100038965.jpg" group-title="Peliculas Viejas",Robocop (2014)
+http://vod.tuxchannel.tv/peliculas/720/robocop%202014.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51ARBQJD5WL._SY445_.jpg" group-title="Peliculas Viejas",Rocky (1976)
 http://archive.org/download/rocky-6/Rocky%201.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/05/12/10/38/231381.jpg" group-title="Peliculas Viejas",Rocky 2 (1979)
