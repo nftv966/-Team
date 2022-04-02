@@ -1714,6 +1714,8 @@ http://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
 #EXTINF:-1 tvg-logo="https://thearrowhead.net/wp-content/uploads/2018/02/Cloverfield-Paradox-714x900.jpg" group-title="2018",The Cloverfield Paradox (2018)
 http://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/10/03/08/45/4260918.jpg" group-title="2017",Blade Runner 2049 (2017)
+http://vod.tuxchannel.tv/peliculas/720/blade%20runner%202049.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/17/07/10/12/54/213732.jpg" group-title="2017",Atomica (2017)
 http://vod.tuxchannel.tv/peliculas/720/atomic%20blonde.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/17/11/01/07/01/4010803.jpg" group-title="2017",La cura siniestra (2017)
@@ -2083,6 +2085,8 @@ http://vod.tuxchannel.tv/peliculas/720/blade.mkv
 http://vod.tuxchannel.tv/peliculas/720/blade%202.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/14/02/12/13/33/075117.jpg" group-title="Peliculas Viejas",Blade Trinity (2004)
 http://vod.tuxchannel.tv/peliculas/720/blade%203.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51ST8TQP63L.jpg" group-title="Peliculas Viejas",Blade Runner (1982)
+http://vod.tuxchannel.tv/peliculas/720/blade%20runner.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/87/73/81/20092650.jpg" group-title="Peliculas Viejas",Blancanieves y la leyenda del cazador (2012)
 http://vod.tuxchannel.tv/peliculas/720/snow%20white%20and%20the%20huntsman.mkv
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/14/09/04/13/53/377120.jpg" group-title="Peliculas Viejas",Boxtrolls (2014)
