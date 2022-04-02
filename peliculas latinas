@@ -60,9 +60,6 @@ http://vod.tuxchannel.tv/peliculas/720/the%20royal%20treatment%202022.mkv
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/21/11/23/09/49/1154871.jpg" group-title="2022",Ray Donovan: La pelicula (2022)
 http://vod.tuxchannel.tv/peliculas/720/ray%20donovan%20the%20movie.mkv
 
-
-
-
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/10/19/10/35/4358534.jpg" group-title="2021",Way Down (2021)
 http://vod.tuxchannel.tv/peliculas/720/way%20down%202021.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/18/18/12/1999528.jpg" group-title="2021",Matrix Resurrections (2021)
@@ -1718,6 +1715,8 @@ http://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
 #EXTINF:-1 tvg-logo="https://thearrowhead.net/wp-content/uploads/2018/02/Cloverfield-Paradox-714x900.jpg" group-title="2018",The Cloverfield Paradox (2018)
 http://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
 
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/01/18/15/22/5646095.jpg" group-title="2017",Control de Estado: El agente (2017)
+http://vod.tuxchannel.tv/peliculas/720/the%20humanity%20bureau.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/10/03/08/45/4260918.jpg" group-title="2017",Blade Runner 2049 (2017)
 http://vod.tuxchannel.tv/peliculas/720/blade%20runner%202049.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/17/07/10/12/54/213732.jpg" group-title="2017",Atomica (2017)
@@ -1839,6 +1838,8 @@ http://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
 #EXTINF:-1 tvg-logo="http://destinoarrakis.com/wp-content/uploads/2017/10/tragedy-girls-1.jpg" group-title="2017",Tragedy Girls (2017)
 http://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
 
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/16/09/22/16/01/098343.jpg" group-title="2016",El abogado del mal (2016)
+http://vod.tuxchannel.tv/peliculas/720/the%20whole%20truth.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81nngryvMtL._AC_SY445_.jpg" group-title="2016",Resident Evil 6: Capitulo Final (2016)
 http://vod.tuxchannel.tv/peliculas/720/resident%20evil%20the%20final%20chapter.mkv
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e8/7a/a5/e87aa5bc1dfbe77e1e530a7a6e45e062.jpg" group-title="2016",Fragmentado (2016)
@@ -2135,6 +2136,8 @@ https://mataocio-cdn5.mataocio-cdn5.workers.dev/Coherence.mp4
 http://archive.org/download/carrie.-br.-lat.-www.-hackstore.-net/Comando.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/05/05/12/48/533113.jpg" group-title="Peliculas Viejas",Como entrenar a tu dragon 2 (2014)
 http://vod.tuxchannel.tv/peliculas/720/how%20to%20train%20your%20dragon%202.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51dl6VFcwgL._AC_.jpg" group-title="Peliculas Viejas",Con Air: Convictos en el aire (1997)
+http://vod.tuxchannel.tv/peliculas/720/con%20air.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81Q4cNxhIkL._AC_SL1500_.jpg" group-title="Peliculas Viejas",Conan El Barbaro (1982)
 http://archive.org/download/carrie.-br.-lat.-www.-hackstore.-net/CONAN%20EL%20B%C3%81RBARO%201982.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51LQrlGGAGL._AC_.jpg" group-title="Peliculas Viejas",Conan El Destructor (1984)
@@ -2213,6 +2216,8 @@ http://vod.tuxchannel.tv/peliculas/720/exorcist%20the%20beginning.mkv
 http://vod.tuxchannel.tv/peliculas/720/the%20experiment.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/89/88/13/20071033.jpg" group-title="Peliculas Viejas",El Expreso Polar (2012)
 https://mataocio-cdn5.mataocio-cdn5.workers.dev/Otras%25202/El%2520Expreso%2520Polar.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81fAIcnNTuL._RI_.jpg" group-title="Peliculas Viejas",El Fantasma (2014)
+http://vod.tuxchannel.tv/peliculas/720/outcast.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/03/27/12/23/470760.jpg" group-title="Peliculas Viejas",El Fugitivo (1993)
 http://vod.tuxchannel.tv/peliculas/720/the%20fugitive.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/88/91/08/20306579.jpg" group-title="Peliculas Viejas",El Hobbit: Un viaje inesperado (2012)
@@ -2247,6 +2252,8 @@ http://51.222.153.30:9000/rombwgshgfhgdsjr/homeend-d3728.appspot.com/Peliculas/L
 http://vod.tuxchannel.tv/peliculas/720/the%20number%2023.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/90/00/17/20076399.jpg" group-title="Peliculas Viejas",El poder del talismán: El medallon (2003)
 http://vod.tuxchannel.tv/peliculas/720/the%20medallion.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/22/02/18/00/12/1782962.jpg" group-title="Peliculas Viejas",El precio del mañana (2011)
+http://vod.tuxchannel.tv/peliculas/720/in%20time.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/72/16/80/20080976.jpg" group-title="Peliculas Viejas",El protegido (2000)
 http://vod.tuxchannel.tv/peliculas/720/unbreakable.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/78/65/72/20136946.jpg" group-title="Peliculas Viejas",El Quinto Elemento (1997)
@@ -2271,6 +2278,8 @@ http://archive.org/download/el-transportador-2-lat-1080/El%20transportador%202%2
 http://archive.org/download/el-transportador-3-lat-1080/El%20Transportador%203%20lat%201080.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/67/78/13/20066706.jpg" group-title="Peliculas Viejas",El ultimo Samurai (2003)
 http://vod.tuxchannel.tv/peliculas/720/the%20last%20samurai.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/05/09/13/44/243486.jpg" group-title="Peliculas Viejas",El unico (2001)
+http://vod.tuxchannel.tv/peliculas/720/the%20one.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/210/165/21016575_201306281613149.jpg" group-title="Peliculas Viejas",Elysium (2013)
 http://archive.org/download/el-quinto-elemento/Elysium.2013.hdrip.lat.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/r_1280_720/medias/nmedia/18/65/69/43/18982720.jpg" group-title="Peliculas Viejas",Ember: La ciudad perdida (2008)
@@ -2385,6 +2394,8 @@ http://vod.tuxchannel.tv/peliculas/720/the%20naked%20gun.mkv
 http://vod.tuxchannel.tv/peliculas/720/the%20rock.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/67/82/30/20079603.jpg" group-title="Peliculas Viejas",La tormenta perfecta (2000)
 http://archive.org/download/www.cinepelis.club_20210422_0203/la-tormenta-perfecta_1.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/916OrlSJthL._SY445_.jpg" group-title="Peliculas Viejas",La ultima profecia (2014)
+http://vod.tuxchannel.tv/peliculas/720/left%20behind.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/92/99/86/20312878.jpg" group-title="Peliculas Viejas",La vida de Pi (2012)
 http://vod.tuxchannel.tv/peliculas/720/life%20of%20pi.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/67/61/66/20098979.jpg" group-title="Peliculas Viejas",La vida es bella (1997)
@@ -2457,6 +2468,8 @@ http://vod.tuxchannel.tv/peliculas/720/the%20green%20mile.mkv
 http://vod.tuxchannel.tv/peliculas/720/warm%20bodies.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/18/11/08/04/02/2311032.jpg" group-title="Peliculas Viejas",Mi pobre angelito (1990)
 http://vod.tuxchannel.tv/peliculas/720/home%20alone.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/18/11/08/04/34/4593233.jpg" group-title="Peliculas Viejas",Mi pobre angelito 2: Perdido en Nueva York (1992)
+http://vod.tuxchannel.tv/peliculas/720/home%20alone%202%20lost%20in%20new%20york.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/71/71/40/20420755.jpg" group-title="Peliculas Viejas",Mira quien habla (1989)
 http://vod.tuxchannel.tv/peliculas/720/look%20whos%20talking.mkv
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/ba/87/3f/ba873f079d122bf57b035a042cd2fb2d.jpg" group-title="Peliculas Viejas",Miss Simpatia (2000)
@@ -2615,10 +2628,6 @@ http://archive.org/download/soldado-universal-4/Soldado%20Universal%202.mp4
 http://archive.org/download/soldado-universal-4/Soldado%20Universal%203.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/93/35/37/20315045.jpg" group-title="Peliculas Viejas",Soldado Universal 4 (2012)
 http://archive.org/download/soldado-universal-4/Soldado%20Universal%204.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/82/42/47/20420623.jpg" group-title="Peliculas Viejas",Solo en casa (1990)
-http://vod.tuxchannel.tv/peliculas/720/home%20alone.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/82/42/49/20415955.jpg" group-title="Peliculas Viejas",Solo en casa 2: Perdido en Nueva York (1992)
-http://vod.tuxchannel.tv/peliculas/720/home%20alone%202%20lost%20in%20new%20york.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/73/45/19/19250142.jpg" group-title="Peliculas Viejas",Son como niños (2010)
 http://vod.tuxchannel.tv/peliculas/720/grown%20ups.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/07/07/00/55/1740448.jpg" group-title="Peliculas Viejas",Son como niños 2 (2013)
