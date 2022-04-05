@@ -1839,7 +1839,18 @@ http://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
 http://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
 
 
-
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51jmq0apoUL.jpg" group-title="2016",Aquarius (2016)
+http://vod.tuxchannel.tv/peliculas/720/aquarius.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/16/10/26/16/31/079138.jpg" group-title="2016",Operacion Anthropoid (2016)
+http://vod.tuxchannel.tv/peliculas/720/anthropoid.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/10/18/16/13/028049.jpg" group-title="2016",Animales nocturnos (2016)
+http://vod.tuxchannel.tv/peliculas/720/nocturnal%20animals.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/04/12/08/39/434495.jpg" group-title="2016",Angry Birds: La pelicula (2016)
+http://vod.tuxchannel.tv/peliculas/720/the%20angry%20birds%20movie.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/11/30/16/08/127856.jpg" group-title="2016",Pastoral americana (2016)
+http://vod.tuxchannel.tv/peliculas/720/american%20pastoral.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/05/09/09/29/128407.jpg" group-title="2016",Un chofer en apuros (2016)
+http://vod.tuxchannel.tv/peliculas/720/amateur%20night.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/10/03/09/01/5367869.jpg" group-title="2016",Dame tus ojos (2016)
 http://vod.tuxchannel.tv/peliculas/720/all%20i%20see%20is%20you.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/16/11/04/09/50/257986.jpg" group-title="2016",Aliados (2016)
@@ -1848,8 +1859,10 @@ http://vod.tuxchannel.tv/peliculas/720/allied.mkv
 http://vod.tuxchannel.tv/peliculas/720/alba.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/16/06/23/11/33/397130.jpg" group-title="2016",Al final del tunel (2016)
 http://vod.tuxchannel.tv/peliculas/720/al%20final%20del%20tunel.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/16/11/10/12/08/029365.jpg" group-title="2016",Sobreviviendo en el desierto (2016)
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/16/11/10/12/08/029365.jpg" group-title="2016",Sobreviviendo en el desierto (2016) MKV
 http://vod.tuxchannel.tv/peliculas/720/mine.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/16/11/10/12/08/029365.jpg" group-title="2016",Sobreviviendo en el desierto (2016)
+http://ia801603.us.archive.org/20/items/24052017Aqc789423784723984/24052017_aqc.mkv?PelixMax1.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/06/01/17/08/318326.jpg" group-title="2016",Una aventura de niñeras (2016)
 http://vod.tuxchannel.tv/peliculas/720/adventures%20in%20babysitting.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/17/12/28/01/11/0357214.jpg" group-title="2016",Un Holograma para el Rey (2016)
@@ -1942,7 +1955,7 @@ http://archive.org/download/HastaElUltimoHombre2016CINEHUSA/Hasta%20El%20Ultimo%
 http://archive.org/download/guardianes-de-la-galaxia-vol.-2_202104/Los%20Ilusionistas%202.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/11/07/12/58/541167.jpg" group-title="2016",Tren a Busan (2016)
 http://archive.org/download/tren-a-busan/tren%20a%20busan.mp4
-#EXTINF:-1 tvg-logo="https://portal.andina.pe/EDPfotografia3/Thumbnail/2016/01/12/000335057W.jpg" group-title="2016",No Estamos Solos (2016) BAJA RESOLUCION
+#EXTINF:-1 tvg-logo="https://portal.andina.pe/EDPfotografia3/Thumbnail/2016/01/12/000335057W.jpg" group-title="2016",No Estamos Solos (2016)
 http://archive.org/download/super-pelicula-no-estoy-solo-terror-suspenso-e-intriga-hd-240-p-1/SUPER%20PELICULA%20%20NO%20ESTOY%20SOLO%20%E2%9C%85--%20TERROR%20SUSPENSO%20E%20INTRIGA%20%20HD%28240P%29_1.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51NONFCG7cL.jpg" group-title="2016",Boyka: El imbatible (2016) DUAL 4K
 http://vod.tuxchannel.tv/peliculas4k/boyka%20undisputed%20iv.mkv
@@ -1954,9 +1967,6 @@ https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2
 http://bit.ly/MASCOTAHUMANA
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/statics3.cinemex.com/movie_posters/5Kh55TmSgsGNafp-182x272.jpg" group-title="2016",Mi vida a los 17 (2016)
 http://bit.ly/2v16m9z
-#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/c_215_290/pictures/16/11/10/12/08/029365.jpg" group-title="2016",La Mina (2016)
-http://ia801603.us.archive.org/20/items/24052017Aqc789423784723984/24052017_aqc.mkv?PelixMax1.mkv
-
 
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/11/03/11/00/378754.jpg" group-title="2015",Bob Esponja: Un heroe fuera del agua (2015)
 http://vod.tuxchannel.tv/peliculas/720/the%20spongebob%20movie%20sponge%20out%20of%20water.mkv
