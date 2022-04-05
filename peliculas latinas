@@ -1500,6 +1500,9 @@ http://vod.tuxchannel.tv/peliculas/720/mama%20al%20volante%202019.mkv
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/18/12/28/13/40/0618760.jpg" group-title="2019",El niño que pudo ser Rey (2019)
 http://vod.tuxchannel.tv/peliculas/720/the%20kid%20who%20would%20be%20king%202018.mkv
 
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41RgSESOAEL.jpg" group-title="2018",El Favorito (2018)
+http://vod.tuxchannel.tv/peliculas/720/el%20candidato.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/oVOIiGcvoJqDaIYqqCieXiKiCNI.jpg" group-title="2018",Amateur (2018)
 http://vod.tuxchannel.tv/peliculas/720/amateur.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91zpJgUOrbL._RI_.jpg" group-title="2018",Amnesia (2018)
@@ -1838,7 +1841,18 @@ http://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
 #EXTINF:-1 tvg-logo="http://destinoarrakis.com/wp-content/uploads/2017/10/tragedy-girls-1.jpg" group-title="2017",Tragedy Girls (2017)
 http://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
 
-
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/16/01/19/13/48/490182.jpg" group-title="2016",Dioses de Egipto (2016)
+http://vod.tuxchannel.tv/peliculas/720/gods%20of%20egypt.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/18/08/03/00/33/3340265.jpg" group-title="2016",Dios no esta muerto 2 (2016)
+http://vod.tuxchannel.tv/peliculas/720/gods%20not%20dead%202.mkv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/c5/69/d3/c569d329ef1d325610ffc3a1a5627214.jpg" group-title="2016",El ciudadano ilustre (2016)
+http://vod.tuxchannel.tv/peliculas/720/el%20ciudadano%20ilustre.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/01/13/11/33/470406.jpg" group-title="2016",Cien años de perdon (2016)
+http://vod.tuxchannel.tv/peliculas/720/cien%20anos%20de%20perdon.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/05/31/11/58/083624.jpg" group-title="2016",Capitan Fantastico (2016)
+http://vod.tuxchannel.tv/peliculas/720/captain%20fantastic.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/06/30/13/54/273297.jpg" group-title="2016",El bebe de Bridget Jones (2016)
+http://vod.tuxchannel.tv/peliculas/720/bridget%20jones%20baby.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51l7BPJNiyL._SX342_SY445_QL70_ML2_.jpg" group-title="2016",Insana (2016)
 http://vod.tuxchannel.tv/peliculas/720/brain%20on%20fire.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/09/28/11/58/467782.jpg" group-title="2016",La bruja de Blair (2016)
@@ -1945,7 +1959,7 @@ https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2
 http://archive.org/download/infierno-azul/Infierno%20azul.mp4
 #EXTINF:-1 tvg-logo="https://decine21.com/img/upload/obras/rescate-suicida-36691/src/rescate-suicida-36691-c.jpg" group-title="2016",Rescate Suicida (2016)
 http://archive.org/download/rescate-suicida/rescate%20suicida.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/05/04/19/33/3400659.jpg" group-title="2016",Vivir dos veces (2016) CASTELLANO
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/05/04/19/33/3400659.jpg" group-title="2016",Vivir dos veces (2016)
 http://archive.org/download/ghostbusters.-2016.1080p.extended-dual-lat/Vivir%20Dos%20Veces.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/04/29/07/02/1974216.jpg" group-title="2016",El acedio de Jadotville (2016)
 http://archive.org/download/ghostbusters.-2016.1080p.extended-dual-lat/The.siege.of.jadotville.2016.1080p-dual-lat.mp4
