@@ -1839,9 +1839,16 @@ http://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
 http://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
 
 
-
-
-
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51l7BPJNiyL._SX342_SY445_QL70_ML2_.jpg" group-title="2016",Insana (2016)
+http://vod.tuxchannel.tv/peliculas/720/brain%20on%20fire.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/09/28/11/58/467782.jpg" group-title="2016",La bruja de Blair (2016)
+http://vod.tuxchannel.tv/peliculas/720/blair%20witch.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/16/09/09/11/47/552719.jpg" group-title="2016",Antes que sea tarde (2016)
+http://vod.tuxchannel.tv/peliculas/720/before%20the%20flood.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/519DyDBhx4L.jpg" group-title="2016",Aplicacion diabolica (2016)
+http://vod.tuxchannel.tv/peliculas/720/bedeviled.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81Yakb7GZuL._AC_SY741_.jpg" group-title="2016",Batman: La broma asesina (2016)
+http://vod.tuxchannel.tv/peliculas/720/batman%20the%20killing%20joke.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/91CV0rD7i8L._AC_SY445_.jpg" group-title="2016",Batman: Mala sangre (2016)
 http://vod.tuxchannel.tv/peliculas/720/batman%20bad%20blood.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/03/10/09/10/546405.jpg" group-title="2016",Asalto en Paris (2016)
@@ -1968,7 +1975,7 @@ http://archive.org/download/guardianes-de-la-galaxia-vol.-2_202104/Los%20Ilusion
 http://archive.org/download/tren-a-busan/tren%20a%20busan.mp4
 #EXTINF:-1 tvg-logo="https://portal.andina.pe/EDPfotografia3/Thumbnail/2016/01/12/000335057W.jpg" group-title="2016",No Estamos Solos (2016)
 http://archive.org/download/super-pelicula-no-estoy-solo-terror-suspenso-e-intriga-hd-240-p-1/SUPER%20PELICULA%20%20NO%20ESTOY%20SOLO%20%E2%9C%85--%20TERROR%20SUSPENSO%20E%20INTRIGA%20%20HD%28240P%29_1.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51NONFCG7cL.jpg" group-title="2016",Boyka: El imbatible (2016) DUAL 4K
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51NONFCG7cL.jpg" group-title="2016",Boyka: Invicto 4 (2016) 4K
 http://vod.tuxchannel.tv/peliculas4k/boyka%20undisputed%20iv.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/16/03/04/15/47/480948.jpg" group-title="2016",Batman vs Superman: El origen de la Justicia (2016)
 https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/DC/Batman%2520v%2520Superman%2520Dawn%2520of%2520Justice%2520-%25202016.mp4
