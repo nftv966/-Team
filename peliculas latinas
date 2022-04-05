@@ -1842,7 +1842,12 @@ http://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
 http://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
 
 
-
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/618xMnvm+SL._AC_.jpg" group-title="2016",Florence: La mejor peor de todas (2016)
+http://vod.tuxchannel.tv/peliculas/720/florence%20foster%20jenkins.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/91rlSZKayHL._SL1500_.jpg" group-title="2016",Barreras (2016)
+http://vod.tuxchannel.tv/peliculas/720/fences.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81NyY90J0fL._SY606_.jpg" group-title="2016",Escuadron Suicida (2016)
+http://vod.tuxchannel.tv/peliculas/720/suicide%20squad.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/810Ub1JFOxL._RI_.jpg" group-title="2016",Elle (2016)
 http://vod.tuxchannel.tv/peliculas/720/elle.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51KOtmC1eFL._SY445_.jpg" group-title="2016",El valle de violencia (2016)
