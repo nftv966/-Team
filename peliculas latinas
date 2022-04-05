@@ -1500,6 +1500,8 @@ http://vod.tuxchannel.tv/peliculas/720/mama%20al%20volante%202019.mkv
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/18/12/28/13/40/0618760.jpg" group-title="2019",El niño que pudo ser Rey (2019)
 http://vod.tuxchannel.tv/peliculas/720/the%20kid%20who%20would%20be%20king%202018.mkv
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/oVOIiGcvoJqDaIYqqCieXiKiCNI.jpg" group-title="2018",Amateur (2018)
+http://vod.tuxchannel.tv/peliculas/720/amateur.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91zpJgUOrbL._RI_.jpg" group-title="2018",Amnesia (2018)
 http://vod.tuxchannel.tv/peliculas/720/backtrace%202018.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81RTTqPu0-L._SY550_.jpg" group-title="2018",Replicas (2018)
@@ -1837,6 +1839,19 @@ http://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
 http://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
 
 
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/10/03/09/01/5367869.jpg" group-title="2016",Dame tus ojos (2016)
+http://vod.tuxchannel.tv/peliculas/720/all%20i%20see%20is%20you.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/16/11/04/09/50/257986.jpg" group-title="2016",Aliados (2016)
+http://vod.tuxchannel.tv/peliculas/720/allied.mkv
+#EXTINF:-1 tvg-logo="http://www.funcinema.com.ar/wp-content/uploads/2020/08/alba-poster.jpg" group-title="2016",Alba (2016)
+http://vod.tuxchannel.tv/peliculas/720/alba.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/16/06/23/11/33/397130.jpg" group-title="2016",Al final del tunel (2016)
+http://vod.tuxchannel.tv/peliculas/720/al%20final%20del%20tunel.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/16/11/10/12/08/029365.jpg" group-title="2016",Sobreviviendo en el desierto (2016)
+http://vod.tuxchannel.tv/peliculas/720/mine.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/06/01/17/08/318326.jpg" group-title="2016",Una aventura de niñeras (2016)
+http://vod.tuxchannel.tv/peliculas/720/adventures%20in%20babysitting.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/17/12/28/01/11/0357214.jpg" group-title="2016",Un Holograma para el Rey (2016)
 http://vod.tuxchannel.tv/peliculas/720/a%20hologram%20for%20the%20king.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/10/24/11/01/479932.jpg" group-title="2016",Una cenicienta moderna: El papel de su vida (2016)
