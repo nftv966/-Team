@@ -1842,8 +1842,14 @@ http://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
 http://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
 
 
-
-
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/53/4b/e7/534be77dfe24956f506c70dab7fbde6e.jpg" group-title="2016",Julieta (2016)
+http://vod.tuxchannel.tv/peliculas/720/julieta.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/16/08/11/16/04/486444.jpg" group-title="2016",Inferno (2016)
+http://vod.tuxchannel.tv/peliculas/720/inferno.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51ectVJ41LL.jpg" group-title="2016",La reencarnacion (2016)
+http://vod.tuxchannel.tv/peliculas/720/incarnate.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/16/03/14/13/35/384502.jpg" group-title="2016",Una lucha incierta (2016)
+http://vod.tuxchannel.tv/peliculas/720/in%20dubious%20battle.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/12/27/22/34/2819917.jpg" group-title="2016",Imperium (2016)
 http://vod.tuxchannel.tv/peliculas/720/imperium.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/r_1280_720/pictures/16/03/23/21/03/012785.jpg" group-title="2016",No soy un asesino serial (2016)
