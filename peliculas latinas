@@ -2335,6 +2335,8 @@ http://vod.tuxchannel.tv/peliculas/720/the%20revenant.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/11/19/16/01/398307.jpg" group-title="2015",Cenicienta (2015)
 http://vod.tuxchannel.tv/peliculas/720/cinderella.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/11/14/11/16/546987.jpg" group-title="2015",Cincuenta sombras de Grey (2015)
+http://archive.org/download/ghostbusters.-2016.1080p.extended-dual-lat/50%20Sombras%20De%20Grey.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/11/14/11/16/546987.jpg" group-title="2015",Cincuenta sombras de Grey (2015) MKV
 http://vod.tuxchannel.tv/peliculas/720/fifty%20shades%20of%20grey.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/15/08/27/13/26/081921.jpg" group-title="2015",Marte (2015)
 http://vod.tuxchannel.tv/peliculas/720/the%20martian.mkv
@@ -2358,10 +2360,8 @@ http://archive.org/download/guru-de-bodas/guru%20de%20bodas.mp4
 http://archive.org/download/geo-tormenta/Everest.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/15/06/08/11/21/306027.jpg" group-title="2015",Everest (2015) MKV
 http://vod.tuxchannel.tv/peliculas/720/everest.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/12/30/13/20/432349.jpg" group-title="2015",El Código Enigma (2015)
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/12/30/13/20/432349.jpg" group-title="2015",El Codigo Enigma (2015)
 http://archive.org/download/ElCdigoEnigmaPelculaCompletaEnEspaolLatinoYouTube/El%20c%C3%B3digo%20enigma%20-%20Pel%C3%ADcula%20completa%20en%20espa%C3%B1ol%20%20latino-%20YouTube.MP4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/11/14/11/16/546987.jpg" group-title="2015",50 sombras de Grey (2015)
-http://archive.org/download/ghostbusters.-2016.1080p.extended-dual-lat/50%20Sombras%20De%20Grey.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f4/a2/0e/f4a20e002430c6b463fbe8bf3a2f1023.jpg" group-title="2015",Ip Man 3 (2015)
 http://archive.org/download/ip-man-03/Ip%20man%2003.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ef/06/04/ef0604c7493075c705c763924aa952fe.jpg" group-title="2015",Spy: Una Espía Despistada (2015)
@@ -2595,6 +2595,8 @@ http://vod.tuxchannel.tv/peliculas/720/the%20kid.mkv
 http://vod.tuxchannel.tv/peliculas/720/fight%20club.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91-qnlA15AL._RI_.jpg" group-title="Peliculas Viejas",El Codigo (2011)
 http://vod.tuxchannel.tv/peliculas/720/source%20code.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/36/20/56/18615967.jpg" group-title="Peliculas Viejas",El Codigo Da Vinci (2006)
+http://vod.tuxchannel.tv/peliculas/720/the%20da%20vinci%20code.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/medias/nmedia/18/79/16/21/20415509.jpg" group-title="Peliculas Viejas",El Demoledor (1993)
 http://archive.org/download/el-demoledor/el%20demoledor.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/69/48/15/20054805.jpg" group-title="Peliculas Viejas",El despertar del diablo 2 (1987)
