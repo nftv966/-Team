@@ -5,7 +5,6 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 #EXTINF:-1 tvg-logo="https://www.lifeder.com/wp-content/uploads/2016/07/pel%C3%ADculas-recomendadas.jpg" group-title="PELICULAS GRATIS",PELICULAS GRATIS
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/02/15/10/04/5157285.jpg" group-title="2022",Aguas profundas (2022)
 http://vod.tuxchannel.tv/peliculas/720/deep%20water%202022.mkv
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/22/01/18/00/09/2113102.jpg" group-title="2022",Al viento (2022)
@@ -81,6 +80,8 @@ https://archive.org/download/ilhados-movie-x/Ilhados%20-%20MovieX.mp4
 http://vod.tuxchannel.tv/peliculas/720/red%20notice%202021.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/08/05/10/09/3049342.jpg" group-title="2021",Alguien como el (2021)
 http://vod.tuxchannel.tv/peliculas/720/hes%20all%20that%202021.mkv
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/thumbs/images/g/r0EAAOSwV5dh5i1J/s-l300.jpg" group-title="2021",Al sur del cielo (2021)
+http://vod.tuxchannel.tv/peliculas/720/south%20of%20heaven%202021.mkv
 #EXTINF:-1 tvg-logo="https://assets.cinepolisklic.com/cmsklicia/movieimages/el-asesino-americano/poster_originalsize_250X375.jpg" group-title="2021",American Badger (2021)
 http://vod.tuxchannel.tv/peliculas/720/american%20badger%202021.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/07/26/12/32/5723105.jpg" group-title="2021",Amigos de las vacaciones (2021)
