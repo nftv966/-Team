@@ -5,6 +5,8 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 #EXTINF:-1 tvg-logo="https://www.lifeder.com/wp-content/uploads/2016/07/pel%C3%ADculas-recomendadas.jpg" group-title="PELICULAS GRATIS",PELICULAS GRATIS
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/02/15/10/04/5157285.jpg" group-title="2022",Aguas profundas (2022)
+http://vod.tuxchannel.tv/peliculas/720/deep%20water%202022.mkv
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/22/01/18/00/09/2113102.jpg" group-title="2022",Al viento (2022)
 http://vod.tuxchannel.tv/peliculas/720/pod%20wiatr%202022.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/daeVrgyj0ue8qb3AHyU3UeCwoZz.jpg" group-title="2022",American Siege: Emboscada (2022)
