@@ -5,6 +5,7 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 #EXTINF:-1 tvg-logo="https://www.lifeder.com/wp-content/uploads/2016/07/pel%C3%ADculas-recomendadas.jpg" group-title="PELICULAS GRATIS",PELICULAS GRATIS
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/02/15/10/04/5157285.jpg" group-title="2022",Aguas profundas (2022)
 http://vod.tuxchannel.tv/peliculas/720/deep%20water%202022.mkv
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/22/01/18/00/09/2113102.jpg" group-title="2022",Al viento (2022)
@@ -29,6 +30,8 @@ http://vod.tuxchannel.tv/peliculas/720/the%20kings%20daughter%202022.mkv
 http://vod.tuxchannel.tv/peliculas/720/texas%20chainsaw%20massacre%202022.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/22/02/16/23/01/0567806.jpg" group-title="2022",Luz negra (2022)
 http://vod.tuxchannel.tv/peliculas/720/blacklight%202022.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/12/22/12/12/1938897.jpg" group-title="2022",Muerte en el Nilo (2022)
+http://vod.tuxchannel.tv/peliculas/720/death%20on%20the%20nile%202022.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/22/02/01/11/23/4105599.jpg" group-title="2022",OVNI (2022)
 http://vod.tuxchannel.tv/peliculas/720/ufo%202022.mkv
 #EXTINF:-1 tvg-logo="https://decine21.com/img/upload/obras/perdona-nuestras-ofensas-45122/src/perdona-nuestras-ofensas-45122-c.jpg" group-title="2022",Perdona nuestras ofensas (2022)
