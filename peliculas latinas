@@ -2847,10 +2847,6 @@ https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2
 http://vod.tuxchannel.tv/peliculas/720/world%20war%20z%202013.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71zCfLCQvLL._SL1120_.jpg" group-title="Peliculas Viejas",Harry: El sucio (1976)
 http://archive.org/download/harry-el-ejecutor-1976/Harry%20El%20Ejecutor%20%281976%29.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/85/24/77/19995859.jpg" group-title="Peliculas Viejas",John Carter (2012)
-http://vod.tuxchannel.tv/peliculas/720/john%20carter.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/05/07/12/06/424049.jpg" group-title="Peliculas Viejas",Juego de patriotas (1992)
-http://vod.tuxchannel.tv/peliculas/720/patriot%20games.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/08/05/07/05/3012615.jpg" group-title="Peliculas Viejas",Historia sin fin (1984)
 http://vod.tuxchannel.tv/peliculas/720/the%20neverending%20story.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/10/01/21/12/5480743.jpg" group-title="Peliculas Viejas",Hombre en llamas (2004)
@@ -2875,12 +2871,20 @@ http://archive.org/download/ip-man-01/Ip%20man%2001.mp4
 http://archive.org/download/ip-man-02/Ip%20man%2002.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/77/86/82/20486826.jpg" group-title="Peliculas Viejas",Iron Man 3 (2013)
 http://vod.tuxchannel.tv/peliculas/720/iron%20man%203.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/85/24/77/19995859.jpg" group-title="Peliculas Viejas",John Carter (2012)
+http://vod.tuxchannel.tv/peliculas/720/john%20carter.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/05/07/12/06/424049.jpg" group-title="Peliculas Viejas",Juego de patriotas (1992)
+http://vod.tuxchannel.tv/peliculas/720/patriot%20games.mkv
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/06/b7/18/06b7183bcebd5b91b248fd4c7a2931f8.jpg" group-title="Peliculas Viejas",Juez Dredd (2012)
 http://vod.tuxchannel.tv/peliculas/720/dredd.mkv
 #EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_846103-MLA26420100597_112017-O.jpg" group-title="Peliculas Viejas",Jumanji (1995)
 http://vod.tuxchannel.tv/peliculas/720/jumanji.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/03/25/09/25/346980.jpg" group-title="Peliculas Viejas",Jurassic Park (1993)
 http://vod.tuxchannel.tv/peliculas/720/jurassic%20park.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/06/17/13/28/048245.jpg" group-title="Peliculas Viejas",Karate Kid (1984)
+http://vod.tuxchannel.tv/peliculas/720/karate%20kid%201984.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/92/04/29/20176736.jpg" group-title="Peliculas Viejas",Karate Kid 2 (1986)
+http://vod.tuxchannel.tv/peliculas/720/karate%20kid%202.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/82/09/91/20118126.jpg" group-title="Peliculas Viejas",La aparicion (2012)
 http://vod.tuxchannel.tv/peliculas/720/the%20apparition.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/15/11/23/08/35/134606.jpg" group-title="Peliculas Viejas",La armadura de Dios (1986)
