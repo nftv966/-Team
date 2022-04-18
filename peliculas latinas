@@ -2270,8 +2270,6 @@ http://vod.tuxchannel.tv/peliculas/720/alvin%20and%20the%20chipmunks%20the%20roa
 https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520Ant-Man%2520-%25202015.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/15/04/28/11/56/379860.jpg" group-title="2015",Area 51 (2015)
 http://vod.tuxchannel.tv/peliculas/720/area%2051.mkv
-#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/14/02/27/10/51/077833.jpg" group-title="2015",Armageddon (2015)
-http://vod.tuxchannel.tv/peliculas/720/armageddon.mkv
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/15/03/23/18/20/524426.jpg" group-title="2015",Ashby (2015)
 http://vod.tuxchannel.tv/peliculas/720/ashby.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71eGuLxDroL._SL1500_.jpg" group-title="2015",Birdman (2015)
@@ -2711,8 +2709,6 @@ http://vod.tuxchannel.tv/peliculas/720/the%20fugitive.mkv
 http://vod.tuxchannel.tv/peliculas/720/london%20boulevard.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/88/91/08/20306579.jpg" group-title="Peliculas Viejas",El Hobbit: Un viaje inesperado (2012)
 http://vod.tuxchannel.tv/peliculas/720/the%20hobbit%20an%20unexpected%20journey.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/15/11/20/13/14/031438.jpg" group-title="Peliculas Viejas",El Hombre de Acero (2013)
-http://vod.tuxchannel.tv/peliculas/720/man%20of%20steel.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/13/12/13/11/42/576944.jpg" group-title="Peliculas Viejas",El Hobbit: La desolación de Smaug (2013)
 http://vod.tuxchannel.tv/peliculas/720/the%20hobbit%20the%20desolation%20of%20smaug.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/10/17/13/10/188874.jpg" group-title="Peliculas Viejas",El Hobbit: la batalla de los cinco ejércitos (2014)
@@ -2725,6 +2721,8 @@ https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2
 https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520El%2520Hombre%2520Ara%C3%B1a%25203%2520-%25202007.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41QyfwJ+y6L.jpg" group-title="Peliculas Viejas",El hombre bicentenario (1999)
 http://archive.org/download/estacion-zombie-2-peninsula-2020-480/Hombre%20bicentenario.ia.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/15/11/20/13/14/031438.jpg" group-title="Peliculas Viejas",El Hombre de Acero (2013)
+http://vod.tuxchannel.tv/peliculas/720/man%20of%20steel.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/68/88/73/20143931.jpg" group-title="Peliculas Viejas",El hombre de la mascara de hierro (1998)
 http://vod.tuxchannel.tv/peliculas/720/the%20man%20in%20the%20iron%20mask.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/66/73/18/20350674.jpg" group-title="Peliculas Viejas",El Increible Hulk (2008)
