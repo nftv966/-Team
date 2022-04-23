@@ -248,22 +248,43 @@ http://vods.tuxchannel.tv/series/ares/s_01_e_07.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/23/12/37/2549126.jpg" group-title="Ares",Cap. 08
 http://vods.tuxchannel.tv/series/ares/s_01_e_08.mkv
 
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/15/05/27/13/32/384328.jpg" group-title="Bajo sospecha",Cap. 01
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/15/05/27/13/32/384328.jpg" group-title="Bajo sospecha T1",Cap. 01
 https://archive.org/download/1-08_20220422/1-01.avi
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/15/05/27/13/32/384328.jpg" group-title="Bajo sospecha",Cap. 02
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/15/05/27/13/32/384328.jpg" group-title="Bajo sospecha T1",Cap. 02
 https://archive.org/download/1-08_20220422/1-02.avi
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/15/05/27/13/32/384328.jpg" group-title="Bajo sospecha",Cap. 03
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/15/05/27/13/32/384328.jpg" group-title="Bajo sospecha T1",Cap. 03
 https://archive.org/download/1-08_20220422/1-03.avi
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/15/05/27/13/32/384328.jpg" group-title="Bajo sospecha",Cap. 04
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/15/05/27/13/32/384328.jpg" group-title="Bajo sospecha T1",Cap. 04
 https://archive.org/download/1-08_20220422/1-04.avi
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/15/05/27/13/32/384328.jpg" group-title="Bajo sospecha",Cap. 05
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/15/05/27/13/32/384328.jpg" group-title="Bajo sospecha T1",Cap. 05
 https://archive.org/download/1-08_20220422/1-05.avi
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/15/05/27/13/32/384328.jpg" group-title="Bajo sospecha",Cap. 06
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/15/05/27/13/32/384328.jpg" group-title="Bajo sospecha T1",Cap. 06
 https://archive.org/download/1-08_20220422/1-06.avi
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/15/05/27/13/32/384328.jpg" group-title="Bajo sospecha",Cap. 07
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/15/05/27/13/32/384328.jpg" group-title="Bajo sospecha T1",Cap. 07
 https://archive.org/download/1-08_20220422/1-07.avi
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/15/05/27/13/32/384328.jpg" group-title="Bajo sospecha",Cap. 08
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/15/05/27/13/32/384328.jpg" group-title="Bajo sospecha T1",Cap. 08
 https://archive.org/download/1-08_20220422/1-08.avi
+
+#EXTINF:-1 tvg-logo="https://fr.web.img2.acsta.net/pictures/19/03/13/16/45/4816006.jpg" group-title="Bajo sospecha T2",Cap. 01
+https://archive.org/download/2-04_20220422/2-01.avi
+#EXTINF:-1 tvg-logo="https://fr.web.img2.acsta.net/pictures/19/03/13/16/45/4816006.jpg" group-title="Bajo sospecha T2",Cap. 02
+https://archive.org/download/2-04_20220422/2-02.avi
+#EXTINF:-1 tvg-logo="https://fr.web.img2.acsta.net/pictures/19/03/13/16/45/4816006.jpg" group-title="Bajo sospecha T2",Cap. 03
+https://archive.org/download/2-04_20220422/2-03.avi
+#EXTINF:-1 tvg-logo="https://fr.web.img2.acsta.net/pictures/19/03/13/16/45/4816006.jpg" group-title="Bajo sospecha T2",Cap. 04
+https://archive.org/download/2-04_20220422/2-04.avi
+#EXTINF:-1 tvg-logo="https://fr.web.img2.acsta.net/pictures/19/03/13/16/45/4816006.jpg" group-title="Bajo sospecha T2",Cap. 05
+https://archive.org/download/2-04_20220422/2-05.avi
+#EXTINF:-1 tvg-logo="https://fr.web.img2.acsta.net/pictures/19/03/13/16/45/4816006.jpg" group-title="Bajo sospecha T2",Cap. 06
+https://archive.org/download/2-04_20220422/2-06.avi
+#EXTINF:-1 tvg-logo="https://fr.web.img2.acsta.net/pictures/19/03/13/16/45/4816006.jpg" group-title="Bajo sospecha T2",Cap. 07
+https://archive.org/download/2-04_20220422/2-07.avi
+#EXTINF:-1 tvg-logo="https://fr.web.img2.acsta.net/pictures/19/03/13/16/45/4816006.jpg" group-title="Bajo sospecha T2",Cap. 08
+https://archive.org/download/2-04_20220422/2-08.avi
+#EXTINF:-1 tvg-logo="https://fr.web.img2.acsta.net/pictures/19/03/13/16/45/4816006.jpg" group-title="Bajo sospecha T2",Cap. 09
+https://archive.org/download/2-04_20220422/2-09.avi
+#EXTINF:-1 tvg-logo="https://fr.web.img2.acsta.net/pictures/19/03/13/16/45/4816006.jpg" group-title="Bajo sospecha T2",Cap. 10
+https://archive.org/download/2-04_20220422/2-10.avi
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/10/13/16/41/4615183.jpg" group-title="Barbaros",Cap. 01
 http://vods.tuxchannel.tv/series/barbaren/s_01_e_01.mkv
