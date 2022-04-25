@@ -2641,6 +2641,17 @@ http://vods.tuxchannel.tv/series/hache/s_02_e_05.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/19/10/29/09/16/0076835.jpg" group-title="Hache T2",Cap. 06
 http://vods.tuxchannel.tv/series/hache/s_02_e_06.mkv
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/02/21/20/10/2589351.jpg" group-title="Halo T1",Cap. 01
+https://archive.org/download/halo-1x-04/Halo%201x01.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/02/21/20/10/2589351.jpg" group-title="Halo T1",Cap. 02
+https://archive.org/download/halo-1x-04/Halo%201x02.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/02/21/20/10/2589351.jpg" group-title="Halo T1",Cap. 03
+https://archive.org/download/halo-1x-04/Halo%201x03.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/02/21/20/10/2589351.jpg" group-title="Halo T1",Cap. 04
+https://archive.org/download/halo-1x-04/Halo%201x04.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/02/21/20/10/2589351.jpg" group-title="Halo T1",Cap. 05
+https://archive.org/download/halo-1x-04/Halo%201x05.mp4
+
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/11/08/21/00/3193634.jpg" group-title="Hanna T1",Cap. 01
 http://vods.tuxchannel.tv/series/hanna/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/11/08/21/00/3193634.jpg" group-title="Hanna T1",Cap. 02
