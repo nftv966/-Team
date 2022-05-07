@@ -7,12 +7,12 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.wjtv.com/wp-content/uploads/sites/72/2022/03/yETvloJQkj5GAD4szdSqe15nJOx.jpg" group-title="2022",A day to die (2022) LEG
 https://archive.org/download/a-day-to-die/A%20day%20to%20die.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/05/08/45/4372215.jpg" group-title="2022",Agente das sombras (2022)
-https://archive.org/download/agente.das.-sombras/Agente.das.Sombras.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/22/01/05/09/48/4964345.jpg" group-title="2022",A era do gelo: As aventuras de Buck (2022)
 https://archive.org/download/br-a.-era.do.-gelo.-as.-aventuras.de.-buck/BR%20A.Era.do.Gelo.As.Aventuras.de.Buck.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/22/01/12/18/16/0246390.jpg" group-title="2022",A filha do rei (2022)
 https://archive.org/download/br-a.-filha.do.-rei/BR%20A.Filha.do.Rei.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/05/08/45/4372215.jpg" group-title="2022",Agente das sombras (2022)
+https://archive.org/download/agente.das.-sombras/Agente.das.Sombras.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/22/03/10/16/06/3307055.jpg" group-title="2022",Aguas profundas (2022)
 https://archive.org/download/br-aguas.-profundas/BR%20Aguas.Profundas.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/22/03/07/19/25/2114613.jpg" group-title="2022",A hora do desespero (2022) LEG
@@ -31,14 +31,11 @@ https://archive.org/download/atraves.da.-minha.-janela/Atraves.da.Minha.Janela.m
 https://archive.org/download/a.-vida.-depois/A.Vida.Depois.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/22/01/25/12/04/3975634.jpg" group-title="2022",Bigbug (2022)
 https://archive.org/download/bigbug_202205/Bigbug.mp4
-
-
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/18/12/01/3790391.jpg" group-title="2022",Case comigo (2022) LEG
-http://sensea.xyz:8880/movie/OnNtImEvOdPanEl/rjwcFv4thP/146652.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vMfcyQAb1YybrQEazNPZlPiG1ag.jpg" group-title="2022",Cavaleiros desesperados (2022)
-http://sensea.xyz:8880/movie/OnNtImEvOdPanEl/rjwcFv4thP/146917.mkv
+https://archive.org/download/marry.-me/Marry.Me.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/12/27/14/12/0524052.jpg" group-title="2022",Como me apaixonei por um gangster (2022)
-http://sensea.xyz:8880/movie/OnNtImEvOdPanEl/rjwcFv4thP/145732.mkv
+https://archive.org/download/como.-me.-apaixonei.por.um.-gangster/Como.Me.Apaixonei.por.um.Gangster.mp4
+
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/22/01/14/11/11/1612615.jpg" group-title="2022",Contra o gelo (2022)
 http://sensea.xyz:8880/movie/OnNtImEvOdPanEl/rjwcFv4thP/146927.mkv
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/22/01/19/20/33/4823420.jpg" group-title="2022",Crush a altura 2 (2022)
