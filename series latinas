@@ -4838,6 +4838,11 @@ http://vods.tuxchannel.tv/series/spinning_out/s_01_e_09.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/12/17/11/50/2314671.jpg" group-title="Spinning Out: Girando",Cap. 10
 http://vods.tuxchannel.tv/series/spinning_out/s_01_e_10.mkv
 
+#EXTINF:-1 tvg-logo="https://treknews.net/wp-content/uploads/2022/04/star-trek-strange-new-worlds-poster-2.jpg" group-title="Star Trek: Extraños nuevos mundos",Cap. 01
+https://archive.org/download/star-trek-extranos-nuevos-mundos-01/Star%20Trek%20Extra%C3%B1os%20nuevos%20mundos%2001.mp4
+#EXTINF:-1 tvg-logo="https://treknews.net/wp-content/uploads/2022/04/star-trek-strange-new-worlds-poster-2.jpg" group-title="Star Trek: Extraños nuevos mundos",Cap. 02
+https://archive.org/download/star-trek-extranos-nuevos-mundos-01/Star%20Trek%20Extra%C3%B1os%20nuevos%20mundos%2002.mp4
+
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/07/11/10/58/5157807.jpg" group-title="Star Trek: Picard",Cap. 01
 http://vods.tuxchannel.tv/series/star_trek_picard/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/07/11/10/58/5157807.jpg" group-title="Star Trek: Picard",Cap. 02
