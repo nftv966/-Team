@@ -5,6 +5,10 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 #EXTINF:-1 tvg-logo="https://www.lifeder.com/wp-content/uploads/2016/07/pel%C3%ADculas-recomendadas.jpg" group-title="FILMES GRATIS",FILMES GRATIS
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/29/09/30/4195544.jpg" group-title="2022",9 balas (2022) LEG
+http://135.148.103.26:8880/movie/isidoro1/123456/128077.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/04/27/21/58/0515920.jpg" group-title="2022",365 dias: Hoje (2022)
+http://135.148.103.26:8880/movie/isidoro1/123456/128015.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/22/03/09/14/01/3897208.jpg" group-title="2022",A bolha (2022)
 http://135.148.103.26:8880/movie/isidoro1/123456/127720.mp4
 #EXTINF:-1 tvg-logo="https://www.wjtv.com/wp-content/uploads/sites/72/2022/03/yETvloJQkj5GAD4szdSqe15nJOx.jpg" group-title="2022",A day to die (2022) LEG
@@ -61,12 +65,18 @@ http://135.148.103.26:8880/movie/isidoro1/123456/126944.mp4
 http://135.148.103.26:8880/movie/isidoro1/123456/126235.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/12/16/08/01/3149911.jpg" group-title="2022",Big Gold Brick (2022) LEG
 http://135.148.103.26:8880/movie/isidoro1/123456/127330.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/21/12/07/02/28/1507296.jpg" group-title="2022",Bubble (2022)
+http://135.148.103.26:8880/movie/isidoro1/123456/128020.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/22/03/18/18/28/4217376.png" group-title="2022",Caranguejo Negro (2022)
 http://135.148.103.26:8880/movie/isidoro1/123456/127392.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/21/09/30/11/09/1621500.jpg" group-title="2022",Casa Gucci (2022) LEG
 http://135.148.103.26:8880/movie/isidoro1/123456/126130.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/18/12/01/3790391.jpg" group-title="2022",Case comigo (2022) LEG
 
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/22/02/28/23/01/4312523.jpg" group-title="2022",Chariot (2022) LEG
+http://135.148.103.26:8880/movie/isidoro1/123456/128078.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uQaLnOSUyBKK9M5QrzIIAhR8mKi.jpg" group-title="2022",Children of sin (2022) LEG
+http://135.148.103.26:8880/movie/isidoro1/123456/128079.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/05/21/04/2676469.jpg" group-title="2022",Clean (2022)
 http://135.148.103.26:8880/movie/isidoro1/123456/126903.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/jntLBq0MLR3hrwKaTQswxACRPMs.jpg" group-title="2022",Comemoração de 20 anos de Harry Potter: De volta a Hogwarts (2022) LEG
@@ -75,6 +85,8 @@ http://135.148.103.26:8880/movie/isidoro1/123456/126903.mp4
 http://135.148.103.26:8880/movie/isidoro1/123456/124829.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/22/01/14/11/11/1612615.jpg" group-title="2022",Contra o gelo (2022)
 http://135.148.103.26:8880/movie/isidoro1/123456/126922.mp4
+#EXTINF:-1 tvg-logo="https://media.filmelier.com/tit/FUCNrh/poster/contrato-perigoso_7x48hpY.jpeg" group-title="2022",Contrato perigoso (2022)
+http://135.148.103.26:8880/movie/isidoro1/123456/128072.mp4
 #EXTINF:-1 tvg-logo="https://superflixfilmes.net/wp-content/uploads/2022/04/j252tH00eMyANiqhaLkemlkO16v.jpg" group-title="2022",Correr atirando (2022)
 http://135.148.103.26:8880/movie/isidoro1/123456/127825.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/22/03/08/05/59/5164633.jpg" group-title="2022",Cow (2022) LEG
@@ -83,6 +95,8 @@ http://135.148.103.26:8880/movie/isidoro1/123456/126301.mp4
 http://135.148.103.26:8880/movie/isidoro1/123456/126904.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/22/01/19/20/33/4823420.jpg" group-title="2022",Crush a altura 2 (2022)
 http://135.148.103.26:8880/movie/isidoro1/123456/126236.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/22/04/07/07/49/0630455.jpg" group-title="2022",Crush: Amor colorido (2022)
+http://135.148.103.26:8880/movie/isidoro1/123456/128022.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/21/12/10/10/54/4828588.jpg" group-title="2022",Cyrano (2022)
 http://135.148.103.26:8880/movie/isidoro1/123456/127809.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/21/12/10/10/54/4828588.jpg" group-title="2022",Cyrano (2022) LEG
@@ -95,6 +109,8 @@ http://135.148.103.26:8880/movie/isidoro1/123456/126905.mp4
 http://135.148.103.26:8880/movie/isidoro1/123456/127742.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mW5urwrbLDr8gyZvJF9NnJJ4Tdd.jpg" group-title="2022",Domingão com Huck: A história da história (2022)
 http://135.148.103.26:8880/movie/isidoro1/123456/127700.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/22/02/14/18/29/1382589.png" group-title="2022",Doutor Estranho: No multiverso da loucura (2022) (Imagem de Cinema)
+http://135.148.103.26:8880/movie/isidoro1/123456/128075.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/22/02/07/19/36/5510076.png" group-title="2022",Doze é demais (2022)
 http://135.148.103.26:8880/movie/isidoro1/123456/127393.mp4
 #EXTINF:-1 tvg-logo="https://static.digit.in/OTT/v2/images/tr:n-ott_home_crousel/dragon-knight-540219.jpg" group-title="2022",Dragon Knight (2022) LEG
@@ -103,6 +119,8 @@ http://135.148.103.26:8880/movie/isidoro1/123456/127913.mp4
 http://135.148.103.26:8880/movie/isidoro1/123456/127456.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/22/01/04/17/53/1312273.jpg" group-title="2022",Emboscada (2022)
 http://135.148.103.26:8880/movie/isidoro1/123456/125995.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2WfT7LGSmiIReiWZFH6IxkW0Fql.jpg" group-title="2022",Escape through Africa (2022) LEG
+http://135.148.103.26:8880/movie/isidoro1/123456/128080.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/29/17/13/3709696.png" group-title="2022",Escolha ou morra (2022)
 http://135.148.103.26:8880/movie/isidoro1/123456/127826.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/29/17/13/3709696.png" group-title="2022",Escolha ou morra (2022)
@@ -137,6 +155,8 @@ http://135.148.103.26:8880/movie/isidoro1/123456/126909.mp4
 http://135.148.103.26:8880/movie/isidoro1/123456/127400.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/22/03/18/09/01/4671477.jpg" group-title="2022",Homem de Deus (2022)
 http://135.148.103.26:8880/movie/isidoro1/123456/127909.mp4
+#EXTINF:-1 tvg-logo="https://de.web.img3.acsta.net/pictures/22/03/15/07/26/1371074.jpg" group-title="2022",Hostile territory (2022) LEG
+http://135.148.103.26:8880/movie/isidoro1/123456/128081.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/06/15/18/40/0411925.jpg" group-title="2022",Hotel Transilvania: Transformonstrao (2022)
 http://135.148.103.26:8880/movie/isidoro1/123456/124832.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/06/15/18/40/0411925.jpg" group-title="2022",Hotel Transilvania: Transformonstrao (2022) MKV
@@ -203,6 +223,8 @@ http://135.148.103.26:8880/movie/isidoro1/123456/127395.mp4
 http://135.148.103.26:8880/movie/isidoro1/123456/127335.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/22/01/31/10/28/0410704.jpg" group-title="2022",O massacre da serra eletrica: O retorno de Leatherface (2022)
 http://135.148.103.26:8880/movie/isidoro1/123456/126769.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/22/03/24/09/33/0892409.jpg" group-title="2022",O mistério de Marilyn Monroe: Gravações inéditas (2022)
+http://135.148.103.26:8880/movie/isidoro1/123456/128028.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/12/09/14/28/5153606.jpg" group-title="2022",O Páramo (2022)
 http://135.148.103.26:8880/movie/isidoro1/123456/125441.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/22/03/02/17/11/3732338.png" group-title="2022",O Projeto Adam (2022)
@@ -211,6 +233,8 @@ http://135.148.103.26:8880/movie/isidoro1/123456/127346.mp4
 http://135.148.103.26:8880/movie/isidoro1/123456/127396.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/22/01/10/19/04/1615870.png" group-title="2022",O segundo homem (2022)
 http://135.148.103.26:8880/movie/isidoro1/123456/126002.mp4
+#EXTINF:-1 tvg-logo="https://media.filmelier.com/tit/SYg3Gi/poster/o-sentido-da-vida_nIsWtGg.jpeg" group-title="2022",O sentido da vida (2022)
+http://135.148.103.26:8880/movie/isidoro1/123456/128030.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/22/05/03/19/43/2142010.jpg" group-title="2022",Os opostos sempre se atraem (2022)
 
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/22/02/23/17/09/3316421.jpg" group-title="2022",Os piratas: Em busca do tesouro perdido (2022)
@@ -233,10 +257,14 @@ http://135.148.103.26:8880/movie/isidoro1/123456/126947.mp4
 http://135.148.103.26:8880/movie/isidoro1/123456/127702.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/22/02/01/11/21/3747934.jpg" group-title="2022",Queda Livre: A tragédia do caso Boeing (2022) LEG
 http://sensea.xyz:8880/movie/OnNtImEvOdPanEl/rjwcFv4thP/146852.mkv
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/11/18/16/57/5746772.jpg" group-title="2022",Red: Crescer e uma fera (2022)
-http://135.148.103.26:8880/movie/isidoro1/123456/127347.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/11/23/09/49/1154871.jpg" group-title="2022",Ray Donovan: O Filme (2022)
 http://135.148.103.26:8880/movie/isidoro1/123456/124901.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/11/18/16/57/5746772.jpg" group-title="2022",Red: Crescer e uma fera (2022)
+http://135.148.103.26:8880/movie/isidoro1/123456/127347.mp4
+#EXTINF:-1 tvg-logo="https://mycima.cloud/wp-content/uploads/2022/04/Reign-of-Chaos-2022-347x520.jpg" group-title="2022",Reign of Chaos (2022) LEG
+http://135.148.103.26:8880/movie/isidoro1/123456/128083.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/04/04/18/31/1303635.jpg" group-title="2022",Rumspringa: Um Amish em Berlim (2022)
+http://135.148.103.26:8880/movie/isidoro1/123456/128033.mp4
 #EXTINF:-1 tvg-logo="https://images.moviefit.me/t/o/707272-breathless.jpg" group-title="2022",Sem folego (2022)
 http://135.148.103.26:8880/movie/isidoro1/123456/126930.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/22/02/24/20/02/0133460.jpg" group-title="2022",Sem saida (2022)
@@ -249,6 +277,8 @@ http://135.148.103.26:8880/movie/isidoro1/123456/127460.mp4
 http://135.148.103.26:8880/movie/isidoro1/123456/126121.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/22/05/10/17/24/2349682.png" group-title="2022",Shut In (2022) LEG
 http://135.148.103.26:8880/movie/isidoro1/123456/126912.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/22/03/16/21/24/3370525.jpg" group-title="2022",Silverton: Cerco fechado (2022)
+http://135.148.103.26:8880/movie/isidoro1/123456/128034.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/22/02/18/17/53/5812531.jpg" group-title="2022",Sobrevivendo ao paraíso: Contos de famílias (2022)
 http://135.148.103.26:8880/movie/isidoro1/123456/127703.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/02/18/10/20/5195258.jpg" group-title="2022",Sonic: The hedgehog 2 (2022)
@@ -277,12 +307,16 @@ http://135.148.103.26:8880/movie/isidoro1/123456/126312.mp4
 http://135.148.103.26:8880/movie/isidoro1/123456/127915.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/i0z8g2VRZP3dhVvvSMilbOZMKqR.jpg" group-title="2022",The requin (2022) LEG
 http://135.148.103.26:8880/movie/isidoro1/123456/126148.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yaV7vDPosn52weYLaJwRG9JFaNO.jpg" group-title="2022",The Rideshare Killer (2022) LEG
+http://135.148.103.26:8880/movie/isidoro1/123456/127916.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/eTD5TXjNbQ9c0BawMquBCO667yE.jpg" group-title="2022",Three Months (2022) LEG
 http://135.148.103.26:8880/movie/isidoro1/123456/127342.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/21/12/15/07/35/3334858.jpg" group-title="2022",Time do coraçao (2022)
 http://135.148.103.26:8880/movie/isidoro1/123456/126012.mp4
 #EXTINF:-1 tvg-logo="https://superflixfilmes.net/wp-content/uploads/2022/04/rvAiniDPs5sxucbRC0stls4yNdY.jpg" group-title="2022",Tony Hawk: Até as rodinhas caírem (2022)
 http://135.148.103.26:8880/movie/isidoro1/123456/127817.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/12/22/22/13/4584513.jpg" group-title="2022",Tô Ryca 2 (2022)
+http://135.148.103.26:8880/movie/isidoro1/123456/128073.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/22/02/17/01/48/4719392.jpg" group-title="2022",TQM (2022)
 http://135.148.103.26:8880/movie/isidoro1/123456/126313.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/12/22/10/45/1093017.jpg" group-title="2022",Tratamento de Realeza (2022)
