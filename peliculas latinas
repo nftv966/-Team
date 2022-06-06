@@ -496,7 +496,7 @@ http://vod.tuxchannel.tv/peliculas/720/the%20tomorrow%20war%202021.mkv
 https://dl.dropboxusercontent.com/s/re221mzlmbkp5l2/%20La%20Guerra%20Del%20Mañana%20(2021).mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/08/04/16/24/5023543.jpg" group-title="2021",La isla negra (2021)
 http://vod.tuxchannel.tv/peliculas/720/schwarze%20insel%202021.mkv
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/21/03/03/10/28/3103709.jpg" group-title="2021",La Liga de la Justicia de Zack Snyder (2021)
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/08/10/22/00/5069470.jpg" group-title="2021",La Liga de la Justiça de Zack Snyder (2021)
 http://vod.tuxchannel.tv/peliculas/720/zack%20snyders%20justice%20league%202021.mkv
 #EXTINF:-1 tvg-logo="https://images.moviefit.me/t/o/527312-this-little-love-of-mine.jpg" group-title="2021",La magia de la Isla (2021)
 http://vod.tuxchannel.tv/peliculas/720/this%20little%20love%20of%20mine%202021.mkv
@@ -518,8 +518,6 @@ http://vod.tuxchannel.tv/peliculas/720/skater%20girl%202021.mkv
 http://vod.tuxchannel.tv/peliculas/720/the%20last%20letter%20from%20your%20lover%202021.mkv
 #EXTINF:-1 tvg-logo="https://starwarsblog.starwars.com/wp-content/uploads/2021/09/leg-star-wars-terrifying-tales-poster-3578.jpg" group-title="2021",LEGO Star Wars: Cuentos Escalofriantes (2021)
 http://51.77.66.14/Lego.Star.Wars.Terrifying.Tales-LEGO.Star.Wars.Cuentos.Escalofriantes.2021.WEB-DL.1080p.ChileBT.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/08/10/22/00/5069470.jpg" group-title="2021",Liga de la Justiça de Zack Snyder (2021)
-http://vod.tuxchannel.tv/peliculas/720/zack%20snyders%20justice%20league%202021.mkv
 #EXTINF:-1 tvg-logo="https://assistironline.net/wp-content/uploads/2021/09/Screenshot_2_SDwIbUP.png" group-title="2021",Llanto Maldito (2021)
 http://vod.tuxchannel.tv/peliculas/720/llanto%20maldito%202021.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/qXARjc4f1cnc8F7hd2QI2z4f3zB.jpg" group-title="2021",Lokillo: nada es igual (2021)
@@ -2197,6 +2195,8 @@ http://vod.tuxchannel.tv/peliculas/720/the%20lost%20city%20of%20z.mkv
 http://archive.org/download/ghostbusters.-2016.1080p.extended-dual-lat/En%20Nombre%20del%20Amor.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71piRwndhtL._AC_SY606_.jpg" group-title="2016",La Era del Hielo: Choque de mundos (2016)
 http://vod.tuxchannel.tv/peliculas/720/ice%20age%20collision%20course.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/17/01/16/14/03/499495.jpg" group-title="2016",La Gran Muralla (2016)
+https://mataocio-cdn5.mataocio-cdn5.workers.dev/La%2520gran%2520muralla.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/07/11/13/05/400399.jpg" group-title="2016",La leyenda de Tarzan (2016)
 http://archive.org/download/ghostbusters.-2016.1080p.extended-dual-lat/The.legend.of.tarzan.2016.1080p-dual-lat.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51ectVJ41LL.jpg" group-title="2016",La reencarnacion (2016)
@@ -2991,12 +2991,16 @@ http://vod.tuxchannel.tv/peliculas/720/armour%20of%20god.mkv
 http://vod.tuxchannel.tv/peliculas/720/the%20cabin%20in%20the%20woods.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/15/11/05/10/02/222501.jpg" group-title="Peliculas Viejas",La caida del Halcon Negro (2001)
 http://vod.tuxchannel.tv/peliculas/720/black%20hawk%20down.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/18/12/32/332821.jpg" group-title="Peliculas Viejas",La casa de cera (2005)
+https://mataocio-cdn5.mataocio-cdn5.workers.dev/La%2520casa%2520de%2520cera.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/93/33/02/20250054.jpg" group-title="Peliculas Viejas",La caza del Octubre Rojo (1990)
 http://vod.tuxchannel.tv/peliculas/720/the%20hunt%20for%20red%20october.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/07/01/16/02/123476.jpg" group-title="Peliculas Viejas",La Cueva (2014)
 http://vod.tuxchannel.tv/peliculas/720/la%20cueva.mkv
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/c_215_290/medias/nmedia/18/78/40/96/20433085.jpg" group-title="Peliculas Viejas",La Fuerza De La Ilusion (1992)
 http://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/65/20/92/19335351.jpg" group-title="Peliculas Viejas",La isla de los condenados (2007)
+https://mataocio-cdn5.mataocio-cdn5.workers.dev/La%2520isla%2520de%2520los%2520condenados.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/8187AUOt+iL._RI_.jpg" group-title="Peliculas Viejas",La isla siniestra (2010)
 http://vod.tuxchannel.tv/peliculas/720/shutter%20island.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/06/02/20/03/3042681.jpg" group-title="Peliculas Viejas",La leyenda del tesoro perdido (2004)
