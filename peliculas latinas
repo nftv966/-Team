@@ -5,6 +5,8 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 #EXTINF:-1 tvg-logo="https://www.lifeder.com/wp-content/uploads/2016/07/pel%C3%ADculas-recomendadas.jpg" group-title="PELICULAS GRATIS",PELICULAS GRATIS
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/12/10/22/46/3336792.png" group-title="2022",4 mitades (2022)
+http://vod.tuxchannel.tv/peliculas/720/quattro%20meta%202022.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/22/03/10/16/06/3307055.jpg" group-title="2022",Aguas profundas (2022)
 http://vod.tuxchannel.tv/peliculas/720/deep%20water%202022.mkv
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/22/01/18/00/09/2113102.jpg" group-title="2022",Al viento (2022)
@@ -131,6 +133,8 @@ http://vod.tuxchannel.tv/peliculas/720/tallgirl%202%202022.mkv
 http://vod.tuxchannel.tv/peliculas/720/the%20batman%202022.mkv
 #EXTINF:-1 tvg-logo="https://images.moviefit.me/t/o/669506-tom-jerry-cowboy-up.jpg" group-title="2022",Tom & Jerry: Arriba vaquero! (2022)
 http://vod.tuxchannel.tv/peliculas/720/tom%20and%20jerry%20cowboy%20up%202022.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/03/29/15/57/1533124.jpg" group-title="2022",Top Gun: Maverick (2022) HDCAM
+https://archive.org/download/t0pgun-2022/t0pgun-2022.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/27/23/19/3798574.jpg" group-title="2022",Torn: Desgarrado (2022)
 http://vod.tuxchannel.tv/peliculas/720/torn%202022.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/12/22/10/45/1093017.jpg" group-title="2022",Tratamiento real (2022)
