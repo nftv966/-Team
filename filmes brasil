@@ -7,6 +7,26 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
 
+
+
+
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/22/02/24/20/02/0133460.jpg" group-title="Archive Org 2022",Sem saída (2022)
+https://archive.org/download/sem-saida-hd-dub/Sem%20Sa%C3%ADda%20HD%20DUB.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/11/01/18/05/2903554.jpg" group-title="Archive Org 2022",Lacuna (2022)
+https://archive.org/download/lacuna-hd-dub/Lacuna%20HD%20DUB.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/r_1280_720/pictures/22/01/21/11/17/3553390.jpg" group-title="Archive Org 2022",Amor artificial (2022)
+https://archive.org/download/amor-artificial-hd-dub/Amor%20Artificial%20HD_DUB.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/22/02/04/08/52/5508154.jpg" group-title="Archive Org 2022",Um dia difícil (2022)
+https://archive.org/download/um-dia-dificil-hd-dub/Um%20Dia%20Dif%C3%ADcil%20HD%20DUB.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/22/01/13/17/55/5907343.jpg" group-title="Archive Org 2022",Anne+ (2022)
+https://archive.org/download/anne-o-filme-hd-dub/ANNE-%20O%20Filme%20HD_DUB.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/22/01/25/12/04/3975634.jpg" group-title="Archive Org 2022",BigBug (2022)
+https://archive.org/download/bigbug-hd-dub/Bigbug%20HD_DUB.mp4
+#EXTINF:-1 tvg-logo="https://media.filmelier.com/tit/MsEyjr/poster/golpes-de-vinganca_u5n8l0Q.jpeg" group-title="Archive Org 2022",Golpes de vingança (2022)
+https://archive.org/download/golpes-de-vinganca-hd-dub/Golpes%20de%20Vingan%C3%A7a%20HD_DUB.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/02/23/09/49/2034707.jpg" group-title="Archive Org 2022",Caranguejo negro (2022)
+https://archive.org/download/caranguejo-negro-hd-dub_202204/Caranguejo%20Negro%20HD-DUB.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/22/01/12/10/52/5594958.jpg" group-title="Archive Org 2022",Um looop eterno (2022)
 https://archive.org/download/um-looop-eterno-dub/Um%20Looop%20Eterno%20DUB.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/03/08/17/27/4936079.jpg" group-title="Archive Org 2022",Gold (2022)
