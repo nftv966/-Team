@@ -11,6 +11,8 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 http://vod.tuxchannel.tv/peliculas/720/quattro%20meta%202022.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/22/03/10/16/06/3307055.jpg" group-title="2022",Aguas profundas (2022)
 http://vod.tuxchannel.tv/peliculas/720/deep%20water%202022.mkv
+#EXTINF:-1 tvg-logo="https://fr.web.img6.acsta.net/pictures/21/10/04/15/13/4193894.jpg" group-title="2022",Al sur del cielo (2022)
+http://vod.tuxchannel.tv/peliculas/720/south%20of%20heaven%202021.mkv
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/22/01/18/00/09/2113102.jpg" group-title="2022",Al viento (2022)
 http://vod.tuxchannel.tv/peliculas/720/pod%20wiatr%202022.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/15/12/19/4501930.jpg" group-title="2022",Ambulancia: Plan de huida (2022)
@@ -133,6 +135,8 @@ http://vod.tuxchannel.tv/peliculas/720/morbius%202022.mkv
 http://vod.tuxchannel.tv/peliculas/720/moonfall%202022.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/12/22/12/12/1938897.jpg" group-title="2022",Muerte en el Nilo (2022)
 http://vod.tuxchannel.tv/peliculas/720/death%20on%20the%20nile%202022.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/09/11/13/0551516.jpg" group-title="2022",One Shot: Mision de rescate (2022)
+http://vod.tuxchannel.tv/peliculas/720/one%20shot%202021.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/22/02/01/11/23/4105599.jpg" group-title="2022",OVNI (2022)
 http://vod.tuxchannel.tv/peliculas/720/ufo%202022.mkv
 #EXTINF:-1 tvg-logo="https://decine21.com/img/upload/obras/perdona-nuestras-ofensas-45122/src/perdona-nuestras-ofensas-45122-c.jpg" group-title="2022",Perdona nuestras ofensas (2022)
