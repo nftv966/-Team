@@ -11,6 +11,8 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 http://vod.tuxchannel.tv/peliculas/720/quattro%20meta%202022.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/22/03/10/16/06/3307055.jpg" group-title="2022",Aguas profundas (2022)
 http://vod.tuxchannel.tv/peliculas/720/deep%20water%202022.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/09/09/08/32/1849386.jpg" group-title="2022",Alerta (2022)
+http://vod.tuxchannel.tv/peliculas/720/warning%202021.mkv
 #EXTINF:-1 tvg-logo="https://fr.web.img6.acsta.net/pictures/21/10/04/15/13/4193894.jpg" group-title="2022",Al sur del cielo (2022)
 http://vod.tuxchannel.tv/peliculas/720/south%20of%20heaven%202021.mkv
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/22/01/18/00/09/2113102.jpg" group-title="2022",Al viento (2022)
