@@ -2505,10 +2505,8 @@ https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/16/01/15/11/29/288415.jpg" group-title="2016",Zootrópolis (2016)
 http://vod.tuxchannel.tv/peliculas/720/zootopia.mkv
 
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/15/09/23/13/00/193624.jpg" group-title="2015",007: Spectre (2015) MKV
-http://vod.tuxchannel.tv/peliculas/720/spectre.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/15/09/23/13/00/193624.jpg" group-title="2015",007: Spectre (2015)
-http://goo.gl/3KGMLf
+http://vod.tuxchannel.tv/peliculas/720/spectre.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/11/24/12/19/213308.jpg" group-title="2015",30 dias para ir a la carcel (2015)
 http://vod.tuxchannel.tv/peliculas/720/get%20hard.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/15/11/23/17/04/260944.jpg" group-title="2015",Absolutamente todo (2015)
@@ -2540,8 +2538,6 @@ http://vod.tuxchannel.tv/peliculas/720/cinderella.mkv
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/r_640_600/b_1_d6d6d6/pictures/15/02/16/16/28/231403.jpg" group-title="2015",Chappie (2015)
 http://vod.tuxchannel.tv/peliculas/720/chappie.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/11/14/11/16/546987.jpg" group-title="2015",Cincuenta sombras de Grey (2015)
-http://archive.org/download/ghostbusters.-2016.1080p.extended-dual-lat/50%20Sombras%20De%20Grey.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/11/14/11/16/546987.jpg" group-title="2015",Cincuenta sombras de Grey (2015) MKV
 http://vod.tuxchannel.tv/peliculas/720/fifty%20shades%20of%20grey.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/15/10/29/17/11/021178.jpg" group-title="2015",Creed (2015)
 http://vod.tuxchannel.tv/peliculas/720/creed.mkv
@@ -2559,12 +2555,12 @@ http://vod.tuxchannel.tv/peliculas/720/i%20spit%20on%20your%20grave%203.mkv
 http://vod.tuxchannel.tv/peliculas/720/el%20cadaver%20de%20anna%20fritz.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/15/10/14/10/02/538192.jpg" group-title="2015",El clan (2015)
 http://vod.tuxchannel.tv/peliculas/720/el%20clan.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/12/30/13/20/432349.jpg" group-title="2015",El Codigo Enigma (2015)
-http://archive.org/download/ElCdigoEnigmaPelculaCompletaEnEspaolLatinoYouTube/El%20c%C3%B3digo%20enigma%20-%20Pel%C3%ADcula%20completa%20en%20espa%C3%B1ol%20%20latino-%20YouTube.MP4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/12/30/13/20/432349.jpg" group-title="2015",El codigo enigma (2015)
+http://vod.tuxchannel.tv/peliculas/720/el%20codigo%20enigma.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/14/10/23/11/43/383968.jpg" group-title="2015",El destino de Jupiter (2015)
 http://vod.tuxchannel.tv/peliculas/720/jupiter%20ascending.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/15/01/19/11/49/274619.jpg" group-title="2015",El gurú de las bodas (2015)
-http://archive.org/download/guru-de-bodas/guru%20de%20bodas.mp4
+http://vod.tuxchannel.tv/peliculas/720/the%20wedding%20ringer.mkv
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/16/04/08/11/10/027190.jpg" group-title="2015",El hombre que conocía el infinito (2015)
 http://vod.tuxchannel.tv/peliculas/720/el%20hombre%20que%20conocia%20el%20Infinito.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/15/03/16/17/23/226364.jpg" group-title="2015",El niño 44 (2015)
@@ -2573,16 +2569,14 @@ http://archive.org/download/nino-44/nino%2044.mp4
 http://vod.tuxchannel.tv/peliculas/720/bridge%20of%20spies.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/15/12/14/16/38/050093.jpg" group-title="2015",El renacido (2015)
 http://vod.tuxchannel.tv/peliculas/720/the%20revenant.mkv
-#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/18/01/16/21/48/4413870.jpg" group-title="2015",El último cazador de brujas (2015)
-http://archive.org/download/el-quinto-elemento/El%20%C3%9Altimo%20Cazador%20De%20Brujas.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/18/01/16/21/48/4413870.jpg" group-title="2015",El ultimo cazador de brujas (2015)
+http://vod.tuxchannel.tv/peliculas/720/el%20ultimo%20cazador%20de%20brujas.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/04/19/16/01/569646.jpg" group-title="2015",En la mente del asesino (2015)
 http://vod.tuxchannel.tv/peliculas/720/solace.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/16/03/01/08/43/544709.jpg" group-title="2015",Espias desde el cielo (2015)
 http://vod.tuxchannel.tv/peliculas/720/eye%20in%20the%20sky.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/15/06/08/11/21/306027.jpg" group-title="2015",Everest (2015) MKV
-http://vod.tuxchannel.tv/peliculas/720/everest.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/15/06/08/11/21/306027.jpg" group-title="2015",Everest (2015)
-http://archive.org/download/geo-tormenta/Everest.mp4
+http://vod.tuxchannel.tv/peliculas/720/everest.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91feSobW8LL._RI_.jpg" group-title="2015",Fenomenos de la naturaleza (2015)
 http://vod.tuxchannel.tv/peliculas/720/freaks%20of%20nature.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/01/19/09/57/400272.jpg" group-title="2015",Forsaken: Regresando a casa (2015)
@@ -2604,13 +2598,13 @@ http://vod.tuxchannel.tv/peliculas/720/home.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/15/10/08/12/17/008090.jpg" group-title="2015",Impulso (2015)
 http://vod.tuxchannel.tv/peliculas/720/momentum.mkv
 #EXTINF:-1 tvg-logo="https://cdn.atomix.vg/wp-content/uploads/2015/06/unnamed1.png" group-title="2015",Intensamente (2015)
-http://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
+http://vod.tuxchannel.tv/peliculas/720/inside%20out.mkv
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f4/a2/0e/f4a20e002430c6b463fbe8bf3a2f1023.jpg" group-title="2015",Ip Man 3 (2015)
-http://archive.org/download/ip-man-03/Ip%20man%2003.mp4
+http://vod.tuxchannel.tv/peliculas/720/ip%20man%203.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71H8cxuyr3L._SY445_.jpg" group-title="2015",Jane tomo las armas (2015)
 http://vod.tuxchannel.tv/peliculas/720/jane%20got%20a%20gun.mkv
 #EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_817575-MLA27180769592_042018-O.jpg" group-title="2015",Jugada Salvaje (2015)
-http://mataocio-cdn-7.mataocio-cdn7.workers.dev/Pack%25202/Jugada%2520salvaje%2520-%2520Wild%2520card%2520-%25202015.mp4
+http://vod.tuxchannel.tv/peliculas/720/wild%20card.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/15/10/22/08/18/133072.jpg" group-title="2015",Justicia letal (2015)
 http://vod.tuxchannel.tv/peliculas/720/close%20range.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/15/06/30/17/25/227064.jpg" group-title="2015",Justicia personal (2015)
@@ -2684,7 +2678,7 @@ http://vod.tuxchannel.tv/peliculas/720/no%20escape.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/15/11/13/16/27/316410.jpg" group-title="2015",Spotlight: En primera plana (2015)
 http://vod.tuxchannel.tv/peliculas/720/spotlight.mkv
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ef/06/04/ef0604c7493075c705c763924aa952fe.jpg" group-title="2015",Spy: Una Espía Despistada (2015)
-http://archive.org/download/www.mega-1080.com-spyhd-1080-p/%5Bwww.mega1080.com%5DSPYHD1080P.mp4
+http://vod.tuxchannel.tv/peliculas/720/una%20espia%20despistada.mkv
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/16/01/25/10/39/242769.jpg" group-title="2015",Terminus (2015)
 http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/15/05/05/11/56/026812.jpg" group-title="2015",Terremoto: La falla de San Andrés (2015)
