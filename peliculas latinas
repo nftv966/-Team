@@ -1893,6 +1893,8 @@ http://vod.tuxchannel.tv/peliculas/720/burn%20out%202017.mkv
 http://vod.tuxchannel.tv/peliculas/720/candelaria.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/10/23/12/33/0246129.jpg" group-title="2017",Cargo (2017)
 http://vod.tuxchannel.tv/peliculas/720/cargo.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/17/06/09/13/42/187933.jpg" group-title="2017",Cars 3 (2017)
+http://vod.tuxchannel.tv/peliculas/720/cars%203.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81IHHWQqZsL._SX300_.jpg" group-title="2017",Casi leyendas (2017)
 http://vod.tuxchannel.tv/peliculas/720/casi%20leyendas.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/l0bHGNRYO4hMkgANTV5F8aGUpVG.jpg" group-title="2017",Castillo de arena (2017)
@@ -2694,6 +2696,8 @@ https://mataocio-cdn5.mataocio-cdn5.workers.dev/Atlantis.mp4
 http://vod.tuxchannel.tv/peliculas/720/fatal%20attraction.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/92/03/67/20176357.jpg" group-title="Peliculas Viejas",Atraccion peligrosa: Ciudad de ladrones (2010)
 http://vod.tuxchannel.tv/peliculas/720/the%20town.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/68/88/61/20071858.jpg" group-title="Peliculas Viejas",Atrapame si puedes (2002)
+http://vod.tuxchannel.tv/peliculas/720/catch%20me%20if%20you%20can.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/67/40/30/20271333.jpg" group-title="Peliculas Viejas",Australia (2008)
 http://vod.tuxchannel.tv/peliculas/720/australia.mkv
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/0b/47/52/0b475243e0f2612c5ad6485dfc214b3e.jpg" group-title="Peliculas Viejas",Avatar (2009)
@@ -2770,6 +2774,10 @@ https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2
 https://mataocio-cdn5.mataocio-cdn5.workers.dev/Marvel%2520y%2520DC%2520-%2520%2520MP4/Marvel/-%2520%2520%2520%2520Capitan%2520america%2520-%2520El%2520soldado%2520de%2520invierno%2520-%25202014.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/210/038/21003890_20130507112915793.jpg" group-title="Peliculas Viejas",Carrie (2013)
 http://vod.tuxchannel.tv/peliculas/720/carrie.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/05/28/11/24/435900.jpg" group-title="Peliculas Viejas",Cars (2006)
+http://vod.tuxchannel.tv/peliculas/720/cars.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/18/11/07/03/51/3497896.jpg" group-title="Peliculas Viejas",Cars 2 (2011)
+http://vod.tuxchannel.tv/peliculas/720/cars%202.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/68/46/31/20058481.jpg" group-title="Peliculas Viejas",Cartas desde Iwo Jima (2006)
 http://vod.tuxchannel.tv/peliculas/720/letters%20from%20iwo%20jima.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/90/16/81/20084032.jpg" group-title="Peliculas Viejas",Celular (2004)
