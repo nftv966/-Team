@@ -998,6 +998,8 @@ http://vod.tuxchannel.tv/peliculas/720/birds%20of%20prey%202020.mkv
 http://vod.tuxchannel.tv/peliculas/720/aztech%202020.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/01/21/06/05/5039668.jpg" group-title="2020",Baba Yaga: El regreso del demonio (2020)
 http://archive.org/download/nino-44/el%20regreso%20del%20demon.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/01/17/18/28/4701915.jpg" group-title="2020",Bad Boys:Para siempre (2020)
+http://vod.tuxchannel.tv/peliculas/720/bad%20boys%20for%20life%202020.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/06/10/09/28/2998321.jpg" group-title="2020",Becky (2020)
 http://vod.tuxchannel.tv/peliculas/720/becky%202020.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/11/11/15/24/3324433.jpg" group-title="2020",Black Beauty (2020)
@@ -1704,6 +1706,8 @@ http://vod.tuxchannel.tv/peliculas/720/maze%20runner%20the%20death%20cure.mkv
 http://vod.tuxchannel.tv/peliculas/720/el%20candidato.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/18/04/03/23/48/0731027.jpg" group-title="2018",El Gran huracan Categoria 5 (2018)
 http://vod.tuxchannel.tv/peliculas/720/the%20hurricane%20heist.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/18/03/08/16/05/4885266.jpg" group-title="2018",El Grinch (2018)
+http://vod.tuxchannel.tv/peliculas/720/el%20grinch.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/707f28ab1ce14a01e2dc9edf960fe3fb1d52535939ca083e0d93cee85f49f938._RI_V_TTW_.jpg" group-title="2018",El juego (2018)
 http://vod.tuxchannel.tv/peliculas/720/el%20juego.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/18/01/12/19/03/0319985.jpg" group-title="2018",El Pajaro Loco (2018)
@@ -2610,8 +2614,10 @@ http://vod.tuxchannel.tv/peliculas/720/12%20monkeys.mkv
 http://vod.tuxchannel.tv/peliculas/720/27%20dresses.mkv
 #EXTINF:-1 tvg-logo="http://img5.allocine.fr/acmedia/medias/nmedia/18/83/67/73/20645504.jpg" group-title="Peliculas Viejas",47 Ronin: La leyenda del samurai (2012)
 http://vod.tuxchannel.tv/peliculas/720/47%20ronin.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/15/10/23/15/52/275056.jpg" group-title="Peliculas Viejas",48 Horas (1982)
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/15/10/23/15/52/275056.jpg" group-title="Peliculas Viejas",48 horas (1982)
 http://vod.tuxchannel.tv/peliculas/720/48%20hrs.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/67/60/46/20085293.jpg" group-title="Peliculas Viejas",60 segundos (2000)
+http://vod.tuxchannel.tv/peliculas/720/gone%20in%2060%20seconds.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51RpZUzt8ZL._AC_.jpg" group-title="Peliculas Viejas",127 horas (2010)
 http://vod.tuxchannel.tv/peliculas/720/127%20hours.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/67/71/17/20027466.jpg" group-title="Peliculas Viejas",300 (2006)
@@ -3274,6 +3280,8 @@ http://vod.tuxchannel.tv/peliculas/720/ladrona%20de%20identidades.mkv
 http://vod.tuxchannel.tv/peliculas/720/sphere%201998.mkv
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/c_215_290/medias/nmedia/18/78/40/96/20433085.jpg" group-title="Peliculas Viejas",La fuerza de la ilusion (1992)
 http://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/79/17/11/20076369.jpg" group-title="Peliculas Viejas",Lagrimas del sol (2003)
+http://vod.tuxchannel.tv/peliculas/720/lagrimas%20del%20sol.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/68/98/64/20065349.jpg" group-title="Peliculas Viejas",La guerra de los mundos (2005)
 http://vod.tuxchannel.tv/peliculas/720/la%20guerra%20de%20los%20mundos.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/97/40/90/20527464.jpg" group-title="Peliculas Viejas",La hora del espanto: Noche de miedo (1985)
