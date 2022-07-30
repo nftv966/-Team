@@ -3148,8 +3148,6 @@ http://vod.tuxchannel.tv/peliculas/720/species.mkv
 http://vod.tuxchannel.tv/peliculas/720/e.t.%20the%20extra-terrestrial.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/70/38/37/20094227.jpg" group-title="Peliculas Viejas",Expediente 39 (2009)
 http://archive.org/download/www.cinepelis.club_20210422_0124/caso-39_1.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/02/12/15/14/218373.jpg" group-title="Peliculas Viejas",Exterminador del futuro (1984)
-http://vod.tuxchannel.tv/peliculas/720/terminator.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/71/71/54/20340396.jpg" group-title="Peliculas Viejas",Filadelfia (1993)
 http://vod.tuxchannel.tv/peliculas/720/philadelphia.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/05/27/11/42/575100.jpg" group-title="Peliculas Viejas",Footloose: Todos a bailar (1984)
@@ -3840,6 +3838,14 @@ http://vod.tuxchannel.tv/peliculas/720/taxi%20driver.mkv
 http://vod.tuxchannel.tv/peliculas/720/ted.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51aRWlB1+kL._SY445_.jpg" group-title="Peliculas Viejas",Temor primordial (1996)
 http://vod.tuxchannel.tv/peliculas/720/primal%20fear.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/02/12/15/14/218373.jpg" group-title="Peliculas Viejas",Terminator: Exterminador del futuro (1984)
+http://vod.tuxchannel.tv/peliculas/720/terminator.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/medias/nmedia/18/79/20/05/20340404.jpg" group-title="Peliculas Viejas",Terminator 2: El juicio final (1991)
+http://vod.tuxchannel.tv/peliculas/720/terminator%202%20el%20juicio%20final.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/79/19/79/20134033.jpg" group-title="Peliculas Viejas",Terminator 3: La rebelion de las maquinas (2003)
+http://vod.tuxchannel.tv/peliculas/720/terminator%203%20la%20rebelion%20de%20las%20maquinas.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/68/32/83/20245866.jpg" group-title="Peliculas Viejas",Terminator: La salvacion (2009)
+http://vod.tuxchannel.tv/peliculas/720/terminator%20la%20salvacion.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/92/08/09/20179556.jpg" group-title="Peliculas Viejas",Terror en Amityville: La morada del miedo (2005)
 http://vod.tuxchannel.tv/peliculas/720/the%20amityville%20horror.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/02/09/13/22/028575.jpg" group-title="Peliculas Viejas",Tesis (1996)
