@@ -3210,6 +3210,8 @@ http://vod.tuxchannel.tv/peliculas/720/hercules.mkv
 http://vod.tuxchannel.tv/peliculas/720/children%20of%20men.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/08/05/07/05/3012615.jpg" group-title="Peliculas Viejas",Historia sin fin (1984)
 http://vod.tuxchannel.tv/peliculas/720/the%20neverending%20story.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/05/05/11/16/132221.jpg" group-title="Peliculas Viejas",Hitch: Especialista en seduccion (2005)
+http://vod.tuxchannel.tv/peliculas/720/hitch.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/10/01/21/12/5480743.jpg" group-title="Peliculas Viejas",Hombre en llamas (2004)
 http://vod.tuxchannel.tv/peliculas/720/man%20on%20fire.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/06/20/11/52/053731.jpg" group-title="Peliculas Viejas",Hombres de negro (1997)
@@ -3238,6 +3240,8 @@ http://vod.tuxchannel.tv/peliculas/720/the%20departed.mkv
 http://vod.tuxchannel.tv/peliculas/720/inframundo.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/18/10/17/23/52/4529050.jpg" group-title="Peliculas Viejas",Inframundo: La evolucion (2006)
 http://vod.tuxchannel.tv/peliculas/720/inframundo%20la%20evolucion.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/53ec4c579d6530e6b36c87d2a3de5130bef6e9270e8fdb0badce64aa0c733e13._RI_V_TTW_.jpg" group-title="Peliculas Viejas",Inhala (2001)
+http://vod.tuxchannel.tv/peliculas/720/blow.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/73/02/93/19187686.jpg" group-title="Peliculas Viejas",Invictus (2009)
 http://vod.tuxchannel.tv/peliculas/720/invictus.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/14/03/13/13/28/496152.jpg" group-title="Peliculas Viejas",Impacto profundo (1998)
@@ -3734,8 +3738,12 @@ http://vod.tuxchannel.tv/peliculas/720/secretariat.mkv
 http://vod.tuxchannel.tv/peliculas/720/distrit%209.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81fK0LoXG4L._SY445_.jpg" group-title="Peliculas Viejas",Se dice de mi (2010)
 http://vod.tuxchannel.tv/peliculas/720/easy%20a.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/medias/nmedia/18/92/43/73/20199190.jpg" group-title="Peliculas Viejas",Seguridad nacional (2003)
+http://vod.tuxchannel.tv/peliculas/720/seguridad%20nacional.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/18/09/26/00/19/1273486.jpg" group-title="Peliculas Viejas",Se lo que hicieron el verano pasado (1997)
 http://vod.tuxchannel.tv/peliculas/720/i%20know%20what%20you%20did%20last%20summer.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/35/54/60/18869635.jpg" group-title="Peliculas Viejas",Serenity (2005)
+http://vod.tuxchannel.tv/peliculas/720/serenity.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/69/04/89/19757783.jpg" group-title="Peliculas Viejas",Seven (1995)
 http://vod.tuxchannel.tv/peliculas/720/seven.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/82/51/34/20085398.jpg" group-title="Peliculas Viejas",Shanghai Kid del Este al Oeste (2000)
