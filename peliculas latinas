@@ -8,8 +8,8 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/12/10/22/46/3336792.png" group-title="2022",4 mitades (2022)
 http://vod.tuxchannel.tv/peliculas/720/quattro%20meta%202022.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/29/09/30/4195544.jpg" group-title="2022",9 balas (2022)
-
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/29/09/30/4195544.jpg" group-title="2022",9 balas: A la fuga (2022)
+https://archive.org/download/9-balas-lat/9%20balas%20lat.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/04/27/21/58/0515920.jpg" group-title="2022",365 dias: Aquel dia (2022)
 https://archive.org/download/365-di-4s-2022.3gp/365-di4s-2022.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/22/01/13/16/27/4870001.jpg" group-title="2022",Agentes 355 (2022)
@@ -46,6 +46,8 @@ https://archive.org/download/c-4p-1t-4n-n-0v-4/C4p1t4n%20N0v4.mp4
 http://vod.tuxchannel.tv/peliculas/720/marry%20me%202022.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/05/02/10/26/0503492.jpg" group-title="2022",Chip y Dale: Al rescate (2022)
 http://vod.tuxchannel.tv/peliculas/720/chip%20n%20dale%20rescue%20rangers%202022.mkv
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/22/06/03/11/42/4944213.jpg" group-title="2022",Colision (2022)
+https://archive.org/download/colision-lat/colision%20lat.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/02/24/23/00/0894390.png" group-title="2022",Conspiración explosiva (2022)
 http://vod.tuxchannel.tv/peliculas/720/gasoline%20alley%202022.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/22/01/13/00/20/4238167.jpg" group-title="2022",Corazón de fuego (2022)
@@ -168,7 +170,7 @@ https://archive.org/download/la-octava-clausula_202205/la%20octava%20clausula.mp
 https://archive.org/download/las_aventuras_de_pil1/las_aventuras_de_pil%5B1%5D.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/03/10/17/41/3419317.jpg" group-title="2022",Laura Pausini: Un placer conocerte (2022)
 https://archive.org/download/un-pl-4c-3r-c-0n-0c-3rt-3/Un%20Pl4c3r%20C0n0c3rt3.mp4
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/9/w1280/fBx54LmKFshTENHjcTVtncVM7LO.jpg" group-title="2022",La venganza el profesor (2022)
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/9/w1280/fBx54LmKFshTENHjcTVtncVM7LO.jpg" group-title="2022",La venganza del profesor (2022)
 https://archive.org/download/4.pr-0f-3ss-0rs.v-3ng-4nc-3/4.pr0f3ss0rs.v3ng4nc3.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/25/11/42/3673828.jpg" group-title="2022",Lightyear (2022)
 http://vod.tuxchannel.tv/peliculas/720/lightyear%202022.mkv
