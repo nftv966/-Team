@@ -392,19 +392,6 @@ http://vods.tuxchannel.tv/series/biohackers/s_02_e_05.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/07/09/04/21/0700965.jpg" group-title="Biohackers T2",Cap. 06
 http://vods.tuxchannel.tv/series/biohackers/s_02_e_06.mkv
 
-#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/22/06/08/17/05/1271212.jpg" group-title="Black bird: Encerrado con el Diablo",Cap. 01
-https://archive.org/download/bl-4ck-81rd.-s-01-e-01.720p.-web.x-265-mi-nx/Bl4ck81rd.S01E01.720p.WEB.x265-MiNX.mkv
-#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/22/06/08/17/05/1271212.jpg" group-title="Black bird: Encerrado con el Diablo",Cap. 02
-https://archive.org/download/bl-4ck-81rd.-s-01-e-01.720p.-web.x-265-mi-nx/Bl4ck81rd.S01E02.720p.WEB.x265-MiNX.mkv
-#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/22/06/08/17/05/1271212.jpg" group-title="Black bird: Encerrado con el Diablo",Cap. 03
-https://archive.org/download/bl-4ck-81rd.-s-01-e-01.720p.-web.x-265-mi-nx/Bl4ck81rd.S01E03.720p.WEB.x265-MiNX.mkv
-#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/22/06/08/17/05/1271212.jpg" group-title="Black bird: Encerrado con el Diablo",Cap. 04
-https://archive.org/download/bl-4ck-81rd.-s-01-e-01.720p.-web.x-265-mi-nx/Bl4ck81rd.S01E04.720p.WEB.x265-MiNX.mkv
-#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/22/06/08/17/05/1271212.jpg" group-title="Black bird: Encerrado con el Diablo",Cap. 05
-https://archive.org/download/bl-4ck-81rd.-s-01-e-01.720p.-web.x-265-mi-nx/Bl4ck81rd.S01E05.720p.WEB.x265-MiNX.mkv
-#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/22/06/08/17/05/1271212.jpg" group-title="Black bird: Encerrado con el Diablo",Cap. 06
-https://archive.org/download/bl-4ck-81rd.-s-01-e-01.720p.-web.x-265-mi-nx/Bl4ck81rd.S01E06.720p.WEB.x265-MiNX.mkv
-
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/21/09/58/0668101.jpg" group-title="Black Summer",Cap. 01
 http://vods.tuxchannel.tv/series/black_summer/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/21/09/58/0668101.jpg" group-title="Black Summer",Cap. 02
@@ -804,6 +791,23 @@ http://vods.tuxchannel.tv/series/chicago_med/s_05_e_18.mkv
 http://vods.tuxchannel.tv/series/chicago_med/s_05_e_19.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/06/09/44/4000011.jpg" group-title="Chicago Med T5 (SUB)",Cap. 20
 http://vods.tuxchannel.tv/series/chicago_med/s_05_e_20.mkv
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/06/17/25/5742155.jpg" group-title="Chucky",Cap. 01
+https://archive.org/download/capitulo-08_202112/capitulo%2001.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/06/17/25/5742155.jpg" group-title="Chucky",Cap. 02
+https://archive.org/download/capitulo-08_202112/capitulo%2002.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/06/17/25/5742155.jpg" group-title="Chucky",Cap. 03
+https://archive.org/download/capitulo-08_202112/capitulo%2003.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/06/17/25/5742155.jpg" group-title="Chucky",Cap. 04
+https://archive.org/download/capitulo-08_202112/capitulo%2004.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/06/17/25/5742155.jpg" group-title="Chucky",Cap. 05
+https://archive.org/download/capitulo-08_202112/capitulo%2005.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/06/17/25/5742155.jpg" group-title="Chucky",Cap. 06
+https://archive.org/download/capitulo-08_202112/capitulo%2006.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/06/17/25/5742155.jpg" group-title="Chucky",Cap. 07
+https://archive.org/download/capitulo-08_202112/capitulo%2007.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/06/17/25/5742155.jpg" group-title="Chucky",Cap. 08
+https://archive.org/download/capitulo-08_202112/capitulo%2008.mp4
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/01/20/17/31/5372090.jpg" group-title="Ciudad invisible",Cap. 01
 http://vods.tuxchannel.tv/series/cidade_invisivel/s_01_e_01.mkv
@@ -1261,21 +1265,6 @@ http://vods.tuxchannel.tv/series/sweet_tooth/s_01_e_06.mkv
 http://vods.tuxchannel.tv/series/sweet_tooth/s_01_e_07.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/05/17/17/26/5007043.jpg" group-title="Dulcero: El niño ciervo",Cap. 08
 http://vods.tuxchannel.tv/series/sweet_tooth/s_01_e_08.mkv
-
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/08/03/03/41/3875442.png" group-title="Echoes: Dualidad",Cap. 01
-https://archive.org/download/3ch-035-s-01-e-05/3ch035S01E01.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/08/03/03/41/3875442.png" group-title="Echoes: Dualidad",Cap. 02
-https://archive.org/download/3ch-035-s-01-e-05/3ch035S01E02.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/08/03/03/41/3875442.png" group-title="Echoes: Dualidad",Cap. 03
-https://archive.org/download/3ch-035-s-01-e-05/3ch035S01E03.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/08/03/03/41/3875442.png" group-title="Echoes: Dualidad",Cap. 04
-https://archive.org/download/3ch-035-s-01-e-05/3ch035S01E04.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/08/03/03/41/3875442.png" group-title="Echoes: Dualidad",Cap. 05
-https://archive.org/download/3ch-035-s-01-e-05/3ch035S01E05.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/08/03/03/41/3875442.png" group-title="Echoes: Dualidad",Cap. 06
-https://archive.org/download/3ch-035-s-01-e-05/3ch035S01E06.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/08/03/03/41/3875442.png" group-title="Echoes: Dualidad",Cap. 07
-https://archive.org/download/3ch-035-s-01-e-05/3ch035S01E07.mkv
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/15/12/14/4946744.jpg" group-title="Eden",Cap. 01
 http://vods.tuxchannel.tv/series/eden/s_01_e_01.mkv
