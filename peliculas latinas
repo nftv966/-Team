@@ -264,6 +264,8 @@ http://vod.tuxchannel.tv/peliculas/720/moonfall%202022.mkv
 http://vod.tuxchannel.tv/peliculas/720/death%20on%20the%20nile%202022.mkv
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/static.rogerebert.com/uploads/movie/movie_poster/nights-end-2022/large_nights-end-poster-2022.jpeg" group-title="2022",Nights end (2022) SUB
 https://archive.org/download/n-1ghts-3nd/N1ght%E2%80%99s%203nd.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/07/22/18/00/0296668.jpg" group-title="2022",Nope: No mires (2022)
+https://archive.org/download/noe-no-no/NO-NO-NOE.mp4
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/8/w1280/kDC9Q3kiVaxrJijaGeZ8ZB2ZoiX.jpg" group-title="2022",Office invasion (2022)
 https://archive.org/download/0ffic-3-inv-4si-0n-2022/0ffic3-inv4si0n-2022.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/09/11/13/0551516.jpg" group-title="2022",One Shot: Mision de rescate (2022)
@@ -857,8 +859,6 @@ http://vod.tuxchannel.tv/peliculas/720/no%20sudden%20move%202021.mkv
 http://vod.tuxchannel.tv/peliculas/720/night%20of%20the%20animated%20dead%202021.mkv
 #EXTINF:-1 tvg-logo="https://amariemagazine.com/wp-content/uploads/2021/05/Poster-No-Es-Lo-Que-Parece-Copy.png" group-title="2021",No es lo que parece (2021)
 http://vod.tuxchannel.tv:80/peliculas/720/no%20es%20lo%20que%20parece%202021.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/07/22/18/00/0296668.jpg" group-title="2021",Nope: No mires (2021)
-https://archive.org/download/noe-no-no/NO-NO-NOE.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/07/08/18/19/1303273.jpg" group-title="2021",No Respires 2 (2021)
 http://vod.tuxchannel.tv:80/peliculas/720/dont%20breathe%202.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/07/16/16/50/5318260.jpg" group-title="2021",No se puede huir del amor (2021)
