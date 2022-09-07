@@ -30,6 +30,8 @@ http://vod.tuxchannel.tv/peliculas/720/american%20siege%202022.mkv
 http://vod.tuxchannel.tv/peliculas/720/blasted%202022.mkv
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/22/01/19/17/00/5182594.jpg" group-title="2022",Amor com fetiche (2022)
 http://vod.tuxchannel.tv/peliculas/720/love%20and%20leashes%202022.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/8c7bd2bcffc3b7aa98c4bdd0b177204724c3ed6a3618001a29fac92e3a36703c._RI_V_TTW_.jpg" group-title="2022",Amor redentor (2022)
+http://vod.tuxchannel.tv/peliculas/720/redeeming%20love%202022.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/16/12/44/0138242.jpg" group-title="2022",Animales Fantasticos: Los secretos de Dumbledore (2022)
 http://vod.tuxchannel.tv/peliculas/720/fantastic%20beasts%20the%20secrets%20of%20dumbledore%202022.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/22/04/06/02/36/2924051.jpg" group-title="2022",Asesino sin memoria (2022)
@@ -733,8 +735,6 @@ http://vod.tuxchannel.tv/peliculas/720/finch%202021.mkv
 http://vod.tuxchannel.tv/peliculas/720/flora%20and%20ulysses%202021.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/21/14/16/4911264.jpg" group-title="2021",Forever Rich (2021)
 http://vod.tuxchannel.tv/peliculas/720/forever%20rich%202021.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/18/12/02/4141304.jpg" group-title="2021",Fortress (2021)
-http://vod.tuxchannel.tv/peliculas/720/fortress%202021.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/21/10/08/02/04/1848784.jpg" group-title="2021",Found (2021)
 http://vod.tuxchannel.tv/peliculas/720/found%202021.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/14/11/47/2960546.jpg" group-title="2021",Free Guy (2021)
@@ -823,6 +823,8 @@ http://vod.tuxchannel.tv/peliculas/720/the%20dig%202021.mkv
 http://vod.tuxchannel.tv/peliculas/720/the%20addams%20family%202%202021.mkv
 #EXTINF:-1 tvg-logo="https://decine21.com/img/upload/obras/la-felicidad-es-para-siempre-44674/src/la-felicidad-es-para-siempre-44674-c.jpg" group-title="2021",La felicidad es para siempre (2021)
 http://vod.tuxchannel.tv/peliculas/720/happiness%20ever%20after%202021.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/18/12/02/4141304.jpg" group-title="2021",La fortaleza (2021)
+http://vod.tuxchannel.tv/peliculas/720/fortress%202021.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/07/26/11/36/1142261.jpg" group-title="2021",La furia de la montaña (2021)
 https://archive.org/download/tm-862855-la-montana-hd/tm862855_LA_%20Monta%C3%B1a_HD.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/05/26/17/45/4238572.jpg" group-title="2021",La guerra del mañana (2021)
