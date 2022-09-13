@@ -1272,6 +1272,27 @@ http://vods.tuxchannel.tv/series/cursed/s_01_e_09.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/05/07/16/03/4883751.jpg" group-title="Cursed: Maldita",Cap. 10
 http://vods.tuxchannel.tv/series/cursed/s_01_e_10.mkv
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/02/16/20/59/1258687.jpg" group-title="Dale gas",Cap. 01
+https://archive.org/download/01_20220317_20220317_2036/01.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/02/16/20/59/1258687.jpg" group-title="Dale gas",Cap. 02
+https://archive.org/download/01_20220317_20220317_2036/02.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/02/16/20/59/1258687.jpg" group-title="Dale gas",Cap. 03
+https://archive.org/download/01_20220317_20220317_2036/03.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/02/16/20/59/1258687.jpg" group-title="Dale gas",Cap. 04
+https://archive.org/download/01_20220317_20220317_2036/04.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/02/16/20/59/1258687.jpg" group-title="Dale gas",Cap. 05
+https://archive.org/download/01_20220317_20220317_2036/05.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/02/16/20/59/1258687.jpg" group-title="Dale gas",Cap. 06
+https://archive.org/download/09_20220317_20220317_2051/06.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/02/16/20/59/1258687.jpg" group-title="Dale gas",Cap. 07
+https://archive.org/download/09_20220317_20220317_2051/07.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/02/16/20/59/1258687.jpg" group-title="Dale gas",Cap. 08
+https://archive.org/download/09_20220317_20220317_2051/08.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/02/16/20/59/1258687.jpg" group-title="Dale gas",Cap. 09
+https://archive.org/download/09_20220317_20220317_2051/09.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/02/16/20/59/1258687.jpg" group-title="Dale gas",Cap. 10
+https://archive.org/download/09_20220317_20220317_2051/10.mp4
+
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/20/11/25/16/34/5110082.png" group-title="De brutas nada T1",Cap. 01
 http://vods.tuxchannel.tv/series/de_brutas_nada/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/20/11/25/16/34/5110082.png" group-title="De brutas nada T1",Cap. 02
