@@ -1276,6 +1276,23 @@ http://vods.tuxchannel.tv/series/de_brutas_nada/s_02_e_10.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/11/25/16/34/2440612.jpg" group-title="De brutas nada T2",Cap. 11
 http://vods.tuxchannel.tv/series/de_brutas_nada/s_02_e_11.mkv
 
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/26/11/01/5920224.jpg" group-title="Defender a Jacob",Cap. 01
+https://archive.org/download/01_20220416_20220416_1808/01.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/26/11/01/5920224.jpg" group-title="Defender a Jacob",Cap. 02
+https://archive.org/download/01_20220416_20220416_1808/02.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/26/11/01/5920224.jpg" group-title="Defender a Jacob",Cap. 03
+https://archive.org/download/01_20220416_20220416_1808/03.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/26/11/01/5920224.jpg" group-title="Defender a Jacob",Cap. 04
+https://archive.org/download/01_20220416_20220416_1808/04.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/26/11/01/5920224.jpg" group-title="Defender a Jacob",Cap. 05
+https://archive.org/download/01_20220416_20220416_1808/05.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/26/11/01/5920224.jpg" group-title="Defender a Jacob",Cap. 06
+https://archive.org/download/01_20220416_20220416_1808/06.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/26/11/01/5920224.jpg" group-title="Defender a Jacob",Cap. 07
+https://archive.org/download/01_20220416_20220416_1808/07.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/26/11/01/5920224.jpg" group-title="Defender a Jacob",Cap. 08
+https://archive.org/download/01_20220416_20220416_1808/08.mp4
+
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/02/19/10/18/5666647.jpg" group-title="Detras de sus ojos",Cap. 01
 http://vods.tuxchannel.tv/series/behind_her_eyes/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/02/19/10/18/5666647.jpg" group-title="Detras de sus ojos",Cap. 02
@@ -3106,7 +3123,7 @@ https://archive.org/download/h-4l-0-s-01e-03/H4l0%20s01e03.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/02/21/20/10/2589351.jpg" group-title="Halo",Cap. 04
 https://archive.org/download/h-4l-0-s-01e-04/H4l0%20S01e04.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/02/21/20/10/2589351.jpg" group-title="Halo",Cap. 05
-https://archive.org/download/h-4l-0-s-01e-05/H4l0%20S01e05.mp4
+https://archive.org/download/05_20220421_202204/05.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/02/21/20/10/2589351.jpg" group-title="Halo",Cap. 06
 https://archive.org/download/06_20220428_20220428/06.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/02/21/20/10/2589351.jpg" group-title="Halo",Cap. 07
