@@ -1900,6 +1900,19 @@ http://vods.tuxchannel.tv/series/the_spy/s_01_e_05.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/29/09/26/0358813.jpg" group-title="El espia",Cap. 06
 http://vods.tuxchannel.tv/series/the_spy/s_01_e_06.mkv
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/18/15/02/3440092.jpg" group-title="Elfos",Cap. 01
+https://archive.org/download/03_20211221_20211221_2218/01.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/18/15/02/3440092.jpg" group-title="Elfos",Cap. 02
+https://archive.org/download/03_20211221_20211221_2218/02.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/18/15/02/3440092.jpg" group-title="Elfos",Cap. 03
+https://archive.org/download/03_20211221_20211221_2218/03.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/18/15/02/3440092.jpg" group-title="Elfos",Cap. 04
+https://archive.org/download/03_20211221_20211221_2218/04.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/18/15/02/3440092.jpg" group-title="Elfos",Cap. 05
+https://archive.org/download/03_20211221_20211221_2218/05.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/18/15/02/3440092.jpg" group-title="Elfos",Cap. 06
+https://archive.org/download/03_20211221_20211221_2218/06.mp4
+
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/10/21/09/14/3490701.jpg" group-title="El hombre en el castillo T1",Cap. 01
 http://vods.tuxchannel.tv/series/the_man_in_the_high_castle/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/10/21/09/14/3490701.jpg" group-title="El hombre en el castillo T1",Cap. 02
