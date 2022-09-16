@@ -156,6 +156,8 @@ http://vods.tuxchannel.tv/series/alta_mar/s_02_e_07.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/30/09/35/2360521.jpg" group-title="Alta mar T2",Cap. 08
 http://vods.tuxchannel.tv/series/alta_mar/s_02_e_08.mkv
 
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/22/02/18/11/01/1107447.jpg" group-title="Amsterdam",TRAILER
+https://archive.org/download/trailer-4mst-3rd-4m-1/trailer%204mst3rd4m%201.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/22/02/18/11/01/1107447.jpg" group-title="Amsterdam",Cap. 01
 https://archive.org/download/02_20220323_202203/01.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/22/02/18/11/01/1107447.jpg" group-title="Amsterdam",Cap. 02
