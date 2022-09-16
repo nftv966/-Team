@@ -211,6 +211,8 @@ http://vods.tuxchannel.tv/series/anne_with_an_e/s_01_e_06.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/04/04/23/18/233693.jpg" group-title="Anne con E T1",Cap. 07
 http://vods.tuxchannel.tv/series/anne_with_an_e/s_01_e_07.mkv
 
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/18/06/18/14/50/4868875.jpg" group-title="Anne con E T2",TRAILER
+https://archive.org/download/trailer-4nn-3-c-0n-3-1/trailer%204nn3%20c0n%203%202.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/18/06/18/14/50/4868875.jpg" group-title="Anne con E T2",Cap. 01
 http://vods.tuxchannel.tv/series/anne_with_an_e/s_02_e_01.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/18/06/18/14/50/4868875.jpg" group-title="Anne con E T2",Cap. 02
@@ -232,6 +234,8 @@ http://vods.tuxchannel.tv/series/anne_with_an_e/s_02_e_09.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/18/06/18/14/50/4868875.jpg" group-title="Anne con E T2",Cap. 10
 http://vods.tuxchannel.tv/series/anne_with_an_e/s_02_e_10.mkv
 
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/r_1280_720/pictures/19/11/26/09/09/3170699.jpg" group-title="Anne con E T3",TRAILER
+https://archive.org/download/trailer-4nn-3-c-0n-3-1/trailer%204nn3%20c0n%203%203.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/r_1280_720/pictures/19/11/26/09/09/3170699.jpg" group-title="Anne con E T3",Cap. 01
 http://vods.tuxchannel.tv/series/anne_with_an_e/s_03_e_01.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/r_1280_720/pictures/19/11/26/09/09/3170699.jpg" group-title="Anne con E T3",Cap. 02
