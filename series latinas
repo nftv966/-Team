@@ -635,6 +635,8 @@ http://vods.tuxchannel.tv/series/capitani/s_01_e_11.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/07/05/11/32/1611911.jpg" group-title="Capitani",Cap. 12
 http://vods.tuxchannel.tv/series/capitani/s_01_e_12.mkv
 
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Carnival Row",TRAILER
+https://archive.org/download/trailer-c-4rn-1v-4l-r-0w/trailer%20C4rn1v4l%20R0w.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/04/09/24/5860359.jpg" group-title="Carnival Row",Cap. 01
 http://vods.tuxchannel.tv/series/carnival_row/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/04/09/24/5860359.jpg" group-title="Carnival Row",Cap. 02
