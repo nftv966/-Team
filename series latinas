@@ -1740,6 +1740,8 @@ http://vods.tuxchannel.tv/series/eden/s_01_e_03.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/15/12/14/4946744.jpg" group-title="Eden",Cap. 04
 http://vods.tuxchannel.tv/series/eden/s_01_e_04.mkv
 
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="El arbol familiar de los Croods",TRAILER
+https://archive.org/download/trailer-3l-4rb-0l-f-4m-1l-14r-d-3-lo-5-cr-00d-5/trailer%203l%204rb0l%20f4m1l14r%20d3%20lo5%20cr00d5.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/21/09/13/05/29/1034230.jpg" group-title="El arbol familiar de los Croods",Cap. 01
 https://archive.org/download/04_20211128_20211128_2351/01.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/21/09/13/05/29/1034230.jpg" group-title="El arbol familiar de los Croods",Cap. 02
@@ -1753,6 +1755,8 @@ https://archive.org/download/04_20211128_20211128_2351/05.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/21/09/13/05/29/1034230.jpg" group-title="El arbol familiar de los Croods",Cap. 06
 https://archive.org/download/04_20211128_20211128_2351/06.mp4
 
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="El baile de las luciernagas",TRAILER
+https://archive.org/download/trailer-3l-b-41l-3-d-3-l-45-luc-13rn-4g-45/trailer%203l%20b41l3%20d3%20l45%20luc13rn4g45.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/12/07/10/43/5566051.jpg" group-title="El baile de las luciernagas",Cap. 01
 http://vods.tuxchannel.tv/series/firefly_lane/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/12/07/10/43/5566051.jpg" group-title="El baile de las luciernagas",Cap. 02
@@ -1773,6 +1777,8 @@ http://vods.tuxchannel.tv/series/firefly_lane/s_01_e_08.mkv
 http://vods.tuxchannel.tv/series/firefly_lane/s_01_e_09.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/12/07/10/43/5566051.jpg" group-title="El baile de las luciernagas",Cap. 10
 http://vods.tuxchannel.tv/series/firefly_lane/s_01_e_10.mkv
+
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="El barco T1",TRAILER
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/82/43/74/20314258.jpg" group-title="El barco T1",Cap. 01
 http://vods.tuxchannel.tv/series/el_barco/s_01_e_01.mkv
