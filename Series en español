@@ -1986,7 +1986,7 @@ http://vods.tuxchannel.tv/series/el_presidente/s_01_e_07.mkv
 http://vods.tuxchannel.tv/series/el_presidente/s_01_e_08.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="El Dragón: El regreso de un guerrero T1",TRAILER
-
+https://archive.org/download/trailer-3l-dr-4g-0n-1/trailer%203l%20Dr4g0n%201.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/03/21/06/5107032.jpg" group-title="El Dragón: El regreso de un guerrero T1",Cap. 01
 http://vods.tuxchannel.tv/series/el_dragon/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/03/21/06/5107032.jpg" group-title="El Dragón: El regreso de un guerrero T1",Cap. 02
@@ -2153,6 +2153,8 @@ http://vods.tuxchannel.tv/series/el_dragon/s_02_e_43.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/19/10/03/21/14/4288632.jpg" group-title="El Dragón: El regreso de un guerrero T2",Cap. 44
 http://vods.tuxchannel.tv/series/el_dragon/s_02_e_44.mkv
 
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="El elegido",TRAILER
+https://archive.org/download/trailer-3l-3l-3g-1d-0/trailer%203l%203l3g1d0.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/06/13/15/50/2243615.jpg" group-title="El elegido",Cap. 01
 http://vods.tuxchannel.tv/series/o_escolhido/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/06/13/15/50/2243615.jpg" group-title="El elegido",Cap. 02
@@ -2166,6 +2168,8 @@ http://vods.tuxchannel.tv/series/o_escolhido/s_01_e_05.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/06/13/15/50/2243615.jpg" group-title="El elegido",Cap. 06
 http://vods.tuxchannel.tv/series/o_escolhido/s_01_e_06.mkv
 
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="El Embarcadero",TRAILER
+https://archive.org/download/trailer-3l-3mb-4rc-4d-3r-0/trailer%203l%203mb4rc4d3r0.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/12/05/12/17/0603267.jpg" group-title="El Embarcadero",Cap. 01
 http://vods.tuxchannel.tv/series/el_embarcadero/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/12/05/12/17/0603267.jpg" group-title="El Embarcadero",Cap. 02
@@ -2182,6 +2186,8 @@ http://vods.tuxchannel.tv/series/el_embarcadero/s_01_e_06.mkv
 http://vods.tuxchannel.tv/series/el_embarcadero/s_01_e_07.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/12/05/12/17/0603267.jpg" group-title="El Embarcadero",Cap. 08
 http://vods.tuxchannel.tv/series/el_embarcadero/s_01_e_08.mkv
+
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="El espia",TRAILER
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/29/09/26/0358813.jpg" group-title="El espia",Cap. 01
 http://vods.tuxchannel.tv/series/the_spy/s_01_e_01.mkv
