@@ -2497,7 +2497,7 @@ http://vods.tuxchannel.tv/series/young_wallander/s_01_e_05.mkv
 http://vods.tuxchannel.tv/series/young_wallander/s_01_e_06.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="El juego de las llaves T1",TRAILER
-
+https://archive.org/download/trailer-3l-ju-3g-0-d-3-l-45-ll-4v-35-1/trailer%203l%20Ju3g0%20d3%20l45%20Ll4v35%20%201.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/08/30/05/46/1670961.jpg" group-title="El juego de las llaves T1",Cap. 01
 http://vods.tuxchannel.tv/series/el_juego_de_las_llaves/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/08/30/05/46/1670961.jpg" group-title="El juego de las llaves T1",Cap. 02
@@ -2519,6 +2519,8 @@ http://vods.tuxchannel.tv/series/el_juego_de_las_llaves/s_01_e_09.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/08/30/05/46/1670961.jpg" group-title="El juego de las llaves T1",Cap. 10
 http://vods.tuxchannel.tv/series/el_juego_de_las_llaves/s_01_e_10.mkv
 
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="El juego de las llaves T2",TRAILER
+https://archive.org/download/trailer-3l-ju-3g-0-d-3-l-45-ll-4v-35-1/trailer%203l%20Ju3g0%20d3%20l45%20Ll4v35%20%202.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/08/10/20/11/3796912.jpg" group-title="El juego de las llaves T2",Cap. 01
 https://archive.org/download/08_20211125_20211125/01.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/08/10/20/11/3796912.jpg" group-title="El juego de las llaves T2",Cap. 02
@@ -2536,6 +2538,8 @@ https://archive.org/download/08_20211125_20211125/07.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/08/10/20/11/3796912.jpg" group-title="El juego de las llaves T2",Cap. 08
 https://archive.org/download/08_20211125_20211125/08.mp4
 
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="El juego del calamar",TRAILER
+https://archive.org/download/trailer-3l-ju-3g-0-d-3l-c-4l-4m-4r/trailer%203l%20ju3g0%20d3l%20c4l4m4r.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="El juego del calamar",Cap. 01
 http://vods.tuxchannel.tv/series/el_juego_del_calamar/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="El juego del calamar",Cap. 02
@@ -2555,6 +2559,8 @@ http://vods.tuxchannel.tv/series/el_juego_del_calamar/s_01_e_08.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="El juego del calamar",Cap. 09
 http://vods.tuxchannel.tv/series/el_juego_del_calamar/s_01_e_09.mkv
 
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="El juicio",TRAILER
+https://archive.org/download/trailer-3l-ju-1c-10/trailer%203l%20ju1c10.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/04/08/18/50/5591284.jpg" group-title="El juicio",Cap. 01
 http://vods.tuxchannel.tv/series/il_processo/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/04/08/18/50/5591284.jpg" group-title="El juicio",Cap. 02
@@ -2571,6 +2577,8 @@ http://vods.tuxchannel.tv/series/il_processo/s_01_e_06.mkv
 http://vods.tuxchannel.tv/series/il_processo/s_01_e_07.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/04/08/18/50/5591284.jpg" group-title="El juicio",Cap. 08
 http://vods.tuxchannel.tv/series/il_processo/s_01_e_08.mkv
+
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="El legado de Jupiter",TRAILER
 
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/04/07/10/26/5189851.jpg" group-title="El legado de Jupiter",Cap. 01
 http://vods.tuxchannel.tv/series/jupiters_legacy/s_01_e_01.mkv
