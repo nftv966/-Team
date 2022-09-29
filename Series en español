@@ -2733,7 +2733,7 @@ http://vods.tuxchannel.tv/series/el_reino/s_01_e_07.mkv
 http://vods.tuxchannel.tv/series/el_reino/s_01_e_08.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="El robo del siglo",TRAILER
-
+https://archive.org/download/trailer-3l-r-0b-0-d-3l-s-1gl-0/trailer%203l%20r0b0%20d3l%20s1gl0.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/08/09/01/46/4136909.jpg" group-title="El robo del siglo",Cap. 01
 http://vods.tuxchannel.tv/series/el_robo_del_siglo/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/08/09/01/46/4136909.jpg" group-title="El robo del siglo",Cap. 02
@@ -2747,6 +2747,8 @@ http://vods.tuxchannel.tv/series/el_robo_del_siglo/s_01_e_05.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/08/09/01/46/4136909.jpg" group-title="El robo del siglo",Cap. 06
 http://vods.tuxchannel.tv/series/el_robo_del_siglo/s_01_e_06.mkv
 
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="El señor de los anillos: Los anillos de poder",TRAILER
+https://archive.org/download/trailer-3l-s-3n-0r-d-3-l-0s-4n-1ll-05/trailer%203l%20s3n0r%20d3%20l0s%204n1ll05.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/02/15/16/01/2694773.jpg" group-title="El señor de los anillos: Los anillos de poder",Cap. 01
 http://vods.tuxchannel.tv/series/lord_of_the_rings_the_rings_of_power/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/02/15/16/01/2694773.jpg" group-title="El señor de los anillos: Los anillos de poder",Cap. 02
@@ -2758,6 +2760,8 @@ https://archive.org/download/04_20220916_20220916/04.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/02/15/16/01/2694773.jpg" group-title="El señor de los anillos: Los anillos de poder",Cap. 05
 https://archive.org/download/05_20220923_20220923_1924/05.mp4
 
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="El tercer día",TRAILER
+https://archive.org/download/trailer-3l-t-3rc-3r-d-14/trailer%203l%20t3rc3r%20d14.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/09/15/09/27/2231334.jpg" group-title="El tercer día",Cap. 01
 http://vods.tuxchannel.tv/series/the_third_day/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/09/15/09/27/2231334.jpg" group-title="El tercer día",Cap. 02
@@ -2770,6 +2774,8 @@ http://vods.tuxchannel.tv/series/the_third_day/s_01_e_04.mkv
 http://vods.tuxchannel.tv/series/the_third_day/s_01_e_05.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/09/15/09/27/2231334.jpg" group-title="El tercer día",Cap. 06
 http://vods.tuxchannel.tv/series/the_third_day/s_01_e_06.mkv
+
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="El tiempo que te doy",TRAILER
 
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/09/28/12/47/0075355.jpg" group-title="El tiempo que te doy",Cap. 01
 https://archive.org/download/04_20211029_20211029/01.mp4
