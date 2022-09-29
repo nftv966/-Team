@@ -3060,7 +3060,7 @@ https://archive.org/download/th-3.-cr-3w.-01307_202102/Th3.Cr3w.%2401309.mp4
 https://archive.org/download/th-3.-cr-3w.-01307_202102/Th3.Cr3w.%2401310.mp4
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Entrenador de elite",TRAILER
-
+https://archive.org/download/trailer-3ntr-3n-4d-0r-d-3-3l-1t-3/trailer%203ntr3n4d0r%20d3%203l1t3.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/r_1280_720/pictures/21/02/25/11/30/3596237.jpg" group-title="Entrenador de elite",Cap. 01
 https://archive.org/download/10_20210714_20210714_0916/01.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/r_1280_720/pictures/21/02/25/11/30/3596237.jpg" group-title="Entrenador de elite",Cap. 02
@@ -3082,6 +3082,8 @@ https://archive.org/download/10_20210714_20210714_0916/09.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/r_1280_720/pictures/21/02/25/11/30/3596237.jpg" group-title="Entrenador de elite",Cap. 10
 https://archive.org/download/10_20210714_20210714_0916/10.mp4
 
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Equinox",TRAILER
+https://archive.org/download/trailer-3qu-1n-0x/trailer%203qu1n0x.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/11/23/09/17/3207462.jpg" group-title="Equinox",Cap. 01
 http://vods.tuxchannel.tv/series/equinox/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/11/23/09/17/3207462.jpg" group-title="Equinox",Cap. 02
@@ -3095,6 +3097,8 @@ http://vods.tuxchannel.tv/series/equinox/s_01_e_05.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/11/23/09/17/3207462.jpg" group-title="Equinox",Cap. 06
 http://vods.tuxchannel.tv/series/equinox/s_01_e_06.mkv
 
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Escuela para señoritas de Al Rawabi",TRAILER
+https://archive.org/download/trailer-4l-r-4w-4bi/trailer%204l%20r4w4bi.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/21/05/11/13/40/0212404.jpg" group-title="Escuela para señoritas de Al Rawabi",Cap. 01
 http://vods.tuxchannel.tv/series/alrawabi_school_for_girls/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/21/05/11/13/40/0212404.jpg" group-title="Escuela para señoritas de Al Rawabi",Cap. 02
@@ -3107,6 +3111,8 @@ http://vods.tuxchannel.tv/series/alrawabi_school_for_girls/s_01_e_04.mkv
 http://vods.tuxchannel.tv/series/alrawabi_school_for_girls/s_01_e_05.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/21/05/11/13/40/0212404.jpg" group-title="Escuela para señoritas de Al Rawabi",Cap. 06
 http://vods.tuxchannel.tv/series/alrawabi_school_for_girls/s_01_e_06.mkv
+
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Esta mierda me supera",TRAILER
 
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/02/10/17/30/1901472.jpg" group-title="Esta mierda me supera",Cap. 01
 http://vods.tuxchannel.tv/series/i_am_not_okay_with_this/s_01_e_01.mkv
