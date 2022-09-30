@@ -3933,7 +3933,7 @@ http://vods.tuxchannel.tv/series/harina/s_01_e_07.mkv
 http://vods.tuxchannel.tv/series/harina/s_01_e_08.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Harlots: Cortesanas T1",TRAILER
-
+https://archive.org/download/trailer-h-4rl-0t-5/trailer%20H4rl0t5.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/03/13/13/27/096268.jpg" group-title="Harlots: Cortesanas T1",Cap. 01
 http://vods.tuxchannel.tv/series/harlots/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/03/13/13/27/096268.jpg" group-title="Harlots: Cortesanas T1",Cap. 02
@@ -3968,6 +3968,8 @@ http://vods.tuxchannel.tv/series/harlots/s_02_e_07.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/18/07/03/17/50/1867844.jpg" group-title="Harlots: Cortesanas T2",Cap. 08
 http://vods.tuxchannel.tv/series/harlots/s_02_e_08.mkv
 
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Hawkeye: Ojo del Halcon",TRAILER
+https://archive.org/download/trailer-h-4-wk-3-y-3/trailer%20H4WK3Y3.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/10/26/09/18/2137099.jpg" group-title="Hawkeye: Ojo del Halcon",Cap. 01
 http://vods.tuxchannel.tv/series/hawkeye/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/10/26/09/18/2137099.jpg" group-title="Hawkeye: Ojo del Halcon",Cap. 02
@@ -3978,6 +3980,8 @@ http://vods.tuxchannel.tv/series/hawkeye/s_01_e_03.mkv
 http://vods.tuxchannel.tv/series/hawkeye/s_01_e_04.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/10/26/09/18/2137099.jpg" group-title="Hawkeye: Ojo del Halcon",Cap. 05
 http://vods.tuxchannel.tv/series/hawkeye/s_01_e_05.mkv
+
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Haunted: Al borde de la realidad T1",TRAILER
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/10/11/09/56/5101329.jpg" group-title="Haunted: Al borde de la realidad T1",Cap. 01
 http://vods.tuxchannel.tv/series/haunted/s_01_e_01.mkv
