@@ -3857,7 +3857,7 @@ http://vods.tuxchannel.tv/series/hache/s_02_e_05.mkv
 http://vods.tuxchannel.tv/series/hache/s_02_e_06.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Halo",TRAILER
-
+https://archive.org/download/trailer-h-4-l-0/trailer%20H4L0.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/02/21/20/10/2589351.jpg" group-title="Halo",Cap. 01
 https://archive.org/download/01_20220411/01.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/02/21/20/10/2589351.jpg" group-title="Halo",Cap. 02
@@ -3877,6 +3877,8 @@ https://archive.org/download/08_20220512_20220512/08.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/02/21/20/10/2589351.jpg" group-title="Halo",Cap. 09
 https://archive.org/download/09_20220519_20220519_2149/09.mp4
 
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Hanna T1",TRAILER
+https://archive.org/download/trailer-h-4-nn-4/trailer%20H4NN4.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/11/08/21/00/3193634.jpg" group-title="Hanna T1",Cap. 01
 http://vods.tuxchannel.tv/series/hanna/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/11/08/21/00/3193634.jpg" group-title="Hanna T1",Cap. 02
@@ -3911,6 +3913,8 @@ http://vods.tuxchannel.tv/series/hanna/s_02_e_07.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/06/17/10/29/3350749.jpg" group-title="Hanna T2",Cap. 08
 http://vods.tuxchannel.tv/series/hanna/s_02_e_08.mkv
 
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Harina",TRAILER
+https://archive.org/download/trailer-h-4r-1n-4/trailer%20H4r1n4.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/22/03/17/02/29/1603105.jpg" group-title="Harina",Cap. 01
 http://vods.tuxchannel.tv/series/harina/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/22/03/17/02/29/1603105.jpg" group-title="Harina",Cap. 02
@@ -3928,38 +3932,40 @@ http://vods.tuxchannel.tv/series/harina/s_01_e_07.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/22/03/17/02/29/1603105.jpg" group-title="Harina",Cap. 08
 http://vods.tuxchannel.tv/series/harina/s_01_e_08.mkv
 
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/03/13/13/27/096268.jpg" group-title="Harlots: Rameras T1",Cap. 01
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Harlots: Cortesanas T1",TRAILER
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/03/13/13/27/096268.jpg" group-title="Harlots: Cortesanas T1",Cap. 01
 http://vods.tuxchannel.tv/series/harlots/s_01_e_01.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/03/13/13/27/096268.jpg" group-title="Harlots: Rameras T1",Cap. 02
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/03/13/13/27/096268.jpg" group-title="Harlots: Cortesanas T1",Cap. 02
 http://vods.tuxchannel.tv/series/harlots/s_01_e_02.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/03/13/13/27/096268.jpg" group-title="Harlots: Rameras T1",Cap. 03
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/03/13/13/27/096268.jpg" group-title="Harlots: Cortesanas T1",Cap. 03
 http://vods.tuxchannel.tv/series/harlots/s_01_e_03.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/03/13/13/27/096268.jpg" group-title="Harlots: Rameras T1",Cap. 04
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/03/13/13/27/096268.jpg" group-title="Harlots: Cortesanas T1",Cap. 04
 http://vods.tuxchannel.tv/series/harlots/s_01_e_04.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/03/13/13/27/096268.jpg" group-title="Harlots: Rameras T1",Cap. 05
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/03/13/13/27/096268.jpg" group-title="Harlots: Cortesanas T1",Cap. 05
 http://vods.tuxchannel.tv/series/harlots/s_01_e_05.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/03/13/13/27/096268.jpg" group-title="Harlots: Rameras T1",Cap. 06
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/03/13/13/27/096268.jpg" group-title="Harlots: Cortesanas T1",Cap. 06
 http://vods.tuxchannel.tv/series/harlots/s_01_e_06.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/03/13/13/27/096268.jpg" group-title="Harlots: Rameras T1",Cap. 07
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/03/13/13/27/096268.jpg" group-title="Harlots: Cortesanas T1",Cap. 07
 http://vods.tuxchannel.tv/series/harlots/s_01_e_07.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/03/13/13/27/096268.jpg" group-title="Harlots: Rameras T1",Cap. 08
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/03/13/13/27/096268.jpg" group-title="Harlots: Cortesanas T1",Cap. 08
 http://vods.tuxchannel.tv/series/harlots/s_01_e_08.mkv
 
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/18/07/03/17/50/1867844.jpg" group-title="Harlots: Rameras T2",Cap. 01
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/18/07/03/17/50/1867844.jpg" group-title="Harlots: Cortesanas T2",Cap. 01
 http://vods.tuxchannel.tv/series/harlots/s_02_e_01.mkv
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/18/07/03/17/50/1867844.jpg" group-title="Harlots: Rameras T2",Cap. 02
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/18/07/03/17/50/1867844.jpg" group-title="Harlots: Cortesanas T2",Cap. 02
 http://vods.tuxchannel.tv/series/harlots/s_02_e_02.mkv
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/18/07/03/17/50/1867844.jpg" group-title="Harlots: Rameras T2",Cap. 03
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/18/07/03/17/50/1867844.jpg" group-title="Harlots: Cortesanas T2",Cap. 03
 http://vods.tuxchannel.tv/series/harlots/s_02_e_03.mkv
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/18/07/03/17/50/1867844.jpg" group-title="Harlots: Rameras T2",Cap. 04
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/18/07/03/17/50/1867844.jpg" group-title="Harlots: Cortesanas T2",Cap. 04
 http://vods.tuxchannel.tv/series/harlots/s_02_e_04.mkv
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/18/07/03/17/50/1867844.jpg" group-title="Harlots: Rameras T2",Cap. 05
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/18/07/03/17/50/1867844.jpg" group-title="Harlots: Cortesanas T2",Cap. 05
 http://vods.tuxchannel.tv/series/harlots/s_02_e_05.mkv
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/18/07/03/17/50/1867844.jpg" group-title="Harlots: Rameras T2",Cap. 06
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/18/07/03/17/50/1867844.jpg" group-title="Harlots: Cortesanas T2",Cap. 06
 http://vods.tuxchannel.tv/series/harlots/s_02_e_06.mkv
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/18/07/03/17/50/1867844.jpg" group-title="Harlots: Rameras T2",Cap. 07
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/18/07/03/17/50/1867844.jpg" group-title="Harlots: Cortesanas T2",Cap. 07
 http://vods.tuxchannel.tv/series/harlots/s_02_e_07.mkv
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/18/07/03/17/50/1867844.jpg" group-title="Harlots: Rameras T2",Cap. 08
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/18/07/03/17/50/1867844.jpg" group-title="Harlots: Cortesanas T2",Cap. 08
 http://vods.tuxchannel.tv/series/harlots/s_02_e_08.mkv
 
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/10/26/09/18/2137099.jpg" group-title="Hawkeye: Ojo del Halcon",Cap. 01
