@@ -3327,7 +3327,7 @@ http://vods.tuxchannel.tv/series/fleabag/s_02_e_05.mkv
 http://vods.tuxchannel.tv/series/fleabag/s_02_e_06.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Freud",TRAILER
-
+https://archive.org/download/trailer-fr-3ud/trailer%20Fr3ud.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/02/17/16/50/3993307.jpg" group-title="Freud",Cap. 01
 http://vods.tuxchannel.tv/series/freud/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/02/17/16/50/3993307.jpg" group-title="Freud",Cap. 02
@@ -3344,6 +3344,8 @@ http://vods.tuxchannel.tv/series/freud/s_01_e_06.mkv
 http://vods.tuxchannel.tv/series/freud/s_01_e_07.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/02/17/16/50/3993307.jpg" group-title="Freud",Cap. 08
 http://vods.tuxchannel.tv/series/freud/s_01_e_08.mkv
+
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Fringe: Al limite T1",TRAILER
 
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/17/01/17/19/53/105278.jpg" group-title="Fringe: Al limite T1",Cap. 01
 http://vods.tuxchannel.tv/series/fringe/s_01_e_01.mkv
@@ -8205,6 +8207,27 @@ http://vods.tuxchannel.tv/series/tiny_pretty_things/s_01_e_08.mkv
 http://vods.tuxchannel.tv/series/tiny_pretty_things/s_01_e_09.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/c_310_420/pictures/20/11/17/08/26/0053300.jpg" group-title="Tiny Pretty Things",Cap. 10
 http://vods.tuxchannel.tv/series/tiny_pretty_things/s_01_e_10.mkv
+
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/09/25/10/23/1847069.jpg" group-title="Treadstone",Cap. 01
+http://vods.tuxchannel.tv/series/treadstone/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/09/25/10/23/1847069.jpg" group-title="Treadstone",Cap. 02
+http://vods.tuxchannel.tv/series/treadstone/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/09/25/10/23/1847069.jpg" group-title="Treadstone",Cap. 03
+http://vods.tuxchannel.tv/series/treadstone/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/09/25/10/23/1847069.jpg" group-title="Treadstone",Cap. 04
+http://vods.tuxchannel.tv/series/treadstone/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/09/25/10/23/1847069.jpg" group-title="Treadstone",Cap. 05
+http://vods.tuxchannel.tv/series/treadstone/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/09/25/10/23/1847069.jpg" group-title="Treadstone",Cap. 06
+http://vods.tuxchannel.tv/series/treadstone/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/09/25/10/23/1847069.jpg" group-title="Treadstone",Cap. 07
+http://vods.tuxchannel.tv/series/treadstone/s_01_e_07.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/09/25/10/23/1847069.jpg" group-title="Treadstone",Cap. 08
+http://vods.tuxchannel.tv/series/treadstone/s_01_e_08.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/09/25/10/23/1847069.jpg" group-title="Treadstone",Cap. 09
+http://vods.tuxchannel.tv/series/treadstone/s_01_e_09.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/09/25/10/23/1847069.jpg" group-title="Treadstone",Cap. 10
+http://vods.tuxchannel.tv/series/treadstone/s_01_e_10.mkv
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/25/09/13/5815126.jpg" group-title="Tribunal de menores",Cap. 01
 https://archive.org/download/01.3gp_202203/01.mp4
