@@ -2751,6 +2751,21 @@ http://vods.tuxchannel.tv/series/el_marginal/s_03_e_04.mkv
 #EXTINF:-1 tvg-logo="https://shahed4u.vip/wp-content/uploads/2021/07/5e1369ac92fb7-384x550.png" group-title="El marginal T3",Cap. 05
 http://vods.tuxchannel.tv/series/el_marginal/s_03_e_05.mkv
 
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="El refugio",TRAILER
+https://archive.org/download/trailer-3l-r-3fug-10/trailer%203l%20R3fug10.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/05/23/04/24/0969386.jpg" group-title="El refugio",Cap. 01
+https://archive.org/download/el.-refugio.-1x-01.-dual.-1080p-lat/El.Refugio.1x01.Dual.1080p-lat.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/05/23/04/24/0969386.jpg" group-title="El refugio",Cap. 02
+https://archive.org/download/el.-refugio.-1x-02.-dual.-1080p-lat/El.Refugio.1x02.Dual.1080p-lat.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/05/23/04/24/0969386.jpg" group-title="El refugio",Cap. 03
+https://archive.org/download/el.-refugio.-1x-03.-dual.-1080p-lat/El.Refugio.1x03.Dual.1080p-lat.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/05/23/04/24/0969386.jpg" group-title="El refugio",Cap. 04
+https://archive.org/download/el.-refugio.-1x-04.-dual.-1080p-lat/El.Refugio.1x04.Dual.1080p-lat.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/05/23/04/24/0969386.jpg" group-title="El refugio",Cap. 05
+https://archive.org/download/el.-refugio.-1x-05.-dual.-1080p-lat/El.Refugio.1x05.Dual.1080p-lat.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/05/23/04/24/0969386.jpg" group-title="El refugio",Cap. 06
+https://archive.org/download/el.-refugio.-1x-06.-dual.-1080p-lat/El.Refugio.1x06.Dual.1080p-lat.mp4
+
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="El Reino",TRAILER
 https://archive.org/download/trailer-3l-r-31n-0_202209/trailer%203l%20R31n0.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/04/12/14/4668713.jpg" group-title="El Reino",Cap. 01
@@ -4800,7 +4815,7 @@ https://archive.org/download/01_20220701_20220701_1602/05.mp4
 https://archive.org/download/01_20220701_20220701_1602/06.mp4
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="La chica de Plainville",TRAILER
-
+https://archive.org/download/trailer-l-4-ch-1c-4-d-3-pl-41nv-1ll-3/trailer%20L4%20ch1c4%20d3%20Pl41nv1ll3.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/05/24/12/07/2336237.jpg" group-title="La chica de Plainville",Cap. 01
 http://vods.tuxchannel.tv/series/the_girl_from_plainville/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/05/24/12/07/2336237.jpg" group-title="La chica de Plainville",Cap. 02
@@ -4817,6 +4832,8 @@ http://vods.tuxchannel.tv/series/the_girl_from_plainville/s_01_e_06.mkv
 http://vods.tuxchannel.tv/series/the_girl_from_plainville/s_01_e_07.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/05/24/12/07/2336237.jpg" group-title="La chica de Plainville",Cap. 08
 http://vods.tuxchannel.tv/series/the_girl_from_plainville/s_01_e_08.mkv
+
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="La brea",TRAILER
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/07/22/21/40/0426261.jpg" group-title="La brea",Cap. 01
 https://archive.org/download/capitulo-10_20220316/capitulo%2001.mp4
