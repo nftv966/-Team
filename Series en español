@@ -4623,7 +4623,7 @@ http://vods.tuxchannel.tv/series/killing_eve/s_02_e_07.mkv
 http://vods.tuxchannel.tv/series/killing_eve/s_02_e_08.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Knightfall: Templarios T1",TRAILER
-
+https://archive.org/download/trailer-kn-1ghtf-4ll/trailer%20Kn1ghtf4ll.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/17/06/08/12/28/237349.jpg" group-title="Knightfall: Templarios T1",Cap. 01
 http://vods.tuxchannel.tv/series/knightfall/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/17/06/08/12/28/237349.jpg" group-title="Knightfall: Templarios T1",Cap. 02
@@ -4662,6 +4662,8 @@ http://vods.tuxchannel.tv/series/knightfall/s_02_e_07.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/05/09/59/1759325.jpg" group-title="Knightfall: Templarios T2",Cap. 08
 http://vods.tuxchannel.tv/series/knightfall/s_02_e_08.mkv
 
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Kung Fu Panda: El caballero dragon",TRAILER
+https://archive.org/download/trailer-kung-fu-p-4nd-4/trailer%20Kung%20Fu%20P4nd4.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/06/21/18/19/1080159.jpg" group-title="Kung Fu Panda: El caballero dragon",Cap. 01
 https://archive.org/download/3_20220716_20220716/1.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/06/21/18/19/1080159.jpg" group-title="Kung Fu Panda: El caballero dragon",Cap. 02
@@ -4685,6 +4687,8 @@ https://archive.org/download/3_20220716_20220716/10.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/06/21/18/19/1080159.jpg" group-title="Kung Fu Panda: El caballero dragon",Cap. 11
 https://archive.org/download/3_20220716_20220716/11.mp4
 
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="La casa de papel T1",TRAILER
+https://archive.org/download/trailer-l-4-c-454-d-3-p-4p-3l/trailer%20L4%20c454%20d3%20p4p3l.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/05/03/08/45/266320.jpg" group-title="La casa de papel T1",Cap. 01
 https://archive.org/download/cap-15_202102/LA%20CASA%20DE%20PAPEL/TEMP%201/CAP1.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/05/03/08/45/266320.jpg" group-title="La casa de papel T1",Cap. 02
@@ -4780,6 +4784,8 @@ https://archive.org/download/02_20210903_202109/04.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/21/08/02/16/52/0073822.jpg" group-title="La casa de papel T5 Vol 1",Cap. 05
 https://archive.org/download/02_20210903_202109/05.mp4
 
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="La casa de papel: Corea",TRAILER
+https://archive.org/download/trailer-l-4-c-454-d-3-p-4p-3l-c-0r-34/trailer%20L4%20c454%20d3%20p4p3l%20C0r34.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/05/04/11/24/3543271.jpg" group-title="La casa de papel: Corea",Cap. 01
 https://archive.org/download/01_20220701_20220701_1602/01.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/05/04/11/24/3543271.jpg" group-title="La casa de papel: Corea",Cap. 02
@@ -4792,6 +4798,8 @@ https://archive.org/download/01_20220701_20220701_1602/04.mp4
 https://archive.org/download/01_20220701_20220701_1602/05.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/05/04/11/24/3543271.jpg" group-title="La casa de papel: Corea",Cap. 06
 https://archive.org/download/01_20220701_20220701_1602/06.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="La chica de Plainville",TRAILER
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/05/24/12/07/2336237.jpg" group-title="La chica de Plainville",Cap. 01
 http://vods.tuxchannel.tv/series/the_girl_from_plainville/s_01_e_01.mkv
