@@ -4299,7 +4299,7 @@ https://archive.org/download/02_20211125_20211125/03.mp4
 https://archive.org/download/02_20211125_20211125/04.mp4
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Hit and Run: Tira y corre",TRAILER
-
+https://archive.org/download/trailer-h-1t-4nd-run/trailer%20H1t%204nd%20Run.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/03/13/48/2109207.jpg" group-title="Hit and Run: Tira y corre",Cap. 01
 http://vods.tuxchannel.tv/series/hit_and_run/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/03/13/48/2109207.jpg" group-title="Hit and Run: Tira y corre",Cap. 02
@@ -4318,6 +4318,8 @@ http://vods.tuxchannel.tv/series/hit_and_run/s_01_e_07.mkv
 http://vods.tuxchannel.tv/series/hit_and_run/s_01_e_08.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/03/13/48/2109207.jpg" group-title="Hit and Run: Tira y corre",Cap. 09
 http://vods.tuxchannel.tv/series/hit_and_run/s_01_e_09.mkv
+
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Hollywood",TRAILER
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/20/02/20/16/20/3885422.jpg" group-title="Hollywood",Cap. 01
 http://vods.tuxchannel.tv/series/hollywood/s_01_e_01.mkv
