@@ -5296,6 +5296,8 @@ https://archive.org/download/18_20211014/17.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/09/07/10/55/3375100.jpg" group-title="La venganza de las Juanas",Cap. 18
 https://archive.org/download/18_20211014/18.mp4
 
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="La serpiente",TRAILER
+https://archive.org/download/trailer-l-4-s-3rp-13nt-3/trailer%20L4%20S3rp13nt3.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51Ve+bdko8L._AC_.jpg" group-title="La serpiente",Cap. 01
 http://vods.tuxchannel.tv/series/the_serpent/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51Ve+bdko8L._AC_.jpg" group-title="La serpiente",Cap. 02
@@ -5313,6 +5315,8 @@ http://vods.tuxchannel.tv/series/the_serpent/s_01_e_07.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51Ve+bdko8L._AC_.jpg" group-title="La serpiente",Cap. 08
 http://vods.tuxchannel.tv/series/the_serpent/s_01_e_08.mkv
 
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="La templanza",TRAILER
+https://archive.org/download/trailer-l-4-t-3mpl-4nz-4/trailer%20L4%20T3mpl4nz4.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/21/02/25/11/22/1839178.jpg" group-title="La templanza",Cap. 01
 http://vods.tuxchannel.tv/series/la_templanza/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/21/02/25/11/22/1839178.jpg" group-title="La templanza",Cap. 02
@@ -5333,6 +5337,8 @@ http://vods.tuxchannel.tv/series/la_templanza/s_01_e_08.mkv
 http://vods.tuxchannel.tv/series/la_templanza/s_01_e_09.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/21/02/25/11/22/1839178.jpg" group-title="La templanza",Cap. 10
 http://vods.tuxchannel.tv/series/la_templanza/s_01_e_10.mkv
+
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Legacies T1",TRAILER
 
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/10/22/20/37/5254901.jpg" group-title="Legacies T1",Cap. 01
 http://vods.tuxchannel.tv/series/legacies/s_01_e_01.mkv
