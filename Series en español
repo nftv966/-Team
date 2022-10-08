@@ -813,6 +813,23 @@ http://vods.tuxchannel.tv/series/castle_rock/s_02_e_09.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/15/09/22/1126373.jpg" group-title="Castle Rock T2",Cap. 10
 http://vods.tuxchannel.tv/series/castle_rock/s_02_e_10.mkv
 
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/21/04/06/15/12/2953711.jpg" group-title="Cero",Cap. 01
+http://vods.tuxchannel.tv/series/zero/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/21/04/06/15/12/2953711.jpg" group-title="Cero",Cap. 02
+http://vods.tuxchannel.tv/series/zero/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/21/04/06/15/12/2953711.jpg" group-title="Cero",Cap. 03
+http://vods.tuxchannel.tv/series/zero/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/21/04/06/15/12/2953711.jpg" group-title="Cero",Cap. 04
+http://vods.tuxchannel.tv/series/zero/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/21/04/06/15/12/2953711.jpg" group-title="Cero",Cap. 05
+http://vods.tuxchannel.tv/series/zero/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/21/04/06/15/12/2953711.jpg" group-title="Cero",Cap. 06
+http://vods.tuxchannel.tv/series/zero/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/21/04/06/15/12/2953711.jpg" group-title="Cero",Cap. 07
+http://vods.tuxchannel.tv/series/zero/s_01_e_07.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/21/04/06/15/12/2953711.jpg" group-title="Cero",Cap. 08
+http://vods.tuxchannel.tv/series/zero/s_01_e_08.mkv
+
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Chambers",TRAILER
 https://archive.org/download/trailer-ch-4-mb-3-r-5/trailer%20CH4MB3R5.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/03/27/09/07/5066854.jpg" group-title="Chambers",Cap. 01
