@@ -4148,6 +4148,8 @@ https://archive.org/download/06_20220926/06.mp4
 https://archive.org/download/07_20221003/07.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/06/23/10/15/2869612.jpg" group-title="Game of Thrones: La casa del dragon",Cap. 08
 https://archive.org/download/08_20221010_20221010/08.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/06/23/10/15/2869612.jpg" group-title="Game of Thrones: La casa del dragon",Cap. 09
+https://archive.org/download/09_20221017_20221017/09.mp4
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Gangs of London T1",TRAILER
 https://archive.org/download/trailer-g-4ng-5-0f-l-0nd-0n/trailer%20G4ng5%200f%20l0nd0n.mp4
@@ -7429,10 +7431,6 @@ http://vods.tuxchannel.tv/series/see/s_03_e_01.mkv
 http://vods.tuxchannel.tv/series/see/s_03_e_02.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/22/07/25/10/10/3168545.jpg" group-title="See T3",Cap. 03
 http://vods.tuxchannel.tv/series/see/s_03_e_03.mkv
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/22/07/25/10/10/3168545.jpg" group-title="See T3",Cap. 04
-http://vods.tuxchannel.tv/series/see/s_03_e_04.mkv
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/22/07/25/10/10/3168545.jpg" group-title="See T3",Cap. 05
-http://vods.tuxchannel.tv/series/see/s_03_e_05.mkv
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/10/06/16/13/5645928.jpg" group-title="Selena T1",cap. 01
 http://vods.tuxchannel.tv/series/selena_the_series/s_01_e_01.mkv
