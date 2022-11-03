@@ -6,6 +6,11 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
+incompletas
+la periferia
+see t3
+
+
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="1883 (SUB)",TRAILER
 https://archive.org/download/trailer-1883/trailer%201883.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/09/13/13/4306267.jpg" group-title="1883 (SUB)",Cap. 01
@@ -5676,11 +5681,11 @@ http://vods.tuxchannel.tv/series/the_order/s_02_e_09.mkv
 http://vods.tuxchannel.tv/series/the_order/s_02_e_10.mkv
 
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/22/09/09/11/28/2882022.jpg" group-title="La periferia",Cap. 01
-https://archive.org/download/01_20221021_20221021_1504/01.mp4
+http://vods.tuxchannel.tv/series/the_peripheral/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/22/09/09/11/28/2882022.jpg" group-title="La periferia",Cap. 02
-https://archive.org/download/02_20221021_20221021_1859/02.mp4
+http://vods.tuxchannel.tv/series/the_peripheral/s_01_e_02.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/22/09/09/11/28/2882022.jpg" group-title="La periferia",Cap. 03
-https://archive.org/download/01_20221101_20221101_0132/01.mp4
+http://vods.tuxchannel.tv/series/the_peripheral/s_01_e_03.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="La rueda del tiempo",TRAILER
 https://archive.org/download/trailer-l-4-ru-3d-4-d-3l-t-13mp-0/trailer%20L4%20Ru3d4%20d3l%20T13mp0.mp4
